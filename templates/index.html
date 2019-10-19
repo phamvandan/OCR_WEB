@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<style>
 		html, 
 		body {
@@ -15,24 +16,10 @@
 			  padding: 4px;
 		}
 		</style>
-		<script type="text/javascript">
-			function saveEdits() {
-			//get the editable element
-			var editElem = document.getElementById("edit");
-			//get the edited element content
-			var userVersion = editElem.innerHTML;
-			//save the content to local storage
-			localStorage.userEdits = userVersion;
-			//write a confirmation to the user
-			document.getElementById("update").innerHTML="Edits saved!";
-}
-		</script>
 	</head>
 	<body>
-		<form method="post" action="/" enctype="multipart/form-data"> 
-			<!-- <input type="file" name="fileupload" value="fileupload" id="fileupload"> 
-			<label for="fileupload"> Select a file to upload</label> 
-			<input type="submit" value="submit">  -->
+		
+		<form method="post" action="/upload_file" enctype="multipart/form-data"> 
 			<dl>
 				<p>
 					<input type="file" name="file" autocomplete="off" required>
@@ -50,13 +37,22 @@
 						{{ text_ocr }}
 					<!-- </textarea> -->
 		</div>
-		<div class= "boxed" id="edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true">
+		<div class= "boxed" name="edit" id="edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true">
 				<!-- <textarea name="editor2" id="editor2" rows="53" cols="68"> -->
 				<!-- </textarea>	 -->
-				{{text_ocr}}
+				{{text_edit}}
 		</div>
-		<input type="button" value="save my edits" onclick="saveEdits()"/>
-		<div id="update"> - Edit the text and click to save for next time</div>
-
+		<form action="/saveFile" method="post">
+			<input class="btn-summit" type="submit" value="Save to Database"/>
+		</form>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$(".btn-summit").click(function(){
+					content = $("#edit").text();
+					alert(content);
+				});
+			});
+		</script>
 	</body>
 </html>

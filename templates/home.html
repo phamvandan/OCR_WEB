@@ -42,6 +42,9 @@
 				<input type="submit" value="Submit">
 			</p>
 		</form>
+		<div></div>
+		<input class="btn-summit" type="radio" value="1"/> 1
+		<input class="btn-summit" type="radio" value="2"/> 2
 		<!-- <div  style="width: 30%; float:left; height:600px; background:gray; margin:10px">
 			<embed src= {{ url_for('static', filename='uploads/37.pdf') }} type="application/pdf" width="100%" height="600px" />
 		</div>
@@ -58,5 +61,16 @@
 		<input type="button" value="save my edits" onclick="saveEdits()"/>
 		<div id="update"> - Edit the text and click to save for next time</div> -->
 
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$(".btn-summit").click(function(){
+					content = $(this).attr("value");
+					alert(content);
+				});
+			});
+		</script> -->
 	</body>
+
+	
 </html>

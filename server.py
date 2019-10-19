@@ -6,7 +6,7 @@ import os
 
 app = flask.Flask(__name__)
 
-UPLOAD_FOLDER = '/home/tranmanhdat/project/OCR_web/static/uploads/'
+UPLOAD_FOLDER = '/home/tranmanhdat/project/OCR_WEB/static/uploads/'
 ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
 
 app.config["DEBUG"] = True
@@ -37,7 +37,8 @@ def upload_file():
 			flash('File upload success')
 			# file_path = 'uploads/' + filename
 			text_ocr = ''
-			return render_template('index.html', file_name = filename ,text_ocr = text_ocr) 
+			text_edit = 'aaaa'
+			return render_template('index.html', file_name = filename ,text_ocr = text_ocr, text_edit=text_edit) 
 		else:
 			flash('Allowed file types are txt, pdf, png, jpg, jpeg, gif')
 			return redirect(request.url)
