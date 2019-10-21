@@ -15,18 +15,6 @@
 			  padding: 4px;
 		}
 		</style>
-		<script type="text/javascript">
-			function saveEdits() {
-			//get the editable element
-			var editElem = document.getElementById("edit");
-			//get the edited element content
-			var userVersion = editElem.innerHTML;
-			//save the content to local storage
-			localStorage.userEdits = userVersion;
-			//write a confirmation to the user
-			document.getElementById("update").innerHTML="Edits saved!";
-}
-		</script>
 	</head>
 	<body>
 		<form method="post" action="/" enctype="multipart/form-data"> 
@@ -42,34 +30,6 @@
 				<input type="submit" value="Submit">
 			</p>
 		</form>
-		<div></div>
-		<input class="btn-summit" type="radio" value="1"/> 1
-		<input class="btn-summit" type="radio" value="2"/> 2
-		<!-- <div  style="width: 30%; float:left; height:600px; background:gray; margin:10px">
-			<embed src= {{ url_for('static', filename='uploads/37.pdf') }} type="application/pdf" width="100%" height="600px" />
-		</div>
-		<div class="boxed" style="overflow: auto; width: 30%; float:left; height:590px; background:rgb(255, 255, 255); margin:10px">
-					 <textarea name="editor1" id="editor1" rows="53" cols="68"> -->
-						<!-- {{ text_ocr }}
-					</textarea> -->
-		<!-- </div>
-		<div class= "boxed" id="edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true">
-				<textarea name="editor2" id="editor2" rows="53" cols="68"> -->
-				<!-- </textarea>	 -->
-				<!-- {{text_ocr}}
-		</div>
-		<input type="button" value="save my edits" onclick="saveEdits()"/>
-		<div id="update"> - Edit the text and click to save for next time</div> -->
-
-		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$(".btn-summit").click(function(){
-					content = $(this).attr("value");
-					alert(content);
-				});
-			});
-		</script> -->
 	</body>
 
 	

@@ -12,23 +12,17 @@
 			font-size: 22px;
 		}
 		.boxed {
-			  border: 1px solid green ;
-			  padding: 4px;
+			border: 1px solid green ;
+			padding: 4px;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 22px;
 		}
 		</style>
 	</head>
 	<body>
-		
-		<form method="post" action="/upload_file" enctype="multipart/form-data"> 
-			<dl>
-				<p>
-					<input type="file" name="file" autocomplete="off" required>
-				</p>
-			</dl>
-			<p>
-				<input type="submit" value="Submit">
-			</p>
-		</form>
+		<p>
+			{{file_name}}
+		</p>
 		<div  style="width: 30%; float:left; height:600px; background:gray; margin:10px">
 			<embed src= {{ url_for('static', filename='uploads/'+ file_name ) }} type="application/pdf" width="100%" height="600px" />
 		</div>
@@ -37,15 +31,17 @@
 						{{ text_ocr }}
 					<!-- </textarea> -->
 		</div>
-		<div class= "boxed" name="edit" id="edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true">
-				<!-- <textarea name="editor2" id="editor2" rows="53" cols="68"> -->
-				<!-- </textarea>	 -->
+		
+		<form action="/saveFile/" method="post">
+			<!-- <div class= "boxed" type="text" name="text_edit" id="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
 				{{text_edit}}
-		</div>
-		<form action="/saveFile" method="post">
+			</div> -->
+			<textarea class="boxed" type="text" name="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
+				{{text_edit}}
+			</textarea>
 			<input class="btn-summit" type="submit" value="Save to Database"/>
 		</form>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function(){
 				$(".btn-summit").click(function(){
@@ -53,6 +49,6 @@
 					alert(content);
 				});
 			});
-		</script>
+		</script> -->
 	</body>
 </html>
