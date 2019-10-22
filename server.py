@@ -23,7 +23,10 @@ def allowed_file(filename):
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+	file_upload = []
+	for line in open("uploadedFile.txt","r+"):
+		file_upload.append(line)
+	return render_template('home.html', file_upload=file_upload)
 @app.route('/', methods=['POST'])
 def upload_file():
 	if request.method == 'POST' :
@@ -54,8 +57,8 @@ def upload_file():
 			currentFile = secure_filename(file.filename)
 			file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
 			current_folderPath = folder_files
-			print("Current ID "+str(currentId))
-			print("current folderPath "+current_folderPath)
+			# print("Current ID "+str(currentId))
+			# print("current folderPath "+current_folderPath)
 			file.save(file_path)
 			flash('File upload success')
 			text_ocr = preprocessFile("pdf", folder_files+"/", file.filename+".txt" )
@@ -68,11 +71,15 @@ def upload_file():
 def saveFile():
 	global currentFile, currentId, current_folderPath
 	text = request.form['text_edit']
-	print(current_folderPath+"aa")
-	print("current ID "+currentId)
+	# print(current_folderPath+"aa")
+	# print("current ID "+currentId)
 	f = open(os.path.join(current_folderPath,"corrected.txt"),"w+")
 	f.write(text)
 	f.close()
-	return render_template('home.html')
+	with open("uploadedFile.txt","a") as fin:
+		fin.writelines(currentFile+"\n")
+	with open(os.path.join(current_folderPath,"upLoadName.txt"),"w+") as fin:
+		fin.writelines(request.form['uploadPersonName'])
+	return redirect(url_for('home'))
 if __name__ == "__main__":
     app.run()
