@@ -20,22 +20,19 @@
 		</style>
 	</head>
 	<body>
+		<script>
+			$.url().param();
+		</script>
 		<p>
 			{{file_name}}
 		</p>
 		<div  style="width: 30%; float:left; height:600px; background:gray; margin:10px">
-			<embed src= {{ url_for('static', filename='uploads/'+ file_name ) }} type="application/pdf" width="100%" height="600px" />
+			<embed src= {{ url_for('static', filename='data/'+ file_name ) }} type="application/pdf" width="100%" height="600px" />
 		</div>
 		<div class="boxed" style="overflow: auto; width: 30%; float:left; height:590px; background:rgb(255, 255, 255); margin:10px">
-					<!-- <textarea name="editor1" id="editor1" rows="53" cols="68"> -->
 						{{ text_ocr }}
-					<!-- </textarea> -->
 		</div>
-		
 		<form action="/saveFile/" method="post">
-			<!-- <div class= "boxed" type="text" name="text_edit" id="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
-				{{text_edit}}
-			</div> -->
 			<textarea class="boxed" type="text" name="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
 				{{text_edit}}
 			</textarea>
@@ -43,14 +40,5 @@
 			<input class="text" type="text" name="uploadPersonName">
 			<input class="btn-summit" type="submit" value="Save to Database"/>
 		</form>
-		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$(".btn-summit").click(function(){
-					content = $("#edit").text();
-					alert(content);
-				});
-			});
-		</script> -->
 	</body>
 </html>

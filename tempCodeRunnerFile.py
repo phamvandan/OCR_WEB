@@ -1,0 +1,1 @@
+projectPath = '/home/trandat/project/OCR_WEB/'

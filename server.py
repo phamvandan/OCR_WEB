@@ -5,81 +5,54 @@ from werkzeug.utils import secure_filename
 import os
 from utils.supportFunc import preprocessFile
 import requests
+from pathlib import Path
 
 app = flask.Flask(__name__)
 
-UPLOAD_FOLDER = '/home/trandat/project/OCR_WEB/static/uploads'
-ALLOWED_EXTENSIONS = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
-currentId = ''
-currentFile = ''
-current_folderPath = ''
+staticPath = '/home/trandat/project/OCR_WEB/static'
+projectPath = '/home/trandat/project/OCR_WEB'
 app.config["DEBUG"] = True
-app.secret_key = "secret key"
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-app.config['MAX_CONTENT_LENGTH'] = 100 * 1024 * 1024
 
-def allowed_file(filename):
-	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+currentFile = ''
 
 @app.route('/')
 def home():
-	file_upload = []
-	for line in open("uploadedFile.txt","r+"):
-		file_upload.append(line)
-	return render_template('home.html', file_upload=file_upload)
-@app.route('/', methods=['POST'])
-def upload_file():
-	if request.method == 'POST' :
-        # check if the post request has the file part
-		if 'file' not in request.files:
-			flash('No file part')
-			return redirect(request.url)
-		file = request.files['file']
-		if file.filename == '':
-			flash('No file selected for uploading')
-			return redirect(request.url)
-		if file and allowed_file(file.filename):
-			f = open("currentID.txt","r")
-			global currentId, current_folderPath, currentFile
-			currentId = f.readline()
-			f.close()
-			f = open("currentID.txt","w")
-			f.writelines(str(int(currentId)+1))
-			f.close()
-			folder_files = os.path.join(app.config['UPLOAD_FOLDER'], str(currentId))
-			if not os.path.exists(folder_files):
-				try:
-					original_umask = os.umask(0)
-					os.makedirs(folder_files, mode=0x777, exist_ok=False)
-				finally:
-					os.umask(original_umask)
-			filename = currentId+"/"+secure_filename(file.filename)
-			currentFile = secure_filename(file.filename)
-			file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-			current_folderPath = folder_files
-			# print("Current ID "+str(currentId))
-			# print("current folderPath "+current_folderPath)
-			file.save(file_path)
-			flash('File upload success')
-			text_ocr = preprocessFile("pdf", folder_files+"/", file.filename+".txt" )
-			text_edit = text_ocr
-			return render_template('index.html', file_name = filename ,text_ocr = text_ocr, text_edit=text_edit) 
-		else:
-			flash('Allowed file types are txt, pdf, png, jpg, jpeg, gif')
-			return redirect(request.url)
+	dic = {}
+	files =[]
+	for r, _, f in os.walk(os.path.join(staticPath, "data")):
+		for file in f:
+			if file.__contains__("pdf"):
+				files.append(file)
+				with open(os.path.join(staticPath+'/data',os.path.join("state"+Path(os.path.join(r,file)).stem+".txt")),"r+" ) as fin:
+					x = fin.readline()
+					dic[file] = x
+	for file in files:
+		print(file+"\n")
+	return render_template('home.html', files=files, dic=dic)
 @app.route('/saveFile/', methods =['POST'])
 def saveFile():
-	global currentFile, currentId, current_folderPath
+	global currentFile
 	text = request.form['text_edit']
-	# print(current_folderPath+"aa")
-	# print("current ID "+currentId)
-	f = open(os.path.join(current_folderPath,"corrected.txt"),"w+")
-	f.write(text)
-	f.close()
-	with open("uploadedFile.txt","a") as fin:
-		fin.writelines(currentFile+"\n")
-	with open(os.path.join(current_folderPath,"upLoadName.txt"),"w+") as fin:
-		fin.writelines(request.form['uploadPersonName'])
+	persionName = request.form['uploadPersonName']
+	with open(os.path.join(staticPath,'OCR_edited', Path(currentFile).stem+".txt"),"w+") as f:	
+		f.write(text)
+	with open(os.path.join(staticPath+'/data',os.path.join("state"+Path(currentFile).stem+".txt")),"w+" ) as fin:
+		fin.write('Edited')
+	with open(os.path.join(projectPath,"historyEdit.txt"),"a+") as fin:
+		fin.write(persionName+"\t"+currentFile+"\n")
 	return redirect(url_for('home'))
+@app.route	('/editFile/<filename>', methods = ['POST', 'GET'])
+def editFile(filename):
+	global currentFile
+	currentFile =filename
+	fileName = Path(filename).stem + ".txt"
+	with open(os.path.join(staticPath,'OCR_origin', fileName),"r+") as f:
+		text_ocr = f.read()
+	print(os.path.join(staticPath,'OCR_origin', fileName))
+	with open(os.path.join(staticPath,'OCR_edited', fileName),"r+") as f:	
+		text_edit = f.read()
+	print(os.path.join(staticPath,'OCR_edited', fileName))
+	return render_template('index.html', file_name=filename, text_ocr=text_ocr, text_edit=text_edit)
 if __name__ == "__main__":
-    app.run()
+    # app.run(host='172.16.1.27',port=80)
+	app.run()

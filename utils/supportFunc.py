@@ -3,6 +3,7 @@ from utils.DetectTable import detectTable
 from utils.skew import skewImage
 from utils.handleTable import getTableCoordinate, retreiveTextFromTable
 from utils.PdfToImages import pdfToImage
+from pathlib import Path
 
 def handleFile(fileName,deblur=False,handleTableBasic=True,handleTableAdvance=False):
     """
@@ -100,3 +101,32 @@ def preprocessFile(fileType,folder,saveFileName):
     if result != "":
         saveResult(folder,saveFileName,result)
     return result
+def processPdfFile(folder_in, folder_out, folder_out_1):
+    fileType = "pdf"
+    for r, d, f in os.walk(folder_in):
+        for file in f:
+            if file.__contains__(fileType):
+                names = []
+                count = 0
+                result = ""
+                filename = os.path.join(r, file)
+                count = pdfToImage(filename, folder_in) ## convert to image
+                for k in range(1,count+1):
+                    names.append(str(k)+".jpg")
+                for filename in names:
+                    filename = os.path.join(folder_in, filename)
+                    if ".jpg" in filename:
+                        resultNotTable,resultTable = handleFile(filename,deblur=False,handleTableBasic=False,handleTableAdvance=False)
+                        result= result + (str(resultNotTable))
+                        k = 0
+                        for rs in resultTable:
+                            if k %4 == 0:
+                                result = result + "\n"
+                            result= result + (str(rs))+" "
+                            k = k+ 1
+                    if fileType == "pdf":
+                        os.remove(filename)
+                if result != "":
+                    saveResult(folder_out, Path(file).stem+".txt",result)
+                    saveResult(folder_out_1, Path(file).stem+".txt",result)
+                    saveResult(folder_in, "state"+Path(file).stem+".txt", "None")
