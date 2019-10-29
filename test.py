@@ -6,4 +6,4 @@ import os
 from utils.supportFunc import preprocessFile
 import requests
 
-text_ocr = preprocessFile("image", "/home/trandat/project/OCR_WEB/test" , "test.txt" )
+text_ocr = preprocessFile("pdf", "/home/trandat/project/OCR_WEB/test" , "test.txt" )

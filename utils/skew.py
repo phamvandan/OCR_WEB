@@ -93,9 +93,13 @@ def skewImage2(image):
 	return rotated
 
 def skewImage3(image):
-	newdata=pytesseract.image_to_osd(image)
-	angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
-	angle = int(angle)
+	try:
+		newdata=pytesseract.image_to_osd(image)
+		# newdata=pytesseract.image_to_string(image)
+		angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
+		angle = int(angle)
+	except:
+		angle=0
 	if angle==0:
 		return image,angle
 	return rotationImage(image,angle),angle

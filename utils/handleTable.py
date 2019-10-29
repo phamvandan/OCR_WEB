@@ -143,8 +143,8 @@ def retreiveTextFromTable(listResult,image):
     for cnt in listResult:
         x, y, w, h = cnt
         crop = image[y:y + h, x:x + w]
-        output_tesseract = pytesseract.image_to_string(crop,
-                                                lang='vie')
+        output_tesseract = pytesseract.image_to_string(crop,lang='vie')
+        # output_tesseract = pytesseract.image_to_string(crop,lang='vie')
         if output_tesseract == '':
                 continue
         results.append(output_tesseract)
