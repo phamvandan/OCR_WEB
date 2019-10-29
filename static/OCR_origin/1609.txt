@@ -1,0 +1,52 @@
+'VIỆN KH -CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 538/VCNTT-CNTT& TTM Hà Nội, ngày 03 tháng 12 năm 2018
+'V/v chạy thử kiểm tra phần mềm quản
+lý sản xuất tại Nhà máy Z129.
+
+Kính gửi: Nhà máy Z129 Tổng cục Công nghiệp quốc phòng.
+
+Căn cứ hợp đồng số 1698/2017/HĐTCXD/ CKCX29 - VCNTT ngày
+31/10/2017 giữa công ty TNHH Một thành viên Cơ khí chính xác 29 và Liên
+danh Viện Công nghệ thông tin và Công ty Cổ phần Điện tử tin học hóa chất
+(Flinco) về việc thực hiện gói thầu số 30 thuộc dự án ngòi đạn pháo: Thi công
+lắp đặt hệ thống quản lý sản xuất tại Nhà máy Z129 (Mạng LAN và thông tin;
+hệ thống camera giám sát sản xuất);
+
+Hiện nay Viện CNTT đã cơ bản hoàn thành thiết kế phần mềm Quản lý sản
+xuất. Để phục vụ triển khai chạy thử kiểm tra lần 1 cho phần mềm và cơ sở dữ
+liệu, Viên Công nghệ thông tin đề nghị Nhà máy Z129 bố trí 01 gian phòng,
+khoảng 12 m tại nhà điều hành hiện tại (nhà 31) để lắp đặt 01 máy chủ và kết
+nối mạng LAN tạm thời từ các phòng ban trong nhà 31 về máy chủ. Thời gian
+chạy thử là 06 tháng, bắt đầu từ tháng 12/2018
+
+Viện CNTT cam kết bảo mật các thông tin theo quy định, quá trình chạy
+thử phần mềm không làm ảnh hưởng đến các hoạt động điều hành hiện tại của
+Nhà máy. Mọi chỉ phí cho việc lắp đặt mạng LAN cho chạy thử do Viện CNTT
+đảm bảo.
+
+Danh sách các phòng ban của Nhà máy cần kết nối mạng LAN tới máy chủ
+để phục vụ chạy thử phần mềm theo Phụ lục đi kèm.
+
+Kính đề nghị Nhà máy Z129 tạo điều kiện giúp đỡ Viện./. “
+
+Nơi nhận: KT, VIỆN TRƯỞNG
+
+- Như trên; PHÓ VIỆN TRƯỞNG
+~ Lưu: VT, CNTT& TTM; H03. _—
+
+ 
+
+TEoơxg tá Đặng Thanh Quyền'hụ lục „
+NÓI MẠNG LAN TỚI MÁY CHỦ
+'& TTM ngày 03/12/2018 của Viện CNTT)
+'Văn thư Ban Vật Tư Phòng Hành chính - Hậu cần Phòng chính trị 
+Phòng KCS Phòng Cơ điện Phòng Cơ điện Phòng Kỹ thuật Công nghệ 
+Phòng Tài chính Phòng Tổ chức lao động Phòng Kế hoạch Kinh doanh. Tên phòng ban 
+VT BVT BIS B14 
+B12 BI B8 B4 
+B2 BI Mã 01 
+01 01 01 01 
+01 01 01 01 
+01 01 Số nút mạng 

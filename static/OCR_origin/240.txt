@@ -1,0 +1,141 @@
+VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: #32 /VCNTT-KTHT Hà Nội, ngày1Ätháng 7 năm 2016
+V/v xin thừ nghiệm khối BM-I
+do Viện CNTT sản xuất.
+
+Kính gửi: Cục Kỹ thuật/Quân chủng Hải quân.
+
+Căn cứ Quyết định số 328/QĐ-VKHCNQS ngày 23/03/2015 của Giám đốc
+Viện KH-CN quân sự về việc giao nhiệm vụ chế tạo vật tư kỹ thuật để BĐKT
+cho một số loại trang bị mới, công nghệ cao của QC HQ và QC PK-KQ năm
+2015; Hợp đồng số 709/2015/HĐ-CTVT ngày 03/6/2015 về việc chế tạo vật tư
+kỹ thuật cho một số loại trang bị mới, công nghệ cao năm 2015;
+
+Căn cứ kết quả thực hiện nhiệm vụ “Sản xuất khối tính toán ngoại vi BM-1
+thuộc hệ thống điều khiên bắn tên lửa Kh-35E trên tàu 1241.8”;
+
+Nhằm đánh giá thực tế sản phẩm của nhiệm vụ, Viện Công nghệ thông tin
+đã xây dựng kế hoạch thử nghiệm tại các đơn vị của Quân chủng Hải quân (Phụ
+lục kế hoạch và quy trình thử nghiệm được gửi kèm theo công văn này).
+
+'Viện Công nghệ thông tin để nghị Cục Kỹ thuậQuân chủng Hải quân cho
+phép tổ nhiệm vụ được tiến hành thử nghiệm khối BM-I như Kế hoạch và Quy
+trình kèm theo.
+
+Trân trọng đề nghị Thủ trưởng Cục Kỹ thuật quan tâm giải quyết...
+
+Nơi nhận EỆ
+~ Như trên;
+~ Phòng Quân khí/CKTHQ;
+CNNV;
+
+- Lưu VT, KH: xC05.Kế hoại
+(Kèm theo Công văn
+
+nghiệm thiết bị BM-1
+'ngày 44/7/2016 của Viện CNTT)
+
+1- KÉ HOẠCH THỬ NGHIỆM
+1. Thành phần tham gia thử nghiệm
+- Đại úy Dương Phú Tuấn, Viện CNTT/Viện KH-CNQ§S, Tổ trưởng
+- Đại úy Vũ Hoàng Anh, Viện CNTT/Viện KH-CNQS, Thành viên
+- Đại úy Phạm Xuân Công, Viện CNTT/Viện KH-CNQ§S, Thành viên
+- Đại úy Nguyễn Tuấn Anh, Viện CNTT/Viện KH-CNQS, Thành viên
+- Đại úy Nguyễn Minh Thường, Viện CNTT/Viện KH-CNQS, Thành viên
+- Đại úy Dương Mạnh Cường, Viện CNTT/Viện KH-CNQS, Thành viên
+
+“Thành phần khách mời tham gia:
+
+- Đại diện Phòng Kỹ thuật/Lữ đoàn 162/Vùng 4 Hải quân.
+
+- Đại diện Phòng Kỹ thuật/Vùng 4 Hải quân
+
+Chỉ huy tàu 1241.8
+
+ian: Dự kiến từ ngày 25/7/2016 đến 25/8/2016.
+
+3. Địa điểm: Lữ đoàn 162/ Vùng 4 Hải quân. (Tàu 376; Tàu 375 dự bị)
+
+4. Cơ quan phối hợp thực hiện: Phòng Kỹ thuật/Vùng 4 Hải quân; Lữ đoàn
+162/Vùng 4 Hải quân.
+
+   
+
+I- ĐẢM BẢO
+
+Tổ nhiệm vụ của Viện Công nghệ thông tin có trách nhiệm đảm bảo an toàn
+về người và thiết bị trong quá trình thử nghiệm. Nếu có hỏng hóc xảy ra do lỗi
+của tô nhiệm vụ, tổ nhiệm vụ có trách nhiệm khắc phục và hoàn trả nguyên
+trạng hệ thống KACY cho tàu.
+
+Đề nghị Lữ đoàn 162 và Phòng Kỹ thuậ/Vùng 4 Hải quân:
+- Trợ giúp phương tiện đưa đón và bố trí chỗ nghỉ cho đoàn thử nghiệm
+vào triển khai tại đơn vị.
+Điều động thiết bị giả đạn IR-60VN về một tàu 1241.8 để tiện cho công,
+tác thử nghiệm.
+
+ 
+
+ 
+
+II- QUY TRÌNH THỬ NGHIỆM KHI KHÔNG CÓ GIẢ ĐẠN IR-60VN
+
+Bước 1: Bật hệ thống KACY của tàu, vào chế độ “2K” để
+KACY, ghi nhận tình trạng KACY của tàu.
+
+Bàn giao tình trạng KACY của tàu ở chế độ “2K” hiện tại.
+
+Bước 2: Tắt hệ thống KACV. Thay thế khối sản phẩm BMI vào một trong
+
+  
+
+m tra tình trạng,bến tủ thiết bị KE1631 của tàu. Bật hệ thống KACYV, vào chế độ “2K để kiểm
+tra tình trạng KACV, ghi nhận tình trạng KACY hiện tại. Nếu thiết bị thay thế
+xây ra sự cố, hỏng hóc, tổ đề tài sẽ tiền hành khắc phục tại chỗ và tiếp tục thử
+nại
+
+ 
+
+Bước 3: Tắt hệ thống KACV. Tháo dỡ khối thiết bị BM-I của tổ nhiệm vụ
+và khôi phục lại khối thiết bị gốc của bệ máy KB16311.
+
+Bật hệ thống KACY, vào chế độ “2K” để kiểm tra tình trạng KACY, bàn
+giao tình trạng KACYV hiện tại.
+
+Bước 4: Kết thúc thử nghiệm, lập biên bản ghi nhận.
+
+ 
+
+IV- QUY TRÌNH THỬ NGHIỆM KHI CÓ GIẢ ĐẠN IR-60VN
+
+Bước 1: Bật hệ thống KACY của tàu, vào chế độ ““2K” để kiểm tra tình trạng,
+KACY, ghi nhận tình trạng KACY của tàu.
+ắ giả đạn tên lửa IR-60VN tại một vị trí bệ phóng. Bật
+KACY và tiến hành thực hiện các chế độ làm việc với giả đạn IR-60VN ở chế
+độ “OP”, “AB” nguồn sự cố; ghỉ nhận tình trạng hoạt động của KACY ở các
+chế độ này.
+
+Bàn giao tình trạng KACV của tàu ở hai chế độ "2K” và "OP" hiện tại
+
+Bước 3: Tắt hệ thông KACY. Thay thế khối sản phẩm BMI vào một trong
+bồn máy KB163TT của tàu (đang có kết nói với giả đạn IR-60VN). Bật hệ thông
+KACY, vào chế độ “2K” để kiểm tra tình trạng KACY, ghỉ nhận tình trạng
+KACY hiện tại. Nếu thiết bị thay thế xảy ra sự có, hỏng hóc, tổ đề tài sẽ tiến
+hành khắc phục tại chỗ và tiếp tục thử nghiệm.
+
+Bước 4: Bật KACY và tiên hành thực hiện các chế độ làm việc với giả đạn
+IR-60VN ở chế độ “OP”, “AB” nguồn sự cố; ghỉ nhận tình trạng hoạt động của
+KACY ở các chế độ này. Nếu thiết bị thay thể xây ra sự có, hỏng hóc, tô đề tài
+hành khắc phục tại chỗ và tiếp tục thử nghiệm.
+
+Bước 5: Tắt hệ thống KACV. Tháo dỡ khối thiết bị BM-I của tổ nhiệm vụ
+và khôi phục lại khối thiết bị gốc của bệ máy KB16311.
+
+Bật hệ thống KACY, vào chế độ “2K” và chế độ “OP” để kiểm tra tình trạng
+KACY, bàn giao tình trạng KACY hiện tại.
+
+Bước 6: Kết thúc thử nghiệm, lập biên bản ghỉ nhận.
+Chú ý: Các thao tác thực hiện đều tuân theo hướng dẫn của tài liệu và sự vận
+hành của trắc thủ./.

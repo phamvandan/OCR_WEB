@@ -1,0 +1,138 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 32/VCNTT-KH Hà Nội, ngày/2tháng 02 năm 2019
+'V/w xây dựng Kế hoạch chỉ tiêu sản lượng,
+ngân sách kỹ thuật năm 2020
+
+Kính gửi: Phòng Kỹ thuật.
+
+Căn cứ Công văn số: 07/KT ngày 15/02/2019 của Phòng Kỹ thuật/Viện
+KHCNGS về việc xây dựng Kế hoạch chỉ tiêu sản lượng, ngân sách kỹ thuật năm
+2020,
+
+Viện Công nghệ thông tin đã xây dựng kế hoạch chỉ tiêu sản lượng, ngân
+sách kỹ thuật năm 2020 như trong phụ lục kèm theo.
+
+'Kính chuyển Phòng Kỹ thuật xem xét./„ —
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; T03.
+
+Z2. 4 P* TRƯỜNG
+
+@
+
+      
+
+h Ế Đỗ Việt BìnhPhụ lục
+KÉ HOẠCH CHÍ TIÊU SẢN LƯỢNG, NGÂN SÁCH
+BẢO ĐẢM KỸ THUẬT NĂM 2020
+(Kèm theo công văn số: 8 2/VCNTT-KH ngày 28 tháng 02 năm 2019
+của Viện Công nghệ thông tin)
+L1 S/c máy phân tích logic Zeroplus Lab-B
+(70200X) S/c máy hiện sóng UT3102T Bảo quản TBKT: 
+ĐBKT viện, trường Nội dung Sản
+lượng Chiếc 
+Chiếc ĐVT 45,00 35,00 
+Ngân
+sách bảo
+đảm
+(riệu
+đẳng) - Phân tích logic nhiêu kênh.
+
+- Hỗ trợ tín hiệu 1 ngõ, ngưỡng điện áp,
+điều chỉnh khoảng -SV đến 5V.
+
+- Phân tích thời gian (lấy mẫu không
+đồng bộ).
+
+- Phân tích trang thái. Tính năng, Tác dụng - Bảng thông: 3Mhz,
+- Số kênh đo: 2 kênh;
+
+- Tốc độ lấy mẫu: 40ms/s;
+
+- Màn hình LCD;
+
+- Độ nhạy đầu vào: 20mV/div-
+500V/dìv; 
+Ghi chú - S/c bộ tổ hợp tần
+số. - S/c màn hình LCD.
+và 2 kênh vào. ¬ 
+110 S/c máy đếm tần số HP5384A. S/c bộ tổng hợp tần số AD9910/PCBZ. S/c máy hiện sóng TBS1 102 
+S/c máy hiện sóng OS 5100. S/c máy hàn IC 855T,855PG S/c máy hiện sóng TD S2022 Chiếc 
+Chiếc Chiếc Chiếc Chiếc 
+Chiếc 25,00 35,00 30,00 
+30,00 30,00 - Dải tần: 10Hz-225Mhz;
+
+ 
+
+- Nguồn: 220V VAC, 9-15DVC. - AD9910: 0-40MHz.
+
+- Sóng vuông: 0-1 MHz.
+
+- Dữ liệu đầu vào song song hoặc nối
+tiếp được lựa chọn thông qua một
+Jumper. 
+- Băng thông: 100Mhz,,
+- Số kênh đo: 2 kênh;
+
+- Tốc độ lấy mẫu: 2GSa/s;
+
+- Màn hình TFT WVGA 7 inch;
+- Giao tiếp: USB host 2.0.
+
+- USB device 2.0 kết nối PC. - Băng thông: 100Mhz;
+
+- Số kênh đo: 2 kênh,
+
+- Tự động điều chỉnh focus;
+- Điện áp vào max: 250V pp;
+- Nguồn: 220V VAC. - Lò sưởi gôm hông ngoại;
+
+- Công suất: 800W;
+
+- Khu vực tắm: 135x250mm;
+- Nhiệt đô: 50-350 độ C- - Băng thông: 200Mhz;,
+
+- Số kênh đo: 2 kênh;
+
+- Tốc độ lấy mẫu: 1,0 GS/s;
+- Màn hình LCD;
+
+- Giao tiếp: USB host 2.0
+
+- USB device 2.0 kết nối PC. 
+- S/c tổ hợp tần số
+và mạch nguồn. -S/c nguồn và bộ
+điều khiển. - S/c màn hình và
+bộ giao tiếp ngoại vi. - Thay màn hình;
+S/c nguồn và bộ tổ
+hợp tần số. 
+- S/c bộ tổ hợp tần
+số và lầy mẫu. - S/e màn hình và
+khối lấy mẫu. 
+1.17 112 Nghiệp vụ TMKT: Bảo quản, Bảo đưỡng, Sửa chữa. 
+Bảo quản, Bảo dưỡng, Sửa chữa. BĐKT Xe-máy BĐKT Xe-máy Nâng cập, đồng bộ máy chủ HP Intel
+Xeon 3.0Ghz 
+Nâng cấp, đồng bộ máy tính đê bàn S/c máy tính xách tay S/c máy đo điều chế tự động RF 257 S/c Thiết bị ghỉ EEPROM. 
+Bộ Chiếc 50,00 30/00 
+25,00 - Đo tự động tín hiệu điều chế AM, FM
+trong dải băng thông 1,SMHz-2GHz.
+
+- Dài FM chia 5 thang đo với độ lệch
+tần I, 3, 10,30 và 100kHz.
+
+- Dải AM chia 5 thang độ sâu điều chế
+1,3, 10, 30 và 100%. - Hỗ trợ 30.000 linh kiện từ 173 nhà
+sản xuất linh kiện.
+
+- Ghỉ chương trình tốc độ cao.
+
+- Giao điện: USB.
+
+- Kiểu Module: DIL48. - S/e mạch điều.
+khiển và giao tiếp
+ngoại vỉ 
+Nguồn, Ram "©chg hạ, 

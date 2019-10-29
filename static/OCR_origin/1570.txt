@@ -1,0 +1,281 @@
+VIÊN KH-CN QUẦN SỰ CỌNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập ~ Tự do - Hạnh phúc
+Số:5ÙỞ/VCNTT-KH Ộ Hà Nội, ngày,1ãtháng 4] năm 2018
+'V#ý kế hoạch thử nghiệm sản phẩm của đề tải
+cấp BQP. Mã số KC.T-22
+
+Kính gửi: Phòng TM-KH/Viện KH-CN quân sự.
+
+Căn cứ Quyết dịnh số 303/QĐ-BQP ngày 09 tháng 02 năm 2017 của Bộ
+trưởng Bộ Quốc phòng về việc phê duyệt kết quả xét duyệt thuyết minh, thâm
+định kinh phí đề tài thuộc Đề án KHCN mã số KC.T giai đoạn 2 mở năm 2016;
+
+Căn cứ Hợp đồng Khoa học và công nghệ số 1946/2017/HĐKHCN ký
+ngày 17 tháng 8 năm 2017 giữa Cục Khoa học quân sự/BQP, Ban chủ nhiệm Đề
+án KC.T với Viện Công nghệ thông tin'Viện KH-CNQS và Chủ nhiệm di
+
+Căn cứ Thuyết minh đã được xét duyệt của đề tải “Nghiên cứu thiết kế
+chế tạo thiết bị kiểm tra tình trạng kỹ thuật khói BMI của hệ thống tự dộng điều
+khiển phóng tên lửa trên tàu KACY 3P-60V2-1241.8”, (mã số KC.T-22),
+
+Hiện nay. Viện Công nghệ thông tỉn đã lắp ráp và thử nghiệm thiết bị
+kiểm tra khối BMI tại phòäg thí nghiệm. Viện đã xây dựng kế hoạch và quy
+trình tiến hành thử nghiệm thiết bị kiểm tra được gửi kèm theo công văn này.
+
+Viện Công nghệ thông tin để nghị Phòng TM-KII xem xét, báo cáo Giám
+đốc Viện KIICNQS có văn bản gửi Bộ Tư lệnh Quân chủng Hải quân chấp
+thuận và chỉ đạo các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ đoàn công,
+
+ 
+
+ 
+
+tác Viện Công nghệ thông tin hoàn thành nhiệm vụ.⁄„£ _
+
+Nơi nhận:
+~- Như trên:
+
+~_CNĐT (1 Phạm Xuân Công):
+~_ Lưu: VT,KH: H104.PHỤ LỤC
+Kế hoạch và Quy trình thử nghiệm Thiết bị kiếm tra khối BMI
+(Kèm theo Công văn số ®D9/VCNTT-KH ngày 13thángAJnăm 2018)
+I- KÉ HOẠCH THỨ NGHIỆM
+1. Thời gian, địa điểm
+-_ Dự kiến từ 15/12/2018 đến 15/01/2019.
+- _ Tại Lữ đoàn 162/Vùng 4 Hải quân.
+2. Thành phần
+a) Đơn vị thực hiện
+Tổ đề tài của Viện CNTT/Viện KH-CN quân sự chịu trách nhiệm triển
+khai thực hiện các nội dung. Danh sách cán bộ tham gia thử nghiệm:
+©_ Thiếu tá Phạm Xuân Công, Chủ nhiệm đề tài
+©_ Đại úy Dương Mạnh Cường, Thư ký đề tài
+©_ Thiếu tá Nguyễn Minh Thường, Thành viên đề tài
+©_ Thiếu tá Vũ Hoàng Anh, Thành viên đề tài
+Tổ đề tài chịu trách nhiệm toàn bộ về an toàn về người và thiết bị trong,
+quá trình thứ nghiệm tại đơn vị.
+b) Đánh giá kỹ thuật
+Viện Công nghệ thông tin kính mời đại diện các cơ quan tham gia đánh
+
+“(CÀ
+
+giá kết quả:
+Thủ trưởng Viện KHCNQS;
+Đại diện Phòng TM-KH/Viện KHCNQS;
+Đại diện Phòng KHKTQS/Cục KHQS/BQP;
+Đại diện Phòng Quân khí/Cục Kỹ thuậƯQCHQ;
+Đại diện Phòng Kỹ thuậƯBTL Vùng 4 Hải quân;
+Đại diện Phòng Kỹ thuậuLữ đoàn 162/BTI. Vùng 4 Hải quân;
+Thủ trưởng Lữ đoàn 162/BTL Vùng 4 Hải quân;
+Thủ trưởng Viện CNTT/Viện KHCNQS.
+e) Đơn vị phối hợp
+Kính đề nghị Phòng Quân khí/Cục Kỹ thuậ/QCHQ giúp đỡ vẻ thủ tục
+thực hiện và cử cán bộ tham gia giám sát quá trình thử nghiệm.
+Kính đề nghị Phòng Kỹ thuậƯ/BTL Vùng 4 Hải quân; Lữ đoàn 162/Vùng
+4 Hải quân phối hợp thực hiện quá trình thử nghiệm, xác nhận kết quả thử
+nghiệm và bố trí phương tiện đưa/đón đoàn thử nghiệm trong thời gian thực hiện
+tại đơn vị.
+
+øooooooo3. Nội dung thử nghiệm
+“Thử nghiệm chức năng hoạt động của thiết bị kiểm tra theo Quy trình:
+o_ Thử nghiệm các chức năng tự kiểm tra của thiết bị kiểm tra
+©_ Thử nghiệm chức năng kiểm tra với khối BMI
+©_ Thử nghiệm chức năng kiểm tra với các module card rời
+o_ Lập biên bản ghỉ nhận kết quả thử nghiệm.
+
+II- QUY TRÌNH THỬ NGHIỆM
+1. Các khái niệm/thuật ngữ chung
+
+Khối BMI "tốt": Khối BMI “tốt được hiểu là khối đang hoạt động bình
+thường trên hệ thống KACY của Phòng thí nghiệm hoặc trên tàu lớp 1241.8, ở
+tất cả các chế độ của KACY.
+
+Khối BMI "lỗï”: Khối BMI "lỗi" được hiểu là khối bị báo lỗi trên hệ
+thống KACY của Phòng thí nghiệm hoặc trên tàu lớp 1241.8 ở chế độ kiểm tra
+kỹ thuật (EK) hoặc chế độ làm việc chính (OP). Khối BMI “lỗi” cũng có thể
+được tạo thành bằng cách thay thể mộ: hoặc mộ: số module “lỗi” vào Khối BMI
+“tốt”.
+
+Module của BMI: được hiểu là các card bên trong BMI: CPU, MCO,
+TX1-MP, DI32-5, DO32-5, CTC5300.
+
+Aodule "Öổi”: là module bên trong BMI, bị báo lỗi trong chế độ kiểm tra
+kỹ thuật của KACY; hoặc là module tốt nhưng đã được rao lỗi ei động bởi
+chuyên gia.
+
+ 
+
+ 
+
+2. Đối tượng tiến hành thử nghiệm với Thiết bị kiểm tra
+Kiểm tra khối BMI của Viện CNTT chế tạo.
+Kiểm tra khối BMI “tốt” của một tàu lớp 1241.8.
+Kiêm tra khối BMI "lỗi".
+Các module rời của BMI: CPU, TX1-MP, DI32, DO32, CT5300, MCO
+Các module bị lỗi của BMI: CPU, TX1-MP, DI32, DO32, CT5300, MCO
+
+ 
+
+3. Thử nghiệm các chức năng chung của Thiết bị kiểm tra
+Khởi động thiết bị, mở phần mềm điều khiển.
+a) Chức năng tự kiểm tra thiết bị
+
+Trên giao diện phần mềm điều khiển chính, Bấm nút thực hiện quá trình
+tự kiểm tra thiết bị. Phần mềm điều khiển sẽ tiến hành kiểm tra các thành phần
+
+3
+
+Bà GÀ
+
+4của máy trung tâm (CPU, DI32-5, DO32-5, TX1-MP), các thiết bị ngoại vi (bàn
+phím, màn hình, thiết bị nối mạng, máy in), các khối chức năng xử lý tín hiệu
+(khối xử lý lệnh 27V và xứ lý tín hiệu tên lửa).
+Bấm nút thoát ra khỏi chức năng này.
+Thoát chương trình điều khiển để tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+b) Chức năng quản lý người dùng
+Trên giao diện phần mềm điều khiển chính, Bấm nút chọn thực hiện các
+chức năng quản lý người dùng: thêm, xóa, sửa, đổi mật khẩu, đôi tên.
+Bắm nút thoát ra khỏi chức năng này.
+Thoát chương trình điều khiển đề tắt thiết bị, hoặc chuyên chọn thực hiện
+chức năng khác.
+e) Chức năng cấu hình hệ thông
+Trên giao diện phần mềm điều khiển chính, Bấm nút chọn thực hiện chức
+năng cấu hình hệ thống: thay đổi cấu hình công nói tiếp, thay đổi cấu hình khởi
+động thiết bị, cập nhật phần mềm.
+Bắm nút thoát ra khỏi chức năng này.
+Thoát chương trình điều khiển để tắt thiết bị, hoặc chuyền chọn thực hiện
+chức năng khác.
+4) Chức năng in ấn kết quả
+Trên giao diện phần mềm điều khiển chính, Bấm nút chọn thực hiện chức
+năng quản lý kết quả, chọn chức năng in ấn, chọn tệp lưu trữ và tiến hành in.
+Bấm nút thoát ra khỏi chức năng này.
+Thoát chương trình điều khiển để tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+4. Quy trình kiểm tra khối BMI “tốt”
+
+ 
+
+Tắt Thiết bị kiểm tra. Kết nối khối BMI “tốt” với thiết bị kiểm tra tại các
+giắc XI, X2, X3, X4, X5, X6.
+bị, trên giao diện chính, lần lượt thực hiện các chức năng của
+
+phần mềm điều khiển thiết bị.
+
+ 
+
+a) Chức năng kiểm tra nhanh toàn khối BMI
+
+Í#ZZ xá C You“Trên giao diện phần mềm điều khiển chính, Bấm nút chọn thực hiện chức
+năng kiểm tra nhanh toàn khối BMI. Phần mềm điều khiến thiết bị thực hiện
+kiểm tra các module của BMI: CPU, thẻ nhớ CF, TX1-MP, DI32-5, DO32-5,
+CTC5300.
+
+Ghỉ nhận kết quả kiểm tra.
+
+Bắm nút Thoát khỏi chế độ này đề về giao diện điều khiển chính.
+
+Thoát chương trình điều khiển để tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+
+b) Chức năng kiểm tra chỉ tiết các kênh tín hiệu
+
+Trên giao diện phần mềm điều khiển chính, Bắm nút chọn thực hiện chức
+năng kiểm tra các kênh tín hiệu. Phần mềm điều khiển tiến hành lần lượt gửi các
+lệnh kiểm tra nhóm lệnh tín hiệu 27V (7 lệnh) trên 4 cáp kết nồi tên lửa X3, X4,
+X5, X6; các lệnh kiểm tra nhóm lệnh tín hiệu tên lửa (15 lệnh) trên 4 cáp kết nồi
+tên lửa X3, X4, X5, X6.
+
+Nếu kết quả đo đạc các lệnh tín hiệu đều trong dải cho phép thì phần mềm.
+sẽ báo “ĐẠT” ở kênh tương ứng. Nếu có kênh nào đo không nằm trong dải kết
+qua cho phép, phần mềm sẽ báo “KHÔNG ĐẠT”.
+
+Chú ý: Thời gian đo đạc Ï kênh có thê kéo dài từ 5 đốn 10 giây. tùy theo
+lượng lấy mẫu và thời gian đáp ứng ghi/đọc lệnh của khối BMI.
+
+Bấm nút Thoát khỏi chế độ này để về giao diện điều khiển chính.
+
+Thoát chương trình điều khiển để tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+
+5. Quy trình kiểm tra khối BMI “lỗi”
+
+Tắt Thiết bị kiể
+
+Chuẩn bị khối BMI “lỗi”: bằng cách sử dụng khối lỗi (nếu có) hoặc thay
+thế module * hủ động) vào khối BMI “tốt”.
+
+Kết nói khối BMI “lỗi” với thiết bị kiểm tra tại các giác XI, X2, X3, X4,
+
+ 
+
+ 
+
+  
+
+ 
+
+bị, trên giao diện chính, lần lượt thực hiện các chức năng của
+phần mềm điều khiển thiết bị.
+
+a) Chức năng kiểm tra nhanh toàn khối BMI
+
+Trên giao diện phần mềm điều khiển chính, Bấm nút chọn thực hiện chức
+năng kiểm tra nhanh toàn khối BMI. Phần mềm điều khiển thiết bị thực hiện
+
+ 
+
+TT nkiểm tra các module của BMI: CPU, thẻ nhớ CF, TX1-MP, DI32-5, DO32-5,
+CTC5300.
+
+Ghi nhận kết quả kiêm tra.
+
+Bấm nút Thoát khỏi chế độ này để về giao diện điều khiến chính.
+
+Thoát chương trình điều khiển đễ tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+
+b) Chức năng kiểm tra chỉ tiết các kênh tín hiệu
+
+Trên giao diện phần mềm điều khiển chính, Bắm nút chọn thực hiện chức
+năng kiểm tra các kênh tín hiệu. Phần mềm điều khiển tiến hành lần lượt gửi các
+lệnh kiểm tra nhóm lệnh tín hiệu 27V (7 lệnh) trên 4 cáp kết nói tên lửa X3, X4,
+X5, X6; các lệnh kiểm tra nhóm lệnh tín hiệu tên lửa (15 lệnh) trên 4 cáp kết nói
+tên lửa X3, X4, X5, X6.
+
+Nếu kết quả đo đạc các lệnh tín hiệu đều trong dải cho phép thì phần mềm
+sẽ báo “ĐẠT” ở kênh tương ứng. Nếu có kênh nào đo không nằm trong dải kết
+quả cho phép, phần mềm sẽ báo “KHÔNG ĐẠT”.
+
+Chú ý: Thời gian đo đạc 1 kênh có thể kéo dài từ 5 đến 10 giây, tìy theo
+lượng lấy mẫu và thời gian đáp ứng ghử/đọc lệnh của khói BMI.
+
+Ghi nhận kết quả kiểm tra.
+
+Bắm nút Thoát khỏi chế độ này để về giao diện điều khiển chính.
+
+Thoát chương trình điều khiển dể tắt thiết bị, hoặc chuyển chọn thực hiện
+chức năng khác.
+
+se Khôi phục khối tốt và kiểm tra lại
+Trường hợp khối BMI “lỗi” được chủ động tạo lỗi từ khối “tốt" thì cần
+khối phục lại tình trạng ban đầu và tiến hành kiểm tra lại ở Mục 4:
+
+© Tháo từng module “lỗi” và khôi phục lại module “tốt” tương ứng,
+(trường hợp gây lỗi chủ động)
+
+o_ Hoặc thay thế module “lỗi” bằng module “tốt” tương ứng.
+
+©_ Thực hiện kiểm tra lại khối BMI ở mục 4.
+6. Kiểm tra các module độc lập
+
+Tắt thiết bị kiểm tra.
+
+Kết nối thiết bị kiểm tra với giá kiểm tra các module rời thông qua các cáp
+cắm với các giắc XI, X2, X3, X4, X5, X6.
+
+Lắp module muốn kiểm tra (MCO, DI32-5, DO32-5, TX1-MP, CTC5300)
+vào giá kiểm tra, cắm các cáp kết nối tương ứng với các module.
+
+⁄Àý/
+
+X⁄

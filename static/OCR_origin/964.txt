@@ -1,0 +1,325 @@
+VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 504 /VCNTT-KH Hà Nội, ngày 43 tháng 11 năm 2017
+V/v đề nghị phối hợp triển khai thực.
+hiện các nhiệm vụ ứng dụng công nghệ
+
+thông tin phục vụ hoạt động huấn luyện và
+sẵn sàng chiến đầu của Quân chủng PKKQ.
+
+Kính gửi:
+~ Thủ trưởng Bộ Tư lệnh PK-KQ;
+- Thủ trưởng Bộ Tham mưu/QC PK-KQ;
+- Ban Công nghệ thông tin/BTM/QC PK-KQ,
+
+Căn cứ vào kết quả phối hợp thực hiện một số nhiệm vụ nghiên cứu
+KH&CN thuộc lĩnh vực ứng dụng CNTT giữa Viện Công nghệ thông tin với Quân
+chủng PK-KQ trong thời gian qua như: Thiết kế, chế tạo thiết bị hỗ trợ chuẩn đoán,
+phát hiện hỏng hóc mảng chức năng của đài ra đa KASTA-2E2; Cải tiến, hiện đại
+hóa đài Ra đa P37; Xây xựng hệ thống hỗ trợ chuẩn bị bay cho e923/f371,
+
+Theo định hướng nhiệm vụ khoa học công nghệ 5 năm của Viện KHCNQS,
+'Viện Công nghệ thông tin/Viện KHCNQS đã phối hợp triển khai ứng dụng công,
+nghệ thông tin với nhiều đơn vị thuộc Quân chủng PK-KQ nhằm phục vụ cho công,
+tác chỉ huy, quản lý điều hành, khai thác và bảo đảm kỹ thuật cho trang bị khí tài
+cũng như huấn luyện diễn tập.
+
+Qua quá trình khảo sát và tìm hiểu nhu cầu tại một số cơ quan đơn vị trong,
+Quân chủng PK-KQ. Viện Công nghệ thông tin đề xuất và được Viện KHCNQS
+phê duyệt và cho phép thực hiện một số nhiệm vụ ứng dụng công nghệ thông tin
+phục vụ hoạt động huấn luyện và sẵn sàng chiến đấu của Quân chủng như sau:
+
+1. Nghiên cứu, thiết kế và xây dựng hệ thống mô phỏng huấn luyện kíp dẫn
+đường phục vụ công tác dẫn đường cho máy bay Su-30MK2.
+
+2. Nghiên cứu hoàn thiện và đưa vào áp dụng hệ thống hỗ trợ chuẩn bị bay
+cho các trung đoàn không quân của Quân chủng PKKQ.
+
+Kinh phí thực hiện các nhiệm vụ trên do Viện KHCNQS đảm bảo. Phạm vi
+và nội dung dự kiến thực hiện được trình bày trong các phụ lục kèm theo.
+
+Để đảm bảo tính thực tiễn của các nhiệm vụ trên, Viện CNTT kính đề nghị
+Thủ trưởng Bộ Tư lệnh PK-KQ các nội dung sau:
+
+- Cho phép Ban Công nghệ thông tinưưBTM/QC PK-KQ và các cơ quan liên
+quan phối hợp với Viện CNTT trong quá trình thực hiện các nhiệm vụ trên.
+
+- Cho phép sản phẩm của các nhiệm vụ trên được triển khai thử nghiệm tại
+các đơn vị sử dụng do Quân chủng chỉ định.Trong quá trình tổ chức thực hiện, Viện CNTT sẽ phối hợp với các cơ quan,
+đơn vị trong Quân chúng PK-KQ đảm bảo tuyệt đối an toàn cho người và vũ khí
+trang bị kỹ thuật, không ảnh hưởng đến hoạt động và khả năng sẵn sàng chiến đấu
+của các đơn vị liên quan.
+
+'Viện CNTT kính để nghị Thủ trưởng Bộ Tư lệnh PK-KQ xem xét cho ý kiến
+chỉ đạo và cho phép Viện phối hợp các cơ quan đơn vị liên quan trong tổ chức thực.
+hiện tốt nhiệm vụ trên./.
+
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H05.
+
+  
+
+Tùng tá Đỗ Việt BìnhPhụ lục 1
+PHẠM VI - NỘI DUNG DỰ KIẾN THỰC HIỆN
+(Kèm theo công văn số: 504/VCNTT-KH ngày 43 /11/2017)
+
+1. Tên nhiệm vụ
+
+Nghiên cứu, thiết kế và xây dựng hệ thống mô phỏng huấn luyện kíp dẫn
+đường phục vụ công tác dẫn đường cho máy bay Su-30MK2.
+2. Phạm vi triển khai
+
+Sản phẩm sau khi hoàn thành sẽ được triển khai tại các trung đoàn không
+quân phục vụ huấn luyện kíp dẫn đường bay không quân.
+3. Mục tiêu
+
+Xây dựng hệ thống mô phỏng bán tự nhiên phục vụ huấn luyện kíp dẫn
+đường bay không quân cho các vị trí có sĩ quan dẫn đường:
+
+Giai đoạn I:
+
+~ Chỉ huy bay: đài K4
+
+- Đài K6
+
+Giai đoạn 2:
+
+- Đài K7
+
+- Đài K8
+
+thông qua mô phỏng vận hành, thu nhận, tích hợp, xử lý, hiển thị thông tin
+từ các đài Ra đa đảm bảo bay phục vụ huấn luyện, nâng cao kỹ năng và kinh
+nghiệm xử lý tình huống cán bộ dẫn đường tại các Trung đoàn không quân.
+4. Nội dung dự kiến
+
+Xây dựng hệ thống mô phỏng bán tự nhiên phục vụ huấn luyện sĩ quan dẫn
+
+đường tại các vị trí:
+
+41. Đài K4
+
+K4 là đài chỉ huy bay trung tâm — đây là nơi trực của Chỉ huy bay và Sĩ quan
+dẫn theo dõi và điều hành toàn bộ hoạt động bay cả trên không và mặt đất.
+Sĩ quan dẫn đường sử dụng hệ thống ARM-KIO năm trong tô hợp đổi không mặt
+đất NKVS để thực hiện nhiệm vụ dẫn đường. Xây dựng hệ thống hỗ trợ huấn luyện
+vị trí dẫn đường sử dụng hệ thống ARM-KIO gồm:
+
+~ Chuẩn bị, bảo quản trên đĩa cứng hoặc đĩa mềm và truyền theo cáp RS-485
+đến APMI chương trình liên lạc.
+
+- Vào số liệu và truyền theo RS-485 đến ARM-KIO những thông tin để tạo
+và truyền lên máy bay thông tin liên lạc đã được mã hóa theo trình tự sau:
+
++ Nội dung thu thông tin hình thức hóa.
+
++ Số liệu chuyến bay.
+
++ Số liệu về tình hình trên không.
+
++ Số liệu về tình hình trên đất liền, trên biển.
+
++ Thông tin cắp cứu từ trên không .+ Thông tin về lệnh "kiểm tra liên lạc".
+
++ Thông tin về việc đi qua các điểm trung gian trong hành trình.
+
++ Ghi vào đĩa cứng của ARM-KIO thông tin số liệu truyền đi và nhận về
+
++ Hiển thị trên màn hình ARM-KIO thông tin dưới dạng mã hóa nhận được
+từ máy bay và thông tin về tình trạng kênh liên lạc trao đổi dữ liệu.
+
++ Xem thông tin phai đã được ghỉ lại.
+
++ Hiển thị thông tin bản đồ về tình trạng trên không và tình hình tác chiến
+
+Để đảm bảo huấn luyện sát với thực tế chiến đấu, dự kiến sẽ nhân bản thiết
+bị ARM-KIO, sử dụng giả lập nguyên mâu cấu trúc gói tin và giao thức truyền
+thông từ máy giáo viên đến hệ thông ARM-KIO tương tự như như từ máy tính
+trung tâm của hệ thống đối không mặt đắt NKVS-27.
+
+42. Đài K6
+
+K6 là đài ra đa làm việc ở các dải sóng m (điều phái) và dải sóng cm (hạ
+cánh) dùng, để quan sát phát hiện các mục tiêu trên không, làm nhiệm vụ dẫn
+đường cho máy bay tiếp cận vào khu vực sân bay, xuyên mây, dẫn vào hạ cánh đến
+độ cao 150m, phân biệt các máy bay nhờ đài định hướng tự động.
+
+- Điều khiển các chuyến bay trong điều kiện khí tượng phức tạp và giản đơn;
+Phân biệt các máy bay nhờ đài định hướng tự động.
+
+- Dẫn máy bay về sân bay và điều khiển hạ độ cao khi xuyên xuống.
+
+- Dẫn máy bay xuống đường băng theo đài tầm và đài hướng bằng khẩu lệnh
+qua sóng cực ngăn.
+
+Nghiệp vụ công tác dẫn đường tại đài K6:
+
+a. Trong giai đoạn chuẩn bị
+
+_- Nắm chắc kế hoạch, thứ tự thực hiện nhiệm vụ, số liệu, nội dung từng
+
+chuyến bay.
+
+- Hiệp đồng chặt chẽ trong kíp CHB
+
+- Thống nhất phương pháp dẫn với ph công, phương pháp sửa chữa sai lệch
+trong chuyến bay, phương án xử lý bất trắc trong quá trình bay
+
+b. Trước khi bay
+
+- Phải kiểm tra phương tiện máy móc, xác định chính xác các sóng địa vật và
+hiệu chỉnh các sai số cần thiết
+
+- Xác định hàng tuyến, trục đường băng kéo dài, các điểm kiểm tra, điểm
+vòng trên màn hình điều phái.
+
+- Báo cáo SCH khả năng làm việc của đài
+
+c. Khi bay khí tượng:
+
+- Hiệu chỉnh các tham số bị sai lệch thật chính xác, hiệu chỉnh tín hiệu mục
+tiêu cho rõ nét, dễ nhìn
+
+- Kiểm tra định hướng.
+
+- Khi máy bay vào hạ cánh đối chiếu hiệu chỉnh đài tằm và hướng.d. Bay chính thức
+
+- Chọn chế độ làm việc phù hợp với nhiệm vụ
+
+~ Trên màn hình điều phái:
+
+~ Nhìn bao quát, nắm mục tiêu ở từng khu vực trong phạm vị hoạt động của
+đài
+
+- Phối vị tốt các máy bay trên hàng tuyến.
+
+- Dẫn phi công bay đúng đường bay, khu vực bay
+
+- Khi có sai lệch dẫn máy bay vào đúng vệt bay dự định
+
+- Trong bay phức tạp, tầm nhìn hạn chế, đáy mây thấp, dẫn đường phải tập
+tạng tỉnh lực, phân phối xác định chính xác từng mục tiêu, không được nhằm
+
+- Ước lượng, tính toán xác định những điểm máy bay có thể tiếp cận nguy
+hiểm (va chạm). Ưu tiên những máy bay có hỏng hóc, dầu còn ít, máy bay đang
+xuyên xuống
+
+~ Xử lý linh hoạt, nhạy bén những tình huống bắt trắc xảy ra trên không.
+
+~ Đài chuẩn hướng:
+
++ Sai lệch nhỏ ở cự ly xa: Báo cho phi công hướng về đài để phi công tự sửa
+
++ Nếu sai lệch lớn phải có khẩu lệnh vòng trái (Phải) ghi T, tính toán thời __
+điểm cải ra về hướng hạ cánh. TA
+
++ Cự ly gần, thông báo độ lệch bằng khẩu lệnh rõ: “....lệch trái (Phải)””, ^:
+...mết”, Căn cứ vào độ lệch và khả năng khắc phục của phi công để quyết định >„)-“
+tham mưu cho CHB cho phi công hạ cánh hoặc bay lại. AC
+
+- Đài chuẩn tầm: Căn cứ vào tín hiệu của máy bay trên màn hình nhắc
+công tăng (giảm) lượng xuống hoặc bay bằng để giữ quĩ đạo xuống chính xác đảm
+bảo hạ thấp H đúng sơ đồ, vào hạ cánh an toàn.
+
+Xây dựng hệ thống hỗ trợ huấn luyện vị trí dẫn đường tại đài K6 phải đáp
+ứng đầy đủ hoạt động nghiệp vụ trên mặt máy tại đài.
+
+443. Đài K7
+
+K7 là Trạm rađa dẫn đường Không quân gồm 3 loại rađa II-37 (TI-35), rađa
+T18 1-12), rađa đo cao IIPB-16 và tiết bị đối không cho phép Sĩ quan dẫn
+đường có thể trực tiếp liên lạc thoại với phi công. Đối không sử dụng công suất lớn
+xe P-845.
+
+“Xây dựng hệ thống hỗ trợ huấn luyện vị trí dẫn đường tại đài K7 phải đáp
+ứng đây đủ hoạt động nghiệp vụ trên mặt máy tại đài.
+
+44. Đài K8
+
+Đây là bộ đài chuẩn tầm (TPM) và chuẩn hướng (KPM) có nhiệm vụ tạo ra
+đường trượt xuống chuẩn (T'mmcana) thông qua hệ thống thiết bị trên máy ba) giúp
+cho phi công và tổ bay giữ được đúng hướng và độ cao khi hạ cánh, tiếp đất
+(đường băng). Sử dụng bộ đài IIPMI-5.Xây dựng hệ thống hỗ trợ huấn luyện vị trí dẫn đường tại đài K8 phải đáp
+ứng đầy đủ hoạt động nghiệp vụ trên mặt máy tại đài.
+
+5. Lộ trình thực hiện
+
+Như vậy để huấn luyện kíp dẫn đường dựa trên hệ thống mô phỏng bán tự
+nhiên sẽ cần tập trung vào các đài K4, Kó, K7, K8 trong đó đài K4 và K6 được
+đánh giá là đài phức tạp và đóng vai trò quan trọng. nhất trong hoạt động của kíp
+dẫn đường.
+
+Để xây dựng hệ thống mô phỏng bán tự nhiên cho toàn bộ các đài cần phải
+thực hiện trong một khoảng thời gian dài với mức đầu tư kinh phí lớn. Để đảm bảo.
+tính khả thi, nhóm đề tài đề xuất thực hiện qua 02 giai đoạn:
+
+Giai đoạn 1: Nghiên cứu, thiết kế và xây dựng hệ thống mô phỏng bán tự
+nhiên cho đài chỉ huy bay K4 và đài K6.
+
+Giai đoạn 2: Nghiên cứu, thiết kế và xây dựng hệ thống mô phỏng bán tự
+nhiên cho đài K7, K8.Phụ lục 2
+PHẠM VI VÀ NỘI DUNG DỰ. KIÊN THỰC HIỆN
+(Kèm theo công văn số: Z0I/VCNTT-KH ngày 43 /11/2017)
+
+1. Tên nhiệm vụ
+Nghiên cứu hoàn thiện và đưa vào áp dụng hệ thống hỗ trợ chuẩn bị bay cho
+các trung đoàn không quân của Quân chủng PKKQ.
+2. Nội dung chính của nhiệm vụ
+D +. E= hy dày bi te c kuộ replxrcdcb me Đọc
+bay 3 cấp: Trung/Lữ đoàn không quân-Sư đoàn không quân- Quân chủng PKKQ
+trong quy trình chuẩn bị bay tại Quân chủng PKKQ.
+3. Phạm vi triển khai
+Hệ thống Lập và Quản lý kế hoạch bay dự kiến thực hiện theo 02 giai đoạn
+~_ Giai đoạn 1:
+© Triển khai tại một số cơ quan Quân chủng: Sở Chỉ huy, Phòng Quân
+huấn, Ban An toàn bay.
+© Các cơ quan thuộc Sư đoàn Không quân do Quân chủng chỉ định: Sở
+chỉ huy, Phòng Quân huấn
+©o_ Các Trung đoàn không quân thuộc sư đoàn.
+-_ Giai đoạn 2:
+©_ Các Sư đoàn Không quân còn lại
+©o_ Các Trung đoàn/Lữ đoàn Không quân còn lại
+4. Chỉ tiết nội dung dự kiến và hiệu quả đạt được
+Hệ thống lập kế hoạch bay 3 cấp, gồm hệ thống phần mềm và các thiết bị
+phần cứng gồm: máy chủ, máy trạm, thiết bị đảm bảo đường truyền. Cụ thẻ:
+
+a. Cấp Trung đoàn: Xây dựng kế hoạch bay điện tử có thể chia sẻ được dữ
+liệu giữa các đầu mối trong Quân chủng và thực hiện theo điều lệ bay do
+cấp Trung đoàn xây dựng.
+
+Soạn thảo kế hoạch bay theo quy định trên máy tính do sỹ quan quân huấn
+tại các Trung đoàn thực hiện.
+
+Quản lý chương trình, nhiệm vụ, bày bay theo đúng nghiệp vụ ngành
+Quân huấn
+
+ 
+
+Quản lý dây bay
+Quản lý thông tin chỉ tiết Hồ sơ phi công: Danh sách phi công, giãn cách
+bay, danh sách các bài đã bay, danh sách các bài bay tiếp theo theo
+chương trình huấn luyện của từng phi công.
+
+-_ Các công cụ hỗ trợ khác: In kế hoạch bay, tra cứu kế hoạch bay, ....
+b. Cấp Sưđoàn
+
+= Quản lý các kế hoạch bay của các trung đoàn-_ Hỗ trợ công tác giám sát, chỉ đạo, thực hiện tiến độ kế hoạch bay của các
+Trung đoàn trực thuộc
+-_ Phê chuẩn kế hoạch bay theo chức năng nhiệm vụ của Sư đoàn
+- Gửi kế hoạch bay đã phê chuẩn cho các đầu mối liên quan (Quân chủng,
+Trung tâm điều hành bay qua đường truyền số liệu quân sự)
+-_ Hỗ trợ cơ quan Quân huấn trong việc: Quản lý hồ sơ phi công, danh sách
+các bài bay, dây bay...
+c. _ Cấp Quân chủng
+-_ Quản lý kế hoạch bay của các Sư đoàn: kế hoạch bay ngày/tháng/năm
+-_ Hỗ trợ công tác giám sát, chỉ đạo, thực hiện tiến độ kế hoạch bay của các
+Sư đoàn trực thuộc
+-_ Phê chuẩn kế hoạch bay theo chức năng nhiệm vụ của Quân chủng
+-_ Hỗ trợ cơ quan Quân huần trong việc: Quản lý hồ sơ phi công, danh sách
+các bài bay, dây bay...
+5. Đảm bảo đường truyền
+“Trong quá trình thực hiện nhiệm vụ sẽ sử dụng hạ tằng đường truyền số liệu
+quân sự do Binh chủng thông tin quản lý.

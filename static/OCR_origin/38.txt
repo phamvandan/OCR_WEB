@@ -1,0 +1,405 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: z /VCNTT-KH Hà Nội, ngày 19 tháng 02 năm 2016
+'V/ đề xuất đề tài hỗ trợ định hướng
+cán bộ nghiên cứu trẻ năm 2016.
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ vào công văn số 68/TMKH-BKHCNMT ngày 29/01/2016 của
+Phòng Tham mưu — Kế hoạch/Viện KHCNQS về việc đề xuất đề tài hỗ trợ định
+hướng cán bộ nghiên cứu trẻ năm 2016,
+
+'Viện Công nghệ thông tin xin đề xuất 02 đề tài hỗ trợ định hướng cán bộ
+nghiên cứu trẻ năm 2016 như danh sách dưới đây:
+
+1. Nghiên cứu, khai thác hệ thống mô phỏng CPU phục vụ việc làm chủ
+các phần mềm nhúng trên các loại vũ khí,trang bị.
+
+2. Nghiên cứu phát triển giải pháp tra cứu thông tin theo nội dung hỗ trợ
+công tác khai thác thông tin trên kho dữ liệu văn bản
+
+Danh sách đề nghị không có thứ tự ưu tiên.
+
+Kính chuyển Phòng TM-KH/Viện KHCNQS xem xét. ⁄2
+Nơi nhận: 'VIỆN TRƯỞNG
+~ Như trên;
+~ Lưu: VT, KH; H03.Đơn vị: Viện Công nghệ thông tin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DANH MỤC ĐÈ XUẤT ĐÈ TÀI HỖ TRỢ ĐỊNH HƯỚNG CÁN BỘ NGHIÊN CỨU TRẺ NĂM 2016
+sór | Tên đề đi, li nang nh Mục tiêu và nội dung nghiên | DV kiến kết quả đạt được và chỉ NET ẢN
+nhiệm vụ r cứu chính tiêu kỹ thuật cn
+T— TNgiên gáy, | 4/TSNguyễn CHÍ | Nghin cần lộ thống mỗ| — Tải hiệu khoa học về hệ thông ð/207|— 75
+Khai thác hệ | Thành phòng CPU, Unicom Eneine mô phòng CPU Unieom
+ng mô làm cơ sở để xây dựng các hệ Engie, bao gốm phần tổng
+phòng CP thống mô phòng hỗ trợ
+phục vụ việc khai thác, làm chủ các pÏ quan và phương PhẾP atlÿng
+làm chủ các mềm điều khiển các loại vũ Unieom APIL
+phần mềm khí, trang bị chạy trên các hệ ko» Si mờ HẾ
+nhúng trên điêu hành chuyện dụng thời| ` Phần mềm thử nghiệm TỂ
+các loại vũ gian thực (QNX, Lim®) phòng CPU ViẾ bằng CÁC
+ĐÈN, _1Rnuntk ngôn ngữ khác nhau: C,
+Lrhng[, Python, Java, Cứ. Phần mềm
+cỗ chức năng mô phỏng hoạt
+động của CPU với đầu vào là
+đoạn mã nhị phân, đầu ra thể
+| hiện các hoạt động của CPU
+tương ứng với đoạn mã đó.
+[7 —[Ngin cm l4 Nguyễn Hoàng Nghiên cứu các thật toấn th |” Dưa ra được các đánh giá về Ø07|— 75
+| phát triển giải | Bách cứu dữ liệu. Áp dụng mô hình dnh hiệu quả và khả thì của
+pháp tra cứu ngôn ngữ tiếng Việt cho việc mỗi phương pháp
+| thông tin theo | (nhân tính câu hổi ảm Miễm | ~ Xây dựng phân mm íng
+nội dung hỗ ưa ra kết quả tìm kiếm. Làm dụng tra cứu văn bản có th
+trợ công tác chủ công cụ mã nguồn mở để hoạt động với số lượng văn
+| khai — thác tích xuất văn bản từ kho tài bản lớn, thời gian đánh chỉ
+L- thông tin trên | Liễi Nụ wữ dưới nhiều dịnh| — "ME và đưa ra kết quả tìmkho dữ liệu
+văn bản
+
+ 
+
+ 
+
+dạng để xây dựng ứng dụng
+tìm kiếm cho các hệ thông dữ
+
+liệu tập trung
+
+ 
+
+Kiếm đáp ứng được yêu cầu
+thực tế.
+kho dữ liệu
+văn bản
+
+ 
+
+ 
+
+dạng để xây dựng ứng dụng
+tìm kiếm cho các hệ thông dữ
+
+liệu tập trung.
+
+ 
+
+kiếm đáp
+thực tế. kho dữ liệu
+văn bản dạng để xây dựng ứng dụng
+tìm kiếm cho các hệ thông dữ
+liêu tập trung ợc yêu 7 
+pc VIÊN KH-CN QUẦN SỰ
+VIỆN CÔNG NGHỆ THÔNG TIN
+
+PHIẾU ĐÈ XUẬT ĐÈ TÀI HỖ TRỢ ĐỊNH HƯỚNG
+CÁN BỘ TRẺ NĂM 2016
+
+1. Tên đỀ tài, nhiệm vụ:
+
+Nghiên cứu phát triển giải pháp tra cứu thông tin theo nội dung hỗ trợ công tác
+khai thác thông tin trên kho dữ liệu văn bản,
+
+2. Thuộc chương trình: định hướng cán bộ trẻ.
+3. Lý do đề xuất Đề tài, nhiệm vụ:
+
+Trong thời gian tham gia xây dựng và triển khai các sản phẩm phần mềm, bản
+thân tôi đã được tiếp xúc với nhiều cá nhân tập thể tại các đơn vị trong và ngoài
+quân đội, tôi nhận thấy nhu cầu tra cứu tài liệu trên máy đơn cũng như trong cả hệ
+thống là rất lớn. Các công cụ tìm kiếm thông thường chưa thể đáp ứng đẩy đủ các
+
+Ngày nay trên thế giới xu thế phát triển các ứng dụng hỗ trợ công tác tra cứu
+khai thác thông tin trong nội bộ các tổ chức đang rất phát triển. Ở Việt Nam xu thế
+này bước đầu cũng đã xuất hiện những sản phẩm có hiệu quả nhất định, chủ yếu
+đưới hình thức cho thuê dịch vụ triển khai tại các tổ chức lớn và có trình độ công
+nghệ thông tin tương đối cao. Tuy nhiên các sản phẩm ứng dụng trong quân đội
+vên còn đang bỏ ngỏ, cần có các ứng dụng đáp ứng các yêu cầu chuyên biệt cho
+môi trường quân sự.
+
+4. Giải trình về tính cắp thiết :
+
+Với sự phát triển mạnh mẽ của công nghệ thông tin, số hóa là xu hướng tắt yếu
+của các thư viện. Thư viện điện tử ưu việt hơn thư viện truyền thống về nhiều mặt,
+Siúp người dùng truy xuất, tìm kiếm các tài liệu một cách nhanh chóng, dễ dàng,
+
+có ý nghĩa quan trọng khi tạo ra được kho dữ liệu số về thông tin quân sự, từ đó có
+thể áp dụng các phương pháp thống kê, khai phá dữ liệu để trích xuất các thông tin
+phục vụ chỉ huy quản lý, công tác tình báo. Qua thời gian, khối lượng văn bản
+được lưu trữ rất lớn với nhiều định dạng khác nhau. Việc tra cứu không còn đơn
+thuần chỉ dựa vào các thuộc tính như ngày tháng lưu trữ, tiêu đẻ, cơ quan ban hànhmà còn cần những các chức năng hỗ trợ tra cứu thông minh hơn mô phỏng theo
+các công cụ tìm kiếm chuyên dụng như đưa ra được các kết quả gần gũi về mặt nội
+dung của các tài liệu, đánh dầu những đoạn văn bản có nội dụng liên quan, sắp xếp
+kết quả tìm kiếm theo mức độ liên quan, và đặc biệt là có thẻ tùy chỉnh đồng thời
+bổ sung thêm tri thức trong quá trình sử dụng hoặc theo nhu cầu quản lý đặc thù
+của mỗi đơn vị.
+
+Hiện nay các hệ thống phần mềm quản lý văn bản đã bổ sung thêm các chức
+năng khai thác thông tin nội dung tài liệu lưu trữ trong hệ quản trị cơ sở dữ liệu,
+tuy nhiên vẫn còn thiếu các chức năng của một công cụ tìm kiếm chuyên dụng như
+đã nêu ở trên. Ngoài ra xu thế ứng dụng các công cụ tra cứu vào công tác khai thác
+nội dung văn bản đã bước đầu được triển khai tại một số tổ chức và đạt được
+những thành công nhất định. Tuy nhiên việc xây dựng một kho từ điển tiếng Việt
+đầy đủ, đặc biệt là trong lĩnh vực quân sự vẫn còn rất mới mẻ do có nhiều từ ngữ
+chuyên ngành và yêu cầu bảo mật tương đối cao.
+
+   
+   
+
+Tình hình thực tiễn này đặt ra yêu cầu cấp thiết về việc nghiên cứu một công
+nghệ có đầy đủ các tính năng tra cứu tìm kiếm theo nội dung của kho tài liệu được
+lưu trữ dưới nhiều định dạng khác nhau. Đồng thời xây dựng một kho từ điền
+chuyên dụng và chức năng cho phép người dùng tự bổ sung tri thức, tùy các
+điều kiện tìm kiếm để mang lại các kết quả tìm kiếm gần đúng nhất theo nghiệp vụ
+chuyên môn của đơn vị mình.
+
+ 
+
+5. Mục tiêu:
+
+Nghiên cứu cách thức lưu trữ văn bản, công cụ đánh chỉ mục, mô hình ngôn
+ngữ tiếng Việt, thuật toán tra cứu tìm kiếm theo nội dung, kết hợp giải pháp mã
+nguồn mở nhằm xây dựng phần mềm khai thác thông tin trong kho tài liệu của tổ
+chức có tính đặc thù về nghiệp vụ.
+
+6. Nội dung KHCN chủ yếu cần giải quyết:
+
+- _ Nghiên cứu các thuật toán và sản phẩm công nghệ tra cứu theo nội dung văn
+bản kết hợp kho từ điển tiếng Việt, kết hợp tri thức khai thác được từ kho từ điển
+tiếng Việt. Mục tiêu của nghiên cứu là ứng dụng các công nghệ tra cứu nội dung
+đối với các mô hình kho dữ liệu văn bản và xây dựng chức năng cho phép người
+dùng tự bổ sung từ điển chuyên ngành liên quan đến lĩnh vực quân sự cũng như
+đặc thù của đơn vị mình.
+
++ Nghiên cứu đề xuất phương pháp xây dựng kho từ điển riêng phục
+vụ cho lĩnh vực quân sự, trong đó có trọng số đánh giá mức độ đồng nghĩa
+và liên quan giữa các từ ngữ với nhau.
+
+ 
+
++ Áp dụng mô hình ngôn ngữ để phân tích câu hỏi tìm kiếm, phân
+tích các đoạn văn bản liên quan trong kho dữ liệu và đưa ra các tài liệu và
+đoạn văn bản liên quan đến câu hỏi tìm kiếm.+ Nghiên cứu phương pháp áp dụng các thuật toán tra cứu tìm kiếm
+theo nội dung văn bản, các phương pháp hiệu chỉnh từ điển để có kết quả
+tìm kiếm tốt nhất,
+
++ Làm chủ các công cụ hỗ trợ đánh chỉ mục, trích rút văn bản từ tài
+liệu.
+
+- _ Nghiên cứu các công cụ hỗ trợ tra cứu tài liệu, đánh giá hiệu quả và khả
+năng kết hợp các phương pháp với nhau.
+
+-__ Xây dựng ứng dụng hỗ trợ tra cứu dữ liệu
++ Có thể tích hợp được với các cơ sở dữ liệu quan hệ có sẵn
++ Áp dụng được trên kho dữ liệu văn bản dạng số
++ Ứng dụng trên các hệ thống dữ liệu tập trung.
+
+7. Dự kiến sản phẩm và chỉ tiêu kỹ thuật chủ yếu:
+
+~ Tài liệu về các thuật toán, công cụ tra cứu văn bản, các phương pháp xây dựng
+kho từ điển phục vụ cho phương pháp tra cứu.
+
+~ Phần mềm tra cứu văn bản
+
+~ Báo cáo khoa học đề tài
+
+8. Nhu cầu kinh phí:
+
+75.000.000 (Bảy mươi lăm triệu đồng)
+9. Khả năng và địa chỉ áp dụng:
+
+Kết quả của đề tài có thể được áp dụng để x Ay dụng các thư viện điện tử, các hệ
+thống quản lý tài liệu số, các hệ thông quản lý án phẩm cho các toàn soạn, tạp chí,
+nhà xuất bản trong quân đội. Thời gian đầu có sản phẩm có thẻ được ứng dụng tại
+các cơ quan quản lý trong quân đội, bộ phận văn thư lưu trữ, các cơ quan quản lý
+cấp cao, nơi hệ thống triển khai dưới mô hình dữ liệu tập trung, không, kết nỗi
+internet. Giai đoạn tiếp theo có thể triển khai dưới hình thức cung cấp dịch vụ cho
+các tổ chức ngoài quân đội.
+
+10. Hiệu quả:
+
+Nâng cao hiệu quả trong công tác khai thác dữ liệu trong kho văn bản với số
+lượng lớn. Cung, cập các kêt quả tìm kiếm nhanh và chính xác, đồng. thời gợi ý đến
+người dung các kết quả tìm kiếm liên quan. Sản phẩm có tính tùy biển, có thê linh
+hoạt tùy chỉnh theo từng môi trường khi đưa vào triển khai để có thể phủ hợp với
+nhu cầu quản lý cũng như đặc thù nghiệp vụ của đơn vị.'VIỆN KH-CN QUÂN SỰ
+VIỆN CÔNG NGHỆ THÔNG TIN
+
+PHIÊU ĐÈ XUÁT ĐÈ TÀI HỖ TRỢ ĐỊNH HƯỚNG
+CÁN BỘ TRẺ NĂM 2016
+
+1. Tên đỀ tài, nhiệm vụ:
+
+;Nghiên cứu, khai thác hệ thống mô phỏng CPU phục vụ việc làm chủ các phần
+mêm nhúng trên các loại vũ khí,trang bị.
+
+2. Thuộc chương trình:
+
+Định hướng cán bộ trẻ.
+
+`3. Lý do đề xuất ĐỀ tài, nhiệm vụ:
+
+Xuất phát từ yêu cầu làm chủ vũ khí, trang bị để giảm chỉ phí sửa chữa, bảo
+
+dưỡng, tiến tới cải tiến, thông minh hóa vũ khí, trang bị quân sự, chúng tôi nhận
+thấy nhu cầu nghiên cứu, phân tích các phần mêm chuyên dụng tích hợp trên các
+
+ 
+
+loại vũ khí, trang bị là rất lớn. Do đó chúng tôi đề xuất thực hiện đề tài này để
+từng bước làm chủ, xây dựng các bộ công cụ cần thiết cho việc khai thác, chỉnh
+sửa, nâng cấp cho các phần mềm nhúng trên vũ khí, trang bị.
+
+4. Giải trình về tính cấp thiết :
+
+Với sự phát triển vũ bão của công nghệ thông tin cả về phần cứng và phần
+mềm, các hệ thống công nghệ thông tin ngày cảng được đưa vào tích hợp vào các
+máy móc phục vụ cuộc sông cũng như trong các hệ thống vũ khí, trang bị quốc
+phòng. Các phần mềm được chạy trên các hệ điều hành chuyên dụng tích hợp trên
+các hệ thống máy móc phục vụ điều khiển, vận hành, tự động hóa ví dụ như hệ
+
+thống phần mềm nhúng thời gian thực trong tự động hóa công nghiệp, phần mềm
+trên các thiết bị y tế, phân mềm trên các vũ khí, trang bị quân sự.
+
+'Việc làm chủ, phân tích các phần mềm cùng các hệ điều hành chuyên dụng này
+là hết sức quan trọng trong việc vận hành, sửa chữa, bảo dưỡng, nâng cấp các máy
+móc, thiết bị nói chung và vũ khí, trang bị nói riêng. Hơn nữa, việc làm chủ các
+phần mềm, hệ điều hành này là điều kiện tiên quyết để có thể nâng cấp, cải tiến,
+thêm tính năng cho vũ khí, trang bị, góp phần thúc đẩy hiện đại hóa quân sự.
+
+  
+
+Theo định hướng nhiệm vụ khoa học công nghệ và môi trường giai đoạn 2016-
+2020 của Viện CNTT đã được Thủ trưởng Viện KH-CNQS phê duyệt, việc nghiên
+cứu làm chủ các hệ điều hành chuyên dụng (QNX, Linux) và thiết kế, xây dựng
+các hệ điều hành chuyên dụng cho máy tính nhúng phục vụ mục đích điều khiểncác hệ thống vũ khí, khí tài hiện đại là một trong những nhiệm vụ KHCN&MT
+trọng tâm của Viện CNTT, sản phẩm dự kiến được đặt ra là làm chủ các hệ điều
+hành chuyên dụng đáp ứng hệ điều hành thời gian thực và xây dựng các hệ điều
+hành cho các thiết bị chuyên dụng phục vụ điều khiển các hệ thống vũ khí, khí tài
+hiện đại.
+
+Tuy nhiên, việc làm chủ, phân tích các phần mềm, hệ điều hành được tích hợp
+sẵn trên các vũ khí, trang bị là hết sức khó khăn. Do chỉ phí vận hành của các loại
+vũ khí, trang bị cao, cùng với các yêu cầu về an toàn, bảo mật nên việc vận hành
+thật các loại vũ khí, trang bị này để tiến hành nghiên cứu, phân tích là không khả
+thi. Các phần mềm này đều là các mã nguồn đóng, được chạy trên các hệ điều
+hành chuyên dụng nên việc chạy thử, dịch ngược là rất khó khăn, ngay cả các
+phần mềm thương mại đắt tiền trên thế giới cũng chỉ hỗ trợ được một phần. Do đó,
+thực tiễn đặt ra nhu cầu nghiên cứu, phát triển các công cụ mô phỏng các hệ điều
+hành để chạy được các phần mềm tích hợp trên vũ khí, trang bị, tạo môi trường,
+như thật để thực hiện thử nghiệm, phân tích các phần mềm này trong các điều kiện
+khác nhau.
+
+ 
+
+Mục tiêu lâu dài của nhóm nghiên cứu, „ phát triển các công cụ mô phỏng các hệ
+điều hành chuyên dụng (QNX, Linux) để góp phần làm chủ các phần mềm tích
+hợp trên vũ khí, trang bị, tiến tới mục tiêu cao hơn là nâng cấp, cải tiến, thông
+mình hóa vũ khí. Tuy nhiên để làm điều đó thì trong khuôn khổ đề tài này, nội
+dung nghiên cứu được đặt ra là làm chủ công cụ mô phỏng CPU, cốt lõi để phát
+triển các công cụ mô phỏng hệ điều hành. Trong đó, hệ thống Unicorn Engine
+được lựa chọn vì nó là một công cụ mô phỏng tiên tiến, có nhiều ưu điểm so với
+các hệ thống khác, hơn nữa, nó được xây dựng với ý tưởng thiết kế ban đầu là làm
+nền tảng (framework) cho việc phát triển các công cụ khác.
+
+Hệ thống mô phỏng CPU là một hệ thống phần mềm mô phỏng hoạt động của
+CPU vật lý. Với đầu vào một file chương trình nhị phân, hệ thống mô phỏng CPU
+sẽ giải mã file nhị phân thành các câu lệnh tương ứng. Sau đó hệ thống mô phỏng,
+lại hoạt động của CPU, các thao tác truy xuất bộ nhớ, thiết bị vào ra tương ứng với
+mỗi câu lệnh và cập nhật lại các trạng thái của của thanh ghi, bộ nhớ,....
+
+Hệ thống mô phỏng CPU cho phép chúng ta mô phỏng hoạt động của các
+chương trình mà không cần thiết phải có CPU vật lý. Hệ thống này có thể ứ ứng
+dụng đề phân tích các đoạn mã nhị phân trên các hệ điều hành một cách an toàn vì
+không làm ảnh hưởng tới các hệ thống thực tế. Hơn nữa, nó có thẻ hỗ trợ phân
+tích, dịch ngược các đoạn mã nhị phân trong các hệ thống khác nhau.
+
+Hiện nay trên thế giới có nhiều công cụ mô phỏng CPU khác nhau như libemu,
+PyEmu, IDA-x86emu, libCPU, Unicorn Engine. Trong các công cụ này, Unicorn
+Engine được nghiên cứu, phát triển muộn nhất, bản chính thức đầu tiên được công
+bố tháng 10/2015. Tuy vậy, công cụ Unicorn Engine có nhiều điểm mạnh so với
+các hệ thống cũ như khả năng hỗ trợ nhiều kiến trúc phần cứng (X86, Arm,
+Arm86, Mips, PowerPC, Sparc,...), hỗ trợ nhiều hệ điều hành (Windows, Unix và
+các hệ điêu hành tương tự Unix, Android, iOS, ...), cập nhật các mở rộng CPU mớinhất, hỗ trợ xây dựng các công cụ độc lập, hiệu năng cao do sử dụng kĩ thuật biên
+dịch Just-In-Time (JIT).
+
+3. Mục tiêu:
+
+Nghiên cứu hệ thống mô phỏng CPU Unicorn Engine làm cơ sở để xây dựng
+các hệ thống mô phỏng hỗ trợ việc khai thác, làm chủ các phần mềm điều khiển
+các loại vũ khí, trang bị chạy trên các hệ điều hành chuyện dụng thời gian thực
+(QNX, Linux).
+
+6. Nội dung KHCN chủ yếu cần giải quyết:
+- Nghiên cứu hệ thống mô phỏng CPU Unicom Engine.
+
+T Nghiên cứu tổng quan về Unicorn Engine: quá trình hình thành và phát
+triển, cấu trúc hệ thống, các công cụ đã được phát triển dựa trên Unicorn
+Engine, cách cài đặt, biên dịch Unicor Engine, so sánh với các công cụ khác.
+
++ Nghiên cứu cách sử dụng API của Unicorn để xây dựng các phần mềm mô
+phỏng với các ngôn ngữ C, Python, Java, Cứ.
+
+.' Xây dựng phần mềm thử nghiệm mô phỏng CPU dựa trên Unicom Engine
+băng các ngôn ngữ khác nhau: C, Python, Java, C#.
+
+7. Dự kiến sản phẩm và chỉ tiêu kỹ thuật chủ yếu:
+
+ài liệu khoa học về hệ thống mô phỏng CPU Unicom Engine, bao gồm
+tổng quan và phương pháp sử dụng Unicorn API.
+
+  
+
+phí
+
+- Phần mềm thử nghiệm mô phỏng CPU viết bằng các ngôn ngữ khác nhau:
+C, Python, Java, C#. Phần mềm có chức năng mô phỏng hoạt động của CPU với
+đầu vào là đoạn mã nhị phân, đầu ra thể hiện các hoạt động của CPU tương ứng
+với đoạn mã đó.
+
+8. Nhu cầu kinh phí:
+
+75.000.000 đồng
+9. Khả năng và địa chỉ áp dụng:
+
+Kết quả của đề tài có thể được sử dụng làm cơ sở để xây dựng các công cụ
+mô phỏng hoàn chỉnh cho các hệ điều hành chuyên dụng thời gian thực (QNX,
+Linux, ...), hỗ trợ khai thác, làm chủ các phần mềm tích hợp trên các loại máy
+móc, đặc biệt là các loại vũ khí, trang bị quốc phòng.
+
+16. Hiệu quả:
+
+Giúp đội ngũ cán bộ nghiên cứu tiếp cận và làm chủ được công nghệ
+phỏng CPU. Tiến tới áp dụng vào việc xây dựng hệ thống mô phỏng các hệ điềuhành chuyên dụng để làm chủ, thông minh hóa các phần mềm tích hợp trên các
+loại vũ khí, khí tài. Góp phần bồi dưỡng, đào tạo cán bộ khoa học và công nghệ
+từng bước làm chủ các hệ điều hành chuyên dụng phục vụ điều khiển các hệ
+thống vũ khí, khí tài hiện đại.
+
+11. Thời gian thực hiện:
+12 tháng.
+
+Hà Nội, ngày ⁄ tháng 22năm 2016
+
+CÁ NHÂN ĐÈ XUẤT
+
+t6 —
+
+Nguyễn Chí Thành

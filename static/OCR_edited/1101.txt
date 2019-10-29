@@ -1,0 +1,164 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN - Tự do—
+
+Số: 42 /VCNTT-KH Hà Nội, ngày 30 tháng 01 năm 2018
+V/v xin ý kiến bộ chỉ tiêu kỹ thuật và
+kịch bản thử nghiệm và.
+
+thu hệ
+thống mô phỏng máy điều khiển bắn.
+pháo MR-123-02 MOD 3
+trên tàu 1241.8
+
+Kính gửi:
+- Bộ Tư lệnh Vùng 2 Hải quân;
+- Phòng Kỹ thuật/Bộ tư lệnh Vùng 2 Hải quân.
+
+Căn cứ Quyết định số 1853/QĐ-VKHCNQS ngày 10/12/2015 của Giám
+đốc Viện KH-CN quân sự về việc giao nhiệm vụ thực hiện đề tài nghiên cứu
+khoa học và phát triển công nghệ cắp Viện KHCNQS năm 2016;
+
+Căn cứ theo thuyết minh đề tài “Nghiên cứu, thiết kế hệ thống mô phỏng
+máy điều khiển bắn pháo MR-123-02 MOD 3 trên tầu 1241.8” đã được phê
+duyệt,
+
+Căn cứ công văn số 16068/BTL-KHQS ngày 27/12/2017 của Bộ tư lệnh
+Hải quân gửi Viện Khoa học và Công nghệ quân sự về việc triển khai hệ thống.
+mô phỏng máy điều khiển bắn pháo MR-123-02MOD3 trên tầu 1241.8 tại Lữ
+đoàn 167/Vùng 2 Hải quân,
+
+'Viện Công nghệ thông tin đã xây dựng các chỉ tiêu kỹ thuật và kịch bản thử
+nghiệm và nghiệm thu của hệ thống mô phỏng máy điều khiển bắn pháo MR-
+123-02 MOD 3 trên tầu 1241.8 (rong phụ lục kèm theo). Viện Công nghệ thông
+tin đề nghị Bộ tư lệnh Vùng 2 Hải quân cho ý kiến về các nội dung nêu trên để
+'Viện hoàn thiện sản phẩm của để tài này.
+
+Kính đề nghị Bộ tư lệnh Vùng 2 Hải quân xem xét chỉ đạo các đơn vị liên
+quan cho ý kiến và phối hợp với Viện để Viện Công nghệ thông tin hoàn thành
+nhiệm vụ. |ÑllêÑ—”
+
+Nơi nhận:
+-ng,
+~ Lưu: VT, KH; H04.Phụ lục
+(Kèm theo công văn số: “` /VCNTT-KH ngày 30 tháng 01 năm 2018).
+A. Bộ chỉ tiêu kỹ thuật của hệ thống mô phỏng máy điều khiển bắn
+pháo MR-123-02 MOD 3 trên tầu 1241.8 do tổ Viện CNTT nghiên
+cứu, thiết kế, chế tạo.
+Giao tiếp ngoại vỉ VGA Card Ô cứng SSD Bộ nhớ RAM 
+Bộ xử lý Phần thiết bị Hệ thống làm mát Độ âm tương đối không khí 
+Nhiệt độ môi trường làm việc Sơn và kỹ thuật sơn:
+~ Mẫu sơn
+~ Công nghệ sơn 'Vật liệu chế tạo:
+- Khung xương chính
+~ Cánh tủ vỏ bảo vệ Kích thước và trọng lượng:
+~ Chiều ngang khối giữa lớn
+nhất
+
+~ Tạo góc lớn nhất khối giữa
+~ Chiều ngang khối giữa nhỏ
+nhất
+
+- Tạo góc nhỏ nhất khối giữa
+
+- Chiều ngang khối dưới
+
+~_ Trong lượng chưa có thiết bị
+~ Trọng lượng có thiết bị 
+Phần thiết kế Tủ 3M-1 và tủ
+3M-2 Nội dung USB, Ethernet, COM, HDMI,
+DVL Display Port. SERIAL. GTX1070 
+250GB RAM 16GB CPU Core ¡7 3,4Gb Thép hộp 20x20mm
+Thép lá 
+(1740x600x220)mm
+800mm
+78,50
+320mm
+
+tí
+340mm.
+48kg
+>60kg 'Yêu cầu kỹ thuật 02 quạt thông gió 220V-
+50HZ 40% đến 80%, 
+%% đến 40% Màu vàng
+Tĩnh điện Ghi
+chú chủ, máy trạm của hệ thống mô phỏng máy điều khiển bắn pháo MR-
+123-02 MOD 3.
+
++ Bật máy tính giáo viên (máy chủ) của hệ thống mô phỏng máy bắn
+pháo MR-123-02 MOD 3.
+
++ Bật nút nguồn khởi động máy tính của 2 tủ 3M-1 và 3M-2.
+
++ Đăng nhập hệ thống trên máy giáo viên, sau khi đăng nhập thành công
+phần mềm trên máy giáo viên sẽ kích hoạt tất cả các chương trình mô
+phỏng mặt máy và quang truyền hình của tủ 3M-1 và tủ 3M-2.
+
++ Kiểm tra lại tất cả các máy trạm đã kết nối vào hệ thống để tiếp tục
+thực hiện các bước tiếp theo.
+
+Bước 2; Tạo kịch bản huấn luyện trên máy giáo viên và điều khiển
+các tình huỗng tác chiến trong suốt quá trình thực hành huấn luyện.
+19 18 13 12 
+11 10 Power Supply 'Hê điều hành 
+Đô ẩm làm việc "Nhiệt độ làm việc 'Tần số điện áp Điện áp đầu vào 
+Bàn phím, chuột 'TP Link 16 Port Hệ thống đàm thoại đơn công Hệ thống âm thanh loa 
+Màn hình LCD Dell 24" Thời gian tiến hành kiểm tra
+tổng thể các thành phần của tổ
+hợp SỐ. Thời gian sẵn sàng sau khi cấp
+nguồn nuôi 98% tại 35°C 
+0°
+đến
++55
+X
+° 50Hz 220—240VAC 620W 
+Wireless 10/100/1000Mbps 2 kênh có thể tăng lên 4 kênh %1 
+'Touch Screen, Full HD Full HD <2 phút <2 phút 
+Windows 10 + Từ phần mềm soạn thảo kịch bản, mở bài tập sẵn có hoặc tạo kịch bản
+mớitừ các công cụ đối tượng và công cụ di chuyển trên menu, kết hợp
+với các thao tác tương tác trực tiếp trên bản đồ.
+
++ Một kịch bản bài tập tạo ra có thể gồm: các đối tượng tĩnh như trực
+thăng treo, tàu chiến địch đang đứng yên; các đối tượn gở trạng
+tháichuyển động: máy bay trực thăng, máy bay phản lực, tàu chiến; các
+đường di chuyển có thể cập nhật, chỉnh sửa các tham số như tọa độ, độ
+cao, vận tốc và gán cho các đối tượng.
+
++ Điều khiển các tình huống tác chiến: Điều khiển các trạng thái của đối
+tượng:khởi tạo, chuyển động, tạm dừng, ẩn/hiện đối tượng, thay đổi
+đườngdi chuyển.
+
++ Điều khiển thay đổi các yếu tố thời tiế/môi trường: mây, mưa, sóng,
+gió, ngày đêm ..
+
++ Chọn đối tượng để quan sát, thay đổi góc tầm, góc hướng, khoảng
+cách quan sát ..
+
+Bước 3: Huấn luyện theo chức năng.
+
++ Các chế độ làm việc của đài ra đa.
+
++ Các chế độ làm việc của màn hình ra đa.
+
++ Các chế độ bám sát mục tiêu.
+
++ Thực hành tạo giả mục tiêu và hiệu chỉnh lượng sửa của trắc thủ pháo
+tại tủ 3M-2.
+
+Bước 4: Huấn luyện thao tác tại vị trí chiễn đấu.
+
++ Sục sạo và bắt tiêu.
+
++ Bám sát mục tiêu và xác định phần tử bắn.
+
++ Hiệu chỉnh chính xác quá trình bám sát khi đứt bám.
+
++ Phục hồi bám sát sau khi đứt bám.
+
++ Bám sát mục tiêu bay thấp.
+
++ Bám sát mục tiêu bằng tay.
+
+Bước 5: Huấn luyện điều khiển bắn pháo.
+
++ Bắn pháo AK-176 và AK-630 bằng ra đa.

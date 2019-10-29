@@ -1,0 +1,305 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 590/VCNTT-KH Hà Nội, ngày 21 tháng 12 năm 2018
+
+V/v xây dựng sơ đồ công năng cho Trung tâm
+Lắp ráp, chế thử và thử nghiệm VKTBKT
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ công văn số 473/TMKH-KHCNMT ngày 05/12/2018 của Phòng
+Tham mưu - Kế hoạch về việc xây dựng sơ đồ công năng cho Trung tâm Lắp ráp,
+chế thử và thử nghiệm VKTBKT,
+
+Viện Công nghệ thông tin báo cáo danh mục thiết bị và sơ đồ công năng
+trong các phụ lục kèm theo.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét. q_
+
+Nơi nhận: NIÊN TRƯỞNG
+~ Như trên; s
+~ Lưu: VT, KH; H03.
+
+  
+
+gối Đỗ Việt BìnhPhụ lục
+DANH MỤC ĐÀU TƯ TRANG THIẾT BỊ CHO TRUNG TÂM CHÉ THỦ, THỨ
+NGHIỆM CỦA VIỆN CÔNG NGHỆ THÔNG TIN
+(Kèm theo công văn số 590/VCNTT-KH ngày 21 tháng 12 năm 2018 của Viện Công
+nghệ thông tin)
+
+Zq\A*V/£
+Thiết bị nâng hạ, di chuyển bằng thủy lực, động.
+cơ điện 'Trang thiết bị, vật tư phục vụ tháo, lắp. Các thiết bị thu và phát hiện nhiễu. Các thiết bị đo tham số linh kiện, đi: 
+Các máy tính phân tích logic, tín hiệu, pÏ Các máy tạo tín hiệu, phát tín hiệu Các máy hiện sóng. "Trang thiết bị phục vụ đo kiểm 
+Các phần mềm phục vụ thử nghiệm Các loại nguồn, thiết bị tải, tạo giả tín hiệu. Các bộ nạp, phát triển FPGA. Các vỏ máy tính (Chassis) chuyên dụng phục vụ
+kiểm tra các loại card. 
+Các card, máy tính chuẩn thường gặp trong.
+VKTBKT Các bộ giao tiếp theo các chuẩn thường gặp trong
+VKTBKT "Trang thiết bị phục vụ thử nghiệm 'Các phần mêm hỗ trợ thiết kế 
+'Các hệ thống đo và tái tạo nguyên lý mạch điện tử 'Các thiết bị tháo linh kiện. 'Các thiết bị đọc ROM các loại Các máy scan, chụp mạch in 
+"Trang thiết bị phục vụ thiết kế, chế thử Nội dung, hạng mục đầu tư "Thiết bị lưu trữ. Các hệ thống máy chiếu. 
+Các máy tính xách tay. Đảm bảo hạ tầng CNTT
+Các loại máy chủ
+
+Máy tính để bàn cấu hình cao phục vụ thiết kế, lập
+trình, đồ họa mô phỏng Các Bộ dụng cụ chuyên dụng tháo lắp 8.600.000.000 
+40.200.000.000 40.200.000.000 4.500.000.000 2.300.000.000. 
+7.800.000.000. 20.700.000.000 6.900.000.000. 4.500.000.000 
+(00.000.000. 7.800.000.000 000.000.000 7.400.000.000 
+00.000.000 00.000.000 2.500.000.000. 35.500.000.000 
+Kinh phí (đồng) 21.500.000.000 1.300.000.000 3.200.000.000 
+3.200.000.000 35.500.000.000. TT Nội dung, hạng mục đầu tư Kinh phí (đồng)
+~_ | Thiết bi chuyển mạch 1.000.000.000.
+~_ | Máy in, photocopy. 500.000.000.
+~_ | Máy phát điện 1.000.000.000.
+VI | Vận chuyển, dị chuyển 4.600.000.000
+~_ | Ô tô chuyên dụng đề vận chuyển các trang thiết bị 2.400.000.000.
+~_ | Ô tô đưa đón cán bộ 2.200.000.000
+Tổng cộng 127.000.000.000.SƠBÒ
+
+    
+      
+     
+
+ 
+
+ 
+
+QUY HOẠCH VIỆN CÔNG NGHỆ THÔNG TIN TẠI KHU C/VIỆN KHCNQS
+(Sơ đồ kèm theo Công văn số /CNTT-KHngày _ /12/2018)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ÔNG HỢP NHU CẬU ĐIỆN TÍCH CÔNG TRÌNH.
+TT Tân nhà Bài [Rộng |Dệnweh| Số JBiệnte[ 6N
+hậu. đm) | (m) | XD (m2)| tảng | sàn (m2)| chú
+TỊ_ S1  |Nha làn vộc hôn hợp. 3ã| 12 38 2| 783
+2| S2 |Nhatve Sa 1Ị 1 — T3
+2| [MrỡngHpVKTBRT | Sổ 2| — TRR —T®Ị
+lưỡng mhế tứ, tữ
+In sỊ sỊ smj 2|  m|
+s| ©í [Căng canh
+j c2 |oðng phụ
+Cộng —
+Diện tích khu đất: 5.800 m2.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#9 tà.
+SƠPÒ
+QUY HOẠCH VIỆN CÔNG NGHỆ THÔNG TIN
+(Sơ đồ kèm theo Công văn số —_ /CNI 7 Ñ §1 TÔNG HỢP NHU CẢ 
+Diễn tích khu đất: 5.800 you
+nghiệm Xưởng tháo lấp VKIDKI Nhà làm việc hỗn hợp 
+Tên nà mỊ U ĐI 12 
+12 N T 16 Tan
+XD (m2) 
+H CÔNG TRÌNH 2322 8 Miu hay +:
+sổ 
+~-
+chú NHÀN ý c7
+
+1X ĐN(Q/1% VMAI ĐMW® LÿM
+
+®
+
+@
+0009 0009 0008 EeTrceceof=eeececercfCceceevereecsecartee-eece—eceetereeree-eee 24000
+
+—®
+
+ 
+
+000
+
+0008
+00021
+
+ 
+
+ 
+
+ 
+
+ 
+
+I2 x\ St ,!zg12000
+
+2000 |
+
+8000
+
+ 
+
+, 2000
+
+| Ị
+@ @ @ @®
+
+MẶT BẰNG TÀNG 2 NHÀ XƯỞNG X2
+
+\Hj“"\ 2 “9v @/Á@ “ý12000
+8000
+
+ 
+
+„2000.
+
+2Ð“
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ị | | |
+@® @  @ @
+
+MẶT BÀNG TÀNG 1 NHÀ S1
+P1 P2 5000 P4 12000
+8000
+
+2000 ¡
+
+ 
+
+| 2000
+
+ 
+
+== 2ƒ D) |
+
+=——CPhụ lục
+BÔ TRÍ CÁC TRANG THIẾT BỊ TẠI CÁC VỊ TRÍ
+(Kờm theo công văn số 590/VCNTT-KH ngày 21 tháng 12 năm 2018 của Viện Công
+nghệ thông tin)
+
+I. Nhà xưởng XI:
+Danh mục các trang thiết bị bố trí tại nhà xưởng XI:
+4) Trang thiết bị phục vụ thiết kế, chế thử:
+
+~ Các máy scan, chụp mạch in.
+
+~ Các thiết bị tháo linh kiện
+
+- Các máy hàn linh kiện
+
+~ Các hệ thống đo và tái tạo nguyên lý mạch điện tử.
+
+Ð) Trang thiết bị phục vụ đo kiểm
+
+- Các máy hiện sóng,
+
+~ Các máy tạo tín hiệu, phát tín hiệu
+
+~ Các máy tính phân tích logïc, tín hiệu, phổ
+
+~ Các thiết bị đo tham số linh kiện, điện áp
+
+~ Các thiết bị thu và phát hiện nhiễu
+
+©) Trang thiết bị, vật tư phục vụ tháo, lắp
+
+~ Thiết bị nâng hạ, di chuyển bằng thủy lực, động cơ điện
+- Các Bộ dụng cụ chuyên dụng tháo lắp
+
+II. Nhà xưởng X2:
+
+Danh mục các trang thiết bị bố trí tại nhà xưởng X2:
+1. Phòng “P1”:
+
+Trang thiết bị phục vụ thiết kế, chế thử:
+
+~ Các thiết bị đọc ROM các loại.
+
+2. Phòng “P2”:
+
+Trang thiết bị phục vụ thử nghiệm
+
+- Các bộ nạp, phát triển FPGA.
+
+3. Phòng “P3”
+
+Trang thiết bị phục vụ thử nghiệm
+
+- Các loại nguồn, thiết bị ải, tạo giả tín hiệu
+
+4. Phòng “P4”
+
+Đảm bảo hạ tằng CNTT.
+
+~ Máy phát điện
+
+5. Các Phòng “P5”, “P6? và “P7”
+
+Trang thiết bị phục vụ thử nghiệm.
+
+~ Các bộ giao tiếp theo các chuẩn thường gặp trong VKTBKT
+~ Các card, máy tính chuẩn thường gặp trong VKTBKT.
+~ Các vỏ máy tính (Chassis) chuyên dụng phục vụ kiểm tra các loại card.
+6. Phòng “P8”
+
+~ Máy chủ, thiết bị lưu trữ
+
+XU 0N

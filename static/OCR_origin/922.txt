@@ -1,0 +1,848 @@
+VIÊN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 459 /H-VCNTT Hà Nội, ngày 42 tháng40 năm 2017
+PHÊ DUYỆT
+Ngày 42 tháng ÁOnăm 2017
+
+KÉ HOẠCH
+Triển khai thực hiện đề tài cấp Bộ Quốc phòng.
+thuộc ĐỀ án KC-T “Nghiên cứu thiết kế và chế
+tạo khối chức năng IIII9VN, HBB34VN trong
+máy tính trên khoang BILBM-20-701 của đạn
+tên lửa 3M243” (Mã số KC.T-27)
+
+ 
+
+Căn cứ Quyết định số 1195/QĐ-VKHCNQS ngày 09 tháng 8 năm 2017
+của Giám đốc Viện KH-CN quân sự về việc giao kế hoạch phân cấp ngân sách
+sự nghiệp Khoa học và Công nghệ đợt 2 năm 2017 cho Viện Công nghệ thông:
+tin (Ngân sách SNKHCN);
+
+Căn cứ Hợp đồng Khoa học và Công nghệ số 1933/2017/HĐKHCN ngày
+17 tháng 8 năm 2017 giữa Cục Khoa học quân sự/BQP, Ban Chủ nhiệm ĐẺ án
+KCT và Viện Khoa học và Công nghệ quân sự, Viện Công nghệ thông tin, Chụ
+nhiệm để tài;
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ
+cấp BQP thuộc Đề án KC-T: “Nghiên cứu thiết kế và chế tạo khối chức năng,
+TIITI9VN, IIBB34VN trong máy tính trên khoang BLIBM-20-701 của đạn tên
+lửa 3M242” (Mã số KC.T-27),
+
+Viện Công nghệ thông tin và Tổ đẻ tài đề xuất kế hoạch triển khai thực
+hiện như sau:
+
+ 
+
+1. THÔNG TIN CHUNG VẺ ĐÈ TÀI
+1. Tên đề tài: “Nghiên cứu thiết ké và chế tạo khối chức năng IIIIII9VN.
+TIBB34VN trong máy tỉnh trên khoang BIJBM-20-701 của đạn lên lửa
+3242” (Mã số: KC.T-27)
+2. Chủ nhiệm đề tài: Thiếu tá, ThS. Nguyễn Minh Thường
+3. Đơn vị chủ trì thực hiện đề tài: Viện Công nghệ thông tin
+4. Thời gian thực hiện đề tài: 30 tháng, từ 8/2017 đến 2/2020
+5. Nguồn vốn: Ngân sách sự nghiệp khoa học
+6. Tổng kinh phí thực hiện đề tài: 7.160.000.000 VND (Bay ty một trăm.
+sáu mươi triệu đồng chẵn).Đơn vị tính: Triệu đồng
+2 21 20 I. KẾ HOẠCE
+1. Thực h 
+~ Năm thứ ba ~ Năm thứ hai ~ Năm thứ nhất Tổng kinh phí 
+Nguồn kinh phí Nguyễn Văn Thạch Dư Đình Cường Dư Đình Cường 
+Bùi Anh Văn Đồ Thị Mai Hường “Trân Trung Dũng Nguyên Văn Như 
+Nguyễn Manh Hùng “Trân Công Huân Nguyễn Ngọc Nam Doân Văn Minh 
+Nguyễn Đình Cảnh Nguyễn Xuân Nghĩa "Vũ Hoàng Anh Họ và tên 
+THỰC H
+ên thuê kh‹
+
+ống hợp cá 2.706,308 3.937,827 7,160,000 
+Tổng số Kỹ thuật viên,
+Nhân viên hỗ trợ Kÿ thuật viên,
+Nhân viên hỗ trợ Kỹ thuật viên.
+'Nhân viên hỗ trợ 
+“Thành viên “Thành viên “Thành viên "Thành viên 
+Chủ nhiệm nhánh 4 Ẽ
+
+nhiệm nhánh 3 Chủ nhiệm nhánh 2 Chủ nhiệm nhánh 1 
+Chức danh 190,515 743.925 650.637 
+1.585.077 Trả công,
+lao động I
+môn:
+
+ï SÁCH
+\ tham gia 76.250. 
+1.939.000 2.363.240 4.378.490 Nguyên
+vật liệu,
+năng
+lượng 
+290 Số ngày
+lon ng 265 265 
+350 hực hiện ‹ 860.000 Thiết bị,
+máy:
+móc 
+034
+034 034 Hệ số Š tài
+7n vị tính: T 
+Xây
+dựng, sữa
+chữa nhô 38,599
+
+46.585 116.426 Thành
+tiền 
+12 DANH SÁCH
+'Tổng hợp theo chức danh
+
+Đơn Kỹ thuật viên.
+
+24 | Đào Trung Dũng Thiên 3/6WHŠ Hư
+
+231 | 6.11 Kỹ thuật viên, Nhân viên hỗ trợ 
+“Thành viên chính.
+(Thư ký, Chủ nhiệm nhánh,
+thành viên chính). Chức danh tham gia Đào Văn Hưng Đo đạc, hiệu chỉnh và chính xác hóa các sơ.
+đồ đâu nối đi
+của thii 
+Doãn Lăn Minh Khảo sát, đo đạc nguội hệ thông Ll-074, xác
+định tổng quát chức năng điện của thiết bị
+máy tính trên khoang (MTTK) và các thành
+phân kiác trong hề Mông Bùi Anh ăn Nguyên Ngọc Nam. 
+Nguyên Minh Thường Nghiên cứu cơ sở lý thuyết về hệ điê tu khiển.
+quán tính. Tổng hợp các tư liệu kỹ thuật của
+hệ thống 11-074 Nội dung 1: Nghiên cứu, sự trao đôi thông
+tin trong hệ xh_ điểu khiển quán tính
+H074 Các nội dung thực hiện. 
+BẰNG MÔ TẢ CÔNG VIỆC
+(Tính công lao động trực tiếp) 034 HỆ số công 123 
+30 đã 105 1648 
+Số ngày
+thản su 17/08/2017 17/08/2017 7/0/2017 
+17/08/2017 17/08/2017
+
+17/08/2017 Bắt đầu Đơn vị tính: 
+Tiền công
+
+  
+
+677,987 23/08/2017 28/09/2017 2419/20/77 
+12/H12017 H09/2017 530820127 12/10/2017 
+30/08/2017 30/04/2017 H/09/2017 09/11/2017
+
+ 
+
+14/09/2017 
+Kết thúc: vị tính: Triệu đồng 30746] 1 Triệu đẳng 
+Tỷ lệ (%) 14.16 Tản,
+dần
+
+126,58
+
+33.83 
+23 32 15 Trên Công Huận 
+Nguyên Văn Như. 4Đoãn Văn Minh Nguyên Công Thức Nguyên Đình Canh 
+Nguyên Minh Thường Nghiên cứu trao đôi thông tin giữa card
+TIHH9 và các khối chức năng khác trong
+MTTK Nội dung 2: Nghiên cứu sự trao đôi thông.
+tin trong khối MTTK EIIBM20-701 Độ ÁMíanh Hùng 
+Nguyên Văn Thạch Dư Đình Cường Bùi Anh Văn Tạ Bá Dũng 
+Trán Trung Dũng Tô chức đo đạc và xác định sơ đỏ luông tín
+hiệu giữa MTTK BLIBM20-701 và các thành
+phần chức năng khác trong hệ thống LI-074
+và với các siếc đấu nổi ra ngoài hệ thông. Đào Trung Dũng ;Đỏ Mạnh Hùng 
+Nguyên Lần Thạch Đư Đình Cưởng Nguyên Mạnh Hùng Lũ Đức Tảm 
+Ngưưuyên Định Canh Khảo sát, tìm hiểu đôi các khỏi chức năng
+khác của hệ thống LI-074 Đỏ ÀNfạnh Hùng Nguyên Văn Thạch 
+“Dư Đình Cường Bùi Anh Lần Trủn Công Huản. Nguyên Nược Nam 
+Nghiên cứu trao đổi thông tin giữa card
+TIAY4 và các khối chức năng khác trong
+MTTK Đào Trung Dũng “Bùi Anh Văn Đồ Thị Mai Hường 
+Trân Trung Dũng Vũ Đức Tân Nguyên Chỉ Đức Nguyễn Xuân Nghĩa 
+Nguyên Minh Thưởng Nghiên cứu trao đôi thông tin giữa card
+TIAY3 và các khối chức năng khác trong
+MTTK 20 165 
+30 20 185 2U 
+JỤ jU 165 20 
+20 20 20 20 
+© 105 725 F... 
+145 3$ 20 20 
+20 j0 jủ 29/09/2017 
+29/09/2017 31/08/2017 !309/2017 SG
+18/09/2017 
+02/102017 (0A/09/2017 08/09/2017 L3/0U0CSg Lầu
+17/08/2017 
+_22/12/2017
+10112017 1708/20.
+10/71/2017 17/08/2017
+
+ 
+
+T7082017 29/09/2017 
+17/0301 17/08/2017 3J0N2017 13102017 
+139092017 17/08/2017
+
+TT3/09/2017 !8/09/2U1 9092017 
+15/12/2017 17/08/2017 _I4/09/2017
+_14/09/2017.
+
+ 
+
+11/12/2017 02/11/2017
+
+711082017 
+49/11/2017.
+"09/1/2017 (9//12017 21⁄12/2017 1409/2017 
+THAN?U017 0911/2017 05092012
+
+ 
+
+ 
+
+13102017 17/11/2017
+
+317092017 
+13/10/2017 l3⁄10,2017 13108207 l4/00/2017 
+27/10/2017 11122017 H/09/2017 12/102017 
+09/⁄/112017 
+32, 31 25 z4 
+Nghiên cứu trao đôi thông tin giữa card
+IIBB35 và các khối chức năng khác trong
+MTTK Nguyên Văn Thạch Bùi Anh Văn Đồ Thị Mai Hường 
+Vũ Đức Tân Trản Công Huân Nguyên Ngục Nam Là Bá Thư 
+Nguyên Văn Như Nguyên Minh Thường Nghiên cứu trao đôi thông tin giữa card
+IIBB34 và các khối chức năng khác trong
+MTTK ®Đào Trung Dũng 
+Tạ Bá Dùng Trủn Trung Dũng Hiệu chỉnh kiểm chứng sơ đô đâu dây card.
+Tiin9 Nội dung 3: Xây dựng hoàn chỉnh bộ sơ đô
+man ướu ng TRHï5 
+Đồ Mạnh Hùng Dư Đình Cường Nguyên Ánh Hùng Tạ Bá Dùng 
+Nguyên Ngọc Nam Nguyên Văn Như Vũ Đức Tản Trần Công Huán 
+Lê Bú Thư Đào Lăn Hưng Nguyên Công Thức Nguyên Xuân Nghĩa 
+Nguyên Minh Thường Trần Công Huân Doãn Văn Minh Nguyên Đình Cảnh 
+Nguyên Xuân Nghĩa Nguyên Minh Thường Phân tích xác định chức năng các khôi trong,
+card IñIN9 Đỏ Thị Mai Hưởng 
+Nguyên Àáanh Hùng Tạ Bá Dũng Trần Trung Dũng Nguyên Ngọc Nam 
+Lê Bá Thực Nguyên Công Thức Nouyên Minh Thường +20
+
+ 
+
+39 
+20 20 20 145 
+}”»" 20 20 20 
+20 165 /0 20 
+“ 20 ;/d J0 
+J0 20 20 j3 
+j3 j3 164 20 
+30 j;0ủ 10 ¡i0 
+¡0 220 20 20 
+20 20 /}'ộMI12017 08/12/2017 
+10102017 29/09/2017 !15⁄I2/2017 13092017 
+4/11/2017 13102017 3102017 /10112(017 
+31/08/2017 13/10201-
+15/09/2017 27/10/201-
+22/09/2017 22092017 
+!I7⁄102017 22/09/2017 22/09/2017 13/10/2015
+_30/01/2018.
+
+30/01/2018 
+08/09/201-
+131020. 22/09/2017 ĐC Cha k6
+11210201: 11/10/2017 
+!I0/11/2017 05/0312018 07⁄122017. (08/01/2018 
+07/13/2017
+
+TH102017 05/02/2014.
+309/132017 12/10/2017 12/10/2017 
+11/122017
+
+ 
+
+02122017 (09112017 (090:112017 11/13/2017
+
+ 
+
+102017 
+29//2/2(017 1202017 t9 1120117 [/09/2012
+34102017 
+10/112017 233702017 02/12/2017 14/03/2018 
+24/01/2018 (19/11/2017 07/12/2017 T0?/122017 
+14/1201” _J1L20I:
+3110201: 
+44 43 ¬ 42 
+41 34 33 Phân tích xác định chức năng các khối trong.
+card [IBB34 
+Dư Đình Cường Trần Công Huân Đoãn Văn Minh Nguyên Đình Cảnh 
+Hiệu chỉnh kiếm chứng sơ đô đầu dây card.
+IBB34 Nội dung 4: Xây dựng hoàn chỉnh bộ sơ đồ
+nguyên lý của card IIBB34 Nguyên Đình Cảnh Vũ Hoàng Anh 
+“Chuyển bộ sơ đô đâu dây card [HITI2 sang sơ
+đồ nguyên lý Bùi Anh Văn Tạ Bá Dũng Nguyên Minh Thường 
+Chuyên bộ sơ đồ đầu dây card [IBB34 sang
+mix ưu ll Đào Trung Dũng Đô Mạnh Hùng Nguyên Công Thức 
+Nguyên Xuân Nghĩa Nguyên Minh Thường Xác định giá trị và ý nghĩa của các đường tín
+hiệu trong card IIBB34 Bùi Anh Văn 
+Nguyên
+
+m Đình Cảnh Nguyên Xuân Nghĩa Nguyên Minh Thường Nguyên Máunh Hùng 
+Trần Công Huán Nguyên Vàn Như Nguyên Văn Thành Nguyên Công Thức 
+Nguyên Minh Thưởng “Xác định giá trị và ý nghĩa của các đường tín.
+hiệu trong card ITII9 ®Đỏ Thị Mai Hường Nguyên À£fuqnh Hùng 
+Tạ Bá Dũng Trân Trung Dũng Trín Trung Dũng Vũ Đức Tân 
+20 10 HH!) 1" 
+15 xi 23 20 
+30 3Ó 30 165 
+20 20 20 105 
+30 30 3 20 
+30 15 36 đó 
+} j/u 10 107 
+¡0 155 30 30 
+3Ó 30 3g 02/0%⁄201A 
+02/05/2018 23/11/2017
+02/05/2018 29/11/2017 10/11/2012
+13/11201 
+03⁄02⁄2018 lHI/122017 10/11/2017 23/012101A 
+_09/11/201ˆ.
+_09/01/2018`
+23/01/2014. 06/06/2014 (02/0352014 16/05/2018
+02/052015 
+02/05/2018 ;H/01%⁄2018 02/05/2018 02/05⁄2018 
+02/0%2014 02/0%201A64 (2⁄05/201!1A 02/05⁄201A 
+27⁄112017 09/11/2017 MMHIIDOU1T (@/12/2017 
+30/01⁄201A 02/03⁄⁄2014 04/06/2018 02/05/2018 
+05/06/2018 2/0/6201 12/06/2018 (09/03⁄201A4 
+13/2/2017 09/03/2018 03022018 26/06/2014 
+12062018 06/07/2018 39117201A 29/012018 
+23/02/2018
+01:
+
+ 
+
+  
+
+ 
+
+15052018 20/06/2018 29/05/2014 I3/0%⁄201A 
+26/06/2014 !1ý0%2018 26/06/2018 2A4/112017 
+01/12/2017 14/03/2018 +0,
+
+ 
+
+ 
+
+3H: 5II2 
+44.47
+
+117452 40.35 
+62 5.5 54 $3 
+1 Doãn Văn Minh Nguyên Đình Cảnh GHI HG dụ Hà. HP HIEL
+
+Nguyễn Xuân Nghĩa. 
+Lặp ráp linh kiện card IIRB34VN Dư Đình Cường Bùi Anh Văn Nguyên Văn Thành 
+Đoằần Văn Minh Nguyên Vuân Nghĩa Nguyên Minh Thưởng "Thiết kê sơ đồ mạch in card [IBB34VN 
+“Dư Định Cường Nguyên Mạnh Hùng Trản Công Huận Nguyên Minh Thường 
+“Thiết kê sơ đô nguyên lý card [IIBB34VN Nội dung 6:Thiết kế chế tạo card
+TIBB34VN Viết chương trình firmware cho card
+THII9VN Đào Trung Dũng 
+Nguyên Văn Thạch Nguyên Công Thức Nguyên Định Cảnh Ngưyéớn Xuân Nghĩa. 
+Nguyên Minh Thường Kiêm tra hiệu chỉnh mạch điện card
+TIII9VN Đào Trung Dũng Nguyên Công Thức 
+Nguyên Xuân Nghĩa Nguyên Ađinh Thường _Lp ráp linh kiện card IIIII9VN Đào Trung Dững 
+"Nguyên Đình Cảnh.
+Šn Công Thức
+Đồ Mạnh Hùng Nuuyên Xuân Nghĩa Nguyên Minh Thường “Thiết kê sơ đỗ mạch in card [IIII9VN 
+Nguyên Văn Thạch — Đự Đình Cường Ó Thị Afui Hường Nguyên Ngọc Nam
+XHng dòng lo 
+Nguyên Minh Thường “Thiết kê sơ đỗ nguyên Nội dung 5: Thiết kế chế tạo card
+TIII9VN Đỏ Anh Hùng 
+1ì /0 ;u LÍ 
+I0 /jU 20 20 
+6S 20 2U 20 
+J0 lù lụ 1 
+20 l1 Hị!) lữ 
+¡ng /0 715 j0 
+j1 /0 $§§ ụ 
+tHỊ /Ð I0 LÍ 
+M:) /u Rs 270 
+20 HI/0L2019 17/12/2018 17/12/2018
+1712/2018. 
+Thuê ngọi 08/102018 08/04/2019 27/0225019 
+3022019 18/03/2019 14/09/2018 02/!10201A4 
+092/10/2014 18/09/2018
+09102014 07/19/2018 _18/09/2018
+_IH092014 
+8/09/2014 03/10201N 04/09/2014 27/08/2018 
+dán ch nh, 13/08/2018 13/08/2018 15/052019 
+22/02/2019 22/02/2019 2010 29/03/2019.
++2n/9
+(1140320190 
+ng lên
+)4/012019 1401.2019 07/06/2019
+—21/03/2019 (2/11/3(H1A 
+(2/11/2014 13.10/2018_
+
+ 
+
+01102018 28/11/2018
+
+   
+
+ 
+
+"HšI0201X (H/10L201A 
+12002011 17092014 37/08/2014 _=#:0X 2013.
+
+  
+
+_77:09:2078.
+_06 09 2018.
+)6⁄00:2(114 
+—— 1843 
+?7 16 75 714 
+2 Từ 65 64 
+“Thiết kê sơ đô khôi, sơ đô nguyên lý của
+bị kiểm tra card InIN90 "Bùi Anh Văn Nguyên Đình Cảnh S
+
+Ngưuên Xuân Nghĩc 
+"Thiết kề cơ khí thiết bị kiêm tra card IIIII9 Bùi Anh Lăn Nguyên Xuân Nghĩa Xây dựng kịch bản kiểm tra card TITI1I9 
+Nội dung 7: Thiết kê chế tạo thiết bị kiêm
+tra và thử nghiệm IHIHI9 tại phòng thí
+nghiệm Viết chương trình firmware cho card
+TIBB34VN Ngưyên Văn Thành §Đoäãn Văn Minh 
+Nguvên Đình Canh Nguyên Minh Thường Kiếm tra hiệu chỉnh mạch điện card
+TIBB34VN lũ Đức Tủún 
+Lắp ráp linh kiện thiết bị kiểm tra card
+TIII9 Trần Công Huân Nguyên Đình Cảnh Nguyên Xuân Nghĩa 
+Nguyên Minh Thường “Thiết kế sơ đồ mạch in thiết bị kiểm tra card.
+Tmns Nguyên Mạnh Hùng Và Đức Tân 
+Trần Công Huáín Vũ Hoàng Ánh Nguyên Minh Thường "Viết chương trình firmware cho thiết bị kiêm
+tra card ITIHI9 
+Đào Văn Hưng Đoãn Văn Minh Nguyên Minh Thường Kiểm tra hiệu chỉnh mạch điện thiết bị kiếm
+tra card INII9 
+Nguyên Đình Cảnh Nguyên Xuân Nghĩa Nguyên Minh Thường 7 
+¡i0 T0 /0 30 
+20 20 20 20 
+1"! 10 s%S 429 
+H5 rủ 75 20 
+95 64 j0 20 
+30 195 16/10/2018 310/10/2011 
+30/10/2018 23⁄102014 01112014 02/10/2018 
+16/10201A 16/10/2015.
+16/10/2018 02/10/2018
+
+02102018 “Thuế ngoài 
+/5⁄0%⁄2019| 11/062019 I3⁄05⁄2019| 07/06/2019 13/05/2019 13/03/2019 
+09/04/2010 26/12/2018 13/11/2015.
+03722015 30/10/2018 
+(1/11/2011 01⁄11/201A 08/10/2018 29/10/2018 
+07/01/2019 26/1220I1ÁÄ 09012019 IHI200
+
+ 
+
+24/12/2018 
+16112018 16/11/2018 28/11/2014 I5⁄102018 
+297102015 29/04/2019
+
+ 
+
+28/112018 29/04/2019 13/02/2019.
+
+ 
+
+“13022019 
+14122018 2⁄4⁄I22014 0U3⁄11201L 17⁄12201A 
+05/03/2019. 22/02/2019 20/04/2019 322/03/2019 Nguyễn Công Thức 5| 11122018)
+Đoận Văn Minh: - 5$ | 19112013). sỉ
+Nội dung 8: Thiết kế chế tạo thiết bị kiếm Ï ¡ l
+§ tra và thử nghiệm IIBB34 tại phòng thí | 615 07/01/2019 ¡ 20/05/2019 176,42 l
+nghiệm. Ì
+§]_ | Xây dựng kich bản kiếm tra card TIBB34 35 | 2/01/2019| 28032019| — 1289|
+Nguyễn Minh Thường_ $— | 29/01/2019 | 11/02/2019 |
+Nguyễn Chỉ Đức 30__[ 01/03/2019 | 28032019 Ì ị
+Bùi Anh Văn 10— | 01/03/2019 | 14/03/2019 —
+'§2_ | Thiết kế cơ khí thiết bị kiếm tra card HBB34 | 89 | 12/02/2013 10/04/2019. -iinB]
+Nguyễn Minh Thường $— | 1203⁄20191 18022019 :
+Vũ Hoàng Anh 28 04/03/2019 | 10042079 |
+Nguyễn Đình Cảnh 8| 14/02/2019 | 35:03⁄2019 ị
+Đào Văn Hưn; —T X»_} 508500] 03042018 Ị
+83 Nữ ve ï Ki n nguyên lý ciathiết | ¡gy | 07/01/2019| 2005/2019 | 41-55
+Nguyễn Văn Thành 20_—| 97/01/2019 | 01/02/2019]
+Trần Công Huán 54 | 16/01/2019 | 08/04/2019
+Trân Trung Dũng, 54 | 01/03/2019 | 20/05/2019
+Tụ Bá Dũng ` 54 | 01/03⁄2019| 2005/2019) _._ |
+84 H. sơ đỗ mạch in thiết bị kiếm tra card | gọ | 1g/02/2019 | 10/04/2019 | 3623|
+Nguyễn Minh Thường. 3—_| H/032019 | 25/02/2019.
+"Nguyễn Xuân Nghĩa 25] 04/03/2019 | 05/04/2019 |
+Nguyễn Công Thức 25 | 07/03/2019 | 10/04/2019
+Nguyễn Văn Thành 25 | 23/02/2019 | 29/03/2019 |
+Nguyễn Mạnh Hùng Tô | 01/03/2019 | 14/03/2019 |
+85 ng linh kiện thiết bị kiểm ta card[ la¿ | 0/03/2019 | 11/04/2019 18,63
+Nguyễn Minh Thường. 4| 12032019) 131032019 1
+Dự Đình Cường — 30_—| 01/03/2019 ]_11/04/2019 Ị
+Nhan Văn Thạch 30 —| 0/03/2019 | 11042019 Í
+Mạnh Hùng — [3 | 01/03/2019] 11/04/2019
+vộP Trung Dũng. ù 30 | 01/03/2019, 11/04/2019) —......
+Kiểm tra hiệu chỉnh mạch điện thiết bị kiếm Bi
+86 | va cadHBB34 9s | 01/03/2019 | 12/04/2019 160
+Nguyễn Minh Thường. 3—]| B8/012019 | 12/04/2019
+Đỗ Thị Mai Hường _ T0 | 01/03/2019 | 14/03/2019
+Dự Đình Cường 20 | 12/04/2019 | 14/05/2019 !
+Nguyễn Văn Thạch 20 | 12/04/2019 14/03/2019 ì
+Độ Mạnh Hùng 20 | 12/04/2019 | 14/05/2019
+Đào Trung Dũng. 20] 12/04/2019 14:03/2019.
+s2 _ | Viết chương trình fimmware cho thiết bị kiếm "Thửẽ goất
+-ˆ_ | ta card [IBB34. HEỆI
+Nội dung 9: Thử nghiệm IHHI9VN tại
+®_| phòng thí nghiệm tRÌ| qạs | 12/08/2019 | 1510/2019
+9 Em card III9VN với thiết bị kiểm tra | l¿s | 12/08/2019 | 15/10/2019
+Nguyễn Minh Thường, 3 —]| 12/082019 | 16082019 Ỉ
+Nguyễn Xuân Nghĩa T0 | 12/08/2019 | 23/0A .2019
+Nguyễn Văn Thành TƠ— | 12/08/2019 | 33:082019 h
+Bùi Anh Văn 30 | 04/09/2019 | 15/10/2019
+_Dự Đình Cường 30. | 04/09/2019 | 15/1/2013.
+Nguyễn Văn Thạch 30—-| 04/09/2019 | 15/10/2019 |
+Đồ Mạnh Hùng 30-1 04/09/2019 | 15/1/2019
+Nguyễn Côi
+Doãn Văn 1
+
+ 
+
+Nội dung 8: T
+8 tra và thử ng
+nghiệm.
+
+ 
+
+81 | Xây dựng k
+
+ 
+
+y dựng kích.
+Nguyễn Mi
+Nguyễn Ch
+Bùi Anh Và
+
+ 
+
+82 | Thiết kế cơ khí
+
+ 
+
+Nguyễn Mĩ
+Vũ Hoàng.
+Nguyễn Đì
+Đào Văn F
+Thiết kế sơ đỏ
+bị kiểm tra car
+Nguyễn Và
+Trận Côni
+Trần Trun,
+Tạ Bá Dãn
+“Thiết kế sơ để
+TIBB34
+Nguyễn M
+Nguyễn Xi
+Nguyễn Có
+Nguyễn V
+Nguyễn Ì/
+s2 | Lấp ráp lỉnh
+:Ì |TIBB34
+Nguyễn M
+Dự Đình (
+Nguyễn V
+Độ Mạnh
+Đào Tran
+Kiếm tra hiệ
+tra card TIBB
+Nguyễn À
+Đỗ Thị
+Dự Đình
+Nguyễn Ï
+Đô Mạnh
+Đào Tran
+'Viết chương
+tra card TIBE
+Nội dung
+phòng thí nị
+gị | Kiếm tra cái
+* |nmp
+
+ 
+
+83
+
+ 
+
+ 
+
+84
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+%6 87 91 53] 11/12/2014 | 03/032012)
+$
+
+hiết bị kiếm Ị '
+
+¡ phòng thí | 615 07/01/2019 ( 20/05/2019
+
+TIBB34 35] 2/01/2019 | 28/03/2019:
+
+$—[ 29/01/2019 11/02/2012
+
+30__[ 01/03/2019 | 28032019 Ì
+
+10— | 01/03/2019 | 14/03/2019
+
+rảIBB34 | 89 | 12/02/2019 | 10/04/2019
+
+N 12/02/2019 Ì_1A:022019
+
+28 04/03/2019 | 10042079 |
+
+28 | H4/02/2019| 3š:032019
+
+28 | 25/02/2019. 03042019
+
+n lý của thiết | g2 | 07/01/2019 | 20/05/2019
+20 | 077012019 01/022019 | `
+
+54 | 16/01/2019 | 08/04/2019
+
+54 | 01/03/2019 | 20/05/2019
+54 | 01/03/2019 | 20/03/2019 |_
+
+kiểm tra card | ọo | 19/02/2019 | 10/04/2019
+3_ | 2019| 23022019]
+
+25] 04/03/2019 | 05/04/2019
+
+25 | 07/03/2019 | 10/04/2019
+
+25 | 23/02/2019 | 29/03/2019 |
+
+Tô | 01/03/2019 | 14/03/2019
+
+dếm tra card ¡24 | 0/03/2019 | 11/04/2019
+
+4| 12032019) 131032019
+
+30 ~11204/2019
+
+30 1104/2019
+
+30 | 0103/2019 | 11/04/2019
+
+30 | 01/03/2019) 11/04/2019
+
+n thiết bị kiểm | ọs | 0/03/2019 | 12/04/2019
+
+3—]| B8/012019 | 12/04/2019
+
+T0 | 01/03/2019 | 14/03/2019
+
+20 | 12/04/2019 | 14/05/2019
+
+20 | 12/04/2019 14/03/2019
+
+20 | 12/04/2019 | 14/05/2019
+
+20 | 12/04/2019] 1403/2019] 
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 5
+
+Lbị Hiểm Ị
+
+hòng thí 615 67/01/2019 ( 2
+
+T1 35] 2/01/2019
+3—| 2012019
+20— | 0/03/2019
+T0—]_ 01/03/2019
+
+IIIBB34 | 89 | 12/02/2019
+$_— | 1202019
+28 04/03/2019
+28—| 1/02/2019
+2g—| 25/02/2019
+
+ý của thiết | g2 | 07/01/2019 | 2
+39 07/01/2019 | d 35 182 3“ 
+3 3d 20 34 
+s34 90 H:!) 259 
+30 30 30 124 
+%5 20 ¡1 _/!2/012019 
+12/02/2019 _04/03/2019
+_ 14/02/2019.
+_ 35/02/2019 Ì
+
+07/01/2019
+07/01/2019.
+
+ 
+
+16/01/2019
+
+ 
+
+ 
+
+01/03/2019.
+01/03/2019.
+
+19/02/2019 _19/02/2019.
+“04/03/2019 _07/03⁄2019 
+325/02/2019 .”......
+01/03/2019
+_12/03/2019
+
+ 
+
+ 
+
+ 
+
+_0/03/2019
+01032019 01032019 12/04/2019 
+_0//03⁄2019 08/04/2019 01/03/2019 _29/03/2019
+14/032019 |
+
+11/04/2019.
+
+ 
+
+ 
+  
+
+/04/2019.
+0422019
+L 11/04/2019.
+
+13/04/2019. 
+_12/04/2019
+14/03/2019
+14052019 2. Thực hiện mua sắm nguyên vật liệu, thiết bị, máy móc, vận chuyên, lắp
+đặt:
+“Thực hiện theo tiến độ đề tài, tổng kinh phí: 5.238.490.000 VNĐ.
+
+Trong đó:
+— Năm thứ nhất: 3.223.240.000 VNĐ.
+— Năm thứ hai: 1.939.000.000 VNĐ.
+— _ Năm thứ ba: 76.250.000 VNĐ.
+12 102 10.1 92 
+Đô Mạnh Hùng Nguyên Văn Thạch Nguyên Mạnh Hùng Nguyên Văn Thành 
+Nguyên Xuân Nghĩa Nguyên Minh Thường lung 12: Viết báo cáo tông kết, báo
+cáo tâm tắt Bùi Anh Văn 
+Nguyên Văn Thành Doãn Văn Minh Nguyên Xuân Nghĩa Nội dung l1: Thử nghiệm IHIHI2VN,
+TIBB34VN tại căn cứ 696 
+Nguyên Ngọc Nam Nguyên Văn Thành Nguyên Đình Cảnh Nguyên Xuân Nghĩa 
+Nguyên Minh Thường Bùi Anh Văn Nguyên Đình Canh Nguyên ÀÁlinh Thưởng 
+Kiêm tra card IIBB34VN với thiết bị kiêm
+tra IBB34 nhàng thị nghi Trần Công Huản Nguyên Đình Cảnh 
+Nguyên Minh Thườn;
+Ngướn Tu Nuân 20 105 20 
+20 20 20 /ju 
+% 200 HN! 20 
+20 j0 130 20 
+20 10 20 80 
+12/12/2019 12/12/2019 12/12/2019 01⁄112019 
+01112010 01/112010 (1/11/2019 01/11/2019 
+03⁄122019 03⁄J2/20190 04/09/2019
+
+  
+
+01/11/2019
+
+04/11/2019
+03122019 04/n9: 
+_04/09'2\
+104/09/2019 (13⁄022030 03/02/2020 12/12/2019 
+0711:2019
+31.3019 28/11/2019 112019
+307122019 30/12/2019
+
+30/13/2019
+
+09/12/2019.
+147122019 
+09/01/2020 09/0/2020 09/01:2020 29722019 
+09/01/2020. 24/11/2019 2811/2012.
+28/11/2019 24/1/2019 
+28/022020 28/02/2020. 3. Thực hiện kế hoạch khảo sát, kiểm tra, thử nghiệm, nghiệm thu:
+Đơn vị tính: Triệu đồng
+26 25 24 Lửj 
+22 27 4. Thực hiện tổ chức hội thảo: Đánh giá nghiệm thu đề tài KHCN
+cấp quân lý 
+Đánh giá nghiệm thu đê tài KHCN
+cấp cơ sở. Thâm định bộ tài liệu thiệt kế Đi thử nghiệm. nghiệm thu thiết bị Đi kiểm tra, thử nghiệm thiết bị 
+Đi khảo sát hệ thống. Nội dung 5. Chỉ khác: Hội thảo 'Xây đựng bộ chỉ tiêu kỹƑ
+thuật cho sản phẩm để tài" (1 buổi) 
+Hội thảo "?rao đôi thông (in trong
+khối MTTK BHBM20-701"
+(1 buổi) Hội thảo "Trao đôi thông tin trong
+hệ thống điều khiển quản tính
+H072" (1 buổi) Nội dung Ghim+ giây note+kẹp_ 
+Hộp đựng tài liệu "Bìa A4 Kinh phí quản lý. _—
+Ấn loát, phô tô tài liệu, văn phòng phẩm Nội dung 
+Cục KHQS/BQP. Viện KHCNQS 'Viện KHCNQS Căn cứ 696/Vùng
+2 Hải Quân 
+Căn cử 696/Vùng
+2 Hải Quân Căn cứ 696/Vùng.
+2 Hải Quân Địa điểm Viện CNTT 
+Viện CNTT Viện CNTT Địa điểm Đơn 
+6.20 620 6.20 25.20 
+25.20 29.40 Đơn vị † 11.65 
+11,65 11.65 Kính để nghị Giám đốc Viện KH-CN quân sự xem xét và phê duyệt.
+(Ghi chú: Căn cứ vào kinh phí được cắp, kế hoạch có thẻ được điều chỉnh
+cho phù hợp).
+
+Nơi nhận: CHỦ NHIỆM ĐÈ TÀI Z5 VWN'{RƯỞNG
+
+- Giám đốc Viện KH-CNQS;
+- Phòng TM-KH:
+
+~- CNĐT;
+~ Lưu: VT, KH; H06.
+
+Thiếu tá Nguyễn Minh Thường _  #z#mEfế Đỗ Việt Bình

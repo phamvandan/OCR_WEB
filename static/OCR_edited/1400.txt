@@ -1,0 +1,367 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 339 /VCNTT-KH Hà nội, ngày e9O tháng 8 năm 2018
+vụ khoa học và công
+nghệ cắp quốc gia thuộc chương trình
+KC01/16-20
+
+ 
+
+Kính gửi:
+- Vụ Công nghệ cao ~ Bộ Khoa học và Công nghệ;
+- Ban Chủ nhiệm chương trình KC 01/16-20,
+
+Qua tìm hiểu về mục tiêu, nội dung chương trình KC 01/16-20, căn cứ các nhiệm vụ
+đã triển khai và khả năng của Viện. Viện Công nghệ thông tin/Viện Khoa học và Công
+nghệ quân sự đã tổ chức nghiên cứu và xây dựng đề xuất đề tài “Nghiên cứu và phát
+triển một nên tăng công nghệ Blockchain mới để hỗ trợ phát triển dịch vụ công trong
+Chính phủ điện fử` (01 phiếu đề xuất gửi kèm theo).
+
+'Viện Công nghệ thông tin/Viện Khoa học và Công nghệ quân sự xin báo cáo và kính
+mong Vụ Công nghệ cao và Ban Chủ nhiệm chương trình KC 01/16-20 xem xét. tổng
+hợp và thực hiện các thủ tục đặt hàng của Bộ Khoa học và Công nghệ,2 -
+
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H04.Mẫu A1-ĐXNV.
+03/2017/TT-BKHCN
+
+PHIẾU ĐÈ XUÁT ĐẠT HÀNG NHIỆM VỤ
+KHOA HỌC VÀ CÔNG NGHỆ CÁP QUỐC GIA
+(Dùng cho đề tài hoặc đề án)
+1. Tên đề tài
+
+Nghiên cứu và phát triển một nền tảng công nghệ Blockchain mới để hỗ trợ phát triển dịch
+vụ công trong Chính phủ điện tử.
+2. Căn cứ đề xuất
+
+®_ Căn cứ Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về việc
+phát triển chính phủ điện tử (CPĐT). đấy mạnh phát triển ứng dụng công nghệ thông tỉn
+tại Việt Nam.
+
+« _ Căn cứ quyết định số 3465/QĐ-BKHCN ngày 14/11/2016 của Bộ trưởng Bộ KHCN vẻ
+việc phê duyệt bổ sung Chương trình khoa học và công nghệ trọng điểm cấp quốc gia
+giai đoạn 2016-2020: "Nghiên cứu công nghệ và phát triển sản phẩm công nghệ thông
+tỉn phục vụ Chính phủ điện tử”.
+
+3. Lý do đề xuất
+
+Việt Nam đang nỗ lực cải cách hành chính. trong đó. hướng đầu tư xây dựng Chính phủ điện
+từ (CPĐT) hướng đến cung cấp các dịch vụ công cho người dân và doanh nghiệp trong phạm vỉ
+Quốc gia dang được ưu tiên đẩy mạnh. Chính phủ đã ban hành khung kiến trúc CPĐT như là
+một mô hình tham chiều để từng bước hiện thực hóa liên thông giữa các dịa phương, Bộ, Ngành
+(Khung Kiến trúc Chính phủ điện tử Việt Nam - phiên bản 1.0 (Bộ Thông tin và Truyền thông
+ban hành tại văn bản số 1178/BTTTT-THH. ngày 21/4/2015). Để phát triển các dịch vụ công cần
+phải có các kiến trúc nền tảng để xây dựng và triên khai các ứng dụng trên đó. Một trong các nền
+tảng đang rất được quan tâm ứng dụng đó là công nghệ Blockchain. nhờ các ưu điểm mà nó
+mang lại. Hiện tại. công nghệ Bloekchain đang được nghiên và đầu tư rất mạnh mẽ để ứng dụng
+trong cuộc sông. Đặc biệt, chính phủ các nước cũng rất quan tâm đầu tư đề hiện thực hóa công.
+nghệ này vào hỗ trợ phát triển CPĐT. Ộ
+
+Có thể thấy. sau sự ra đời của Internet. Blockchain được dánh giá là công nghệ nền tảng tiếp
+theo của công nghệ thông tin (CNTT) có thể làm thay đồi căn bản phương thức vận hành của nẻn
+giới trong thời kì của cách mạng công nghiệp 4.0. Công nghệ Blockchain được công.
+bố thông qua một bài báo với tiêu đề “Bitcoin: A Peer-to-Peer Electronic Cash System” bởi tác
+giả Satoshi Nakamoto vào năm 2008 (trong đó. chưa sử dụng thuật ngữ “blockchain"). Bài báo.
+này đề cập đến một "phiên bản mạng hoàn toàn ngang hàng của tiền điện tử" (purely peer-to-
+peer version of clectonie cash), ở đây "các giao dịch trên mạng được gản nhãn thời gia
+(timestamps) bằng cách băm chúng thành các chuỗi của bằng chứng công việc dựa trên hàm băm.
+(chain of hash-based proof-of-work). để hình thành một bản ghỉ mà không thể thay đổi nếu
+không sửa dôi về bằng chứng công việc.
+
+Có thể hình dung Blockchain là một số cái kỹ thuật số được mã hóa và lưu trữ phân tán
+(Distributed Ledgers) trên nhiều máy tính trong mạng công cộng hoặc dùng riêng. Số cái này bao.
+gồm các ban ghi dữ liệu. hoặc "khối" lưu trữ các dữ liệu về giao dịch điện tử. Khi các khối lưu
+trữ nảy được tập hợp và kết nối trong một chuỗi. thì các dữ liệu đã dược lưu trữ trên đó không.
+thể thay đổi hoặc xóa bởi một cá nhân duy nhất: thay vào đó. các dữ liệu này sẽ được xác minh
+và quản lý bơi nhiều máy tính khác nhau. Như vậy. không có một thực thể trung tâm nảo có thẻ
+quyết định xem xét một thay đổi Blockchain có hợp lệ hay không mà tắt cá các máy tính trong.
+mạng sẽ tuân theo một giao thức đề kiểm tra các dữ liệu giao dịch và tạo sự đồng thuận tự động
+vẻ việc chấp nhận hoặc từ chối một sự thay đổi. Quá trình xác minh này, cùng với các giao thức
+mật mã an toàn. có thể ngăn chặn có hiệu quả việc thay đổi trái phép dữ liệu trên các số cái. Về
+cơ bản, có 03 (ba) mô hình ứng dụng cơ bản của Blockchain (có thẻ phủ hợp cho ứng dụng để
+phát triển CPDT). bao gồm:
+
+1) Chống giả mạo thông tin: Trong đó số cái được dùng để lưu trừ. mã hóa những thông tin
+
+gốc mà không thể giả mạo.
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+  
+ 
+
+ 
+
+    
+
+¬ Am2) Xác minh giao dịch: Trong đó số cái được dùng để ghi lại thông tỉn các thông tỉn giao
+
+địch phục vụ việc truy vớt, tìm kiếm nguồn gốc.
+
+3). Hợp đồng thông mình: Trong đó số cái dùng để lưu trữ thông tin các điều kiện của hợp
+
+đồng. Khi điều kiện được thỏa mãn. các điều khoản có thể được thực thi hoản toàn tự
+độn,
+
+Với những đặc thủ của Bloekchain. các chuyên gia cho rằng, công nghệ Blockchain sẽ mở ra
+một xu hướng ứng dụng tiềm năng cho nhiều lĩnh vực như tài chính ngân hàng. bán lẻ, vận
+chuyển hàng hóa. sản xuất. viễn thông .... và đặc biệt có thể ứng dụng trong hỗ trợ phát triên
+CPĐT.
+
+Khả năng ứng dụng của công nghệ Blockchain có thể được mô tả như trên hình l
+
+     
+
+ 
+
+Hình 1: Các lĩnh vực cỏ thể ứng dụng công nghệ Blockchain
+
+Hiện nay nhiều chính phủ đã và đang dự định áp dụng công nghệ Blockchain trong các dịch
+vụ công. Khi đó các chính phú có thẻ tận dụng các đặc điểm ưu việt của blockchain. theo đó
+thông tin sẽ an toàn và không lo bị can thiệp và cuối cùng sẽ cải thiện tính minh bạch, hiệu quả
+trong quản trị cũng như uy tín với nhân dân. Tờ Economist tháng 6/2017 dẫn một khảo sát của.
+IBM cho thấy 9 trên 10 các cơ quan nhà nước trên thể giới được hỏi thừa nhận có kế hoạch đầu.
+tư vào Blockchain để quản lý các giao dịch tài chính, tài sản, hợp đồng và việc tuân thủ pháp luật
+của các tổ chức trong những nấm tới. Theo tờ Reuters ngày 07/09 đưa tin Ukraine sẽ dùng,
+Blockchain đề quản lý việc đăng ký đắt nông nghiệp do lẽ hệ thống hiện tại có nhiều lỗ hông. dễ
+bị lợi dụng để lừa đảo hoặc dẫn đến tranh chấp về quyền sở hữu, Tương tự. ngày 18/7/2017 UK,
+Land Registry đã đưa ra kế hoạch với tên gọi "Digital street" nhằm nghiên cứu. thứ nghiệm việc.
+đăng ký thông tin sơ hữu. chuyển đối và giao địch nhà đất sử dụng công nghệ Blockchain. ..
+Còn tại Estonia. vốn được xem là nhà tiên phong trong việc "số hóa" chính phủ. từ lâu cũng đã
+áp dụng các công nghệ tương tự Blockchain để bao mật hỗ sơ y tế và quản lý cơ sở dữ liệu của
+chính phủ (KSI Technology Stack, https://guardtime.com/technology).
+
+Để dàng nhận thấy. trên thực tế có rất nhiều nền tảng Blockchain (Blockchain Plaform)
+được phát triển cho phép dựa trên đó đẻ tùy biến và phát triển các ứng dụng cho các lĩnh vực
+khác nhau. Có thể kê đến các nền tảng rất phổ biến như sau: Ethereum (htps://ethereum.org/):
+Hyperledger Fabrie (htpsz/eithub.com/hyperledger/fabrie): Multichain
+(htp://wavw.multichain.com/developers/); nền tảng này được phát triển cho các mô hình
+
+nhau (Private Network. Publie Network hoặc Hybrid) với cá
+
+ 
+
+     
+
+  
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tiêu chuẩn dễ ước lượng một nền tảng thường dựa vào các tính chất sau: Khả năng ứng dụng
+sability): Khả năng hỗ trợ và tải liệu (Support and documenta Tỉnh mềm dẻo và khả năng
+ở rộng (Flexibility and sealability); Cơ chế đồng thuận và khuyến khích (Consensus and
+incentive mechanism): Đồng tiền được hỗ trợ (Curreney supported): Tính an toàn (Security)
+
+Trên thực tế đã có rất nhiều các hãng công nghệ lớn cũng đã tham gia vào phát triển nền táng
+Blockchain của riêng mình như: IBM Blockchain Plaform (htIps://swwvw.ibm.com/blockchain);
+Oracle  Blockchain - (hupszwww.oracle.comcloud/blockchainindex.hmnl);  Mastercard
+Blockchain _ (hups:developer.mastercard.comproducƯmastercard-blockchain): ... Hãng
+
+        
+    
+
+zã
+
+ỳ
+
+   
+ 
+
+ọ
+Ø
+XSMicrosoft cũng đã cung cấp dịch vụ Blockchain trên đám mây (blockchain as a service (BaaS))
+(htps://azure.mierosofl.com/en-us/solutions/blockchain/). Vì vậy. dựa trên các nẻn tảng này các
+doanh nghiệp. cá nhân hoặc thâm chí các tô chức chính phủ có thê phát triển các ứng dụng phục
+vụ cho mục tiêu của minh.
+
+Với những chính sách ưu tiên phát triên CNTT như một ngành mũi nhọn của nhà nước và
+tiềm năng công nghệ sẵn có. Việt Nam được kỳ vọng sẽ là nơi công nghệ Ïilockchain có nhiều
+điều kiện tốt đề phát triển. Đây được coi là cơ hội đề các doanh nghiệp. cá nhân khởi nghiệp có
+thể áp dụng công nghệ mới này với cơ hội sáng tạo và cạnh tranh mới. đủ sức vươn tằm ra khu
+vực và quốc tế. CPĐT Việt Nam hiện nay vẫn đang ở trong giai đoạn đầu của sự phát triển. Mặc
+dù có sự chậm trễ nhưng lại có lợi thể là các hệ thông ứng dụng CNTT theo công nghệ cũ hiện
+không quá nhiều. Việt Nam hoàn toàn có th rút ngắn nhanh khoảng cách với các nước trên thể
+giới thông qua việc nghiên cứu và triển khai sớm ứng dụng các công nghệ mới. tiên tiến đặc biệt
+
+ 
+
+    
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+là Bloekchain. Tuy nhiên việc áp dụng cho CPDT Việt Nam còn gặp rất nhiều thách thức như:
+
+ 
+
+các tổ chức. đơn vị nhà nước chưa kinh nghiệm nghiên cứu để triển khai công nghệ Blockchain
+cho các ứng dụng. dịch vụ công. Công nghệ Blockchain hiện nay cũng có những nhược điểm
+như yêu cầu thời gian đồng thuận lớn. việc chiếm giữ số lượng nút trong mạng lớn dẫn tới khả
+năng điều khiển được toàn bộ hoạt động của hệ thông Blockchain. Các dịch vụ công có những.
+đặc diểm riêng về kiến trúc hệ thống. mô hình dữ liệu. và do đó chưa thể áp dụng được ngay
+công nghệ Bloekchain vào thực tế bởi thiểu các nền tảng. giái pháp trung gian.
+
+Hiện tại hầu hết các doanh nghiệp. cá nhân nghiên cứu và phát triển các ứng dụng dựa trên
+công nghệ Blockchain thường dựa trên các nền tảng có sẵn (mã nguồn mở). Tắt nhiên, các nền
+tảng này rất đa dạng về các chức năng có thể hỗ trợ và đều đã cung cấp sẵn mã nguồn để phát
+triển. Với các ứng dụng hướng tới khu vực doanh nghiệp hoặc tư nhân. việc dựa trên các nền
+tảng này để phát triển các ứng dụng là hợp lý. Tuy nhiên. khi hướng tới việc phát triển các ứng.
+dụng cho CPĐT sẽ có rất nhiều câu hỏi đặt ra khi sử dụng các nền tảng này. Trong đó vấn để
+liên quan tới tính an toản. liệu chúng ta có thực sự làm chủ hoàn toàn mã nguồn được
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+   
+  
+ 
+
+CPDT? Và rất nhiều thách thức khác.
+Các thách thức ở trên đòi hỏi một quy trình nghiên cứu bài bản, từng bước nhằm đánh giá và
+1 lên ngay từ đầu để có thể kiêm soát
+c giải pháp an toàn và các chức năng cân hỗ trợ cho CPĐT. Vì vậy cách giải
+tải đi là từ nghiên cứu. xây dựng mô hình. kiến trúc nên tảng Blockchain tới phát
+chức năng phủ hợp với thực tế của CPĐT. Trong dó mục tiêu chính là xây dựng được
+một nền táng Blockchain mới và ứng dụng thực tế cho một dịch vụ công cua CPĐT. Nên tảng
+Blockchain này theo đó phải phù hợp với CPĐT của Việt Nam và cho phép mở rộng trong tương.
+lai. Dựa trên nền tảng này, các nhà phát triển sẽ tạo ra các ứng dụng dựa trên công nghệ
+Blockchain hỗ trợ các dịch vụ công trong CPĐT.
+
+ 
+  
+ 
+
+ 
+
+1). Lâm chủ công nghệ Blockchain và phát triển một nền tảng Blockchain mới có khả năng
+hỗ trợ các chức năng: Xác thực các giao dịch điện tử: Chống giá mạo thông tin: Hợp
+đồng thông minh.
+
+2) Đề xuất một số giải pháp ứng dụng công nghệ Blockchain đẻ hỗ trợ phát triển các dịch vụ
+công cua CPDT,
+
+3)_ Xây dựng thử nghiệm một ứng dụng dựa trên nền tảng Blockchain mới được phát triển
+
+5. Yêu cầu các kết quả chính và các chỉ tiêu cần đạt:
+
+Sản phẩm dạng,
+
+1). Bộ phần mềm nên tảng Blockchain mới được xây dựng để hỗ trợ phát triển dịch vụ công
+trong CPĐT tại Việt Nam. Các chức năng và chỉ tiêu kỹ thuật chủ yếu:
+
++ _ Được phát triển từ đầu dựa trên kiến trúc được để xuất.
+
+©- Đảm bảo cung cấp ba mô hình ứng dụng cơ bản: chống gia mạo dữ liệu. xác mình
+giao dịch. hợp đồng thông minh.
+
+« _ Sử dụng kiến trúc mạng kiểu Permissioned Network.
+
+œ _ Hỗ trợ các cơ chế đồng thuận dựa trên RAFT (Raf\-based Consensus). Istanbul BFT:
+hoặc một cơ chế đồng thuận mới.«- Đảm bảo tính riêng tư cho các giao dịch và các hợp đồng thông minh trong mạng.
++ _ Các hợp đồng thông minh riêng tư được xác định và xác thực chỉ bởi các bên tham gia
+hợp đồng và các bên thứ ba được phê duyệt, như các nhà quản lý.
+« _ Hỗ trợ việc mã hóa dữ. liệu khi trao đổi giữa những cá nhân tham gia vào. mạng.
+«_ Hỗ trợ việc phần quyền ngang hàng, đảm bảo chỉ các cá nhân được cấp phép mới
+được tham gia vào mạng.
+«_ Hỗ ượ các chức năng mật mã kiểu không tiết lộ tr thức (Zero-knowledge Security)
+nhằm cung cấp các giải pháp giải quyết riêng tư các tài sản số hóa trên mạng.
+« _ Tự động phát hiện các nút khác trên mạng sau khi đồng bộ hóa với các nút khác.
+Hỗ trợ hiệu năng cao cho các giao dịch trong hệ thống.
+2 Tháttiển một số API phục vụ phát triển các ứng dụng để hỗ trợ các dịch vụ công trong
+CPĐT.
+3) Mô hình và phần mềm thử nghiệm địch vụ xác thực các giao dịch điện tử trong CPĐT.
++ _ Đảm bảo khả năng lưu giữ và truy vết các giao dịch điện tử.
+« _ Bảo vệ dữ liệu chồng được tắn công mạng và ứng phó được các sự cố vẻ hạ tằng.
+4). Các tài liệu liên quan đến các kết quả đạt được sua để tải.
+Sản phẩm dạng II:
+* Sản phẩm khoa học:
+« _ Công bố 03 bài báo đăng trên tạp chí, hội nghị hội thảo chuyên ngành trong nước,
+hoặc quốc tế thuộc lĩnh vực công nghệ thông tin hoặc an toàn thông tin.
+* Sản phẩm đảo tạo:
++ _ Tham gia đảo tạo 02 thạc sỹ và góp phần tham gia đào tạo 01 tiến sỹ, ngành an toàn
+
+ 
+
+1) Nghiên cứu tổng quan về công nghệ Blockchain và khả năng ứng dụng,
+2) Nghiên cứu về các dịch vụ công và đánh giá thực trạng quản lý các giao dịch trong các
+hoạt động quản lý hiện nay tại một số Bộ/Ngành.
+3)_ Nghiên cứu, phân tích về một số nên tảng Blockchain phổ biển trên thế giới.
+4) Nghiên cứu về các kiến trúc, giao thức và các thành phần mật mã sử dụng trong các công
+nghệ Blockchain. ˆ
+5)_ Nghiên cứu, đề xuất kiến trúc cho phát triển nền tảng Blockchain mới tại Việt Nam.
+6) Nghiên cứu, để xuất mô hình thực hiện các giao dịch điện từ sử dụng công nghệ,
+Blockchain phục vụ phát triển các dịch vụ công trong CPĐT Việt Nam.
+7)_ Xây dựng và triển khai thử nghiệm dịch vụ xác thực các giao dịch điện tử sử dụng, công) Ấ
+nghệ Blockchain tại Việt Nam. C
+8) Nghiên cứu, đề xuất giải pháp ứng dụng công nghệ Blockchain để hỗ trợ phát triển cáếZ
+dịch vụ công của CPĐT.
+7. Dự kiến tổ chức, cơ quan hoặc địa chỉ ứng dụng các kết quả tạo ra
+Có thể sử dụng cho các tỏ chức có nhu cầu phát triển ứng dụng dựa trên nền tảng công nghệ
+'Blockchain đẻ hỗ trợ phát triển dịch vụ công. Ti tại Việt Nam.
+8. Yêu cầu đối với thời gian để đạt được các kết quả: 24 tháng,
+Dự kiến nhu cầu kinh phí: 8.000 triệu VNĐ
+
+Q tháng 8 năm 2018
+THÔNG TIN// -
+
+   
+
+Thượng tá Đỗ Việt Bình

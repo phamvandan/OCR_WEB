@@ -1,0 +1,115 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập ~ Tự do ~ Hạnh phúc
+Số: 36 Ø/VCNTT-KH Hà Nội, ngày,{0 tháng 9 năm 2018
+
+'V/v thử nghiệm kết quả nghiên cứu đề
+tài cấp Viện KHCNQS
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ Hợp đồng số 012/2018/HĐ-CNTT-CNN ngày 10 tháng 01 năm
+2018 giữa Viện KH-CNQS và Viện Công nghệ thông tin về việc thực hiện đề tài
+“Nghiên cứu hoàn thiện hệ thống công nghệ thông tin ứng dụng trong huấn
+luyện diễn tập chỉ huy cơ quan cấp trung, sư đoàn trên bản đồ tại sở chỉ huy
+thường xuyên và ngoài thực địa”;
+
+Căn cứ theo thuyết minh đề tài: “Nghiên cứu hoàn thiện hệ thống công,
+nghệ thông tin ứng dụng trong huấn luyện diễn tập chỉ huy cơ quan cấp trung, sư
+đoàn trên bản đồ tại sở chỉ huy thường xuyên và ngoài thực địa” đã được phê
+duyệt,
+
+Để thực hiện các nội dung tiếp theo của đề tài, Viện Công nghệ thông tin
+đề xuất kế hoạch tổ chức thử nghiệm kết quả nghiên cứu tại Sư đoàn 325/Quân
+đoàn 2 như sau:
+
+1. Địa điểm triển khai: Sư đoàn 325/Quân đoàn 2
+2. Nôi dunø. thời øian và thành phần tham gia
+
+ 
+
+ 
+
+0N 31A»,
+STT Tô chức đánh giá kết quả. Triên khai tập huân cho cán
+bộ sử dụng tại khung tập
+SCH/f và SCH/e18. Triên khai lắp đặt đường
+truyền và trang thiết bị,
+phẫn mềm. 
+Hiệp đông thông nhật các
+nội dung triên khai với đơn
+vị sư đoàn 325/QĐ2. Nội dung Trong,
+khoảng thời 03 ngày
+trong tháng,
+9/2018 
+07 ngày
+trong tháng,
+9/2018 05 ngày
+trong tháng
+9/2018 Thời gian ~ Tô đánh giá kỹ thuật 
+-Cán bộ Cục Quân
+huấn/BTTM
+~ Nhóm đề tài
+
+- Cán bộ theo khung tập
+tại SCH/f và SCH/e18 ~ Nhóm đề
+
+-Phòng Thông tin, ban
+Tác huấn sư đoàn 325 Thành phân tham gia
+- Thủ trưởng Viện CNTT.
+-Cán bộ Cục Quân
+huấn/BTTM
+~ Chỉ huy sư đoàn 325.
+~ Nhóm đề tài = ca «@
+_..‹‹“ t
+
+¬¬ gian từ
+tháng
+10/2018
+đến tháng
+12/2018 ~ Nhóm đê tài
+-Cán bộ theo khung tập
+tại SCH/f và SCH/e18 PHỤ LỤC.
+Kịch bản thử nghiệm hệ thống CNTT ứng dụng trong huấn luyện diễn tập
+chỉ huy cơ quan cấp trung, sư đoàn trên bản đồ tại sở chỉ huy thường xuyên
+
+và ngoài thực địa
+(Kèm theo công văn số: 365 /VCNTT-KH ngày,l0/9/2018 của Viện CNTT)
+
+Bước 1. Tổ chức thực nghiệm tại đơn vị đánh giá khả năng khắc phục những
+
+hạn chế đã trình bày trong thuyết minh của đề tài
+Thiết lập hệ thống mạng LAN theo khung tập mô hình rút gọn gồm Ban chỉ
+đạo, SCH sư đoàn, SCH trung đoàn 18, các Cơ quan của sư đoàn tại đơn vị
+thử nghiệm là fBB325/QĐ2.
+Cài đặt hệ thống phần mềm mới lên các vị trí khung tập.
+Kiểm tra hoạt động của các chức năng trong hệ thống phần mềm theo các chỉ
+tiêu kỹ thuật chính:
+Chất lượng dữ liệu bản đồ nền: Sử dụng mảnh bản đồ được cung cấp bởi
+Cục bản đỗ cho đơn vị, tiến hành chuyển đổi định dạng và đưa vào sử dụng
+trong phần mềm. Bản đồ nền đáp ứng được yêu cầu cung cấp thông tin cho
+tác nghiệp như hình ảnh không bị vỡ, nhòe khi zoom ở mức gần. Dung
+lượng bản đồ có thể xử lý đạt >1,5Gb với bản đồ dạng ECW và >5Gb với
+bản đồ ảnh vệ tỉnh dạng TIE.
+Bộ ký hiệu quân sự đảm bảo đẹp theo mong muốn, trong các thao tác xoay
+ký hiệu theo hướng hành động không còn hiện tượng ký hiệu bị méo, vỡ.
+Không còn phát hiện mô đun chức năng của phần mềm còn bị lỗi khi thao.
+tác (tỷ lệ sai lỗi <1% số thao tác), khắc phục nhanh các sự cố xảy ra do mắt
+điện hoặc không có mạng.
+“Thử nghiệm chức năng in bản đồ, đảm bảo hoạt động tốt và bản đồ in ra c‹ $
+thể trình ký. JỆ)
+
+ 
+
+Bước 2. Thực hành cho khung tập ứng dụng CNTT theo Hướng dẫn của C\
+
+Quân huấn/BTTM và xác nhận kết quả.
+
+Tổ chức cho khung tập thực hành theo tài liệu “Hướng dẫn ứng dụng CNTT
+trong diễn tập CH-CQ cấp trung, sư đoàn“ do Cục Quân huấn/BTTM ban
+hành năm 2017. Kịch bản cụ thê do Phòng chiến thuậ/Cục quân huấn xây
+dựng. 5
+Cơ quan Cục quân huấn xác nhận hệ thống phần mềm mới được nâng cấp bỗ
+sung đã khắc phục được các vấn đề, các giải pháp về xử lý dữ liệu và đường,
+truyền đặt ra có khả năng nâng cáo chất lượng dữ liệu và tốc độ truyền thông
+đảm bảo yêu cầu tác nghiệp.

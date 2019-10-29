@@ -1,0 +1,439 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CỘNG NGHỆ THÔNG TIN Độc lập ~ Tự do _ Hạnh phúc
+
+Số;44/TTr-VCNTT Tà Nội, ngàyĐ$tháng Pnăm 2016
+
+PHÊ DUYỆT
+Ngày ®tháng năm 2016
+
+TỜ TRÌNH
+Về việc đề nghị phê duyệt bộ chỉ tiêu kĩ thuật
+các sản phẩm đề tài KC-T,0o
+— Phẩm để tài KC-T
+
+Kính gửi: Giám đốc Viện KH-CNQS.
+Căn cứ Quyết định số 4614/QĐ-BQP ngày 21/11/2013 của Bộ trưởng B,
+
+ 
+
+KC-T.09/2013/HĐ-KCT ngày 26/11/2013 giữa Ban Chủ nhiệm Đề án KHCN
+KC-T và Viện Công nghệ thông tin,
+
+Căn cứ theo Thuyết mình đã được xét duyệt của đề tài “Nghiên cứu thiết
+kế, chế thử giá kiểm tra máy tính trên khoang hệ thống điều khiển quán tính TỊ-
+074 của tên lửa Kh- 35 thuộc Để án “Nghiên cứu, thiết kế chế tạo một số cụm
+chỉ tiết tên lửa đối hãi” (mã số KC-T.09) :Viện Công nghệ thông tin đã xây dựng
+bộ chỉ tiêu kĩ thuật các sản phẩm khoa học công nghệ của đề tài và 8ửi công văn
+xin ý kiến Cục Kỹ thuậ/Quân chủ Hải quân. Cục Kỹ thuậ/Quận chủng Hải
+
+ngày 11 tháng 4 năm 2016).
+
+Căn cứ các ý kiết đóng góp của các chuyên gia trong và ngoài Viện
+KHCNGS tham dự buổi hội thảo khoa học về việc xây dựng chỉ tiêu kỹ thuật
+cho sản phẩm của đề tài; “Nghiên cứu thiết kế, chế thự giá kiểm tra máy tính
+trên khoang hệ thống điêu khiển quán tính 1I-074 của tên lửa Kh-35E”" do Viện
+Công nghệ thông tin tổ chức Vào ngày 20/5/2016,
+
+Trên cơ sở ý kiến đóng góp của Cục Kỹ thuậVQuân chủng Hải quân và ý
+kiến đóng góp của các chuyên gia tham dự hội thảo khoa học, Viện Công nghệ
+thông tin đề xuất bộ chỉ tiêu kĩ thuật các sản phẩm đề tài nệu trên làm cơ sở cho.
+nghiệm thu. Cụ thể như sau;
+
+ 
+
+NP,
+
+NN
+©
+
+⁄/600NgA
+Đâu vào sô Biển đôi sô tương tự Biên đôi tương tự sô chi nhận dữ liệu theo
+chuẩn TOCT 19877-79: 
+Máy tính THAM SỐ THIẾT BỊ THAM SỐ ~ Sô kênh: l6 kênh
+
+- Điện áp tương thích: TTL
+
+- Đầu ra: Logie “0” điện áp cực đại 0.4V. Logic
+*I" điện áp cực tiểu 2.4V.
+
+- Tần số tạo được: I.0Mhz 
+~ Sô kênh sô đầu vào: l6 kênh
+
+- Điện áp tương thích: TTL
+
+- Điện áp đầu vào: Logic *0” điện áp cực đại là
+0.8V. Logie *1” điện áp cực tiểu 2V,
+
+~ Tần số đáp ứng: 1.0MhZ ~ Sô kênh: 2 kênh độc lập.
+
+- Số bit biển đổi: 12 bit
+
+- Dải điện áp đầu ra đơn cực: 0 — 5V hoặc 0 ~
+10V
+
+~ Dải điện áp đầu ra lưỡng cực: +/-10V
+
+- Độ dốc sườn xung: 0.6V/ps
+
+~ Trở kháng đầu ra: 0.1. - 3ô kênh: 16 kênh đơn biển đôi tương tự - số, 8
+kênh vi sai biến đổi tương tự - số
+
+- Bộ biến đổi tương tự số: 16 bit
+
+- Tốc độ lầy mẫu: 100 KS/s
+
+- Trở kháng đầu vào I0MQ/6pF
+
+- Chế độ kích thích lấy mẫu: Phân mềm, hoặc tín
+hiệu kích thích ngoài. ~ Tôc độ truyễn: 12Khz, 50Khz, 100Hhz.
+
+~ Độ dài từ mã truyền: 32bit .
+
+- Điện áp xung dương tín hiệu +3V đến I0V
+~ Điện áp xung âm tín hiệu: -3V đến -0V 
+- Bộ xử lý: Vortex86DX tốc độ xung nhịp _
+
+800Mhz
+
+- Bộ nhớ Ram: DDR2 512 MB
+
+~ Chuẩn ra mân hình: VGA.
+
+~ Vào ra: COM, LPT
+
+~ Nguồn nuôi: +3.3V/16A; +5V/19A;
++12V/11A; -12V/0.3A; CHÍ TIỂU KỸ THUẬT 7 Bộ Timer/Counter - Số kênh: 3 kênh độc lập.
+- Thanh ghi dữ liệu: 16 bit
+~ Điện áp tương thích: TTL
+- Tần số đầu vào lớn nhất: I0Mhz
+- Nhịp tham chiếu: 2Mhz.
+8 — |Nguồn+12V/+5V/+3.3  |-Điện áp đầu vào:~200V/50Hz—~240V/50Hz
+V/+5 VSB/-12 V/-5 V/ - Dòng đầu vào tiêu thụ cực đại: 4A.
+- Sai số điện áp +10%
+- Công suất cực đại 300W
+9 Nguồn +27V: - Điện áp đầu vào: ~200V/50Hz — ~240V/50Hz
+- Dòng đầu vào tiêu thụ cực đại: 20A.
+- Điện áp đầu ra: DC 27V + 10%.
+~ Dòng điện cực đại: 60V
+10 [Nhiệt độ hoạt động - Nhiệt độ tối đa 55C
+- Nhiệt độ làm việc tối thiểu: -10%C
+" Độ Ẩm hoạt động, - Độ âm làm việc tôi đa: 85%
+12 [|Độrunglắc - Đặt tại trạm kiễm tra mặt đất nên không xét
+điều kiện rung lắc.
+13 [ Kích thước thiết bị ACK-II | - Chiều đài: 73 em;
+liêu rộng: 5l cm;
+- Chiều cao: 37,6 em.
+HH [THAMSÔKIỀMTRA
+BỞI THIẾT BỊ ACK-H
+1 +1§V
+2 — |-I5V
+3 +I2V
+4 [-I2V
+s— >wv
+6 — | Thời điểm lệnh “KHBM” - . :
+Chuyển sang logic “1”. Đạt: không quá 15s sau khi vào chế độ kiểm tra.
+Ả m ê "
+Thời lệnh lệnh “K15 ¡ :
+chuyển căng lögïe dị Đạt : không quá 16s sau khi vào chế độ kiểm tra.
+8 Thời nh bit 23 trong từ
+KC chuyên sang mức logic - 4 rổ
+*}, tương ứng với trạng Đạt : không quá 20s sau khi vào chế độ kiểm tra.
+thái FOT xuất hiện.
+°
+
+ 
+
+Thời điểm bit 22 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái MI xuất hiện.
+
+ 
+
+Đạt : không quá 20s sau khi vào chế độ kiểm tra.
+
+ 
+
+ 
+
+ 
+
+.
+X
+
+B
+
+(
+13 12 10 Thời lệnh lệnh “K15”
+chuyển sang logie “1” 
+Thời điểm lệnh “KHBM”
+Chuyển seng logic “1°, THAM SỐ KIỂM TRA
+BỞI THIẾT BỊ ACK-I Kích thước thiết bị ACK-TII Độ rung lắc 
+Độ âm hoạt động. Nhiệt độ hoạt động Nguôn +27V: Nguôn +12 V/+5 V/+3.3
+V/+5 VSB/-12 V/-5 V/ 
+Bộ Timer/Counter Thời điểm bit 22 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái MI xuất hiện. Thời điểm bit 23 trong từ.
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái FOT xuất hiện. Đạt: không quá 15s sau khi vào chế độ kiểm tra. 
+Đại : năm trong khoảng (+l5 + 0.75)V ~ Chiêu đài: 73 cm;
+- Chiều rộng: 51 em;
+- Chiều cao: 37,6 cm. ~ Đặt tại trạm kiểm tra mặt đất nên không xét
+điều kiện rung lắc. ~ Độ âm làm việc tôi đa: 85% 
+~ Nhiệt độ tôi đa 55'C
+- Nhiệt độ làm việc tối thiểu: -10%C ~ Điện áp đầu vào: ~200V/50Hz - ~240V/50Hz
+- Dòng đầu vào tiêu thụ cực đại: 20A.
+
+- Điện áp đầu ra: DC 27V + 10%.
+
+~ Dòng điện cực đại: 60V ~ Điện áp đầu vào: ~200V/50Hz - ~240V/50Hz
+- Dòng đầu vào tiêu thụ cực đại: 4A.
+
+- Sai số điện áp +10%
+
+- Công suất cực đại 300W ~ Số kênh: 3 kênh độc lập.
+
+- Thanh ghỉ dữ liệu: 16 bit
+
+~ Điện áp tương thích: TTL
+
+- Tần số đầu vào lớn nhất: I0Mhz
+- Nhịp tham chiếu: 2Mhz. 
+Đạt : không quá 20s sau khi vào chế độ kiểm tra. Đạt : không quá 20s sau khi vào chế độ kiểm tra. 'Đạt : không quá 16s sau khi vào chế độ kiểm tra. - Số kênh: 3 kênh độc lập.
+
+- Thanh ghỉ dữ liệu: 16 bit
+
+~ Điện áp tương thích: TTL
+
+- Tần số đầu vào lớn nhất: I0Mhz
+- Nhịp tham chiếu: 2Mhz.
+
+- Điện áp đẫu vào: ~200V/50Hz - ~240V/50Hz
+- Dòng đầu vào tiêu thụ cực đại: 4A.
+
+- Sai số điện áp +10%
+
+- Công suất cực đại 300W
+
+- Điện áp đầu vào: ~200V/50Hz — ~240V/50Hz
+- Dòng đầu vào tiêu thụ cực đại: 20A.
+
+- Điện áp đầu ra: DC 27V + 10%.
+
+~ Dòng điện cực đại: 60V
+
+- Nhiệt độ tối đa 55C
+
+- Nhiệt độ làm việc tối thiểu: -10%C
+
+- Độ ấm làm việc tối đa: 85%
+
+- Đặt tại trạm kiểm tra mặt đất nên không xét
+điều kiện rung lắc.
+
+- Chiều dài: 73 cm;
+
+- Chiều rộng: 51 cm;
+
+- Chiều cao: 37,6 cm.
+
+Đạt : nằm trong khoảng (+15 + 0.75)V,
+
+Đạt : (15 £0.75)V.
+Đạt : (+1220,6)V.
+
+Đạt : C1230.6)V.
+
+Đạt: @5+0.5)V,
+
+Đạt: không quá 15s sau khi vào chế độ kiểm tra.
+
+ 
+
+'Đạt : không quá 16s sau khi vào chế độ kiểm tra.
+
+Đạt : không quá 20s sau khi vào chế độ kiểm tra.
+
+Đạt : không quá 20s sau khi vào chế độ kiểm tra. Thời điểm bit 21 trong từ
+KC chuyển sang mức logic.
+“1”, tương ứng với trạng
+thái HH xuất hiện.
+
+Không kiểm tra thời điểm xuất hiện.
+
+ 
+
+Thời điểm bịt 20 trong từ
+KC chuyên sang mức logic
+“1”, tương ứng với trạng
+thái V-502 xuất hiện.
+
+'Đạt : không quá 60s sau khi vào chế độ kiểm tra.
+
+ 
+
+Thời điểm bit 19 trong từ
+KC chuyển sang mức logic
+*1”, tương ứng với trạng
+thái PB xuất hiện.
+
+Đạt : không quá 60s sau khi vào chế độ kiểm tra.
+
+ 
+
+Thời điểm bit 18 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái sẵn sàng nhận II3 xuất
+hiện.
+
+Đạt : không quá 60s sau khi vào chế độ kiểm tra.
+
+ 
+
+ 
+
+Thời điểm bit 17 trong từ
+KC chuyển sang mức logic
+*†”, tương ứng với trạng
+thái nhận [I3 xuất hiện.
+
+_ Ì
+
+Đạt : Mã trạng thái xuất hiện (thời điểm bất kỳ
+sau khi vào chế độ kiểm tra).
+
+ 
+
+“Thời điểm bít 16 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng,
+thái M2 xuất hiện.
+
+Đạt : không quá 20s sau khi vào chế độ kiểm tra.
+
+ 
+
+Thời điểm bit 15 trong từ
+KC chuyên sang mức logic
+“1, tương ứng với trạng
+thái M3 xuất hiện.
+
+Đạt : không quá 20s sau khi vào chế độ kiểm tra.
+
+ 
+
+Thời điểm bit 14 trong từ
+KC chuyển sang mức logic
+*]”, tương ứng với trạng
+thái M3 xuất hiện.
+
+|
+Đạt : không quá 20s sau khi vào chế độ kiểm tra. ,
+
+ 
+
+Thời điểm lệnh “K45”
+Chuyển sang logic “1”.
+
+„ Đạt : không quá 46s sau khi vào chế độ kiểm tra.
+
+ 
+
+Thời điểm lệnh “KBT”
+Chuyển sang logic *1”.
+
+Dạt : không quá 46s sau khi vào chế độ kiểm tra.
+
+ 
+
+20
+
+Thời điểm lệnh “PA”
+Chuyển sang logic “1”.
+
+Đạt : thời điểm xuất hiện nằm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+diễm xuất hiện lệnh 27KO
+0,69999999999999999999;.
+
+ 
+
+21
+
+ 
+
+Thời điểm lệnh "KCJỊ"
+Chuyển sang logie “1”.
+
+Đạt : thời điểm xuất hiện nằm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+điểm xuất hiện lệnh 27KO
+0.60000000000000000002s
+10 12 19 l8 
+17 16 15 14 
+13 Thời điểm bit 21 trong từ
+KC chuyển sang mức logic.
+“1”, tương ứng với trạng
+thái HH xuất hiện. Thời điểm bit 18 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái sẵn sàng nhận II3 xuất
+hiện. Thời điểm bit 19 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái PB xuất hiện. 
+"Thời điểm bịt 20 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái Y-502 xuất hiện. Thời điểm bit L7 trong từ
+KC chuyển sang mức logic
+
+ 
+ 
+
+thái nhận [I3 xuất Thời điểm lệnh “KBI""
+Chuyển sang logic “l". Thời điểm lệnh “K45”
+Chuyển san logic “]”. 
+Thời điểm bit 14 trong từ
+KC chuyển sang mức logic
+*J”, tương ứng với trạng
+thái M3 xuất hiện. Thời điểm bịt | § trong từ
+KC chuyên sang mức logic
+“1, tương ứng với trạng
+thái M3 xuất hiện. “Thời điểm bít l6 trong từ
+KC chuyển sang mức logic
+“1”, tương ứng với trạng
+thái M2 xuất hiện. Thời điểm lệnh "KCJỊ"
+Chuyển sang logie “1”. 
+Thời điểm lệnh “PA”
+Chuyển sang logic “1”. Không kiểm tra thời điểm xuất hiện. Đạt : không quá 60s sau khi vào chế độ kiểm tra. 'Đạt : không quá 60s sau khi vào chế độ kiểm tra. 
+Đạt : không quá 60s sau khi vào chế độ kiểm tra. Đạt : không quá 20s sau khi vào chế độ kiểm tra. Đạt : không quá 20s sau khi vào chế độ kiểm tra. Đạt : Mã trạng thái xuất hiện (thời điểm bất kỳ
+sau khi vào chế độ kiểm tra). 
+Đạt : thời điểm xuất hiện nằm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+điểm xuất hiện lệnh 27KO
+0.60000000000000000002s Đạt : thời điểm xuất hiện năm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+diễm xuất hiện lệnh 27KO.
+(1,699999999999909999999s, Dạt : không quá 46s sau khi vào chế độ kiểm tra. Đạt : không quá 46s sau khi vào chế độ kiểm tra. 
+Đạt : không quá 20s sau khi vào chế độ kiểm tra. HH vang Ax+ “ky
+~ Phòng TM-KH;
+
+~_ Chủ nhiệm đề tài (03);
+~ Lưu: VT, KH; Thể.
+
+Thiếu tá Nguyễn Thái Hòa
+Thời điêm lệnh “KHJI”
+Chuyến sang loøie “ï Thời điểm lệnh “C2”
+Chuyển sang logic “1”. Thời điểm lệnh “KOJI"
+Chuyển sang logic “1”. Đạt : không quá 20s sau khi vào chế độ kiểm tra. 
+Đạt : thời điểm xuất hiện năm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+điểm xuất hiện lệnh 27KO,
+4,6999999999999999998s. Đạt : thời điểm xuất hiện năm trong khoảng từ
+thời điểm xuất hiện lệnh 27KO đến sau thời
+điểm xuất hiện lệnh 27KO 4.75s 

@@ -1,0 +1,171 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:42¿/VCNTT-KH Hà Nội, ngày.IOtháng 4 năm 2017
+'V⁄v xin thử nghiệm phần mềm của đề
+tài cấp Viện KHCNQS.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ biên bản họp hội đồng khoa học xét duyệt hồ sơ đề tài khoa học
+công nghệ cắp Viện KH-CN Quân sự ngày 26/02/2016;
+
+Căn cứ vào Hợp đồng Nghiên cứu khoa học và phát triển công nghệ số
+133A/2016/HĐ-CNTT ngày 16/06/2016 giữa Viện Khoa học và Công nghệ quân
+su/Bộ Quốc phòng và Viện Công nghệ thông tín;
+
+Căn cứ vào thuyết minh đã được phê duyệt của đề tài “Nghiên cứu xây
+dụng mô hình thử nghiêm hệ thống quản trị tích hợp cho các chương trình quản
+lý của Viện KHCNQS và nâng cấp chương trình Quản lý hành chính, Trang
+thông tin điện từ để thử nghiệm mô hình trên” (CNĐT: Đại úy Nguyễn Cảnh
+Hùng),
+
+Nhằm đánh giá thực tế các kết quả nghiên cứu của đề tài nêu rên, Viên
+Công nghệ thông tin xây dựng, kế hoạch triển khai thử nghiệm các. phần mềm tại
+'Văn phòng/Viện KHCNQS và phòng Thông tỉn KHQS/Viện KHCNQS (Phự lực
+
+KHCNGQS chỉ đạo các đơn vị liên quan
+hoàn thành tốt nhiệm vụ. jWW”
+
+Nơi nhận
+- Như trên;
+
+- CNĐT;
+~ Lưu: VT, KH; H04.Phụ Lục
+KÉ HOẠCH THỬ NGHIỆM
+(Kèm theo công văn số 486 /VCNTT-KH ngày10 ‡/2017 của Viện CNTD)
+
+IL MỤC ĐÍCH YÊUCÀU
+~_ Triển khai, thử nghiệm các phần mềm ở các đơn vị. Ghi nhận các phản hồi
+từ các đơn vị trực tiếp sử dụng để hoàn thiện, đưa các phần mềm vào sử
+dụng thực tế và làm căn cứ để nghiệm thu đề tài.
+-_ Các phần mềm triển khai thử nghiệm phải hoàn chỉnh về mặt chức năng,
+nghiệp vụ.
+- Trong quá trình thử nghiệm phải có đầy đủ các biên bản làm việc giữa
+nhóm thực hiện đề tài và đơn vị sử dụng để làm căn cứ nghiệm thu đề tài.
+I. THÀNH PHÀN THAM GIA
+- _ Trung tá Nguyễn Phú Pha, Phòng ĐT&CGCN Viện CNTT
+- _ Thiếu tá Lê Ngọc Tú, Phòng ĐT&CGCN Viện CNTT
+~_ Đại úy Nguyễn Cảnh Hùng, Phòng ĐT&CGCN Viện CNTT
+- _ Đại úy Nguyễn Đình Hưng, Phòng ĐT&CGCN Viện CNTT
+- _ Thượng úy Nguyễn Hoàng Minh, Phòng KTTT&TCM/Viện CNTT
+Kính mời tham dự:
+- _ Thủ trưởng Viện KHCNQS.
+- _ Đại diện Phòng TM-KH/Viện KH-CNQS.
+~- _ Thủ trưởng Viện Công nghệ thông tin.
+- Đại điện Văn phòng, Phòng Thông tin KHQS Viện Khoa học và Công,
+Nghệ Quân sự.
+~ _ Đơn vị thử nghiệm: Văn phòng và Phòng Thông tin KHQS Viện Khoa học
+và Công Nghệ Quân sự.
+1. Thời gian thử nghiệm: Dự kiến từ 02/5/2017 đến 20/10/2017
+II. THỜI GIAN, ĐỊA ĐIỄM
+- Thời gian: Dự kiến từ 02/5/2017 đến 20/10/2017
+- Địa điểm: Văn phòng, Phòng Thông tin KHQS, Viện CNTT Viện Khoa
+học và Công Nghệ Quân sự.
+IV. NỘIDUNG THỰC HIỆN
+Triển khai vận hành thử nghiệm trên 03 phần mềm: Quản lý hành, Trang.
+thông tin điện tử và Quản trị tích.
+1. Thử nghiệm phần mềm quản lý hành chính
+Kiểm tra, dùng thử các
+chức năng "Triển khai máy chủ, cài
+đặt Trang thông tin điện
+tử Nội dung thực hiện Quản lý hòm thư nội bộ 
+Quản lý văn bản đi Chức năng quản lý Văn
+bản đến Chức năng quản lý Văn
+bản đến Quản trị hệ thống 
+Dùng thử, kiểm tra các
+chức năng “Triển khai máy chủ, cài
+đặt vận hàng phần mềm.
+quản lý hành chính Nội dung thực hiện Thử nghiệm trang thông 
+Hoàn thiện phần mềm Quản lý thông báo Quản lý lịch trực Quản lý công tác lãnh 
+Quản lý giấy mời Quản lý văn bản xin ý Quản lý ra chỉ thị điều
+hành Người thực hiện 
+1⁄/ Lê Ngọc Tú
+3/ Lê Hoàng Minh.
+Bộ phận Văn thư Văn
+phòng Người thực hiện 4/ Nguyễn Cảnh Hùng
+3/ Lê Hoàng Minh
+
+4/ Nguyễn Đình Hưng
+Phòng thông tin
+KHQS in điện tử 
+"Thời gian Thời gian 02/5/2017
+~05/5/2017 11/9/2017
+~ 16/10/2017 
+28/8/2017
+~ 08/9/2017 14/8/2017
+-~Ẩ25/8/2017 31/7/2017
+~11/8/2017 17/7/2017
+-~Ẩ28/7/2017 
+03/7/2017
+~ 14/7/2017 19/6/2017
+~ 30/6/2017 05/6/2017
+- 16/6/2017 29/5/2017
+- 02/6/2017 
+22/5/2017
+-02/6/2017 09/5/2017
+- 19/5/2017 02/5/2017
+~ 05/5/2017 "Yêu cầu đạt 
+Các yêu cầu
+của Phòng
+
+KHQS tại
+văn bản số,
+62/PTT-BTT Yêu câu đạt
+được Các yêu cầu
+của Văn
+phòng Viện.
+tại văn bản
+số 39/VP-
+BMngày
+14/4/2016 
+Thử nghiệm phần mềm ‹ 'Hoàn thiện phần mềm. Chức năng quản lý xuất
+bản số Chức năng tra cứu thư
+viện (DLIB) 
+Chức năng cập nhật,
+hiển thị cơ cấu tổ chức
+ly Chức năng cập nhật,
+hiển thị tin tức Chức năng quản trị "Triển khai, cài đặt máy
+chủ, phần mềm 
+Nội dung thực hiện Hoàn thiện phần mềm. 'Gỡ các phần mềm khỏi
+hệ thống chung Thử tích hợp các phân.
+mềm vào hệ thống.
+chung 
+Kiểm tra các chức năng
+mềm Người thực hiện uản trị tích hợp 4/ Nguyễn Cảnh Hùng
+3/ Lê Hoàng Minh
+
+4/ Nguyễn Đình Hưng,
+Phòng thông tin
+KHQ§ 
+4/ Nguyễn Cảnh Hùng,
+3/ Lê Hoàng Minh
+
+4/ Nguyễn Đình Hưng
+Phòng thông tin
+KHQS "Thời gian 18/7/2017
+~-16/10/2017 03/7/2017
+-Ö14/7/2017 
+19/6/2017
+-30/6/2017 05/6/2017
+-1l6/6/2017 29/5/2017
+-02/6/2017 22/5/2017
+-02/6/2017 
+09/5/2017
+-19/5/2017 05/6/2017
+- 16/6/2017 29/5/2017
+- 02/6/2017 22/5/2017
+~ 02/6/2017 
+09/5/2017
+-19/5/2017 02/5/2017
+05/5/2017 'Yêu câu đạt
+được Các yêu cầu
+
+thông tin
+KHQS tại
+văn bản số
+62/PTT-BTT 
+Đạt được các
+
+thuyết minh
+đề tài 

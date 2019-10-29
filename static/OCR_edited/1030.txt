@@ -1,0 +1,142 @@
+VIỆN KHOA HỌC VÀCNQS CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 76† /VCNTT-KH Hà Nội, ngày AI tháng I2 năm 2017
+'V/v tập huấn phần mềm sản phẩm của
+đề tài cấp Viện KHCNQS
+
+Kính gửi: Các cơ quan, Viện chuyên ngành, Trung tâm công nghệ cơ
+khí chính xác.
+
+Căn cứ tờ trình số 437/TTr-TMKH ngày 20/11/2017 của Phòng TM-KH
+về việc phệ duyệt Kế hoạch tập huấn sử dụng “Phần mềm quản lý hành chính”
+và “Trang thông tin điện tử” của Viện KHCNQS được Giám đốc Viện
+KHCNGS phê duyệt ngày 22/11/2017,
+
+'Viện Công nghệ thông tin tổ chức thực hiện kế hoạch tập huấn như sau:
+
+1. Tập huấn cho các cơ quan, đơn vị phía Bắc
+
+~ Thời gian: Từ 8h đến 16h30 ngày 15/12/2017
+
+- Địa điểm: Phòng học của Phòng đào tạo, tằng 8 nhà S1A, Viện KH-CN
+quân sự, 17 Hoàng Sâm, Nghĩa Đô, Cầu Giấy, Hà Nội
+
+2. Tập huấn cho các cơ quan, đơn vị phía Nam
+
+- Thời gian: Từ 8h đến 16h30 ngày 15/12/2017
+
+- Địa điểm: Phòng học Viện Công nghệ thông tin (cơ sở 2), Số 2 Hồng
+'Hà, Tân Bình, TP Hồ Chí Minh
+
+Kính đề nghị các cơ quan đơn vị có thành phần triệu tập cử đúng thành
+phần tham gia đầy đủ buổi tập huấn và xác nhận với đơn vị chủ trì theo số điện
+thoại 0962.88.3737 (đ/c Hùng) trước chiều thứ 5 ngày 14/12/2017 đề sắp xếp tổ
+chức thực hiện. WW@
+
+Nơi nhận: —=VỰỆN TRƯỞNG
+~ Như trên; §
+~ Lưu: VT, KH; H30.
+
+  
+
+ấg tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ 
+
+PHÒNG TM-KH Độc lập - Tự do - Hạnh phúc
+Số: 46#T:TMKH Hà Nội, ngàyÂ/ tháng 11 năm 2017
+DUYỆT vẽ
+Ngày ÁÊ tháng MU năm 2017
+
+'TỜ TRÌNH
+'Về việc phê duyệt Kế hoạch tập huấn sử
+dụng “Phần mềm quản lý hành chính”
+' và “Trang thông tin điện tử” của Viện
+KHCNQS.
+
+ 
+
+Kính gửi: Thủ trưởng Viện KH-CN quân sự.
+
+Căn cứ thuyết minh đã được phê duyệt; Hợp đồng Nghiên cứu khoa học
+và phát triển công nghệ số 133A/2016/HĐ-CNTT ngày 16/06/2016 giữa Viện
+KH-CN quân sự/Bộ Quốc phòng và Viện Công nghệ thông tin về việc thực hiện
+đề tài “Nghiên cứu xây dựng mô hình thử nghiệm hệ thống quản trị tích hợp cho
+các chương trình quản lý của Viện KHCNQS và nâng cấp chương trình Quản lý
+hành chính, Trang thông tin điện tử để thử nghiệm mô hình trên”;
+
+Theo kế hoạch tiến độ thực hiện đẻ tài, Viện Công nghệ thông tin đã phối
+hợp với Văn phòng, Phòng Thông tin KHQS xây dựng kế hoạch triển khai thử
+nghiệm các phần mềm tại Văn phòng và phòng Thông tin KHQS/Viện
+KHCNGS.
+
+Xét đề nghị của Viện Công nghệ thông tin tại Công văn số 505/VCNTT-
+KH ngày 15 tháng 11 năm 2017 về việc tập huấn phần mềm sản phẩm của đề tài
+cấp Viện KH-CN quân sự; nhằm nhanh chóng triển khai áp dụng! các sản phẩm
+nêu trên vào. công tác chuyên môn của Viện KH-CN quân sự, Phòng Tham mưu-
+Kế hoạch kính đề nghị Thủ trưởng Viện KH-CN quân sự phê duyệt Kế hoạch
+tập huấn sử dụng “Phần mềm quản lý hành chính” và “Trang thông tin điện tử"
+của Viện KHCNQS (trong phụ lục kèm theo) để cơ quan, đơn vị triển khai thực
+hiện./
+
+,Nơi nhận. TRƯỞNG PHÒNG
+~ Như trên;
+
+~ Các cơ quan và đơn vị trực thuộc;
+- Viện CNTT; Nhóm đề tài;
+- Lưu: VT, TMKH; đT06.Phụ lục
+KÉ HOẠCH TẬP HUÁN
+(Kèm theo Tờ trình số 4 Ÿ2+⁄TTr-TMKH ngày ,¿ÿ tháng 11 năm 2017)
+
+I MỤC ĐÍCH YÊU CÀU
+
+Mục đích:
+
+Triển khai tập huấn sử dụng “Phần mềm quản lý hành chính” và “Trang,
+thông tin điện tử” của Viện KH-CN quân sự cho các đối tượng sử dụng trong
+toàn Viện KH-CN quân sự (khối cơ quan và khối đơn vị).
+
+Yêu cầu:
+
+- Đơn vị chủ trì - Viện CNTT và nhóm thực hiện để tài chuẩn bị đầy đủ nội
+dung chỉ tiết cho từng đối tượng sử dụng; chuẩn bị cơ sở vật chát, tài liệu, phòng
+họp và giáo viên hướng dẫn tập huấn đảm bảo chất lượng.
+
+- Các cơ quan đơn vị có thành phần triệu tập cử đúng thành phần tham gia
+đầy đủ các buổi tập huấn.
+
+II. THÀNH PHÀN THAMGIA
+1) Thành phần triệu tập:
+Mỗi cơ quan, viện chuyên ngành, Trung tâm công nghệ cơ khí chính xác cử
+01 đồng chí (Thủ trưởng, văn thư hoặc trợ lý)
+2) Thành phần nhóm đề tài
+~ _ Thiếu tá Nguyễn Cảnh Hùng, Chủ nhiệm đề
+~ _ Phongd Đào tạo chuyển giao công nghệ/ Viện CNTT
+3) Khách mời tham dự:
+~_ Thủ trưởng Viện KHCNQS.
+- _ Đại diện Phòng TM-KH/Viện KH-CNQS.
+- _ Đại diện Văn phòng, Phòng Thông tin KHQS.
+II. THỜI GIAN, ĐỊA ĐIỂM
+1) Tập huấn cho các cơ quan, đơn vị phía Bắc:
+- Thời gian: Dự kiến từ 11/12/2017 đến 15/12/2017
+- Địa điểm: Viện KH-CN quân sự/ 17 Hoàng Sâm, Nghĩa Đô, Cầu Giáy.
+2) Tập huấn cho các cơ quan, đơn vị phía Nam:
+- Thời gian: Dự kiến từ 11/12/2017 đến 15/12/2017
+- Địa điểm: Viện CNTT (cơ sở 2) / 2 Hồng Hà, Tân Bình, Thành phó Hồ
+Chí Minh.(Thời gian và địa điểm cụ thể Nhóm đề tài Viện CNTT sẽ thông báo đến các cơ.
+quan, đơn vị)
+
+IV. NỘI DUNG THỰC HIỆN
+
+~ Triển khai tập huấn sử dụng “Phần mềm quản lý hành chính”
+
+- Triển khai tập huần sử dụng, "Trang thông tỉn điện tử” của Viện KH-CN
+quân sự.
+V. CÔNG TÁC BẢO ĐẢM
+
+- Kinh phí tổ chức tập huấn sử dụng kinh phí của để tải đã được phê
+duyệt.
+
+- Văn phòng, Phòng Thông tin KHQS, Phòng Đào tạo phối hợp với Viện
+CNTT tổ chức tập huấn.

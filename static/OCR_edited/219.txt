@@ -1,0 +1,59 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: J/? /VCNTT-KH Hà Nội, ngày29 tháng 6 năm 2016
+
+V/v đề nghị bảo vệ luận án cấp cơ sở
+Kính gửi: Thủ trưởng Viện KH-CN quân sự.
+
+Đồng chí Đặng Minh Tuấn được công nhận là nghiên cứu sinh hình thức
+đào tạo không tập trung theo Quyết định số 1260/QĐ-VKHCNQS ngày 27 tháng,
+10 năm 2011 của Thủ trtởng Viện KHCNQS.
+
+Sau thời gian học tập theo quy định, nghiên cứu sinh đã hoàn thành
+chương trình đào tạo và đã có đủ các chứng chỉ môn học theo quy định.
+
+Quá trình công tác và nghiên cứu tiếp theo, nghiên cứu sinh Đặng Minh
+Tuần đã hoàn thành luận án với đề tài “Nghiên cứu xây dựng một số dạng lược
+đề mới cho chữ lý số tập thể”; thuộc chuyên ngành: Cơ sở toán học cho tin học;
+mã số 62.46.01.10.
+
+Đơn vị chuyên môn Viện Công nghệ thông tin đã tổ chức hội thảo luận án
+ở cấp Viện chuyên ngành và nhận định luận án đã đạt được các kết quả chính
+như sau:
+
+1. Đề xuất mô hình ký tập thể mới: Chữ ký số tập thể đa thành phần
+tổng quát. Mô hình này tổng quát hóa một số mô hình ký tập thể
+trước đây. Triển khai mô hình ký tập thể đa thành phần cho các hệ
+mật khác nhau:
+
+o© Xây dựng mới lược đồ ký tập thể đa thành phần dựa trên hệ
+mật đường cong Elliptic.
+
+o©_ Xây dựng mới lược đồ ký tập thể đa thành phần dựa trên trên
+bài toàn Logarith rời rạc.
+
+o_ Xây dựng mới lược đồ ký tập thể đa thành phần dựa trên trên
+cặp song tuyến tính.
+
+2. Đề xuất mới về mô hình ký kết hợp giữa chữ ký tập thể đa thành
+phần với chữ ký ủy nhiệm: xây dựng định nghĩa tổng quát. Xây
+dựng mới lược đồ ký tập thể ủy nhiệm đa thành phần dựa trên hệ
+mật định danh.
+
+3. Đề xuất mới về mô hình ký kết hợp giữa chữ ký tập thể đa thành
+phần với chữ ký mù: xây dựng định nghĩa tổng quát. Xây dựng mới
+lược đồ ký tập thể mù đa thành phần dựa trên đường cong Elliptic.Căn cứ kết quả đào tạo và đối chiếu với yêu cầu chất lượng luận án tiền sĩ,
+Viện Công nghệ thông tin đề nghị Giám đốc Viện KH-CN Quân sự cho phép
+nghiên cứu sinh Đặng Minh Tuấn được bảo vệ luận án trước Hội đồng đánh giá
+luận án cấp cơ sEŸ
+
+     
+
+      
+
+Nơi nhận: ~VIỆN TRƯỞNG
+- Như trên; PHÓ VIỆN TRƯỜNG
+- Phòng đào tạo; SÀN
+
+- Lưu VT, KH; S04.

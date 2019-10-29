@@ -1,0 +1,39 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 2.2ÿ /VCNTT-KH Hà Nội, ngàya5 tháng 6 năm 2017
+'V/ đề nghị cho. triển khai giai
+đoạn 2 đề tài iện KHCNQS
+
+Kính gửi: Giám đốc Viện KH-CN quân sự.
+
+Đề tài “Nghiên cứu thiết kế xây dựng hệ thống phần mềm hỗ trợ tính
+toán ứng dụng chiến đẫu sử dụng các phương tiện sát thương hàng không tiêu
+điệt mục tiêu mặt đắt, mặt nước” do Viện Công nghệ thông tin/ Viện KH-CN
+quân sự chủ trì đã được thực hiện và hoàn thành giai đoạn 1. Sản phẩm đã được
+triển khai thử nghiệm cho ngành dẫn Quân chủng PK-KQ. Trong đó, đề tài
+đã xây dựng được cơ sở dữ liệu và phần mềm tra cứu các đặc tính cơ bản, đặc tính
+đặc trưng của các loại phương tiện sát thương hàng không (PTSTHK), các mô
+hình trận địa tiêu biểu; hoàn thành phần mềm công cụ số hóa và tra cứu đồ thị
+phục vụ công tác chuyên môn; giải quyết các bài toán đặc trưng tính toán ứng
+dụng PTSTHK tiêu diệt mục tiêu mặt đất, mặt nước. Hội đồng KHCN chuyên
+ngành cấp Viện KHCNQS đã nghiệm thu và kiến nghị phát triển tiếp giai đoạn 2.
+
+Căn cứ thực tế công tác dẫn đường đòi hỏi phải giải quyết thêm một số vấn
+đề trong công tác chuẩn bị và tổ chức chỉ huy thực hành bay như: tính toán sử
+
+PTSTHK tiêu diệt mục tiêu cơ động, tính toán sử dụng PTSTHK có diều
+khiển, lựa chọn phương án mang treo tối ưu, tính toán cự ly cắt bom để đảm bảo
+trúng mục tiêu, tính toán các điều kiện đảm bảo an toàn khi sử dụng PTSTHK,
+tính toán vượt hỏa lực phòng không... ngày 02 tháng 06 năm 2017 BTL Quân
+chủng PK-KQ đã có Công văn số 1971/BTL-TM đề nghị Viện KH-CN quân sự
+giúp Quân chủng nghiên cứu, phát triển, hoàn thiện Hệ thống phần mềm hỗ trợ
+tính toán ứng dụng chiến đấu sử dụng các PTSTHK tiêu diệt mục tiêu mặt đất, mặt
+nước.
+
+Căn cứ kế hoạch hoạt động KHCN của Viện KHCNQS và viện CNTT; căn
+cứ năng lực, trình độ cán bộ, Viện CNTT kính đề nghị Giám đốc cho phép mở tiếp
+giai đoạn 2 để hoàn thiện, phát triển hệ thống nêu trên giúp Quân chủng./. JÑ&——~
+Nơi nhận: Ấ¡ TRƯỞNG
+
+-ng,
+~ Lưu: VT, KH; H03.

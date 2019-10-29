@@ -1,0 +1,290 @@
+VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do —- Hạnh phúc
+Số: A0 /VCNTT-KH Hà Nội, ngày Ÿ tháng 3 năm 2019
+
+'V/ đề xuất nhiệm vụ KH&CN tham giá
+chương trình KC-4.0/19-25
+
+Kính gửi: Bộ Khoa học và Công nghệ.
+
+Căn cứ Công văn số 395/BKHCN-VP ngày 22/02/2019 của Bộ Khoa học và
+Công nghệ về việc thông báo kêu gọi đề xuất đề tài/dự án thuộc Chương trình
+KH&CN trọng điểm cấp quốc gia giai đoạn đến năm 2025 “Hỗ trợ nghiên cứu,
+phát triển và ứng dụng công nghệ của công nghiệp 4.0”,
+
+Viện Công nghệ thông tin xin đề xuất một nhiệm vụ KH&CN tham gia
+Chương trình “Hỗ trợ nghiên cứu, phát triển và ứng dụng công nghệ của công.
+nghiệp 4.0”, mã số: KC-4.0/19-25 như sau:
+
+~ Nghiên cứu, xây dựng hệ thống hỗ trợ chẩn đoán hình ảnh nội soi đại tràng,
+bằng kĩ thuật học sâu (deep learning).
+
+Kính chuyển Bộ Khoa học và Công nghệ xem xét./„ _
+
+    
+  
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; H03.
+
+TIÊN TRƯỞNG
+
+Đỗ Việt BìnhMẫu Al-ĐXNV
+03/2017/TT-BKHCN
+
+PHIẾU ĐÈ XUẤT ĐẶT HÀNG NHIỆM VỤ
+KHOA HỌC VÀ CÔNG NGHỆ CÁP QUÓC GIA
+(Dùng cho đề tài hoặc đề án)
+
+1. Tên Đề tài/Đề án: . . "
+Nghiên cứu, xây dựng hệ thống hỗ trợ chẩn đoán hình ảnh nội soi đại tràng
+bằng kĩ thuật học sâu (deep learning) `
+
+2. Căn cứ đề xuất (giải trình căn cứ theo quy định tại Điều 3 của Thông tư
+03/2017/TT-BKHCN Quy định trình tự thủ tục xác định nhiệm vụ khoa học
+và công nghệ cắp quốc gia sử dụng ngân sách nhà nước): `
+-_ Chỉ thị số 16/CT-TTg ngày 04/05/2017 của Thủ tướng Chính phủ về việc
+
+tăng cường năng lực tiếp cận Cuộc cách mạng công nghiệp lần thứ 4; đây
+mạnh xã hóa, tăng cường tự chủ tài chính và hoạt động của các đơn vị sự
+nghiệp công lập. L8. 2Ã
+- _ Chương trình Khoa học và công nghệ trọng điểm cấp Quốc gia giai đoạn
+đến năm 2025: “Hỗ trợ nghiên cứu, phát triển và ứng dụng công nghệ của
+công nghiệp 4.0”; Mã số: KC-4.0/19-25 ban hành ngày 27 tháng 9 năm
+2018.
+
+-_ Danh mục các công nghệ chủ chốt của công nghiệp 4.0 ban hành theo
+quyết định số 3685/QĐ-BKHCN ngày 03/12/2018.
+
+3. Tính cấp thiết; tầm quan trọng phải thực hiện ở tầm quốc gia; tác động
+và ảnh hưởng đến đời sống kinh tế - xã hội của đất nước v.v...
+
+Trong những năm gân đây, ngành trí tuệ nhân tạo đã có những bước phát
+triển mạnh mẽ, thu hút nhiêu sự quan tâm của đông đảo giới khoa học và có
+nhiều ứng dụng hiệu quả trong thực tế. Những kết quả này đạt được phần lớn là
+do việc chuyển từ những phương pháp học máy truyền thống sang sử dụng các
+kỹ thuật học sâu (deep leaming). Việc áp dụng học sâu đã đem lại những tiễn bộ.
+vượt bậc trong nhiều lĩnh vực của trí tuệ nhân tạo, đặc biệt là các lĩnh vực về thị
+giác máy và xử lý ngôn ngữ tự nhiên. Trong lĩnh vực thị giác máy, nhiều
+phương pháp mới có độ chính xác cao đã được công bố có thể ứng dụng vào xây
+dựng các phần mềm nhận dạng, phát hiện, phân loại đối tượng trên hình ảnh với
+độ chính xác cao.
+
+Ở Việt Nam, các bệnh viện ngày càng tăng cường việc ứng dụng công nghệ
+thông tin vào y tế. Các thiết bị chân đoán hình ảnh có giao tiếp với hệ thống máy
+tính, các hệ thống lưu trữ và truyền hình ảnh PACS, các hệ thống lưu trữ hình
+ảnh y tí được đưa vào sử dụng ở nhiều cơ sở y tế. Những hệ thống này sinh
+ra một khối lượng lớn các ảnh y vi nhưng hiện nay chúng ta chưa khai thác được
+hết tiềm năng của lượng dữ liệu này, chủ yếu sử dụng đề lưu trữ và xem lại khi
+cần thiết. Nguồn dữ liệu ảnh này nếu được các bác sĩ chuyên khoa nhiều kinh
+nghiệm bổ sung thêm các phân tích, phân loại, đánh giá thì có thể trở thành kho
+dữ liệu tri thức về phân tích hình ảnh y tế. Kho dữ liệu tri thức này có thể được
+sử dụng làm dữ liệu huấn luyện cho các phần mềm hỗ trợ chẩn đoán ảnh y tế,
+cũng như có thể trở thành dữ liệu cho phần mềm hỗ trợ phục vụ công tác đào tạo
+
+ 
+
+ 
+
+ 
+
+1bác sĩ chuyên khoa. Để đây mạnh hướng nghiên cứu ứng dụng trí tuệ nhân tạo
+trong y tế, Viện Công nghệ thông tin, Viện Khoa học và Công nghệ Quân sự
+cũng đã tổ chức cho cán bộ nghiên cứu tiếp xúc, làm việc với Bệnh viện Quân y
+103, Bệnh viện Trung ương Quân đội 108, đã bước đầu tiến hành hợp tác nghiên
+cứu cùng các chuyên gia của các bệnh viện trong một số lĩnh vực như nội soi
+tiêu hóa, tìm mạch, dược lý.
+
+Từ các lý do trên, chúng 4 tôi đề xuất thực hiện đề tài này nhằm kịp thời nắm
+bắt các nghiên cứu mới nhất của thế giới, ứng dụng các phương pháp trí tuệ
+nhân tạo để ` xây dựng các hệ thống đáp ứng nhu cầu thực tiễn trong xử lý, phân
+tích ảnh y tế phục vụ công tác chăm sóc sức khỏe bộ đội, nhân dân.
+
+Ở nước ta, các bệnh về đường tiêu hóa ngày cảng gia tăng do nhiều lý do như
+nhiều thực phẩm có chứa chất bảo quản hoặc dư lượng thuốc bảo vệ thực vật,
+cùng với thói quen ăn uống thất thường, stress trong, công việc, cuộc sống. Các
+bệnh về đại tràng chiếm tỉ lệ khá cao trong các bệnh về đường tiêu hóa, nhất là
+đối với cán bộ, chiến sĩ quân đội, do đặc thù nghề nghiệp công tác ở những nơi
+có điều kiện sông, và làm việc khắc nghiệt, công việc còn nhiêu khó khăn, gian
+khổ. Tuy nhiên nếu được phát hiện sớm thì khả năng chữa khỏi rất cao. Do đó,
+việc tiến hành khám bệnh đại tràng thường xuyên để phòng và chữa bệnh là hết
+sức cần thiết, góp phần đảm bảo sức khỏe cho quân nhân.
+
+Thực quản, dạ dày, tá tràng, ruột, đại tràng, trực tràng gọi chung là ống tiêu
+hóa. Đây là một cơ quan rất khó chân đoán bệnh lý. Các phương, pháp hiện đại
+như siêu âm, chụp cắt lớp điện toán (CT) hay cộng hưởng từ (MRÌ) rât tôn kém
+nhưng ít giá trị chẩn đoán bệnh về ống tiêu hóa. X-quang bơm baryt (thuốc cản
+quang) có thể áp dụng trong một số trường hợp nhưng độc hại và không chính
+xác bằng nội soi.
+
+Đến nay nội soi thực quản, dạ dày, tá tràng, trực tràng, đại tràng là phương,
+pháp an toàn, chính xác và hữu hiệu nhất để chân đoán bệnh lý ông tiêu hóa.
+Quan sát hình ảnh trên máy soi giúp bác sĩ biết được các bất thường đang xảy ra
+bên trong ống tiêu hóa. Nội soi tiêu hóa cho phép quan sát trực tiếp niêm mạc
+đường ố ống tiêu hóa. Từ hình ảnh nội soi tiêu hóa, bác sĩ có thể phát hiện các bắt
+thường của niêm mạc như viêm, loét, u, polyp, ... Từ đó có thể chẩn đoán và tư
+vấn phương pháp điều trị thích hợp.
+
+Để hỗ trợ cho bác sĩ trong thực hành nội soi, việc áp dụng các ` hệ thống hỗ trợ
+chân đoán là hết sức cần thiết, góp phần đưa chẩn đoán nội soi đến với các cơ sở
+y tế xa trung tâm, thiểu đội ngũ bác sĩ giàu kinh nghiệm, nhất là các vùng biên
+giới, hải đảo. Trên thế giới, các hệ thống hỗ trợ chân đoán (computer-aided
+điagnosis ~ CAD) đã được ứng dụng rộng rãi trong lĩnh vực chân đoán hình ảnh.
+Khi sử dụng các hệ thống này, các bác sĩ có thể sử dụng kết quả đầu ra của máy
+tính như là một ý kiến tham khảo và sau đó đưa ra quyết định cuối cùng. Trên
+thế giới, các hệ thống này đã được sử dụng trong chân đoán ung thư vú, u đại
+tràng, ung thư phỏi, thoái hóa võng mạc, ... Trong chẩn đoán hình ảnh như chụp
+X-quang, siêu âm, MRI, nội soi, bác sĩ phải phân tích và đánh giá toàn điện
+thông tin trên bức ảnh trong thời gian nị ấn. Các kỹ thuật chẩn đoán hình ảnh đòi
+hỏi bác sĩ phải có kiến thức rộng và nhiều kinh nghiệm. Do đó, việc hỗ trợ trong
+chẩn đoán là hết sức cần thiết, nhất là với các bác sĩ mới, chưa có nhiều kinh
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+2nghiệm. Các hệ thống hỗ trợ chẩn đoán này càng có ý nghĩa cao ở Việt Nam với
+tình trạng số lượng bệnh nhân lớn ở các bệnh viện trung tâm.
+
+Các kĩ thuật trí tuệ nhân tạo tiên tiến cho phép máy tính có thể phát hiện ra
+các bất thường trong ống tiêu hóa với độ chính xác cao. Việc áp dụng trí tuệ
+nhân tạo để xây dựng các hệ thống hỗ trợ chuẩn đoán hình ảnh nội soi đại tràng,
+giúp bác sĩ phân tích các hình ảnh y học nhanh và chuẩn xác hơn. Sự trợ giúp
+của máy tính giúp nâng cao số lượng bệnh nhân được chẩn đoán, giảm tải cho
+bác sĩ, nâng cao tỉ lệ phát hiện sớm các bệnh về đại tràng.
+
+'Để xây dựng kho dữ liệu huấn luyện cho các thuật toán trí tuệ nhân tạo, đề tài
+xây dựng kho dữ liệu tri thức về hình ảnh nội soi đại tràng với sự hợp tác của
+các bác sĩ nội soi tiêu hóa giàu kinh nghiệm. Các hình ảnh nội soi sẽ được các
+chuyên gia nội soi phân tích, đánh dấu, phân loại các vùng bất thường và các
+đưa ra nhận xét chuyên khoa. Ngoài việc được sử dụng để phục vụ huấn luyện
+cho các thuật toán trí tuệ nhân tạo, kho dữ liệu tri thức này còn là một nguồn tri
+thức để hỗ trợ đào tạo nội soi tiêu hóa. Nhu cầu đào tạo và tự đào tạo chuyên
+ngành nội soi tiêu hoá là rất lớn, ngày càng cao, đặc biệt ở các tuyến cơ sở.
+Trong khi đó đội ngũ chuyên gia lại thiếu, chỉ tập trung ở một số bệnh viện lớn.
+Bên cạnh đó, trên thực tổn tại tình trạng tài liệu sách giáo khoa còn thiếu,
+chưa thống nhất, thiếu dữ liệu hình ảnh minh họa trực quan. Các lớp học nội soi
+tập trung thường tốn kém và thời lượng thực hành không nhiều. Do đó, việc xây
+dựng và sử dụng kho dữ liệu về hình ảnh nội soi để hỗ trợ đào tạo và tự đào tạo.
+chuyên ngành nội soi tiêu hóa có ý nghĩa lớn đối với việc phát triển, nâng cao
+trình độ cho bác sĩ nội soi ở các tuyến bệnh viện.
+
+Đề tài được chúng tôi đặt ra với mong muốn làm chủ những công nghệ mới
+trong xử lý, phân tích hình ảnh nói chung và ảnh y tế nói riêng, từng bước ứng
+dụng các Phương pháp nhận dạng để hỗ trợ chẩn đoán hình ảnh. Do đó, các
+nghiên cứu của để tài có tính thời sự, có ý nghĩa về khoa học và ứng dụng.
+
+4. Mục tiêu: `
+Nghiên cứu các phương pháp nhận dạng ảnh bằng kĩ thuật học sâu, ứng dụng
+để xây dựng hệ thống hỗ trợ chân đoán hình ảnh nội soi đại tràng.
+5. Yêu cầu các kết quả chính và các chỉ tiêu cần đạt:
+Hệ thống phần mềm hỗ trợ chẩn đoán hình ảnh nội soi đại tràng. Chỉ
+tiêu kĩ thuật chủ yếu của sản phẩm bao gồm 3 phân hệ:
+©__ Phân hệ thứ nhất là phân hệ thu thập hình ảnh nội soi, phân hệ
+hỗ trợ chẩn đoán hình ảnh nội soi, phân hệ hỗ trợ đào tạo, huấn
+luyện nội soi. Phân hệ thu thập hình ảnh nội soi, có nhiệm vụ kết
+nối với thiết bị nội soi để thu nhận các hình ảnh nội soi vào máy
+tính và cho phép người dùng thao tác, xử lý, lưu trữ hình ảnh nội
+soi trên máy tính. Sau khi thu thập hình ảnh, phân hệ này cho
+phép các chuyên gia nội soi phát hiện, đánh dâu, phân loại các
+vùng bất thường trên ảnh, lưu trữ các kết quả chân đoán lại để
+đưa vào kho dữ liệu trì thức về hình ảnh nội soi đại tràng.
+©_ Phân hệ thứ hai là phân hệ hỗ trợ chẳn đoán hình ảnh nội soi,
+phân hệ này sử dụng các mô hình học sâu được huấn luyện bằng
+kho dữ liệu tri thức, có khả năng tự động phát hiện các bất
+
+3thường trên niêm mạc đại tràng, hỗ trợ bác sĩ trong quá trình
+thực hành nội soi.
+
+© Phân hệ thứ ba là phân hệ hỗ trợ đào tạo, huấn luyện nội soi,
+gồm có các chức năng cho phép người dùng tra cứu các ví dụ
+minh họa cho các bệnh đại tràng và chức năng cho phép người
+học đựa ra các chẩn đoán dựa trên hình ảnh nội soi và so sánh
+với kết quả của các chuyên gia. Phần mềm được xây dựng dựa
+trên các công nghệ tiên tiến, có tốc độ thực thi nhanh, giao diện
+hợp lý, dễ sử dụng.
+
+*⁄ Kho dữ liệu tri thức về hình ảnh nội soi đại tràng. Chỉ tiêu kĩ thuật chủ
+yếu của sản phẩm: Cơ sở dữ liệu bao gồm hình ảnh nội soi đại tràng.
+với nhiều trường hợp bệnh nhân khác nhau, được gán nhãn bởi các
+chuyên gia trong lĩnh vực nội soi tiêu hóa. Số lượng khoảng 3.000 đến
+5.000 ảnh, định dạng ảnh JPEG, thông tin đầy đủ, chính xác. Kho dữ
+liệu tri thức này sẽ được bổ sung cập nhật thường xuyên thông qua các
+hoạt động khám chữa bệnh của các chuyên gia khi hệ thống được đưa
+vào sử dụng.
+
+Bộ tài liệu chuyên đề. Chỉ tiêu kĩ thuật chủ yếu của sản phẩm: Các tài
+liệu được lập theo mẫu quy định, có nội dung đầy đủ, được trình bày
+rõ ràng và khoa học.
+
+' Bộ tài liệu khoa học: Các tài liệu kĩ thuật (tài liệu phân tích thiết kế hệ
+thống, tài liệu hướng dẫn cài đặt, tài liệu h dẫn sử dụng, tài liệu
+tập huấn) và các báo cáo (báo cáo khoa học tông kết đề tài, báo cáo
+tóm tắt đề tài). Chỉ tiêu kĩ thuật chủ yếu của sản phẩm: Các báo cáo
+được lập theo mẫu quy định, có nội dung đầy đủ, được trình bày rõ
+ràng và khoa học. Các tài liệu kĩ thuật có có nội dung đầy đủ, được
+trình bày rõ ràng và khoa học, theo đúng mẫu quy định.
+
+*⁄ Bài báo đăng trên tạp chí hoặc hội thảo khoa học: 02 bài báo.
+
+*“ Đào tạo 02 thạc sĩ và tham gia đào tạo 01 tiến sĩ.
+
+“ Đăng ký 01 bằng sáng chế
+
+6. Kiến nghị các nội dung chính cẦn thực hiện để đạt kết quả:
+
+~ Nghiên cứu về các phương pháp nhận dạng hình ảnh băng học sâu.
+
+~ Nghiên cứu về các phương pháp nhận dạng hình ảnh trong chân đoán nội
+soi đại tràng.
+
++ Nghiên cứu tổng quan về nội soi tiêu hóa và chân đoán hình ảnh nội soi
+
+đại tràng.
+
++ Nghiên cứu về các phương pháp nhận dạng hình ảnh ứng dụng trong.
+
+chẩn đoán nội soi đại tràng.
+~ Thiết kế, xây dựng kho dữ liệu tri thức về hình ảnh nội soi đại tràng.
+- Nghiên cứu, xây dựng phân hệ thu thập hình ảnh nội soi.
+
++ Thiết kế, xây dựng module phần mềm thu nhận, hiển thị, thao tác với
+
+hình ảnh từ thiết bị nội soi tiêu hóa.
+
++ Thiết kế, xây dựng module phần mềm đánh dấu, phân loại, lưu trữ các.
+
+vùng bắt thường trên ảnh nội soi tiêu hóa.
+~ Thiết kế, xây dựng phân hệ hỗ trợ chẩn đoán hình ảnh nội soi.* Nghiên cứu, xây dựng, huấn luyện mô hình học máy phát hiện, nhận
+đang các vùng bắt thường trên ảnh nội soi tiêu hóa. .
+
+‡ Thiết kế, xây dựng module phần mềm hỗ trợ chân đoán hình ảnh nội
+Soi.
+
+- Thiết kế, xây dựng phân hệ hỗ trợ đào tạo, huần luyện nội soi,
+
+Ÿ Thiết kế, xây dựng module phần mềm tra cứu hình ảnh các bệnh đại
+tràng : .
+
++ Thiết kế, xây dựng module phần mềm thực tập chân đoán trên hình ảnh
+nội soi. -
+hiệm, đánh giá hệ thống.
+~ Tập huấn, hướng dẫn sử dụng, .
+- Lập hồ sơ tổng kết đề tài, phục vụ nghiệm thu các cấp.
+lến tổ chức, cơ quan hoặc địa chỉ ứng dụng các kết quả tạo ra:
+
+ 
+
+   
+
+Hà nội, ngàyo# tháng 3 năm 2019
+TỎ CHỨC ĐÈ XUẤT,
+—

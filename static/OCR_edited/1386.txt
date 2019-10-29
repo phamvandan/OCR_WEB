@@ -1,0 +1,6792 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA. VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+:325/TTr-VCNTT Hà Nội, ngày 09 tháng 8 năm: 2018
+
+   
+
+TỜ TRÌNH
+Về việc phê duyệt kết quả lựa chọn nhà thầu gói thầu số 01 “ Mua vật tư
+Công nghệ thông tin và môđun lập trình điều khiến chức năng ” của đề tài
+cấp Bộ Quốc phòng do Viện Công nghệ thông tin chữ trì, Mã số: KC.T-27
+
+ 
+
+Kính gửi: Giám đốc Viện KH-CN Quân sự.
+
+Căn cứ Luật Đấu thầu số 43/2013/QH13 ngày 26/11/2013;Nghị định số
+63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ quy định chỉ tiết thi hành một số
+điều của Luật Đấu thâu về lựa chọn nhà thầu;
+
+Căn cứ Thông tư số 88/2017/TT-BQP ngày 17/4/2017 quy định một số nội
+dung về đấu thầu lựa chọn nhà thầu trong Bộ Quốc phòng; Công văn số
+528/VKHCNQS-TMKH ngày 27/4/2017 của Phòng TM-KH hướng dẫn thực
+hiện mua sắm trong. Viện KH-CN quân sự;
+
+Căn cứ Thông tư số: 23/2015/TT-BKHĐT ngày 21 tháng 12 năm 2015 của
+Bộ Kế hoạch và Đầu tư quy định chỉ tiết lập báo cáo đánh giá hồ sơ dự thầu;
+
+Căn cứ Quyết định số 1910/QĐ-VKHCNQS ngày 08/12/2017 của Giám
+đốc Viện KI ICNQS về việc phê duyệt kế hoạch mua sắm hàng hóa, thuê dịch vụ
+để thực hiện để tài cấp Bộ. Quốc phòng, Mã số: KC.T-27;
+
+Quyết định số 1958/QĐ-VKHCNQS ngày 15 tháng 12 năm 2017 của Giám
+đốc Viện KHCNQS về việc phê duyệt Kế hoạch lựa chọn nhà thầu mua sắm
+hàng hóa năm 2017 để thực hiện đề tài cấp Bộ Quốc "Nghiên cứu thiết kế và chế
+tạo khối chức năng IIHI19, IIBB34 trong máy tính trên khoang BHBM-20-701
+của đạn tên lửa 3M243” thuộc Viện Công nghệ thông tin;
+
+Quyết định số 86/QÐ-VCNTT ngày 15/3/2018 của Viện trưởng Viện Công,
+nghệ thông tin Về việc phê duyệt hồ sơ mời thầu của gói thầu số 01 “Mua vật tư
+g nghệ thông tin và các môđun lập trình điều khiển theo chức năng” đề tài
+cấp Bộ Quốc phòn;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Căn cứ Quyết định số 123/QĐ-VCNTT ngày 02/4/2018 của Viện trưởng
+Viện Công nghệ thông tin Về việc phê duyệt danh sách nhà thầu tham gia đấu
+thầu hạn chế gói thầu số 01 “ Mua vật tư .công nghệ thông, tin và các môdun lập
+
+ 
+
+trình điều khiến theo chức năng ” thuộc đề tài cấp B. Quốc phòng;
+
+Căn cứ báo cáo đánh giá HSDT của gói thầu số 01 “Mua vật tư công nghệ
+thông tỉn và các Môdun lập trình điều khiến theo chức năng” của đề tài cấp Bộ
+Quốc phòng “Nghiên cứu thiết kế và chế tạo khối chức năng IITHI9VN,
+IIBB34VN trong máy tính trên khoang BLIBM-20-701(MTTK) của đạn tên lửa
+3M242” và thương thảo hợp đồng giữa Viện Công nghệ thông tin với Công ty
+TNHH Đầu tư phát triển sản phẩm Công nghệ cao HTP,
+23 22 9 l6 
+14 lễ: TC logic Nga 33J1A3 " IEPGA spartan 6E.
+
+Vi xử lý STM32
+
+ 
+
+c Nga 112TMI
+TC logic Nga 530KIII I
+
+TC logie Nga K533W7 
+Chiệc ĐVT Chiệc Chiệc 
+Chiệc Chiệc Chiêc Chiệc 
+dm2 Cuộn Gói Chiệc 
+Chiệc Chiệc Chiệc Chiệc 
+Chiệc Mô đun Mô đun Mô đun 
+Chiệc Chiệc 90 10 
+20 20 20 20 
+100 24 1š 30 
+200 100 50 100 
+46 45 44 43 
+42 ẠI 40 39 
+38 ni 36 35 
+34 Kk) 32 30 
+29 28 27 26 
+25 24 \ lệnh đơn vào, ra thiệt bị.
+Mô dun bị đọc được từ thiết bị
+ngoại vi của thiết bị MTTK từ dạng song song sang nối
+
+ 
+
+n
+
+ 
+
+liệu các tín hiệ Mô đun biên đồi dữ I
+của các tham số của bộ xử lý tính toán số học được lưu
+tạm vào RAM.
+
+ 
+
+TÊN ý li:
+u nôi tiệp sang song song dữ liệu 
+Module giải mã-biển đổi địa chỉ bộ phát dữ liệu theo
+8911-79.
+
+ỗi dữ liệu song song sang nối tiếp dữ liệu
+đưa ra từ vùng RAM. ˆMô đun thực hiện dịch địa chỉ từ chuẩn nỗi tiếp sang,
+
+ 
+
+ˆMô dun dịch tín hiệu điều khiển truy cập bộ nhớ từ nối
+tiếp sang song song.
+
+ 
+
+chuẩn FOCT 18977-79. Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Chiếc Chiệc Chiệc Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+67 66 65 64 
+63 62 6l 60 
+Đ3 58 57 $6 
+5S 53
+54 52 51 
+50 49 48 47 
+Module tạo tín hiệu điêu khiên bộ nhớ biên của máy Module quản lý, cập nhật địa chỉ bộ nhớ biên của máy.
+tính chuyên dụng. Module cập nhật thanh ghi chỉ số chuyên dụng. Module cập nhật địa chỉ mã lệnh chương trình. 
+Module lưu trữ dữ liệu chuyên dụng. Module tạo bộ đệm lưu trữ mã chương trình hoạt động. Module điều chê tạo tín hiệu xung nhịp cho hệ thông. Module biên đôi luông dữ liệu từ nỗi tiệp sang song,
+song của chuỗi dữ liệu mã lệnh đưa đến của card bộ nhớ
+chương trình. 
+'Module biển dỗi luông dữ liệu từ nỗi tiệp sang song,
+song của chuỗi dữ liệu mã lệnh dưa dến của card bộ nhớ
+chương trình. Module biên đôi luông dữ liệu từ song song sang,
+tiếp của chuỗi tạo gị: điều khiển truy cập bộ
+nhớ. Module biến dôi luông dữ liệu từ song song sang nôi
+tiếp của chuỗi tạo giả tín hiệu địa chỉ. Mô đun tạo luỗông dữ liệu điêu khiên truy cập vùng nhớ. 
+'Mô đun tạo luông dữ liệu địa chỉ truy cập vùng nhớ. Module dôn kênh dữ liệu kênh thu dữ liệu theo chuân
+TOCT 18977-79: Module điều chê tạo tín hiệu xung nhịp cho hệ thông. 'Module điều chế tạo tín hiệu xung nhịp cho thu phát dữ.
+liệu theo chuẩn truyền FOCT 18977-79. 
+Iodule xử lý luông dữ liệu dâu ra của bộ phát dữ liệu
+
+theo chuẩn FOCT 18977-79. Module xử lý luông dữ liệu đầu vào của bộ thu dữ liệu
+theo chuẩn FOCT 18977-79. Module phôi hợp đầu ra bộ phát dữ liệu theo chuân
+TOCT 18977-79. Module phôi hợp đâu vào bộ thu dữ liệu theo chuân
+TOCT 18977-79. 
+Mô đun biên đôi dữ liệu nôi tiệp sang song song dữ liệu
+được lưu vào vùng nhớ RAM. Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô dun 
+83 82 81 80 
+79 78 7 76 
+Jộ 74 73 72 
+71 70 68
+69 Module biến đổi luỗng dữ liệu từ nối tiếp sang song ˆ
+song biến đổi dữ liệu thu được của vùng bộ nhớ RAM.
+ˆModule biến đổi luồng dữ liệu của chuỗi dữ liệu tạo giả
+
+ngẫu nhiên lưu vào vùng RAM từ song song sang nối
+tiếp.
+
+Mô đun tạo dữ giả dữ liệu ghỉ vào vùng RAM trên card
+TIBB34.
+
+Mô đun phân tích dữ liệu truyền và dữ liệu nhận được
+từ các vùng RAM, so sánh đánh giá kết quả tổng hợp
+đưa đến thiết bị máy tính trung tâm kết quả kiểm tra
+vùng bộ nhớ RAM.
+
+ 
+
+ 
+
+ 
+
+Module biến đôi luỗng địa chỉ tạo giả truy cập RAM từ
+dạng song song sang nối tiếp đưa đến card IIBB34 điều
+khiển quá trình đọc ghỉ dữ
+Mô đun tạo dữ giả dữ liệu địa chỉ truy cập vào vùng,
+
+nhớ RAM trên card [IBB34. 
+Chiệc Card Mô đun 81⁄1 
+Mô dun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun Mô đun Mô đun Mô đun 
+Mô đun 
+STT 123/( nghị
+công
+Bộ (
+Việt
+thầu
+diều
+
+18/7
+
+'VCN 9Ị 
+90 90 88 §7 
+§6 85 §4 Công ty TNHH sản xuất và phát
+triển thương mại Thái Sơn 
+Công ty TNIH Đầu tư phát triển
+sản phẩm Công nghệ cao HTP “ô phân Đâu tư và dịch lên nhà thâu 3. Quy trình tổ chức lựa chọt
+3.1. Quá trình tổ chức lựa ch:
+Quyết định số 86/QĐ-VCNTT n
+thông tỉn Về việc phê duyệt hồ s
+nghệ thông tin và môdun lập tr
+uốc phòng;
+ăn cứ Quyết định số 123/QĐ-
+Công nghệ thông tin Về việc p|
+hạn chế gói thầu số 01 “Mua vậ
+chiên theo chức năng” thuộc
+Thời gian phát hành HSMT tì
+2018.
+Các nhà thầu nhận HSMT từ b
+TT ngày 02/4/2018 của 
+Đông hỗ vạn năng sô câm tay Cáp tín hiệu chuyên dụng. Panh gắp linh kiện Kìm tuốt dây 
+Dung dịch phủ mạch Dây thít Nhựa thông, thiêc, dây điện. Module điêu chê tạo tín hiệu xung nhịp cho hệ thông. 
+TOCT 18977-79, phân tích, thông kê, tông hợp kêt quả. ền thời điểm đóng thầu có 03 ¡
+Đ-VCNTT ngày 02/4/2018 của Số 46, ngõ Z55 đường Nguyễn Khang,
+Phường Yên Hòa, Quận Câu Giây, TP.Hà 169, đường Hoàng Mai,
+Phường Hoàng & Văn Thụ, Quận Hoàng Mai, 
+Số 4, đường Giáp Bát, Quận Hoàng Mai,
+TP. Hà Nội. Địa chỉ ì và đánh giá HSDT
+n nhà thầu :
+
+sày 15/3/2018 của Viện \
+z mời thầu của gói thầu s
+nh điều khiển theo chức
+
+ 
+
+   
+
+VCNTT ngày 02/4/2018
+ê duyệt danh sách nhà t
+tư công nghệ thông tỉn v
+li cấp Bộ Quốc phòng;
+
+08h00 ngày 04/5/2011
+
+ìn mời thầu theo quyết
+ng Viên Công nghệ thôn à thậ
+hà thâu 
+nhà thầu
+
+rưởng Việ
+01 “Mu
+năng” đề
+
+của Viện
+tâu tham
+ì môdun Ï
+
+đến 9h(
+
+định số 1
+ơ {IN; Chiếc lít Mô đun 
+n Công
+\ vật tư
+tài cấp
+
+trưởng
+sia đấu
+p trình
+
+) ngày
+
+3/QĐ- là (hầm ;
+
+Đầu từ và địch vụ Thái Tà, Cộ,
+"ghỆ cao HTp, Qy  xụ,
+MỢI Qua bước đánh
+
+huật,
+
+'9 quy định
+
+Siá sơ bộ thẹ h của
+
+Mặt kỹ thuật;
+
+Cổ phản bảu tự và địch vụ Thái ra, Công ty TNỊj
+18 nghệ cao prrp, Công ty TNHỊỊ sà
+ó tẤt cả nội dụng yêu cầu được ị
+
+4My định của Fiswrr được đưa vào
+
+ 
+ 
+
+   
+
+n
+# Nhà thậu
+› CÓ giá có gị
+Ệt.
+
+  
+
+    
+
+nh gị
+Công ty TNhjy, Đầu uy Phát triển sản nhậm Công
+Á chào thâu đạy vạu SÊM và thấp hơn giá Sói thầu qạ
+
+   
+
+nghệ cao
+
+được phậ
++NI
+
+thà thầu, Công ty
+Sản xuất Và phát triển thự,
+chảo cao, hơn
+
+Cổ phân pà Yề dịch vụ Thái Tà, Công ty TNHH
+8 Mại Thái Sơn có Siá chào khô, ê
+"9€ phê duyệt ( Giá 8ói th
+
+  
+ 
+
+ 
+   
+ 
+ 
+   
+
+"ị
+m giá gói thầu đã đị
+là: #302.240.000 đàn
+ếp hạ ầ
+
+ 
+
+    
+
+ 
+
+     
+
+l4
+-240. Ï triệu,
+Ễ nghìy; 8) và là "hà thầu chặo Siá thấp nhát
+~_ Viện Công nghệ thông tin qạ tiến hành thương thạo hợp đồng vợi nhà
+thâu Công ty TNHH Đâu tụ Phát triển sản Phẩm Công nghệ cao HTp
+ĐỀ nghị và kết quả lựa chọn nhạ thầu
++ Tên nhà gậy, thẳng đậm;
+
+ 
+
+"8 ty TNH,
+Ông ty TNHHH sả
+
+lâL vàTỤC GUNMH SMCH PHAN THỢ HHHUG 0072/17 —
+
+Nơi nhận:
+~ Như trên;
+
+~ Phòng TM-KH;
+
+~ Lưu: VT, KH; H04.PHỤ LỤC
+(Kèm theo tờ trình số Ä/(/TT»-VCNTT ngày Z tháng Š năm 2018 giữa
+Tên Công nghệ thông tin và Công ty TNHH Đầu tư phát tiễn sản phẩm Công nghệ cao HTP)
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐVT: động
+| | Xuất xứ, Ị ề Đơn giá trước thuế “Thành tiền trước thuế Thuế SreT Tổng tiền
+| w kýhiệu, | Đơn | Sự ứng | Phần
+TT | Tên hàng Tham số kỹ thuật | nhãn mác | vị tính | lượng Phần cứng | Phần mễm | Phần cứng | Phần mềm Pu mềm
+| | sản phẩm. Ï | 0% ©]
+[TsA—T-Kme 484BBGA — Xilinxine. | Chiếc | Tô | 5880000 58-800.000. | | 58806000 | —-——Ƒ #468000
+ị Ị $partan 6 | - Điện áp cấp nguồn: 1.14 đến 126V. (Mỹ), Ị | Ỉ
+Ị ~ Số logic Cells: 101.261 XC6SLXI0 Ị Í
+~ Số lượng Sliees: 15.822, 0 | Ị |
+| - Số Flip-Flep: 126.576 LIFG4841- |
+~ Dụng lượng RAM lớn nhất: 976 Kb ND Ị
+| ~ Số DSP Slices: 180 | | Ị
+| - Số khốt điều khiển bộ nhớ: 4 | ị | |
+j..¬ - XilixInc. [ Chiếc | T9 | 7688091. 76.890.508. | 7688.091 | ~~——ÏF§4580.000.
+Spartan.. | - Điện áp cấp nguồn: 1.14 đến 126V (Mỹ),
+| | é | ˆ Số logïe Cells: 147443 | xcssUXis | Ị |
+| { Số lượng Slices: 23.038. | + Í
+~ Số Flo-Flop: 184.304 LIFG484I- Ị |
+| ~ Dung RAM lớn nhất: 1.355 Kb. ND |
+~ Số D$P Sliees: 180 | | Ỉ [
+| - Số Khôi điều khiển bộ nhớ: 4 [ l | | |
+Ị 3 | Vu |-Bộviđiễu khiến dùng ARM ConsxMi | ŠTMiemiE| CE-| Tô 361818 J | >8 | 318i Ƒ———Ï 3880000,
+STM32 |-Corexulý32bit |  sxees | |
+| ~ Tốc độ: 72Mhz (M9) Ị
+| Các chuân kết nỗi: CAN, I2C, IrDA, LIN, | STM32F30 Ị
+| | SP UART/USART | 32t
+- Các giao tiếp ngoại vi: DMA, POR, PWM| | Ị |
+| MT ị
+| ~ Bộ nhớ chương trình Flash: 64KB.. | Ỉ
+Ị | - Dụng lượng Ram: 12Kxẽ Ì Ị Ì
+Ị Điện áp cung cấp: 2V~3,6V'
+| Ì đôi dự liêu: A/Ð 21x12b, D/A 3x12 | [ Ỉ
+“m——— —_—_ễ_ễĂ_Ểs6B-__.—¬| [  —-=FrrThre—T—————__ễ-__.B- CC Ậ ^^“ "*~ Ƒ E7 ——m———————————_— —__—_______ Ò_Ï '“ <<. 
+0o cố u T  v ma —— `. ——__.-- Š năm 2018 giữa
+phẩm Công nghệ cao H]
+
+“Thành tiền trước thu
+
+ 
+
+ 
+
+¡ Phần cứng | Phầnm
+
+_ Ƒ 58800000
+
+76.890.906.
+
+| 21818 z
+
+ 
+
+ 
+
+ 
+
+' ao HTP)
+= ẽ ĐVT: động
+trước thuế ' ThuếGTGT Tổng tiền
+TC Hiến,
+ứng | Phần
+ần mềm | Phần cứng
+h
+Phần mềm | PT n |
+| 58806000 | —-——Ƒ #468000
+|
+Ị
+Ị
+ị ị
+|
+| 7688.091 | ~~——ÏF§4580.000.
+nổ
+| 3/1818 - Ị 3.980.000.
+| Ị
+| Ị
+Ị 3.880.000. 
+Phần cứng
+(10%) Phần
+mềm
+
+@ 64.680.000
+
+$4:580.000. Xuất xứ, Đơn giá trước thuế. “Thành tiền trước thuế Thuế GTGT Tổng tiền
+th n kýhiệu | Đơn | Số c. | Phần
+Tên hàng “Tham số kỹ thuật hân mác. vinh | lượng| Phần công | Phần mềm | Phầncóng | Phần mềm | Phần cốhg | mặm
+sản phẩm | ï @
+~ Nhiệt độ hoạt động: -40°€ ~ 85", |
+|
+IChọ — [7HoTinhkiệntheochuẩnTIL. Texas [ Chc | 90 | 108182 5736561 9566 | - T 10710000
+74XX ~ Gồm các bộ linh kiện logic cơ bản OR, _ | Instruments
+AND, NAND, NOR, XOR, NOT, (Mỹ)
+~ Linh kiện đệm dữ liệu chuẩn TTL, LM74CIMX-
+~ Linh kiện chốt dữ liệu chuẩn TTL. 3/NOPB,
+~ Linh kiện giải mã địa chỉ LM14CTTP-
+~ Bộ Triger D, JK, 3NOPB |
+~ Điện áp nguồn nuôi: 2V~6V. LM74CIM-
+- Nhiệt độ làm việc: 2V ~ 6V 3/NOPB,
+|LM74CTrPX
+-3/NOPB |
+LM?4CIM-:
+|EM74CIM: |
+Rom ~ Bộ nhớ chương trình Xilimxine. | Chiếc | 24 | 190908 4.381.818 458182 | - | 5040000
+chương _ |-DạngbộnhớEPROM (Mỹ)
+trình - Kiểu loại bộ nhớ: Bộ nhớ đọc ghỉ dạng _ | XC1736EV.
+song song. OG§C-ND.
+~ Dung lượng bộ nhớ: 2KB.
+~ Bus dữ liệu § bít
+~ Điện áp nguồn nuôi: 4,5V~5V.
+~ Nhiệt đô làm việc: 0%C ~ 70C. | |
+IClogjeƑ~ Bộ Triger D theo chuân DTL, (Ng) Ï Chiếc | I00 | 1176364 11768636 [763.686 | ~ —ÏT25.400.000
+Nga ~ Nguồn nuôi: 3V+ - 10%. | H2TMI
+1I2TMI | - Nhiệt độ làm việc: -40%C ~ 85°C. Ỉ Ỉ
+TT | Tên
++ ch
+74%
+5 TRon
+chực
+trình
+6 Hết
+Nga
+1) JC logic
+Nga
+112TMI Rom
+chương 1Chọ
+74XX 
+~ Bộ nhớ chương trình.
+~ Dạng bộ nhớ EPROM.
+
+~ Kiễu loại bộ nhớ: Bộ nhớ đọc ghỉ dạng
+song song.
+
+~ Dung lượng bộ nhớ: 2KB.
+
+~ Bus dữ liệu § bít
+
+~ Điện áp nguồn nuôi: 4,5V~5V.
+
+    
+
+Bộ Triger D theo chuẩn DTL,
+~ Nguồn nuôi: 3V+ - 10%,
+"Nhiệt độ làm việc: -40°C ~ 85°C. ~ Họ lỉnh kiện theo chuân TTL.
+
+~ Gôm các bộ linh kiện logic cơ bản OR,
+AND, NAND, NOR, XOR, NOT,
+
+- Linh kiện đệm dữ liệu chuẩn TTL,
+
+~ Linh kiện chốt dữ liệu chuẩn TTL.
+
+~ Linh kiện giải mã địa chỉ
+
+- Bộ Triger D, JK,
+
+~ Điện áp nguồn nuôi: 2V~6V.
+
+~ Nhiệt độ làm việc: 2V ~ 6V Texas,
+Tnstruments
+(Mỹ
+LM74CIMX-
+3/NOPB;
+LM74CTTP-
+3/NOPB
+LM74CIM-
+3/NOPB;
+LM74CITPX
+
+3/NOPB
+LM74CTM-3;
+LM74CIM-S Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm 
+(Nga)
+1I2TMIL Xilinx Ine.
+(M8)
+XC1736EV
+OG§C-ND Chiếc Đơn
+vị tính 
+Chiệc Chiếc lượng 100 
+24 Phần cứng Đơn giá I 1.176.364 
+120.909 108.182 Phần mềm Phần cứng 
+3.736.36 117.4636.364 4.381.818 Phần mềm 
+trước thuế _ “Thuế G1 Phần cứng
+(0%) 373.636 
+11.763.636 458.182 Phần
+mêm
+
+@® “Tổng tiền 
+10.710.000 122.400.000 3.040.000 Ị Xuấtxứ, | _ | Pengi TH thuế “Thành tiền trước thuế Thuế cớ Tổng tiên
+sng kỹhiệu | Đơn | Số ăn cứng | Phần
+| TT | Tên hàng “ham số kỹ thuật nhẫn mác | vịnh | lryng| Thần cứng |: Phần mềm | Phần cứng | Phần mềm Ban mềm
+Ị | snphâm | Ị ị | | 0%) Q
+7 [I€losic_ [- Bộ phân kênh chuyên đụng theo chuẩn gò | Chiếc | 20] #83235. T 18505051 | [ 1580808 | —~—T2T800000
+|Nm TL 330KHI1
+330KHIIL | - Nguồn nuôi: 4,5V~5V, | Ị
+~ Nhiệt độ làm việc 05C ~ 70°C | i | Ï
+$ [IClosie |-Bộgiimãđịachichuyêndụgchuẩn (go [| Chếp| 20 | 768091 [ 15381818 1538182 | ~~””[ 16920000
+Nga TTL. KS33HT7 | | | |
+KS33MH. | - Nguồn nuôi: 4,5V~sV, |
+Ỹ ~ Nhiệt độ làm việc 0°C ~ 70% Ị k
+® [TElosic —[“BộANDchuyêndụng theo chuẩn TH. @g Thức] 20 6152435 12308081 [125008 | 15.340.000
+lyz: ~ Nguễn nuôi: 4,3V~5V, 13A3 | |
+| IB3HA3 _ | Nhiệt độ lạm việc ƠC ~.70%C l Ì |
+| 16 |TEiosic [-BðNAND chuyên dụngtheochuẩnTH.] ÔN) | Chế [ 20 [581g 11763.66 | 11736 | ~—TT29a0000
+lNea ~ Nguễn nuôi: 4,5V~5V, 133HA8 | Ị
+L_ }133/1A8 | - Nhiệt độ làm việc 0%C ~ 70%C | | Ì ịỊ Ỉ Í
+VỈ Ít Bgc | BSÖR mởrệng chuyên dụgtheo chẩn | ÔNm) | Chữp| 1D ĐBE | 57818182 | 6781518 | 74500006
+Nga DIL, 112101 | | |
+Ị | TH - | -Nguồn nuôi: 3V+ 10%, | Ị |
+[ Nhiệt độ làm việc: -40°C ~ 852C. l | | ị
+12 |ICiogic |-Bộđiếtchuyên dụngtheochunDTT. WNg) —['Chữc Ìš§—Ï”đ82727 [258626 2263636 | -——[ 24900000
+| Nga ~ Nguồn nuôi: 3V& 10%, 12H74 | |
+| 1I2HD14__| - Nhiệt độ làm việc: -40°C ~ 85% ị | |
+l3 | Cácloại | -TransitorNPN, IEEE (Mỹ) | Chiếc | T00 [| 1818 ƒ 1818182 [ 181.818 Ị - Ị 2.000.000.
+“Trangistor | - Dòng điện le: 200mA. | DXT3904- |
+| - Điện áp phá hùy Colleetor Emiter:40V. Í 13DICT-
+~ Điện áp Vee bão hòa @b, le: 300mV. ND
+(ÔSmA, 50mA.. | Ỉ |
+~ Công suất cực đại: 300mW, | | | Ị
+~ Tần số chuyển đổi: 300Mhz. Ì Ị Ị Ị Ị
+l ~ Nhiệt độ làm việc: ; -409C ~ 85%. | | J
+14 [Dieteáe [-Điệnápzenerchuảnhóa:32V;5V, | ỌN | hữe| 2008| 501 | Tãï818 | TRIM8 | -~—Ƒ 7080000]
+| li 12V;27V; 12V. Semicondue | Ị Ị
+| | - Độ biến đôi: 42%, tor (Mỹ) Ị ị
+Í - Trở kháng cực đại 89Ohms, | MM3Z3V3 | |
+Xuất xứ,
+ký hiệu, Đơn Số (
+nhãn mác | vịtính | lượng| y
+sản phẩm
+
+(gò) | Chiếc | 20
+$30KHI1
+
+ 
+
+ 
+
+gò) [ Chức | 20
+KS33H7 |
+
+ 
+
+Nga) ¡ tiệ [20
+
+13371A3
+
+@Ng) | Chếc [ 20 [
+13371A§
+
+| l
+
+ 
+
+ 
+
+@g) —| Chiếc | T00
+112m Ị
+|
+| Ị
+Ng) "[ Chiếc Ì 58
+| 12H14 | | |
+IEEE (Mỹ) | Chiếc | T00 Ỉ
+| DXT3904- |
+| 13DICT-
+
+ND |
+
+ 
+
+ 
+
+SN | Chếc | 200 |
+Semicondue | Ị
+
+tor (Mỹ)
+LMM3Z2V2 | 20
+
+20
+
+100 Đơn giá trước thuế Thành tiền trước thuế Thuế GTGT. Tổng tiền
+J
+ân cứng | Phần
+Thần cứng |- Phần mềm | Phần cứng | Phần mềm | Nh mềm
+ị Ị @
+55.485 [ 19.909.051 | 190908 [ —~ —[ 21800000.
+Ị }
+769.091 | 15381818 1538182 | ~~””[ 16920000
+Ị 4
+615.455 12309091 { 1.230.909 | 13540000
+|
+J 1 |
+588182 TT763.66 | rưnn | ~TT00
+Ì Ị | -
+S7§1§2 | 57818182 | 6781.818 | 74500006
+ị |
+Ị | |
+|
+452727 | 25.686.364 2263636 | —~—[ 24900000
+18182 Ƒ 1.818.182 181.818 Ị - Ị 2.000.000
+| Ị
+Ị | Ị |
+ị
+9.091 1.818.182 181.818 - 2.000.000. ị Phần mềm 
+22.636.364. 67818.182. 122309091.
+
+1163.636 15.381.818 
+12.209.091 Phần cứng Phần mềm. Phần mềm. 
+l1ổ1818 - 6.781.818
+
+2263.636 1176.364 1230.909 
+14536182. 1.390.209 Phần cứng
+(10%) Phần
+mềm
+
+® 
+24.900.000
+
+2.000.000 74.600.000 12.940.000 16.920.000
+
+15.540.000. 
+1.300.000. “TT | Tên hàng
+
+Tham số kỹ thuật
+
+Xuất xứ,
+ký hiệu,
+nhãn mác.
+sân phẩm
+
+| Đơn
+vị tính
+
+Số
+lượng|
+
+Đơn giá trước thuế
+
+"Thành tiền trước thuế
+
+Tông tiền
+
+ 
+
+Phần cứng | Phần mềm
+
+Phần cứng | Phần mềm
+
+Thuế GTGT
+
+| Phần cứng
+(0%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ Nhiệt độ làm việc: : -40°C ~ 85'C
+
+Bị
+PLVA650A
+J215;
+TZMCIV0-
+GS08
+BZT52C12-
+Tả
+MMSZ5254
+B.TP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 | Điện trở
+các loại
+
+~ Điện tở các loại: 10 Ohrs, 22Ohms, 100
+Ohms, 220ORrms, IkOhms, .... 100kOhros
+~ Độ sai lệch +59.
+
+ 
+
+ 
+
+~ Hệ số nhiệu độ:
+~ Nhiệt độ làm việc: -40°C ~ 85°C.
+- Kiểu chân: 0402, 0603, 0805
+
+ 
+
+Susumu
+(Mỹ)
+RR0816Q-
+100-
+D;CSS2H-
+3920R-
+1200F;CRC
+'W060338R.
+0FKTA;RR
+0510P-102-
+D,ERA-
+2AED102X
+;ERI-
+XGNIJ102Y
+
+RHC2512F
+TIK00;RH
+C2512FT2
+K20;RHC2.
+SI2FT5K60
+RHC2512F
+T10K00.
+
+Gói
+
+ 
+
+10
+
+ 
+
+1809.091
+
+ 
+
+18.090.909
+
+1809091 | ~
+
+19.900.000
+
+ 
+
+16 | Tụ điện
+các loại
+
+ 
+
+ 
+
+- Tụ điện các loại: 1pE, 2pF, 10pF, 10nE,
+100nE, IuE, 10uE, 220...
+
+ 
+
+- Độ sai lệch +10,
+
+ 
+
+KEMET
+C0402C102
+KSRACTU:
+
+Gói
+
+ 
+
+10
+
+ 
+
+ 
+
+2.713.636 Ị 9
+
+ 
+
+ 
+
+ 
+
+27.136.364 9
+
+ 
+
+271366 | -
+
+ 
+
+ 
+
+ 
+
+ 
+
+29.850.000.
+“TT | Tên hàng 'Tham số kị
+~ Nht độ làm việc: : <4
+
+T5 [Điệntỡ | -Điệntở các loại: l0(
+các loại - | Ohms,220ORms, 1kOI
+
+~ Độ sai lệch +59
+~ Công suất, 1/16W,
+
+~ Hệ số nhiệu độ: =100
+~ Nhiệt độ làm việc: -4
+~ Kiều chân: 0402, 06 FT | Tên hàng
+
+ 
+
+ 
+
+các loại Tên hàng, Xuất xứ,
+ký hiệu,
+nhãn mác.
+sân phẩm
+
+| Đưa
+vị tính
+
+Số
+
+Đơn giá trước thuế
+
+Thành tí
+
+ 
+
+lượng| Phần cứng | Phần mềm.
+
+Phần cứng
+
+ 
+
+;5°C
+
+Bị
+PLVA650A
+J215;
+TZMCIV0-
+GS08
+BZT52C12-
+T-E;
+MMSZ5254
+B.TP.
+
+ 
+
+22Obms, 100.
+...100kOhms.
+
+Ụ
+35C.
+§
+
+Susumu.
+(Mỹ)
+'RR0816Q-
+100-
+D,CSS2H-
+3920R-
+1200F;CRC
+W060338R.
+0EKTA;RR
+0510P-102-
+D,ERA-
+2AED102X
+;ERI-
+XGNJ102Y
+
+RHC2512F
+TIK00;RH
+C2512FT2
+K20;RHC2.
+SI2FT5K60
+RHC2512F
+T10K00.
+
+Gói
+
+ 
+
+10
+
+1809.091
+
+ 
+
+ 
+
+1809090
+
+ 
+
+ 
+
+„ 10pF, 10nF,
+
+KEMET
+
+ 
+
+ 
+
+C0402C102
+|KSRACTU:
+
+Gói
+
+ 
+
+10
+
+ 
+
+2.713.636 Ị 9 
+Xuất xứ,
+ký hiệu,
+nhãn mắc
+sẵn phẩm LVA650A.
+215;
+
+ZMCIVO-
+Gs08
+
+Z152C12- |
+
+ 
+
+3920R-
+L200E;CRC |
+W060338R. |
+0FKTA;RR
+0510P-102-
+
+D,ERA-
+2AED102X
+
+;ERI-
+
+XGNJ102Y
+
+RHC2512F
+TIK00/RH |
+C2512FT2
+K20;RHC2
+512FT5K60
+RHC2512F
+T10K00 Đơn
+vị tính „ Gói | d0 
+Gói Số
+lượng 1.809.091
+
+2.713.636 Phần mềm 
+“120.201 pH ờ ———-
+"Thành tiền trước thuế Thui
+| Phần cí
+
+Phần cứng | Phần mềm lx L8.090.909.
+
+27.136.364 Thuế GTGT Tôn;
+Phần cứng. Tàn
+(10%) @
+1809001 | - | tí
+
+ 
+
+ 
+
+ 
+
+2713266 | - |2 
+Tông tiên
+
+ 
+
+19.900.00
+
+ 
+
+ 
+
+ 
+
+— | 29850. | TT | Tên hàng
+
+Tham số kỹ thuật
+
+ 
+
+Xuất xứ,
+ký hiệu,
+nhãn mác
+
+| sản phẩm
+
+Ĩ
+Ị
+
+|
+
+Đơn
+
+Í vitnh
+
+Đơn giá trước thuế }
+
+Thành tiền
+
+trước thuế
+
+Thuế GTGT
+
+“Tông tiền
+
+ 
+
+Phần cứng
+
+Phần mềm
+
+Phần cứng
+
+Phần mềm.
+
+Phần cúng
+
+Phần
+0%) | mềm
+
+ 
+
+~ Công suất: 1/I6W
+
+Hệ số nhiệu độ: <100ppm/0C
+độ làm việc: -40%C ~ 852C.
+- Kiểu chân: 0402, 0603, 0805.
+
+  
+
+C0402C103
+XSRACTU
+C0402C104.
+KSRACTU;
+
+[Cososcnos
+
+K5RACTU
+
+.C0402C106
+
+KSRACTU,
+
+C0402C1028.
+
+ACTU
+
+J103KA01D;
+
+'RM1555C1
+
+TH
+
+'H4711A01D
+,C0402C10:7
+
+3GACTU,
+
+ÍC0603X5R1
+|A104K0308.
+
+€
+
+ 
+
+là)
+
+ 
+
+| 17 | Dây dẩn
+điện
+chuyên
+dụng
+
+ 
+
+ 
+
+~ Dây dẫn chuyên dụng,
+
+~ Vật liệu đồng,
+
+~ Vô bọc kim.
+
+~ Điện áp: 300V,
+
+~ Nhiệt độ làm việc: -30°C ~ 90%C
+
+Ị
+Ị
+
+Alpha Wừc
+(Mỹ)
+299/3
+
+SV005;
+3051
+
+ 
+
+0500-001-
+1-TS
+3050.
+
+Y1005
+
+Ị
+
+Cuốn.
+
+3Í
+
+ 
+
+627271
+
+3.136.364
+
+31366 [ —~
+
+ 
+
+Ị
+
+ 
+
+⁄
+
+3.450.000
+
+ 
+
+18 [Mại
+
+ 
+
+  
+
+thôi thiểu 0.2mm
+thiểu giữa 2 đối tượng
+
+ 
+
+Ù
+
+Giàn Quốc)
+Mạch in
+
+ 
+
+dm2
+
+ 
+
+407273
+
+ĩ
+
+ 
+
+ 
+
+ 
+
+12218.182
+
+ 
+
+L
+
+1221818] - B:
+
+Ị
+
+S
+| [` ra
+
+Ị
+
+ 
+
+~ Công su
+= Hệ số nÌ
+- Nhiệt đệ
+~ Kiểu chí
+
+ 
+
+17 |Dâydẫn |-Dây dẫn.
+
+điện - Vật liệu
+chuyên - |-Vỏbọck
+dụng - Điện áp:
+
+- Nhiệt độ Mạhim Đơn giá trước thuế |] Thành
+
+ 
+
+lượng| Phần cúng | Phần mềm | Phần cứn
+
+ 
+
+ 
+
+§ Ỉ 621.273 3.136.364
+
+ 
+
+ 
+
+12218.182 Phần cứng | Phần mềm
+
+===_=.—.
+
+3.136.364
+
+ 
+
+12.218.182 
+“Thành tiền trước thuế. Thuế GTGT Tông tiền
+`. Phần
+Thần cứng | Phần mềm | Phầneúng | nấu
+08) | TÔ)
+Ỉ |
+Ị Ị
+| Ị
+ị ị
+Ị
+Ị
+| Ị
+Ị Ị Ị
+|
+|
+|
+| |
+3.136.364 31366 [ —~ 3450.000 |
+|
+|
+Ị
+| |
+L==sl
+12218182 1221818] = —ƑTS.440000
+Ị
+
+——._....
+
+S L==sl
+
+ 
+
+ 
+
+1221.818
+
+ 
+
+ 
+
+ 
+
+13.440.000
+
+|
+| Phần mềm. Thần cứng
+(10%) 
+Phần
+mềm,
+
+© “Tổng tiền l | xuất xử | : Đơn giá trước thuế ] Thành tiềntrướcthuế ] Thuế GTGT. Tổng tiền
+đo kỹhiệu | Đơn | Số |. Phần
+TỊ | Thang “han số kỹ thuật ân nhận | Tính | leợng| Phần cứng Í Phần mềm | Phẩncứng | Phần màn ThïŸ mềm
+sản phẩm G)
+02mm An
+~ Độ hở mở copper (phủ đồng): Tối thiểu
+lổmils=0.4mm. l
+- Khoảng chừa đường biên nhỏ nhất
+0.5mm
+- Khoảng cách mở phủ nhỏ nhất xanh lá:
+001m
++Kích thước lỗ khoan lỗ chân linh kiện;
+ĐAD+0.7mm (0.9, 1, 1⁄2, 1.5, 1.8, 2, |
+2.5mm)
+~ Bắt ốc: pad=lỗ khoan. @,3.5,4, 5,
+Š.5(mm)) <CNC
+- Kích thước lỗ Via (Lễ nối lớp Top và
+BoRom) tối thiểu 0.5mm, Pad Vịa = lễ
+khoan+05
+~ Pad Via nhỏ nhất Imm.
+~ Độ đây của chữ để in (0.2mm) | |
+19 |7ak đệ bên 1023, 80l, 27" I,Iệ=Ij4I=I; | ĐỀSSS926 1 Chữe [1 2261.818 33927273 3392727 Ï~—~[T37320000
+chuyên |3 WE35PN-
+đụng các | -Imax:
+loại ~ Tân số: 1-0000, AMS3112E
+~ Thời gian làm việc 15 năm, -10-6S-ND.
+~ Mạ vàng, 'D33999/26
+MI3SPN;
+MS3102R1
+05-
+28;MS3102
+E16S-4S
+TMS3102R,
+| 204p-Np,|
+TT | Tên hàng Tham số kỹ thuậ
+20 [TCnguôn | -Đầu vào:27V
+ĐC-DC |-Đầurg+12V
+chuyên
+| dòng
+21 | Mô đun [-Địchđũngvàđicácchuốit
+dịch địa _ | định đưa đến card bộ nhớ chưc
+| - |chift _- | T9 thànhcáctinhiệuđịac
+dạng nổi | song xác định vùng nhớ. được
+tiế sang _ | nhớ trên carẻ IITTT9, Phối ghé
+song _ | Khốitạo chuối ínhiệu địa chỉ
+| song. bị MTTK.
+- Hoạt động đúng chức năng đ
+cầu
+- Phối hợp trở Kháng với các €
+iệu được tạo lập trên card TỊT
+TIAY4,
+~ Tương thích tín hiệu về điện
+truyền nhận bình thường, khôc
+Í tín hiệu được tạo ra bởi đồng 1
+| ĐTLL của các khối khác trên M
+- Xung nhịp dữ liệu truyền: tối
+~ Sường xung tín hiệu: < SÔn,
+~ Điện ấp đình xung tín hiệu: t
+18V, tối đa 3,5V
+~ Đây xung tín hiệu; <0,§V,
+~ Nguồn điện nuôi: 5V,
+- Điện áp tiêu thụ : < LA,
+22 | Mô đèn T=Địch đúng và đã các chuốinã
+địch tín __ | khiển quá trình truy cập bộ nhé
+điều | TT, Phối ghép được với kh
+khiễn truy | tín hiệu điều khiễn truy cập bộ
+cập bộ __ | card TTHI9 trong thiếtbị MTT
+L_ lãm
++1 | Tên hàng Tì
+
+20 |[TCnguôn |-Đầuvào:27ì
+DC-DC ~ Đầu ra: 12V
+
+ 
+
+ 
+
+chuyên
+| dòng
+
+21 | Mô đun —Ƒ~Địh đúng và
+
+địch địa | định đưa đến c
+
+| |ehitk | nHH9thàne
+
+dạng nối | song xác định
+tiế sang | nhớ trên cardl
+song — | Khốitạo chuối
+| song. MTTK.
+Hoạt động đú
+cầu
+- Phối hợp tr
+hiệu được tạo Ì
+TIAY4,
+- Tương thích t
+| truyền nhận bÌ
+tín hiệu được t
+| DTL của các kì
+- Xung nhịp dũ
+- Sường xung tị
+~ Điện áp đình
+Ị 18V, tối đa 3,5
+~ Đây xung tín
+~ Nguồn điện m
+- Điện áp tiêu t
+22 |Môđm T-Dichđúngvà
+địchtín | khiển quá trình
+hiệu điều | TTTUT9, Phối gh
+tín hiệu điều kh
+cập bộ - | card HIHI9 trọ
+nhớtừ _ | -Hoạtđộng đủ 21 20 Mô đun
+địch tín
+hiệu điều
+
+ 
+
+cập bộ
+nhớ từ 
+TC Tnhh h,
+dịch tín | khiên quá trình
+hiệu điều | TIH9. Phối gh
+khiển truy | tín hiệu điều kh
+cập bộ _ | card HTTHI9tror
+
+nhớtừ — | -Hoạtđộng đút Mô đụn
+địch địa
+chh
+đạng nối
+tiếp sang
+song
+song, 1C nguôn.
+DC-DC
+chuyên.
+dụng "Việt Nam 
+“Việt Nam. TDK-
+Lembda
+(Mỹ)
+DPX4024W
+DI2 Mò
+đun Chiếc 
+Đơn
+vị tính 19 Số
+lượng 10.628.182 
+12754.545 3347273 Đơn giá trước thuế
+
+|
+
+Thành tiền trước thuế
+
+ 
+
+ 
+
+ 
+
+Thuế GTGT: Tông tiên
+ợ
+Ï ì Phần |
+Tà do (ri vi ễ ầ Phần cứng | Ph
+'hần cứng | Phần mềm | Phần cứng | Phần mềm 40% | mềm | 33.074.000 
+32.736.000 Phần mềm 12754545. 33.472727 
+Phần cứng 32.736.000 Phần mềm. 1275455 
+3347.273 _ ThuếGTGT ˆ Phần cứng
+(10%) Phần
+mềm
+
+@ 
+Tổng tiền 36.820.000 Xuất xứ, Đơn giá trước thuế Thành tiền trước thuế Thuế ereT Tổng tiền
+n đo, kýhiệ, | Đơn | Số —- | Phần
+Sạc Tnhh HP nhãn mác | vị tính | lượng| Phần cứng | Phần mềm | Phần cứng | Phần mềm , ". mềm
+sản phẩm. 409%) | @
+nổi tiếp Ï~Phốihợp rởkháng với các đườngtín.
+sang song | hiệu được tạo lập trên card IIAY3, IIAY4.
+song. | -Tươngthích tín hiệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi đồng linh kiện
+~ Điện áp định xung tín hiệu: tối thiểu
+1,8V, tối đa 3,3V-
+‹0,8V.
+5v.
+~ Điện áp tiêu thụ : < 1A.
+23 | Mô đưa ~ Nhận tín hiệu địa chỉ và các tín hiệu điều. Việt Nam. Mô 1 12.482.727 | 32.039.000 | 12.482.727 | 32.039.000 1.248.273 - 45.770.000.
+giải mã _ | khiễn truy cập bộ nhớ đã được biến đổi đun
+địa chỉ và. | nhằm xác định chính xác giá trị và điều
+điều Xhiễn đứng vùng nhớ cần truy cập.
+khiễn trên | - Hoạt động đúng chức năng đã được yêu
+card bộ - | cầu
+nhớ - Phối hợp trở kháng với các đường tín
+chương _ | hiệu đến khối giải mã địa chỉ được tạo lập
+trình. trên card TITIT19.
+
+ 
+
+ 
+
+- Tương thích tín hiệu về điện đảm bảo.
+truyền nhận bình thường, Không xung đột
+tín hiệu được tạo ra bởi dòng lính kiện
+ĐTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4Mhz.
+- Sường xung tín hiệu: < SŨng.
+
+~ Điện áp đỉnh xung tín hiệt
+1,8V, tối đa 3,5V.
+
+~ Đây xung tín hiệu: <0,8V,
+~ Nguồn điện nuôi: 5V,
+
+- Điện áp tiêu thụ : < 1A.
+
+dối thiểu.
+TT Tên hàng nội tiếp
+sang song
+song Mô đưn
+giải mã
+địa chỉ và
+đi 
+Tham số kỹ thuật - Phôi hợp trở kháng với các đường tín.
+hiệu được tạo lập trên card TIAY3, TAY.
+- Tương thích tín hiệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi đồng linh kiện
+DTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4Mhz
+~ Sường xung tín hiệu: < S0ns. .
+
+~ Điện áp định xung tín hiệu: tối thiểu
+1,8V, tối đa 3,2V
+
+~ Đầy xung tín hiệu: <0,8V,
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+« Điện áo tiêu thụ : < 1A, ~ Nhận tín hiệu địa chỉ và các tín hiệu điều.
+khiễn truy cập bộ nhớ đã được biển để
+nhằm xác định chính xác giá trị và điều
+khiến đứng vùng nhớ cần truy cập.
+
+Hoạt động đúng chức năng đã được yêu.
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+- Phối hợp trở kháng với các đường tín
+hiệu đến khối giải mã địa chỉ được tạo lập
+trên card TITITĐ.
+
+~ Tương thích tín hiệu về điện đâm bảo.
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng lính kiện
+ĐTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4Mhz
+- Sường xung tín hiệu: < S0ns
+
+~ Điện áp đỉnh xung tín hiệt
+1,8V, tối đa 3,5V.
+
+~ Đây xung tín hiệu: <0,8V,
+~ Nguôn điện nuội: 5V,
+
++ ĐÌN ấn tiêu tụy: < LÁ..
+
+ 
+
+ 
+
+ 
+
+tối thiểu Xuất xứ,
+ký hiệu,
+nhãn mác
+sẵn phẩm. 
+"Việt Nam Đơn
+vị tính Số
+lượng Phần cứng 
+Đơn giá 12482727 rước thui Phần mềm. 
+32.039.000 Phần cứng 12482727 Phần mềm 
+trước thuế ba
+_
+-
+[nề
+
+Muỳ 32.039.000 Phần cứng
+(10%) 
+1248.273 Phần
+mềm
+
+@® GT "Tổng tiền. 
+43.770.000 Ị Xuất xứ, si Đơn giá trước thuế “Thành tiền trước thuế Thuế GTGT. | Tổng tên
+TT |Tấnhùg | Than sổ ý thuật kýhiu | Đơn | Số Ị Ị Phận
+
+Ị
+
+|
+
+E
+
+ 
+
+ễ
+
+nhãn mác | vịtính | lượng| Phần cứng ị Phần mềm | Phần cúng | Phần mềm TP ng" mềm
+| sản pâm | 009) | nỜ
+
+Mô 4 | 3⁄39L818 [ 11194060 | 5391818 | TIIS4000 | 335182. | - | 14925000
+địa
+
+ 
+
+24 |Mộ đàn | -Chốt được dữliệuđịa chiruycậpvùng | ViNam
+chốt địa _ | bộ nhớ chương trình sau giải mã, Ì
+chỉ dữ ~ Hoạt động đúng chức năng đã được yêu. l Ị
+liệu ho | cầu. í | |
+vùng bộ _ | - Phối hợp trở kháng với các đường tín Í
+nhớ hiệu được tạo lập trên card TITTTI9, |
+chương | - Tương thích tín hiệu về điện đảm bảo
+trình. truyền nhận bình thường, không xung đột | |
+tín hiệu được tạo ra bởi đồng linh kiện |
+DTL của các khối khác trên MTTK. Ị
+~ Xung nhịp dữ liệu truyền: tối thiêu 4Mhz.
+- âường xung tín hiệu: < Sôn, |
+- Điện áp đỉnh xung tín hiệu: tối thiểu
+| | 1 8v, tôiaas,sv | |
+~ Đầy xung tín hiệu: <0,§V, | Ị
+~ Nguồn điện nuôi: 5V. Ị
+~ Điện áp tiêu thụ : € TA ị ị Ì / | |
+Chất đợc dự liu địa chỉ ruy cập vùng | VitNam | Mô | T | 35HTTTLIM0012Đi71 11194000 | 338182 | —~—Ƒ T4925.000,
+bộ nhớ hằng số sau giải mã. | đụn Ị
+- Hoạt động đúng chức năng đã được yêu
+sầu.
+- Phối hợp tở kháng với các đường tín
+hiệu được tạo lập trên card TTTTIO.. |
+- Tương thích tín hiệu về điện đảm bảo. | Ị
+truyền nhận bình thường, không xung đột | |
+tín hiệu được tạo ra bởi dòng lnh kiện — |
+ĐTL cửa các khối khác trên MTTK. | |
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ Xutis nhịp dữ liệu truyền: tối thiêu 4Mhz | |
+ Sường xung tin hiệu; € SÔn,—_ ị
+~ Điện áp đình xung tín hiệu: tối thiểu |
+1,8V, tối đa 3,5V. |
+Ị | - Đây xung tín hiệu: <0,8V, |
+~ Nguồn điện nuôi: 5V,
+
+~ Điện áp tiêu thụ : < LA. L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|
+|
+ị
+4N Hàng
+
+—
+24 ] Mô đan
+chốt địa
+chỉ dự
+liệu cho
+vũng bộ
+nhớ
+
+chương
+trình.
+
+ 
+
+[25 |Moan
+chốt địa
+chỉ
+liệu cho
+vũng bộ,
+| nhớ lưu
+| | trừ các
+tham số
+điều tín hiệu
+|  |Khểnvk | DTLci
+hẳngsổ. | -Xungi
+- Sường
+- Điện á
+
+  
+
+   
+
+Ị |-ĐÐx
+~ Nguồn
+~ Điện 4 ( Mộ đun
+chốt địa.
+chỉ dữ
+liệu cho.
+vũng bộ
+nhớ
+
+chương
+trình. Xuất xứ, — ng
+t kýhiu | Đơn | Số
+
+nhãn mác | vịtính | lượng| Phần cứ
+| sản phẩm Ỉ
+
+ễ
+
+ 
+
+Vcậpvùng | ViệNam | Mô | TT 536LAI
+nã. đứa |
+lá được yêu | |
+
+lường tín
+TH. |
+đảm bảo
+ng xung đột
+¡nh kiện
+
+'TTK.
+
+thiêu 4Mhz.
+
+tối thiểu. Ị
+
+ 
+
+| ViRNam | Mô | T | 335181 Việt Nam _ 
+Việt Nam địa Đơn
+vị tính Số
+
+lượng 
+1
+
+| 1.925.000
+
+34391818 | 11194000 Ị 339.182
+
+ 
+
+ 
+
+ 
+
+3⁄391818 [ 11194000. Đơn giá.
+Thần cứng
+
+3.391.818 trước thuế: Thành tiền trước thuế ThuếGTGT | Tổng tề
+
+n 11.124.000 
+11.124.000 Phần mềm. 3391.818. Phần cứng. 
+"Thành tiền 11.124.000_- Phần mềm. 332.182 
+Phần cứng
+(0%) Phân
+mềm
+
+@ GT 14.225.000 
+`. [ Xuất sứ, Đơn giá trước thuế “Thành tiền trước thuế ThuếGTGT ] Tảngtèn
+
+ 
+
+ 
+
+Fe
+
+z ý ` kếhiu | Đơn | số ì Phần
+Tên hàng Tham số kỹ thuật Ị nhãn mác | vị tính | lượng| phận sứng | Phần mềm | Phần cứng | Phần màm TH | mềm
+sản phẩm. : ©
+
+ 
+
+ 
+
+Mô đun ~ Phối ghép, đồn hai 'Yùng đữ liệu. chương Việt Nam. Mô Ã 8.955.455 22.985.000. §.955.455 22.985.000. | 895.545 - 32.836.000
+dồn kênh _| trình và vụ ¡ng dữ liệu hằng số vào một đun
+
+dữ liệu, kênh dữ liệt
+
+- Chốt được dữ liệu địa chỉ truy cập vùng
+bộ nhớ hằng số sau giải mã,
+
+—jJ9‡t động đúng chức năng đã được yêu
+câu.
+
+  
+
+   
+
+- Phối hợp trở Ing với các đường tín
+hiệu của các khối Bộ nhớ và khối chối dự
+liệu được tạo lập trên card THTT9
+
+- Tương thích tín hiệu về điện đảm bảo
+truyện nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi đồng lính kiện
+TL của các khối khác trên MTTK..
+
+~ Xung nhịp dữ liệu truyền: tối thiệu 4Mvhz
+~ Šường xung tín hiệu: < S0ns,
+~ Điện áp đình xung tín hiệu;
+1,8V, tối đa 3,5V
+
+~ Đầy xung tín hiệu: <0,8V,
+
+~ Nguồn điện nuôi: SV,
+
+- Điện áp tiêu thụ: < 1A,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mô du. |-Chốtdữ liệ được đưarabồiKhổi dến Việt Nam.
+
+ 
+
+š
+
+6105455 ] 38058800] 6105435 | 3803Đ00 | 5655 T—~—T2Tmpp
+đệm dữ. Í kênh đữ liệu, tích dữ liệu thành hại luông đun
+
+đã. | tơngứng với vùng dữ liệu mã lệnh và
+chương _ | vùng đữ liệu toán tử, tạo chuỗi tín hiệu đầu.
+trình và | vào cho các bộ biến đôi song song sang
+hằng số. | chuỗi tín hiệu nộ
+
+p.
+s Ìjptt động đúng chức năng đã được yêu
+u,
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Ệu s0ng song sang nối tị
+card TT,
+“Tương thích tín hiệu về điện đâm bảo,
+
+p tong trên
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10
+2. sa. hen 1 T TS
+| \_ Xuất xứ,
+TT | Tên hàng “Tham số kỹ thuật Ỉ
+
+Đơn giá trước thuế Ì Thành tiềntrướcthuế | ThuếGTGT | Tôngtiền
+
+: Ị +— | phần cứng | Phần
+lượng| Phần cứng | Phần mềm | Phần cứng Ì Phần mềm (0%) mềm
+
+ 
+
+ 
+
+ 
+
+@
+truyền nhận bình thường, Không xung đột Ì ị r
+tín hiệu được tạo ra bởi dòng nh kỉ Ị
+Ì DTL của các khốt khác trên MTTK. |
+~ Xung nhịp dữ liệu truyền: ti thiêu 4Mhz
+Í
+
+  
+
+  
+
+~ Sường xung tín hiệu: < S0n, „
+
+ 
+
+~ Đây xung tín hiệu: <0,8V,
+
+ 
+
+- Điện áp tiệu thụ: < 1A.
+28 |Môđm | Chức năng: -
+biến đổi - | - Nhận cữ liệu từ khối đệm dữ liệu chương
+đữiiệu _ | tình và hồng số chuyên đổi dỡ liệu mã
+
+song song | lệnh chương trình từ dạng song song sang _Ì † |
+
+ 
+
+Ì
+ViệNam | Mô 1T [840000 | 30.646.000 ] 11940.000 | 30646000 | 1194000 [ - [ 43.780.000 |
+
+Ị
+- Nguồn điện nuôi: 5V,
+ị
+| đụn Í Ị
+
+tiếp cho | khối xử lý và tính toán trên khối MTTK.
+bộ - Hoạt động đúng chúc năng đã được yêu
+
+ 
+
+  
+        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Điện áp tiêu thụ : < 1A.
+
+ 
+
+ 
+
+ 
+
+sang nối | chuỗi tín hiệu nổi tiếp đưa đưa đến các |
+| chuyên Ị | |
+đổi giao _ | - Phối hợp trở kháng với các đườngtín
+thức Ị Ị Ï !
+truyền đữ. lý của khối xử lý và tính Ị |
+tiệu của bị MTTK, Ị | |
+mã lệnh _ | - Tương thích tín hiệu về điện đảm bảo | Ị
+chương _ | truyền nhận bình thường không xung đột | Í Ị
+tình, Í dnhiệu được tạora bởi đồng lĩnh kiện |
+| DTLL của các khối khác trên MTTK. (
+Í- Xung nhịp đữ liệu truyền: tối thiểu 4MhZ. | |
+- Sường xung tín hiệu: < S0. ——_ |
+| - Điện áp định xung tín hiệu: tối thiếu — | | |
+1,8V, tối đa 3,5V. [
+- Đẩy xung tín hiệu: <0,8V.. | { Ị
+- Nguồn điện nuôi: 5V, | Ị Ị |
+L Í
+
+ 
+
+11
+28 T
+biến đổi
+đỡ liệu
+song song
+sang nỗi
+tiếp cho
+bộ _
+chuyển
+đổi giao
+thức
+truyền đữ.
+liệu của
+mã lệnh
+chương
+trnh, truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi đồng ịnh kiện
+_DTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiếu 4MhZ.
+~ Sường xung tín hiệu: < S0n$
+
+~ Điện áp đỉnh xung tín hiệu: tố
+1,8V, tôi đã 3,5V
+
+~ Đây xung tín hiệu: <0,8V,
+- Nguồn điện nuôi: 5V,
+
+- Điện áp tiêu thụ : < LA. "Nhận đữ liệu từ khối đệm dữ liệu chương,
+trình và hằng số, chuyển đôi dữ liệu mã
+lệnh chương trình từ dạng song song sang
+
+iệu nồi tiếp đưa đưa đến các
+khối xử lý và tính toán trên khối MTTK.
+- Hoạt động đúng chúc năng đã được yêu
+cầu.
+~ Phối hợp trở kháng với các đường tín
+hiệu của khối đệm dữ liệu trên card THTI9
+và các khối xử lý của Khối xử lý và tính
+toán của thiết bị MTTK.
+~ Tương thích tín hiệu về điện đâm bảo,
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện
+TL của các khối khác trên MTTK.
+dữ liệu truyền: tối thiểu 4Mhz
+~ Sường xung tín hiệu: Si
+~ Điện áp định xung tín hiệu: tối thiểu
+1,8V, tối đa 3,5V
+~ Đây xung tỉn hiệu: <0,8V,
+~ Nguồn điện nuôi: 5V.
+~ Điện áp tiêu thụ : < 1Á.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+S0n: 
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sẵn ph "Việt Nam Đơn
+vị tính Mô
+đụn 
+Số
+lượng Phần cứng Đơn giá i 11.240.000 
+Phần mềm 30.646.000 “Thành tiền trướcthuế |  ThuếGTGT Phần cứng 
+11.940.000 Phần mềm 30.646.000 Phần cứng ị
+
+(10%) 
+1.124.000 Phân
+mềm
+
+€) "Tổng tiền. Tổng tiền. 
+43.780.000 | Tên hàng
+
+Tham số kỹ thuật
+
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm
+
+Đơn
+vị tính
+
+Số
+lượng|
+
+Đơn giá trước thuế
+
+Thành tiền trước thuế.
+
+T
+
+Thuế GTGT
+
+Tổng tiền.
+
+ 
+
+Phần cứng | Phần mềm.
+
+Phần cứng
+
+Phần mềm.
+
+Phần cứng
+(10%)
+
+Phần
+mềm
+
+@
+
+ 
+
+25
+
+Mô đun
+
+ 
+
+dữ liệu
+
+song song
+sang nối
+tiếp,
+
+ 
+
+~ Nhận dữ liệu từ khối đệm dữ liệu chương,
+và hằng số, chuyển đổi dữ liệu toán.
+
+ 
+
+ 
+
+lý và tính toán trên khối MTTK..
+
+- Hoạt động đúng chức năng đã được yêu.
+
+cầu
+
+~ Phối hợp trở kháng với các đường tín
+
+hiệu của khối đệm dữ liệu trên card TITITI9
+
+và các khối xử lý của khối xử lý và tính
+
+toán của thiết bị MTTK,,
+
+- Tương thích tín hiệu về điện đảm bảo
+
+truyền nhận bình thường, không xung đột
+
+tía hiệu được tạo ra bởi đồng linh kiện
+
+DTL của các khói khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiếu 4Mhz.
+
+- Sườn xung tín hiệu: < S0n,
+
+~ Điện áp định xung tín hiệu:
+
+18V, tối đa 3,5V
+
+~ Đây xung tín hiệu: <0,V,
+(guồn điện muôi: 5V.
+
+iện áp tiêu thụ : < 1A.
+
+ 
+
+   
+
+"Việt Nam
+
+Mã
+
+10.176.364 | 33.581.000.
+
+10.176.364
+
+38.581.000.
+
+1017.66
+
+44.775.000
+
+ 
+
+30
+
+ 
+
+Module
+điều chế
+tạo tín
+hiệu xung
+p cho
+hệ thống.
+
+ 
+
+ 
+
+~ Tạo xung nhịp ôn định cho card lầm việc
+đồng bộ với nhịp hệ thống của thiết bị
+MTTK.
+
+~ Hoạt động đúng chức năng yêu cầu.
+
+~ Nguồn nuôi; +§V
+
+- Dòng điện tiêu thụ: <1A.
+
+~ Tần số nhịp tạo ra: từ 100Khz đến
+10Mhz. l ñ
+- Đồng bộ với xung nhịp hệ thống của thiết
+bịMTTK.
+
+~ Độ trễ tín hiệu nhịp đồng bộ: < šns.
+
+- Biên độ xung nhịp: 5V,
+
+ 
+
+ 
+
+ 
+
+Việt Nam
+
+ 
+
+Mồ
+đun
+
+ 
+
+ 
+
+11.080.909 | 36.566.000
+
+ 
+
+ 
+
+11080909
+
+ 
+
+36.566.000.
+
+ 
+
+1.108.091
+
+ 
+
+ 
+
+48.755.000.
+
+ 
+
+12
+Tên hàn
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+30 | Module
+điều chế
+tạo tín
+hiệu xung
+
+lịp cho
+hệ thống. z2 Module
+điều chế
+tạo tín
+hiệu xung
+nhịp cho.
+hệ thống. Mô đun
+biến đối
+dữ liệu
+song song
+sang nối
+tiếp,
+chuyển
+đổi giao
+thức.
+truyền
+của dữ
+liệu toán
+từ tính
+toán. 
+Xuất xứ,
+ký hiệu,
+nhãn mác.
+sản phẩm. Việt Nam "Việt Nam Mô
+đun 
+đun Đơn
+vị tính Số
+lượng Phần cứng 
+Đơn giá L1.080.202 0.176.364 Phần mềm 
+rước thuế 36.566.000. 33.581.000 Phần cứng 
+“Thành tiềr 10.176.364 11.080.909 Phần mềm. 
+36.566.000. 33.581.000 Phần cứng
+(10%) Thuế G1 
+1017.636 1108.091 GT Phần
+mềm
+
+® 
+Tổng tiền 44.775.000 48.755.000. Ỉ Đơn giá trước thuế ] Thành tiền trước thuế |  ThuếGTGT Tông tiền.
+„ á Đơn | Số ca | Phần
+TỰ | TẾ Ông TU TẢ, nhăn mác | vitính | lượng| Phần cứng | Phần mềm | Phần cứng | Phần mềm | Phần cứng | mậm
+sân phẩm. 097978 To
+| Ị - Để đàng cầu hình đặt tần số nhịp yêu cầu. ị Ỉ
+E-5Ƒ Việt Nam Ì
+Ị 31 | Máytính | CPU: CPU Intel Xeon, RAM: 326B, Ô Dell Chiếc + 72.363.636 | 144.727273 [14.472.727 ˆ 159.200.000
+Workc cứng : 500GB. 'Workstation. Ị
+| sauon | penT7sto | |
+| Es-2609.
+32 | Màn hình | - Kích Thước Màn Hình 27" Wide Led. { Asus Chiếc 2 18.090.909. 36.181.818 3.618.182 - 39.800.000
+máy tính. | IPS | (Đài Loan) |
+| ~ Độ sáng màn hình 350 cd/m2 (typical) Asus |
+~ Độ Phân Giải Màn Hình 2560x1440. | PG279%Q Ị Ị
+- Tân số quét €0Hz | | | |
+~ Hỗ trợ màu 16,7 triệu màu | Ị | | ị
+Góc nhìn 178°Ä)/178(V) | | |
+~ 1 Mini DisplayPort |
+| ~ 1 DisplayPor (version 1.2) | Ị
+| ~ 1 DisplayPort out (MST)
+~36W/ §§ W (maximum)
+33 J Bàn ~ Đàn phím máy tính. nghiệp Shenzhen bộ. 2 1.085.455 2.170.909 217091 - 2.388.000.
+| — | phim, |- Bàn phím máy nh để bàn đứng độc (đang |
+chuột ~ Được xây dựng trong touchpad và 3 nút Quốc)
+công chuột ạ K-TEK-
+nghiệp ~ Các ký tự khắc bằng laser cho độ bền. A330-
+cao, co MTB-V0L
+~ Công nghệ chuyên đổi cha khóa điện từ | |
+| .Carbơn-on-Gold, công nghệ chuyển tiếp
+mw xúc t
+Giao diện PS /2, USB sẵn có, Không có | |
+trình điều khiễn cần thiết, plug and pley. Ị |
+~ Tất cả các ngôn ngữ quốc tế lay-out là
+Í tùy chọn. L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13
+Đàn
+phím,
+chuột
+công
+nghiệp Mân hình
+máy tính. Mấy tính
+wotk
+siaion Tên hàng. 
+~ Bàn phím máy tính công nghỉ.
+~ Bàn phím máy tính để bàn đứng độc lập,
+- Được xây dựng trong touchpad và 3 nút
+chuột ạ
+~ Các ký tự khắc bằng laser cho độ bền.
+cao.
+- Công nghệ chuyển đôi chìa khóa điện từ
+Carbon-on-Gold, công nghệ chuyển tiếp
+xúc tốt
+~ Giao điện PS /2, USB sẵn có, Không có
+trình điều khiễn cản thiếp plug and play.
+-Dấ:ả các ngôn ngữ quốc tế lay-out là
+
+tùy chọn Asus
+(Đài Loan)
+Asus
+PG279Q Dait
+
+Workstatien
+
+Dell T7810.
+E5-2609 Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm. 
+Shenzhen.
+(ng
+Quốc)
+
+ 
+
+MTB-V01 Chiếc Chiệc bộ 
+Số
+lượng 72.363.636 Phần cứng Đơn giá 
+18.920.902 1.085.455 rước thuế Phần mềm. 
+Phần cứng "Thành tiềr 144727273 36.181.818 
+2.170.909 trước thuế Phần mềm “Thuế GTGT 
+14412727 Phần cứng
+(0%) 217091 3.618.182 
+Phần
+mềm
+
+© Tổng tiền 159.200.000 2.388.000 
+39.800.000 Tên hàng | Tham số kỹ thuật
+
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm
+
+Đơn
+vị tính
+
+Số
+lượng
+
+Đơn giá trước thuế.
+
+Thành tiền trước thuế
+
+Thuế G
+
+TGT
+
+Tổng tiền.
+
+ 
+
+Phần cứng | Phần mềm
+
+Phần cứng | Phần mềm.
+
+Phần cứng
+(0%)
+
+Phần
+mềm
+
+ 
+
+Khung võ
+cơ khí
+thiết bị
+kiêm tra
+
+ 
+
+~ Chất liệu: Nhôm hợp kim.
+
+- Thanh gá được chế tạo bằng vật liệu
+nhôm phay bằng máy CNC có độ chính.
+Xắc cao - -
+- Các hệ khung gá thiết bị bên trong thiết
+bị kiểm tra đâm bảo chính xác, chắc chắn,
+không cong vênh trong quá trình sử dụng.
+
+  
+
+Việt Nam
+
+Chiếc
+
+39.800.000
+
+79.600.000
+
+7.960.000.
+
+@
+
+87.560.000
+
+ 
+
+35
+
+ 
+
+lồ đơn
+thực hiện
+địch địa
+chỉ
+chuẩn nối
+tiếp sang,
+song,
+song.
+
+~ Địch đúng và đủ các chuỗi địa chỉ xác
+định đưa đến bộ nhớ RAM trên card.
+
+TIBB34 thành các tín hiệu địa chỉ dạng.
+song song xác định vùng nhớ được truy
+
+ 
+
+cập bộ nhớ RAM. Phối ghép được với „
+khối tạo chuỗi tín hiệu địa chỉ trong thiết
+bị MTTK.
+
+~ Hoạt động đúng chức năng đã được yêu
+cầu,
+
+~ Phối hợp trở kháng với các đường tín.
+hiệu được tạo lập trên card TITITT9, TĨA Y3,
+TAY4.
+
+- Tương thích tín hiệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tún hiệu được tạo ra bởi đồng linh kiện
+DTL của các khói khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4Mhz
+~ Sường xung tín hiệu: < SŨns
+~ Điện áp đình xung tía hiệu:
+1,8V, tối đa 3,5V.
+
+~ Đáy xung tín hiệu: <0,8V,
+~ Nguôn điện nuôi: 5V.
+
+- Điện áp tiêu thụ : < 1A.
+
+    
+
+VitNam
+
+§221818 | 36616000
+
+5321818 | 36616000
+
+832.182
+
+45.770.000.
+
+ 
+
+36
+
+ 
+
+Mô đụn.
+
+ 
+
+~ Dịch đúng và đủ các chuỗi tín hiệu điệu
+
+khiển quá trình truy cập bộ nhớ trên card,
+THHH9. Phối ghép được với khối tạo chuỗi
+tín hiệu điều khiên truy cập bộ nhớ của.
+
+  
+
+ 
+
+ 
+
+Việt Nam
+
+Mô
+
+ 
+
+ 
+
+ 
+
+13025455 | 33.432.000
+
+ 
+
+13.025.455 | 33432000
+
+ 
+
+ 
+
+1202.545
+
+ 
+
+ 
+
+ 
+
+47.160.000.
+Tên hàng. Khung vỏ
+cơ khí
+thiết bị
+kiêm tra Mô đun
+thực hiện
+địch địa
+
+ 
+
+ 
+
+chuân ni
+tiếp sang
+song,
+song. Mô đun 
+Tham số kỹ thuật ~ Chất liệu: Nhôm hợp kim.
+
+- Thanh gá được chế tạo bằng vật liệu
+nhôm phay bằng máy CNC có độ chính.
+Xắc cao - -
+
+- Các hệ khung gá thiết bị bên trong thiết
+bị kiểm tra đâm bảo chính xác, chắc chắn,
+không cong vênh trong quá trình sử dụng. - Dịch đúng và đủ các chuỗi địa chỉ xác
+định đưa đến bộ nhớ RAM trên card
+TIBB34 thành các tín hiệu địa chỉ dạng
+song song xác định vùng nhớ được truy
+cập bộ nhớ RAM. Phối ghép được với „
+khối tạo chuối tin hiệu địa chỉ trong thiết
+bị MTTK.
+
+"Hoạt động đúng chức năng đã được yêu
+
+ 
+
+ 
+
+~ Phối hợp trở kháng với các đường tín.
+hiệu được tạo lập trên card TITITT9, TĨA Y3,
+TAY4.
+
+- Tương thích tín hiệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi đồng linh kiện
+DTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiếu 4Mhz
+~ Sường xung tín hiệu: < 0n, _
+
+~ Điện áp đình xung tía hiệu: tối thiểu
+1,8V, tối đa 3,5V
+
+~ Đáy xung tín hiệu: <0,8V,
+
+~ Nguồn điện nuôi: SV,
+
+- Điện áp tiêu thụ :< LA. ~ Dịch đúng và đủ các chuội tín hiệu điêu.
+khiễn quá trình truy cập bộ nhớ trên card
+TTITH9. Phối ghép được với khối tạo chuỗi
+`ụ điều khiến truy cập bộ nhớ của 
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm Việt Nam "Việt Nam Việt Nam. 
+Chiếc đun Số
+lượng Đơn giá | 
+39.800.000 8.321.015 13.025.455 rước thuế 
+Phần mềm 36.616.000 33.432.000 “Thành tiền 
+Phần cứng 79.600.000 8321.818 13.025.455 
+trước thuế Phần mềm. 36.616.000 33.432.000 
+“Thuế G1 Phần cứng
+(0%) 7.960.000 832182 
+1.202.345 GT1 Phần
+mềm
+
+® Tổng tiền 
+§7.560.000 45.770.000 47.760.000 Ị TT | Tên hàng Tham số kỹ
+
+sập bộ - | cardnHiHôtrongtMfbi
+nhớ từ __ | -Hoạt động đúng chức nỉ
+nối tiếp _ | - Phối hợp rở kháng với.
+sang song | hiệu được tạo lập trên cạt
+song. - Tương thích tín hiệu về
+| truyền nhận bình thường,
+tín hiệu được tạo ra bởi di
+| DTL của ác khối khác œ
+“Xung nhịp dữ liệu truyề
+~ Šường xung tín hiệu: < +
+- Điện áp định xung tín hị
+1,8V, tối đa 3,2
+Ị lý xung tín hiệu: <0,8"
+(guồn điện nuôi: 5V.
+- Điện áp tiêu thụ : < TA.
+~ Nhận tín hiệu địa chỉ trả
+được biến đổi từ bộ địch r
+song tín hiệu địa chỉ, giải
+chính xác giá trị địa chỉ vị
+cập.
+Í - Hoạt động đúng chức nă
+cầu.
+- Phối hợp trở kháng với c
+hiệu đến khối giải mã địa
+| | RAM tên car TTBBA,.
+~ Tượng thích tín hiệu về
+| | truyền nhận bình thường,
+được tạo ra bởi để
+a các khối khác trí
+“Xung nhịp dữ
+Sườn xung tín hiệu: < 5C
+- Điện áp đình xung tín bù
+1,8V, tối đa 3,5V.
+xz Ị *ên hàng
+
+cậpbệ — |eardTiim
+nhớtừ — | -Hogtđộc
+nốitiếp | - Phối hợp
+sang song | hiệu được
+song.  |-Tươngt
+
+| tuyền nhạ
+tín hiệu đu
+ĐTL củac
+~ Xung nh
+~ Sường x
+- Điện áp (
+18V, di đ
+| VN
+| |
+
+ 
+
+ 
+
+  
+
+| được biến
+[4cm |songtnhi
+[tmycệp | chíhaác;
+bộ nhớ | cập
+| RAM. - | -Hogtđộn
+cầu,
+~ Phối hợp
+hiệu đến kl
+RAMtrên
+~ Tương th
+| truyền nhạ
+tín hiệu đự
+ĐT của c
+~ Xung nhị
+Sườn xun SÁp bộ
+nhớt
+
+nối tiếp
+song song
+song. “Việt Nam đun 
+Đơn
+
+vị tính Số
+lượng 10.628.182 Phần cứng 
+35.074.000. tước thuế “Thành tiền trước thuế Thuế GTGT. Tông tiền
+
+Phần cứng | Phần |
+
+Phần mềm , Phần cứng ( Phần mềm (0% | nêm | Phân cứng — Thành tiề 
+Phần mềm Phần cứng
+(0%) “Thuế G1 Phần
+mềm
+
+© TT
+
+“Tham số kỹ thuật
+
+ 
+
+ký hiệu,
+nhãn mác.
+sẵn phẩm
+
+Đơn
+vị tính
+
+Số
+lượng
+
+Đơn giá trước thuế.
+
+Thành tiền trước thuế
+
+Thuế GTGT
+
+Tổng tiên |
+
+ 
+
+Phần cứng
+
+Phần mềm.
+
+Thần công
+
+Phần mềm
+
+Phần cứng.
+(0%)
+
+Phần
+mềm.
+
+@
+
+ 
+
+~ Nguồn điện nuôi: 5V,
+~ Điện áp tiêu thự : < 1A.
+
+ 
+
+ 
+
+~ Tạo được vùng nhớ tương đương với câu.
+trúc được thực hiện trong card TIBB34.
+-Äặoh đồng địng chức năng đã được yên
+cầu.
+
+~ Phối hợp trở kháng với các đường tín
+hiệu được tạo lập trên card TIBB34,
+
+~ Tương thích tín hiệu về điện đảm bảo.
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện
+_DTL của các khối khác trên MTTK..
+
+~ Xung nhịp dữ liệu truyền: tối thiêu 4Mhz
+- Dung lượng: 4MB,
+
+~ Sường xung tín hiệu:  S0ns.
+
+- Điện áp đình xung tín hiệu: tối hiểu
+1,8V, tối đa 3,5V,
+
+~ Đáy xung tín hiệu: <0,8V,
+
+~ Nguồn điện nuôi: 5V.
+
+- Điện áp tiêu thụ : < 1A.
+
+ 
+
+Việt Nam.
+
+Mô
+đưn
+
+1254.545
+
+32:736.000
+
+1254.345
+
+32.136.000.
+
+1275455
+
+46.766.000.
+
+ 
+
+ 
+
+ 
+
+Mô dm,
+chốt địa
+chỉ và
+
+ 
+
+khiển truy
+cập
+
+ 
+
+~ Chốt được dữ liệu địa chỉ và các tín hiệu
+điều khiển truy cập vùng bộ nhớ RAM sau
+giải mã
+
+- Hoạt động đúng chức năng đã được yêu.
+cầu,
+
+~ Phối hợp trở kháng với các đường tín
+
+| hiệu được tạo lập trên card ITBB34.
+
+~ Tương thích tín biệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện.
+DTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tôi thiểu 4Mhz
+- Sường xung tín hiệu: < S0ns,
+
+ 
+
+Việt Nam
+
+ 
+
+ 
+
+3.392727
+
+ 
+
+ 
+
+11.194.000.
+
+ 
+
+3.392727
+
+ 
+
+11194000
+
+ 
+
+339.273
+
+ 
+
+| 18926000
+
+ 
+
+ 
+
+ 
+
+16
+3 TT Tên hàng Mô đun
+giải mã
+
+ 
+
+cập bộ 
+* Nguồn điện nuôi: 3V.
+~ Điện áp tiêu thụ : < 1A. “Tham số kỹ thuật ~ Tạo được vùng nhớ tương đương với câu.
+trúc được thực hiện trong card TIBB34.
+-Äặoh đồng địng chức năng đã được yên
+cầu.
+
+~ Phối hợp trở kháng với các đường tín
+hiệu được tạo lập trên card TIBB34,
+
+- Tương thích tín hiệu về điện đảm bảo,
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện
+_DTL của các khối khác trên MTTK..
+
+~ Xung nhịp dữ liệu truyền: tối thiêu 4Mhz
+- Dung lượng: 4MB.
+
+~ Sường xung tín hiệu:  S0ns.
+
+~ Điện áp định xung tía hiệu: tối thiểu
+1,8V, tối đa 3,5V
+
+~ Đây xung tín hiệu: <0,8V..
+
+~ Nguồn điện nuôi: 5V.
+
+~ Điện áp tiêu thụ : < LA. ~ Chôt được dữ liệu địa chỉ và các tín hiệu.
+điều khiển truy cập vùng bộ nhớ RAM sau
+giải mã
+
+“Hoạt động đúng chức năng đã được yêu
+cầu,
+
+- Phối hợp trở kháng với các đường tín
+hiệu được tạo lập trên card TIBB34.
+
+~ Tương thích tín biệu về điện đảm bảo
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện.
+DTL của các khối khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tôi thiểu 4Mhz
+~ Sường xung tín hiệu: < Ong, 
+nhãn mác.
+sản phẩm Việt Nam. “Việt Nam Đơn
+vị tính 
+Số
+lượng Phần cứng Đơn giá i 12744.3445 
+3392727 rước thuế Phần mềm 32.726.000 
+1114.000 "Thành tiền Phần cứng 12.754.345 
+3392/27 Phần mềm trước thuế 32.736.000 
+11.124.000 “Thuế G1 Phần cứng
+(0%) 1275.455 
+339.273 G1 Phần
+mềm.
+
+©® 46.766.000 
+14.926.000 Tên hàng
+
+“Tham số kỹ t
+
+- Điện áp đỉnh xung tín hìi
+
+1,8, tối đa 3,5V.
+~ Đấy xung tín hiệu: <0,§\
+
+ 
+
+- Điện áp tiêu thụ : < 1A.
+
+ 
+
+20
+
+Mô đun:
+bộ nhớ
+ngẫu
+nhiên.
+chuyên
+dụng.
+
+|
+
+- Tạo được vùng nhớ tươn.
+trúc được thực hiện trong ‹
+~ Hoạt động đúng chức nãi
+cầu.
+
+- Phối hợp trở kháng với e
+hiệu được tạo lập trên carc
+~ Tượng thích tín hiệu về é
+truyền nhận bình thường, }
+tín hiệu được tạo ra bởi dò
+DTL của các khối khác trẻ
+~ Xung nhịp dữ liệu truyền
+- Dung lượng: 4MB,
+
+ 
+
+    
+
+~ Điện áp đình xung tín hủ
+1,8V, tối đa 3,5V.
+
+~ Đầy xung tín hiệu: <0,8V
+~ Nguồn điện nuôi: 5V,
+
+- Điện áp tiêu thụ ; < 1A.
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+địa chỉ bộ
+thụ đữ.
+liệu theo
+chuẩn
+TOCT
+1897-79,
+
+ 
+
+ 
+
+ 
+
+~ Giải mã biến đôi địa chỉ ‹
+đến theo chuẩn TOCT ¡89
+thống báo địa chỉ, số
+gói dữ liệu thu được đến c]
+~ Hoạt động đúng với chức
+Điện áp ng : +§V
+Dòng điện tiêu thụ: < 1A.
+Ỷà số tối thiểu làm việc:
+
+ 
+
+   
+
+ 
+
+17
+| 11 | Tên hàng | Tham
+
+| - Điện áp đình xua
+
+| † 1,8V, tôi đa 3,5V.
+~ Đây xung tín hiệu
+
+  
+
+áp tiêu thụ
+40 [Môn _Ï-Tạo được vùng ni
+bộ nhớ - | trúc được thực hiệp
+
+ 
+
+ 
+
+ngẫu ~ Hoạt động đúng c
+nhiên — | cầu.
+
+chuyên | “Bi hợp trở khán
+
+dụng. — | hiệu được tạo lậpt
+
+~ Tượng thích tin h
+
+Ị truyền nhận bình th
+
+tín biệu được tạo ra
+
+DTL của các khối \
+~ Xung nhịp dữ liệu
+~ Dung lượng: 4ME
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Sường xung tín hi
+| ~ Điện ấp đình xung
+| 1,ầV, tôi đa 3,5V
+- Đây xung tín hiệu
+| ~ Nguồn điện nuôi
+~ Điện áp tiêu thụ
+41 |Module  [ - Giải mã biến đối:
+đến theo chuẩn TO4
+biến đổi | liệu thống báo địac
+địa chỉ bộ | gối dữ liệu thu được
+| thudt, | Hegtđộngđúngv
+| liệu theo _ | - Điện áp nguồn nụ
+chuẩn ~ Dòng điện tiêu thụ
+TOCT_ | -Tầnsốtôi thiểu là
+1897-19. dữ liệu đà
+
+   
+
+ 
+
+ 
+
+trong khoảng S0Kh,
+Xử lý một địa chỉ giải mã-
+biển đối
+địa chỉ bộ
+thu dữ
+liện theo
+chuẩn
+TOCT
+18971-79 Mô đun
+bộ nhớ
+ngẫu
+nhiên.
+chuyên.
+dụng, Việt Nam - 
+Mô
+đun Đơn
+vị tính Số
+lượng 3.428.182 
+8.140.209 Đơn giá
+
+Phần cứng 24.378.000 35.820.000. 
+Phần mềm. rước thuế _ }
+#050] 35.820.000 | 814091 - [44775000
+
+| | | |
+
+ 
+
+ 
+
+3493.182 | 24378000 | 949818 | -~ TÏ 34826000 8.140.909 
+Phần cứng “Thành tiền 35.820.000 35.820.000 
+Phần mềm. trước thuế 814.091 Phần cứng
+(10%) 
+“Thuế Gì 44.775.000 "Tổng tiền Tên hàng
+
+Tham số kỹ thuật
+
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm.
+
+Đơn
+vị tính
+
+Đơn giá trước thuế
+
+Thành tiền trước thuế
+
+Thuế GTGT.
+
+Tông tiền
+
+ 
+
+Số j
+lượng
+
+Phần cứng
+
+Phần mềm.
+
+Phần cứng
+
+Í Phần mềm
+
+Phần
+mềm
+
+@
+
+Phần cứng
+(10%)
+
+ 
+
+hơn 20us.
+~ Làm việc tin cậy với tín hiệu đầu vào có.
+tốc độ dữ liệu từ 12kb/s đến 100kb/s
+
+- Dữ liệu đầu ra là địa chỉ của gói đữ liệu
+nhận được ở định dạng Sbi
+
+ 
+
+ 
+
+ 
+
++
+
+ 
+
+địa chỉ bội
+phát dữ
+liệu theo
+chuẩn
+TOCT
+18977-19.
+
+- Nhận dữ liệu địa chỉ thiết bị nhận được
+gửi đến từ MTTK, giải mã biến đổi dữ liệu
+địa chỉ của thiết bị cần gửi đến vào gói mã.
+theo chuẩn TOCT 1897-79.
+
+- Hoạt động đúng với chức năng đã được
+yêu cầu.
+
+~ Nguồn môi: SV,
+
+~ Dồng điện tiêu thụ: < LA.
+
+~ Tân số tôi thiêu làm việc: 20Mhz
+
+- Thời giải mã dữ liệu địa chỉ cho một gói
+dữiiệu <20u5. -
+
+- Tốc độ dữ liệu đầu vào đáp ứng: từ
+12kb/s đến 100Kb. — -
+
+- Có thể cầu hình tốc độ đầu vào.
+
+ 
+
+  
+
+Việt Nam
+
+Mô
+
+14246264
+
+29.104.000
+
+14246364
+
+29.104.000.
+
+142466 | —~
+
+44.773.000.
+
+ 
+
+ 
+
+ 
+
+Mô đun
+biến đổi
+dữ liệu
+
+ 
+
+ 
+
+~ Nhận dữ liệu từ khôi đệm dữ liệu của
+tham số cần đọc trong quá trình tính toán.
+của bộ xử lý số học được lưu trên RAM,,
+chuyên đổi dữ liệu từ dạng song song sang
+chuỗi tín hiệu ni tiếp đưa đưa đến các
+khối xử lý và tính toán trên khối MTTK..
+~ Hoạt động đúng chức năng đã được yêu.
+cầu,
+
+Phối hợp trở kháng với các đường tín
+hiệu của khối đệm dữ liệu trên card
+
+ 
+
+ 
+
+| TIBB34 và các khối xử lý của khối xử lý
+
+và tính toán của thiết bị MTTK,
+
+- Tương thích tín hiệu về điện đảm bảo.
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện
+
+ 
+
+Việt Nam
+
+ 
+
+ 
+
+ 
+
+5321818
+
+ 
+
+36.616.000
+
+ 
+
+5321.818
+
+36.616.000.
+
+ 
+
+§32182 | -
+
+ 
+
+ 
+
+45.770.000.
+
+ 
+
+ 
+
+18
+4 Tên hàng phát dữ:
+liệu theo
+chuẩn
+TOCT
+18977-19. Mô đun
+biến đổi
+dữ liệu
+song song
+sang nối
+tiếp dữ
+liệu đưa
+ra từ vùng,
+
+RAM. 
+hơn 20us..
+~ Làm việc tin cậy với tín hiệu đầu vào có.
+tốc độ dữ liệu từ 12kb/s đến 100kb/s
+
+- Dữ liệu đầu ra là địa chỉ của gói dữ liệu
+nhận được ở định dạng bit. Tham số kỹ thuật » Nhận GD Hữu địa chỉ CỐ bị nhận cược:
+gửi Ti
+địa chỉ của thiết bị cân gửi đến vào gói mã
+theo chuẳn TOCT 1897-79.
+
+- Hoạt động đúng với chức năng đã được
+
+ 
+
+ 
+
+~ Nguồn môi: 5V,
+
+bòng điện tiêu thụ: < 1A.
+
+- Tân số tối thiêu làm. việc: 20Mhz.
+
+mã dữ liệu địa chỉ cho một gói
+<20us. -
+
+~ Tốc độ dữ liệu đầu vào đáp ứng: từ
+12Kbls đến 100Kb/s, — -
+
+~ Có thể cấu hình tốc độ đầu vào, ~ Nhận dữ liệu từ khôi đệm dữ liệu của.
+tham số cần đọc trong quá trình tính toán
+của bộ xử lý số học được lưu trên RAM,
+chuyển đôi dữ liệu từ dạng song song sang
+chuối tía hiệu nối tiếp đưa đưa đến các
+khối xử lý và tính toán trên khối MTTK.
+
+~ Hoạt động đúng chức năng đã được yêu.
+
+~ Phối hợp trở kháng với các đường tín
+hiệu của khối đệm dữ liệu trên card
+TIBB34 và các khối xử lý của khối xử lý
+và tính toán của tỉ ¡ MTTK.
+
+- Tương thích tín hiệu về điện đảm bảo.
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòne linh kiên. 
+Xuất xứ,
+ký hiệu,
+nhãn mác.
+sản phẩm "Việt Nam "Việt Nam Đơn
+vị tính 
+Mô
+địa Số
+lượng Phần cứng 14.246.326 
+§.321.818 Phần mềm. rước thuế 2.104.000 
+36.616.000 "Thành tiêr Phần cứng 14.246.364 
+8.221.818 Phần trước thuế. 29.104.000 
+36.616.000 Phần cứng
+
+(10%) “Thuế G1 1424.636 
+822182 GT Phần
+mềm
+
+@® “Tông tiên. 
+44.775.000 45.770.000 [ TT | Tên hàng
+
+Tham số kỹ t!
+
+ 
+
+ĐTL của các khối Khác rể
+~ Xung nhịp dữ liệu truyền
+~ Sường xung tín hiệu: < 5!
+- Điện áp định xung tín hiệ
+1,ÊV, tôi đa 3,5V.
+
+- Đầy xung tín hiệu: <0,8V.
+~ Nguồn điện nuôi: $V,
+
+- Điện áp tiêu thụ ; < 1A.
+
+ 
+
+ 
+
+  
+
+44 | Mô đua | “Nhận dữ liệu của các thai
+|  - |biếnđôi - Í thốinh toán xử lý số học
+đữliệu - | RAM, chuyển đổi dữ liệut
+nối tiếp _ | sang chuỗi tín hiệu song sc
+sang song | khối bộ nhớ RAM của carc
+song đữ _ | - Hoạt động đúng chức năt
+
+liệu của câu.
+
+ 
+
+- Phối hợp trở kháng với eí
+
+| hiệu của khối đệm dữ liệu :
+
+TIBB34 và các khối xử lý c
+
+ 
+
+~ Tương thích tín hiệu về đ
+truyền nhận bình thường, k
+tín hiệu được tạo ra bởi đt
+
+ 
+
+DTLL của các khối khác trê
+~ Xung nhịp đữ liệu truyền:
+- Sường xung tín hiệu: < 5(
+- Điện áp định xung tín biệ
+1,8V, tối đa 3,5V.
+
+- Đầy xung tía hiệu: <0,8V.
+~ Nguồn điện nuôi: 5V.
+
+- Điện áp tiêu thự : € ]A.
+
+ 
+
+ 
+
+ 
+
+ 
+
+45 |Mô đun | -Chốt được dữ liệu địa lậu
+chốt dữ _- | bị MTTK khiđi qua bộ phi
+liệu lệnh | tạo dữ liệu ôn định đưa đến
+đơn vào, | dữ liệu trong card TIBB34.
+
+19
+[ TT | Tên hàng Tham s
+
+ 
+
+ĐTL của các khối kh
+~ Xung nhịp dữ liệu t
+- Sường xung tín hiệ
+| - Điện áp định xung:
+Ị 1,ÊV, tôi đa 3,5V.
+
+| - Đáy xung tín hiệu:;
+~ Nguồn điện nuôi: Š
+
+    
+ 
+    
+
+| biến đội nh toán xử lý s
+đữliệu - | RAM, chuyển đổi dũ
+nối tiếp _ | sang chuỗi tín hiệu s
+sang song | khối bộ nhớ RAM cũ
+song dữ | - Hoạt động đúng chị
+liệu của câu.
+| các tham | - Phối hợp trở kháng.
+| __ | số của bộ. | hiệu của Khối đệm đ
+| | xử lý tính | TBB34 và các khối x
+toán số. và tính toán của thiết
+học được | -Tươngthíhtínhiệ
+lưutem - | truyền nhận bình thưi
+
+vào tín hiệu được tạo ra b
+| |RAM- . | DTLeiacáckhốikh
+~ Xung nhịp đữ liệu t
+~ Sường xung tín hiệt
+
+| - Điện áp đỉnh xùng t
+| 1,8, tối đa 3,5V'
+
+† - Đáy xung tín hiệu: <
+
+| ~ Nguồn điện nuôi; 5\
+
+iện áp tiêu thị
+
+45 |Möđwa | Chất được dừ liệnđ
+
+chốtdữ - | bịMTTKkhiái qual
+
+| Hiệu lệnh - | tạo dữ lệu ôn định đ
+
+đơn ữ liệu trong card TIB “4 Mô đun
+chốt dữ
+
+liệu lệnh
+đơn vào, Mô đua
+biến đôi
+dữ liệu
+nối tiếp
+sáng song,
+song dữ
+Tiệu của
+các tham 
+Việt Nam fm 072 D ma
+
+ca]. 2i|xsica luc uợglàppseiibkiigi Xuất xứ,
+ký hiện,
+nhãn mác
+sản phẩm. đứn 
+đụn Đơn
+vị tính Số
+lượng Số
+lượng 
+4.070.909 12482727 Phần cứng Đơn giá 
+19.448.000 32.039.000 Phần mềm. rước thuế 
+4.070.909 12.482.727 Phần cứng “Thành 
+Phần mềm. trước thuế 3.039.000 10.448.000
+
+|
+Ị
+
+307091
+
+ 
+
+ 
+
+14.926.000
+
+ 
+
+19 
+Phần cứng
+(10%) “Thuế G1 1248.273 Phẫn
+mêm
+
+© 
+GT 45.770.000 'Tên hàng
+
+Tham số kỹ thuật
+
+Xuất xứ,
+„ ký hiệu,
+nhãn mác
+sân phẩm.
+
+ 
+
+lượng
+
+Ì_ Đơn giá trước thuế
+
+“Thành tiền trước thuế
+
+Thuế GTGT.
+
+ 
+
+Số
+
+Phần cứng | Phần mềm | Phần cứng
+
+Phần
+mềm
+
+ọ
+
+Phần cứng
+
+Phần mềm. 0%)
+
+ 
+
+ 
+
+~ Hoạt động đúng chức năng đã được yêu
+cầu
+
+~ Phối hợp trở kháng với các đường tín
+hiệu được tạo lập trên card TIBB34.
+
+~ Tương thích tín hiệu về điện đâm bảo
+"truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện.
+TL của các khối khác trên MTTK..
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4.MhZ
+- Sường xung tín hiệu: < 30ns
+~ Điện áp đình xung tín hiệu: tối thiểu
+1,8V, tối đa 3,5V.
+
+- Đầy xung tín hiệu: <0,8V.
+
+~ Nguôn điện nuôi: §V.
+- Điện áp tiêu thụ: < 1A.
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46
+
+ 
+
+ 
+
+ 
+
+ 
+
+song song
+sang nối
+tiếp dữ
+đưa
+bộ xử
+
+ 
+
+ 
+
+lý tín hiệu | - Sường xung tín hiệu: < 50ns.
+sựkiện _ | -Điện áp định xung tín hiệu:
+trên bộ xử | 1,8V, tối đa 3,5V. L
+
+ 
+
+ 
+
+~ Nhận dữ liệu từ khôi chột thanh ghỉ lệnh
+đơn, thực hiện biển đôi các lệnh đơn từ.
+dạng song song sang dạng nội tiếp đúng,
+với chuẩn dữ liệu đưa và khối xử lý tín
+hiệu sự kiện trong thiết bị MTTK.
+
+cm động đúng chức năng đã được yêu.
+cầu.
+
+~ Phối hợp trở kháng với các đường tín
+hiệu của khối đệm dữ liệu trên card
+TTBB34 và các khối xử lý của khối xử lý
+và tính toán của thiết bị MTTK.
+
+~ Tương thích tín hiệu về điện đảm bảo.
+truyền nhận bình thường, không xung đột
+tín hiệu được tạo ra bởi dòng linh kiện
+'DTL của các khôi khác trên MTTK.
+
+~ Xung nhịp dữ liệu truyền: tối thiểu 4MhZ.
+
+  
+
+ 
+
+ 
+
+ViệNam | Mô
+
+đơn
+
+ 
+
+ 
+
+1 |16402727] 24328000 | 10402727
+
+ 
+
+ 
+
+ 
+
+34228000 | 1040273 | -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20
+
+Tông tiền
+
+ 
+
+45.171.000.
+———
+
+'Tên hàng
+
+Tham s
+
+ 
+
+ 
+
+ra thiết bị
+
+~ Hoạt động đúng c
+cầu,
+
+~ Phối hợp ở khán
+hiệu được tạo lập tr
+~ Tương thích tí hi
+truyền nhận bình th
+tín hiệu được tạo ra
+DTL của các khối
+~ Xung nhịp dữ liệt
+- Sường xung tín h
+~ Điện áp đình xun
+1,âV, tôi đa 3,5V
+
+~ Đầy xung tín
+
+~ Nguồn điện nuôi:
+- Điện áp tiêu thụ:
+
+ 
+
+ 
+
+46
+
+ 
+
+Mộ địn
+
+ 
+
+dữ liệu
+các tín
+hiệu đọc
+được từ
+thiết bị
+ngoại
+
+ 
+
+của thiết
+bị MTTK
+từ dạng
+song song
+
+ 
+
+sự kiện
+
+ 
+
+~ Nhận dữ liệu từ
+đơn, thực hiện biế
+dạng song song sẽ
+với chuẩn dữ liệu
+hiệu sự kiện trong
+~ Hoạt động đứng
+cầu.
+~ Phối hợp trở khi
+hiệu của khối đện
+TIBB34 và các kt
+và tính toán của t
+~ Tương thích tín
+truyền nhận bình
+tín hiệu được tạo
+DTL của các khi
+~ Xung nhịp đữ
+
+ 
+
+ 
+
+ý tín hiệu | - Sường xung tí
+
+~ Điện áp đình x
+
+ 
+
+trên bộ xử | 1,8V, tối đa 3.5\ Tên hàng song song
+
+sang nồi
+tiếp dữ
+liệu đưa
+
+đến bộ xử
+lý tínhiệu
+sự kiện
+trên bộ xử thiệt bị. 
+L Đa
+
+ 
+
+Xuất xứ,
+„ ký hiệu,
+
+nhãn mác
+sân phẩm.
+
+Số
+lượng| Phần c
+
+ 
+
+ 
+
+được yêu.
+
+ờng tín.
+334.
+
+âm bảo.
+xung đột
+nh kiện.
+TTK.
+
+thiểu 4Mhz.
+
+ 
+
+ôi thiểu
+
+ 
+
+ 
+
+nhghiệh | ViệNam | Mô | 1 [1644
+h đơn từ đơn.
+
+tiếp đúng |
+
+xử lý tín
+
+TK.
+
+ã được yêu
+
+ 
+
+ 
+
+lường tín \
+n card |
+khối xử lý
+
+K. |
+› đảm bảo \
+ng xung đột
+
+Tình kiện
+MTTK.
+ối thiêu 4MhZ.
+S
+. tối thiểu Xuất xứ,
+„ ký hiệu,
+
+nhãn mác.
+sản phẩm.
+
+ 
+
+Việt Nam Đơn
+vị tính Số
+ượng 
+"Đơn giá trước thuế
+
+Thành tiền t
+
+ 
+
+Phần cứng
+
+Phần mềm.
+
+Phần cứng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+34.328.000.
+
+ 
+
+10.402.727 íc thuế.
+
+Phần mềm | P rước thuế
+
+Phần mềm
+
+ 
+
+34328000. tước thuế
+
+Phần mềm.
+
+ 
+
+34328000. 
+Thui
+
+ 
+
+ 
+
+mạ | Phần cí
+m | (0%
+
+ 
+
+ 
+
+900 | 1ô4t E
+Xuất xú,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Đơn giá trước thuế “Thành tiền trước thuế Thuế GTGT.
+sai h Bế kỹhiệu | Đơn | Số SỊ 3 ằ
+TT | Tên hàng Ti ng ¬hn mác | |túh | I0ngl Phần cứng | Phần mềm | Phần cứng | Phần mồm | Phần sống
+| sảnphẩm Ì | Ị (05)
+lý số học. Ì Ị
+họ
+47 | Mö đưn _ [- Nhận dữ liệu của các thamasôtmhtoántừ| ViệNam | Mô 1 |14563636| 29750000 | 14563636 | 25730000 | 145636
+| biến đổi _ | khối tính toán xử lý số học lưu vào vùng đun | |
+| đữ liệu | RAM, chuyên đôi dữ liệu từ dạng nội tiếp Ị †
+nối tiếp | sang chuỗi tín hiệu song song đưa đưa đến Ị |
+Ị sang song | khối bộ nhớ RAM của card TTBB34. | Í Ị |
+| song dữ _ | - Hoạt động đúng chức năng đã được yêu | |
+| |Hiêuđược | cầu. | |
+| lưu vào __ | - Phối hợp trở kháng với các đường tín | |
+vùng nhớ. | hiệu của khối đệm dữ liệu trên card \
+| RAM. TIBB34 và các khối xử lý của khối xử lý. |
+và tính toán của thiết bị MTTK. |
+| | - Tương thích tín hiệu về điện đảm bảo —_ | Ị Ị
+Ị truyền nhận bình thường, không xung đột _/ Ị
+| ín hiệu được tạo ra bởi đng tạ kiện — | | | Ị
+DTL của các khác trên MTTK.
+~ Xung nhịp dữ liệu truyền: tối thiểu 4Mùz Ì | Ị |
+- Sường xung tín hiệu: € SŨn., ! l |
+| ~ Điện áp đình xung tín hiệu: tối thiểu Ị |
+1,8V, tôi đa 3,SV.
+~ Đây xung tín hiệu: <0,8V. { |
+~ Nguồn điện nuôi: 5V. Ì Ị
+~ Điện áp tiêu thụ : < 1A. ) |
+48 ~ Phối hợp đầu ra của đường phát dữ liệu. Việt Nam. Mô 1 | 9226.364 ( 23.681.000 9.226.364. 23.681.000. 922.636
+| ra MTTK và các thiết bị bên ngoài đun | | Ị | |
+Ì vào _ | truyền theo chuẳn TOCT 1897-79, | |
+| bộ thu đữ_ | - Hoạt động đúng với chức năng yêu cầu. | Ị
+| liệu theo | -Nguồn nuôi: +5V, \ |
+Ị chuẩn ~ Dòng điện tiêu thụ: <lA. l |
+TOCT _ | -Trờkháng đầu vào:37.50. Ị | I | |
+18977-79. | - Tần số làm việc đáp ứng: > 20 Mhz, Ị Ị
+| - Tín hiệu logic đầu vào có điện áp mức Ị Ì Ỉ Ì
++ 4 48 “ 
+Module
+
+ 
+
+đầu vào.
+bộ thụ dữ
+Tiệu theo
+chuẩn
+TOCT
+18977-19. lý sô học. sang song
+song dữ.
+liệu được.
+ưu vào
+vùng nhớ
+RAM. ~ Phôi hợp đâu ra của đường phát dữ liệu
+hợp _ | giữa MTTK và các thiết bị bên ngoài
+đầu vào _ | truyền theo chuẩn TOCT 1897-79,
+
+bộ thu đữ | - Hoạt động đúng với chức năng yêu cầu.
+liệu theo | -Nguồn nuôi: +5V.
+
+chuẩn _ | - Dòng điện tiêu thụ: <lA.
+
+~ Trở kháng đầu vào: 37.50.
+
+đáp ứng: > 20 MhZ,
+ín biệu logic đầu vào có điện áp mức 
+| Việ Nam | Mô 1 | 9226364 ( 23681000 | 8226364 | 23.681.000
+Ị
+
+PP ..
+LG n2
+
+ 
+
+Ị
+ị
+|
+Ị
+Ị
+
+|
+Ị
+Ị
+|
+|
+
+ 
+
+9266 ] - Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm "Việt Nam Đơn
+vị tính 
+Mô
+đưa Mô
+đun Số
+lượng Thần cứng 
+Đơn giá i 14.563.636 3.226.364 Phần mềm 
+rước thuế 33.681.000 29.750.000 Phần cứng 
+“Thành tiền 3.226.364 Phần mềm trước thuế 
+29.750.000 23.681.000 ThuếGTGT / Tổng tiền Phần cứng
+(0%) 
+1456.364 322.636 Phần
+mềm
+
+@® 45.770.000 
+33.830.000 Xuất xứ, | Đơn giá trước thuế “Thành tiền trước thuế ThuếGTGT | Tổngtiền
+Tử £ kýhiệu | Đơn | Số ì Phần
+|2) THAI UIỆI nhân mác | vịtíth | Myng| Phần cứng | Phần mềm | Phầncứng | Phẳnmền | PM Tế | mềm
+sản phẩm ` @
+Togfe "1" trong khoảng từ 2V đến 5,5Y,
+- Tín hiệu logic đầu vào có điện áp mức
+egie "0" trong khoảng từ 0V đến 1,2V,
+~ Tín hiệu đầu ra theo chuẩn TOCT 18977-
+79: tín hiệu xung đương có điện áp rong,
+khoảng từ +ŠV đến +27V, tín hiệu xung
+âm có điện áp từ -27V đến -5V. }
+26 |Moinle | -Xử lý bóc tách hông dữ liệu đâuvàocủa | ViệNam | Mô | 1 |10175455| 33.58L000 | 10175455 | 33581000 | 1617545 [ - | 4.774006
+phối bợp _| gói dữ liệu trao đổi giữa MTTK và các đua
+đầu ra bộ | thiếtbị bên ngoài truyền theo chuẫn TOCT
+phát dữ _ | 18977-79. Đưa ra dữ liệu nhận của tham
+liệutheo | số cần nhận đến thiếtbịMTTK. _
+chuẩn — | - Hoạt động đúng chức năng yêu cầu.
+TOCT - Nguồn nuôi: +ŠV,
+1897-79. | - Dòng điện tiêu thụ: <LA
+~ Tần số làm việc tôi thiểu đáp ứng: 20.
+Mhz. 8
+~ Xử lý được nguồn dữ liệu đầu vào theo
+chuân TOCT 18977-79 với tốc độ từ
+12kb/s đến 100Kb/s,
+~ Có th cầu hình tốc độ thụ dữ liệu.
+50 | Module | - Nhận dữ liệu côn truyện đến cácthiếnb|từ| ViệNam Mô | TT [ 7236364 | 23880000 | 7236264 | 23880000 | 723.636 | -~ | 31.840.000
+xử lý MTTK đến các khối trong và ngoài tên lửa. đun
+luồng dữ | trao đổi theo đường truyền dữ liệu chuẩn dữ|
+liệu đầu _ | liệu FOCT 1897-79. Biết đôi dữ liệu đưa.
+vào của _ | vào đúng dạng gói dữ liệu của kênh truyền.
+bộ thu dữ. | - Nguồn nuôi: +5V.Dòng điện tiêu thụ: <1A,
+liệu theo _ | - Tên số làm việc đáp ứng: >20 Mhz.
+chuẩn — | -Xử lý được nguồn dữ liệu truyền đữ liệu
+TOCT __ | ratheo tiêu chuẳnTOCT 18977-79 tốc độ
+1897-19. | từ 12kb/s đến 100kb/s.
+- Có thể cầu hình tốc độ thu dữ liệu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+Tên hàng |
+
+'Tham số kỹ thuật
+
+ 
+
+Togfe "1" trong khoảng từ 2V đến 5,5Y,
+
+- Tín hiệu logic đầu vào có điện áp mức
+logic "0" trong khoảng từ 0V đến 1,2V.
+
+~ Tín hiệu đầu ra theo chuẩn TOCT 189
+9: tín hiệu xung đương có điện áp tron
+khoảng từ +ŠV đến +27V, tín hiệu xung
+âm có điện áp từ -27V đến -5V.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46 [Module [-Xử lý bóc tách luông dữ liệu đầu vào.
+phối hợp _| gói dữ liệu trao đổi giữa MTTK và các
+đầu ra bộ. | thiết bị bên ngoài truyền theo chuân TO
+phát dữ | 18977-79. Đưa ra dữ liệu nhận của than
+liệutheo | số cần nhận đến thiếtbịMTTK. _
+chuẩn _ | - Hoạt động đứng chức năng yêu cầu.
+TOCT - Nguồn nuôi: +ŠV,
+
+1897-79. | - Dòng điện tiêu thụ: <LA
+- Tần số làm việc tôi thiểu đáp ứng: 20
+Mhz. 8
+~ Xử lý được nguồn dữ liệu đầu vào the
+chuân TOCT 18977-79 với tốc độ từ
+12kb/s đến 100Kb/s,
+- Có thê cầu hình tốc độ thu dữ liệu.
+
+50 | Module | - Nhận dữ liệu cân truyền đến các thiết
+xử lý MTTK đến các khối trong và ngoài tên
+luồng dữ | trao đổi theo đường truyền dữ liệu chui
+liệu đầu | HỆuTOCT 1897-79. Biết đổi đữ liệu
+vào của _ | vào đúng dạng gói dữ liệu của kênh tr
+bộ thu dữ | - Nguồn nuôi: *5V.Dòng điện tiêu thụ:
+liệu theo _ | - Tên số làm việc đáp ứng: >20 Mhz.
+chuẩn | -Xửlý được nguồn dữ liệu truyền dữ]
+TOCT __ | ratheo tiêu chuảnTOCT 18977-79 tốc
+18977-79. | từ 12kb/s đến 100kb/s,
+
+ 
+
+ 
+
+ 
+
+~ C6 thể cầu hình tốc độ thu dữ liệu “ Tên hàng Module
+phối hợp
+đầu ra bộ
+phát dữ.
+liệu theo
+chuẩn.
+TOCT
+18971-79. 
+'Tham số kỹ thuật logie "1" trong khoảng từ 2V đến Š,5V.
+
+~ Tín hiệu logic đầu vào có điện áp mức
+logic "0" trong khoảng từ 0V đến 1,2V..
+
+~ Tín hiệu đầu ra theo chuẩn TOCT 18977-
+79: tín hiệu xung đương có điện áp rong,
+khoảng từ +5V đến +27V, tín hiệu xung
+âm có điện áp từ -27V đến -SV - Xử lý bóc tách luông dữ liệu đầu vào của.
+gối dữ liệu trao đổi giữa MTTK và các
+thiết bị bên ngoài truyền theo chuẩn TOCT
+18977-19. Đưa ra dữ liệu nhận của tham,
+số cần nhận đến thiết bị MTTK. _
+
+~ Hoạt động đúng chức năng yêu cầu.
+
+- Nguồn nuôi: +ŠV,
+
+- Dòng điện tiêu thụ: <lA,
+
+- Tần số làm việc tôi thiêu đáp ứng: 20
+Mhz. 8
+
+từ lý được nguồn dữ liệu đầu vào theo
+chuân TOCT 18977-79 với tốc độ từ
+12kb/s đến 100kb/
+
+~ Có thể cấu hình tốc độ thu dữ liệu Xuất xứ,
+Ký hiệu,
+nhãn mác
+sản phẩm. 
+"Việt Nam. "Việt Nam Mô
+đua đun 
+Số
+lượng Thần cứng Đơn giá 16.175.455 
+7.236.364 Phần mềm. rước thuế 33.581.000 
+23.880.000 Phần cứng “Thành tiền 10.175.455 
+1.236.364 Phần mềm trước thuế 33.581.000. 
+23.880.000 Phần cứng
+(10%) 1017.545 723.636 
+6T Phần
+mêm
+
+@ Tông mm 
+44.774.000 31.840.000 | Ị Xuất xứ, Đưngiítrướt thuế | Thàmhuinruớchul | Thu@TGT | Tôn
+ắ ¿ _ | kWhiệu | Đơn Số Ị TT Phần
+THỦ băng | “hamsikÿ hệt | náo | vinh | lrgel thần công Í phần mềm | Phần cíng | Phản mập | Phần cứng | mậm
+Ị sản phẩm Ì | 609 1Ó
+Št | Moiile- [-Ñhậnđữlucinuuyếnđncemlrbi | ViỆNam) Mô | 1 | 4070000 | 40207000] 40700001 20207000 | 1788 7T—~—[ 4m6]
+Xửlý | từ.MTTK đến các khối tong và ngoàitên | | án Ị
+tưng dĩ | lửa tao đổi theo đường truyền dữ liệu, |
+liệu đầu - | chuẩn dữ liệu TOCT 18977-79, Biết đổi | Ỉ
+| 72 của bộ | dữ liệu đưa vào đúng dạng sói dữ liệu của |
+phát dữ _ | Kênh ruyền, Í
+[liêu theo - | - Nguần nuội; +5V,
+chuẩn | - Dòng điện tiêu thụ; <|A Ị
+TOCT___ | - Tần số làm việc đáp ứng:>20 Mhz. Ị
+| 189T7-79. | - Xử lý được nguôn dữ liệu truyền dự liệu Ị |
+Ị Ta theo tiêu chuẩn TOCT 1897-79 tốc độ. Ì
+từ 12kb/§ đến 100kb/s, Ì
+| ~ Có thẻ cầu hình tốc độ th dữ liệu Ị !
+32 | Module -- | ~Tạo xung nhịp ôn định cho các bộhu VièNem | MS [ T TI5ZHTSIRT3IS0000112211P8 123158008 -1§2 | —=””[ 44776000
+Ị điều chế _ Í phát dữ liệu theo chuẩn TOCT 1897779, | đưa
+| |aom [he động đúng chức năng yêu Ị | Ị
+hiệu xung | - Nguồn nuôi: +$V Í
+hịp cho _ | - Dòng điện tiêu thụ: <]A, |
+thu phát _ | - Tần số nhịp tạo rạ: tỳ 100Khz, 50Khz, Ị
+đữliệu - | 12SKhz. | | Í
+theo. ; Đồng bộ với xung nhịp hệ thống của tỉ
+chun - | bị MTITK,
+| tuyền ~ Độ trễ tín hiệu nhịp đồng bộ: < 5ns, Ị
+TOCT - |~BiỂn độ xung nhịp 5V, - Ỉ Ị
+18277-79. | - Dễ đàng cấu hình đặt tần số nhịp } |
+53 | Modhle - [~Tạo xang nhịp ôn nh cho card làm việt ViệNam | Mã | T-[T6T7Z4ãS1 3838108 TôiT3357T 550% | 187548 7T—~—[ 447m.888.]
+| điều chế - | đồng bộ với nhịp hệ thống của thiết bị — Í đun |
+|aotn [MT
+hiệu xung | - Hoạt động đúng chức. năng yêu cầu. |
+Ị nhịp cho | - Nguồn nuôi: +§V. | Ị Ị
+| | hệ thống. | - Dòng điện tiêu thụ: <lA. l Ị
+] là)
+ke: „| l L Í =)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23
+gị tiền trước thuế —_
+TT.
+
+lg | Phần mềm
+
+ 
+
+0 | 40297.000
+
+   
+
+ 
+
+ 
+
+33581006 | tuế GTGT. Tổng t
+
+cứng | Phần
+
+000 | ~=—Ƒ 44724
+
+182 | ~Ƒ 447760
+
+4T ma Xuất xứ, Đơn giá trước thuế “Thành tiền trước thuế Thuế GTGT. Tông tiền
+c kýhiệu | Đơn | Số ần củng | Phần
+K- ng, nhãn mác | vịtính | lượng) Phần cứng | Phần mềm | Phần cứng | Phần mềm | Phần ốNã | màm
+sản phẩm. 89% | (y
+bị MTTK.
+~ Độ tr tín hiệu nhịp đồng bộ: < ấn.
+~ Biên độ xung nhịp: 5V,
+~ Dễ dàng cấu hình đặt tằn số nhịp yêu cầu |
+54 |Medle |-Dônkênhdữliệutừ§kênhthudữllệu | ViệNam | Mô | T | 9497273 | 31342000 | 9497273 | 31342000 | 948727 | - | 41.7894000
+dồn kênh | thành 1 kênh đưa đến thiết bị khôi xử lý và đun.
+đữiliệu - | tínhtoántrênMTTK
+kênh thu | - Hoạt động đúng chức năng yêu cầu.
+đưiệu - | -Nguồn nuôi +ŠV |
+theo ~ Dòng điện tiêu thụ: <LA..
+chuẩn _ | - Hoạt động ôn định tỉn cậy với các luồng |
+TOCT ___ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+1897-19: | 10MB4s.
+~ Xung nhịp đồng bộ làm việc tối thiểu.
+20Mhz
+55 |Môđèn | -Tạo giảđịachỉtheo yêu câu của khối ViệNam | Mô | 1 |12753.636| 32733000 | 127532636 | 32733000 | 1275364 | - | 46764000
+tạo luỗng | tính toán xử lý số học của thiết bị MTTK. đun
+dữ liệu ˆ | Tạo khuôn dạng dữ liệu tương đương với
+địa chỉ - | dạng dữ liệu đưa ra từ khối xử lý tính toán
+truy cập | trên MTTK,
+vùng nhớ. | - Hoạt động đúng với chức năng yêu cầu.
+~ Nguồn nuôi: +SV
+~ Dòng điện tiêu thụ: <1A.
+~ Hoạt động ôn định, tin cậy với các luồng,
+ệ từ lên đến tốc độ dữ liệu
+~ Xung nhịp đồng bộ làm việc tối thiểu.
+20Mhz
+56 [Môđm |-Tạogiàcáctnhiệuđiềkhiểntheoyêu | ViệNam | Mô | 1 |12753636| 3273000 | 12753.636'] 32735000 | 1275364 | - | 4.764.006
+cầu của khối tính toán xử lý số học của. đun
+dữliệ | thiếtbị MTTK. Tạo khuôn dạng dữ liệu tín
+điều hiệu điều khiên tương đương với đạng dữ.
+khiển truy | liệu đưa ra từ khối xử lý tính toán trên
+cập vùng | MTTK,
+
+ 
+
+ 
+
+ 
+
+ 
+
+2+4
+3 s6 “Tên hàng Module
+đền kênh
+dữ liệu
+kênh thu.
+dữ liệu.
+theo.
+chuẩn
+TOCT
+1897-79: 
+Mô đun
+tạo luỗng
+dữ liệu
+địa chỉ
+truy cập
+'vùng nhớ, SN điều
+khiển truy
+ThnNGG “Tham số kỹ thuật 
+bị MITK. š
+
+~ Độ trễ tín hiệu nhịp đồng bộ: < ãns.
+- Biên độ xung nhịp: 5V, N
+« Để dàng cấu hình đặt tằn số nhịp yêu cầu. ~ Dôn kênh dữ liệu từ 8 kênh thu dữ liệu.
+thành 1 kênh đưa đến thiết bị khôi xử lý và
+tính toán trên MTTK.
+
+~ Hoạt động đúng chức năng yêu cầu.
+
+~ Nguồn nuôi: +ẩV
+
+~ Dồng điện tiêu thụ: <1A.
+
+- Hoạt động ôn định, in cậy với các luỗng
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+10MB4S,
+
+~ Xung nhịp đồng bộ làm việc tối thiểu.
+20Mhz - Tạo giả địa chỉ theo yêu câu của khôi
+tính toán xử lý số học của thiết bị MTTK.
+Tạo khuôn dạng dữ liệu tương đương với
+dạng dữ liệu đưa ra từ khối xử lý tính toán
+trên MTTK.
+
+~ Hoạt động đúng với chức năng yêu cầu
+
+ 
+
+ 
+
+~ Dòng điện tiêu thụ: <1A. :
+
+~ Hoạt động ôn định, tỉn cậy với các luồng
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+I0MBIS. - chi
+
+~ Xung nhịp đồng bộ làm việc tối thiêu
+20Mhz ~ Tạo giả các tín hiệu điều khiến theo yêu.
+
+của khối tính toán xử lý số học của
+thiết bị MTTK. Tạo khuôn đạng dữ liệu tín
+hiệu điều khiên tương đương với đạng dữ.
+liệu đưa ra từ khối xử lý tính toán trên
+MTTK. 
+Xuất xứ,
+ký hiệu,
+nhãn mắt
+sẵn phẩm. "Việt Nam "Việt Nam "Việt Nam 
+Đơn
+vị tính Mô
+đụn Mô
+đun Mô
+đưa 
+Số
+lượng Phần cứng Đơn giá 3491273 
+12.753.636 12.753.636 Phần mềm. rước thuế 
+31.342.000 32.735.000 32.735.000 Phần cứng 
+“Thành tiền 9491273 12.753.636 12.753.636" 
+trước thuế tệ siuEBy
+K1 001220)
+¬ 31.342.000 32.735.000 
+„735.000 Phần cứng
+(10%) Thuế G1 349.727 
+1275360 1275.364 Phần
+mềm
+
+@ KT 
+'Tổng tiền 41.782.000. 46.764.000 46.764.000 Xuất, Ì | Ï Đmmgátrwớcthuế ] Thànhềntrướcthuế | ThuếGTGT | Tôngtiền
+Phần
+mêm
+
+@
+
+| 46164000
+
+ 
+
+—| 46764000
+
+|
+|
+|
+|
+
+ 
+
+ 
+
+ 
+
+25
+ti biển đổi
+luồng dữ.
+liệu từ
+song song
+sang nỗi
+tiếp của
+
+  
+
+khiển truy Module
+biến đổi
+luồng dữ.
+liệu từ
+song song
+sang nối
+tiếp của
+chủ
+giả tía
+biện địa
+chỉ T
+Xuất xứ, |
+
+| kýhiệu | Đơn | Số
+
+| nhãn mắc | vịtính | lượng! Phần cứng | Phể
+†
+
+Ị
+
+:
+
+| Tham số kỹ thuật
+|
+
+Đơn giá trước
+
+ 
+
+ 
+
+| - Hoạt động đứng với chức năng yêu cầu,
+~ Nguồn nuôi: +5V'
+~ Dòng điện tiêu thụ: <1A.
+~ Hoạt động. ôn định, tin \ cậy với các. luồng
+đữ liệu đầu vào từ lên đến tốc độ dữ liệu.
+I0MB/S. sẽ.
+
+cung nhịp đồng bộ làm việc tối thiểu
+
+ 
+
+sản phẩm
+
+ 
+
+ 
+
+|
+Ị
+|
+
+  
+
+{ 
+7 Điện đời óữ liệu theo tạo giả dữ liệu địa
+
+chỉ từ đạng song song seng đạng nội tiếp
+
+đúng với dạng tín hiệu địa chỉ tạo ra của
+
+khối xử lý số học đưa đến cezd bộ nhớ
+
+chương trình.
+
+~ Hoạt động đúng chức năng đã được.
+
+~ Nguồn nuôi: +$V
+
+~ Dõng điện tiêu thụ; <1A.
+
+- Hoạt động ôn định, tỉn cậy với các luồng
+4ữ liệu đầu vào từ lên đến tốc độ dữ
+
+4Mb.
+
+~ Xung nhịp đồng bộ làm việc tối thiểu
+
+20MH. -
+
+~ Có tín hiệu đồng bộ và bus cầu hình hệ
+thông. "Việt Nam Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm "Việt Nam. 
+Đơn
+vị tính Mô
+đun. Mô
+đơn. Số
+lượng 
+Phần cứng Đơn giá 10.628.182 12.753.636 
+Phần mềm Phần mềm 35.073.000. 32.735.000 
+ớcthế | Thànhtiềntrướcthuế | Phần cứng 12.753.636 19/628.182 
+trước thuế Phần mềm 35.073.000 ] 1062818 [ - |
+
+Ị
+|
+
+ 
+
+25 ThuếGTGT 
+ThuếGTGT Phần cứng
+(10%) 1.272.364 Phần
+mềm
+
+©@ 
+“Tổng tiền. | Xuất xứ, z Đơn giá trước thuế Thành tiền trước thuế Thuế GTGT Tông tiền
+ÝNG kýhiệu | Đơn | Sí Phần
+HE than TH HN Hệ | nhãn mác | vịtính | lrợng| phần cứng | Phần mềm | Phần cứng | Phần mềm Í Phần cứng mềm
+sẵn phẩm. 92 | @
+cậpbộ — [-Xungnhịp đồng bộiâmviệeôi thiệu
+nhớ. 20Mhz.
+~ Có tín hiệu đồng bộ và bus cấu hình hệ |
+thống, |
+59 | Module— | - Nhận chuỗi dữ liệu từ cand bộ nhớ ViệNam | Mô | T |10628182| 35072000 | 10628182 33072000 | 1062818 | -~ | 46764000
+biến đổi _ | chương trình phân tích định dạng biến đổi đun
+luông dữ _| thành chuẩn tín hiệu dữ liệu song song đưa
+liệu từ nối | đến khối phân tích tổng hợp. |
+tiếp sang _| - Hoạt động đúng chức năng đã được
+song song | - Nguồn nuôi: +5V
+của chuỗi | - Dòng điện tiêu thụ: <1A.
+dữliệu _ | - Hoạt động ôn định, tỉn cậy với các luồng, |
+mã lệnh _ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+đưa đến | 4Mb/S
+của card , | - Xung nhịp đồng bộ làm việc tối
+bộ nhớ ` |20Mhz.
+chương _ | - Có tín hiệu đồng bộ và bus cầu hình hệ
+trình, thống,
+60 | Moduie— | - Nhận chuỗi dữ liệu từ card bộ nhớ ViệNam | Mô | TT [1275366 | 32733000 | 12733.636 | 32735000 | 1275364 | - | 46764000
+biến đổi _| chương trình phân tích định dạng biến đổi đun Ị
+luông dữ _| thành chuẩn tín hiệu dữ liệu song song đưa
+liệu từ nối | đến khối phân tích tổng hợp.
+tiếp sang _| - Hoạt động đúng chức năng đã được
+song song | - Nguồn nuôi: +5V.
+của chuối | - Dòng điện tiêu thụ: <1A.
+dữ liệu _ | - Hoạt động ên định, tỉn cậy với các luồng
+mã lệnh _ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+đưa đến - | 4Mb/S ‡ '
+của card | - Xung nhịp đồng bộ làm việc tối thiểu.
+bộnhớ |20Mhz
+chương _ | - Có tínhiệu đồng bộ và bus cấu hình hệ
+| tình — | thống. J Ì
+
+ 
+
+26
+s”3
+nhớ. “Tên hàng Module
+biến đôi
+luồng dữ.
+liệu từ nối
+tiếp sang
+sơng song,
+của chuối
+dữ liệu
+mẽ lệnh
+đưa đến
+của card
+bộ nhớ
+chương Module
+biến đôi
+uống dữ,
+Tiệu từ nồi
+tiếp sang
+song song,
+của chuối
+dữ liệu
+
+mã lệnh
+đưa đến
+của card
+bộ nhớ
+chương
+trình. 
+~ Xung nhịp đồng bộ làm việc tôi thiêu.
+20Mh }
+
+- Có tín hiệu đồng bộ và bus cầu hình hệ
+thống. Tham số kỹ thuật chương trình phân tích định dạng biến đồi
+thành chuẩn tín hiệu dữ liệu song song đưa
+đến khối phân tích tổng hợp.
+
+~ Hoạt động đúng chức năng đã được
+
+ 
+
+~ Nguồn nuôi: +5V'
+
+ 
+
+~ Hoạt động ôn định, tỉn cậy với các luồng
+cdữ liệu đầu vào từ lên đến tốc độ dữ liệ
+AMbjs. R .
+
+- Xung nhịp đồng bộ làm việc tối thiểu
+20Mhø,
+
+~ Có tin hiệu đồng bộ và bus cầu hình hệ
+P% sản Nhận chuỗi dữ liệu từ card bộ nhớ
+chương trình phân tích định đạng biến đổi
+thành chuẩn tín hiệu đữ liệu song song đưa.
+đến khối phân tích tổng hợp.
+
+~ Hoạt động đúng chức năng đã được.
+
+~ Nguồn nuôi: +ŸV
+
+~ Dòng điện tiêu thụ: <1A.
+
+- Hoạt động ôn định, tỉn cậy với các luồng
+cẻữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4MB ‡ h
+
+- Xung nhịp đồng bộ làm việc tối thiểu
+20MM. -
+
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống, 
+Xuất xú,
+ký hiệu,
+nhãn mác
+sản phẩm "Việt Nam Đơn
+vị tính Mô
+đua 
+Số
+lượng Phần cứng Đơn giá 10.628.182 
+12.753.636 rước thuế Phần mềm. 35.072.000 
+32.735.000 "Thành tiền trước thuế Phần cứng 12.733.636 
+Phần mềm 35.072.000 32.735.000 Phần cứng
+(10%) 
+Thuế G1 1/062.818 1275.364 G1 
+Phần
+mêm
+© 46.764.000 46.764.000 Ị ị Xuất xú, ị Ị | Đongi _ [_ Thành tiền trước thuế Thuế Sen Tổng tiền
+| | ậ kýhiệ, | Đơn | Số ần cứng | Phần
+TT | Tên hàng an Nhà, | nhấn mác | vịtíah | Imgngl Đẫu cóng | rhân mềm | Phu sông | Phẩn mềm (ng | mậm
+Lm phẩm | | % ©
+6i |Modrle | -Tạo giả xungnhịphệthôngcùathiếtb) | ViệNam | Mô | TT T[T4563.6@36 | 2850.000 | 1456366 | 2973000) | 1436363 | - | 43770000
+| điều chế - | MTTK kích thích cho card THTTI9 làm việc đứa | | Ị
+Í tạo tin giếng với làm việc với MTTK. | Ị | |
+| hiệu xung | - Hoạt động đúng chức năng yêu cầu. Ị
+nhịp cho | - Nguồn nuôi: *ŠV | l
+| hệ thống. | - Dòng điện tiêu thụ: <1A. : Ị
+| ~ Tân số nhịp tạo ra: từ 100KKhz đến Ị Ị ( Ị
+10Mhz, | Ị | Í
+mm ~ Biên độ xung nhịp: 5V, . Ỉ
+{ | - Dễ đàng cầu hình đặt tần số nhịp yêu cầu. Í Ỉ |
+[ @ [Mod —[ “Nguồn nuôi: +šV, ViệNam | Mô | TT J 4250308 | 42088000 | 4250903 | 42088000 | 425.051 Ị =—| 46764000
+tạobộ — | - Dòng điệntiêu thụ: <1A, đun
+đệm lưu | -Kích thước bộ nhớ đệm ó4Kword. _ Ỉ { | Ị
+trữ mã | - Có thể mở rộng vùng nhớ đệm lên đến ' Ị |
+chương |256kword | |
+tình hoạt | - Có cấu hình lại theo các thuật toán. Ị Ị |
+|_ lông ~ Xung nhịp đồng bộ làm việc tối thiểu —_ |
+Ị 20Mb. - F
+| Q8 tổn hiệu đồng bộ và bus cấu hình hệ |
+thống, h |
+| - Giáo tiếp được với bus hệ thống của máy | Ị ( |
+Ị tính theo chuẩn SA, Ỉ |
+| 63 | Module — [-Nguôn nuôi: +5V | ViệNam | Mô 1 | 6512727 | 40596000 [ 6512727 | 40.596.000 | 651272 - | 47:760.000
+ưa trữ dữ | - Dòng điện tiêu thụ: <1A. đơn |
+liệu ~ Kích thước bộ nhớ mặc định 4Mword. Ị
+chuyên __ | - Có thể mở rộng vùng nhớ lên đến Ỉ
+dụng — | 100Mworẻ ị | Í Ị
+- _ cấu hình lại theo các thuật toán yêu. Ị Ị Í |
+cầu
+ị ~ Xung nhịp đồng bộ làm việc tối thiểu. | | |
+| 20Mnz.
+~ Có tin hiệu đồng bộ và bus cấu hình hệ _ | Ị
+thống, Ị
+b——l - Tương thích với các đồng máy tính — | Ri l Ỉ
+6 6l Module.
+điều chế
+tạo tín
+hiệu xung
+nhịp cho
+hệ thống. Tên hàng 
+Module
+tạo bộ
+đệm lưa
+trừ mã
+chương
+trình hoạt
+động Module
+ơn trữ đữ
+liệu
+chuyên
+dụng. Module
+ơn trữ đữ
+liệu
+chuyên
+dụng. ~ Tạo giả xung nhịp hệ thông của thiết bị
+MTTK kích thích cho card TIITTI9 làm việc
+giống với làm.việc với MTTK.
+
+~ Hoạt động đúng chức năng yêu cầu.
+
+~ Nguồn nuôi: +§V
+
+~ Dòng điện tiêu thụ: <1A.
+
+ 
+
+ 
+
+ 
+
+~ Biên độ xung nhịn: 5V,
+- Dã đừng sấu lùn: Ôãttẫu vỗ rằng siêu sâu 
+~ Nguôn nuội: +5V'
+
+~ Dồng điện tiêu thụ: <1A.
+
+- Kích thước bộ nhớ đệm 64Kword. „
+
+~ Có thê mở rộng vùng nhớ đệm lên đến
+256kword
+
+~ Có cầu hình lại theo các thuật toán.
+
+~ Xung nhịp đồng bộ làm việc tối thiểu
+20Mbz.
+
+- Có tin hiệu đồng bộ và bus cấu hình hệ.
+thống. ñ
+
+- Giao tiếp được với bus hệ thống của máy.
+tỉnh theo chuẩn ISA. ~ Nguôn nuôi: +5V.
+
+~ Dòng điện tiêu thụ: <1A.
+
+~ Kích thước bộ nhớ mặc định 4Mword.
+~ Có thể mở rộng vùng nhớ lên đến.
+100Mword
+
+~ Có cấu hình lại theo các thuật toán yêu.
+
+ 
+
+đồng bộ làm việc tối thiểu.
+
+ 
+
+20MbZ.
+
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống.
+
+'ương thích với các dòng máy tính. Xuất xú,
+ký hiệu,
+nhãn mắc.
+sản phẩm "Việt Nam. 
+"Việt Nam. Mô
+đưa Mô
+đơn Số
+lượng 
+Phần cứng on giá I 14.563.636 4250.909 
+6512/27 rước thuế Phần mềm. 29.750.000 
+42.088.000 40.596.000 “Thành tiền trước thuế Phần cứng. 
+14.563.636 4.250.209 6312/27 Phần mềm 
+22.730.000 42.088.000 40.326.000 ThuếGTGT 
+Phần cứng |
+(0%) 1456.364 651273 Phần
+mềm
+
+©) 
+Tông tiên 46.764.000 47.760.000. Xuất xứ, Đơn giá trước thuế “Thành tiền trước thuế Thuế GTGT Tổng tiền.
+4T, kýhiệu | Đơn | Số š Phần
+CIP heng TH nhãn mác | vịthh | luợng| phần cong | Phần mềm | Phẳn cúng | Phần mềm | PHẪU nữ | nộm
+sản phẩm k @
+chuyên đụng điệu Khiễn thiết bị bay
+64 |Module [-Nguônnuôi: +3V, Mê | 1 | 8140909 | 35820000 | 8140909 | 35820000 | 81401 | ~ [4775000
+cập nhật | - Dòng điện tiêu thụ: <1A. đun
+địa chỉ - |-Bus đữliệu: 16bit.
+mã lệnh _ | - Có cấu hình lại theo các thuật toán yêu
+chương | cầu. ị
+trình. ~ Xung nhịp đồng bộ làm việc tối thiểu
+20Mn. ƒ
+- Có tín hiệu đồng bộ và bus cầu hình hệ
+thống, _ :
+- Giao tiếp được với bus hệ thống của máyy
+tính theo chuẩn ISA.
+65 | Moddle  T-Nguôn nuôi: +§V, VIRNEm | Mô | Ì | 6240909 | 38904000 | 6240903 | 38904000 | 624091 | ~ | 45769000
+cập nhật | - Dòng điện tiêu thụ: <1A. đụn
+thanh ghỉ | - Bus dữ liệu: 16bit.
+chỉsố | -Cócấuhìnhlaitheocácthuậttoán,
+chuyên _ | - Xung nhịp đồng bộ làm việc tối thiểu
+đụng  |20MP. —_ Ä
+- Có tín hiệu đồng bộ và bus cấu hình hệ
+thống F
+~- Giao tiếp được với bus hệ thống của
+máy tính theo chuẩn ISA..
+66 [Module — | -Nguôn nuôi +5V. ViệNam | Mô | TT [4431818 | 43879000 | 443L818 | 43879000 | 443182 | - [ 48754000
+quản lý, | - Dòng điện tiêu thụ: <1A. đụn
+cập nhật |-BusdEliệe:l6bi _
+địa chỉ bộ. | - Vùng nhớ quản lý có thể lên đến
+nhớbiến | 24KWord.
+của máy _ | - Có cấu hình lại theo các thuật toán
+tính - Xung nhịp đồng bộ làm việc tối th
+chuyên |20MM -
+dụng. ~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28
+“ Tên hàng Module
+cập nhật
+địa chỉ
+
+mã lệnh
+chương Modul
+cập nhật
+thanh ghỉ
+chỉ số
+chuyên
+dụng, 
+chuyên dụng điều khiên thíi Tham số kỹ thuật .C6 cấu hình lại theo các thuật toán yêu
+
+ 
+
+ 
+
+ 
+
+cầu.
+~ Xung nhịp đồng bộ làm việc tối thiểu
+20Mn. }
+
+- Có tín hiệu đồng bộ và bus cầu hình hệ
+thống,
+
+Giao tiếp được với bus hệ thống của máy
+tính theo chuẩn ISA., c+OV,
+tiêu thụ: <1A.
+
+~ Bus dữ liệu 16bit,
+
+~ Có cầu hình lại theo các thuật toán.
+
+~ Xung nhịp đồng bộ làm việc tối thiển
+20Mh. _ 1
+
+- Có tín hiệu đồng bộ và bus cấu hình hệ
+thống, F
+
+~= Giao tiếp được với bus hệ thống của
+máy tính theo chuẩn ISA. 
+~ Nguôn nuôi: +5V.
+
+~ Dòng điện tiêu thụ: <1A.
+
+-Bus dữ liệu: 16bit
+
+~ Vùng nhớ quản lý có thể lên đến
+24KCWon.
+
+~ Có cấu hình lại theo các thuật toán
+- Xung nhịp đồng bộ làm việc tố thí
+20MhZ.
+
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống, Xuất xứ,
+ký hiệu,
+nhãn mác.
+sản phẩm Việt Nam "Việt Nam 
+"Việt Nam Đơn
+vị tính Mô
+đun Mô
+đưn 
+đưa Số
+lượng Phần cứng Đơn giá | 
+8.140.909 6.240.002 4431818 rước thuế 
+Phần mềm. 35.820.000 38.904.000 43.872.000 
+Phần cứng “Thành tiền 8.140.209 6.240.209 
+4431.815 trước thuế 35.820.000 38.904.000 
+43.872.000 'ThuếGTGT Phần cứng.
+(10%) 814.091 
+624.091 443.182 Phần
+mêm
+
+@©@ — 
+44.775.000 45.769.000 48.754.000 r
+Ị
+
+TT
+F
+
+Tên hàng
+
+Tham số kỹ tì
+
+~ Giao tiếp được với bus hệ
+
+tính theo chuẩn ISA..
+
+ 
+
+sĩ
+
+ 
+
+~Nguôn nuôi: TÊV,
+
+  
+ 
+
+~ Đầy đủ các tín hiệu đáp ứ
+~ Có cầu hình lại theo các tỉ
+cầu
+
+~ Xung nhịp đồng bộ làm v
+20Mhz.
+
+~ Có tín hiệu đồng bộ và bu
+thống. -
+
+- Giao tiếp được với bus hệ
+Í tính theo chuẩn 1SA.
+
+ 
+
+s
+
+ 
+
+  
+
+~ Nguôn nuôi: +5V
+~ Dồng điện tiêu thụ: <1A.
+~ Quản lý vùng nhớ 4Mwor
+~ Có thể mở rộng vùng nhớ
+100Mword
+
+~ Có cầu hình lại theo các
+cầu,
+
+~ Xung nhịp đồng bộ làm vi
+20Mhz.
+
+- Có tín hiệu đồng bộ và bu.
+thống,
+
+~ Giao tiếp được với bus hệ
+tính theo chuẩn SA.
+
+ 
+
+s
+
+Case máy
+tính công
+nghiệp
+
+ 
+
+ 
+
+-6U VME64x 195-Mini:
+
+Điện áp đầu vào: 106-230.
+đầu ra đồng một chiều < 11
+hoạt động từ 0 đến S0 (độ C
+một chiều đầu ra: +$V(45A.
++12V(
+
+ 
+
+ 
+
+29
+TT | Tên hàng Tha
+
+ 
+
+tính theo chuẩn]
+
+ 
+
+ 
+
+~ Nguôn nuốt
+~ Dòng điện tiêu
+~ Đầy đủ các tín
+~ C6 cấu hình lạ
+cầu
+
+của máy _ | - Xung nhịp đồn
+tính 20Mhz.
+
+chuyên - | -C6tinhiệu đồn
+đụng, thống. -
+
+Ị - Giao tiếp được
+Í tính theo chuẩn
+68 [Medule | -Nguôn nuô
+tạotín | -Dòngđiện tiêu
+hiệu quân | - Quản lý vùng n
+lý điều - | -Có thể mở rộng
+khiển bộ | 100Mword
+
+nhớ hằng _ | - Có cấu hình lại
+của máy | cầu
+
+ 
+
+ 
+
+ 
+
+  
+
+tính ~ Xung nhịp đồn:
+chuyên - | 20Mhz,
+dụng. | ~ Có tín hiệu đồn
+thống. -
+| ~ Giao tiếp được
+tính theo chuẩn ï
+
+ 
+
+69 | Case máy | - 6U VME64x I.
+tính công | Điện áp đầu vào:
+nghiệp _ | đầu ra dòng một
+hoạt động từ 0 để
+một chiều đầu ra
+
+LLÌ — lzavasaya Case máy
+tính công
+nghiệp Case máy
+tính công
+nghiệp Modde —
+tạo tín
+điều
+
+ 
+
+ 
+
+nhớ biến
+của máy
+tính
+chuyên
+đụng. 
+195-Mini Việt Nam. se "Việt Nam 
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sẵn phẩm Đệ đun Số
+lượng 
+275.886.364 6.376.364 9.1407 Phần cứng 
+Đơn giả \ trước thuế. Thành tiền trước thuế | ThuếŒ 39.750.000 Phần mềm 
+rước thuế 273.886.364 6.376.364 §.140202 
+Phần cứng 39.750.000 33.820.000. Phần mềm 
+637,636 §14.091 Phần cứng
+(10%) ThuếGTGT Tông tiền 
+GT Phần
+mềm
+
+© 44.775.000 Tổng tiền 
+46.764.000. Xuất xứ, 5 Đơn giá trước thuế “Thành tiễn trước thuế Thuế GTGT Tổng tiên
+5 kýhiệu | Đơn | S ìn cứng | Phần
+Tạ nh Tan Ea TH nhãn mác | vịtính | lrợng| Phần cứng | Phần mềm | Phần cũng | Phần mềm hàn g | mệm
+sản phẩm. ® |@
+70 | Card -TELBVEuininliaoomnMIE | W) | Cwd | 3 [TT225455 | 741360609 231076365 | 225408000 | 23.197.635 | - | 480.3582000
+truyền - | STD-1553B Card truyền
+nhận dữ | - Cung cấp giao thức thông mình giữa nhận dữ liệu
+liệu 'VMEbus với 2 bus song song 1553B cho | TXI-BV
+các hoạt động cũng như một đường cho truyền đữ
+BC, RT, MT; = liệu theo
+- Cong cấp khả năng phát hiện lỗi 1553 | chuân MIL~
+- Có thể lập trình &ame BC mà không cần | STD-1553B.
+Procesor,
+- Hỗ trợ phần mềm cho phép sử dụng thiết
+ị để điều khiên và gỡ rồi hệ thống bus đữ
+liệu 1553
+_ Bo mạch chuẩn châu âu kích thước 6U, |
+TT | Khung võ | - Chất liệu: Nhôm hợp kim. VigNam | Chếc | 2 | 33468182 66.956.364 6683.686 | - | 72.630.000
+cơkhí | - Thanh gá được chế tạo bằng vậtliệu
+Khối chức | nhôm phay bằng máy CNC có độ chính.
+năng, Xác cao l
+~ Các hệ khung gá thiết bị bên trong thiế \
+bị kiếm tra đâm bảo chính xác, chắc chắn,
+| không cong vệnh trong quá trình sử dụng.
+T2 TMoinle— [- Biển đội dữ liệu đưara từ vòng RAM từ | ViệNam | Mã | 2 1250508100800] 13501818 | 84176000 | #50182 | - | 93528000
+biến đổi | chuối tín hiệu nối tiếp sang dạng song, đun
+luồng dữ | song đưa đến khôi phân tích dữ liệu.
+Tiệu từ nối | - Hoạt động đúng chức năng đã được yêu,
+tiếp sang | cầu.
+song song | - Nguồn nuôi: +5
+biến đổi | - Dòng điện tiêu thụ: <0.3A.
+dữliệu — | - Hoạt động ôn định, tin cậy với các luồng
+thu được _| dữ liệu đầu vào từ lên đến tốc độ dữ liệu >
+củavùng |10MÐ — _
+bộ nhớ __ | - Xung nhịp đồng bộ làm việc tối thiểu
+RAM. - |20MhZ.
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+| thông,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30
+TT | Tên hàng
+T0 | Card.
+truyền
+nhận dữ
+liệu
+BC,RT,}
+~ Cung cá
+- Có thể l
+Processor
+- Hỗ tr
+bị để điều
+liệu 1553
+- Bo mạc
+TT | Khung võ | - Chất liệ
+cơkhí | -Thanh:
+khối chức | nhôm ph
+năng — | Xấccao
+~ Các hệ
+bị kiểm ‹
+
+ 
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Module
+
+biến đổi | chuối tí
+luồng dữ | song đư
+tiện từ nối | - Hoạt6
+tiếp sang | cầu.
+song song | - Nguồr
+biến đổi | - Dòng
+dữiiệu - | -Hoạt:
+thu được | đữliệu
+của vùng | 10MB/
+bộnhớ | -Xung
+RAM.
+
+20Mz
+| ó tí TT | Tên hàng
+70 | Card
+truyền
+nhận dữ
+liệu
+các hoạt đ
+BC, RT,À
+- Cùng cất
+- Có thể
+Proeessor
+- Hỗ trợ p
+bị để điều
+liệu 1553
+- Bọ mạc
+TT | Khung võ | ~ Chất lệ
+cơkhí | -Thah:
+khối chức | nhôm ph
+năng, xác cao.
+- Các hệ
+bị kiểm
+không c
+Medule Ï-Biếng
+
+ 
+
+ 
+
+ 
+
+  
+
+biếnđổi | chuốití
+luồng dữ | song đư
+Tiện từ nổi | - Hoạt6
+iếp sang | cầu.
+song song | - Nguồn
+biếnđổi | - Dòng.
+đữ3iệu - | -Hoạt:
+thu được | đữÌiệu
+của vùng | 10MĐ/
+bộnhớ - | -Xung
+RAM. - |20MhZ
+| Có tí Đơn giá trước thuế. “Thành tiên trì
+
+ 
+
+ 
+
+Xuất xứ,
+
+" ký hiệu | Đơn Số
+
+: nhãn mác , vị tính | lượng| Phần cứng Phần mềm | Phần cứng | Ì
+sản phẩm
+
+0 chuẩn MIL- (Mỹ) Card. 3 T1325.455 | T5,136,000 | 231976. 365 | 2
+Card truyền
+
+ninh giữa. nhận dữ liệu
+
+g 1553B cho. TXI-BV
+
+đường cho. truyền dữ
+
+liệu theo
+
+enlỗilS52 | chuẩnMIL-
+mà không côn | STD-1553B
+
+p sử dụng thiết
+thông bus dữ.
+
+ 
+
+ch thước 6Ư |
+ViệtNam | Chức 2 |33468182 66.956.364
+
+ng vật liệu
+có độ chính
+
+bên trong thiết
+xác, chắc chấn,
+trình sử dụng,
+THgRAMO | VINH | Mô | 2 | 4250509 | 42088006 | SZ0L818
+dạng song đụn
+
+ h dữ liệu.
+
+ng đã được yêu
+
+ 
+
+ 
+
+A. :
+ây với các luỗng
+tốc độ dữ liệu >
+việc tối thiểu,
+
+bus cấu hình hệ Xuất xứ,
+ký hiệu,
+nhãn mắc
+sản phẩm.
+(9
+Card truyền
+nhận dỡ liệu
+TXI-BV
+truyền đữ
+liệu theo
+chuân MIL-
+STD-1553B 
+Việt Nam | Chiếc
+
+ViệNam | Mô
+đun Đơn
+vị tính
+
+ 
+
+Cari ——
+Í
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT | Tên hàng | Tham sỉ
+
+| |
+
+T3 | Module _ [~Biếnđổi dữ liệu tạc
+biến đổi | vào các phân vùng
+luồng dữ {| card[TBB34từ dạng
+
+| liệu của - | sang dạng chuối dữ
+chuỗi dữ | card JIBB34.
+liêntậo - | Hoạt động đúng ch
+giả ngẫu | cầu.
+nhiên lưu | - Nguồn nuôi: +5V
+vào vùng | - Dòng điện tiêu thụ:
+RAM từ - | - Hoạt động ôn định,
+song song | đữ liệu đầu vào từ lệ
+sangnôi |IOMbI. _
+- Xung nhịp đồng bộ
+20Mhz.
+- Có tín hiệu đồng bệ
+thống.
+
+74 [Môđua |-Phẩntích cấu trúcc
+tạo dữ giá | RAM, đưa dữ liệu đi
+dữ liệu khối xử lý phân tích
+ghỉ vào _ | các vùng nhớ trongE
+vũng ~ Hoạt động đúng chỉ
+RAM trên
+card
+TIBB34. t
+
+- Hoạt động ôn định,
+| dữ liệu đầu vào từ lêt
+lớn hơn 10Mb/s,
+- Xung nhịp đồng bộ
+" 20MP -
+- Có tín hiệu đồng bệ
+thống,
+75 |Môểwn [-Phântíchcẩntrúec
+
+ 
+
+ 
+
+31
+
+L— —
+|Tr | Tên hàng Ì Tham số k
+|
+
+T3 | Module  [ - Biển đổi dữ liệu tạo gi
+biến đổi | vào các phân vàng chất
+
+| tuồng dữ j card HIBB34 từ dạng dũ
+
+[Hiên của - | sang dạng chuối dữ liệu
+
+chuỗi dự | card TIBB34,
+
+liệu tạo, l Hoạt động đúng chức
+
+giả ngẫu | cầu,
+
+nhiên lưu. | - Nguồn nuôi: r§V
+
+vào vùng | - Dòng điện tiêu thụ: <0
+
+| RAMiR |- Hoạt động ôn định, tr
+
+song song | đữ liệu đầu vào từ lên đ
+
+sengnối |10MÐ/. -
+
+tiếp. - Xung nhịp đồng bộ là
+
+20Mhz.
+
+| - Có tín hiệu đồng bộ vì
+
+thống.
+
+74 |Môđun |-Phẩntíchcấntrúedửl
+
+tạo dữ giá | RAM, đưa dữ liệu đã đ
+
+dữ liệu khối xử lý phân tích và
+
+shỉ vào __ | các vùng nhớ trong RAI
+
+ 
+
+ 
+
+  
+
+vũng - Hoạt động đứng chức
+RAM trên | cầu, -
+card ~ Nguồn nuôi: +5V
+
+ 
+
+TIBB34. | - Dòng điệntiêu thụ: <0
+~ Hoạt động ôn định, tỉ
+| cdữ liệu đầu vào từ lên đ
+lớn hơn 10MbJs
+
+| - Xung nhịp đồng bộ là
+| 20MH. -
+
+- Có tín hiệu đồng bộ và
+thông,
+
+~ Phân tích cầu trúc đữ
+phân tích | RAM, đánh giá quá tìn
+
+| |âmHeu | soainhđánhgiekếcqu
+
+ 
+
+ 
+
+ 
+
+ 
+
+75 | Môdun. 75 | Mô đun
+phân tích
+| àmteu 74 73 
+Mô đun.
+tạo dữ giá
+dữ liệu
+ghỉ vào
+vùng
+RAM trên
+card
+TIBB44. nhiên lưu
+vào vùng
+RAM từ
+
+song song 'Việt Nam. "Việt Nam. 
+Việt Nam. nhãn mác
+sản phẩm Mã
+địa đụn 
+đun 4070.000 | 40.297.000.
+
+|
+
+4.070.000.
+
+|
+|
+|
+
+40.297.000 | 407000
+
+Ì
+Ị
+|
+
+44774000
+
+Ị
+
+|
+
+ 
+
+ 
+
+ 
+
+6.105.455 l 38.058.000.
+Ỉ
+
+| 6105455
+
+38.058.000.
+
+ 
+
+ 
+
+610.545
+
+ 
+
+|
+Ị
+
+44.774.000
+
+ 
+
+ 
+
+31 lượng Phân cứng 
+Đơn giá 6.105.455 4.070.000 6.376.364 
+Phần mềm. rước thuế 39.750.000 40.227.000 
+Phân cứng "Thành tiền 6.376.326 4.070.000 
+Phần mềm trước thuế 39.750.000 40.297.000 
+ThuếGTGT: 637.636 Phần cứng
+(10%) Phân
+mềm
+
+©) 
+“Tổng tiền. 46.764.000 44.774.000 Xuất xứ, Đơn giá trước thuế Thành tiền trước thuế Thuế GTGT Tổng tiền
+nhà ầ Ẫ kýhiệu | Đơn | Số ì Phần
+SE nen A0 nhân mác | vitính | lượng| Phần cứng | Phần mềm | Phần cũng | Phần mềm | Phần SÉng | mậm
+sẵn phẩm q99. |ˆ cị
+truyền và _| kế kết quả Kiếm tra, đưa kết quả kiếm tra
+dữliệu | ghỉ đọc RAM đến thiết bị xử lý trung tâm.
+nhận - Hoạt động đúng chức năng đã được yêu
+được từ | cầu.
+các vùng | - Nguồn nuôi: +5V'
+RAM, so | - Dòng iện tiêu thụ:<05A.
+sánh đánh | - Hoạt động ên định, tin cậy với các luông
+giá kết _ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+quảtông | lớn hơn 10MB/s, h
+hợp đưa _ | - Xung nhịp đồng bộ làm việc tối thiểu
+đến thiết | 20Mhz.
+bị máy _ | - Có tín hiệu đồng bộ và bus cấu hình hệ
+tỉnh trung
+tâm kết
+quả kiểm
+tra vùng
+bộ nhớ
+RAM.
+76 |Modue |-Biếnđôidữliệutạogiađịachiquátrình | ViệNam | Mô | T1 | 4258909 | 42088000 | 4250903 | 42088000 | 423091 | - | 46764000
+biến đổi | truy cập vào vùng bộ nh An từ dạng | âm
+luồng địa | song song sang dạng nối tiếp. ï
+chỉtạo _ | -Hoạtđộng đúng chức năng đã được yêu |
+giảmuy | cầu.
+cập RAM. | - Nguồn nuôi: +5V.
+từ dạng tiêu thụ: <0.5A.
+song sông
+
+ 
+
+ 
+
+ 
+
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4Mb/ l -
+
+- Xung nhịp đồng bộ làm việc tối thiểu
+20Mhz.
+
+~ Có tín hiệu đồng bộ và bus cầu hình hệ
+thống
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+32
+| Tả G 4 _ ký hiệu | Đơn Số
+TT | Tên hàng TH 2À CAN nhãn mác | vịtính | lượng, Phần cứng | Phần mềm
+sản phẩm
+truyền và _| kế kết quả Kiếm tra, đưa kết quả kiếm tra
+dữliệu _ | ghỉ đọc RAM đến thiết bị xử lý trung tâm.
+nhận oạt động đúng chức năng đã được yêu.
+được từ - | cầu.
+các vùng +§V
+RAM, so. | - Dòng điện tiêu thụ: <0.5A.
+sánh đánh | - Hoạt động ồn định, tin cậy với các luồng,
+giá kết _ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu Ị
+quả tông | lớn hơn 10MBb/s TC
+hợp đưa _ | - Xung nhịp đồng bộ làm việc tối thiểu
+đến thiết | 20Mhz.
+bị máy _ | - Có tín hiệu đồng bộ và bus cấu hình hệ
+tính trung | thống.
+quả kiểm
+tra vùng
+bộ nhớ
+RAM.
+76 |Module |-Biếnđôidtliệutạogiàđịachiquitinh | ViệNam | Mô | T ] 4250909 | 42088000
+biến đổi - | truy cập vào vùng bộ nhớ RAM từ dạng | âm
+luồng địa | song song sang dạng nối tiếp. ï
+chỉ tạo Hoạt động đúng chức năng đã được yêu |
+giả truy.
+cập RAM
+từ dạng
+song song | - Hoạt động ôn định, tin cậy với các luồng.
+sangnối | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4Mb/ l -
+~ Xung nhịp đồng bộ làm việc tốt thiêu T6 truyền và.
+dữ liệu
+nhận
+được từ
+các vùng
+RAM, số
+
+ 
+
+quả tổng
+hợp đưa
+cđến thiết
+bị máy
+tỉnh trung
+
+tâm
+quả kiếm
+tra vùng,
+bộ nhớ
+RAM. Tên hàng 
+Module
+biến đôi
+luồng địa
+chỉ tạo
+
+ 
+
+r dạng “Tham số kỹ thuật kê kết quả kiểm tra, đưa kết quả kiểm tra.
+ghỉ đọc RAM đến thiết bị xử lý trung tâm.
+Hoạt động đúng chức năng đã được yêu.
+
+ 
+
+ 
+
+~ Hoạt động ôn định, tỉn cậy với các luồng
+cdữ liệu đầu vào từ lên đến tốc độ đữ
+Tớn hơn 10Mb/s _
+- Xung nhịp đồng bộ làm việc tối thiểu
+20Mhz.
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống. ~ Biển đôi dữ liệu tạo giả địa chỉ quá trình.
+truy cập vào vùng bộ nhớ RAM từ dạng
+song song sang dạng ní
+
+~ Hoạt động đúng chức răng đã được yêu
+cầu.
+
+~ Nguồn nuôi:
+
+   
+
+  
+
+sV
+
+ 
+
+~ Dõng điện tiêu thụ: <0.5A.
+
+ 
+
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4AMb/s xi
+
+- Xung nhịp đồng bộ làm việc tối thiểu
+20MhZ.
+- Có tín
+thống
+
+ 
+
+iệu đồng bộ và bus cấu hình hệ. 
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sẵn phẩm "Việt Nam. Đơn
+vị tính Mô
+đụn 
+Số
+lượng Phần cứng Đơn giá I 4.250.909 
+Phần mềm. rước thuế 42.085.000 Phần cứng 
+4.250.909 Phần mềm. trước thuế BE ho
+at bệ
+Ksei
+
+I8 o2 8 So
+¬..-. 
+42.088.000 “Thuế G1 Phần cứng
+(10%) 425.091 
+Phần
+mềm.
+@® GT Tổng tiền 46.764.000 XiấPXếC | [ [_—_ Đơn giá trước thuế Ị “hành tiền trước thuế ThuếGTGT | Tôổngtiền
+v Ẫ R kýhiệ, | Đơn | Số IR F Phần
+Ị TT | Tên hàng Tham số kỹ thuật nhấn mác | vịtính | lượng| Phần cứng | Phần mềm Phần cứng |_ Phần mềm Ea)” mềm |
+Ị sản phẩm. L | | | | (10%) ©
+Nm —] | | T | Ị ]
+M \
+| } }
+77|M§dm | -Chúc nã: ANH | MS | Ì | 616463 | 38058000 | 6105/33 †38058000 | 610545 | -~ | #74000
+| ạodø ga | - Tạo gả các giávi lánh chỉ truy cập đun |
+đưliệu - | vào toàn bộ các vòng nhớ rong bộ nhớ \
+l RAM cha card TIBBS4, tạo giá các giá | |
+địa chỉ truy cập tương tự như quá trình |
+hoạt động của thiết bị MTTK. Ị Ị |
+- Tan Mộng đúng chức năng đã được yêu | | Ỉ |
+cầu,
+~ Nguồn nuôi: +5V. | Ị Ị
+Ì ~ Dòng điện tiêu thụ: <0.54A. N | \
+~ Hoạt động ôn định, tỉn cậy với các lồng | |
+Ì 3 liệu đầu vào từ lên đến tốc độ dữ liệu \ Ị | |
+Ị lớn hơa 10MĐ/S. | |
+- Xung nhịp đồng bộ làm việc tối thiểu,
+20Mb. Ñ
+|; hiệu đồng bộ và bus cấu hình hệ | Ỉ Ỉ \
+thống, ị Ộ Ị | | | |
+Tổ [bẩm | -Tạosieiegidticiacatinhieodie | ViẾNam | Mã | tr] s00 0AnI 40251808 | 400086 | 40207000 | 407800 | - 124772000 |
+tạo dự giả | khiên các chế độ khi truy cập vào vùng đun |
+rẻ. điều - | nhớong bộ nhớ RAM của card HIBB34, |
+khiển các | tương ứng với các bài kiểm tra. |
+chế độ __ | -Hoạtđộng đồng chúc năng đã được yêu |
+truy cập | cầm - |
+| vào vùng | -Nguồn nuôi: t5V' | |
+bộ nhớ | - Dòng điện tiêu thụ: <0.5A. |
+| NAM trên | - Hoạt động ôn định, tin cậy với các luồng Ị | |
+card đâu liệu đầu vào từ lên đến tốc độ dữ liệu | | \ |
+TIBB34. | lớnhơn 10MB. t | | \ |
+~ Xung nhịp đồng bộ làm việc tối thiểu. | |
+20Mhz. Ì Ị |
+| C6 tn hiệu đồng bộ và bu cần hình hệ Ỉ Ì |
+
+ 
+
+ 
+
+ 
+
+33
+NNhuẴGGẴKẴẰăẰ TT | Xuất xứ, Đơn giá trước thuế | Thànhtềntrướcthuế | ThuếGTGT | Tổngtền
+: Ty, kýhiệu | Đơn | Số áng | Phần
+| ng hi To 0 hệ, hân nác | vitnh | Iuyngl Phần cóng | Phần mềm | Phẩncứng | Phằnmềm | Phần sôHg | nậm
+sẵn phẩm & €)
+thông T
+Tô „Biên đôi dữ liệu tạo giả các tín hiệu điều | ViệtNam | Mê | TT T[ 6376364 | 39750000 | 6376364 | 39750000 | 637636 | - | 4660000
+khiển chế độ truy cập vào vùng bộ nhớ. đun
+AM từ dạng song song sang dạng nối
+tiếp.
+khiên tạo _ | - Hoạt động đúng chức năng đã được yêu
+giả các cầu.
+chế độ - Nguồn nuôi: +SV.
+truy cập - | - Dòng điện tiêu thụ: <0.5A.
+RAM từ _ | - Hoạt động ôn định, tin cậy với các luỗng
+dạng song | dữ liệu đầu vào từ lên đến tốc độ dữ liệu.
+song sang | 4Mb/s.
+nề ~ Xung nhịp đồng bộ làm việc tối thiểu.
+đưa đến | 20Mhz
+card ~ Có tín hiệu đồng bộ và bus cấu hình hệ
+IBB34 | thống
+điều
+khiên quá
+trình đọc
+ghỉ dữ
+liệu.
+$0 |Môđun |-Phốihợpchuntnhiệuđiệnvàoracla | ViệNam | Mô | 1 | 40705451 4004.545 | 4070455 | —~ | 44775000
+phối hợp _| các đường tín hiệu lệnh đơn giữa thiết bị đun
+vàora _ | kiểm tra cardIBB34 và cardIBB34.
+siữa các _ | - Hoạt động đúng chức năng đã được yêu.
+chuẩn tín | cầu. -
+hiệu điện | - Nguồn nuôi: +šV
+giữa thiết | - Dòng điện tiêu thụ: <0.5A.
+bịkiểm | -Hoạtc động ôn định, tin cậy với các luồng. |
+tracard _ | dữ liệu đều vào từ lên đến tốc độ dữ liệu
+IBB4 |4MbE -
+và card — | - Xung nhịp đồng bộ làm việc tối thiểu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+34
+Tên h
+
+ 
+
+ 
+
+Tô
+
+ 
+
+ 
+
+S0 s0 Mô đun
+phối hợp
+vào ra
+
+giữa các
+chuẩn tín Module
+biến đôi
+
+ 
+
+hiệu điều
+khiến tạo
+giả các
+chế độ
+truy cập,
+RAM từ
+đạng song,
+song sang,
+n
+
+địa độn
+card
+TIBB34
+điều
+khiễn quá.
+trình đọc
+ghỉ dữ
+liêu. 
+~ Biên đôi đữ liệu tạo giả các tín hiệu điều.
+khiển chế độ truy cập vào vùng bộ nhớ
+AM từ dạng song song sang dạng nối
+tiếp,
+
+- Hoạt động đúng chức năng đã được yêu
+
+ 
+
+~ Dòng điện tiêu thụ: <0.5A.
+
+~ Hoạt động ôn định, tin cậy với các luỗng
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4MbIs,
+
+~ Xung nhịp đồng bộ làm việc tối thiểu.
+20Mhz
+
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống "Việt Nam Việt Nam Xuất xứ,
+ký hiệu,
+nhãn mác
+sẵn phẩm 
+Đơn
+vị tính đun đun Số
+lượng 
+6.376.364 Phần cứng Đơn giá \ 40.704.545 
+Phần mềm rước thuế c¬— 39.750.000 
+Phần cứng 40.704.545 6.376.364 Phần mềm 
+trước thuế 39.750.000 Phần cứng
+(0%) “Thuế G1 
+4.070.455 637.636 Phần
+mềm
+@® GT 
+46.764.000 Tư | Đơn giá trước thuế j Thành tiền trước thuế ThuếGTGT | Tôngtều l
+š kỹbiệu | Đơn | Số l|e®: ăn cứng | Phần
+TT | Tên hàng Tham số kỹ thuật nhãn mác Ì vị tính | lượng| Phần cứng | Phần mềm | Phần cứng | Phần mềm TNN mềm |
+sản phẩm J | "mg.
+TBB234 l20Mbz. F Ị Ì | Ị
+~ Có tín hiệu đồng bộ và bus cấu hình hệ | | Ị Ị |
+j thống, |
+ST |Môám TG: siã các lệnh đơn điệu Khiến can ViệNam | Mô | T [6105455 [ i§ĐS800 | 6103433 | 38038000 | 60235 | - | 4477.006
+tạo giả | card1TBB34 thu các lệnh đơn đáp ứng | &m | |
+sáctn „| địarêti cadTBB34, phântch sọ nh, Ị |
+hiệu lênh thống kê và tổng hợp kết quả gửi đến khối Í | | Ị | Ị | |
+đơn và - | xử]ÿ trung tâm. Í Ỉ Ị | | |
+thu các _ | - Hoạt động đúng chức năng đã được yêu Ị | | Í | |
+tnhiện | cầu. - I
+lệnh đưa | -Nghồn |
+| | đưaratừ | -Dồng điện tiêu thụ:<05A. : Ị
+| |emd - Hoạt động ổn định, tin cậy với các luồng, | | |
+Ị TIBB34, | dữ liệu đầu vào từ lên đến tốc độ dữ liệu Ị Ị
+| phân 4Mbjs, ñ l Ị Ỉ |
+thống kế, | - Xung nhịp đồng bộ làm việc tối thiểu | | | | |
+tổnghợp |20Mh.  - l | | | Í
+Kết quả. _ | - Có tín hiệu đồng bộ và bus cấu hình hệ | Í | | |
+thông. J L
+82 | Mô đun _ | - Phối hợp tín hiệu điện vào ra của các ViệNam | Mô 1 | 12210909 | 31.342.000 | 12210909 [ 31342000 | 1221091 - 44.774.000
+phối hợp _ | đường truyền nhận dữ liệu theo chuẩn đen |
+vào ratín | TOCT 1897779 giữa thiết bị kiểm tra |
+hiệu của | TIBB34 và cardTIBB34. Ị
+đường _ | - Hoạt động đúng chức năng đã được yêu Í
+| |myền lá | Ị
+Ị theo Ị Ị
+|  |chuẩn  |-Dôngđiệngãuth Ñ ị
+TOCT  |-Hoạ:độngèn định tncậy với các lồng | Ị | |
+18977-T9 | dữ liệu đầu vào từ lên đến tốc độ dữ liệu _ | ‡ |
+giữa thiết | 4Mb/s. . Tng Ị Ị Ị
+bịkiễm - |- Xung nhịp đồng bộ làm việc tối thiểu —_ | Ị
+tra card - |20Mhz. Ỉ Ỉ Ị
+TIBB34 | -C6tinhiệu đồng bộ và bus cấu hình hệ | Ị |
+và card | thống Xe:, Í Í Ì
+
+ 
+
+ 
+
+ 
+
+55
+$2 øl Mô đun
+phối hợp
+vào ra tỉa
+hiệu của
+đường
+truyền
+theo,
+chuẩn
+TOCT
+1897-79
+giữa thiết
+bị kiểm.
+tra card
+TIBB34
+se [ Mô đun
+tạo giả
+các tín
+hiệu lênh
+đơn và
+thủ các
+tín hiệu,
+lệnh đưa
+đưa ra từ
+card
+TIBB34,
+
+ 
+
+tổng hợp
+kết quả. 
+TIBB34. ~ Tạo giả các lệnh đơn điều khiến carc
+card TIBB34, thu các lệnh đơn đáp ứng
+đưa ra tử card TIBB34, phân tích, sọ sánh,
+thống kê và tổng hợp kết quả gửi đến khối
+Xử lý trùng tâm.
+
+- Hoạt động đúng chức năng đã được yêu
+cầu
+
+~ Nguồn nuôi: +5V
+
+~ Dỗng điện tiêu thụ: <0.5A.
+
+- Hoạt động ôn định, tín cậy với các luông
+cả liệu đầu vào từ lên đến tốc độ dữ liệu
+4Mbj, -
+
+- Xung nhịp đồng bộ làm việc tối thiểu
+20Mnz.
+
+~ Có tin hiệu đồng bộ và bus cắu hình hệ
+th
+- Phối hợp tín hiệu điện vào ra của các
+đường truyền nhận dữ liệu theo chuẩn
+TOCT 18977-79 giữa thiết bị kiểm tra
+TIBB34 và card TIBB34.
+
+~ Hoạt động đúng chức năng đã được yêu
+cầu.
+
+~ Nguồn nuôi: +SV.
+
+~ Dòng điện tiêu thụ: <0.5A.
+
+~ Hoạt động Ên định, tin cậy với các luồng,
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+4MbS, h
+
+~ Xung nhịp đồng bộ làm việc tối thiểu.
+20Mhz.
+
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+
+thống 20Mhz. 4
+~ Có tín hiệu đồng bộ và bus cấu hình hệ
+thống — - Việt Nam. 
+Xuất xứ,
+ký hiệu,
+nhãn mác
+sản phẩm "Việt Nam. Mô
+đơn Mô
+đun 
+Đơn
+vị tính Số
+Tượng Phần cứng Đơn giá 
+6.105.455 12.210.903 Phần mềm rước thuế 
+31.342.000. 38.058.000 Phần cứng 6.105.455 
+12.210.909 trước thuế Phần mềm 38.058.000 
+—..... Phần cứng
+(10%) 610.545 Phần
+mềm
+
+(@®) 
+GạT “Tổng tiền 44.774.000 Xuất xứ, Đơn giá trước thuế “Thành tiền trước thuế. Thuế GTGT Tổng tiền
+⁄ kýhiệu | Đơn Số Í Í này cơn | Phần
+TL TA  NHHBẾC nhãn mác | xịtính | lượng| Phần cứng | Phần mễm | Phần cứng | Phần mềm | Quy | mềm
+sản phẩm : ©@
+TIBB3+
+theo |
+đường
+truyền tín. Ị
+hiệu.
+Môđm |-Môđuntạogiàdiliệunhậnđượctrcác | ViệNam | Mô | 1 | 6105455 | 38038000 | 6105453 | 380358000 | 610545 | - | 44774000 |
+tạo giả dữ | thiết bị ngoại vị của thiết bị MTTK truyền. đưn |
+liệu đến card TIBB34 và thu nhận các gói đữ
+truyền — | liệutạo giảcủaMTTK từ cardITBB34
+
+ 
+
+đến card | giửi đi các thiết bị ngoại vi theo
+TIBB34 | truyền dữHệuFOCT 18977-79,phântích,
+và thu các | thống kế, tổng hợp kết quả
+
+dữ liệu từ. | - Hoạt động đúng chức năng đã được yêu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+card cầu
+
+ITBB34 | -Nguồn nuôi
+
+theo - Dòng điện tiêu thụ: <0.5A.
+
+chuẩn ~ Hoạt động ôn định, tin cậy với các luồng
+
+truyền dữ | dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+
+liệu 4MBbfs,
+
+TOCT ~ Xung nhịp đồng bộ làm việc tối thiểu.
+
+18971-79, | 20MhZ.
+
+phân tích, | - Có tín hiệu đồng bộ và bus cấu hình hệ
+
+thống kế, | thống.
+
+tổng hợp
+
+kết quả,
+
+Module |-Tạogiâxuagnhiphệthôngciauitbị | ViệNam | Mô | TT ] 6240909 | 38904000 | 6240909 | 38904000 [ 624091 | - | 45.769.000
+điều chế _ | MTTK kích thích cho card 1IBB34 làm đun
+
+tạotin _ | việc giống với làm việc với MTTK.
+hiệu xung | - Yêu cầu: .
+nhịp cho _ | - Hoạt động đúng chức năng yêu cầu.
+hệ thống. | - Nguồn nuôi: +5V'
+
+òng điện tiêu thụ: <1A.
+
+~ Tân số nhịp tạo ra: từ 100Khz đến
+10Mbz.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36
+s“ Tên hàng. 1BB34
+theo
+đường
+truyền tín. Môáun
+tạo giả dữ.
+liệu
+truyền
+đến card
+TIBB34
+và thụ các
+dữ liệu từ
+card
+TIBB34
+theo
+chuận
+truyền dữ
+liệu
+TOCT
+18977-19, 
+Module,
+điều chế
+tạo tín
+hiệu xung
+nhịp cho
+hệ thống. “Tham số kỹ thuật ~ Mô đun tạo giả dữ liệu nhận được từ các
+thiết bị ngoại vị của thiết bị MTTK truyền.
+đến card TIBB34 và thu nhận các gói đữ
+liệu tạo giả của MTTK từ card IIBB34
+giời đi các thiết bị ngoại vỉ theo ch
+truyền dữ liệu TOCT 18977-79, phân tích,
+thống kế, tổng hợp kết quả.
+
+~ Hoạt động đúng chức răng đã được yêu
+cầu
+
+~ Nguồn nuôi: +SV.
+
+- Dòng điện tiêu thụ: <0.5A. l
+
+~ Hoạt động ôn định, tin cậy với các luỗng,
+dữ liệu đầu vào từ lên đến tốc độ dữ liệu
+AMbS. bo
+
+~ Xung nhịp đồng bộ làm việc tối thiểu
+20Mm. - Ì
+
+~ Có tín hiệu đồng bộ và bus cầu hình hệ
+thống ~ Tạo giả xung nhịp hệ thông của thiết bị
+MTTK kích thích cho card IIBB34 làm.
+việc giếng với làm việc với MTTK.
+
+- Yêu cầu:
+
+- Hoạt động đúng chức năng yêu cầu.
+
+~ Nguồn nuôi: +5V.
+
+~ Dòng điện tiêu thụ: <1A. h
+
+~ Tần số nhịp tạo ra: từ 100Khz đến
+10Mhz. 
+Xuất xứ,
+ký hiệu,
+nhãn mắc
+sẵn phẩm. "Việt Nam. “Việt Nam Đơn
+vị tính 
+đun Mô
+đun Phần cứng Đơn giá I 
+6.105.433 6.240.202 Phần mềm. rước thuế 
+38.058.000 38.204.000 Phần cứng “Thành tiền 
+6.103.455 6.240.909 trước thuế Phần mềm. 
+38.058.000 38.904.000 Phần cứng
+(10%) “Thuế G1 
+610.545 G1 Phần
+mềm
+
+€®) “Tổng tiền 
+44.774.000 45.769.000 Ị
+
+Ị
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ị
+
+ 
+
+ 
+
+Ị
+
+Ị
+
+ 
+
+Ị
+
+ 
+
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Ị
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ị
+
+ 
+
+ 
+
+Ỉ Ï xuan Ị L__ Đzn gi trước tuệ —T_ Thìn tn trước tui —T— Tu GTGT Ï Tổng
+ly = ẳ T ¬
+Tr Ị Tên hàn, Tham số kỹ thuật Nhiệt | Pm | sẽ | Í pà Í Bàn |
+5 làn nhấn mắc | vịnh Ị ÍVEHEÍ Phần cụng | mu mỒN | Phẩn cứng | phậy màn le mềm |
+Ỉ ị Sân phẩm l | Ì | l 9 j -
+|- Biên độ “Xng nhịp; 3V, —— =_ Ì Ĩ Ï l Ï l |
+Đ đìng cất nh đặ th sý hp và cạn | Jlesg| Ị | | Ị
+J Ị J
+| ;Ÿt top với sicTinhiệnzie chân nhỏ, [VI SiipRạ) l2 | 23277 Í° 9045455 Ị 504.545 | ®950800-]
+án nạ, | VÀ Khoảng cách gản hư các LK đán TC | Ỉ
+đạc” Ự [dn,... Là dạng "hỡ mm nến có thể quạc Ị Ị Ị
+An thân Tnh kiện hoặc PC tư khi hân, Ị Ị Ị Ị ị
+| Mỡ bản làm dụng môi Siâm nhiệt độ nóng Ị Ỉ Ỉ
+[ Ị ShẪY của thiếc, động thời tạo thêm đội bóng | Ỉ Ị Ị
+Ị đđệP và khả năng đính niệc Yảo mối hàn,
+| 2 Về nhựa, có lớp bọc kim, lõi đềng Ị ị Ị ị Ị | I
+Ị [te Ị Ị Ị | lên Ị
+si,
+Việt Nam, TH” lệ sapr 271.818 r 1.359.091 Ị | 135.0 In Ị 1.495.000 Ị
+Ị Ị Ị
+ị |
+ng ị l ị | | |
+7 Trung Quốc lít 10 180,009 1.809.091 ‡ Ì T88. 909 - 1.990.000.
+Q
+CRÿp | Ị | Ị | Ị
+Ị l
+~Mậch sử dụng trọn, “ôi trường âm ướt Ị Ị Ị [ Ị Ị L ni
+h $8 [ Kimimär [Sam nh đệ chàng g diộ  eolion Ì Chức J Tp Ị 270908. 2709.091 ] | Z8s8~T—= 2.980.000.
+đ - Bắm được đâu coss, | NO0310010 Ị | | ị Ị ị Í Ị
+~ Kích thước; Š-1⁄4 02 j
+39 | Panh gấp |. Thép. không sĩ AISI 302 Ị Zhaoxin I Chiếc 10 180.90 ~F 1.809.091 ĩ 180.906 | - 1.990.000. ]
+| [Ihkêe Í kien uuec 130mm «2mm [Tes | ị Ị | | ị
+Ị
+90 | Cptin - Cấp mềm 30 sọi ®ọc kim chống nhiều, Ị Canare Jm 10] 138836 Ị 13.563,686 Ƒ | 135636 E  Ï 14520000
+hiệu thống chứ QNhậ) | l
+| |asya Lõi đẳng Ô= su, | vs. | | | | Ị Ị | Ị
+L_ lang J 16T Í
+hm Đồnghệ _[~ ĐCV:400m/4/40/400/600V- a0 7H ĐầiLoạn—Í Ghực 2 3251] 7.598.182 74818 |. rong
+Ị
+Ẻ | vannăng | ` AC: 4/40/400/60av „ 0.001V/+.1,gg, | DT9205A | Bii Ị l
+Ỉ =
+
+ 
+
+ 
+
+Ír
+
+SửGTGT TH
+
+THEEB [BH TÔ
+
+ 
+ 
+ 
+ 
+
+   
+
+Phân \
+
+ 
+ 
+
+        
+  
+
+    
+
+ 
+  
+    
+
+  
+ 
+
+      
+
+ 
+  
+
+ 
+ 
+
+Tông mộ | Đơn | SỐ
+n | Tham số kỹ thuật hân mỂ B i | tượng| Phần an) phần nền | Phần cín6 \ phần mềm k3 nà \ \
+Ð
+-DCÀ: ng 0.01mnAÍ*=: -22%
+\ tay - ACA: 40m/At 0.01mA/+-24 8%
+\ Ì - Điện trở Ö: H0 4a04M/40MG1
+010/+-1.5% \ \ \
+--Tụ điện F: “soa/5000/50/509/1009E ~ \ \ \ \ \ \
+| 00ảnPD-29, la \ \ \
+\ - Tần số H9 “¬.. l1 \ \ \ \ \ \
+- Kiểm tra niệm te liên tc ca mạch| \ \ \ \ \ \ \
+ng thông: 40 ~ 4008 \ \ \ \ \ \ \ \ \
+-Ngiện RÓPÓ \ \ \ \ \ \ \ | \ \
+
+      
+  
+
+- Khôi ương: Ÿ
+- Kích thước: Đen 46mm
+
+   
+
+ 
+    
+
+Ì
+\
+
+\ 1959.575.456) -125.251.000. 195951544
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+Tổng.
+T_Tông giá trị phân cứng trước thuê: 959.575.456 động,
+& giá trị gia tăng, phần cứng tố: '957.544 đồng
+_ Tông giá trì phần cứng đã bao gồm thuế giGr 215555: 000 đồng
+2 Tông giá t phần mềm trước .—n 2.125.251.000 đồng
+gia táng phần mí
+¡ phân. mềm đã bao HE thuế GTGT: Vài 2125 251.000 đồng,
+“ông giá trị hợp đồng: 4.280.784.000 đồng
+
+(Bằng chữ: Bến tỷ, hai trăm tám mươi triệu, bẩy trăm tám mươi bốn nghìn đôn;

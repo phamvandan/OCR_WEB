@@ -1,0 +1,1042 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 4 /VCNTT-KH Hà Nội, ngày O5iháng 02 năm 2018
+V/v thay đổi đề xuất đề tài nền cấp Viện
+KH-CN Quân sự năm 2018
+
+Kính gửi: Phòng Tham mưu-Kế hoạch.
+
+Căn cứ Quyết định số 1713/QĐ-VKHCNQS ngày 15/11/2017 của Giám đốc
+'VKHCNGS vẻ việc giao nhiệm vụ thực hiện đề tài nghiên cứu khoa học và phát
+triển công nghệ năm 2018 cho Viện Công nghệ thông tin;
+
+Căn cứ Công văn số 4982/BTL-TM ngày 04/12/2017 của BTL Quân chủng
+PK-KQ về việc trả lời ý kiến đề nghị phối hợp triển khai thực hiện các nhiệm vụ
+ứng dụng CNTT phục vụ hoạt động huấn luyện và sẵn sàng chiến đấu của Quân
+chủng PK-KQ;
+
+Căn cứ Công văn số 150/CKT-RĐ ngày 22/01/2018 của Cục Kỹ thuậu Quân
+chủng PK-KQ về việc đề nghị nghiên cứu sửa chữa khối máy thu quang âm AOIT
+đài ra đa thụ động Colchuga, `
+
+Viện CNTT đã chủ động phối hợp với các đơn vị ứng dụng nhằm xác định
+nhu cầu, mục tiêu và phạm vi của từng đề tài Viện được giao. Trên cơ sở ý kiến trả
+lời của Quân chủng PK-KQ về việc phối hợp triển khai đề tài “Nghiên cứu, thiết kế
+và xây dựng hệ thông mô phỏng huấn luyện kíp dẫn đường phục vụ công tác dẫn
+đường cho máy bay Su-30MK2” tại công văn số 4982/BTL-TM, Quân chủng PK-
+KQ cho rằng hệ thống dự kiến xây dựng có sự trùng lặp với một số hệ thống đã
+triển khai tại Quân chủng PK-KQ.
+
+Căn cứ nhu cầu của Quân chủng PK-KQ tại công văn số 150/CKT-RĐ, Viện
+Công nghệ thông tỉn xin đề xuất như sau:
+
+1. Cho phép Viện không triển khai thực hiện đề tài “Nghiên cứu, thiết kế và
+xây dựng hệ thống mô phỏng huấn luyện kíp dẫn đường phục vụ công tác dẫn
+đường cho máy bay Su-30MK2” (Theo Quyết định số 1713/QĐ-VKHCNQS ngày
+15/11/2017).
+
+2. Thay cho đề tài nêu trên, cho phép Viện triển khai thực hiện đề tài
+“Nghiên cứu thiết kế chế tạo giá thử và nâng, cấp, cải tiến một số mảng để hồi phục
+chức năng thiết bị xử lý biến đổi quang âm AOII của đài ra đa Colchuga” (có biểu
+KH-2 gửi kèm).
+
+Đề nghị Phòng Tham mưu-Kế hoạch xem xét báo cáo Ban Giám đốc Viện
+KHCNGS xem xét, phê duyệt./. |WW@ ”
+
+Nơi nhận: sen ÈN TRƯỞNG
+
+~ Như trên;
+~ Lưu: VT, KH; H04.
+
+  
+
+ũng tá Đỗ Việt BìnhĐơn vị: Viện Công nghệ thông tin
+
+ĐÈ XUẤT NHIỆM VỤ KHCN CÁP VIỆN KHCNQS NĂM 2018
+
+ 
+
+ 
+
+ 
+
+: Thời gian thực | Kinh
+Tên đề tài — | Chủnhiêm đề : ñ Sản phẩm và các chỉ tiêu hiện phí | Ghỉ
+TT c—kn tài, cơ quan Mục tiêu, nội dung nghiên cứu chính kỹ thuật chính Đất Í KH | (riệu | chú
+khu đầu | thúc | đồng)
+m cứu thiết kế| ViệnCông | - Mục tiêu: I. SÂN PHẨM CHÍNH 12
+tạo giá thử và | nghệ thông tin | > Xây dựng thiết bị giá thử nhằm tạo tháng
+nâng cấp, cải tiến guồn cắp, tín hiệu kích thích và các tín | À: Về phần cứng
+một số mảng để hồi hiệu điều khiển để phục vụ công tác | * Các chỉ tiết chế tạo mới:
+phục chức năng kiểm tra, sửa chữa, hiệu chỉnh khối máy | 01 khối khuếch đại đệm có
+thiết bị xử lý biến thu quang âm AOII; chức năng tương đương
+đổi quang âm AOII »> Chế tạo 04 chủng loại module gồm: |khối A072134; 01 khối
+của đài ra đa phân khối khuếch đại đệm; phân khối | khuếch đại công suất có
+Colchuga khuếch đại công suất, module xử lý tín | chức năng tương đương
+
+ 
+
+ 
+
+ 
+
+hiệu điều khiển máy thu quang âm,
+
+module thu và xử lý tín hiệu quang, s
+
+hóa và tính toán, phân tích biên độ, phổ
+
+tần, độ rộng của xung tín hiệu đầu vào,
+truyền thông tin cho máy tính xử lý dựa
+trên công nghệ mới,
+
+- Mục tiêu lâu đài:
+
+Sửa chữa, hồi phục tham số, tính năng
+
+chiến kỹ thuật cho 10 khối máy thu
+
+quang âm AOIT hỏng tại kho vật tư của
+quân chủng phòng không không quân.
+Nội dung nghiên cứu chính:
+
+*Tính cắp thiết: Phân khối AOIT dùng để
+khuyếch đại và biến đổi tín hiệu cao
+thành tương tự không _- thời gian với việc
+xử lý quang và quang - điện tử bằng đối
+tượng Phu re và thiết bị với liên hệ tích điện
+
+ 
+
+M1520; 01 module biến
+
+ố | đổi tổng hợp có chức năng
+
+tương đương bộ IV -—
+THAIT; 01 module thu quang
+có chức năng tương đương
+JIĐISC-512-2
+
++ 01 thiết bị giá thử để phục
+vụ điều chỉnh, hiệu chỉnh
+khối máy thu quang âm
+AON;
+
+*Sản phẩm chính của nhiệm.
+vụ: Hồi phục thành công
+
+tận | chức năng, tham số chiến kỹ
+
+thuật của 10 khối máy thu
+quang âm AOII.
+'Tên đề tài
+KH&CN Nghiên cứu thiết kê
+chế tạo giá thử và
+nâng cấp, cải tiến
+một số mảng để hồi
+phục chức năng
+thiết bị xử lý biến
+đổi quang âm AOIT
+của đài ra đa
+Colchuga Chủ nhiêm đề
+tài, cơ quan
+chủ trì Viện Công,
+nghệ thông tin. 
+Mục tiêu, nội dung nghiên cứu chính ~ Mục tiêu:
+
+»> Xây dựng thiết bị giá thử nhằm tạo.
+nguồn cấp, tín hiệu kích thích và các tín
+hiệu điều khiển để phục vụ công tác
+kiểm tra, sửa chữa, hiệu chỉnh khối máy
+thu quang âm AOII;
+
+»> Chế tạo 04 chủng loại module gồm:
+phân khối khuếch đại đệm; phân khối
+khuếch đại công suất, module xử lý tín
+hiệu điều khiển máy thu quang âm,
+module thu và xử lý tín hiệu quang, số
+hóa và tính toán, phân tích biên độ, phổ
+tần, độ rộng của xung tín hiệu đầu vào,
+truyền thông tin cho máy tính xử lý dựa
+trên công nghệ mới,
+
+~ Mục tiêu lâu đài:
+
+Sửa chữa, hồi phục tham số, tính năng
+
+chiến kỹ thuật cho 10 khối máy thu
+
+quang âm AOIT hỏng tại kho vật tư của
+quân chủng phòng không không quân.
+
+Nội dung nghiên cứu chính:
+
+*Tính cắp thiết: Phân khối AOTT đùng đề
+khuyếch đại và biến đổi tín hiệu cao tần
+thành tương tự không - thời gian với việc
+xử lý quang và quang - điện tử bằng đối
+tượng Phu re và thiết bị với liên hệ tích điện Sản phẩm và các chỉ tiêu.
+kỹ thuật chính I.SẢN PHẨM CHÍNH
+
+A. Về phần cứng,
+* Các chỉ tiết chế tạo mới:
+01 khối khuếch đại đệm có
+chức năng tương đương
+khối A072134; 01 khối
+khuếch đại công suất có
+chức năng tương đương
+Tên 01 module biến
+đổi tổng hợp có chức năng
+tương đương bộ II —
+HAI, 01 module thụ quang
+có chức năng tương đương
+JI@IISC-512-2
+
++ 01 thiết bị giá thử để phục
+vụ điều chỉnh, hiệu chỉnh
+khối máy thu quang âm
+AON;
+
+'*Sản phẩm chính của nhiệm
+vụ: Hồi phục thành công
+chức năng, tham số chiến kỹ
+thuật của 10 khối máy thu
+quang âm AOII. 
+Bắt
+đầu Thời gi 12 thúc 
+n thực
+s Kinh
+phí
+(triệu
+đồng) Ghi
+chú T
+
+Tên đề tài
+KH&CN
+
+Chủ nhiêm đề
+tài, cơ quan.
+chủ trì
+
+Mục tiêu, nội dung. nghiên cứu. chính
+
+Sản phẩm và các chỉ tiêu
+kỹ thuật chính
+
+ 
+
+ 
+
+ 
+
+(8©), biến đổi phô năng lượng thành đây
+các xung, máy thu TIäC tuyển tính dùng, để
+Bác ng n iệu đều kiên đối với TU
+cũng như để khuyếch đại và làm sạch tín
+hiệu thị tần ra khôi tạp TC với việc biển
+đồi tương tự ~ số và xử lý để cho ra thông tỉn
+về mức, tần số và độ rộng, phổ cả tín hiệu.
+
+'Đối với đài ra đa. 'Colcbuga, đây là khối
+
+có chức năng quan trọng bật
+hưởng trực tì tính chiến kỹ thuật
+của đài và được. sản xuất bảo một công
+
+cán mức cao Qhống có hoặc có Hà
+Tiệu mô tả). Hiện nay, quân chủng, PK-KQ
+đến nh cà 08 bộ đi mà da Cglehuga VÀ Tê,
+đài cần dùng. 2 hiệu 08 khối AOTT để duy
+đi dân. Tổng số 08 bộ khôi AOT
+Tụ dự phông và khoảng 05 bộ An
+
+l đã hỏng, thể sửa
+Thữa hồi phục. Từ năm 200$ trước
+2015, các khối AOTI hỏng đều phải đưa
+
+i j ) sửa chữa với chỉ
+HH co, Hiện ny, đơn Vi sân CÁ ng
+chức sửa chữa ¡ AOII đã bị bom phá
+đà Trọng nước, chứa có bắt kỳ “nh Tân
+
+là
+
+năng sửa chữa, hồi phục khỏi AOII,
+cứu, cải tí
+
+XAOI đặt ra nhú cậu. cấp thiết.
+* Nguyên lý làm việc chính của đối tượng.
+
+ 
+
+Š | nguyên bản;
+
+'B. VỀ phẫn mềm
+_ 01 bộ phần mềm tạo tín
+hiệu cao tần và cóc tín hiệu
+điều khiển cho thiết bị giá
+thử;
+
+„ Bộ phần mềm chuyên
+dạng có dạng mã file đuổi
+“hex và ,DOP HẬP
+
+Sáo FPGA của bảng mạch
+T@TISC-512-2 chế tạo mới:
+
+1I. CHỈ TIÊU KỸ THUẬT
+CHÍNH
+
+1. Về phần cứng,
+
+1. Các phân khối, module
+thiết kế mới.
+
+14. Phân khối khuếch đãi
+
+ 
+
+- Kích thước, bì kết
+cấu cơ khí, đầu rắc Mắt nổi
+tương thích với hệ thống cũ
+trên panel của khối AOIH
+
+ 
+
+- Đại tần làm việc: từ 0 đến
+
+ 
+
+2500 Mhz hoặc lớn hơn;
+_—Ì—Thời gian thực | Kinh
+'Tên đề tài Chủ nhiệm đỀ Sản phẩm và các chỉ tiêu phí | Ghi
+cơquan | Mi nội dung nghiên cứu chính
+KHAN | tUN Re mg ng ngd kỹ thuật chính Bất triệu | chú
+đầu | thúc | đồng)
+nghiên cứu - Hệ số khuếch đại toàn
+Trong thành phần AOII có: tuyến không nhỏ hơn 25 đb;
+—_——— 1.2. Phân khối khối khuếch
+~ Hệ thống quang, đại công suất có chức năng
+~ Bộ khuych đại cao Ân A0721- 34; tương đương VM1520)
+~ Bộ khuyếch đại YM1520; Kin su kế
+- Bộ đổi hướng quang âm; sả Trinh R
+~ Thiết bị thu quang JIĐIT3C-S12-2; g thích với hệ hông cũ
+- Thiết bị ổn áp CTII; tương
+
+ 
+
+ 
+
+- Bộ biến đổi tổng hợp IY - HAI.
+
+a. Mô đun la ze tạo ra tỉa ánh sáng tương
+quan với công suất khoảng 20mW và bước
+sóng 0,66u§.
+
+Hi tin VN lì
+
+khuyếch đi co tần khuyênh
+ty Mậu số trung tần và truyền nó đến
+bộ đổi hướng quang âm.
+
+“Trong bộ đổi hướng quang âm AO)J]I,
+sóng điện từ trường kích thích sóng quang
+âm, sóng này khi lan truyền theo tỉnh thể sẽ
+tương tác với việc phát xạ la ze và làm cho
+nó lệch đi 1 góc § tỷ lệ với tần số của tín
+K——
+
+ng bị lệch tiếp tục qua ống kính
+Pu nếu Na g0 HH NI thế
+bị nhạy sóng tuyến tính với sự liên lạc tích
+
+ 
+
+trên panel của khối AOII
+nguyên bản;
+~ Dải tần làm việc: từ 0 đến
+2500 Mhz hoặc lớn hơn;
+
+~ Công suất danh định toàn
+tuyến không nhỏ hơn 1 Watt
+3. Module biến đổi tổng hợp
+có chức năng tương đương.
+bộ ITY ~ HAI
+
+- Kết cấu, vị trí đầu rắc, các
+lỗ vị trí biên của bảng mạch
+chính xác theo vị trí cơ khí
+của panel khối;
+
+- Tần số biến đổi tín hiệu số
+sang tương tự không nhỏ
+hơn 5 MhZ;
+
+~ Các tham xung khuếch đại |
+'Tên đề tài
+KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì Mục tiêu, nội dung nghiên cứu chính nghiên cứu
+Trong thành phần AOII có:
+
+~ Mô đun la Ze KLM -650/20;
+- Hệ thống quang;
+- Bộ khuyếch đại cao tần A0721-34;
+~ Bộ khuyếch đại YM1520;
+- Bộ đổi hướng quang âm;
+~ Thiết bị thu quang JIĐIT3C-512-2;
+~ Thiết bị ổn áp CTJI;,
+~ Bộ biến đổi tổng hợp IIY - [[AII.
+
+a. Mô đun la Ze tạo ra tỉa ánh sáng tương
+quan với công suất khoảng 20mW và bước
+sóng 0,65uS.
+
+vả Tnengi VN
+
+khuyếch đại cao tần khuyếch.
+đại tệ số trung tần và truyền nó đến
+bộ đổi hướng quang âm.
+
+“Trong bộ đổi hướng quang âm AO)J]I,
+sóng điện từ trường kích thích sóng quang
+âm, sóng này khi lan truyền theo tỉnh thể sẽ
+tương tác với việc phát xạ la ze và làm cho
+nó lệch đi 1 góc B tỷ lệ với tần số của tín
+K——
+
+ng bị lệch tiếp tục qua ống kính
+Phu kiến đệ bị du quang, ö đây tạ tiết
+bị nhạy sáng tuyến tính với sự liên lạc tích 
+u chính
+
+Sản phẩm và các chỉ tiêu
+kỹ thuật chính
+
+"Thời gian thực
+
+Bắt
+đầu
+
+thúc
+
+q
+đẳng
+
+Ghỉ
+chú
+
+ 
+
+ 
+
+- Hệ số khuếch đại toàn
+tuyến không nhỏ hơn 25 đb;
+1.2. Phân khối khối khuếch
+đại công suất có chức năng,
+tương đương VM1520
+
+~ Kích thước, hình. kết
+cấu cơ khí, đầu rắc kết nối
+tương thích với hệ thống cũ
+trên panel của khối AOII
+nguyên bản;
+
+~ Dải tần làm việc: từ 0 đến
+2500 Mhz hoặc lớn hơn;
+
+~ Công suất danh định toàn
+tuyến không nhỏ hơn 1 Watt
+3. Module biến đổi tổng hợp
+có chức năng tương đương.
+bộ ITY ~ HAI
+
+- Kết cấu, vị trí đầu rắc, các
+lỗ vị trí biên của bảng mạch
+chính xác theo vị trí cơ khí
+của panel khối;
+
+~ Tần số biến đổi tín hiệu số
+sang tương tự không nhỏ
+hơn 5 MhZ;
+
+ 
+
+- Các tham xung khuếch đại | - Hệ sô khuếch đại toàn
+tuyến không nhỏ hơn 25 đb;
+1.2. Phân khối khối khuếch
+đại công suất có chức năng
+tương đương VM1520
+
+~ Kích thước, hình. kết
+cấu cơ khí, đầu rắc kết nối
+tương thích với hệ thống cũ
+trên panel của khối AOII
+nguyên bản;
+
+~ Dải tần làm việc: từ 0 đến
+2500 Mhz hoặc lớn hơn;
+
+~ Công suất danh định toàn
+tuyến không nhỏ hơn 1 Watt
+3. Module biến đổi tổng hợp
+có chức năng tương đương.
+bộ TY - HAI
+
+- Kết cấu, vị trí đầu rắc, các
+lỗ vị trí biên của bảng mạch.
+chính xác theo vị trí cơ khí
+của panel khối;
+
+- Tần số biến đổi tín hiệu số
+sang tương tự không nhỏ
+hơn 5 MhZ;
+
+~ Các tham xung khuếch đại Sản phẩm và các chỉ tiêu
+kỹ thuật chính Bắt 
+Thời gì thúc n thực
+1 Chủ nhiêm đề
+
+Thời gian thực
+
+Kinh
+
+Tên đề tài í H H Sản phẩm và các chỉ tiêu n phí | Ghỉ
+TT 'KHSGN đem quan Mục tiêu, nội dung nghiên cứu chính kỹ thuật chính Lạy th Kế | điệu | chủ
+" đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+điện (3C) tiến hành đăng ký, ghi chép và
+đọc dữ liệu về tần số và biên độ của tín hiệu
+tần số vô tuyến đi vào đầu vào AOII qua
+giắc BXO/I BH.
+
+d. Các tín hiệu điều khiển và điện áp
+nguồn cũng như các dữ liệu lấy từ thành
+phần nhạy sáng được đưa đến thiết bị thu
+quang qua các giắc “YTIP” và “BbIXO/I”.
+
+Bộ phát xạ la ze được cắp nguồn qua
+'bộ ổn áp CTJ1.
+
+e. Thiết bị thu quang JI®II3C -512-2
+(tiếp theo ta gọi là JIĐIT3C) dùng để tạo ra
+các tín hiệu cần cho sự làm việc của vi
+mạch nhạy sáng tuyến tính để đăng ký
+những phát xạ quang nhờ có vi mạch nhạy
+sáng tuyến tính với sự liên hệ tích điện.
+JIĐISC được lấp tên mảng mạch ỉn tiêu
+chuẩn, các tiếp điểm nối với bên ngoài được
+hàn chắc.
+
+Các chức năng chính trong JIĐII3C
+do vi mạch PLIC (vi mạch lô gich lập trình
+được) DD2 chủng loại EPKI00 (hãng
+ALTERA), vi đực nạp chương trình
+làm việc qua giấc X3 và vi mạch DD3 loại
+EPC2 cũng của hãng ALTERA. Tần số
+chuẩn 80MHz đến vi mạch DD2 từ máy
+phát 80MHz (DDI) ổn định cao từ bên
+ngoài.
+
+Khi ánh sáng tác động lên dãy đi ốt
+
+ 
+
+đấu ra: L2 không nhỏ hơn
+8V (xung âm trộn với sóng
+hình sin), LI không nhỏ hơn
+8V (xung dương trộn với
+sóng hình sin), R không nhỏ.
+hơn IV (sóng hình sin), P
+không nhỏ hơn 8V (xung
+vuông)
+
+4. Module thu quang có
+chức năng tương đương
+JI®IIBC-512-2
+
+- Kết cấu, vị trí đầu rắc, các
+lỗ vị trí biên của bảng mạch.
+chính xác theo vị trí cơ khí
+của panel khối;
+
+~ Tần số xung nhịp làm việc
+tối thiểu 80 Mhz;
+
+~ Độ nhạy sáng của thiết bị
+thu quang không nhỏ hơn -
+40 dì (0M tín hiện đi gn
+toàn bộ tuyến xử lý khuếch.
+đại cao tần đầu vào);
+
+- Số lượng tần số phân tích:
+không nhỏ hơn 20 kênh tần
+số khi các phân khối thu làm
+việc đúng danh định; dải tần
+số phân tích từ 150 Mhz đến
+“Tên đề tài
+KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì điện (3C) tiên hành đăng ký, ghi chép và
+đọc dữ liệu về tần số và biên độ của tín hiệu
+tần số vô tuyến đi vào đầu vào AOII qua
+giắc BXO/I BH.
+
+dd. Các tín hiệu điều khiển và điện áp
+nguồn cũng như các dữ liệu lấy từ thành
+phần nhạy sáng được đưa đến thiết bị thu
+quang qua các giắc “YTIP” và “BbIXO/I”.
+
+Bộ phát xạ la ze được cắp nguồn qua
+'bộ ổn áp CTJ1.
+
+e. Thiết bị thu quang JI®II3C -512-2
+(tiếp theo ta gọi là JIĐIT3C) dùng để tạo ra
+các tín hiệu cần cho sự làm việc của vi
+mạch nhạy sáng tuyến tính để đăng ký
+những phát xạ quang nhờ có vi mạch nhạy
+sáng tuyến tính với sự liên hệ tích điện.
+JIĐISC được đến HÓA mảng mạch in tiêu
+chuẩn, các tiếp điểm nỗi với bên ngoài được
+hàn chắc.
+
+Các chức năng chính trong JIĐII3C
+do vi mạch PLIC (vi mạch lô gich lập trình
+được) DD2 chủng loại EPKI00 (hãng
+ALTERA), vi mạch đựơc nạp chương trình
+làm việc qua giấc X3 và vi mạch DD3 loại
+EPC2 cũng của hãng ALTERA. Tần số
+chuẩn 80MHz đến vi mạch DD2 từ máy
+phát 80MHz (DDI) ổn định cao từ bên
+ngoài.
+
+'Khi ánh sáng tác động lên dãy đi ốt Mục tiêu, nội dung nghiên cứu chính 
+đâu ra: L2 không nhỏ hơn
+8V (xung âm trộn với sóng
+hình sin), LI không nhỏ hơn
+8V (xung dương trộn với
+sóng hình sin), R không nhỏ.
+hơn IV (sóng hình sin), P
+không nhỏ hơn 8V (xung
+vuông)
+
+4. Module thu quang có
+chức năng tương đương
+JIĐIISC-512-2
+
+- Kết cấu, vị trí đầu rắc, các
+lỗ vị trí biên của bảng mạch
+chính xác theo vị trí cơ khí
+của panel khối;
+
+~ Tần số xung nhịp làm việc
+tối thiểu 80 Mhz;
+
+- Độ nhạy sáng của thiết bị
+thu quang không nhỏ hơn -
+40 đồm (khi tín hiệu đi
+toàn bộ tuyến xử lý khi
+
+đại cao tần đầu vào);
+
+- Số lượng tần số phân tích:
+không nhỏ hơn 20 kênh tần
+số khi các phân khối thu làm
+việc đúng danh định; dải từn
+số phân tích từ 150 Mhz đến. Sản phẩm và các chỉ tiêu
+kỹ thuật chính Bắt
+đầu Thời gì: 
+thúc n thực
+" Kinh
+phí
+(triệu
+đồng) Ghí
+chú Tên để tài
+KH&CN
+
+Chủ nhiêm đề
+tài, cơ quan
+chủ trì
+
+Mục tiêu, nội dung nghiên cứu chính
+
+Sản phẩm và các chỉ tiêu
+kỹ thuật chính
+
+"Thời gian thực
+
+ 
+
+Bắt
+đầu
+
+Ghi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+quang, trong đi ốt quang bắt đầu phát xạ các
+điện tích, các điện tích này được tích luỹ
+trong ngăn lưu giữ nằm ở cả 2 hướng của
+máy thu quang, Đồng thời với quá trình tích.
+luỹ điện tích, tiến hành lấy ra các chùm điện
+tích được tích luỹ trong khoảng chu kỳ làm
+việc trước đó thông qua các bộ ghỉ dịch. Từ
+đầu ra của các bộ ghi dịch, các chùm điện
+tích đi đến mắt biển đổi điện tích để thành
+đồn và ñôyien gm bộ Khuyếth đg áo
+đầu ra của máy thu quang. Thông tin về việc
+có mặt các tín hiệu quang trên thước nhạy
+sáng được đưa ra qua tiếp điểm “VDSI”.
+*VDS2” của vi mạch DA5.
+
+Tiếp theo các tín hiệu từ đầu ra của.
+
+thu quang đi qua bộ lặp lắp trên các bán
+
+TH Và A Bác By HỆ cạ s
+vi mạch biến đổi tương tự - số (AIUT) (các
+vi mạch AD9849 của Hãng Analog
+Devices).
+
+ALIN thực hiện các thao tác sau:
+
+- Hồi phục thành phần 1 chiều của
+tín biệu đầu vào;
+
+- Cố định mức “đen” trong tín hiệu.
+đầu vào;
+
+ 
+
+T8Gbz.
+
+2. Thiết bị giá thử
+
+- Chỉ tiết cơ khí có kết cầu,
+hình đáng đảm bảo yếu tố
+thẳm mỹ, chắc chắn,
+
+~ Tạo đủ nguồn cấp cho khối
+AOII làm việc bình thường;
+- Tạo tín hiệu dãi tần từ DC
+tới không nhỏ hơn 3Ghz;
+
+ˆ suất tín hiệu điể
+cảnh được từ tối Hiện -
+40đbm đến +10 đbm;
+
+- Đo và kiểm soát được
+'bước sóng, công suất của tỉa.
+laze;
+Tên để tài
+KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì Mục tiêu, nội dung nghiên cứu chính quang, trong đi Ôt quang bắt đầu phát xạ các.
+điện tích, các điện tích này được tích luỹ
+trong ngăn lưu giữ nằm ở cả 2 hướng của
+máy thu quang, Đồng thời với quá trình tích.
+luỹ điện tích, tiến hành lấy ra các chùm điện
+tích được tích luỹ trong khoảng chu kỳ làm
+việc trước đó thông qua các bộ ghỉ dịch. Từ
+đầu ra của các bộ ghi dịch, các chùm điện
+tích đi đến mắt biến đổi điện tích để thành
+đồn và ñôyien gm bộ Khuyếth đg áo
+đầu ra của máy thu quang. Thông tin về việc
+có mặt các tín hiệu quang trên thước nhạy
+sáng được đưa ra qua tiếp điểm “VDSI”.
+*VDS2” của vi mạch DA5.
+
+Tiếp theo các tín hiệu từ đầu ra của.
+
+thu quang đi qua bộ lặp lắp trên các bán
+TH Và A Bác By HỆ cạ s
+vi mạch biến đổi tương tự - số (AIUT) (các
+vi mạch AD9849 của Hãng Analog
+Devices).
+
+ALIT thực hiện các thao tác sau:
+
+- Hồi phục thành phần 1 chiều của
+tín biệu đầu vào;
+
+- Cố định mức “đen” trong tín hiệu.
+đầu vào;
+
+- Thực hiện chức năng lựa chọn
+tương quan kép;
+
+- Khuyếch đại tín hiệu đầu vào theo.
+điện áp: 
+Sản phẩm và các chỉ tiêu
+kỹ thuật chính 18 Ghz.
+
+2. Thiết bị giá thử
+
+- Chỉ tiết cơ khí có kết cầu,
+hình đáng đảm bảo yếu tổ
+thẩm mỹ, chắc chắn,
+
+~ Tạo đủ nguồn cấp cho khối
+AOTI làm việc bình thường;
+- Tạo tín hiệu dải tần từ DC
+tới không nhỏ hơn 3Ghz;
+
+- suất tín hiệu điể
+cảnh được từ tối Hiện -
+40đbm đến +10 đbm; Thời gi:
+hi thúc 
+n thực
+š D  QN NA AAg Ghi —— Thời gian thực | Kinh
+
+'Tên đề tài mn REitmill Mucd&x dĩa hiến cứu chính | Sẩn phẩm và các chitiêu hiện phí | Ghỉ
+
+KH&CN h bí _” NGHIÊN) RỆUGRHEHDEEĐSE'CU HH ĐHỤ kỹ thuật chính Bắt | Kết | (triệu | chú
+¬ đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ Biển đổi tương tự - số tín hiệu;
+
+~ Tạo tín hiệu điều khiển máy thu
+quang.
+
+Từ đầu ra của AL], tín hiệu trong
+dạng mã 12 bít đưa đi xử lý tiếp theo trong,
+PLIC DD2.
+
+Bộ đo tham số tín hiệu trên PLIC
+thực hiện các chức năng sau:
+
+- Tạo tín hiệu điều khiển cho DA6,
+DA?;
+
+- Tạo tín hiệu điều khiển cho DA5;
+
+~ Lọc dữ liệu về phân bố các điểm.
+cực đại dọi sáng của bề mặt nhạy sáng máy
+thủ quang.
+
+~ Hiệu chuẩn máy thu quang;
+
+~ Tạo mã tần số, biên độ và độ rộng.
+phổ của tín hiệu phân tích.
+
+Bộ biến đổi tổng hợp IY-HAN lắp
+trên mảng tiêu chuẩn và được đặt cùng với
+mảng JIĐII3C trên 1 giá đỡ và đảm bảo khả
+năng quan sát tín hiệu tương tự II3C trên
+hiện sóng kiểm tra. Đồng thời cũng đảm bảo
+
+đại các tín hiệu F1, F2, FP, FR và
+truyền tiếp các tín hiệu này đến mảng
+JIĐTRC.
+*Nội dung nghiên cứu chính
+- Nghiên cứu tính năng chiến kỹ thuật của
+khối máy thu và xử lý quang âm AOII dựa.
+
+ 
+
+thấp tân được vệ sinh, sửa
+chữa đồng bộ;
+
+- Dải tần làm việc của khối
+từ 1500Mhz đến 2000 Mhz;
+
+- Độ nhạy của khối đạt tối
+thiểu -60 đbm tương đương.
+sắp sỉ -90 đb/W;
+
+- Giao tiếp với máy tính
+trong chế độ kiểm tra: Sáng.
+báo hiệu II3C màu xanh
+(thông toàn bộ tuyến truyền
+thông của FPGA và các bộ
+tạo bus);
+
+~ Các vạch phổ của tín hiệu
+SE MP TỪ MẪU IỂTT
+
+đảm bảo phân tích đủ 36 tần
+số (trong điều kiện các kênh
+tần của máy thu làm việc
+bình thường)
+“Tên để tài
+KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì ~ Biên đôi tương tự - số tín hiệu;
+
+~ Tạo tín hiệu điều khiển máy thu
+quang.
+
+Từ đầu ra của AI, tín hiệu trong
+dạng mã 12 bít đưa đi xử lý tiếp theo trong,
+PLIC DD2.
+
+Bộ đo tham số tín hiệu trên =>
+thực hiện các chức
+
+- Tạo tín hiệu điều khiển cho DÀ6,
+DA?;
+
+~ Tạo tín hiệu điều khiển cho DA5;
+
+~ Lọc dữ liệu về phân bố các điểm.
+cực đại dọi sáng của bề mặt nhạy sáng máy
+thủ quang.
+
+~ Hiệu chuẩn máy thu quang;
+
+~ Tạo mã tần số, biên độ và độ rộng.
+phổ của tín hiệu phân tích.
+
+Bộ biến đổi tổng hợp IY-HAN lắp
+trên mảng tiêu chuẩn và được đặt cùng với
+mảng JIĐII3C trên 1 giá đỡ và đảm bảo khả
+năng quan sát tín hiệu tương tự II3C trên
+hiện sóng kiểm tra. Đồng thời cũng đảm bảo
+khuyếch đại các tín hiệu F1, F2, FP, FR và
+truyền tiếp các tín hiệu này đến mảng
+JIĐTRC.
+
+*Nội dung nghiên cứu chính
+- Nghiên cứu tính năng chiến kỹ thuật của
+khếi máy thu và xử lý quang âm AOII dựa Mục tiêu, nội dung nghiên cứu chính 
+thập tân được vệ sinh, sửa.
+chữa đồng bộ;
+
+- Dải tần làm việc của khối
+từ 1500Mhz đến 2000 Mhz;
+- Độ nhạy của khối đạt tối
+thiểu -60 đbm tương đương.
+sắp sỉ -90 đb/W;
+
+(thông toàn bộ tuyến truyền
+thông của FPGA và các bộ
+tạo bus);
+
+~ Khả năng phân tích tần số:
+đảm bảo phân tích đủ 36 tần
+số (trong điều kiện các kênh
+tần của máy thu làm việc
+bình thường) Sản phẩm và các chỉ tiêu
+kỹ thuật chính Bắt
+đầu Thời gi
+r 
+n thực
+) Kinh
+phí
+(triệu
+đồng) Ghi
+chú Thời gian thực | Kinh
+
+Tên đề tài ăn An Mặc đền, nội dung nghiên cứu chính | SÃD Phẩm và các chỉtiêu hiện phí | Ghỉ
+
+KH&CN nn š n NeenA, hằng kỹ thuật chính Bắt | Kết | (triệu | chú
+đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+trên các thông tin về tài liệu mô tả của các
+Hà: phối ghép phía trước và phía sau của
+ï;
+
+- Nghiên cứu khảo sát các tham số vào, ra
+của khối AOII, chế tạo thiết bị giá thử cung,
+
+nguồn và các tín hiệu kích thích, tạo các
+tín hiệu điều khiển kích thích khối làm việc
+và đo cường đồ tín hiệu thời gian (tín hiệu
+tương tự); đo cường độ tín hiệu đạng không,
+gian (đo cường độ của tỉa laze);
+
+- Nghiên cứu ưng dụng công nghệ mới
+(công nghệ chế tạo các bộ khuếch đại cao
+tần dựa trên linh kiện GAAS và phần mềm.
+thiết kế siêu cao tần ADS), chế tạo 02 modul
+khuếch đại đệm và khuếch đại công suất
+đảm bảo tín năng tương đương với các phân
+khối nguyên bản,
+
+- Sử dụng các thiết bị phân tích chuỗi dữ
+liệu truyền thông 02 chiều, bất các gói dữ
+liệu trao đổi và nghiên cứu công nghệ xử lý.
+quang âm để tạo mới phần mềm nạp trình
+cho các vi xử lý, FPGA để chế tạo mới 02
+module điều khiển và số hóa máy thu quang,
+xử lý dữ liệu và phân tích nhanh tần số -
+biên độ - xung để gửi cho hệ thống máy
+
+- Nghiên cứu phương pháp hiệu chỉnh, đồng
+Có ãaãẽãẽãẽãẽãẽãẽãẽãẽãẽãẽẽẽ 'Tên đề tài
+KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì trên các thông tin vệ tài liệu mô tả của các
+khối phối ghép phía trước và phía sau của
+
+l
+
+- Nghiên cứu khảo sát các tham số vào, ra
+của khối AOII, chế tạo thiết bị giá thử cung,
+cấp nguồn và các tín hiệu kích thích, tạo các
+tín hiệu điều khiển kích thích khối làm việc
+và đo cường đồ tín hiệu thời gian (tín hiệu
+tương tự); đo cường độ tín hiệu đạng không,
+gian (đo cường độ của tỉa laze);
+
+~ Nghiên cứu ưng dụng công nghệ mới
+(công nghệ chế tạo các bộ khuếch đại cao
+tần dựa trên linh kiện GAAS và phần mềm.
+thiết kế siêu cao tần ADS), chế tạo 02 modul
+khuếch đại đệm và khuếch đại công suất
+đảm bảo tín năng tương đương với các phân
+khối nguyên bản,
+
+- Sử dụng các thiết bị phân tích chuỗi dữ
+liệu truyền thông 02 chiều, bất các gói dữ
+liệu trao đổi và nghiên cứu công nghệ xử lý
+quang âm để tạo mới phần mềm nạp trình
+cho các vi xử lý, FPGA để chế tạo mới 02
+module điều khiển và số hóa máy thu quang,
+xử lý dữ liệu và phân tích nhanh tần số -
+1 độ - xung để gửi cho hệ thống máy
+
+~ Nghiên cứu phương pháp hiệu chỉnh, đồng 
+Mục tiêu, nội dung nghiên cứu chính Sản phẩm và các chỉ tiêu
+kỹ thuật chính đầu Thời gi: 
+thúc n thực
+¬ phí
+(triệu
+(ua 

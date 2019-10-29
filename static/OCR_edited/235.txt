@@ -1,0 +1,88 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIÊN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:23 /VCNTT-HTTĐL Hà Nội, ngày 12tháng Ÿ năm 2016
+
+'V/v làm rõ các nội dung về tính năng kỹ
+thuật của Hệ thống mô phỏng tích hợp
+
+Kính gửi: Lữ đoàn 681/Vùng 2 Hải Quân.
+
+Căn cứ nội dung yêu cầu thực hiện và chất lượng của sản phẩm trong thuyết
+mình Nhiệm vụ KHCN cấp Viện KHCNQS “Nghiên cứu thiết kế xây dựng hệ
+thống mô phỏng tích hợp phục vụ huấn luyện diễn tập cấp Lữ đoàn dựa trên các hệ
+thống mô phỏng huắn luyện bắn tổ hợp tên lửa bờ Bastion và kíp chiến đấu tổ hợp
+radar Monolit-B”;
+
+Căn cứ công văn số 860/LĐ-KT ngày 28/6/2016 của Lữ đoàn 681 về việc
+đóng góp ý kiến cho tính năng kỹ thuật sản phẩm đề tài;
+
+Viện Công nghệ thông tin xin chân thành cảm ơn những ý kiến đóng góp
+thiết thực của Lữ đoàn nhằm nâng cao chất lượng của Hệ thống mô phỏng tích hợp
+đã triển khai thử nghiệm tại Lữ đoàn. Liên quan đến các nội dung cần làm rõ, Viện
+xin được trả lời lần lượt theo thứ tự trong Công văn như sau:
+
+1. Chỉ tiêu kỹ thuật đối với phân hệ diễn tập Sở chỉ huy: Phương pháp bổ
+sung các lớp dữ liệu, khả năng bỗ sung tối đa được bao nhiêu lớp so với số lượng
+hiện tại. -
+
+Với phân hệ diễn tập Sở chỉ huy là phân hệ do Viện thiết kế, xây dựng từ
+đầu nên hoàn toàn làm chủ được các vẫn F liên quan đến công nghệ, kỹ thuật và
+khả năng mở rộng của hệ thống. Về bản đồ, Lữ đoàn có thể bổ sung tùy ý các lớp
+bản đồ theo định đạng Maplnfo. Hiện tại Viện đã cung cấp các lớp bản đồ cơ bản
+nhất để đảm bảo tính đầy đủ thông tin cũng như tốc độ xử lý của phần mềm. Về
+phương pháp bổ sung, Viện có trách nhiệm huắn luyện cán bộ Lữ đoàn trong việc
+bổ sung các lớp bản đồ vào phân hệ này trong thời gian tới.
+
+2. Liên quan đến đề nghị của Lữ đoàn về việc Bản đồ phải thể hiện được tọa.
+độ các đối tượng của Tổ hợp (xe Ra đa, xe Bệ phóng, xe MBU, xe TZM) trên đảo.
+và đất liên.
+
+Như đã đề cập ở phần I, phân hệ diễn tập Sở chỉ huy là sản phẩm do Viện
+thiết kế, xây dựng nên các bài toán liên quan đến Bản đồ và đối tượng hiển thị trên
+bản đồ Viện hoàn toàn có thể đáp ứng được. Vì vậy yêu cầu của Lữ đoàn sẽ giải
+quyết khi bổ sung thêm lớp bản đô về các đảo hiện theo dữ liệu hiện có của Viện.
+
+Liên quan đến hệ thống Bản đồ trên các hệ thống mô phỏng KOS-KT và
+UTK của Nga đang triển khai tại Lữ đoàn, Viện có ý kiến như sau: Ộ
+
+~ Với hệ thông mô phỏng UTK: viện đã làm chủ hoàn toàn hệ thống Bản đồ
+và thực tế đã tiến hành nâng cấp từ bản đô địa hình Nga thành bản đồ địa hình của
+Việt nam. Việc bổ sung, thay đôi các lớp bản đồ trên hệ thống này hoàn toàn có thể
+thực hiện được theo yêu cầu của Lữ đoàn.
+
+~ Với hệ thống KOS-KT: Việc can thiệp vào hệ thống mô phỏng gốc hiện tại
+Viện đã và đang thực hiện theo đúng yêu cầu của BTL Hải quân tại công văn số10174/BTL-KT về việc đảm bảo an toàn cho phần mềm và chương trình cài đặt bản
+đỏ số trong hệ thống mô phỏng. Để đảm bảo tính tương thích và ôn định của hệ
+thống, Viện cần tiến hành nghiên cứu giải pháp và thử nghiệm độ ồn định của hệ
+thống. Viện sẽ sớm thông báo cho lữ đoàn ngay sau khi có kết quả.
+
+3. Kịch bản nghiệm thu: làm rõ việc có thẻ hoạt động độc lập hai phân hệ
+KOS-KT và UTK mà không cần vận hành phân hệ Sở chỉ huy?
+
+Trong chế độ hiệp đồng, phân hệ Sở chỉ huy chỉ giữ vai trò giám sát quá
+trình huấn luyện từ đó đưa ra kết quả đánh giá quá trình huần luyện của các Đội,
+Trạm. Trong chế độ này phân hệ KOS-KT và UTK chỉ thực hiện chức năng truyền
+thông tin đảm bảo đồng bộ giữa hai phân hệ trong quá trình huần luyện. Vì vậy,
+nếu thông tin kết quả huấn luyện là không cần thiết với Lữ đoàn, Viện sẽ loại bỏ
+phân hệ diễn tập Sở chỉ huy trong chẻ độ hiệp đồng.
+
+Trên đây là một số vấn đề làm rồ của Viện liên quan đến tính năng kỹ thuật
+của Hệ thống mô phỏng tích hợp. Một lần nữa Viện Công nghệ thông tin xin chân
+thành cảm ơn Lãnh đạo Lữ đoàn, các cán bộ chỉ huy tại các Đội, Trạm đã phối hợp
+chặt trẽ với Viện trong thời gian qua. Viện rất mong tiếp tục nhận được các ý k
+góp ý đề hoàn thiện sản phẩm và sớm đưa vào sử dụng phục vụ công tác huấn
+luyện, diễn tập tại Lữ đoàn./,n⁄2
+
+  
+ 
+
+ 
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, p.HTTĐL: S03.
+
+   
+
+tá Đỗ Việt Bình

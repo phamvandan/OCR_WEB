@@ -1,0 +1,220 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CỘNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 5l /VCNTT-KH Hà Nội, ngàyoBtháng 02 năm 2018
+
+V/v đề nghị bảo vệ luận án cắp Viện.
+
+Kính gửi:
+- Giám đốc Viện KH-CN quân sự;
+- Phòng Đào tạo/Viện KH-CN quân sự.
+
+Nghiên cứu sinh Phạm Văn Nhã được công nhận là nghiên cứu sinh hình
+thức đào tạo không tập trung theo quyết định số 590/QĐÐ-VKHCNGS ngày 30
+tháng 5 năm 2014 của Giám đốc Viện KH-CN quân sự, được gia hạn đến ngày
+23/01/2018 theo Quyết định số 1095/QĐ-VKHCNQS ngày 21/7/2017 của Giám
+đốc Viện KHCNG®S về việc gia hạn học tập cho nghiên cứu sinh.
+
+Sau thời gian học tập và thực hiện đề tài nghiên cứu, đến nay nghiên cứu
+sinh đã hoàn thành luận án về đề tài: “Nghiên cứu một số thuật toán Đẳng phân
+cụm mờ cải tiến trong xử lý dữ liệu ảnh”.
+
+Thuộc chuyên ngành: Cơ sở toán học cho tin học.
+
+Mã số: 6246 01 10.
+
+Đơn vị chuyên môn đã tổ chức đánh giá luận án ở Hội đồng Khoa học
+chuyên ngành và nhận định luận án đã đạt được các kết quả chính như sau:
+
+1. Luận án “Nghiên cứu một số thuật toán Đẳng phân cụm mờ cải tiến
+trong xử lý đữ liệu ảnh” của nghiên cứu sinh Phạm Văn Nhã không trùng lặp
+các với công trình, luận án đã công bố trong và ngoài nước. Luận án có hàm
+lượng khoa học và ý nghĩa thực tiễn.
+
+2. Các đóng góp mới của luận án:
+
+> Đề xuất thuật toán Đồng phân cụm mờ giá trị khoảng IVFCoC.
+> Đề xuất mô hình Đồng phân cụm mờ lai ghép MHFCoC.
+> Đề xuất phương pháp đánh giá xu hướng cụm mới SACT và thuật toán
+
+Đồng phân cụm mờ giảm chiều FRECoC.
+
+3. Nội dung và hình thức luận án của nghiên cứu sinh Phạm Văn Nhã đáp
+ứng yêu cầu của một luận án tiến sĩ chuyên ngành Cơ sở toán học cho tin học
+theo quy định của Bộ Giáo dục và Đào tạo.Căn cứ kết quả đào tạo và đối chiếu với yêu cầu chất lượng luận án tiến sĩ,
+Viện Công nghệ thông tin đề nghị Giám đốc Viện KH-CN quân sự cho phép
+nghiên cứu sinh Phạm Văn Nhã được bảo vệ luận án trước Hội đồng đánh giá
+
+luận án cấp Viện. (ÑÑ@
+
+   
+ 
+
+„ nhận: KT.VIỆN TRƯỞNG
+- Như trên; b
+~ Lưu: VỊ, KH; Ð04. _ VAN TRƯỜNG
+
+lá Đặng Thanh Quyền'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do — Hạnh phúc
+
+Hà Nội, ngày 0Ö tháng O2 năm 2018
+
+GIỚI THIỆU DANH SÁCH
+HỘI ĐÔNG ĐÁNH GIÁ LUẬN ÁN TIỀN SĨ CÁP VIỆN
+
+Cho luận án của nghiên cứu sinh: Phạm Văn Nhã
+
+Tên luận án: “Nghiên cứu một số thuật toán Đằng phân cụm mờ cải tiến
+trong xử lý dữ liệu ảnh ".
+
+Chuyên ngành: Cơ sở toán học cho tin học
+
+Mã số: 62.46.01.10
+
+Người hướng dẫn: I.PGS.TS Ngô Thành Long
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.TS Nguyễn Đức Thảo
+TRÁCH
+CHUYÊN | ĐƠNVỊICÔNGTÁC | NHIỆM
+TT HỌ VÀ TÊN NGÀNG Số điện thoại TƯỜNG
+ĐÔNG.
+¡, | 6S. TSKH. Phạm Thể Toán học Học viện KTQS Hy tịch
+„| TS. Thái Trung Kiên Cơsởtoánhọc |  ViệnKH&CNQS Thư ký
+cho tin học Hội đồng
+ạ |GS.TS.NguyễnThanh  |Cơsởtoánhọc| Đạihọc QuốcgiaHà | Phảnbiện
+* | Thủy cho tin học. Nội 1
+¿ |PQS.TS.Nguyễn Đức |Cơsởtoánhọe| ViệnHLKHCNVN | Phảnbiện
+' | Dũng cho tin học. 2
+s |TSNguyễnChiThàh |Cơsởtoánhọc| ViệnKH&CNQS [Phánbiện
+l ” cho tin học. ” 3
+PGS. TS. Nguyễn Thị |Cơ sở toán học | Đại học Quốc gia Hà Ủy vùi
+ố- Í Hồng Minh _. cho tin học Nội My
+PGS, TS. Nguyễn Long 'Viện HLKHCNVN MÔ,
+1. | Giang j..g Ủy viên
+TS. Trần Đăng Công ÍCơ sở toán học | Học viện Khoa học quân Ủy viên
+8. cho tin học sự yw
+TS. Trân Đăng Công PGS, TS. Nguyễn Long
+Giang PGS. TS. Nguyên Thị
+Hồng Minh TS. Nguyễn Chí Thành 
+PGS, TS. Nguyễn Đức
+Dũng GS. TS. Nguyễn Thanh
+Thủy TS. Thái Trung Kiên ÊN KH-CN QUÂN SỰ
+ÔNG NGHỆ THÔNG TIN
+
+GI
+HỘI ĐÔNG ĐÁ!
+
+Cho luận án của nghiêi
+Tên luận án: “Nghiên.
+ng xử lý dữ liệu ảnh °.
+Chuyên ngành: Cơ sở
+Mã số: 62.46.01.10
+Người hướng dẫn: I.P'
+2. 
+'GS. TSKH. Phạm Thể
+Long HỌ VÀ TÊN Cơ sở toán học.
+cho tin học Cơ sở toán học
+cho tin học 
+Cơ sở toán học.
+cho tỉn học Cơ sở toán học.
+cho tin học Cơ sở toán học CỘNG Hè
+1
+
+Hà.
+
+ỞI THIỆU DAN
+H GIÁ LUẬN /
+
+cứu sinh: Phạt
+'ứu một số thu¿
+
+oán học cho tin
+
+3S.TS Ngô Th:
+Nguyễn Đức 7 
+Cơ sở toán học.
+cho tin học Toán học CHUYÊN
+NGÀNH Khoa học quân
+Học viện mh 
+'Viện HL.KHCNVN lộc gia Hà
+ưng `: Viện KH&CNQS Viện HL KHCN VN 
+Đại học Quốc gia Hà
+Nội A XÃ HỌI CHỦ NGHĨA
+ộc lập - Tự do — Hạnh pl
+
+lội, ngày 0Ötháng O2 năm
+
+H SÁCH
+N TIỀN SĨ CÁP VIỆN
+
+ 
+
+ì Văn Nhã
+t toán Đồng phân cụm n
+
+học.
+
+nh Long 'Viện KH&CNQS Học viện KTQS 
+'ĐƠN VỊCÔNG TÁC
+Số điện thoại Ủy viên Ủy viên Ủy viên 
+Phản biện
+3 Phản biện Phản biện
+1 VIỆT NAI
+úc
+
+2018
+
+ờ cải tiến 
+TRÁCH
+NHIỆM
+TRONG
+HỘI
+ĐÔNG KT.VIỆN TRƯỞNG
+TS. Nguyễn Doãn Cường TS. Vũ Ba Đình PGS. TS. Ngô Quốc tạo. PGS. TS. Huỳnh Thanh
+Bình 
+PGS.TS Nguyễn Cát Hô PGS. TS. Phạm Thanh
+Giang PGS. TS. Nguyễn Ngọc
+Hóa Cơ sở toán học
+cho tin học 
+Cơ sở toán học
+cho tin học Cơ sở toán học.
+cho tin học Cơ sở toán học
+cho tin học Cơ sở toán học
+cho tin học 
+Cơ sở toán học
+cho tin học Cơ sở toán học
+cho tin học 'Viện KH&CNQS 'Viện KH&CNQS 
+'Viện HLKHCNVN Đại học Bách khoa Hà
+Nị Viện H,KHCNVN 'Viện HLKHCNVN 
+Đại học Công nghệ, ĐH
+QGHN Ủy viên Ủy viên Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 
+Ủy viên 

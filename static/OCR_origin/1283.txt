@@ -1,0 +1,89 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập ~ Tự do - Hạnh phúc
+Số: 223/VCNTT-KH Hà Nội, ngày O*4 tháng 6 năm 2018
+'V/w góp ý kiến vào dự thảo Kế hoạch tổ
+
+chức Hội thi QB-TS toàn quân năm 2018
+Kính gửi: Giám đốc Viện KH-CN quân sự.
+
+Căn cứ công văn số 1674/TCI-C71 ngày 24 tháng 5 năm 2018 của Tổng Cục
+1I/Bộ Quốc phòng về việc đóng góp ý kiến vào dự thảo Kế hoạch tổ chức Hội thị
+QB-TS toàn quân năm 2018;
+Căn cứ kinh nghiệm triển khai các hệ thống đảm bảo công nghệ thông tin
+phục vụ các hội thi bắn súng quân dụng trong thời gian qua,
+Viện Công nghệ thông tin đề xuất một số ý kiến đóng góp với dự thảo Kế
+hoạch tổ chức Hội thi QB-TS toàn quân năm 2018 như sau:
+1. Triển khai hệ thống camera giám sát tại các vị trí
+a. Thiết bị đảm bảo
+-_01 Camera tốc độ cao tại nóc khán đài: phục vụ cho buổi khai mạc trình tr
+chiếu toàn cảnh duyệt đội ngũ và diễn biến buổi khai mạc. Hình ảnh từ Camera $ ^
+phóng lên màn chiếu lớn tại khu vực khán đài. Trong thời gian diễn ra Hội +
+Camera này sẽ thực hiện bao quát toàn cảnh các khu vực trường bắn.
+
+ 
+
+-_01 Camera tại vị trí mỗi dải bắn phục vụ giám sát xạ thủ trong quá trì vx
+thực hiện bài bắn. Thông tin từ camera sẽ được lưu trữ trên máy chủ phục vụ tra
+cứu hình ảnh khi có thắc mắc, khiếu kiện.
+
+~_01 bộ máy chủ tốc độ cao, dung lượng lưu trữ lớn để lưu trữ toàn bộ dữ
+liệu của các camera trên.
+
+-_01 máy tính phục vụ cho tổ kỹ thuật điều hành Camera
+
+b. Giải pháp dự kiến
+
+Do Viện không được trang bị các hệ thống Camera nên để đảm bảo triển
+khai hệ thống camera giám sát, Viện đề xuất giải pháp thuê thiết bị từ các nhà
+cung cấp trong nước, giải pháp đường truyền do Bộ Tư lệnh thông tỉn liên lạc đảm
+nhiệm. Việc thiết kế chỉ tiết và xây dựng dự toán thiết bị Viện sẽ thực hiện sau khi
+được giao nhiệm vụ từ cấp trên.
+
+2. Triển khai hệ thống phần mềm tính thành tích
+
+Qua các đợt triển khai tại các giải bắn súng gần đây, Viện đề xuất giải pháp
+xây dựng hệ thống phần mềm như sau:
+a. Xây dựng phần mềm và các thiết bị đảm bảo* Phân mềm tính thành tích và tra cứu kết quả
+
+~- Phần mềm tính thành tích: Thực hiện cập nhật thông tin kết quả bắn từ
+phiếu điểm của tổ trọng tài.
+
+~ Phần mềm tra cứu, hiển thị kết quả: tra cứu thông tin kết quả và xếp hạng
+cá nhân và toàn đoàn ngay sau khi cập nhật thông tin từ phiếu điểm. Thông tin
+hiển thị trên màn hình Tivi tại từng dải bắn
+
+* Thiết bị đâm bảo
+
+Để đảm bảo cập nhật và tra cứu thông tin, các thiết bị cần phải đảm bảo:
+
+~ 1-2 máy tính xách tay phục vụ cập nhật phiếu điểm từ tổ trọng tài.
+
+~ 01 máy tính + 01 màn hình Tivi lớn phục vụ tra cứu, hiển thị kết quả xếp
+hạng cá nhân/toàn đoàn trực tuyến tại khu vực chuẩn bị của mỗi dải bắn.
+
+b. Giải pháp dự kiến
+
+Sau khi được giao nhiệm vụ, Viện sẽ xây dựng kế hoạch phối hợp và triển
+khai lực lượng tham gia khảo sát, thiết kế và xây dựng các phần mềm tính thành
+tích và tra cứu hiển thị kết quả đảm bảo đúng tiến độ thời gian và chất lượng.
+
+Dự toán chỉ phí thiết bị cập nhật, tra cứu và chỉ phí xây dựng các phần mềm
+Viện sẽ thực hiện sau khi được giao nhiệm vụ từ cấp trên.
+
+Trên đây là một số góp ý và đề xuất của Viện Công nghệ thông tin với bản dự
+thảo Kế hoạch tổ chức Hội thi QB-TS toàn quân năm 2018. Viện Công nghệ thông
+tin nằm trong đội hình của Viện KHCNQS sẵn sàng nhận và hoàn thành các nhiệm
+vụ cấp trên giao trong việc hỗ trợ Hội thi QB-TS trong thời gian tới./.q# —
+
+4À
+
+Nơi nhận: N TRƯỞNG Ệ Ề
+
+  
+
+~ Như trên;
+~ Văn phòng(để tổng hợp báo cáo);
+- Lưu: VT, KH; H04.
+
+Trung tá Đỗ Việt Bình

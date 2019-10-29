@@ -1,0 +1,524 @@
+VIỆN KH -CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 470/BC-VCNTT Hà Nội, ngày 30 tháng 10 năm 2018
+BÁO CÁO
+
+KẾT QUẢ CÔNG TÁC KỸ THUẬT NĂM 2018
+
+- PHÀN I cS
+KÉẾT QUẢ THỰC HIỆN CÔNG TÁC KỸ THUẬT
+
+Căn cứ theo Quyết định số 169/QĐ-VKHCNQS ngày 05/02/2018 của
+Giám đốc Viện KHCNQS về việc giao nhiệm vụ thực hiện kế hoạch, chỉ tiêu
+sản lượng, ngân sách Kỹ thuật 2018,
+
+'Viện Công nghệ thông tin đã triển khai toàn diện các mặt công tác kỹ thuật,
+trong năm đạt những kết quả cụ thể sau:
+
+1. Công tác đảm bảo trang bị:
+
+Căn cứ nhiệm vụ, chỉ tiêu ngân sách 2018, Viện Công nghệ thông tin đã
+xây dựng kế hoạch, tổ chức thực hiện dự toán mua sắm trang thiết bị 2018 và
+đang trong quá trình nghiệm thu.
+
+II. Công tác bảo đảm kỹ thuật:
+
+1. Công tác bảo quản, bảo dưỡng VKTBKT
+
+- Các trang thiết bị đã kiểm tra, tổ chức bảo quản, bảo dưỡng theo đúng quy
+định.
+
+- Các trang thiết bị bảo đảm hoạt động tốt.
+
+2. Công tác sửa chữa VKTBKT
+
+- Đơn vị đã phải tiến hành sửa chữa một số thiết bị như sau:
+S/c máy phát tin hiệu đa năng GS479. Se bộ Spartan-3 SP305 Xinlinx S/e bộ biên đôi tân sô SINEI3T S/c bộ tạo tín hiệu HP8904A. 
+S/c bộ đêm xung HC - F1000L, 3/e bộ tạo mầu 40 kênh ra 16522A. Síc máy hàn IC IR500A. S/e máy phân tích luông SUNSETE 10 
+Síc máy hiện sóng DL-9140. S/e máy hiện sóng TDS1002B. S/c máy đêm tân số HP5384A. TÊN TRANG BỊ 
+cái cái cái cái 
+ĐVT Sản 30 50 
+40 3 15 2 
+30 10 2 ngân sách
+(triệu đồng) 
+Tháng 5 Tháng 5 Tháng 4 Tháng 4 
+Tháng 3 Quý4 Quý 4 Tháng 3 
+Quý4 Quý 4 Thời gian
+thực hiện Thời gian
+thực hiện - BĐKT kho tàng: Không có
+
+- BĐKT trạm xưởng: Không có
+
+- Số lượng Tiêu chuẩn cơ sở, Tiêu chuẩn ngành (TQSA, TQSB) đã xây
+dựng trong năm : Không có
+
+- Tên, số lượng trang bị phương tiện đo, phương tiện thí nghiệm đã kiểm
+định: Không có.
+
+IH. Công tác Huấn luyện kỹ thuật
+
+- Huấn luyện nghiệp vụ công tác kỹ thuật: Viện Công nghệ thông tin đảm
+bảo quân số tham gia lớp tập huấn hướng dẫn sử dụng CSDL & Phần mềm quản
+lý trang thiết bị công nghệ thông tin do Phòng Kỹ thuật tổ chức.
+
+- Hội thi, hội thao kỹ thuật: Không có
+
+- Bồi dưỡng và thi nâng bậc thợ, giữ bậc thợ: 2 đ/c lái xe thi nâng bậc thợ
+theo kế hoạch của Viện KHCNQS và đạt kết quả từ loại khá trở lên.
+
+IV. Công tác Quản lý kỹ thuật và xây dựng ngành
+
+~ Thường xuyên thực hiện tốt công tác kiểm tra chất lượng VKTBKT.
+
+- Công tác xây dựng kế hoạch BĐKT, TC - ĐL ~CL năm 2018 đúng quy
+định.
+
+- Đã kiểm kê thời điểm 0h ngày 01/01/2018
+
+- Đang tiến hành cập nhật phần mềm quản lý Trang thiết bị theo quy định.
+
+V. Công tác Thanh tra KTAT, VSLĐ và BHLĐ ( có phụ lục kèm theo)
+
+- Công tác KTAT, VSLĐ, BHLĐ: Thực hiện thường xuyên
+
+~ Kiểm định kỹ thuật an toàn, các phương tiện có yêu cầu nghiêm ngặt về
+ATLĐ: thực hiện thường xuyên.
+
+'VI. Công tác KHCNMT và hoạt động Thông tin KHKTQS
+
+- Đơn vị thực hiện theo kế hoạch 2018. Viện đã và đang triển khai 29 đề tài
+nhiệm vụ KHCN các cấp phối hợp với tạp chí KHCNQS tổ chức xuất bản 01
+chuyên san của Viện Công nghệ thông tin.
+
+'VII. Thực hiện Cuộc vận động 50
+
+1. Công tác tuyên truyền, giáo dục, chỉ đạo, tỗ chức thực hiện
+
+- Hoạt động của Ban chỉ đạo CVĐ 50 Viện Công nghệ thông tin đối với các
+Phòng, Ban được tổ chức thông qua Hội nghị triển khai kế hoạch năm. Các
+Phòng, Ban triển khai, quán triệt và tổ chức thực hiện đến từng thành viên được
+thực hiện thường xuyên hàng ngày.
+13 Nâng cấp, đông bộ máy chủ IBM X3500 Nâng cấp, đồng bộ máy chủ IBM 3800. Sc thiết bị tách dữ liệu Black box RS232 
+cái cái cái 10 
+15 15 40 Quý 4 
+Quý 4 - Các Trưởng Phòng, Ban chịu trách nhiệm chính trong thực hiện các nội
+dung của cuộc vận động của Phòng, Ban mình và liên hệ giúp các Phòng, Ban
+khác theo tính chất công việc.
+
+- Các hoạt động hưởng ứng tuần lễ quốc gia về An toàn — Vệ sinh lao động
+— Phòng chống cháy nổ: Tốt, 100% Cán bộ, nhân viên luôn có ý thức tự giác
+tham gia tốt.
+
+-_ Do tính chất công việc, thực hiện nhiều mảng nhiệm vụ khác nhau, Viện
+Công nghệ thông tin không tổ chức các lớp tập huấn, huấn luyện, truyền thông,
+về quản lý, khai thác vũ khí, thiết bị, khí tài tốt, bền, an toàn, tiết kiệm và
+ATGT, nhưng 100% cán bộ, nhân viên đều được quán triệt các nội dung trên
+qua công việc chuyên môn hàng ngày.
+
+~ Đơn vị đã thường xuyên quán triệt qua giao viên tuần về Luật Giao thông,
+đường bộ, quán triệt, các văn bản, chỉ thị của cấp trên về công tác an toàn giao
+thông cho cán bộ, nhân viên trong toàn Viện; Giáo dục nâng cao ý thức, trách
+nhiệm cho đội ngũ lái xe... Kết quả: 100% cán bộ, nhân viên khi tham gia giao
+thông bằng phương tiện xe máy đảm bảo đầy đủ đăng ký xe, giấy phép lái xe,
+bảo hiểm xe mô tô, mũ bảo hiểm, không có trường hợp nào vi phạm phải xử lý.
+
+2. Kết quả thực hiện 4 mục tiêu
+
+Đơn vị không có biên chế vũ khí, khí tài quân sự; Thiết bị chủ yếu thuộc
+lĩnh vực Công nghệ thông nên cách quản lý và khai thác có đặc thù riêng.
+
+* Quản lý tốt: Các thiết bị, phương tiện được bàn giao cụ thể đến phòng
+làm việc, giao cho cá nhân phụ trách, có lý lịch, biển tên, được theo dõi đồng bộ
+về tài chính (công cụ dụng cụ, tài sản) và hành chính (trang bị). Thiết bị sử dụng
+hàng ngày nên việc, kiểm tra thuận lợi và quản lý tốt.
+
+* Khai thác tốt, bÊn:
+
+- Trang thiết bị kỹ thuật tại đơn vị được chia làm hai mảng, theo xuất xứ
+nguồn gốc: Mua sắm, được cấp theo ngân sách và mua sắm theo vốn tự đảm bảo
+của đơn vị, nhưng cách quản lý, khai thác đều phát huy tốt hiệu quả, công tác
+bảo quản, bảo dưỡng, sửa chữa thường xuyên, kịp thời, đảm bảo sự vận hành, sử
+dụng.
+
+- Đối với từng thiết bị đều có hướng dẫn cụ thể, tỉ mỉ cho nhân viên sử
+dụng thành thạo, đặc biệt là thiết bị mới
+
+* Bảo đảm an toàn:
+
+~ An toàn trong quản lý, khai thác VKTBKT: Chấp hành nghiêm các biện
+pháp bảo đảm an toàn kỹ thuật trong sử dụng thiết bị cho nghiên cứu, kỹ thuật
+viên. Không có trường hợp nào sai sót, mất an toàn xảy ra.
+
+- Thực hiện tốt các quy định về Bảo hộ lao động, BHYT và BHXH cho.
+toàn đơn vị.
+
+ 
+
+ 
+
+ 
+
+ 
+
+x96- An toàn giao thông: 100% cán bộ, nhân viên chấp hành nghiêm Luật
+GTĐB, không xảy ra tai nạn giao thông.
+
+- Số vụ mắt an toàn: Không.
+
+* Thực hiện tiết kiệm:
+
+- Trong quá trình quản lý, khai thác VKTBKT: Trên cơ sở thực hiện các
+biện pháp bảo đảm an toàn kỹ thuật, kéo dài tuổi thọ trong sử dụng thiết bị đã
+triệt để để tiết kiệm được chỉ phí điện.
+
+- Các nguồn lực khác đều được sử dụng hợp lý, tiết kiệm có hiệu quả
+
+- Các hoạt động Tài chính được thực hiện đúng pháp luật, chế độ, chính
+sách và những quy định về Tài chính trong Quân đội.
+
+- Những khoản tiết kiệm chỉ phí đều được đưa vào tái đầu tư: Sửa chữa,
+bảo hành, bảo trì, cải tiến, ứng dụng, bổ sung các trang thiết bị cho công tác
+nghiên cứu, điều trị.
+
+'VIII. Công tác Tiêu chuẩn — Đo lường — Chất lượng và CNTT
+
+- Thực hiện tốt ngày kỹ thuật (được ấn định vào ngày thứ 6 hàng tuần) theo
+quy định của Viện KH-CN Quân sự .
+
+- Hệ thống công nghệ thông tin đảm bảo hoạt động tốt. Đáp ứng cho cả
+khai thác và quản trị.
+
+ 
+
+ 
+
+ĐÁNH GIÁ CHUNG
+Trong năm 2018, Công tác kỹ thuật của đơn vị đã thực hiện chỉ tiêu nhiệm
+vụ đến tháng 10 đạt được 90% kế hoạch năm.
+
+PHÀN HI
+PHƯƠNG HƯỚNG NHIỆM VỤ CÔNG TÁC KỸ THUẬT NĂM 2019
+
+1. PHƯƠNG HƯỚNG, MỤC 'TIÊU CHUNG
+
+- Cấp ủy, chỉ huy đơn vị tiếp tục quán triệt và thực hiện nghiêm túc các
+nghị quyết, chỉ thị, hướng dẫn về công tác Kỹ thuật. Xây dựng, bổ sung, củng có
+đầy đủ hệ thống văn kiện liên quan đến công tác kỹ thuật.
+
+- Triển khai thực hiện có hiệu quả Cuộc vận động “Quản lý, khai thác
+'VKTBKT tốt, bền, an toàn tiết kiệm và an toàn giao thông”. Bảo đảm tốt công,
+tác kỹ thuật phục vụ cho thực hiện nhiệm vụ thường xuyên và đột xuất.
+
+- Tổ chức thực hiện có chất lượng kế hoạch công tác kỹ thuật định kỳ, đột
+xuất, duy trì tốt hệ số trang bị, hệ số kỹ thuật theo quy định, tổ chức tốt công tác
+huấn luyện kỹ thuật cho mọi đối tượng. Không để mắt an toàn trong huấn luyện
+và thực hiện các nhiệm vụ, không để xảy ra các vụ việc nghiêm trọng và tai nạn
+giao thông, không vi phạm tỷ lệ vi phạm kỷ thuật thông thường.
+
+xẻ.1I. CÁC NHIỆM VỤ CỤ THẺ:
+
+1. Công tác Bảo đảm trang bị:
+
+- Đẩy mạnh nghiên cứu khoa học, phát huy sáng kiến cải tiến kỹ thuật vào
+thực tiễn hoạt động của các ngành. Đảm bảo trang bị theo nhiệm vụ và kinh phí
+do cấp trên giao.
+
+- Hoàn thành mua sắm và nâng cáp các thiết bị bằng nguồn ngân sách, tự
+có, đầu tư trở lại của đơn vị.
+
+2. Công tác Bảo đảm kỹ thuật:
+
+- Thực hiện tốt các quy định của ngành TC - ĐL — CL trong Quân đội.
+“Thực hiện tốt ngày kỹ thuật theo quy định của Viện KH-CN Quân sự.
+
+- Thực hiện 100% ngân sách ĐBKT của công tác bảo quản, bảo dưỡng
+VKTBKT.
+
+3. Công tác Huấn luyện kỹ thuật:
+
+~ Thực hiện theo kế hoạch, chương trình của đơn vị và Viện KH-CN Quân
+sự.
+
+ 
+
+4. Công tác Quản lý kỹ thuật và xây dựng ngành:
+~ Tổ chức quản lý trang thiết bị chặt chẽ rõ ràng và đưa vào phục vụ công,
+tác nghiên cứu hợp lý.
+
+- Từng bước hoàn thiện các chỉ tiêu kỹ thuật theo quy định.
+
+5. Công tác Thanh tra KTAT và BHLĐ:
+
+~ Thực hiện tốt quy định bảo đảm an toàn VKTBKT, thực hiện công tác
+ngày kỹ thuật kiểm tra, thanh tra an toàn theo quy định.
+
+6. Thực hiện CVĐS50
+
+- Tiếp tục phát huy truyền thống “chủ động, sáng tạo, tự lực tự cường”,
+ngành Kỹ thuật quân đội; tiếp tục đẩy mạnh thực hiện Cuộc vận động “Quản lý,
+khai thác VKTBKT tốt, bền, an toàn, tiết kiệm và An toàn giao thông” bằng
+nhiều hình thức phong phú, gắn với thực hiện tốt Cuộc vận động “Phát huy
+truyền thống, cống hiến tài năng, xứng danh Bộ đội Cụ Hồ” và các phong trào
+thi đua khác,... góp phần nâng cao chất lượng, hiệu quả CTKT. Cụ thể:
+
+~ Thường xuyên thực hiện tốt công tác tuyên truyền, giáo dục, chỉ đạo, tổ
+chức thực hiện cuộc vận động; 100% Cán bộ, nhân viên trong đơn vị nắm chắc,
+hiểu rõ và thực hiện tốt mục tiêu, nội dung cuộc vận động.
+
+- Thực hiện: Quản lý tốt; khai thác tốt, bền; an toàn, tiết kiệm; tuyệt đối an
+toàn trong sử dụng thiết bị; tuyệt đối an toàn khi tham gia giao thông; không có
+trang thiết bị mất mát; không có trang thiết bị không sử dụng được. Không có
+thiết bị không được kiểm tra, bảo dưỡng định kỳ; đã sử dụng thiết bị thì phải
+mang lại hiệu quả cao nhất, không hoạt động cầm chừng; triệt để tiết kiệm: Chỉ
+phí tiêu hao, nhiên nguyên vật liệu, điện, nước.7. Công tác TC - ĐL ~ CL và CNTT
+
+- Thực hiện tốt ngày kỹ thuật theo quy định của Viện KH - CN Quân sự.
+
+8. Hoạt động KHCNMT và Thông tin KHKTQS
+
+- Đảm bảo tiến độ thực hiện đề tài nhiệm vụ khoa học công nghệ phối hợp
+tạp chí thực hiện chuyên san 2019.
+
+9. Kiến nghị và đề xuất
+
+- Đề nghị hỗ trợ Viện Công nghệ thông tin thanh lý trang thiết bị trong năm
+
+2019. np -
+
+Nơi nhận:
+~ Phòng Kỹ thuật;
+~ Lưu: VT, KH; N03.
+
+ 
+
+"ƒr..^¬~-- `„ PHỤ LỤC
+Kèm theo công văn sô: 470 /BC-VCNTT ngày 30 tháng 10 năm 2018
+BÁO CÁO.
+Công tác an toàn, vệ sinh lao động năm 2018
+
+\9)( Z4 @/#+/
+CHỈ TIÊU VÈ AT, VSLĐ TRONG KỲ BÁO CÁO Tai nạn lao động,
+
+~ Tổng số vụ tai nạn lao động trong đó:
+
++ Số vụ có người chết
+
+- Tổng số người bị tai nạn trong đó ( cấp cứu, điều trị, trả
+tiền lương ngày nghỉ, bồi thường, trợ cắp,...)
+
+-Thiệt hại về tài sản ( tính bằng tiền)
+
+- Số ngày công nghỉ vì tai nạn lao động Tổ chức, biên chế làm công tác bảo hộ lao động.
+- Số người làm công tác an toàn, bảo hộ lao động
+trong đó:
+
++) Chuyên trách
+
++) Bán chuyên trách
+
++) Quân y
+
+- Số lượng an toàn - vệ sinh viên Lao động:
+
+1.1 Tổng số lao động
+
+Trong đó tổng số lao động nữ
+
+1.2 Số lao động làm việc trực tiếp
+
+Trong đó:
+
+- Tổng số lao động nữ
+
+- Số lao động làm việc trong điều kiện nặng nhọc, nguy
+hiểm ( loại IV, V, VD. 
+nE
+người
+
+đồng
+ngày người
+TL
+TL
+TL người
+nt
+
+nt
+nt
+
+nt ĐVT 
+Không Không 136
+2
+136
+
+2 LIÊU Pu HC
+Bồi dưỡng chống độc hại bằng hiện vật
+
+- Tổng số người
+
+- Tổng chỉ phí ( chỉ phí này nằm trong chỉ phí chăm sóc
+sức khỏe) Thời giờ làm việc, thời giờ nghỉ ngơi
+~ Số giờ làm thêm bình quân/ngày/người
+
+- Số ngày làm thêm bình quân/6 tháng/ người
+~ Số ngày làm thêm bình quân/ năm/ người Máy, thiết bị có yêu cầu nghiêm ngặt về ATVSLĐ.
+~Tổng số
+
+Trong đó:
+
++ Số đã được đăng ký
+
++ Số đã được kiểm định Huấn luyện an toàn và bảo hộ lao động
+
+~ Tổng số người chỉ huy ( người sử dụng lao động) được
+huấn luyện/ Tổng số người chỉ huy hiện có.
+
+~Tổng số cán bộ an toàn vệ sinh viện được huấn luyện/
+Tổng số cán bộ an toàn vệ sinh viên hiện có
+
+~ Số người được cấp thẻ an toàn/ Tổng số người lao động
+làm nghề, công việc có yêu cầu nghiêm ngặt về ATVSLĐ
+~Tổng số người được huấn luyện
+
++ Trong đó tổng số người được huấn luyện lại
+
+~Tổng chỉ phí huấn luyện: 
+Bệnh nghề nghiệp
+
+~Tổng số người bị bệnh hiểm nghề nghiệp
+
+Trong đó số người mới mắc bệnh nghề nghiệp.
+
+-Số ngày công nghỉ việc vì bệnh nghề nghiệp
+
+-Số người phải nghỉ hưu trước tuổi vì bệnh nghề nghiệp
+
+- Tổng chỉ phí cho người mắc BNN phát sinh trong năm
+
+( các khoản này không tính trong kế hoạch bảo hộ lao
+động: Điều trị, trả tiền lương trong ngày nghỉ, bồi thường,
+trợ cấp...) cái
+triệu
+(đồng) giờ
+ngày
+nt cái
+
+nt
+
+Từ 
+người
+
+nt
+
+mt
+
+nt
+
+nt người
+
+ngày
+người
+
+đồng Không Theo kế
+hoạch của
+Viện
+KHCNQS 
+Không “vn SÀN
+Kết quả phân loại sức khỏe của người lao động.
+~ Loại I
+
+- Loại II
+
+- Loại III
+
+- Loại IV
+
+- Loại V Tình hình đo đạc môi trường lao động
+- Số mẫu đo môi trường lao động
+
+-Số mẫu đo không đạt tiêu chuẩn
+
+- Tỷ lệ mẫu đo không đạt tiêu chuẩn cho phép/ Tổng số
+mẫu đo trong đó:
+
++ Chật chột
+
++ Âm ướt
+
++ Nóng quá
+
++ Lạnh quá
+
++Ồn
+
++ Rung
+
++ Bụi
+
++ Hơi khí độc
+
++ Điện từ trường
+
++ Bức xạ ion hóa Tổng chỉ phí cho công tác an toàn bảo hộ lao động.
+
+~ Thiết bị an toàn - vệ sinh lao độnghộ lao động.
+
+-Quy trình, biện pháp cải thiện điều kiện lao động
+
+- Trang bị phương tiện bảo vệ cá nhân
+
+- Bồi dưỡng bằng hiện vật
+
+~ Tuyền truyền, huấn luyện
+
+- Phòng cháy, chữa cháy
+
+~ Chi phí bồi dưỡng cho người bị tai nạn lao động, bệnh
+nghề nghiệp
+
+-Chỉ phí khá nt
+
+nt
+nt
+nL 
+mẫu
+nt
+mẫu/mẫu
+
+nt
+nt
+nt
+nt
+nL
+nt
+nt
+nt
+nL
+nt Theo
+số liệu.
+Quân y/
+M
+KHCNQS Không Không 'Đánh giá đơn vị về điều kiện lao động
+- Tốt
+
+- Trung bình
+
+- Xấu
+
+- Rất xấu
+
+ 
+
+ 
+
+Đề xuất, kiến nghị
+
+ 
+
+ 
+
+ 
+
+ 
+
+k0 TTN*z

@@ -1,0 +1,1410 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 thắng 4 năm 2016
+QUYÉT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Toán ứng dụng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buôi làm việc giữa Thủ trưởng Viện và Phòng Toán
+ứng dụng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Toán ứng dụng;
+
+Theo đề nghị của Phụ trách Trưởng ban Kê hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Toán ứng dụng, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu về khai phá dữ liệu, kỹ thuật học máy, xử lý dữ liệu lớn, xử
+lý dữ liệu không chắc chắn.
+
+- Nghiên cứu đề xuất mô hình tích hợp hệ thống quản lý, điều hành theo.
+ngành trong quân đội
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+~ Xây dựng, đề xuất đề tài KHCN theo định hướng nghiên cứu của Phòng.
+
+- Thực hiện đúng tiến độ và hiệu quả các hợp đồng dịch vụ KHCN, chú
+trọng các đôi tác TCCT, TCHC.
+
+~ Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội.
+
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+
+~ Tham gia công tác đào tạo sau đại học, đại học.
+
+  
+
+- Tin học hóa một số nghiệp vụ cho một số đơn vị: Cục Tuyên huấn —
+TCCT, Cục Xăng dầu — TCHC ...- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công. .
+
+- Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiền.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đỏng chí Trưởng phòng Toán ứng dụng và các cán bộ, nhân viên
+trong phòng chịu trách nhiệm thi hành quyết định này. //2
+
+Nơi nhận:
+~ Phòng TƯD:
+~ Lưu: VT, KH; H03.'VIỆN KH-CN QUẦN SỰ CỘNG HOA XÃÀ HẠ QIAU (0y 6á (0w vì.
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYÉT ĐỊNH
+
+'VW giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Tích hợp các hệ thông tin chỉ huy
+3
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng, 'Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận. buổi làm việc giữa Thủ trưởng Viện và Phòng Tích
+hợp các hệ thông tin chỉ huy;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Tích hợp các hệ thông tin chỉ
+
+y; .
+Theo đề nghị của Phụ trách Trưởng ban Kể hoạch,
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+
+2016 cho Phòng Tích hợp các hệ thông tìn chỉ huy, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu các giải pháp tích hợp ứng dụng trong quản lý, bảo đảm an
+toàn thông tỉn.
+
+~ Nghiên cứu các chuẩn và giải pháp quản lý tài nguyên số phục vụ cho
+xây dựng các thư viện số. -
+
+- Nghiên cứu các giải pháp phát triển các ứng dụng AR cho kính thông
+minh
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Tích hợp hệ thống quản lý vũ khí, trang bị, đạn cho các đơn vị cấp chiến
+dịch.
+
+- Thực hiện đúng tiến độ và hiệu quả các hợp đồng với các đơn vị quân
+đội, chú trọng đối tác TCKT.
+
+- Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội.
+
+- Có ít nhất 01 bài báo gửi để nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:- Nghiên cứu phát triển hệ thống quản lý các nhiệm vụ và cán bộ KHCN
+cho các đơn vị cấp Tổng cục.
+
+- Tham gia đào tạo đại học (hướng dẫn, thực tập).
+
+- Thu trường Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện vẻ tiến độ, kết quả thực hiện kế hoạch nảy.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+.__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+ 
+
+Điều 3. Đỏng chí Trưởng phòng Tích hợp các hệ thông tín chỉ huy và các
+cán bộ. nhân viên trong phòng chịu trách nhiệm thi hành quyết định này..⁄,
+
+Nơi nhận: ấy N TRƯỞNG
+- Phòng THCHTCH:
+~ Lưu: VT. KH; H03
+
+   
+
+vọt SỐ
+
+Bạif4 Lê Quang Đức
+
+"'VIỆN KH-CN QUÂN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ và kế hoạch
+công tác năm 2016 của Ban Bảo đảm tổng hợp
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tỉn;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Ban Bảo đảm
+tổng hợp; Ộ
+
+Căn cứ vào chức năng, nhiệm vụ của Ban Bảo đảm tông hợp;
+
+Theo đề nghị của Phụ trách Trường ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2016 cho Ban Bảo đảm
+tổng hợp, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Giúp Thủ trưởng Viện xây dựng kế hoạch công tác, quản lý và báo cáo
+vh thực hiện các nhiệm vụ được giao của Cơ sở phía Nam trong các lĩnh vực
+Kế hoạch, Chính trị, Hành chính-Hậu cần, Tài chính.
+
+- Tham mưu cho lãnh đạo, chỉ huy Viện về xây dựng và tổ chức thực hiện
+các hoạt động nghiên cứu và dịch vụ khoa học công nghệ tại địa bàn phía Nam.
+
+~ Tham mưu, lập kế hoạch giúp chỉ huy Viện thực hiện các nội dung CTĐ,
+CTCT ở Cơ sở phía Nam.
+
+~ Thực hiện tốt công tác văn thư lưu trữ, bảo mật, công tác hậu cần và tài
+chính.
+
+- Duy trì và bảo đảm thời gian, chế độ làm việc của Thủ trưởng và đơn vị.
+
+- Quản lý tốt và sử dụng có hiệu quả trang thiết bị, tài sản của đơn vị hiện
+có, Chấp hành tốt các quy định về an toàn tiết kiệm, giữ tốt dùng bền trang bị kỹ
+thuật và an toàn giao thông.- Phổ biến, quán triệt, nghiên cứu và thực hiện nghiêm túc các chỉ thị, quy
+định, hướng dẫn của cắp trên; tăng cường công tác quản lý cán bộ.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+- Đăng ký thi đua năm 2016: Ban đạt danh hiệu đơn vị tiên tiến.
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng ban Bảo đảm tổng hợp và các cán bộ, nhân viên
+trong Ban chịu trách nhiệm thi hành quyết định này.
+
+.Với nhận:
+- Ban BDTI:
+~ Lưu: VÌ, KH, H03.
+
+   
+
+§fíá Lê Quang ĐứcVIÊN KH-CN QUẦN SỰ CỘNG HOÀA XÃ HỘI CHU NGHĨÀ VIỆT NĂM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V⁄w giao nhiệm vụ và kế hoạch
+công tác năm 2016 của Ban Chính trị
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+
+Căn cứ vào chức năng, nhiệm vụ của Ban Chính trị;
+
+“Theo để nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2016 cho Ban Chính
+trị, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Tổ chức quán triệt các nghị quyết, chỉ thị của Đảng, tổ chức học tập
+chính trị cho các đối tượng theo quy định của cấp trên, bảo đảm nội dung, quân
+số và thời gian. Đẩy mạnh tuyên truyền kết quả Đại hội Đảng toàn quốc lần thứ
+XI; 70 năm Ngày Tổng tuyển cử đầu tiên bầu Quốc hội Việt Nam. Tổ chức
+tuyên truyền, kỷ niệm những ngày lễ lớn của dân tộc và ngày truyền thống của
+Viện
+
+~ Tổ chức tốt việc tuyên truyền các hoạt động KHCN của Viện trên các
+phương tiện thông tin, nhằm quảng bá Bạ] lực và sản phẩm của Viện. \
+
+~ Triển khai thực hiện các nghị quyết, chỉ thị, hướng dẫn của cấp trên về
+công tác xây dựng đảng. Xây dựng chương trình kế hoạch thực hiện Nghị quyết
+của Đảng ủy lãnh đạo thực hiện nhiệm vụ Quân sự - Quốc phòng năm 2016.
+
+~ Tham mừu cho Đảng ủy Viện tiếp tục hoàn thiện, bổ sung quy chế lãnh
+đạo của Đảng ủy, phân công trách nhiệm trong Đảng ủy. Xây dựng quy hoạch
+cán bộ chỉ huy, quản lý các cắp đầu nhiệm kỳ 2015-2020.
+
+- Xây dựng báo cáo kế hoạch giải quyết số lượng cán bộ; kế hoạch đào
+tạo bồi dưỡng cán bộ ở nước ngoài 5 năm 2016-2020 và năm 2017; kế hoạch
+đào tạo bồi dưỡng năm 2017-2018.
+
+~ Nắm chắc tình hình, kịp thời phát hiện, tham mưu đề xuất với Đảng ủy,
+chỉ huy Viện diễn biến liên quan đến công tác bảo vệ chính trị nội bộ. Phối hợptham gia bảo đâm an toàn bầu cử Quốc hội khóa XIV và bầu cử Hội đồng nhân
+các cắp nhiệm kỳ 2016-2021. . ó
+
+~ Chủ động xây dựng kế hoạch kiểm tra, giám sát đảng viên, tổ chức Đảng.
+nhiệm kỳ 2015 - 2020; kiện toàn nhân sự UBKT của Đảng ủy.
+
+_ - Thực hiện công tác chính sách cán bộ, công tác hậu phương quân đội.
+Triển khai mua BHYT cho thân nhân sỹ quan. Rà soát chế độ nặng nhọc, độc
+hại...
+
+~ Chi đạo các tô chức quần chúng triển khai thực hiện các hoạt động, tô
+chức Đại hội cơ sở của Hội Phụ nữ; tổ chức các sự kiện, tuyên truyền và đây
+mạnh các phong trào thì dua theo quy định.
+
+- Đăng ký thì đua năm 2016: Ban đạt danh hiệu đơn vị tiên tiến.
+„ 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mị
+
+Điều 3. Đồng chí Trưởng ban Chính trị và các cán bộ, nhân viên trong
+Ban chịu trách nhiệm thi hành quyết định này. „/,
+
+ 
+
+  
+
+Nơi nhận:
+~ BanC
+- Lưu: VT, KH; H03.CYHZN KMÍ<CN QUAÁN SỤ: CO NG HỌA ÁÁ HỤI CiHU NGHIA VIỆI VÀ
+VIỆN CÔNG NGHỆ THÔNG TIN .Độc lập - Tự do - Hạnh phúc
+
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 thắng 4 năm 2016
+
+QUYÉT ĐỊNH
+'V# giao nhiệm vụ và kế hoạch
+công tác năm 2016 của Ban Hành chính-Hậu cần
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+Căn cứ vào chức năng, nhiệm vụ của Ban Hành chính - Hậu cần;
+Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2016 cho Ban Hành
+chính - Hậu cần, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+Công tác Hành chính:
+- Tổ chức thực hiện công tác văn thư lưu trữ, bảo mật.
+~ Thực hiện công tác xây dựng nề nép chính quy và quản lý kỷ luật.
+- Duy trì nghiêm các chế độ công tác, trực ban, SSCĐ.
+- Phối hợp với các bộ phận liên quan duy trì, quản lý mạng nội bộ, bảng,
+tin điện tử của Viện.
+- Tổ chức thực hiện các kế hoạch huấn luyện quân sự, hoạt động thể thao.
+~ Tham gia theo dõi, kiểm tra việc xây dựng đơn vị vững mạnh, toàn diện.
+Công tác Hậu cần:
+- Đảm bảo duy trì các mặt công tác ngành (Quân nhu, Quân y, Doanh trại,
+Xăng dầu) theo quy định của Viện KHCNQS.
+- Tổ chức khám, theo dõi sức khoẻ cho toàn thể cán bộ trong Viện.
+- Tổ chức cấp phát quân trang theo tiêu chuẩn quy định.~ Thực hiện đây đủ các thủ tục về hợp đông Quân Binh chủng, báo cáo vê
+hoạt động dịch vụ KHCN với Ban Kinh tế đúng quy định.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng kỷ thi dua năm 2016: Ban đạt danh hiệu đơn vị tiên tiền.
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng Ban Hành chính - Hậu cần và các cán bộ, nhân
+viên trong Ban chịu trách nhiệm thi hành quyết định này. /,Z
+
+     
+   
+
+Nơi nhận: =VIỆN TRƯỞNG
+~ Bạn HC-HC- TÔM
+- Lưu: VE KH: H03
+
+Lê Quang ĐứcVIÊN KH-CN QUAN SỰ. CỘNG HÓA ÃAÁ HỘI CQH_ LVKHIA V9 0 V0.
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYÉT ĐỊNH
+
+'V/ giao nhiệm vụ và kế hoạch
+công tác năm 2016 của Ban Kế hoạch
+
+VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin,
+Căn cứ vào buổi làm việc giữa Thủ trưởng Viện và các Ban cơ quan;
+Căn cứ vào chức năng, nhiệm vụ của Ban Kế hoạch;
+
+Theo để nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2016 cho Ban Kế
+hoạch, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Tiếp tục nghiên cứu đề xuất, hoàn thiện các quy trình, quy chế quản lý
+khoa học công nghệ trong thực hiện đề tài, dự án và các nhiệm vụ KHCN tại
+Viện CNTT theo các quy định của Nhà nước, Bộ Quốc phòng và Viện
+KHCNQS.
+
+- Tham mưu và tham gia nghiên cứu, xây dựng các sán phẩm ứng dụng
+trong và ngoài quân đội.
+
+~ Thực hiện các nội dung công tác tham mưu, kế hoạch về khoa học công
+nghệ, quân lực, kỹ thuật, thông, tin khoa học theo quy định.
+
+- Quản lý việc đào tạo sau đại học của Viện theo nhiệm vụ được giao.
+Tiếp tục nâng cao chất lượng quản lý NCS, chú trọng, nâng cao sự gắn kết giữa
+NCS và Viện chuyên ngành.
+
+- Xây dựng chương trình, kế hoạch tổ chức thực hiện các hội thảo cũng,
+như hoạt động KHCN khác.
+
+- Tiếp tục nghiên cứu đề xuất phương thức giới thiệu, quảng bá sản phẩm
+của Viện nhằm nâng cao uy tín và phát triển hình ảnh của Viện.
+
+~ Tham gia tổ chức thực hiện, quản lý các nhiệm vụ KHCN được giao.
+
+- Hoàn thiện quy trình tổ chức mua sắm theo quy định phù hợp với điều
+kiện của Viện.- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng ký thi đua năm 2016: Ban đạt danh hiệu đơn vị tiên tiến.
+
+Điều 2. Quyết định có hiệu lực kẻ từ ngày ký. Thời gian thực hiện cho.
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng ban Kế hoạch và các cán bộ, nhân viên trong,
+Ban chịu trách nhiệm thi hành quyết định này. „⁄2
+
+Nơi nhận:
+~ Ban KH:
+~ Lưu: VT: H02.'VIỆN KH-CN QUAN SỰ CỘNG HÓA XÃ HỤUHA HU DVKAHA 1w 00/A0Đ
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ và kế hoạch
+công tác năm 2016 của Ban Tài chính
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+
+Căn cứ vào chức năng, nhiệm vụ của Ban Tài chính;
+
+Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2016 cho Ban Tài
+chính, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Quán triệt và thực hiện nghiêm dự toán năm 2016 đã được giao. Lập dự
+toán, kế hoạch và theo dõi chỉ tiêu các nguồn ngân sách, thực hiện cấp phát, bảo
+đảm, thanh quyết toán kịp thời, đúng quy định, hiệu quả. Chủ động xây dựng dự
+toán điều chỉnh, bổ sung năm 2016 đáp ứng đủ theo yêu cầu của đơn vị.
+
+- Tiến hành phân cấp, quản lý và điều hành chặt chẽ mọi nguồn ngân sách;
+tăng cường kiểm tra, kiểm soát trước, trong và sau khi chỉ tiêu; thực hiện công.
+khai tài chính, thực hành tiết kiệm, chồng lãng phí, tiêu cực.
+
+- Đẩy mạnh công tác quyết toán tháng, quý, năm và nộp báo cáo quyết toán
+thuế đúng quy định.
+
+- Bảo đảm các chế độ, tiêu chuẩn thường xuyên cho bộ đội.
+
+- Đôn đốc thanh toán các khoản phải thu, tạm ứng, phải trả theo đúng quy
+định. Chú trọng các khoản liên quan đến hoạt động dịch vụ KHKT có thu.
+
+~ Thực hiện tốt việc quyết toán ngân sách năm 2015 với Viện KHCNGQŠ.
+
+- Phối hợp với các Ban cơ quan xây dựng dự toán ngân sách năm 2017 bảo
+đảm cho các nhiệm vụ trọng tâm của Viện.~ Tham mưu các mặt của công tác tài chính cho Thủ trưởng Viện. Chỉ đạo,
+hỗ trợ và kiểm tra công tác tài chính của Cơ sở phía Nam.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+- Đăng ký thi đua năm 2016: Ban đạt danh hiệu đơn vị quyết thắng.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng ban Tài chính và các cán bộ, nhân viên trong,
+Ban chịu trách nhiệm thi hành quyết định này. /4Ÿ,
+
+Nơi nhận:
+~ Ban TC;
+~ Lưu: VT, KH; H03.'VIỆN KH-CN QUẦN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYÉT ĐỊNH
+
+'VWw giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Hệ thông tin địa lý
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin địa lý;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tin địa lý;
+
+Theo đề nghị của Phụ trách Trưởng ban Kê hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Hệ thông tin địa lý, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu, phát triển giải pháp và xây dựng các ứng dụng trên công
+nghệ GIS.
+
+_- Nghiên cứu hoàn thiện giải pháp CNTT trong huấn luyện diễn tập CH-
+CQ cắp trung, sư đoàn trên bản đồ và ngoài thực địa.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tải, nhiệm vụ
+KHCN được giao (01 cấp Viện KHCNQS, 01 nhánh của đề tài cấp Viện
+KHCNQS).
+
+- Thực hiện tốt hợp đồng theo dự án của Ủy ban Biên giới quốc gia, Bộ
+Ngoại giao.
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội.
+
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+
+- Tham gia nghiên cứu các công nghệ liên quan phục vụ cho các nhiệm
+vụ về mô phỏng, sửa chữa, cải tiến và bảo đảm kỹ thuật cho VKTBKT.- Thủ trương Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016
+của từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và
+chịu trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch
+
+ 
+
+- Tham gia các nhiệm vụ diễn tập theo nhiệm vụ trên giao.
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+~ Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị quyết thắng.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Dồng chí Trưởng phòng Hệ thông tin địa lý và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. /Íy
+
+Nơi nhận:
+- Phòng HITĐI:
+- Lưu; V E. KH: HU3.VIÊN KH-CN QUẢN SỰ. 'CỌNG HOA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Bảo đảm kỹ thuật
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Bảo
+đảm kỹ thuật;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Bảo đảm kỹ thuật,
+
+Theo để nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Bảo đảm kỹ thuật, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu các ứng dụng liên quan đến hệ điều hành Windows, mã
+nguồn mở trong môi trường mạng.
+
+~ Nghiên cứu thiết kế hệ thống mạng kết nối các cơ sở phía Bắc và phía
+Nam của Viện CNTT.
+
+- Tham gia nghiên cứu một số thành phần trong các hệ thống điều khiển,
+kiểm tra đạn tên lửa của Hải quân.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+~ Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài, nhiệm vụ KHCN
+được giao (tham gia đề tài KCT-1 ).
+
+~ Tham gia nghiên cứu khảo sát, đề xuất nhiệm vụ bảo đảm kỹ thuật cho
+các đơn vị trong quân đội.
+
+- Phối hợp với các phòng khác triển khai công việc tại các nhà máy
+TCCNGQP, tập đoàn TNG.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:~ Đảm bảo kỹ thuật cho hệ thông mạng của Cơ sở phía Bắc hiện nay. Phôi
+hợp với các Phòng Đào tạo & Chuyển giao công nghệ và Phòng Kỹ thuật truyền
+thông & Tác chiến mạng duy trì hệ thống bảng tin điện tử tại Cơ sở phía Bắc.
+
+- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016
+của từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và
+chịu trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch
+này
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+~ Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiến.
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trướng phòng Bảo đảm kỹ thuật và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này./'
+
+ 
+
+Nơi nhận:
+~ Phòng BĐKT;
+~ Lưu: VT. KH: H03.“VIÊN KH-CN QUANSU CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 91/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYÉT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Công nghệ mạng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kế luận buổi làm việc giữa Thủ trưởng Viện và Phòng Công
+nghệ mạng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Công nghệ mạng;
+
+Theo để nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Công nghệ mạng, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào.
+một số nội dung cụ thể sau:
+1. Về nghiên cứu KHCN:
+- Nghiên cứu làm chủ các thiết bị công nghệ mạng.
+- Nghiên cứu các giải pháp tích hợp, quản trị và an ninh mạng; đi sâu làm.
+chủ phần mềm, tư vấn giải pháp về mạng.
+- Nghiên cứu ứng dụng mạng không dây trong quân sự.
+2. Dự án, đề tài, hợp đồng OBC:
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài, nhiệm vụ KHCN
+(01 đề tài cấp TP.HCM, 01 đề tài cấp tỉnh Đồng Nai, tham gia 01 đề tài cấp
+Viện KHCNQS)
+- Bảo vệ đầu vào và triển khai thực hiện các đề tài mở mới cấp tỉnh thành.
+~ Tư vấn xây dựng và thực hiện các hợp đồng triển khai ứng dụng CNTT
+cho các cơ quan, đơn vị trong và ngoài quân đội.
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+3. Nhiệm vụ khác:- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của.
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Bảo đảm kỹ thuật về công nghệ thông tin cho Cơ sở phía Nam. Phối hợp
+triển khai hệ thống kết nối mạng giữa hai Cơ sở phía Bắc và phía Nam của Viện.
+
+~ Tham gia công tác đào tạo sau đại học, đại học của Viện; quản lý 01 NC§
+tại phía Nam.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+~ Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị quyết thắng.
+
+Điều 2. Quyết định có hiệu lực kê từ ngày ký. Thời gian thực hiện cho.
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Công nghệ mạng và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. //j7
+
+Nơi nhận:
+~ Phòng CNM:
+~ Lưu: VT. KH; H03.
+1 nhiệm vụ năm 2016 của
+cán bộ thực hiện và chịu
+thực hiện kế hoạch này.
+
+'ơ sở phía Nam. Phối hợp
+
+ắc và phía Nam của Viện.
+
+của Viện; quản lý 01 NCS
+
+ 
+
+công.
+đơn vị quyết thắng.
+- Thời gian thực hiện cho.
+
+nạng và các cán bộ, nhân
+này. 4].
+
+N TRƯỞNG
+
+ 
+
+Lê Quang Đức 'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Công nghệ phần mềm
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyên hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buỗi làm việc giữa Thủ trưởng Viện và Phòng Công,
+nghệ phần mềm;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Công nghệ phần mềm;
+
+Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Công nghệ phần mềm, gồm các nội dung sau:
+Hoàn thành tết các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+1. Về nghiên cứu KHCN:
+~ Nghiên cứu các giải pháp nâng cao khả năng tích hợp và trao đổi thông
+tin giữa các phân hệ trong hệ thống ERP của doanh nghiệp. Ĩ
+- Nghiên cứu quy trình b7 vụ và tác nghiệp trong hệ thông quản lý,
+giám sát và điều hành sản xuất tại Tông cục CNQP.
+- Nghiên cứu về hệ thống hỗ trợ ra quyết định trên không gian dữ liệu lớn.
+2. Dự án, đề tài, hợp đằng OBC:
+~ Tiếp tục nghiên cứu và phát triển các giải pháp về quản trị doanh nghiệp,
+quản lý và điều hành sản xuất tại Công ty Cổ phần Đầu tư và Thương mại TNG.
+- Tiế sận và nghiên cứu quy kinh nghiệp vụ cũng như các ác nghiệp
+trọng hệ thống quản lý, giám sát và điều hành sản xuất tại Tổng cục CNQP.
+- Tập trung thực hiện đúng kế hoạch các hợp đồng QBC và dịch vụ
+KHKT đã ký.
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+3. Nhiệm vụ khác:
+- Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giảng dạy...)~ Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Đề xuất giải pháp kỹ thuật cho việc giới thiệu sản phẩm của Viện.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng ký thì dua năm 2016: Phòng đạt danh hiệu đơn vị tiên iến.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho.
+đến khi có Quyết định mới.
+
+Điều 3. Đỏng chí Trưởng phòng Công nghệ phần mềm và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. //2
+
+  
+
+Nơi nhận:
+- Phòng CNPM:
+- Lưu: VT, KH: H03'VIỆN KH-CN QUAN SỰ CỘNG HOA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc.
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYÉT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Công nghệ trỉ thức và tính toán mềm
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tỉn;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và phòng Công,
+nghệ tri thức và Tính toán mềm;
+
+Căn cứ vào chức năng, nhiệm vụ của phòng Công nghệ tri thức và Tính
+toán mềm;
+
+Theo để nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho phòng Công nghệ tri thức và Tính toán mềm, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Đẩy mạnh nghiên cứu về xử lý ngôn ngữ tự nhiên, tập trung vào nhận
+dạng, xử lý văn bản tiếng Việt và dịch máy.
+
+- Tiếp tục nghiên cứu công nghệ trong lĩnh vực xử lý ảnh và nhận dạng.
+
+2. Dự án, đề tài, hợp đẳng OBC:
+
+~ Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài KHCN được giao
+(01 đề tài cấp Viện KHCNQ§, 02 đề tài định hướng cán bộ trẻ).
+
+~ Tiếp tục hỗ trợ các đơn vị trong và ngoài quân đội trong việc sử dụng các
+phần mềm Quản lý đảng viên và Quản lý thẻ đảng viên.
+
+- Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội.
+
+- Hoàn thiện hệ thống HIS: đóng gói phần mềm, xây dựng quy trình triển
+khai cho bệnh viện với các quy mô khác nhau, đảm bảo chức năng, tính năng và
+hiệu quả.
+
+~ Có ít nhất 02 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.3. Nhiệm vụ khác:
+_ - Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giang dạy...)
+
+- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+~ Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiền.
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đông chí Trưởng phòng Công nghệ trỉ thức và Tính toán mêm và
+
+các cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. 4
+
+Nơi nhận:
+~ Phòng CNTT&TTM:
+- Lưu: VT. KH; H03.'VIỆN KH-CN QUÂN SỰ CỌNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CỘNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Đào tạo và Chuyển giao công nghệ
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào ká luận buổi làm việc giữa Thủ trưởng Viện và phòng Đào
+tạo và Chuyển giao công nghệ;
+
+Căn cứ vào chức năng, nhiệm vụ của phòng Đào tạo và Chuyển giao công.
+nghệ
+
+ˆ Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Đào tạo và Chuyển giao công nghệ, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+1. Về nghiên cứu KHCN:
+~ Tiếp tục nghiên cứu xử lý tín hiệu âm thanh (nhận dạng, tổng hợp).
+- Nghiên cứu phát triển các ứng dụng phục vụ cho quản lý, điều hành trên
+nền Web,
+2. Dự án, đề tài, hợp đồng OBC:
+~ Thực hiện đúng tiến độ, bảo đảm chất lượng các để tài, nhiệm vụ KHCN
+được giao (01 cấp Viện KHCNQS).
+~ Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội.
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+3. Nhiệm vụ khác:
+- Đảm bảo, duy trì hệ thống phần mềm quản lý, điều hành cho Viện CNTT.
+Phối hợp với Phòng Bảo đảm kỹ thuật và Phòng Kỹ thuật truyền thông & tác
+chiến mạng duy trì hệ thống bảng tin điện tử tại Cơ sở phía Bắc.- Thực hiện các nhiệm vụ về đào tạo do Viện giao. Đề xuất và tham gia thực
+hiện các nội dung đào tạo CNTT của Viện.
+
+- Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng
+dẫn, giảng dạy...)
+
+~ Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiền.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Đào tạo và Chuyển giao công nghệ và
+các cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. //22
+
+Nơi nhận:
+~ Phòng ĐT&CGCN:
+~ Lưu: VT, KH: H03.VIÊN KH-CN QUAN SỰ: CỘNG HOA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Hệ thông tin quản lý
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tỉn;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin quản lý;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tỉn quản lý;
+
+Theo đề nghị của Phụ trách Trưởng ban Kê hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Hệ thông tin quản lý, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+1. Về nghiên cứu KHCN:
+
+- Xây dựng, hoàn thiện giải pháp framework ứng dụng nhằm phục vụ xây
+dựng các hệ thông tin quản lý trên nền Web và Winform;
+
+  
+
+~ Nghiên cứu chuẩn công nghệ DIS/HLA, ứng dụng trong các bài toán mô
+phỏng huấn luyện kỹ, chiến thuật.
+
+- Nghiên cứu phát triển giải pháp HMI nhằm phục vụ phát triển các hệ
+thống mô phỏng huấn luyện khai thác sử dụng vũ khí trang bị.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Xây dựng đề xuất, bảo vệ và thực hiện đúng tiến độ các đề tài, nhiệm vụ
+KHCN được giao (01 cấp Bộ).
+
+~ Chủ động xây dựng hợp đồng và triển khai thực hiện các sản phẩm phần
+mềm quản lý dựa trên framework, phần mềm mô phỏng huấn luyện khai thác sử
+dụng VKTB ứng dụng chuẩn DIS/HLA cho các đơn vị.
+
+~ Hoàn thành đúng kế hoạch và tiếp tục xây dựng, thực hiện các hợp đồng
+tư vấn, giám sát dự án CNTT cho các đơn vị trong và ngoài quân đội.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+6 --- — .= - - ~ Tham gia đào tạo đại học (thực tập, hướng dẫn tôt nghiệp... ).
+
+~ Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu.
+trách nhiệm trước Thú trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ §ẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiền.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho đến
+khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Hệ thông tỉn quản lý và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. /Z22
+
+Nơi nhận:
+~ Phòng HTTQL:
+~ Lưu: VT, KH; H03.VIN KH-CN QUAN SỰ: CỌNG HOA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2015
+QUYẾT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Hệ thông tin quân sự
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin quân sự;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tỉn quân sự;
+
+Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm 2016
+
+cho Phòng Hệ thông tin quân sự, gồm các nội dung sau:
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu các công cụ, giải pháp nhằm việc xây dựng các hệ thống
+thông tin phục vụ quản lý điều hành, chỉ huy bộ đội. k g
+
+~ Nghiên cứu, xây dựng các bộ công cụ phục vụ huấn luyện, diễn tập cho
+các nhà trường, đơn vị trên địa bàn phía Nam;
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài, nhiệm vụ KHCN.
+được giao (01 đề tài cấp tỉnh Tây Ninh, 01 đề tài cấp tỉnh Vĩnh Long).
+
+- Bảo vệ đầu vào và triển khai thực hiện các đề tài mở mới cấp tỉnh thành.
+
+- Tập trung thực hiện đúng kế hoạch các hợp đồng QBC và dịch vụ KHKT
+đã ký.
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+
+- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+ị
+\
+ì ~ Tham gia đào tạo công nghệ thông tỉn theo yêu cầu, nhiệm vụ.
+
+~ Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+~ Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiền.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho đến
+khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Hệ thông tin quân sự và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. ///7,
+
+Nơi nhận:
+~ Phòng HTTQS;
+~ Lưu; VT, KH; H03.VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng kỹ thuật hệ thống.
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Kỹ
+thuật hệ th:
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Kỹ thuật hệ thống;
+
+Theo đề nghị của Phụ tráchTrưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+  
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Kỹ thuật hệ thống, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+~ Tiếp tục nghiên cứu làm chủ, bảo đảm kỹ thuật cho tổ hợp tên lửa đối
+hải URAN-
+
+- „Nghiên cứu khai thác làm chủ và bảo đảm kỹ thuật cho các hệ thống, chỉ
+huy, điều khiển, kiểm tra sửa chữa vũ khí trang bị kỹ thuật thế hệ mới.
+
+2. Dự án, đề tài, hợp đẳng OBC:
+
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài, nhiệm vụ KHCN
+được giao (02 cáp BQP, 01 cấp Viện KHCNQS). Tập trung đảm bảo nghiệm thu
+02 đề tài theo chương trình KC-T đúng tiến độ.
+
+- Chủ động xây dựng và bảo vệ đầu vào đề tài, nhiệm vụ các cấp, tập
+trung cho Chương trình KC-T giai đoạn 2.
+
+ 
+
+ 
+
+   
+
+~ Tham gia thực hiện Dự án nghiên cứu làm chủ phần mềm điều khiển các
+hệ thống khí tài điện tử trên các lớp tàu Hải quân Gepard 3.9, Kilo 636 và
+Không quân Hải quân của Cục Kỹ thuậƯQCHQ.
+
+- Tham gia thực hiện Dự án tích hợp các hệ thống chỉ thị mục tiêu cho tàu
+hải quân của Cục Kỹ thuậ/QCHQ.
+
+- Thực hiện đúng tiến độ và hiệu quả các hợp đồng với các Quân chủng
+Hải Quân và Phòng không-Không quân.~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+
+~ Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ §ẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+~ Đăng ký thì đua năm 2016: Phòng đạt danh hiệu đơn vị quyết thắng.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Kỹ thuật hệ thống và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thỉ hành quyết định này. ,//)
+
+ANới nhận:
+~ Phòng KTHT,
+~ Lưu: VT, KH; H3.
+
+ 
+
+tá Lê Quang Đức'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA. VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Kỹ thuật truyền thông và Tác chiến mạng
+
+VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tỉn;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và phòng Kỹ
+thuật truyền thông và Tác chiến mạng; R
+
+Căn cứ vào chức năng, nhiệm vụ của phòng Kỹ thuật truyền thông và Tác
+chiến mạng; -
+
+Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho phòng Kỹ thuật truyền thông và Tác chiến mạng, gồm các nội dung.
+Sau:
+_ Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+1. Về nghiên cứu KHCN:
+__ - Nghiên cứu các giải pháp nâng cao chất lượng và bảo mật cho các hệ
+thống truyện tin.
+__ - Nghiên cứu xây dựng các hệ thống mô phỏng phục vụ công tác đào tạo,
+huấn luyện cho các đơn vị trong và ngoài quân đội.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài KHCN được giao
+(01 đề tài cấp Viện KHCNQS).
+
+_.... - Khảo sát, đề xuất thực hiện đề tài cấp Viện KHCNQS "Nghiên cứu thiết
+kế hệ thống mô phỏng huấn luyện bắn cho tô hợp pháo hạm AK176 trên tàu lớp
+1241.8°.
+
+- Phối hợp với các phòng khác thực hiện đúng, tiến độ, hiệu quả các hợp
+đồng dịch vụ với TNG, các nhà máy TCCNQP.
+
+- Xây dựng và triển khai đúng tiến độ và hiệu quả các hợp đồng dịch vụ
+khoa học với các đơn vị trong ngoài quân đội.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.3. Nhiệm vụ
++ Than dì
+
+ˆ - Thủ trưởng
+từng cán bộ do Ph
+trách nhiệm trước ˆ
+
+- Sẵn sàng n
+
+- Đăng ký th
+
+Điều 2. Quy
+đến khi có Quyết đ
+
+Điều 3. Đồ
+mạng và các cán b‹
+này. ⁄/f#
+
+ANới nhận:
+~ Phòng KTTT&TCM;
+~ Lưu: VT, KH; H03.TÊN KH-CN QUẦN SỰ. CỌNG HOA XÃ HỌI CHU NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/w giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Quãn trị Cơ sở dữ liệu
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buỗi làm việc giữa Thủ trưởng Viện và Phòng Quản
+trị cơ sở dữ liệu;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Quản trị cơ sở dữ liệu;
+
+Theo đề nghị của Phụ trách Trưởng ban Kê hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Quản trị cơ sở dữ liệu, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Tiếp tục nghiên cứu khai thác các công cụ quản trị, bảo mật và an toàn dữ
+liệu phục vụ cho việc xây dựng và phát triển các hệ thống phần mềm và CSDL.
+
+- Nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt ứng dụng trong hệ quản trị
+cơ sở dữ liệu SQL giải quyết các bài toán tìm kiếm thông minh tiếng Việt, kiểm
+trùng, chuẩn hoá dữ liệu văn bản tiếng Việt.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+~ Tiếp tục hỗ trợ nhiệm vụ theo chỉ thị 07/BQP về Giải mã ký hiệu, phiên
+hiệu đơn vị quân đội trong chiến tranh giải phóng và chiến tranh bảo vệ Tổ quốc
+và thực hiện nhiệm vụ tiếp theo khi được cơ quan cấp trên giao.
+
+- Phối hợp với Cục Kế hoạch - Đầu tư/BQP thực hiện nâng cắp phần mềm
+phục vụ Tổng kiểm kê vật tư, hàng hoá 0h ngày 01 tháng 7 hàng năm của BQP.
+
+- Xây dựng và triển khai đúng tiến độ và hiệu quả các hợp đồng dịch vụ
+khoa học với các đơn vị trong ngoài quân đội.
+
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác.~ Phôi hợp với các cơ quan, đơn vị nghiên cứu chuân hoá thông tin ngành,
+chuyên ngành của BQP, các giải pháp phục vụ tích hợp các CSDL trong các hệ
+thông thông tin.
+
+.- Nghiên cứu các giao thức giao tiếp giữa thiết bị đo xăng dầu (cột bơm,
+bồn, bể chứa) với máy tính nhúng và các phương thức đồng bộ, tự động hóa
+trong ngành xăng dầu...
+
+- Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiến.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Quản trị cơ sở dữ liệu và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này.//7
+
+Nơi nhận:
+~ Phòng QTCSDL;
+~ Lưu: VT, KH; H03.VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHIA VHỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 thắng 4 năm 2016
+QUYẾT ĐỊNH
+
+'V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Số hóa và Điều khiển
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Số hóa.
+và điều khiển;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng, Số hóa và điều khiển;
+
+“Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Số hóa và điều khiển, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu, phát triển công nghệ, giải pháp trong lĩnh vực xử lý số và
+điều khiển phục vụ cho chỉ huy, điều hành.
+
+- Nghiên cứu hoàn thiện các hệ thống chuyên dụng phục vụ điều hành chỉ
+huy bộ đội.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện đúng tiến độ, bảo đảm chất lượng các đề tài, nhiệm vụ KHCN
+được giao (01 cấp Tp. Hồ Chí Minh).
+
+- Bảo vệ đầu vào và triển khai thực hiện các đề tài mở mới cấp tỉnh thành.
+
+ 
+
+ 
+
+- Tập trung thực hiện đúng kế hoạch các hợp đồng QBC và dịch vụ
+KHKT đã ký.
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội, chú trọng các BCHQS tỉnh thành.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:'VIỆN KH-CN QUAN SỰ CỌNG HOA XÃA HỌI CHỦ NGHHA VIỆ! NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 98/QĐ-VCNTT Hà Nội, ngày 01 tháng 4 năm 2016
+QUYẾT ĐỊNH
+
+V/v giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2016 của Phòng Thiết bị chuyên dụng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+ủa Viện trưởng Viện Công nghệ thông tin; Ï
+làm việc giữa Thủ trưởng Viện và Phòng Thiết
+
+ 
+
+Căn cứ vào quyền hạn
+
+Căn cứ vào kết luận bu:
+bị chuyên dụng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Thiết bị chuyên dụng:
+
+“Theo đề nghị của Phụ trách Trưởng ban Kế hoạch,
+
+ 
+ 
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2016 cho Phòng Thiết bị chuyên dụng, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu các giải pháp tích hợp với thiết bị chuyên dụng (đo lường,
+điều khiển, xử lý tín hiệu... ).
+
+- Tiếp tục nghiên cứu về giải pháp phần mềm ứng dụng công nghệ GIS
+phục vụ công tác huấn luyện diễn tập; mô phỏng chiến thuật trên nền công nghệ
+ArcGIS, Presagis; mô phỏng thiết bị quân sự trên nền Flash.
+
+2. Dự án, đề tài, hợp đẳng OBC:
+
+- Tập trung nghiệm thu cấp quản lý đề tài Nhà nước *Nghiên cứu, xây
+dựng bộ phân tích tổng hợp tiếng nói ứng dụng trong thiết bị thông tin liên lạc”.
+
+- Chủ động xây dựng đề xuất đề tài các cấp, tổ chức bảo vệ và triển khai
+thực hiện.
+
+- Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội. h ;
+
+~ Tiếp tục tham gia và xây dựng thực hiện các hợp đồng tư vấn, giám sát
+dự án CNTT cho các đơn vị trong và ngoài quân đội.
+
+~ Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+3. Nhiệm vụ khác:
+
+- Tham gia đào tạo đại học và sau đại học (tư vấn, hướng dẫn, giảng
+dạy...), hợp tác và chuyên giao công nghệ.~ Thủ trưởng Phòng phê duyệt kế hoạch thực hiện nhiệm vụ năm 2016 của
+từng cán bộ do Phòng quản lý. Kiểm tra, đôn đốc các cán bộ thực hiện và chịu
+trách nhiệm trước Thủ trưởng Viện về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công. 1
+
+- Đăng ký thi đua năm 2016: Phòng đạt danh hiệu đơn vị tiên tiến.
+
+___. Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Thiết bị chuyên dụng và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. ⁄⁄/
+
+Aới nhận:
+~ Phòng TBCD;
+~ Lưu: VT, KH; H03,

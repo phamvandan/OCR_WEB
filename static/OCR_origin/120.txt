@@ -1,0 +1,231 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 22/QĐ-VCNTT Hà Nội, ngày 20 thắng 4 năm 2016
+
+QUYÉT ĐỊNH
+'VỀ việc mở các đề tài nghiên cứu cấp Viện Công nghệ thông tin
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ Quyết định 810/QĐ-TM ngày 21/05/2010 của Tổng Tham mưu
+trưởng về việc ban hành tổ chức biên chế Viện KH-CN quân sự;
+
+Căn cứ theo Định hướng nghiên cứu KHCN của Viện Công nghệ thông tin;
+
+Xét đề nghị của đồng chí Phụ trách Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Mở mới bồn (04) đề tài nghiên cứu cắp Viện Công nghệ thông tin có
+danh mục kèm theo.
+
+Điều 2. Ban Kế hoạch có nhiệm vụ tiến hành các thủ tục cần thiết để quản lý
+các đề tài này theo quy định.
+
+Điều 3. Ban Tài chính có nhiệm vụ cấp kinh phí thực hiện đề tài theo đúng
+quy định.
+
+Điều 4. Các đồng chí Phụ trách Trưởng ban Kế hoạch, Trưởng ban Tài
+chính, Chủ nhiệm đề tài và Trưởng phòng liên quan có trách nhiệm thi hành
+Quyết định này. „422
+
+Nơi nhận:
+
+- Cơ sở phía Nam;
+
+~ Ban Tài chính;
+
+- Các CNĐT;
+
+~ Lưu VT, KH; H08.
+
+ 
+
+ 
+
+ại tá Lê Quang ĐứcDANH SÁCH CÁC ĐÈ TÀI CÁP VIỆN CÔNG NGHỆ THÔNG TIN
+(Phụ lục kèm theo Quyết định số Zÿ)/QĐ-VCNTT ngày 20/4/2016 của Viện trưởng Viện CNTT)
+Khảo sát.
+nghiên cứu.
+khai thác nền
+tảng hỗ trợ
+học sâu phục
+vụ cho việc
+thiết kế và sản
+xuất các trang Nghin cứu
+tìm hiểu, cài
+đặt và chứng
+mìỉnh an toàn
+một số thuật
+toán mã hóa
+trên lưới 'Tên để tài 1⁄ T§ Nguyễn
+Đỗ Văn 
+4/ Th§ Đồ Xuân CNĐT , nội dung nghiên cứu chính tiên cứu so sánh các nền tảng hỗ trợ
+việc học sâu. Lựa chọn và làm chủ nền
+tảng phù hợp với việc phát triển các ứng
+dụng nhúng trên các trang thiết bị chạy
+trên hệ điều hành Linux.
+
+~ Nghiên cứu tổng quan về kỹ thuật học
+sâu, một số thuật toán nỗi tiếng đã được sử
+tảng nhiều long thục SẼ, 
++ Nghiên cứu cơ sở lý thuyết lưới và ứng
+dụng trong Mật mã.
+
++ Cài đặt thuật toán LLL, thuật toán tìm
+véctơ ngắn nhất trên lưới và thuật toán mã
+hóa LWE.
+
++ Đánh giá độ phức tạp các thuật toán
+trên.
+
++ Chứng minh tính an toàn cho sơ đồ thuật
+toán LWE. - Tài liệu khoa học tông
+quan về học sâu, khảo sát
+các nền tảng tính toán và
+chỉ tiết các khả năng hỗ
+trợ của một nền tảng xác
+định
+
+~ Sản phẩm demo kỹ thuật
+học sâu. + Bộ tài liệu báo cáo về cơ
+sở Lý thuyết lưới.
+
++ Mã nguồn phần mềm cài
+đặt thuật toán LLL (để rút
+sọn cơ sở lưới) từ đó có
+thể thử nghiệm tấn công
+vào một số sơ đồ mã hóa
+truyền thống.
+
++ Mã nguồn phần mềm
+tìm véctơ gần nhất trên
+Mới.
+
++ Mã nguồn phần mềm
+thuật toán mã hóa L.WE.
+
++ Tất cả các thuật toán
+trình bày đều có đánh giá
+độ phức tạp. Thuật toán
+mã hóa LWE sẽ được
+chứng mình an toài Dự kiễn kết quả và chỉ
+tiêu kỹ thuật 
+1/2016-
+04/2017 04/2016-
+04/2017 Thời gian
+(BĐ-KT) 20 
+Kinh phí
+(triệu
+đồi 
+thiệt bị thông
+mình Thiết kẻ, xây
+dựng phân Nghiên cứu
+phương pháp
+tương tác với
+phần mềm mô
+phỏng — sử
+dụng thao tác,
+cử chỉ bàn
+tay. 4/ Thề Hoàng
+uấn. 
+4/ TS Phạm Thu
+Hương ~ Nghiên cứu so sánh một số nên tảng h‹
+sâu. Đánh giá dự trên yêu cầu phát tri
+phần mềm trên các hệ thống nhúng.
+
+~ Nghiên cứu chuyên sâu về một nền tàng
+được lựa chọn cho việc phát trin hệ thống.
+trong tương lai.
+
+~ Xây dựng thử nghiệm một số kỹ thuật
+học sâu trên nền tảng đã lựa chọn. Ứng dụng công nghệ thông tin vào công
+án lý nhiệm vụ khoa học công nghệ Nghiên cứu, làm chủ phương pháp tương.
+tác người — máy tính sử dụng thao tác, cử
+chỉ bàn tay, ngón tay dựa trên hệ thống
+thiết bị Leap Motion, làm cơ sở để xây
+dựng các hệ thống mô phỏng huấn luyện
+cho phép tương tác giữa học viên và các
+hệ thống vũ khí, khí tài.
+
+- Nghiên cứu hệ thống thiết bị Leap
+Motion.
+
++ Nghiên cứu tổng quan về Leap Motion:
+cấu trúc hệ thống, cấu hình phần cứng, các
+công cụ đã được phát triển dựa trên Leap
+Motion, cách cài đặt, sử dụng Leap
+Motion, so sánh với các thiết bị khác.
+
++ Nghiên cứu cách sử dụng thư viện lập
+trình SDK của Leap Motion để xây dựng
+các phần mềm có khả năng tương tác bằng
+cử chỉ, thao tác của bàn tay, ngón tay.
+
+- Xây dựng phần mềm thử nghiệm mô
+phỏng cho phép người dùng thực hành
+tương tác với một loại vũ khí, thiết bị dùng
+cử chỉ, thao tác của bản tay. 
+~ Tài liệu bảo cáo phân
+tích thiết kế hệ thống và ~ Tài liệu khoa học về hệ
+thốn thiết bị Leap
+Motion, bao gồm phần
+tổng quan và phương pháp.
+sử dụng thư viện lập trình
+SDK.
+
+- Phần mềm thử nghiệm
+mô phỏng cho phép người
+dùng thực hành tương tác
+với một loại vũ khí, thiết
+bị dùng cử chỉ. thao tác
+của bàn tay. /2016-
+04/2017 04/2017 
+15,295 30 
+mêm Quản lý
+nhiệm — vụ
+Khoa học
+công nghệ sử
+dụng mẫu
+thiết kế
+Dependency
+
+Injection ứng
+dụng tại Cơ
+sở phía Nam
+Viện Công
+nghệ thông tin nhằm cải tiên thông nhất quy trình quản lý.
+theo dõi các nhiệm vụ khoa học công
+nghệ, nâng cao chất lượng quản lý, chỉ huy.
+và điều hành tại Cơ sở phía Nam Viện
+Công nghệ thông tỉn.
+
+- Tìm hiểu mẫu thiết kế Dependene
+Injection trong ASP.NET MVC giải dn nó
+phụ thuộc code và áp dụng vào thất
+
+xây dựng phần mềm Quản lý nhiệm ni
+khoa học công nghệ.
+
+~ Khảo sát phân tích, đánh giá hiện trạng
+quy trình quản lý nhiệm vụ KHCN tại Cơ
+sở phía Nam.
+
+~ Xây dựng phần mềm Quản lý nhiệm vụ
+khoa học công nghệ với các chức năng
+chính
+
+Tạo mới nhiệm vụ
+
+Phân công nhiệm vụ
+
+Cập nhật tiến độ nhiệm vụ
+
+Lập báo cáo nhiêm vụ.
+
+oeooo báo cáo nghiệm thu.
+- Phần mềm Quản lý
+nhiệm vụ khoa học công
+nghệ tại Cơ sở phía Nam
+Viện CNTT 

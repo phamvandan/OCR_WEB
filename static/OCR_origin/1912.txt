@@ -1,0 +1,474 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 243/VCNTT-HC Hà Nội, ngày 23 tháng 5 năm 2019
+'V/v đề xuất công năng khu sản xuất,
+chế thử của Viện CNTT tại khu C.
+
+Kính gửi: Phòng Hậu cân.
+
+Thực hiện nội dung Văn bản số 709/KL-VKHCNQS ngày 17/5/2019 của
+Viện Khoa học và Công nghệ quân sự về Kết luận của Giám đốc Viện tại buổi
+báo cáo quy hoạch chỉ tiết 1/500 khu sản xuất, chế thử và thử nghiệm vũ khí
+trang bị kỹ thuật tại khu C; Viện Công nghệ thông tin đề xuất nhu cầu diện tích
+xây dựng công trình dự án Trung tâm chế thử, thử nghiệm của Viện Công nghệ
+thông tin khu tại khu nhà xưởng hỗn hợp (khu C) như sau:
+
+Khu nhà xưởng hỗn hợp Viện Công nghệ thông tin tại khu C nhằm phục
+vụ hoạt động chế thử, lắp ráp, thử nghiệm các hệ thống điều khiển, nhúng, điện
+tử, mô phỏng, tích hợp, tương tác, thông minh hóa VKTBKT cũng như các hệ
+thống hỗ trợ chỉ huy, tham mưu tác chiến, diễn tập, giúp Viện hoàn thành xuất
+sắc các nhiệm vụ được giao.
+
+Công trình được phân chia thành 02 khu chức năng chính:
+
+1. Khu chế thử, thử nghiệm, vũ khí, trang thiết bị lớn:
+
+1.1. Công năng chính: Sử dụng để tháo, lắp, chế thử, thử nghiệm, sửa
+chữa, nâng cấp các khối thiết bị điều khiển của vũ khí trang bị lớn (các khối thiết
+bị của tổ hợp tên lửa hải quên, tên lửa phòng không, máy bay, ra-đa, xe tăng
+thiết giáp, pháo mặt đất,... ).
+
+Hệ thống trang thiết bị (Chủ yếu là hệ thống trang thiết bị phục vụ
+
+ 
+
+  
+
+tháo lắp):
+
+- Thiết bị nâng hạ, di chuyển bằng thủy lực, động cơ điện
+
+- Các Bộ dụng cụ chuyên dụng tháo lắp cơ khí (cà-lê các loại, mỏ-lết các
+loại, kìm các loại, đe, búa tạ, búa đồng, ê-tô, xà beng tống chốt, kích, vam, đột
+sắt, cưa sắt... ), bộ dụng cụ tháo lắp điện tử, bộ dụng cụ đo kiểm (dụng cụ kiểm
+đo thường, dụng cụ kiểm đo điện);
+
+~ Bàn sắt thao tác, giá, tủ sắt, vật tr phục vụ tháo lắp.
+
+2. Khu thiết kế, chế thử, thử nghiệm hỗn hợp:
+
+2.1 Phòng Thiết kế, chế thử:
+
+* Công năng: Sử dụng để thiết kế, lắp ráp, thử nghiệm điều khiển các vũ
+khí trang bị vừa và nhỏ, các hệ thống mô phỏng bán tự nhiên...
+
+* Hệ thống trang thiết bị:
+
+- Các thiết bị đọc ROM các loại.
+
+~ Các máy tính phục vụ thiết kế, lập trình
+
+~ Máy in, Photocopy các loại~ Các máy scan, chụp mạch in.
+
+- Các thiết bị tháo linh kiện
+
+- Các máy hàn linh kiện
+
+- Các hệ thống đo và tái tạo nguyên lý mạch điện tử.
+
+~ Các máy tính hiệu năng cao
+
+~ Bàn, ghế làm việc.
+
+2.2. Phòng thử nghiệm hệ thống:
+
+* Công năng: Sử dụng để chế thử, lắp ráp, thử nghiệm về các thiết bị điều
+khiển, điện tử, vì mạch, hệ thống nhúng, tích hợp, máy tính...
+
+* Hệ thống trang thiết bị:
+
+- Các bộ nạp, phát triển FPGA.
+
+- Các loại nguồn, thiết bị tải, tạo giả tín hiệu
+
+- Các bộ giao tiếp theo các chuẩn thường gặp trong VKTBKT
+
+~ Các card, máy tính chuẩn thường gặp trong VKTBKT
+
+- Các vỏ máy tính (Chassis) chuyên dụng phục vụ kiểm tra các loại card.
+
+~ Các máy hiện sóng.
+
+~ Các máy tạo tín hiệu, phát tín hiệu.
+
+~ Các máy tính phân tích logic, tín hiệu, phô
+
+~ Các thiết bị đo tham số linh kiện, điện áp
+
+~ Các thiết bị thu và phát hiện nhiễu
+
+2.3. Phòng Mô phỏng:
+
+* Công năng: Sử dụng để trưng bày, lắp ráp, thử nghiệm các hệ thống mô
+phỏng bán tự nhiên và mô phỏng trên máy tính.
+
+* Hệ thống trang thiết bị:
+
+- Các Máy tính phục vụ lập trình, đồ họa mô phỏng.
+
+- Các hệ thống máy chiếu, màn hình.
+
+~ Bàn, ghế làm việc.
+
+2.4. Phòng trực: Bồ trí cho cán bộ của đơn vị trực tại khu C.
+
+2.5. Phòng bảo đảm hạ tầng CNTT:
+
+* Công năng: Sử dụng bảo đảm về hạ tằng CNTT cho toàn khu
+
+* Hệ thống trang thiết bị: Máy chủ, thiết bị lưu trữ, thiết bị mạng, hệ
+thống mạng...
+
+2.6. Phòng Chỉ huy:
+
+* Công năng: Phục vụ công tác chỉ huy, điều hành của đơn vị tại khu C.
+
+* Hệ thống trang thiết bị: Các trang thiết bị phục vụ cho chỉ huy làm việc:
+Bàn, ghế, máy tính....
+
+2.7. Phòng họp đa năng:
+
+* Công năng: Phục vụ cho các cuộc họp, hội thảo.* Hệ thống trang thiết bị: Bàn ghế hội trường, màn hình, máy chiếu,...vv
+
+2.8. Phòng đào tạo, chuyển giao công nghệ:
+
+* Công năng: Sử dụng để huấn luyện, hướng dẫn sử dụng, chuyển giao.
+công nghệ.
+
+* Hệ thống trang thiết bị: Hệ thống máy tính, màn hình, máy chiếu,...vv.
+
+2.9. Khu vực WC.
+
+3. Chất thải phát sinh trong quá trình chế thử, thử nghiệm: Đối với
+các hoạt động của Viện Công nghệ thông tỉn tại khu C phát sinh chất thải công
+nghiệp chủ yếu là chất thải khí và chất thải rắn (Do quá trình hàn các trang thiết
+bị điện tử, thiết bị cơ khí), ngoài ra còn một số chất thải về dầu mỡ trong quá
+trình bảo quản, sửa chữa các khối cơ khí lớn; tuy nhiên lượng chất thải không
+nhiều.
+
+4. Sơ đồ bố trí các phòng chức năng: Toàn bộ các phòng thiết kế, chế
+thử, thử nghiệm bố trí trong khu nhà xưởng; Khu thiết kế, chế thử, thử nghiệm
+hỗn hợp đề nghị bố trí 02 tầng, đề nghị được làm bằng khung thép, cầu thang,
+hành lang thép; ngăn chia các phòng sử dụng vách ngăn bàng vật liệu nhẹ, cách
+âm.
+
+ 
+
+(Có sơ đô kèm theo)
+
+Trên đây là báo cáo nhu cầu công năng khu nhà xưởng hỗn hợp của Viện
+Công nghệ thông tin tại khu C; kính để nghị Phòng Hậu cần xem xét, báo cảo
+Thủ trưởng Viện Khoa học và Công nghệ quân sự và cơ quan cấp trên đầu tư
+xây dựng, tạo điều kiện thuận lợi cho đơn vị thực hiện nhiệm VN
+
+Nơi nhận:
+
+~ Như trên;
+
+~ Phòng TMKH;
+
+~ Ban Kế hoạch;
+
+~ Lưu: VT, HC; D05.
+
+ 
+
+8⁄2 Fx«4 W2)0007 109 9NV8 IYN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l# “V7” ,„/aI
+I1 éYLY1 Ề
+m -— —— x_
+= nh lợp si
+đo “& + =
+ta
+ngon “2m non ti KEigvuaa Mã 0001 ¡09 9NY8 IYN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i0 gu s B37 “gBu 2ụƑ-LINGVV €/[ ÿ* 0A Boạo oag 0)
+{) Ný ĐNO/IHd) dÕH NỌH 9NQ/1X YHN NY8 LÝN QG ØS 
+___ MMTÀNGONT '_ .. _ 6I0 su S000 r ®
+
+SƠ ĐỒ MẠT BẰNG NHÀ XƯỞNG HÕN HỢP (PA 1)
+(Kèm theo Công văn số 2/13. /VCNTT-HC ngày 2 š tháng 5 năm 2019)
+
+®@ @  @  Ơ lệ ị
+š 
+trông học na HônG,
+
+“ điệ "a CIE nổ, mỡ not V0,
+_TuyG THẾTB|LỚN.
+
+3000, Km 000T 103 9Nyđ LYN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i0 tupu $ Buylg VỸAgBu OM-LLNOA/ (7 0S UẸA Bugo oewi uợy)
+{€ Ný 9NO/IH4) dÓH NỌH 9N4/1X YHN ĐNV8 LÝN Q6 0S
+
+ 
+
+"‹ằngvZ
+(mm "Hồ j -=
+đợt
+tNghu ân bu. "“°ÊkÈB .
+lệ -
+
+gu)
+
+©®
+
+mm
+
+ 
+
+ 
+
+ 
+
+®
+
+Ỉ
+
+ 
+
+SƠ ĐÔ MẶT BẰNG NHÀ XƯỞNG HỒN HỢP (PHƯƠNG ÁN 2)
+(Kèm theo Công văn số, 7)|3 /VCMTT-HC ngày )3tháng 5 năm 2019)
+
+ HỶ= Ỷ=..~—=-
+lT”n
+
+ 
+
+s6.
+d0. lạm — se
+
+J— 88 Ị
+tịm— 5m Bộm— 6 SH B—-SE—T 1
+lÌ TH Ì
+
+ 
+
+ 
+
+ 
+
+imnuiauiai
+Ì
+
+ 
+
+§
+
+l8
+
+ 
+
+ 
+
+§
+
+ 
+
+@g—=
+
+@+-
+
+§
+
+@r'l—
+
+@ia#= 1500 ®
+
+SƠ ĐỒ MẬT BẰNG NHÀ XƯỞNG HỖN HỢP (PHƯƠNG ÁN 2)
+(Kêm theo Công văn số ,})\3 /VCNTT-HC ngày )3 tháng 5 năm 2019)
+
+@ @ @ @
+
+® "Áonlx.
+hạ Tânoctr.
+
++ạm0 
+'chuckẻ nữ, Dữ Ngưệu V9 S4,
+Thu tế HN
+
++00 =3 KIÊẾA
+
+SIAI. höne học
+an
+- 
+loTaO VÀ oiyYêx ào
+.c0wa NONE
++30
+s 

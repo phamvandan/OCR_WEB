@@ -1,0 +1,1483 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 1 /BC-VCNTT Hà Nội, ngày 08 tháng 01 năm 2018
+m
+-MẬT) BẢO CÁO TỎNG KÉT
+
+Nhiệm vụ Quân sự - Quốc phòng năm 2017
+và Phương hướng nhiệm vụ năm 2018 của Viện Công nghệ thông tin
+
+Phần thứ nhất
+
+KẾT QUÁ THỰC HIỆN NHIỆM VỤ QUÂN SỰ QUỐC PHÒNG
+NĂM 2017
+
+1. CÔNG TÁC KHOA HỌC CÔNG NGHỆ
+
+1. Nhiệm vụ nghiên cứu khoa học và phát triển công nghệ
+
+1.1 Tham gia các chương trình
+
+Tham gia đề án KC.T: Viện đã hoàn thành 02 đề tài KC.T giai đoạn 1, Viện
+tiếp tục được giao thực hiện 05 đề tài KC.T giai đoạn 2 (đã bước đầu triển khai 03
+đề tài, đã bảo vệ xong và chuẩn bị triển khai 02 đề tài).
+
+Tham gia chương trình KC.BM: Viện đã đề xuất, bảo vệ và bước đầu triển
+khai thực hiện 01 đề tài “Nghiên cứu, thiết kế, xây dựng các hệ thống mô phỏng
+huấn luyện, đào tạo phục vụ cho nhiệm vụ rà phá bom mìn, vật nỗ”
+
+Đề xuất và chuẩn bị bảo vệ dự án công nghệ cao “Nghiên cứu, thiết kế, xây
+dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến khu vực quần
+đảo Trường Sa trên nền hải đồ số và sa bàn số 3D”.
+
+1.2 Nhiệm vụ KHCN thường xuyên
+
+Trong năm 2017, Viện quản lý và thực hiện 37 đề tài các cấp: 08 đề tài cấp
+BQP (02 Đề tài thuộc chương trình KC-T giai đoạn 1; Bảo vệ thuyết mỉnh, kinh
+phí và triển khai 01 đề tài thuộc chương trình KC.BM, 05 đề tài thuộc chương
+trình KC-T giai đoạn 2); 09 đề tài cấp Viện KHCN ; 10 đề tài cấp Sở KHCN
+tỉnh, thành phố; 03 đề tài định hướng cán bộ trẻ, 03 đề tài nghiên cứu cơ sở BQP;
+04 đề tài cấp Viện CNTT.
+
+Trong đó: Đã hoàn thành và nghiệm thu các cấp 20 đề tài: 02 đề tài cấp
+BQP thuộc chương trình KC-T giai đoạn 1; 04 đề tài, nhiệm vụ Cấp Viện
+KHCNG§; 05 đề tài cấp Sở KHCN tỉnh, thành phố; 02 đề tài định hướng cán bộ
+trẻ; 03 đề tài nghiên cứu cơ sở BQP; 04 đề tài cấp Viện CNTT; Chuẩn bị nghiệm
+thu cấp quản lý 02 để tài cắp Viện KHCNGS.
+
+Đề xuất, hoàn thiện đề cương và bước đầu triển khai thực hiện 02 sản phẩm
+mục tiêu giai đoạn 2017-2020 và những năm tiếp theo của Viện: Hệ thống điều
+khiển phóng tên lửa 3M-24E trên tàu ĐKT-1241.8; Hệ thống tự động kiểm tra tên
+lửa 3M-24E (ASK-V).Đề xuất và chuẩn bị bảo vệ 01 đề tài nghị định thư cấp BQP, triển khai thực
+hiện 04 nhiệm vụ hoàn thiện kết quả nghiên cứu và sản phẩm của đề tài để đưa
+vào sản xuất loạt 0.
+
+1.2.1. Triển khai chương trình nghiên cứu, làm chủ VKKTTBKT mới; cải
+tiến, hiện đại hóa VKTB, chế tạo vật tư BĐKT.
+
+Hoàn thành chế tạo một số thiết bị, vật tư (thiết bị kiểm tra rơ le PVE-1T-4V
+trong hệ thống kiểm tra và dự báo hỏng hóc CK/IAB, thiết bị kiểm tra anten thủy
+âm của tổ hợp sôna MGK-400E) phục vụ khai thác làm chủ và đảm bảo kỹ thuật
+cho tàu ngầm Kilo 636 và được Cục Kỹ thuật/BTL Hải quân ký hợp đồng chế tạo
+thiết bị kiểm tra rơ le PYE-IT-4Y trong hệ thống kiểm tra và dự báo hỏng hóc
+CK/HAB; tổ chức lắp đặt thiết bị tích hợp chỉ thị mục tiêu cho tàu Gepard3.9 và
+sửa chữa khối BM1 cho Quân chủng Hải quân.
+
+Hoàn thành nghiên cứu thiết kế chế tạo hệ thống điều khiển trung tâm của tổ
+hợp đối không mặt đất NKVS-27 làm việc đồng bộ với máy bay Su27-§K2 và
+Su30-MK2.
+
+1.2.2. Xây dựng các hệ thống CNTT chỉ huy, quản lý, điều hành
+
+Hoàn thành xây dựng hệ thống phần mềm hỗ trợ tính toán ứng dụng chiến
+đấu sử dụng các phương tiện sát thương hàng không tiêu diệt mục tiêu mặt đất,
+mặt nước giai đoạn 1.
+
+Hoàn thành nghiên cứu phương án xử lý và truyền tín hiệu rađa Hàng không
+dân dụng cho Sở Chỉ huy các đơn vị PK-KQ phía Nam; nghiên cứu, xây dựng hệ
+thống truyền thông đa phương tiện hỗ trợ công tác chỉ huy, điều hành máy bay Su-
+30MK2 tại Sở Chỉ huy Trung đoàn KQ.
+
+Nghiên cứu và xây dựng phần mềm tích hợp dữ liệu bản đồ để nâng cao
+hiệu quả công tác quản lý và khai thác Mạng thông tin chỉ huy điều hành Quân
+khu 7 tại Sở Chỉ huy thường xuyên.
+
+'Nghiên cứu thiết kế chế tạo hệ thống hỗ trợ điều hành chỉ huy tác chiến cho
+đơn vị hải quân cấp vùng.
+
+Tiếp tục phát triển, hỗ trợ kỹ thuật các sản phẩm phục vụ quản lý, điều hành
+cho các bệnh viện, nhà máy, doanh nghiệp trong và ngoài quân đội.
+
+1.2.3. Sản phẩm phục vụ cho huấn luyện, diễn tập
+
+Nghiên cứu thiết kế, chế tạo hệ thống mô phỏng máy điều khiển bắn pháo
+MR-123-02 MOD 3 trên tàu 1241.8
+
+Đã hoàn thành tích hợp thiết bị và xây dựng phần mềm phục vụ huắn luyện
+nhiệm vụ săn ngẦm; nghiên cứu, thiết kế, chế tạo thiết bị tập bắn súng K54 phục
+vụ huấn luyện quân sự
+
+Bước đầu triển khai nghiên cứu hoàn thiện hệ thống công nghệ thông tin
+ứng dụng trong huấn luyện diễn tập chỉ huy cơ quan cấp trung, sư đoàn trên bản
+đồ tại Sở chỉ huy và ngoài thực địa.Tiếp tục nghiên cứu, xây dựng phần mềm hỗ trợ công tác huấn luyện các đài
+rađa đảm bảo bay phục vụ cho máy bay SU-30MK2; nghiên cứu chế tạo hệ thống.
+bia tự động báo kết quả bắn đạn thật sử dụng nhiều lần bằng súng bộ binh.
+
+1.2.4. Sản phẩm phục vụ cho các cơ quan Đảng, Nhà nước
+
+Triển khai và hoàn thành nâng cấp phần mềm tổng kiểm kê theo kế hoạch
+của Cục KHĐT, triển khai cho các đơn vị trong toàn quân.
+
+Triển khai hiệu chỉnh, nâng cấp phần mềm Quản lý CSDL Đảng viên và
+phần mềm Quản lý đảng viên, tập huân sử dụng cho các đơn vị.
+
+1.3. Các hoạt động KHCN khác
+
+Hoạt động của Hội đồng Khoa học Viện đã được triển khai theo đúng qui
+chế, tư vấn một cách hiệu quả cho lãnh đạo, chỉ huy Viện về các định hướng,
+KHCN, đề xuất, xét chọn đề tài, nhiệm vụ các cắp.
+
+Duy trì và đẩy mạnh hoạt động khoa học công nghệ và sáng kiến cải tiến kỹ
+thuật (Được BQP công nhận 02 sáng kiến; được Viện KHCNQS công nhận 02
+sáng kiến và 01 sản phẩm tiêu biểu; được 02 giải thưởng tuổi trẻ sáng tạo toàn
+quân).
+
+Hoàn thành tốt các nhiệm vụ: Nhiệm vụ Tổng điều tra kinh tế năm 2017;
+nhiệm vụ tham gia phục vụ diễn tập MB 17 tại Miếu Môn: Triển khai cài đặt, tập
+huấn chuyên sâu PM “Hỗ trợ huấn luyện diễn tập chỉ huy tham mưu trên bản đồ
+số” và hỗ trợ kỹ thuật trong các đợt diễn tập.....
+
+Bám sát nhu cầu của các đơn vị để xây dựng và triển khai các bài toán quản
+lý với quy mô toàn quân như phần mềm quản lý quân số chung cho Cục quân lực,
+phần mềm quản trị công tác cán bộ cho Cục cán bộ, phần mềm văn kiện tác chiến
+phục vụ diễn tập, huấn luyện cấp chiến thuật - chiến dịch của binh chủng hợp
+thành cho Cục CNTT/BTTTM; phần mềm quản lý xăng dầu, phương tiện kỹ thuật
+~— vật tư xăng dầu trong Quân đội cho Cục Xăng dầu/TCHC; ngoài ra Viện xây
+dựng các phần mềm cho các đơn vị trong và ngoài quân đội khác như cổng thông,
+tin điện tử BTTM cho Văn phòng BTTM; website cho ban chỉ đạo 701, phần mềm
+quản trị doanh nghiệp cho Tổng công ty May 10 ... Thực hiện tư vấn lập dự án,
+thiết kế thi công - tổng dự án ... các dự án công nghệ thông tin.
+
+Tiếp tục hỗ trợ các đơn vị trong toàn quân khai thác các phần mềm đã triển
+khai.
+
+2. Về đầu tư phát triển tiềm lực KHCN
+
+Tiếp tục thực hiện Nghị quyết 128 của Đảng ủy Viện KHCNQS, tạo điều
+kiện cho các cán bộ nghiên cứu phấn đấu các chức danh khoa học; đề xuất bổ sung,
+nguồn cán bộ nghiên cứu mới học nước ngoài về. Xây dựng kế hoạch đào tạo đội
+ngũ cán bộ theo định hướng lâu dài, có quy hoạch đội ngũ cán bộ nghiên cứu có
+trình độ cao.Xây dựng và đề xuất dự án “Trung tâm chế thử, thử nghiệm” tại Khu C,
+danh mục trang thiết bị, phần mềm phục vụ công tác nghiên cứu của Viện theo
+hướng dẫn và báo cáo cơ —= có thẩm quyền.
+
+3. Hoạt động hợp tác về KHCN
+
+Phối hợp với các cơ quan chức năng mở rộng và đây mạnh các hoạt động
+hợp tác KHCN với các đơn vị trong và ngoài quân đội nhằm đẩy mạnh các hoạt
+động nghiên cứu cũng như nhanh chóng nắm bắt, làm chủ các công nghệ mới,
+tham gia triển lãm và giới thiệu sản phẩm theo chỉ đạo của cấp trên.
+
+4. Đánh giá chung
+
+Điểm mạnh:
+
+- Đã tập trung chỉ đạo, tăng cường công tác kiểm tra đôn đốc các bộ phận,
+cán bộ phối hợp triển khai thực hiện công việc có hiệu quả theo đúng các định
+hướng, kế hoạch đã đặt ra.
+
+- Nâng cao chất lượng, hiệu quả các đẻ tài, nhiệm vụ, dự án ở tất cả các
+khâu từ đề xuất, xây dựng, thực hiện cho đến nghiệm thu và đưa vào ứng dụng.
+Không còn đề tài bị đánh giá là chậm tiến độ
+
+Tân tại:
+
+Việc hoàn thiện đề tài sau nghiệm thu còn kéo dài.
+
+Nguyên nhân:
+
+Do các chủ nhiệm đề tài còn chủ quan trong quá trình hoàn thiện hồ sơ và
+phối hợp với các cơ quan chức năng dẫn đến kéo dài.
+
+Biện pháp khắc phục
+
+Phát huy tỉnh thần trách nhiệm, tính chủ động, sáng tạo của các chủ nhiệm
+đề tài.
+
+II. CÔNG TÁC ĐẢNG, CÔNG TÁC CHÍNH TRỊ
+
+1. Công tác tuyên huấn
+
+Đã tiến hành tổng kết phong trào thi đua quyết thắng năm 2017 và chuẩn bị
+nội dung phát động phong trào thi đua quyết thắng năm 2018; khen thưởng, biểu
+dương các tập thể cá nhân có thành tích tiêu biểu trong năm 2017. Tổ chức thành
+công Đại hội thi đua Quyết thắng giai đoạn 2012-2017; phát động và sơ kết các
+đợt thi đua cao điểm. Khen thưởng kịp thời các tập thể, cá nhân điển hình tiên tiền,
+xuất sắc tiêu biểu trong các phong trào thi đua của Viện nhằm động viên khuyến
+khích cán bộ, nhân viên trong triển khai và thực hiện nhiệm vụ được giao. Tổ chức
+tốt công tác sơ kết, tổng kết của Cụm thi đua các Viện nghiên cứu và Trung tâm
+CNCKCX. Tổ chức hội nghị học tập, quán triệt và triển khai thực hiện các Nghị
+quyết Trung ương (khóa XI); triển khai kiểm tra nhận thức chính trị và viết thu
+hoạch năm 2017 theo đúng quy định.
+
+2. Công tác tổ chức xây dựng Đảng
+
+Đảng ủy tổ chức phiên họp cuối năm gắn với kiểm điểm bổ sung năm 2016
+theo Nghị quyết Trung ương 4 (khóa XII), Chỉ thị 05 của Bộ Chính trị trên cơ sở
+
+4đó chỉ đạo các chỉ bộ trực thuộc kiểm điểm theo đúng kế hoạch, nội dung đáp ứng,
+yêu cầu và quy định của trên. Tổ chức quán triệt, triển khai Nghị quyết lãnh đạo
+thực hiện nhiệm vụ quân sự quốc phòng và công tác xây dựng Đảng năm 2017 của
+Đảng ủy Viện; các chỉ bộ xây dựng nghị quyết lãnh đạo thực hiện nhiệm vụ năm
+2017 ở cấp mình. Hướng dẫn các chỉ bộ tổ chức cho cán bộ, đảng viên viết cam
+kết về giữ gìn phẩm chất đạo đức, lối sống, không có biêu hiện suy thoái “tự diễn
+biến”, “tự chuyển hóa” trong nội bộ.
+
+Sửa đổi bổ sung quy chế làm việc của đảng ủy, UBKT nhiệm kỳ 2015-2020
+và xây dựng ban hành quy chế lãnh đạo công tác cán bộ của đảng ủy Viện.
+
+3. Công tác kiểm tra, giám sát
+
+Đảng uỷ thường xuyên quán triệt các chỉ thị, nghị quyết, quy định, quyết định
+hướng dẫn của trên và cấp mình về công tác kiểm tra, giám sát và thi hành kỷ luật
+Đảng; Nghị quyết lãnh đạo công tác kiểm tra, giám sát nhiệm kỳ và Quy chế làm việc
+của Uỷ ban Kiểm tra Đảng ủy Viện nhiệm kỳ 2015-2020. Làm quy trình đề nghị kiện
+toàn uỷ viên và chủ nhiệm UBKT Đảng uỷ đủ về số lượng, Tiến hành kiểm tra đảng,
+ủy bộ phận phía Nam; chỉ bộ Phòng Kỹ thuật hệ thống theo điểm 2, Điều 30 Điều lệ
+Đảng đúng kế hoạch đề ra; phát huy vai trò của UBKT, cơ quan chính trị và các chỉ
+bộ trong việc nắm tình hình, kiểm tra đối với tổ chức đảng và đảng viên.
+
+4. Công tác cán bộ
+
+Chỉ đạo và làm việc với các Phòng, Ban về rà soát phương án điều chỉnh,
+sắp xếp lại nhân sự, điều động cán bộ nội bộ; xét đề nghị chuyển ra, phục viên, đề
+bạt nâng lương, thăng quân hàm sĩ quan các cắp năm 2017; đề nghị bổ nhiệm và
+điều động cán bộ năm 2017; đề xuất nhu cầu đào tạo cán bộ tại nước ngoài; nhu
+cầu học viên tốt nghiệp trường Bộ năm 2017. Công bố các quyết định của trên về
+thăng quân hàm sĩ quan năm 2017. Đề nghị trên xét đề nghị cho cán bộ được đăng
+ký tham gia mua nhà ở chính sách, nhà ở xã hội của Bộ Quốc phòng, nhà công vụ.
+Quán triệt, triển khai thực hiện NQ của Đảng ủy Viện KH - CNQS về việc cử cán
+bộ đi thực tế tại đơn vị.
+
+Đề nghị cấp mới, cấp đổi thẻ BHYT cho sĩ quan và thân nhân sĩ quan năm
+2017. Thường xuyên quan tâm chăm lo thực hiện tốt công tác chính sách cán bộ
+và chính sách hậu phương cán bộ.
+
+6. Công tác bảo vệ chính trị nội bộ
+
+Quán triệt, triển khai thực hiện nghiêm các chỉ thị, quy định của Đảng, Nhà
+nước, Quân đội, TCCT và của Viện vê công tác bảo vệ chính trị nội bộ; bảo vệ bí
+mật an toàn. Tiếp tục triển khai rà soát chất lượng chính trị nội bộ; thâm định, xét
+duyệt tiêu chuẩn chính trị các cán bộ đi công tác nước ngoài, đối tượng cộng tác
+viên. Thực hiện nghiêm công tác bảo vệ chính trị nội bộ, bảo vệ bí mật an toàn.
+
+7. Công tác dân vân
+
+Triển khai đề nghị trợ cấp khó khăn cho thân nhân cán bộ có hoàn cảnh khó
+khăn: tham gia ủng hộ Quỹ “Ngày vì người nghèo”, quỹ “Đền ơn đáp nghĩa”. Tổchức hội nghị gặp mặt đối thoại dân chủ cơ sở đồng thời thực hiện tốt việc tham
+gia phối hợp các nhiệm vụ công tác dân vận theo sự hướng dẫn chỉ đạo của Phòng,
+Chính trị/Viện KH-CN quân sự.
+
+8. Công tác quần chúng
+
+Hướng dẫn các tổ chức quần chúng triển khai kế hoạch công tác Công đoàn,
+Thanh niên, Phụ nữ năm 2017; chỉ đạo tổ chức Đại hội Đoàn, Đại hội Công đoàn
+cơ sở nhiệm kỳ 2017-2022 bảo đảm tốt. Tham gia Hội nghị tuyên dương và trao
+Giải thưởng TTST cấp Viện lần thứ XVII. Chỉ đạo tổ chức quần chúng phói hợp
+với Viện TĐH-KTQS tham gia liên hoan văn nghệ hát ru, hát dân ca. (đạt giải B)
+
+9, Công tác Kế hoạch tổng hợp
+
+Xây dựng và triển khai kế hoạch CTĐ, CTCT năm 2017; phân ‹ cấp kinh phí
+CTĐ, CTCT năm 2017 cho cơ sở phía Nam. Xây dựng kế hoạch và tiến hành kiểm
+tra hoạt động nền nếp CTĐ, CTCT của các chỉ bộ hàng quý.
+
+Đánh giá chung: Hoạt động CTĐ, CTCT năm 2017 trong Viện được triển
+khai toàn diện và hoàn thành theo kế hoạch gắn với thực hiện Nghị quyết Trung
+vơng 4 (khóa XI), Chỉ thị 05 của Bộ Chính trị. Hoạt động thông tin, tuyên truyền
+về kết quả hoạt động nghiên cứu KHCN, hoạt động chung của Viện được tiến
+hành kịp thời và đạt kết quả tốt. Đơn vị an toàn về mọi mặt; cán bộ, nhân viên xác
+định tốt trách nhiệm hoàn thành tốt nhiệm vụ được giao.
+
+1H. CÔNG TÁC ĐÀO TẠO
+
+Thực hiện nhiệm vụ Giám đốc Viện KHCNQS giao, Viện CNTT đã triển
+khai thực hiện Quy chế đào tạo trình độ tiến sĩ của Viện KHCNQS và chỉ đạo của
+Phòng đảo tạo, đạt một số kết quả như sau:
+
+Số lượng NCS Viện hiện tại quản lý: 32 NCS.
+
+Tổ chức thi chuyên đề cho 4 NCS; hội thảo luận án cho 09 NCS; bảo vệ cấp
+cơ sở 10 NCS; bảo vệ cấp Viện KHCNQS 03 NC§; tổ chức giảng dạy các học
+phần trình độ tiến sĩ bắt buộc và tự chọn, xây dựng Chương trình khung đào tạo
+tiến sĩ cho 02 chuyên ngành là Cơ sở toán học cho tin học và Lý thuyết xác suất
+thống kê toán học.
+
+Hoạt động của Hội đồng đào tạo được duy trì thường xuyên góp phần nâng,
+cao chất lượng quản lý và đào tạo của Viện chuyên ngành.
+
+Phối hợp với Phòng đào tạo tổ chức tuyển sinh đầu vào khóa 2017; Thực
+hiện chế độ quản lý tập trung năm cuối.
+
+Cán bộ Viện CNTT đã tham gia giảng dạy và hướng dẫn luận văn tốt nghiệp
+cho các học viên cao học các trường trong và ngoài quân đội.
+
+Một số hạn chế
+
+Vẫn còn NCS chậm tiến độ và phải gia hạn.
+
+Lực lượng cán bộ có trình độ tiến sĩ của Viện còn hạn chế lượng (15
+tiến sĩ), trong đó phân lớn còn trẻ về thâm niên khoa học, chưa có cán bộ có học
+hàm GS, PGS.1V. CÔNG TÁC THÔNG TIN, TẠP CHÍ
+
+Quản lý và khai thác tốt mạng LAN của Viện Công nghệ thông tin và mạng
+'WAN của Viện KHCNQS phục vụ công tác nghiên cứu.
+
+Thường xuyên tổ chức hội thảo kết quả nghiên cứu của đề tài, hội thảo các
+hướng nghiên cứu chuyên sâu.
+
+Đôn đốc các đề tài, nhiệm vụ KHCN thực hiện tốt báo cáo kết quả nghiên
+cứu sau khi nghiệm thu.
+
+Chủ động viết bài báo và tham gia viết bài cho Tạp chí KHKT-CNQS và
+các tap chí khoa học khác.
+
+'Viện đã tổ chức xuất bản chuyên san “Tin học, điều khiển và ứng dụng” với
+chất lượng bài báo được các phản biện đánh giá cao.
+
+V. CÔNG TÁC KỸ THUẬT
+
+1. Công tác đảm bảo trang bị
+
+Quản lý và khai thác tốt trang thiết bị đã được đầu tư theo các dự án, phục
+vụ tốt cho các nhiệm vụ nghiên cứu khoa học được giao.
+
+Tiến hành công tác chuẩn bị tổng kiểm kê trang thiết bị 0h ngày 01/01/2018
+theo quy định.
+
+Thực hiện bàn giao trang thiết bị loại khỏi biên chế do hỏng hóc và hết khả
+năng sử dụng cho Phòng Kỹ thuật, đúng đủ, theo tiến độ.
+
+Tổ chức, đôn đốc thực hiện ngày kỹ thuật hàng tuần.
+
+Nhập liệu hỗ sơ kỹ thuật trang thiết bị theo phần mềm được cấp, báo cáo
+định kỳ theo phần mềm lên cơ quan cắp trên đảm bảo chính xác, kịp thời.
+
+Phân bổ ngân sách kỹ thuật đúng nội dung, đôn đốc và kiểm tra việc mua
+sắm thiết bị theo hướng dẫn của phòng Kỹ thuật
+
+2. Công tác thanh tra KTAT và BHLĐ
+
+Công tác KTAT, vệ sinh lao động, BHLĐ: Thực hiện thường xuyên.
+
+Kiểm định kỹ thuật an toàn các phương tiện có yêu cầu nghiêm ngặt về
+ATLĐ theo hướng dẫn của Phòng Kỹ thuật.
+
+Số lượng và tình trạng các vụ việc mắt an toàn: Không có
+
+'VI. CÔNG TÁC TÀI CHÍNH
+
+Triển khai thực hiện kế hoạch ngân sách năm 2017 đảm bảo cho các nhiệm
+vụ chính trị trọng tâm của Viện. Đã cấp phát kịp thời, đầy đủ kinh phí theo yêu
+cầu chỉ của các Phòng, Ban với số kinh phí hơn 25 tỷ đồng, trong đó đã đáp ứng,
+kịp thời theo tiến độ các đề tài, nhiệm vụ của Viện.
+
+Công tác kế toán của Viện đã đi vào nề nếp. Mọi nghiệp vụ kinh tế, tài
+chính phát sinh đều được phản ánh đầy đủ, trung thực, kịp thời, rõ ràng, chính xác
+trên số kế toán. Đã ban hành và thống nhất hệ thống mẫu biểu kế toán, quyết toán
+sử dụng trong toàn đơn vị. Chấp hành nghiêm các quy định quản lý tiền mặt. Đơn
+vị đã thực hiện tốt việc quản lý tiền mặt và thanh toán không dùng tiền mặt theo.
+
+7quy định. Công tác quản lý báo cáo Thuế, TSCĐ được duy trì thường xuyên theo
+đúng quy định
+
+Năm 2017, doanh thu Viện đạt hơn 17 tỷ 268 triệu đồng, trong đó:
+
++ Giá trị phục vụ quốc phòng: 11 tỷ 766 triệu đồng (chiếm tỷ trọng 68%)
+với 36 hợp đồng.
+
++ Giá trị phục vụ kinh tế: 5 tỷ 502 triệu đồng (ehiểm tỷ trọng 32%) với 21
+hợp đồng.
+
+So với năm 2016, tiếp tục có sự chuyên dịch sang hướng ứng dụng CNTT
+phục vụ quốc phòng (Năm 2016 tỷ lệ quốc phòng/dân sinh là: 55/45)
+
+Đã chủ động xây dựng kế hoạch, phối hợp với. các cơ quan, cắp trên chuẩn
+bị hồ sơ, tài liệu, phục vụ công tác kiểm tra, phúc tra sau Tổng quyết toán năm
+2016; Thanh tra thuế toàn diện năm 2017 theo Quyết định của Cục thuế TP Hà
+Nội. Qua kiểm tra, cơ bản công tác tài chính của Viện tốt, đáp ứng được yêu cầu
+trong quản lý tài chính và thực hiện nhiệm vụ. Đơn vị không có khoản ngân sách
+nào bị xuất toán và thu hồi.
+
+Công tác quyết toán ngân sách và tổng kết công tác tài chính hàng năm
+được thực hiện đúng trình tự, thời gian quy định. Mọi số liệu về thu chỉ tài chính
+trong năm đều được phản ánh trung thực, chính xác trên báo cáo quyết toán năm.
+
+Tích cực đẩy mạnh công tác quyết toán đề tài nhiệm vụ trong năm, hạn chế
+việc chỉ dồn vào quý 4 và xin chuyển ngân sách sang năm sau. Năm 2017, đã
+thanh toán và quyết toán 19 đề tài, nhiệm vụ với tổng kính phí: 7 tỷ 765 triệu
+đồng.
+
+'VII CÔNG TÁC HẬU CÀN
+
+Hoàn thành công tác khám sức khỏe định kỳ cho cán bộ nhân viên (Cả khu
+vực phía Bắc và phía Nam).
+
+Tổ chức tiếp nhận và cấp phát quân trang cho cán bộ nhân viên theo quy
+định.
+
+Tiếp tục phối hợp với Ban QL công trình Sở Chỉ huy tổ chức sửa chữa, khắc.
+phục hư hỏng đảm bảo điều kiện làm việc của đơn vị.
+
+Công tác vận tải bảo đảm an toàn, kịp thời; đưa xe PQ 50-68 đi sửa chữa tại
+nhà máy, kết quả đảm bảo.
+
+Theo dõi chặt chẽ hợp đồng KHCN, duy trì các thủ tục trình ký hợp đồng,
+đảm bảo theo quy định.
+
+Một số hạn chế
+
+Tỷ lệ quân số khỏe thấp, đặc biệt còn trường hợp cán bộ nghỉ chữa bệnh kéo
+dài, không đảm bảo sức khỏe làm việc.
+
+Sửa chữa, khắc phục sự có về điện, nước chưa kịp thời, đặc biệt trong thời
+gian cao điểm nắng nóng.
+
+Một số hợp đồng dịch vụ KHCN chưa kết thúc được theo đúng tiến độ.'VII. CÔNG TÁC VĂN PHÒNG
+
+1. Công tác quân lực
+
+Đã tổ chức tốt việc quán triệt các văn bản hướng dẫn quy định về công tác
+quân lực và triển khai công tác nghỉ chế độ, chính sách lên lương đúng quy trình,
+quy định, bảo đảm nguyên tắc công khai, đảm bảo đầy đủ quyền lợi cho các cán
+bộ, CNV của đơn vị.
+
+Công tác quản lý hồ sơ: thực hiện tốt việc kiểm tra rà soát, tổng hợp số bảo
+hiểm của QNCN, CNVQP, LĐHĐ, nhập bổ sung thông tin vào số BHXH theo quy
+định. Cập nhật toàn bộ dữ liệu hỗ sơ tiểu sử QNCN-CNVQP đang quản lý.
+
+Thực hiện kịp thời, chu đáo chế độ chính sách: cấp tiền an dưỡng cho
+QNCN-LĐHĐ đúng đủ kịp thời, cấp thẻ BHYT cho toàn bộ thân nhân các QNCN
+đủ điều kiện
+
+Hoàn thiện công tác rà soát, lập báo cáo danh sách QNCN đủ điều kiện
+hưởng theo chế độ thâm niên mới, đúng đủ và kịp thời.
+
+“Thực hiện công tác rà soát văn bằng cán bộ thuộc khối quân lực quản lý
+theo quy định.
+
+Tổ chức cho cán bộ tuyển dụng năm 2017 thuộc khối quân lực quản lý đi
+huấn luyện theo quy định của Bộ quốc phòng.
+
+2. Công tác Hành chính - Quân sự.
+
+- Duy trì hệ thống phần mềm quản lý quân số và thiết bị nhận dạng vân tay
+phục vụ cho công tác quản lý quân số, quản lý thời gian làm việc của cán bộ, nhân
+viên; chế độ báo cáo quân số hàng ngày đã được chỉ huy Phòng, Ban chú trọng,
+duy trì thường xuyên hàng ngày; việc chấp hành thời gian làm việc cũng như lễ
+tiết tác phong của cán bộ, nhân viên có chuyển biến tốt.
+
+- Thực hiện tốt công tác huấn luyện quân sự và bắn đạn thật cho đơn vị tại
+khu vực đóng quân phía Bắc, và phía Nam; đảm bảo nghiêm túc, an toàn mọi mặt;
+'bắn đạn thật đạt kết quả cao.
+
+- Thực hiện tốt việc quản lý văn bản theo quy định của Bộ và hướng dẫn của
+Viện KH-CN quân sự; sử dụng tốt hệ thống mạng nội bộ, chuyển giao công văn,
+giấy tờ, văn bản kịp thời theo ý kiến chỉ đạo của Thủ trưởng; duy trì và phát huy
+hiệu quả hệ thống bảng tin điện tử.
+
+- Rà soát quy chế làm việc của Viện để điều chỉnh, bổ sung cho phù hợp
+quy chế làm việc của Viện KH-CN quân sự và yêu cầu nhiệm vụ của Viện.
+
+- Điều chỉnh phương án PCCN, kiện toàn Đội xung kích phù hợp với yêu
+nhiệm vụ.
+
+~ Duy trì các mặt công tác thường xuyên: trực ban, trực nhật, đăng ký gửi
+xe, đăng ký làm việc ngoài giờ, bảo đảm an toàn đơn vị,...;
+
+- Công tác vệ sinh môi trường, sắp đặt nội vụ trong các phòng làm việc cơ
+bản gọn gàng ngăn nắp.
+
+~ Tích cực tham gia các phong trào thể thao của Viện KH-CN quân sựMột số hạn chế
+
+'Vẫn còn hiện tượng cán bộ chưa thực sự chấp hành nghiêm túc quy định về
+lễ tiếp tác phong vẫn để Viện KHCNQS nhắc nhở.
+
+Ghi chép thông tin trong số trực ban, ký số trực có ngày chưa đủ nội dung,
+còn để nhắc nhở.
+
+IX. ĐÁNH GIÁ CHUNG
+
+Năm 2017, với sự quyết tâm và nỗ lực của toàn thể cán bộ Viện đã khẳng
+định: Viện CNTT là Viện nghiên cứu chuyên ngành đứng trong đội hình của Viện
+KHCNQS, đã có những đóng góp quan trọng giúp Viện KHCNQS thực hiện thắng
+lợi nhiệm vụ BQP giao.
+
+Năm 2017 Viện CNTT đã hoàn thành xuất sắc kế hoạch QS-QP đã đề ra
+trên tắt cả các mặt công tác và là 1 trong 5 đơn vị được Viện KH&CN Quân sự
+tặng cờ thi Äua quyết thắng.Phần thứ hai
+PHƯƠNG HƯỚNG NHIỆM VỤ QUÂN SỰ QUỐC PHÒNG
+NĂM 2018
+
+A. Phương hướng
+
+Tiếp tục triển khai theo kế hoạch thực hiện Định hướng nhiệm vụ
+KHCN&MT giai đoạn 2016-2020 của Viện CNTT; bám sát nhu cầu thực tiễn của
+các đơn vị trong Quân đội, tận dụng tối đa tiềm lực KHCN của đơn vị, tăng cường,
+hợp tác với các đơn vị trong và ngoài Quân đội để gắn kết nghiên cứu với ứng,
+dụng;
+
+Tập trung tiềm lực đầu tư cho các hướng nghiên cứu Viện có thế mạnh để
+tạo ra các sản phẩm hoàn chỉnh có qui mô tương đối lớn, trong đó vẫn tiếp tục ưu
+tiên hoàn thiện và triển khai ứng dụng các sản phẩm đã nghiên cứu. Hội đồng
+khoa học Viện tiếp tục chủ động hơn nữa trong trách nhiệm tư vấn.
+
+B. Nhiệm vụ
+
+I.CÔNG TÁC KHOA HỌC CÔNG NGHỆ
+
+1. Nhiệm vụ nghiên cứu khoa học và phát triển công nghệ
+
+1.1 Thực hiện chương trình, nhiệm vụ, dự án trọng điểm
+
+Triển khai thực hiện đúng tiến độ các đề tài: 05 đề tài KC.T giai đoạn 2, 01
+đề tài chương trình KC.BM.
+
+“Triển khai chuẩn bị và bảo vệ thuyết minh và kinh phí dự án Công nghệ cao
+cấp nhà nước.
+
+1.2 Nhiệm vụ KHCN thường xuyên
+
+Thực hiện nghiệm thu theo đúng tiến độ 16 đề tài, nhiệm vụ KHCN các cấp
+(03 đề tài, 04 nhiệm vụ hoàn thiện cấp Viện KHCNQS; 05 đề tài cấp sở KHCN
+tỉnh, thành phố; 01 đề tài định hướng cán bộ trẻ)
+
+Chuẩn bị và bảo vệ thuyết minh, kinh phí đề tài nghị định thư cấp BQP
+“Hợp tác nghiên cứu, thiết kế chế tạo thiết bị chống trinh sát âm thanh ứng dụng
+trong nghiệp vụ bảo mật thông tin quân sự”
+
+Tiếp tục nghiên cứu, đề xuất mở mới đề tài các cấp theo kế hoạch và theo
+nhu cầu của các đơn vị ứng dụng.
+
+1.2.1. Triển khai chương trình nghiên cứu, làm chủ VKTBKT mới; cải tiến,
+hiện đại hóa VKTB, chế tạo vật tư BĐKT.
+
+Sản xuất các thiết bị, vật tư đảm bảo kỹ thuật (Thiết bị giả đạn IR-60VN,
+Khối BMI, thiết bị kiểm tra rơ le PYE-IT-4Y trong hệ thống kiểm tra và dự báo
+hỏng hóc CK/IAB, ...) cho các đơn vị theo yêu cầu.
+
+Tích hợp thiết bị, xây dựng phần mềm và CSDL nhằm rút ngắn thời gian
+tìm và chọn vị trí trận địa cho TLPK S-300PMUI.
+
+Triển khai nghiên cứu chế tạo các cụm khối vật tư phục vụ BĐKT cho các
+'hê thống thông tin đảm bảo bay của OCPK-KO.1.2.2. Xây dựng các hệ thông CNTT chỉ huy, quản lý, điều hành
+
+Tiếp tục nghiên cứu xây dựng, hoàn thiện các hệ thống thông tin phục vụ
+cho chỉ huy, quản lý, điều hành của Quân khu, Tổng cục, Cục chuyên ngành......
+
+Tiếp tục hoàn thiện các bộ sản phẩm phục vụ cho các bệnh viện, nhà máy,
+doanh nghiệp trong và ngoài quân đội. Nghiên cứu phát triển các hệ thống phục vụ
+cho các lĩnh vực mới.
+
+1.2.3. Sản phẩm phục vụ cho huấn luyện, diễn tập
+
+Tiếp tục nghiên cứu, phát triển các hệ thống mô phỏng phục vụ huần luyện.
+
+Hoàn thành chế tạo hệ thống mô phỏng máy điều khiển bắn pháo MR-123-
+02 MOD 3 trên tàu 1241.8; Hệ thống bia tự động báo kết quả bắn đạn thật sử dụng,
+nhiều lần bằng súng bộ binh; Thiết bị tập bắn súng K54 phục vụ huấn luyện quân
+sự triển khai cho đơn vị...
+
+Nghiên cứu hoàn thiện hệ thống công nghệ thông tỉn ứng dụng trong huấn
+luyện diễn tập chỉ huy cơ quan cấp trung, sư đoàn trên bản đồ tại Sở chỉ huy và
+ngoài thực địa.
+
+1.2.4. Sản phẩm phục vụ cho các cơ quan Đảng, Nhà nước
+
+Tiếp tục hỗ trợ Bộ phần mềm Quản lý CSDL Đảng viên toàn quốc, toàn
+quân.
+
+Chủ động phối hợp với các cơ quan xây dựng, đề xuất và thực hiện các dự
+án, nhiệm vụ và hợp đồng phục vụ cho các cơ quan Đảng, Nhà nước.
+
+1.3 Nhiệm vụ KHCN khác
+
+Trên nền tảng những sản phẩm đã được xây dựng tiếp tục đầu tư phát triển
+để tạo ra các sản phẩm hoàn chỉnh có qui mô lớn dẫn hình thành sản phẩm mục
+tiêu, sản phẩm quốc gia của Viện.
+
+Hoạt động của Hội đồng Khoa học triển khai theo đúng qui chế, tư vấn một
+cách hiệu quả cho lãnh đạo, chỉ huy Viện về các định hướng KHCN. Giúp chỉ huy
+viện trong việc đề xuất, xét chọn đề tài, nhiệm vụ các cấp từ hội thảo đầu vào, tiền
+độ thực hiện, hội thảo đầu ra.
+
+2. Về đầu tư phát triển tiềm lực KHCN
+
+Tiếp tục thực hiện Nghị quyết 128-NQ/ÐU của Đảng ủy Viện KHCNQS,
+tạo điều kiện cho các cán bộ nghiên cứu phần đấu các chức danh khoa học.
+
+Triển khai thực hiện chuẩn bị mua sắm cho dự án “Trung tâm chế thử, thử
+nghiệm” tại Khu C/ Viện KHCNQS, các trang thiết bị, phần mềm phục vụ công
+tác nghiên cứu của Viện theo hướng dẫn của các cơ quan có thẩm quyền.
+
+3. Hoạt động hợp tác về KHCN
+
+Tiếp tục phối hợp với các cơ quan chức năng mở rộng và đẩy mạnh các hoạt
+động hợp tác KHCN với các đơn vị trong và ngoài quân đội cũng như với các đối
+tác nước ngoài nhằm thúc đẩy mạnh hơn nữa các hoạt động nghiên cứu cũng như
+nhanh chóng nắm bắt, làm chủ các công nghệ mới của thế giới.II. CÔNG TÁC ĐĂNG, CÔNG TÁC CHÍNH TRỊ
+
+1. Phương hướng
+
+Tiếp tục quán triệt, triển khai và thực hiện có hiệu quả các chỉ thị, nghị
+quyết của các cấp ủy Đảng. Quyết tâm thực hiện thắng lợi các chỉ tiêu mà Nghị
+quyết Đại hội Đảng bộ Viện CNTT nhiệm kỳ 2015-2020 đề ra; đưa Nghị quyết đi
+vào thực chất, sát với yêu cầu lãnh đạo và tổ chức thực hiện nhiệm vụ chính trị của.
+Viện. Tập trung xây dựng Đảng bộ Viện vững mạnh về chính trị, tư tưởng và tổ
+chức, đặc biệt là nhận thức của cán bộ, đảng viên về nhiệm vụ chính trị và vai trò,
+vị trí của Viện trong tình hình mới. Phát huy vai trò của các tổ chức quần chúng,
+trong việc triển khai, tổ chức thực hiện nhiệm vụ chỉnh trị đảm bảo chất lượng,
+hiệu quả cao.
+
+2. Nhiệm vụ trọng tâm
+
+1. Tiếp tục quán triệt sâu sắc đường lối, quan điểm, chủ trương của Đảng,
+chính sách và pháp luật của Nhà nước; tình hình nhiệm vụ quân đội, nhiệm vụ đơn
+vị, tạo sự thống nhất cao về nhận thức tư tưởng và hành động trong toàn Viện.
+
+2. Quán triệt, triển khai và thực hiện nghiêm túc các chỉ thị, nghị quyết của
+các cấp. Tiếp tục thực hiện có hiệu quả, khắc phục những hạn chế, yếu kém theo
+NQTW⁄4 (khóa XII) về tăng cường xây dựng, chỉnh đốn đảng; ngăn chặn, đây lùi
+suy thoái về tư tưởng chính trị, đạo đức, lối sống, những biểu hiện “tự diễn biến”
+“tự chuyển hóa” gắn với thực hiện Chỉ thị 05 của Bộ Chính trị; Chỉ thị 87 của
+Thường vụ QUTW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong,
+cách Hồ Chí Minh.
+
+3. UBKT thực hiện tốt chức năng tham mưu giúp Đảng ủy tiến hành công,
+tác kiểm tra, giám sát tổ chức đảng và đảng viên nhất là cắp uỷ viên, cán bộ chủ trì
+các cấp. Chủ động phối hợp chặt chẽ, nắm chắc tình hình, kiểm tra, ngăn chặn kịp
+thời những tổ chức đảng và đảng viên khi có dấu hiệu vi phạm (nếu có).
+
+4. Tập trung nâng cao chất lượng đội ngũ cán bộ; xây dựng, đào tạo, bồi
+dưỡng đội ngũ cán bộ KHCN có trình độ cao sát với yêu. cầu nhiệm vụ NCKH của
+Viện theo Nghị quyết 128 của Đảng ủy Viện KH-CN quân sự. Thực hiện tốt công.
+tác quy hoạch, kiện toàn cán bộ chỉ huy, quản lý các cấp gắn với cấp ủy các cấp
+nhiệm kỳ 2015-2020. Triển khai thực hiện nghiêm Nghị quyết số 331-NQ/ÐU của
+Đảng ủy Viện KH-CNQS về cử cán bộ đi thực tế tại đơn vị cơ sở theo Kế hoạch
+của đơn vị đã báo cáo trên. Thực hiện đúng đối tượng và đảm bảo chặt chẽ việc
+lập, cấp thẻ BHYT cho sĩ quan và thân nhân quân nhân năm 2018.
+
+5. Tăng cường công tác bảo vệ chính trị nội bộ, giữ bí mật, phần đấu 100%
+đơn vị đảm bảo an toàn tuyệt đối về chính trị. Đẩy mạnh các hoạt động công tác
+dân vận, phối hợp chặt chẽ với các cơ quan, đơn vị và chính quyền địa phương xây
+dựng cơ sở chính trị an toàn, giữ vững và phát huy phẩm chất, truyền thống Bộ đội
+Cụ Hồ.6. Đẩy mạnh và nâng cao chất lượng hoạt động đối thoại dân chủ, công tác
+chính sách quân đội và hậu phương quân đội. Thực hiện, triển khai các hoạt động
+“Đền ơn đáp nghĩa”.
+
+7. Tăng cường sự lãnh đạo của đảng ủy đối với 03 tổ chức quần chúng; xây
+dựng các tổ chức quần chúng vững mạnh xuất sắc đảm bảo luôn hoạt động theo
+đúng chức năng, nhiệm vụ và hiệu quả thiết thực.
+
+8. Đổi mới hình thức, phương pháp tiến hành hoạt động CTĐ, CTCT của cơ
+quan chính trị, góp phần đáp ứng yêu cầu nhiệm vụ thực tiễn của Viện trong tình
+hình mới.
+
+II. CÔNG TÁC ĐÀO TẠO
+
+Tiếp tục đây mạnh sự phối hợp chặt chẽ giữa Thủ trưởng, Hội đồng đào tạo,
+trợ lý đào tạo và các Phòng chuyên môn trong thực hiện công tác quản lý, đào tạo
+trình độ tiến sĩ của Viện chuyên ngành theo các quy định hiện hành.
+
+Đề xuất các hướng nghiên cứu, hướng đề tài luận án cho NCS gắn liền với
+các đề tài, nhiệm vụ hiện có hoặc định hướng mở của Viện CNTT, phù hợp với
+định hướng KHCN của Viện KH-CN quân sự.
+
+Kiểm tra tiến độ thường xuyên và hiệu quả đối với các NCS do Viện quản
+lý, bám sát kế hoạch nghiên cứu của NCS, nắm bắt kịp thời các khó khăn của NCS
+để tìm cách tháo gỡ và kiên quyết xử lý các trường hợp chậm tiền độ.
+
+Năm 2018, Viện CNTT có kế hoạch phấn đấu bảo vệ thành công cấp Viện
+KHCNGQS cho I1 NCS, cấp cơ sở cho 7 NCS, hội thảo luận án cho 8 NCS; 100%
+các NCS khóa 2016, 2017 hoàn thành các môn học bổ sung, bắt buộc và tự chọn.
+
+IV. CÔNG TÁC THÔNG TIN, TẠP CHÍ
+
+Tổ chức duy trì tốt hoạt động thông tin khoa học phục vụ công tác nghiên
+cứu. Xuất bản chuyên san của Viện trong đầu quý III/⁄2018.
+
+Cập nhật tin tức mới nhất về lĩnh vực KHCN.
+
+V. CÔNG TÁC KỸ THUẬT
+
+Tổ chức thực hiện tốt công tác đảm bảo trang bị, bảo đảm kỹ thuật.
+
+Tích cực, chủ động tạo nguồn vật tư, đồng bộ trang bị, đáp ứng kịp thời yêu
+cầu nhiệm vụ của Viện; tăng cường quản lý, khai thác sử dụng trang thiết bị đã và
+đang được đầu tư.
+
+Nâng cao chất lượng công tác huần luyện kỹ thuật.
+
+VI. CÔNG TÁC TÀI CHÍNH
+
+Xây dựng, phân bổ dự toán chỉ ngân sách năm 2018 theo đúng tiêu chuẩn,
+định mức và thời hạn. Xây dựng dự toán ngân sách năm 2019 đạt kết quả cao nhất.
+
+Thực hiện tốt công tác quyết toán ngân sách, tổng kết công tác tài chính
+năm 2017. Chuẩn bị tốt cho công tác kiểm toán năm 2017 của Kiểm toán Nhà
+nước nhằm đạt kết quả cao nhất. Tăng cường công tác thanh tra, kiểm tra tài chính,
+kiên quyết không quyết toán đối với những nhiệm vụ không đủ thủ tục pháp lý, hồ
+sơ chứng từ. Tích cực đôn đốc quyết toán hàng tháng, quý; thực hiện cắp phát kinh
+
+14phí theo tiến độ công việc, không để số dư tạm ứng nhiều, chỉ thực hiện cấp phát
+khi đã thanh toán xong tạm ứng. Đổi mới công tác thẩm định số liệu quyết toán
+đảm bảo chính xác và công khai.
+
+Quán triệt và thực hiện nghiêm dự toán năm 2018 được Viện KH - CNQS
+giao, thực hiện phân cấp triệt đẻ, gắn với trách nhiệm của người chỉ huy và người
+trực tiếp chỉ tiêu. Tăng cường quản lý và điều hành chặt chẽ việc sử dụng mọi
+nguồn ngân sách. Thẩm định chặt chẽ dự toán kinh phí đề tài, nhiệm vụ các cấp,
+chỉ phí sản xuất của hoạt động có thu, giá sản phẩm quốc phòng.
+
+“Triển khai thực hiện tốt việc quyết toán ngân sách tháng, quý đối với Phòng
+Tài chính. Quản lý thu, chỉ Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+kịp thời, đúng quy định.
+
+Hướng dẫn kịp thời cho các Phòng, Ban, Chủ nhiệm Hợp đồng, Chủ nhiệm
+đề tài thực hiện theo các chế độ, chính sách, văn bản hướng dẫn của Nhà nước và
+Bộ Quốc phòng, đồng thời bỗ sung hoàn thiện cơ chế quản lý của Viện.
+
+'VII. CÔNG TÁC HẬU CÀN
+
+“Tiếp nhận và cấp phát tiêu chuẩn quân trang 2018 cho các đối tượng khi có
+thông báo của cơ quan cắp trên đảm bảo đúng, đủ số lượng và cỡ số.
+
+Thường xuyên theo dõi sức khoẻ của toàn thể cán bộ Viện; giải quyết kịp
+thời các thủ tục phục vụ cho việc khám chữa, bệnh của cán bộ, nhân viên, đặc biệt
+là các trường hợp cấp cứu.
+
+Quản lý, sử dụng điện nước tiết kiệm, hiệu quả; kịp thời khắc phục, sửa
+chữa hư hỏng công trình phục vụ sinh hoạt, làm việc. w
+
+Duy trì đảm bảo xe hoạt động phục vụ các mặt công tác của Viện kịp thời,
+an toàn.
+
+Theo dõi chặt chẽ hợp đồng KHCN, duy trì các thủ tục trình ký hợp đồng
+đảm bảo theo quy định.
+
+Phối hợp với cơ quan cấp trên triển khai dự án “Trung tâm chế thử, thử
+nghiệm” tại Khu C/Viện KHCNQS theo đúng kế hoạch.
+
+'VIII. CÔNG TÁC VĂN PHÒNG
+
+Duy trì công tác theo đúng quy định, đảm bảo công văn đi, đến được giải
+quyết ngay trong ngày; Nâng cao hơn nữa hiệu quả sử dụng hệ thống mạng nội bộ.
+
+“Tăng cường kiểm tra việc chấp hành chế độ sinh hoạt, làm việc tại đơn vị;
+thực hiện kế hoạch huấn luyện quân sự, kiểm tra thể lực cho CB, NV bảo đảm
+quân số cao nhất và an toàn tuyệt đối; tham mưu cho Thủ trưởng Viện đẩy mạnh
+các hoạt động thể thao, hàng ngày cho cán bộ của Viện.
+
+Điều chỉnh phương án PCCC cho phù hợp; thường xuyên kiểm tra, đôn đốc
+nhắc nhở các đơn vị và các cá nhân thực hiện tốt phòng chống cháy, nỗ.
+
+Duy trì tốt công tác vệ sinh môi trường đảm bảo doanh trại luôn sạch đẹp.
+
+Thực hiện tốt các mặt của công tác quân lực. Đảm bảo đầy đủ mọi chế độ,
+chính sách đối với cán bộ, CNV trong đơn vị.
+
+15Phần thứ ba
+ĐÈ XUÁT, KIÊN NGHỊ
+
+Trong năm 2017 Viện CNTT đã được Đảng ủy, Thủ trưởng Viện KH-CN
+quân sự tạo điều kiện trên mọi mặt công tác giúp Viện CNTT thực hiện thắng lợi
+kế hoạch QS-QP đã đặt ra; nhiệm vụ chính trị trọng tâm nghiên cứu KHCN&MT
+đạt được nhiều thành tựu đáng khích lệ. Năm 2018, Viện CNTT kính mong Đảng
+úy, Thủ trưởng Viện KH-CN quân sự và các cơ quan chức năng tiếp tục tạo điều
+
+kiện cho Viện để Viện hoàn thành tốt nhiệm vụ QS-QP 2018.
+
+Năm 2018. toàn thê cán bộ, công nhân viên của Viện luôn là một khói thống
+nhất, đông lòng. với quyết tâm khẳng định vị thế và vai trò của Viện CNTT. thực
+
+hiện thắng lợi nhiệm vụ QS-OP năm 2018./. ||”
+
+Nơi nhận: N TRƯỞNG
+
+~ Thủ trưởng Viện KHCNQS;
+
+~ Phòng Tham mưu ~ Kế hoạch:
+
+- Văn phòng Viện KHCNQS:
+
+~ Khách mời dự HNQC(12):
+
+~ Thủ trưởng Viện CNTT(05);
+
+~ Các đầu mỗi trực thuộc Viện(19):
+
+-Lưm: VT. KH: Ha41, Trung tá Đỗ Việt Bình
+MPHỤ LỤC
+
+Danh mục đề tài, nhiệm vụ KHCN Viện Công nghệ thông tin
+(Kèm theo Báo cáo số: ⁄!2 /BC-VCNTT ngày 08 tháng 01 năm 2018 của Viện Công nghệ thông tin)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài Em TH Ni Ghi chú
+1 | Cấp nhà nước
+Chuẩn ðj bảo vệ thuyŠt minh, Kinh T 2018
+Nghiên cứu, thiết kế, xây dựng hệ tác nghiệp, tính toán,
+1 | mô phỏng phương án tác chiến khu vực quản đảo Trường Sa | 2 Nghệ nề Bảo vệ trong năm 2018
+trên nên hải đồ điện tử và sa bản số 3D
+1I_| Đề tài, nhiệm vụ cấp BỌP.
+Theo chương trình KC-T giai đoạn T
+INghiên cứu, thiết kế hệ thông tô hợp thiết bị điều khiễn phóng| 4// Phạm Hông Long | 12/2013- Nghiệm thu cấp quản lý
+1 |tên lửa KACV 3P-60Y2-12418 và thiết kế, chế thử máy 05/2016 8.500 ngày 20/02/2017. Kết quả:
+|KBI6311 Đạt. Đã hoàn thiện hề sơ
+2 [Nghiên cứu, thiết kế, chế thừ giá kiểm tra hệ thông điều khiển| 1⁄ Nguyễn Thái Hòa | T2/2013— 6950 Nghiệm thu ngày 14/6/2017
+quán tính (ACY) II-074 của đạn tên lửa Kh-35E 12/2015. : Kết quả: Đạt
+'Mỡ mới
+Chương trình KC-BM
+Nghiên cứu, thiết kể, xây dựng các hệ thông mô phỏng huấn ñ 11/2017- Bảo vệ đầu vào và triển khai
+1` | luyện, đo tạo phục vụ cho nhiệm vụ rà phá bom mìa, vật nó | /ĐỂVitBihh | th2A 52900 k tôm lim
+Theo chương trình KC-T giai đoạn 1T
+Nghiên cứu thiết kế và chế tạo khối chức năng THI.| ¡/N yZn Minh | 08/2017 Bảo vệ đầu vào và triển khai
+1 | TTBB34 trong máy tính trên khoang BIIBM-20-701 của đạn En (9/2019 7.160 thực hiện
+tên lửa 2MJA Ae số: Ko - Thường. ĩ :
+Nghiên cứu thiết kế chế tạo thiết bị tự động kiểm tra tình Bảo vệ đầu vào và triên khai
+2 | kỹ thuật khối BMI của hệ thống tự động điều khiển phóng tên MEN 0 Công | ÔN 4400 thực hiện
+
+ 
+
+lửa trên tàu KACY 3P-60Y2-1241.8, Mã số: KC-T.22
+4 Nghiên cứu thiệt kế chế tạo thiết bị tự động kiêm tra tình trạng.
+kỹ thuật khối BM1 của hệ thống tự động điều khiển phóng tên
+lửa trên tàu KACYV 3P-60Y2-1241.8, Mã số: KC-T.22 Nghiên cứu thiết kề và chế tạo khôi chức năng IHHI,
+TIBB34 trong máy tính trên khoang BLIBM-20-701 của đạn
+tên lửa 3M-242, Mã số: KC-T.27 Nghiên cứu, thiết kê, xây dựng các hệ thông mô phỏng huân
+luyện, đào tạo phục vụ cho nhiệm vụ rả phá bom mìn, vật nỗ. 
+Chương trình KC-BM Mở mới Nghiên cứu, thiệt kẻ, ch thử giá kiểm tra hệ thông điều khiển
+quán tính (CV) II-074 của đạn tên lửa Kh-35E Nghiên cứu, thiết kẻ hệ thông tô hợp thiết bị điêu khiển phóng
+tên lửa KACY 3P-60V2-I2418 và thiết kế, chế thử máy
+KEI63I 
+Theo chương trình KC-T giai đoạn EF Đề tài, nhiệm vụ cập BỌP. Nghiên cứu, thiết kê, xây dựng hệ thông tác nghiệp, tính toán,
+mô phỏng phương án tác chiến khu vực quần đảo Trường Sa
+trên nền hải đồ điện tử và sa bàn số 3D. Chuẩn bị bảo vệ thuyết mình, kinh phí năm 2018 
+(Cập nhà nước Tên đề tài, nhiệm vụ KHCN. 4/ Phạm Xuân Công 1// Nguyễn Minh
+Thường 
+2// Đỗ Việt Bình 1⁄/ Nguyên Thái Hòa. 4// Phạm Hông Long 2/ Nguyễn Đức
+Định 
+Chủ nhiệm đề tài 08/2017-
+02/2019 08/2017-
+02/2019 11/2017-
+04/2020 
+12/2013—
+12/2015 12/2013—
+05/2016 Thời gian
+(đĐ-KT 4.400 
+52.900 6.950 8.500 Kinh phí (triệu
+đồng) 
+'Bảo vệ đầu vào và triên khai
+thực hiện Bảo vệ đầu vào và triển khai
+thực hiện 'Bảo vệ đầu vào và triển khai
+thực hiện Nghiệm thu ngày 14/6/2017
+Kết quả: Đạt 
+Nghiệm thu cập quản lý:
+ngày 20/02/2017. Kết quả:
+Đạt. Đã hoàn thiện hồ sơ Bảo vệ trong năm 2018 Ghi chú Kinh phí (triệu Ì
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài (BD-KT) đồng) | Ghỉ chú
+Nghiên cứu, thiết kế chế tạo và thử nghiệm máy KY163LL R Í Bão vệ đầu vào và triển khai
+thuộc hệ thống tự động điều khiễn phóng tên lửa trên tàu dựa | 7 Phạm Hồng Long thực hiện
+¿ | trên nguyên mẫu KY16311 của tổ hợp KACY 3P-60Y2- 08/2017- LH
+12418. Lắp ráp hoàn chỉnh hệ thống KACY 12418-VN có 07/2020 '
+chức năng tương đương KACV 3P-60V2-12418, Mã số: KC-
+T28
+Hoàn thiện thiết kế và qui trình công nghệ chế tạo thiết bị Ta Dự kiến: ệ kinh phí. Chuải
+4 | kiểm tra hệ thống điều khiển quán tính II.074 của tên lửa Kh- | 1“ Nguyễn Thái Hòa | 12/207. 1450 DAHáG Về KÍn) BI, GMIẪN
+35E 12/2020 bị ký hợp động
+Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa suấn |_ Dựkiến: ính phí. Chu
+5 | Kh-35E dựa theo nguyên lý hoạt động của thiết bị nguyên | # Dương Phú Tuần | tr/;a;, 33.400 Đã Nêu kim mà Chấn
+mẫu 11/2020 bị ký hợp đông
+Chuẩn bị bảo vệ thuyết mình, kinh phí năm 2013
+Đề tài nghị định thư "Hợp tác nghiên cứu, thiết kế chế tạo
+1 | thiết bị chống trình sát âm thanh ứng dụng trong nghiệp vụ | 1⁄ Thái Trung Kiên Bảo vệ trong năm 2018
+q mật thông tin quân sự”
+TI [ Cấp Viện KHCNQS
+Nền cứu, thiết kế, xây dựng hệ thông mô phòng huấn luyện | _ 1//LêNgọc Tú — Đã nghiệm thu cấp quân lý
+1 khiển hệ thống Orbiter-2 bay, quan sát và chỉ thị mục 5/2016 2.400 ngày 16/02/2017.
+tiêu.
+Nhiệm vụ KHCN: "Cải tiễn, hiện đại hóa Ra đa P-37: Thiết 47 Lê Đạt Nghiệm thu cấp quản lý
+2 kế chế tạo mới hệ thống chống nhiễu, hệ thống hiện sóng và 6/2015- 2.440 ngày 31/3/2017
+tích hợp hệ thống tự động kiểm tra, dự báo hỏng hóc cho đài 12/2016 :
+Ra đa P-37"
+Nghiên cứu thiết kế xây dựng hệ thông phẫn mễm hỗ ượ tính | 2// Đặng Thanh — Nghiệm thu cấp quản lý
+3 | toán ứng dụng chiến đâu sử dụng các phương tiện sát thương, Quyền nh 2.682 ngày 30/3/2017
+hàng không tiêu diệt mục tiêu mặt đất, mặt nước.
+Dã ÿ tiểu diệt mục
++ | Nhiệm vụ cấp Viện KHCNQS “Nghiên cứu, thiết kế chỗ tạo | 4/ThSPhạm Văn | 06/2016- = Nghiệm thu cấp quản lý
+một số thiết bị, vật tư phục vụ khai thác làm chủ và đảm bảo. Hậu 12/2016. " ngày 01/08/2017
+Nhiệm vụ cấp Viện KHCNQS “Nghiên cứu, thiết kệ chê tạo
+một số thiết bị, vật tư phục vụ khai thác làm chủ và đảm bảo Nghiên cứu thiết kệ xây dựng hệ thông phần mềm hỗ trợ tính
+toán ứng dụng chiến đâu sử dụng các phương tiện sát thương
+hàng không tiêu điệt mục tiêu mặt đất, mặt nước Nhiệm vụ KHCN: “Cài tiên, hiện đại hóa Ra đa P-37: Thiết
+kế chế tạo mới hệ thống chống nhiễu, hệ thống hiện sóng và
+
+tích hợp hệ thống tự động kiểm tra, dự báo hỏng hóc cho đài
+Ra đa P-37° Nghiên cứu, thiệt kẻ, xây dựng hệ thông mô phỏng huân luyện
+khiển hệ thống Orbiter2 bay, quan sát và chỉ thị mục 
+đẺ tải nghi dỊnh tHƯ Hợp 6ác nghiền cứu, PHối, kế cHế Tạ0.
+thiết bị chống trình sát âm thanh ứng dụng trong nghiệp vụ
+bảo mật thông tin quân sự?” Chuân bị bảo vệ thuyệt mình, kinh phí năm 2018 Nghiên cứu thiết kẻ chê tạo hệ thông tự động kiêm tra tên lửa
+E35E dựa theo nguyên lý hoạt động của thiết bị nguyên
+ăn Hoàn thiện thiết kể và qui trình công nghệ chế tạo thiết bị
+kiểm tra hệ thống điều khiển quán tính II-074 của tên lửa Kh-
+35E 
+Nghiên cứu, thiết kẻ chê tạo và thử nghiệm máy KY163LL
+thuộc hệ thống tự động điều khiển phóng tên lửa trên tầu dựa
+trên nguyên mẫu KY1631{ của tổ hợp KACY 3P-60V2-
+12418. Lắp ráp hoàn chỉnh hệ thống KACY 12418-VN có
+chức năng tương đương KACY 3P-60Y3-12418, Mã số: KC-
+T.28 Tên đề tài, nhiệm vụ KHCN. 4/ ThS Phạm Văn
+Hậu 2// Đặng Thanh
+Quyền 
+4/ Lê Đạt 1// Lê Ngọc Tú 1⁄ Thái Trung Kiên 4/ Dương Phú Tuần 
+1⁄ Nguyễn Thái Hòa 4i! Phạm Hồng Long, Chủ nhiệm đề tài 06/2016-
+12/2016 
+12/2015-
+12/2016 6/2015-
+12/2016 12/2014-
+5/2016 Dự kiên:
+11/2017-
+11/2020 
+Dự kiên:
+12/2017-
+12/2020 08/2017-
+07/2020 Thời gian
+(BD-KT) 2440 
+2400 33.400 7.450 14.600. 
+Kinh phí (triệu
+đồng) 2.250 2.682 Bảo vệ trong năm 2018 
+Đã bảo vệ kinh phí. Chuẩn.
+bị ký hợp đồng Đã bảo vệ kinh phí. Chuẩn
+bị ký hợp đồng Đã bảo vệ kinh phí. Chuẩn
+bị ký hợp đồng Bảo vệ đầu vào và triên khai
+thực hiện 
+Ghi chú Nghiệm thu cập quản lý
+ngày 01/08/2017 Nghiệm thu cập quản lý
+ngày 30/3/2017 Nghiệm thu cập quản lý
+ngày 31/3/2017 
+Đã nghiệm thu cấp quản lý
+ngày 16/02/2017. TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đỀ tài tron, = HH Ghi chú
+
+kỹ thuật cho tàu ngẫm Kilo 636"
+
+Để tài cấp Viện KHCNQS “Nghiên cứu xây đựng thử nghiệm | 4/ Ths Nguyễn Cảnh Đã nghiệm thu cấp cơ sở:
+s_| mô hình hệ thống quản tị tích hợp cho các chương trình quản Hùng 06/2016- tha Chuẩn bị nghiệm thu quản
+
+lý của Viện KHCNQS, nâng cấp Chương trình Quản lý hành 12/2017 ý
+
+chính và Trang thông in điện tử để thử nghiệm mô hình trên”
+
+thiết RỂ, chế tạo hệ thông mô phỏng máy điều |  4/ Dương Hồng 12/2016 - Triển khai thực hiện
+
+6 -123-02 MOD 3 trên tàu 1241.8 Trường 06/2018 h
+
+Nghiên cứu thiết kế chế tạo hệ thông điều khiễn trung tâm của. 12/2016 Đã nghiệm thu cấp cơ sở.
+7. | tổ hợp đối không mặt đát NK V$-27 làm việc đồng bộ với máy |_1⁄ Đinh Văn Ngọc | 12/201; 1.680 Chuẩn bị nghiệm thu quản
+
+bay Su27-SK2 và Su30-MK2 “ý
+
+Nghiên cứu, xây dựng hệ thống tự động thu thập, phân tích, 01/2017 Triển khai thực hiện theo
+8 | tổng hợp thông tỉn, hỗ trợ công tác theo dõi, điều hành chỉ | 3/ Nguyễn Nhật An | _ o;zpyg 1.980 tiến độ
+
+huy, ra quyết định trong lĩnh vực thông tin tình báo
+
+Mở mới
+
+Nghiên cứu hoàn thiện, phát triển hệ thông phần mềm tính 02017 “Triển khai thực hiện theo.
+9 | toán ứng dụng chiến đấu sử dụng phương tiện sát thương hàng | 2// Nguyễn Sinh Huy 122018 2.460 tiến độ
+
+không tiêu diệt mục tiêu mặt đất, mặt nước.
+
+Nghiên cứu hoàn thiện hệ thông công nghệ thông tin ứng - — Đã bảo vệ thuyết mình, kinh
+10 | dụng trong huần luyện diễn tập chỉ huy cơ quan cấp trung, sư | 1// Nguyễn Thái Học | 1220p 1350 phí. Hoàn thiện hỗ sơ chuẩn
+
+đoàn trên bản đồ tại Sở chỉ huy và ngoài thực địa bị triển khai
+
+“Nhiệm vụ hoàn thiện
+
+"Nhiệm vụ hoàn thiện công nghệ "Hoàn thiện và đưa vào sản | 1/ Nguyễn Thái Học | 12/207. l -
+1. | xuất loạt 0 giá kiểm tra, chuẩn đoán hỏng hóc các mảng chức. Thành 200 Triển khai theo kế hoạch
+
+năng ra đa Kasta-2E2”'
+
+Hoàn thiện và đưa vào sản xuất loạt "0" thiết bị giả đạn IR-60_ | 4/ Nguyễn Tuấn Anh Ì_ 12/20; Triển khai theo kế hoạch.
+° 12/2018 8g
+3 _| Hoàn thiện và đưa vào sản xuất loạt "0° thiết bị VIKO-VN0I | 4/VũHoàngAnh | 122017- ¬ Triển khai theo kế hoạch
+
+12/2018
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+!.
+Nghiên cứu thiết kê, chế tạo hệ thông mô phỏng máy điêu
+khiển bắn pháo MR-123-02 MOD 3 trên tàu 1241.8 Để tài cấp Viện KHCNQS “Nghiên cứu xây dựng thử nghiệm
+mô hình hệ thống quản trị tích hợp cho các chương trình quản
+lý của Viện KHCNQS, nâng cấp Chương trình Quản lý hành
+chính và Trang thông tin điện tử để thử nghiệm mô hình trên” kỹ thuật cho tàu ngâm Kilo 636” Tên đề tài, nhiệm vụ KHCN 
+Nghiên cứu, xây dựng hệ thông tự động thu thập, phân tích,
+tổng hợp thông tin, hỗ trợ công tác theo dõi, điều hành chỉ
+huy, ra quyết định trong lĩnh vực thông tin tình báo. tổ hợp đối không mặt đất NKVS-27 làm việc đồng bộ với máy
+bay Su27-SK2 và Su30-MK2 Hoàn thiện và đưa vào sản xuất loạt “0” thiết bị VIKO-VN0I Hoàn thiện và đưa vào sản xuất loạt “0” thiết bị giả đạn IR-60 
+Nhiệm vụ hoàn thiện công nghệ "Hoàn thiện và đưa vào sản
+xuất loạt 0 giá kiểm tra, chuẩn đoán hỏng hóc các mảng chức
+năng ra đa Kasta-2E2” Nhiệm vụ hoàn thiện Nghiên cứu hoàn thiện hệ thông công nghệ thông tin ứng
+dụng trong huấn luyện diễn tập chỉ huy cơ quan cấp trung, sư
+đoàn trên bản đồ tại Sở chỉ huy và ngoài thực địa Nghiên cứu hoàn thiện, phát triên hệ thông phân mêm tính
+toán ứng dụng chiến đầu sử dụng phương tiện sát thương hàng,
+không tiêu diệt mục tiêu mặt đất, mặt nước _ 
+4/ Vũ Hoàng Anh 4/ Nguyễn Tuần Anh. 1⁄/ Nguyễn Thái Học 1⁄/ Nguyễn Thái Học 
+2// Nguyễn Sinh Huy 3// Nguyễn Nhật An 1⁄/ Đinh Văn Ngọc 4/ Dương Hông
+Trường 
+4/ Ths Nguyễn Cảnh
+Hùng Chủ nhiệm đề tài 12/2017-
+12/2018 12/2017-
+12/2018 
+12/2017-
+12/2018 12/2017-
+12/2018 07/2017-
+12/2018 01/2017-
+06/2018 
+12/2016-
+12/2017 12/2016
+06/2018 06/2016-
+12/2017 Thời gian
+(BĐ-KT) 
+150 200 200 1.350 
+2.460 1.980 1.680 2480 
+§20 Kinh phí (triệu
+đồng) “Triên khai theo kê hoạch Triên khai theo kê hoạch. 
+“Triển khai theo kế hoạch Đã bảo vệ thuyết minh, kinh
+phí. Hoàn thiện hồ sơ chuẩn "Triên khai thực hiện theo
+tiến độ Triển khai thực hiện theo.
+tiến độ 
+'Đã nghiệm thu cấp cơ sở.
+Chuẩn bị nghiệm thu quản
+lý Triên khai thực hiện 'Đã nghiệm thu cấp cơ sở.
+Chuẩn bị nghiệm thu quản
+Ụ Ghi chú Thời gian
+
+'Kinh phí (triệu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài Ì_ (mp.KT) đồng) Ghỉ chú
+2_ | Hoàn thiện thiết kế, chế tạo Khối ính toán BMI của hệ thông |, 4/ ĐỗXuânNgọc | 12/2017- s8 "Triển khai theo kế hoạch
+điều khiển phóng tên lửa KACY 3P-60V2 12/2018
+Chuẩn bị mở mới 2018.
+'Nghiên cứu hoàn thiện và đưa vào áp dụng hệ thống hỗ trợ man
+1 _ | chuẩn bị bay cho các trung đoàn không quân của Quân chủng _ | 4/ Nguyễn Duy Nam 12 tháng 1.500 Bi»vg vn _ HƯƠNG
+PKKQ z
+Hoàn điện và áp dụng thử hệ thống tích hợp Phục xạ huấn
+luyện diễn tập cấp lữ đoàn dựa trên các hệ thống huấn luyện à : “Triển khai bảo vệ tháng
+2 | BẾP Lẻ hẹp ta lửa Basion và kíp chiến đấu tổ hợp ra đa |” Bạch Hồng Quyết | _ 12tháng 1508 01/2018
+Monolit ~ B tại Lữ đoàn 681 quân chủng Hải quân
+TH | Đề tài, nhiệm vụ cấp Sở, Tổng cục
+' ĐÈ tài cấp tỉnh Vĩnh Long 2015: Nghiên cứu, thiết kế, chế tạo 3⁄LêNgọc Bảo | Qu/;ps_ 466 'Nghiệm thu cấp quản lý
+BÊ nụ dt bắn súng K54 phục vụ huấn luyện quân sự tỉnh 08/2016 ngày 06/04/2017.
+Đề tài TP.HCM: Nghiên cứu phương án xử lý và truyền tín 4/ Nguyễn Thanh. 10/2015 - T15 9 ắ b
+THCM: Nghiệm thu cắp quản Ì
+2 | hiệu rađa Hàng không dân dụng cho Sở Chỉ huy các đơn VÌ Linh 04/2017 dưng GDÙIT, ;
+PK-KQ phía Nam.
+Đề tải tỉnh Đồng Nai: Nghiên cứu, xây dựng hệ thống truyền |_3// 'Nguyễn Thanh 12/2015- 470 'Nghiệm thu cấp quản lý
+3. | thông đa phương tiện hỗ trợ công tác chỉ huy, điều hành máy | Chương Ha 0920017 7
+bay Su-30MK2 tại Sở Chỉ huy Trung đoàn KQ
+Đề tài tỉnh Tây Ninh: Nghiên cứu chế tạo hệ thống thiết bị |_ 3 LêNgọc Bảo | ga/201s. 789 "Nghiệm thụ cấp quản lý
+4 | liên lạc tích hợp thông tỉn GPS phục vụ công tác tuần tra biên.
+TH p 03/2017 06/9/2017
+giới tình Tây Ninh.
+Đề tài tình Long An: Nghiên cứu chế tạo hệ thống bia tự động | _4/ Trịnh Văn Xa 1640 .
+s__| báo kết quả bắn đạn thật sử dụng nhiều lần bằng súng bộ binh | Bộ CHQS tỉnh Long |_ 03/2016~ Đang triển khai thực hiện
+An 11/2017 (đã gia hạn đến 08/2018)
+4/ Phù Phước Hu)
+TT
+
+ 
+
+Hoàn thiện thiê
+
+điều khiển phón
+
+ 
+
+Chuẩn bị mở m
+
+ 
+
+Nghiên cứu hoà
+chuẩn bị bay ch
+PKKQ
+
+ 
+
+Hoàn thiện và
+luyện diễn tập.
+bắn tổ hợp têr
+
+ 
+
+Monolit — B tại
+Đề tài, nhiệm \
+
+ 
+
+ 
+
+ĐỀ tài cấp tỉnh
+thiết bị tập bá
+Vĩnh Long
+
+ 
+
+Đề tài TP.HCI
+hiệu rađa Hàn
+PK-KQ phía N
+
+ 
+
+Đề tài tỉnh Đồ
+thông đa phươ
+bay Su-30MK:
+
+ 
+
+Đề tài tỉnh Tả
+liên lạc tích họ
+giới tỉnh Tây Ì
+
+ 
+
+ 
+
+Đề tài tỉnh Loi
+báo kết quả bổ TT + 1 
+Chủ nhiệm đề tài
+
+ 
+
+ 
+
+a hệ thông |__ 4/ Đỗ Xuân Ngọc
+
+ 
+
+ 
+
+hỗ trợ
+sân chủng _| 4/ Nguyễn Duy Nam
+
+ 
+
+ic vụ huần
+
+huấn luyện à
+in nà dạ | / Bạch Hồng Quyết
+
+ 
+
+Kế chế tạo| 3 LêNgọc Bảo -
+uân sự tỉnh
+
+ 
+
+ 
+
+à truyền tín |_ 4/ Nguyễn Thanh
+các đơn vị Linh
+
+hồng truyền |_ 3//Nguyễn Thanh
+u hành máy. Chương,
+
+ống thiết bị |_ 3⁄/ Lê Ngọc Bảo.
+uần tra biên
+.bia tự động |_ 4// Trịnh Văn Xa
+
+¡ng bộ bình | Bộ CHQS tỉnh Long
+An
+
+4/ Phù Phước Huy T.. | Thờigan | Kinh phí(ưiệu R
+mđÈ tài | (BĐKT) dao Ghi e
+AnNgọc | 12/2017- z0 "Triển khai the
+
+12/2018
+Bảo vệ và tri
+Duy Nam | 12tháng 1.500 Bi
+à . Triển khai bổ
+ðng Quyết | 12tháng 1.500 t2
+lgọc Đảo | 20s. $6 'Nghiệm thú.
+08/2016 ngày 06/(
+Thanh | 10/2015- Ti :
+Nghiệm thu
+04/2017
+nh ngày thán
+ễnThanh | 12/201s. đơ 'Nghiệm thu
+mUng: 12/2016 ngày 08
+T4
+NgọcBảo |  Q9/2015- ” 'Nghiệm thu
+03/2017 06/9
+h Văn Xa 1,640 .
+s tình Long |_ 08/2016~ Đang triển k
+An 11/2017 (đã gia hạn (
+
+"hước Hu 12 tháng 12 tháng. 
+06/2015 -
+08/2016 _ 10/2015 -
+04/2017 12/2015-
+12/2016 09/2015-
+
+03/2017 
+200 TT Tên đỀ tài, nhiệm vụ KHCN Chủ nhiệm đề tài Ea "  N (triệu Ghi chú
+6 Đề tài tỉnh Đồng Nai: Tích hợp thiết bị và xây dựng phần | 4/ Trần Trọng Việt |  05/2016— n 'Đã nghiệm thu cấp quản lý
+mrềm phục vụ huận luyện nhiệm vụ săn ngằm, 11/2017 12/12/2017
+Đề tài cắp TP.HCM: Nghiên cứu và xây dựng phần mẻm tích | _ 4/ Hoàng Tuấn 1285
+2 _ | hợp dữ liệu bản đồ để nâng cao hiệu quả công tác quản lý và 6/2016- Đăng thực Hiện,
+khai thác Mạng thông tin chỉ huy điều hành Quân khu 7 tại Sở 6/2018 6 à
+Chỉ huy thường xuyên
+ĐÈ tài TP.HCM: Nghiên cứu thiết kế chế tạo hệ thống hỗ trợ|_ 4/ Huỳnh Huy 1.080 l ở
+8/2016 - Đang thực hiện. Đã gia hạn
+§ _ | điều hành chỉ huy tác chiến cho đơn vị hải quân cấp vùng, Cường 2/2018 đến 08/2018
+Đề tài TP.HCM: Nghiên cứu, xây dựng phần mềm hỗ trợ | _4/ Nguyễn Trí Đức - 1.020 m 5s
+9. | công tác huấn luyện các đài ra đa đảm bảo bay phục vụ cho Tn Đang TH Hi Hi
+máy bay SU-30MK2
+Đề tài TP.HCM: Tích hợp thiết bị, xây dựng phần mềm và | 4/ Thái Văn Quốc Sỹ 10/2016- 740
+10 | CSDL nhằm rút ngắn thời gian tìm và chọn vị trí trận địa cho 4/2018 Đang thực hiện
+TLPK S-300PMUI
+TV | Đề tài nghiên cứu cơ sở.
+Nghiên cứu khảo sát khối ôn định xung 468353.004 và khối Đã nghiệm thu tháng
+¡_ | nguồn MAA300-1C27CYH của đài dẫn bay gần 4N tại ĐỊVñSöiHà 03/2017 - - 11/2017
+đoàn 923 Quân chủng PKKQ, phục vụ sửa chữa, thiết kế chị 11/2017
+tạo.
+Nghiên cứu bộ công cụ phát triển phần mêm của phần mềm 03/2017- Đã nghiệm thu tháng
+2 | phân tích mã IDA để xây dựng các plugin hỗ trợ phân tích, | 4/ Lê Phú Cường 12017 40 11/2017
+dịch ngược các phần mềm nhúng trên vũ khí, trang bị.
+Nghiên cứu phương pháp tự động nhận dạng, phân tích các PP - Đã nghiệm thu tháng.
+3 | đoạn mã nhị phân thường gặp trong các phần mềm có sẵn trên |_ l TH Gi Thi 40 112017
+vũ khí, trang bị.
+"Chuẩn bị mở mỗi trong năm 2D18
+1 _| Nghiên cứu một số kỹ thuật phân tích, thiết kế và xử lý dữ | 2//Cao Đăng Huy | Trong năm 50
+Đề tài cấp TP.HCM: Nghiên cứu và xây dựng phần mềm.
+hợp dữ liệu bản đồ để nâng cao hiệu quả công tác quản lý và
+khai thác Mạng thông tin chỉ huy điều hành Quân khu 7 tại Sở
+Chỉ huy thường xuyên Đề tài tỉnh Đồng Nai: Tích hợp thiết bị và xây dựng phần
+mềm phục vụ huấn luyện nhiệm vụ săn ngầm 'Tên đề tài, nhiệm vụ KHCN. Đề tài TP.HCM: Nghiên cứu thiết kế chế tạo hệ thống hỗ trợ
+điều hành chỉ huy tác chiến cho đơn vị hải quân cấp vùng 
+Chuân bị mở mới trong năm 2018 iên cứ hân tích các
+Nghiên cứu phương pháp tự động nhận dạng, phân tíc
+điển nã nhị nhân đóng gập ong cÉs giận mm có sẵn bền
+4YVVN 'Eae bì. Nghiên cứu bộ công cụ phát triên phân mềm của phân mềm
+phân tích mã IDA để xây dựng các plugin hỗ trợ phân tích,
+dịch ngược các phần mềm nhúng trên vũ khí, trang bị. Nghiên cứu khảo sát khôi ôn định xung 468353.004 và khôi
+nguồn MAA300-1C27CYH của đài dẫn bay gần ÁN tại
+
+đoàn 923 Quân chủng PKKQ, phục vụ sửa chữa, thiết kế chí
+tạo. 
+Đề tài nghiên cứu cơ sở Đề tài TP.HCM: Tích hợp thiết bị, xây dựng phần mềm và
+CSDL nhằm rút ngắn thời gian tìm và chọn vị trí trận địa cho
+TLPK S-300PMUI Đề tài TP.HCM: Nghiên cứu, xây dựng phần mềm hỗ trợ
+công tác huấn luyện các đài ra đa đảm bảo bay phục vụ cho
+máy bay SU-30MK2 // Cao Đăng Huy 
+1// Nguyễn Chí
+Thành 4/ Lê Phú Cường. 2// Vũ Sơn Hà 4/ Thái Văn Quốc Sỹ 
+4/ Nguyễn Trí Đức. 4/ Huỳnh Huy
+Cường 4/ Hoàng Tuần 4/ Trần Trọng Việt 
+Chủ nhiệm đề tài “Trong năm 03/2017-
+11/2017 03/2017-
+11/2017 
+03/2017-
+11/2017 10/2016-
+4/2018 8/2016 -
+02/2018 8/2016 -
+2/2018 
+6/2016-
+6/2018 05/2016—
+11/2017 Thời gian
+(BĐ-KT) 40 
+40 740 1.020 1.080 
+1/285 72 Kinh phí (triệu
+đông) 'Đã nghiệm thu tháng.
+11/2017 
+'Đã nghiệm thu tháng.
+11/2017 Đã nghiệm thu tháng
+11/2017 Đang thực hiện Đang thực hiện. Đã gia hạn
+đến 08/2018 
+Đang thực hiện. Đã gia hạn
+đến 08/2018 Đang thực hiện Đã nghiệm thu cấp quản lý
+12/12/2017 Ghi chú khoa học công nghệ tại Cơ sở phía Nam Viện Công nghệ
+thông tin
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài rẽ kủ, HN An Hán Ghi chú
+— TH Tổ ứng dụng trong tôi ưu bài toán truy vẫn dữ liệu không 2018
+lan
+
+v|Bini định hướng trẻ
+
+¡_| Nghiên cứu, khai thác hệ thông mô phòng CPU phục vụ việc | 4/Nguyễn Chí 03/2016- „ Đã nghiệm thu tháng
+làm chủ các phần mềm nhúng trên các loại vũ khí, trang bị Thành 03/2017 01/2017
+Nghiên cứu phát trin giải pháp tra cứu thông tin theo nội| 4/Nguyễn Hoàng |  ạ;.01ọ_ Đã nghiệm thu tháng.
+
+2_ | dung hỗ trợ công tác khai thác thông tin trên kho dữ liệu văn Bách . 60 01/2017
+bản
+
+3 | Nghiên cứu ứng đụng Dep Teaming trong nhận dạng một số | 4/Phạm VănLai | 072017- Hã "Triển khai thực hiện
+lai TH ĐH chiến 03/2018
+
+VI | Đề tài cấp Viện CNTT
+
+¡_| Nghiên cứu tìm hiểu, cài đặt và chứng mình an toàn một số | 4/Th§ Đỗ Xuân 04/2016- 20 'Đã nghiệm thu tháng
+thuật toán mã hóa trên lưới Thành 04/2017 01/2017
+
+2 _| Nghiên cứu nên tảng hỗ trợ Deep Leaming trong việc thiết kể |_1//T§ Nguyễn Đỗ |_ 04/2016- 35 Đã nghiệm thu tháng
+và sản xuất các trang thiết bị thông minh Văn 04/2017 04/2017
+
+3 _| Nghiên cứu phương pháp tương tác với phần mềm mô phòng | 4/TŠPhạmThu | 04/2016- 2 Đã nghiệm thu thắng.
+sử dụng thao tác, cử chỉ bản tay. Hương, 04/2017 04/2017
+Nghiên cứu mẫu thiết kế Dependency Injection trong| 4/Th§ Hoàng Tuấn 18,860. 'Đã nghiệm thu tháng
+
+4_ | ASP.NET MVC để xây dựng công cụ hỗ trợ công tác quản lý bo 07/2017
+
+017
+Để tài cấp Viện CNTT.
+Nghiên cứu tìm chứng mình an toàn một số
+
+thuật toán mã hóa trên lưới Nghiên cứu ứng, HE DCP learning trong nhận dạng một số
+loại máy bay chiến. Nghiên cứu phát triên giải pháp tra cứu thông tin theo nội
+dung hỗ trợ công tác khai thác thông tin trên kho dữ liệu văn
+bản Nghiên cứu, khai thác hệ thông mô phỏng CPU phục vụ việc
+làm chủ các phần mềm nhúng trên các loại vũ khí, trangbjị 
+liệu lớn ứng dụng trong tôi ưu bài toán truy vân dữ liệu không. Tên để tài, nhiệm vụ KHCN. Nghiên cứu mẫu thiết kế Dependency Injection trong
+ASP.NET MVC để xây dựng công cụ hỗ trợ công tác quản lý.
+
+khoa học công nghệ tại Cơ sở phía Nam Viện Công nghệ
+thông tn Nghiên cứu phương pháp tương tác với mềm mô phỏng.
+sử dụng thao tác, cử chỉ bàn tay. lượn 
+Nghiên cứu nên tảng hỗ trợ Deep Learning trong việc thiết kế
+và sản xuất các trang thiết bị thông minh 4/ Nguyễn Chí
+Thành 4/ Th§ Đồ Xuân
+Thành 4/ Phạm Văn Lai 
+4/ Nguyễn Hoàng.
+Bách loàng Tuần. 4/ TS Phạm Thu
+Hương 1/⁄/TS Nguyên Đô
+Văn 
+2018 Thời gian
+(BĐ-KT) 03/2016-
+03/2017 03/2016-
+03/2017 
+04/2016-
+04/2017 04/2017 07/2017-
+03/2018 06/2016-
+06/2017 
+04/2016-
+04/2017 Kinh phí (triệu
+đồng) 60 25 
+20 120 18,860 28 
+Ghi chú Đã nghiệm thu tháng.
+01/2017 Đã nghiệm thu tháng,
+01/2017 Đã nghiệm thu tháng.
+
+01/2017 
+“Triển khai thực hiện. —— Đãnghiệm thu tháng
+07/2017 _ Đã nghiệm thu tháng,
+04/2017
+
+Đã nghiệm thu thắng.
+
+04/2017 - 

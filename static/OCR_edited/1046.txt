@@ -1,0 +1,189 @@
+'VIỆN KH-CN QUÂN SỰ CỌNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 572 /VCNTT - KH Hà Nội, ngày ⁄2tháng 12 năm 2017
+
+V/v đề nghị hội thảo luận án tiến sĩ.
+
+Kính gửi: Thủ trưởng Viện KH - CN quân sự;
+
+Nghiên cứu sinh Lê Quang Huy được công nhận là nghiên cứu sinh hình thức
+đào tạo không tập trung theo quyết định số 1184/QĐ-VKHCNQS ngày 18 tháng 10
+năm 2012 của Giám đốc Viện KH-CN quân sự.
+
+Sau thời gian học tập, nghiên cứu sinh đã hoàn thành chương trình đào tạo và
+đã có đủ các chứng chỉ môn học theo quy định, đã hoàn thành bản thảo luận án tiến sĩ
+về đề tài: “Nghiên cứu một số thuật toán một mã theo chuẩn PKCS ứng dụng
+
+trong PKI”.
+Chuyên ngành: Cơ sở toán học cho tin học
+Mã số : 6246 0110
+
+Căn cứ kết quả đào :ạo và đối chiếu với yêu cầu chất h. rng luận án tiến sĩ, xét
+đề nghị của tập thể giáo viên hướng dẫn, Viện Công nghệ thông tin đề nghị Giám đốc
+Viện KH-CN quân sự cho phép tổ chức hội thảo luận án của nghiên cứu sinh Lê
+Quang Huy (danh sách Hội đồng trong phụ lục kèm theo). |j§M&« —
+
+"Nơi nhận: KT.VIỆN TRƯỞNG
+~ Như trên, N TRƯỞNG
+~ Phòng Đào tạo;
+
+  
+
+~ Lưu: VT, KH; Đ04.DANH SÁCH CÁC NHÀ KHOA HỌC THAM GIA HỘI THẢO
+LUẬN ÁN TIẾN SĨ CỦA NCS LÊ QUANG HUY
+
+Tên đề tài luận án tiến sĩ: “Nghiên cứu một số thuật toán mật mã theo
+chuẩn PKCS ứng dụng trong PKI”
+Chuyên ngành: Cơ sở toán học cho tin học
+
+Mã số : 62.46.01.10
+
+Tập thẻ GVHD: 1. PGS.TS. Bạch Nhật Hồng
+2.TS. Trần Duy Lai
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Họ và tên Chuyên ngành | CƠ 4W90 công "¬
+¡.  |TS-Nguyễn MạnhLinh Toánhọc | Viện KHCNQS | Chủ tịch
+g. |LS.NggDBð be đới tin Viện KHCNQS |_ Thư ký
+ạ, |TP Pu ĐácHiẩh Toánhgo | VI KECN |NH Hg
+l4. |TS. Tống Minh Đức Esoni th Học viện KTQS F nhe, gái
+s, - |PGSTS Đỗ Trung Tuấn h borbo Tin ĐH Quốc gia HN| Ủy viên
+6. |PGS.TSLêMỹTú  nä
+7. |PGS.TS Nguyễn Hiếu Minh T— tniSê Học viện KTMM| Ủy viên
+ạ,  |ÊGSTS. Lương Thế Dũng = nhọc [Hocviện KTMM| Ủy viên
+ọ, PGS. TS Nguyễn Ngọc Hóa R sả E _ ĐH Quốc gia HN|_ Ủy viên
+¡ọ, |PGS.TS Nguyễn Minh Dân h vn Ẹ . mài = ng Ủy viên
+WỊ. [PGSTSĐỂNgTon |, _. HH TẾ Hi Bm | 0yviện
+2 JEN Mesh T Han, Cảng, [nan que
+la, [TS-LêXuânĐức h k= KH Viện KHCNGS | uy van
+PGS.TS Đỗ Năng Toàn PGS.TS Nguyễn Minh Dân PGS. TS Nguyễn Ngọc Hóa PGS.TS. Lương Thế Dũng 
+PGS.TS Nguyễn Hiếu Minh PGS.TS Lê Mỹ Tú PGS.TS Đỗ Trung Tuần TS. Tống Minh Đức 
+TS. Lều Đức Tân TS. Ngô Duy Đô TS. Nguyễn Mạnh Linh Họ và tên 
+TS. Lê Xuân Đức PGS.TS Nguyễn T Hoàng
+Lan DANH SÁCH CÁC NI
+LUẬN ÁN TIÉ)
+
+Tên đề tài luận án tiến s
+chuẩn PKCS ứng dụng t
+Chuyên ngành: Cơ sở toá
+Mã số : 62.46.01.10
+
+Tập thểGVHD: 1.PGS.
+2.TS.T Cơ sở toán
+học cho tin học 
+Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Toán học Cơ sở toán
+học cho tin học 
+Toán học Chuyên ngành Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học 
+Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học 
+Cơ sở toán
+học cho tin học À KHOA HỌC ï
+ï SĨ CỦA NCSL
+: “Nghiên cứu n
+ong PKI”
+
+¡học cho tin học
+
+TS. Bạch Nhật H
+ần Duy Lai 'Viện KHCNQS Trường ĐH Bách
+khoa Hà nội 
+Viện Hàn lâm
+KHCN Việt Nam Đại học
+Phương đông ĐH Quốc gia HN Học viện KTMM 
+Học viện KTMM Viện KHCN
+Mật mã ĐH Quốc gia HN Học viện KTQS 
+Viện KHCN
+Mật mã Viện KHCNQS Viện KHCNQS Cơ quan công
+tác 
+THAM GIA HỘI '
+Ê QUANG HUY
+
+ột số thuật toán ¡
+
+ng Ủy viên Ủy viên Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 
+Ủy viên Ủy viên Người giới Người giới
+thiệu 1 
+Thư ký Chủ tịch Trách
+nhiệm nật mã theo
+
+Trách
+nhiệm
+
+Chủ tịch
+
+Thư ký
+
+thiệu 1
+
+ 
+
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+
+Ủy viên
+
+ 
+
+Ủy viên My —
+KI.VIỆN TRƯỞNG
+HÓ VIỆN TRƯỞNG
+TS. Nguyễn Chí Thành TS. Nguyễn Văn Hùng TS. Nguyễn Đỗ Văn TS Nguyễn Nhật An 
+TS. Trần Nguyên Ngọc TS. Lưu Hồng Dũng TS. Nguyễn Mạnh Hùng TS. Thái Trung Kiên 
+TS. Vũ Sơn Hà Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học 
+Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học Cơ sở toán
+học cho tin học 
+Cơ sở toán
+học cho tin học Điện tử 'Viện KHCNQS Viện KHCNQS 
+Viện KHCNQS Viện KHCNQS Học viện KTQS Học viện KTQS 
+Học viện KTQS Viện KHCNQS 'Viện KHCNQS Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 

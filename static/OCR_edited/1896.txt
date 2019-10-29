@@ -1,0 +1,437 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN .Độc lập ~ Tự do - Hạnh phúc
+Số:22#ÿVCNTT-KH Hà Nội, ngày 4 Stháng S năm 2019
+'V/v thử nghiệm sản phẩm của đề tài
+KC.T-30; khảo sát khôi LI-074 của. đạn
+'Kh-35E và thử nghiệm khối BMI trên
+tàu với tên lửa thật
+
+Kính gửi:
+- Bộ Tư lệnh Vùng 2 Hải quân;
+~ Phòng Kỹ thuật/Vùng 2 Hải quân.
+
+Căn cứ Quyết định số 4999/QĐ-BQP ngày 9/11/2017 của Bộ Quốc phòng
+về việc phê duyệt kết quả xét duyệt thuyết minh, thẩm định kinh phí để tài thuộc
+Đề án KHCN mã số KC.T, giai đoạn 2;
+
+Căn cứ Quyết định số 1710/QĐ-VKHCNQS ngày 15/11/2017 của Giám
+đốc Viện KHCNQS về việc giao nhiệm vụ và kinh phí hoàn thiện sản phẩm
+nghiên cứu cho Viện Công nghệ thông tin (Ngân sách quốc phòng năm 2018);
+
+Căn cứ thuyết minh đã được phê duyệt của đề tài: “AVghiên cứu thiắt kế chế
+tạo hệ thống tự động kiểm tra tên lửa Kh-35E dựa theo nguyên lý hoạt động của
+hệ thống ACKó.3”, Mã số: KC.T-30;
+
+Căn cứ thuyết minh đã được phê duyệt của đề tài “#ioàn thiện thiết kế và
+chế tạo thiết bị kiểm tra hệ thắng điều khiển quán tính LỊ-074 của đạn tên lửa
+Kh-35E”, Mã số: KC.T-32;
+
+Căn cứ Đề cương đã được phê duyệt của nhiệm vụ “Hoàn thiện thiết kế,
+chế tạo khối tính toán BMI của hệ thống điều khiển phóng tên lửa KACY 3P-
+60V”;
+
+Căn cứ Công văn số 4568/BTL-KHQS ngày 18 tháng 4 năm 2019 của Bộ
+Tư lệnh Hải quân về việc thử nghiệm sản phẩm của đề tài KC.T-30; khảo sát
+khối II-074 của đạn Kh-35E;
+
+Căn cứ Kế hoạch số 5063/KH-KHQS của phòng Khoa học quân sự đã
+được Bộ Tư lệnh Hải quân phê duyệt ngày 02 tháng 5 năm 2019 về việc thử
+nghiệm sản phẩm nghiên cứu KH&CN tại Vùng 2 Hải quân,
+
+Triển khai thực hiện công việc, Viện Công nghệ thông tin xây dựng kế
+hoạch thử nghiệm sản phẩm của đề tài KC.T-30, nhiệm vụ “Hoàn thiện thiết kế,
+chế tạo khối tính toán BMI của hệ thống điều khiển phóng tên lửa KACV 3P-
+60Y3” và khảo sát chỉ tiết hệ thống II-074 của đề tài KC.T-32 như sau:
+
+1. Nội dung:
+
+- Nhiệm vụ “Hoàn thiện thiết kế, chế tạo khối tính toán BMI của hệ thống
+điều khiển phóng tên lửa KACY 3P-60Y2”: Thử nghiệm khối BMI trên tàu với
+
+ 
+
+“vntên lửa thật tại Vùng 2 - Hải quân. (Kế hoạch và quy trình thứ nghiệm trong phụ
+lục 1 kèm theo)
+
+- Đề tài KC-T.30: Thử nghiệm các sản phẩm “Thiết bị phân tích dữ liệu” và
+“Thiết bị mô phỏng tên lửa Kh-35E” tại Căn cứ 696/Vùng 2 - Hải quân. (Kể
+hoạch và quy trình thử nghiệm trong phụ lục 2 kèm theo)
+
+- Đề tài KC.T-32: Khảo sát chỉ tiết các khối chức năng (có cáp điện) trong
+hệ thống điều khiển quán tính II-074 của lô đạn Kh-35E nhập khẩu năm 2010 tại
+Căn cứ 696/Vùng 2 - Hải quân. (Kế hoạch và quy trình khảo sát trong phụ lục 3
+kèm theo)
+
+2. Thời gian:
+
+a) Tại Lữ đoàn 167:
+
+~ Khảo sát hệ thống KACY: Dự kiến từ ngày 20/5/2019 đến 22/5/2019.
+
+~ Thử nghiệm khối BMI: Dự kiến từ ngày 23/5/2019 đến 25/5/2019.
+
+b) Tại Căn cứ 696:
+
+~ Khảo sát, đo đạc hệ thống kiểm tra đạn tên lửa khi làm việc với đạn và hệ
+thống LI-074: Dự kiến từ ngày 20/5/2019 đến 20/6/2019.
+
+~ Thử nghiệm các sản phẩm “Thiết bị phân tích dữ liệu” và “Thiết bị mô
+phỏng tên lửa Kh-35E”: Dự kiến từ ngày 06/6/2019 đến 12/6/2019.
+
+Viện Công nghệ thông tin đề nghị Bộ Tư lệnh Vùng 2 Hai quân, Phòng Kỹ
+thuậ/Vùng 2 Hải quân hỗ trợ và tạo điều kiện để tổ công tác của Viện hoàn
+thành tốt nhiệm vụ./.g—
+
+ANới nhận:
+~ Như trên;
+
+- Phòng KTHT (03);
+~ Lưu: VT, KH; H07.PHỤ LỤC 1
+Kế hoạch và Quy trình thử nghiệm khối BMI với tên lữa thật
+(Kèm theo Công văn só13/VCNTT-KH ngày 45/5/2019 của Viện CNTT)
+
+I- KÉ HOẠCH THỬ NGHIỆM
+1. Thành phần tham gia thử nghiệm:
+
+- Đại tá Phạm Hồng Long, Viện CNTT/Viện KH-CNQS
+
+~ Thiếu tá Nguyễn Minh Thường, Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Phạm Xuân Công, Viện CNTT/Viện KH-CNQS
+
+~ Thiếu tá Dương Phú Tuấn, Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Vũ Hoàng Anh, Viện CNTT/Viện KH-CNQS
+
+- Đại úy CN Dương Mạnh Cường, Viện CNTT/Viện KH-CNQS
+Khách mời tham gia:
+
+- Đại diện Phòng Tham mưu - Kế hoạch/Viện KH-CNQS.
+
+- Đại diện Cục Kỹ thuật/BTL QCHQ.
+
+~ Đại diện Phòng Khoa học quân sự/BTL QCHQ.
+
+- Thủ trưởng Viện Công nghệ thông tỉn.
+
+- Đại diện Phòng Kỹ thuật/Vùng 2 Hải quân.
+
+~ Thủ trưởng Lữ đoàn 167/Vùng 2 Hải quân.
+
+- Đại điện Phòng Kỹ thuậtULữ đoàn 167/Vùng 2 Hải quân.
+
+- Đại điện Phòng Kỹ thuật/Căn cứ 696/Vùng 2 Hải quân.
+
+~ Chỉ huy tàu và kíp tàu thử nghiệm.
+2. Thời gian:
+
+~ Khảo sát hệ thống KACY: Dự kiến từ ngày 20/5/2019 đến 22/5/2019.
+
+~ Thử nghiệm khối BMI: Dự kiến từ ngày 23/5/2019 đến 25/5/2019.
+3. Địa điểm: Vùng 2 Hải quân.
+4. Cơ quan phối hợp thực hiện: Phòng Kỹ thuật Vùng 2 HQ; Lữ đoàn 167, Căn
+
+cứ 696.
+5. Nội dung:
+
+- Thử nghiệm khối BMI do Viện CNTT/Viện KHCNGQS chế tạo với quả đạn
+tên lửa 3M-242/V7[ trên tàu M tại Lữ đoàn 167.
+
+~ Quá trình tổ chức thử nghiệm đề nghị được kết hợp với kế hoạch huấn
+luyện của Lữ đoàn 167 và Vùng 2 Hải quân.
+
+~ Trong quá trình tổ chức thử nghiệm, Viện Công nghệ thông tin và tổ thực
+hiện nhiệm vụ có trách nhiệm đảm bảo an toàn về trang thiết bị. Nếu có hỏng,
+hóc xảy ra trong quá trình thử nghiệm, Viện Công nghệ thông tỉn và tổ thực hiện
+nhiệm vụ có trách nhiệm khắc phục và hoàn trả nguyên trạng cho tàu.
+
+ẩ
+
+3⁄7@\
+
+(đHỈ< - QUY TRÌNH DU NGHI NI
+3.1 Kiểm tra tình trạng hệ thống KACY của tàu với khối BMI gốc
+
+Bước 1: Lắp hệ thống cáp nối của bệ phóng có tên lửa thật vào thiết bị giả
+đạn tên lửa IR-60VN. Bật KACY và chạy ở các chế độ “2K”, “OP”, ghi nhận
+tình trạng hoạt động của KACY ở các chế độ này.
+
+Bước 2: Tháo hệ thống cáp nói khỏi thiết bị giả đạn tên lửa IR-60VN và
+lắp vào bệ phóng có tên lửa thật. Bật KACY và chạy ở chế độ “HH”, ghi nhận
+tình trạng hoạt động của KACY ở chế độ này.
+
+Bước 3: Tắt hệ thống KACY, kết thúc nội dung kiểm tra, lập biên bản ghi
+nhận.
+
+3.2 Thử nghiệm khối BM1 do Viện CNTT/Viện KHCNQS chế tạo
+
+Bước 1: Thay thế khối BMI đo Viện CNTT/Viện KHCNQS chế tạo vào tủ
+thiết bị KB163I1 có kết nối với tên lửa thật.
+
+Bước 2: Tháo hệ thống cáp nối từ bệ phóng có tên lửa thật và lắp vào thiết
+bị giả đạn tên lửa IR-60VN.
+
+Bước 3: Bật KACY và chạy ở các chế độ “2K”, “OP”, ghỉ nhận tình trạng
+hoạt động của KACY ở các chế độ này.
+
+Bước 4: Tháo hệ thống cáp nối khỏi thiết bị giả đạn tên lửa IR-60VN và
+lắp vào bệ phóng có tên lửa thật. Bật KÁCV và chạy ở chế độ “HH”, ghỉ nhận
+tình trạng hoạt động của KACY ở chế độ này.
+
+Bước 5: Tắt hệ thống KACY, kết thúc nội dung thử nghiệm, lập biên bản
+ghi nhận.
+
+3.3 Khôi phục hệ thống KACY lại trạng thái ban đầu
+
+Bước 1: Tháo hệ thống cáp nối khỏi bệ phóng có tên lửa thật.
+
+Bước 2: Tháo dỡ khối BMI do Viện CNTT/Viện KHCNQS chế tạo và
+khôi phục lại khối BMI gốc của tủ máy KB163I1. Bật KACY và chạy ở chế độ
+**2K”, ghi nhận tình trạng hoạt động của KACY ở chế độ này.
+
+Bước 3: Tắt hệ thống KACY, kết thúc quá trình thử nghiệm, lập biên bản
+ghỉ nhận.
+
+Chú ý: Các thao tác thực hiện đều tuân theo hưởng dẫn của tài liệu và sự
+vận hành của trắc thủ.%:
+
+PHỤ LỤC 2
+'Kế hoạch và Quy trình thử nghiệm các sản phẩm của Đề tài KC.T-30
+(Kèm theo Công văn số2*t/VCNTT-KH ngày46/5/2019 của Viện CNTT)
+
+Kế hoạch thử nghiệm
+
+. Thành phần tham gia (dự kiến):
+
+- _ Đại diện Phòng Tham mưu - Kế hoạch/Viện KH-CNQS.
+
+- _ Thủ trưởng Viện Công nghệ thông tỉn.
+
+- _ Thiếu tá Dương Phú Tuần, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Nguyễn Minh Thường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+- _ Thiếu tá Vũ Hoàng Anh, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+
+- _ Trung tá Nguyễn Thái Hòa, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+
+- Thượng úy Nguyễn Văn Bạch, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+-_ Đại úy CN Dương Mạnh Cường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+- _ Thiếu tá Nguyễn Thanh Linh, Phòng CNM/Viện CNTT/Viện KH-CNQS
+
+- _ Thiếu tá Nguyễn Trọng Thẻ, Phòng SH-ĐK/Viện CNTT/Viện KH-CNQS
+
+- Thượng úy Phạm Trung Kiên, Phòng SH-ĐK/Viện CNTT/Viện KH-
+CNQS
+
+Thời gian:
+
+- Khảo sát, đo đạc hệ thống kiểm tra đạn tên lửa khi làm việc với đạn: Dự
+
+kiến từ ngày 20/5/2019 đến 20/6/2019.
+
+- Thử nghiệm các sản phẩm “Thiết bị phân tích dữ liệu” và “Thiết bị mô
+
+phỏng tên lửa Kh-35E”: Dự kiến từ ngày 06/6/2019 đến 12/6/2019.
+
+3.
+4.
+5.
+6.
+
+Kinh phí đảm bảo: Trích từ kinh phí của đề tài KC.T-30
+Đơn vị phối hợp: Căn cứ 696/Vùng 2 — Hải quân.
+
+Địa điểm: Căn cứ 696/Vùng 2- Hải quân
+
+Nôi dung:
+
+5E} %> ¡I8
+Sản phẩm Thiết bị mô phỏng tên lửa
+Kh-35E Thiết bị phân tích dữ liệu “Tạo các tín hiệu đáp ứng phục vụ cho phiên làm
+việc của hệ thống kiểm tra AKIIA, ACK trong
+chế độ K78, K78T và kiểm tra độc lập đầu tự dẫn. 
+“Thu bắt, hiển thị luông trao đôi thông tin giữa hệ
+thống kiểm tra AKHA, ACK và đạn tên lửa Kh-
+35E trong chế độ K78, K7&T và chế độ kiểm tra
+độc lập đầu tự dẫn. Nội dung thử nghiệm VN hố ẽ
+Ghép nôi thiệt bị phân tích dữ liệu với hệ "Tiên hành thử nghiệm Đơn vị 696 bàn giao hệ thông kiêm tra
+ACK và đạn tên lửa Kh-35E cho nhóm để
+tài Kiêm tra đạn tên lửa Kh-35E trong các
+chế độ K78. K7§T, U502 
+Chê độ tự kiêm tra Vận hành hệ thống kiểm tra ACK thực
+hiện: Thử nghiệm thiêt bị phân tích dữ liệu với i Tháo gỡ thiết bị phân tích dữ liệu khỏi hệ
+thống AKHA. Bàn giao hệ thống AKIIA
+cùng đạn tên lửa Kh-3SE nguyên trạng
+cho đơn vị. 
+Vận hành hệ thông AKIIA kiêm tra đạn
+tên lửa Kh-35E trong các chế độ K78,
+K7§T, U502 thiết bị phân tích dữ liệu với hệ
+thống kiểm tra AKHA (Các giắc kết nối
+tín hiệu có dạng chữ “T" cho phép trích
+xuất dữ liệu của luồng trao đổi thông tin
+giữa hệ thống AKIIA và đạn tên lửa Kh-
+35E) Đơn vị 696 bàn giao hệ thông kiêm tra
+AKIIA và đạn tên lửa Kh-35E cho nhóm
+để tài Kiêm tra đạn tên lửa Kh-35E trong các
+chế độ K78, K7§T, U502 
+Chê độ tự kiêm tra CK6.3 Vận hành hệ thống kiểm tra AKIIA thực
+hiện: Lập biên bản bàn giao Đơn vị 696 thực hiện 
+Đơn vị 696 thực hiện Đơn vị 696 vận hành hệ thông
+ACK, hệ thống phải đảm bảo hoạt
+động bình thường lệ thông ACK` Lập biên bản bàn giao 
+Đơn vị 696 thực hiện Đơn vị 696 thực hiện. Đơn vị 696 vận hành hệ thông
+AKHA, hệ thống phải đảm bảo
+hoạt động bình thường Nhóm đê tài phôi hợp với đơn vị
+696 tháo gỡ thiết bị phân tích dữ
+liệu khỏi hệ thống, kiểm tra tính
+nguyên trạng của hệ thống, lập
+biên bản bàn giao. 
+Đơn vị 696 thực hiện, nhóm đề
+tài ghỉ nhật ký theo dõi Nhóm đề tài, phối hợp đơn vị 696.
+thực hiện 
+Vận hành hệ thông kiêm tra ACK thực | Đơn vị 696 vận hành hệ thông
+hiện: ACK, hệ thống phải đảm bảo hoạt Thử nghiệm thiêt bị mô phỏng tên lửa Kh- Nội dung Tháo gỡ thiết bị mô phỏng tên lửa Kh-35E.
+khỏi hệ thống AKHIA. Bàn giao hệ thống,
+AKHIA nguyên trạng cho đơn vị 
+'Vận hành hệ thông AKIIA kiêm tra thiệt
+bị mô phỏng đạn tên lửa Kh-35E trong các
+chế độ K78, K78T, U502 (Có giả lập các
+lỗi) Ghép nôi thiết bị mô phỏng tên lửa Kh-
+35E với hệ thống kiểm tra AKHIA (Thiết
+bị mô phỏng tên lửa Kh-35E có khả năng
+giả lập các tín hiệu đáp ứng trong các chế
+độ kiểm tra) “Tiên hành thử nghiệm Đơn vị 696 bàn giao hệ thông kiểm tra
+AKHIA cho nhóm đề tài 
+Kiêm tra đạn tên lửa Kh-35E trong các
+chế độ K78, K78T, U502 Chê độ tự kiềm tra CKó6.3 Vận hành hệ thống kiểm tra AKIIA thực
+hiện: Thử nghiệm thiêt bị mô phỏng tên lửa Kh- 
+"Thử nghiệm thiệt bị mô phỏng tên lửa KI Tháo gỡ thiết bị phân tích dữ liệu khỏi hệ
+thống ACK. Bàn giao hệ thống ACK cùng
+đạn tên lửa Kh-35E nguyên trạng cho đơn
+vị. 'Vận hành hệ thông ACK kiêm tra đạn tên
+lửa Kh-35E trong các chế độ K78, K7&T,
+U502 thông kiêm tra ACK (Các giắc kết nôi tín
+hiệu có dạng chữ “T” cho phép trích xuất
+dữ liệu của luồng trao đổi thông tin giữa
+hệ thống ACK và đạn tên lửa Kh-35E) 
+Ghi chú 5E với hệ thông ACK. Nhóm đê tài phôi hợp với đơn vị
+696 tháo gỡ thiết bị mô phỏng tên
+lửa Kh-35E khỏi hệ thống, kiểm
+tra tính nguyên trạng của hệ
+thống, lập biên bản bàn giao Đơn vị 696 thực hiện, nhóm đề
+tài ghỉ nhật ký theo dõi 
+'Nhóm đề tài, phối hợp đơn vị 696
+thực hiện Lập biên bản bàn giao Đơn vị 696 thực hiện Đơn vị 696 thực hiện 
+Đơn vị 696 vận hành hệ thông
+AKHA, hệ thống phải đảm bảo
+hoạt động bình thường ‡5E với hệ thông AKILA Nhóm đê tài phôi hợp với đơn vị
+696 tháo gỡ thiết bị phân tích dữ
+liệu khỏi hệ thống, kiểm tra tính
+nguyên trạng của hệ thống, lập
+biên bản bàn giao Đơn vị 696 thực hiện, nhóm đề
+tài ghỉ nhật ký theo dõi 
+thực hiện 
+Tháo gỡ thiết bị mô phỏng tên lửa Kh-35E
+khỏi hệ thống ACK. Bàn giao hệ thống
+ACK nguyên trạng cho đơn vị. Vận hành hệ thông ACK kiêm tra thiết bị
+mô phỏng tên lửa Kh-35E trong các chế
+độ K78, K78T, U502 (Có giả lập các lỗi) Ghép nôi thiệt bị mô phỏng tên lửa Kh-
+35E với hệ thống kiểm tra ACK: “Tiên hành thử nghiệm 
+Bàn giao hệ thông kiểm tra ACK và đạn
+tên lửa Kh-35E cho nhóm đề tài Nội dung
+
+Chế độ tự kiểm tra
+Kiểm tra đạn tên lửa Kh-35E trong các
+
+chế độ K78, K78T, U502 Nhóm đê tài phôi hợp với đơn vị
+696 tháo gỡ thiết bị mô phỏng tên
+lửa Kh-35E khỏi hệ thống, kiểm
+tra tính nguyên trạng của hệ
+thống, lập biên bản bàn giao Đơn vị 696 thực hiện, nhóm đề
+tài ghỉ nhật ký theo dõi 
+tài, phôi hợp đơn vị 696
+thực hiện ° Lập biên bản bàn giao Đơn vị 696 thực hiện Đơn vị 696 thực hiện 
+Đơn vị 696 thực hiện. PHỤ LỤC 3
+Kế hoạch và Quy trình khảo sát của Đề tài KC.T-32
+
+(Kèm theo Công văn sô22‡/VCNTT-KH ngày 45/5/2019 của Viện CNTT)
+
+A. Kế hoạch khảo sát
+"Thành phần tham gia (dự kiến):
+
+1.
+
+a0
+
+Trung tá Nguyễn Thái Hòa, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+Thiếu tá Nguyễn Minh Thường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+Thiếu tá Vũ Hoàng Anh, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+Thiếu tá Dương Phú Tuấn, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+Thượng úy Nguyễn Văn Bạch, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+Đại úy CN Dương Mạnh Cường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+“Thiếu tá Nguyễn Thanh Linh, Phòng CNM/Viện CNTT/Viện KH-CNQS
+Thiếu tá Nguyễn Trọng Thể, Phòng SH-ĐK/Viện CNTT/Viện KH-CNQS
+Thượng úy Phạm Trung Kiên, Phòng SH-ĐK/Viện CNTT/Viện KH-
+CNQS
+
+. Thời gian: Dự kiến từ ngày 20/5/2019 đến 20/6/2019.
+
+Kinh phí khảo sát: Trích từ kinh phí của đề tài KC.T-32.
+
+.. Đơn vị phối hợp khảo sát: Căn cứ 696/Vùng 2 — Hải quân
+. Địa điểm khảo sát: Căn cứ 696/Vùng 2- Hải quân
+. Nội dung khảo sát:
+Cấp nguôn, đo đạc chỉ tiết các tín hiệu vào.
+ra của các khối chức năng trong hệ thống
+H-074 Khảo sát chỉ tiết các khôi chức năng của
+hệ thống II-074 Khảo sát các chê độ làm việc của hệ thông
+1074 Khảo sát chỉ tiết giao tiệp giữa hệ thông
+-074 với thiết bị điều khiển trên khoang:
+đầu tự dẫn Y-502, đo cao vô tuyến 3A-
+59A 
+Khảo sát chỉ tiết giao tiếp giữa hệ thống
+1.074 với hệ thống AKIIA 6.3, ACK Nội dung khảo sát Ghỉ nhật ký Đo đạc nguội, hiệu chỉnh sơ đồ
+đấu nối điện 
+Ghỉ nhật ký Ghi nhật ký, thu thập dữ liệu Đơn vị 696 vận hành kiểm tra tên
+lửa Kh-35E với hệ thống AKIA.
+6.3, ACK hi chú +, *đ¿uy trinh khao sat chị tiết hệ thông điều khien quản tỉnh 11-U/4 của đạn
+tên lửa Kh-35E lô đạn nhập khẫu năm 2010
+Nhóm đê tài bàn giao Hệ thông II-074-
+2MC2 cho nhóm cho đơn vị 696 Vận hành hệ thông kiêm tra AKHA thực
+hiện kiểm tra đạn tên lửa Kh-35E trong chế
+độ K78 Hoàn nguyên Hệ thông H-074-2MC2 trả
+lại quả đạn Câp nguôn cho từng khôi chức năng. Sử
+dụng máy phân tích dữ liệu, máy đo hiện
+sóng thu và phân tích dữ liệu của các khối
+chức năng 
+Khảo sát, đo đạc chỉ tiệt từng khôi chức
+năng (Không cấp nguồn điện). Phân rã, tháo đỡ các khôi chức năng của Hệ
+thống IE074-2MC2: Khối B741, B472M,
+B473M, B474M, B475M, B476M, “Tiên hành khảo sát Đơn vị 696 bàn giao Hệ thông I-074-
+2MCO cho nhóm cho nhóm đề tài 
+Tháo gỡ Hệ thông II-074-2MC2 khỏi quả
+đạn Vận hành hệ thông kiếm tra AKHIA thực
+hiện kiểm tra đạn tên lửa Kh-35E trong chế
+độ K78 Nội dung Lập biên bản bàn giao 
+Đơn vị 696 vận hành hệ thông
+AKIIA, hệ thống phải đảm bảo
+hoạt động bình thường Nhóm đê tài, phôi hợp đơn vị
+696 thực hiện Nhóm để tài thực hiện Nhóm đề tài thực hiện 
+Nhóm đề tài, phối hợp đơn vị
+696 thực hiện Lập biên bản bàn giao Đơn vị 696 thực hiện Đơn vị 696 vận hành hệ thông
+AKIIA, hệ thống phải đảm bảo
+hoạt động bình thường. 
+Ghi chú 

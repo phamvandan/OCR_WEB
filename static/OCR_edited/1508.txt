@@ -1,0 +1,220 @@
+VIỆN CÔNG NGHỆ THÔNG TIN_ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+PHÒNG HTTĐL Độc lập - Tự do - Hạnh phúc
+
+4#TTr-HTTĐL. Hà Nội, ngày⁄46tháng 10 năm 2018
+
+  
+
+   
+
+PHÊ DUYỆT
+Ngày/46tháng 10 năm 2018
+MEN RƯỜNGz-
+
+   
+
+TỜ TRÌNH
+'Về việc tổ chức lớp bồi dưỡng CNTT cho cán bộ
+fBB325 phục vụ thử nghiệm đề tài “Nghiên cứu
+hoàn thiện hệ thống CNTT ứng dụng trong diễn
+tập chỉ huy-cơ quan cấp trung, sư đoàn trên bản
+Thượng tá Đỗ Việt Bình đồ tại SCH thường xuyên và ngoài thực địa”
+
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ vào thuyết minh đề tài: “Nghiên cứu hoàn thiện hệ thống CNTT
+ứng dụng trong diễn tập chỉ huy-cơ quan cấp trung, sư đoàn trên bản đồ tại SCH
+thường xuyên và ngoài thực địa”;
+
+Căn cứ vào công văn số 3192/QH-CTh ngày 24 tháng 9 năm 2018 của Cục
+Quân huấn về việc nghiên cứu hoàn thiện hệ thông CNTT ứng dụng trong diễn
+tập chỉ huy-cơ quan cấp trung, sư đoàn trên bán đỗ tại SCH thường xuyên và
+ngoài thực địa.
+
+Sau khi phối hợp với Chi huy và các cơ quan liên quan của Sư đoàn 325 để
+thống nhất các nội dung triển khai thử nghiệm của đề tài tại Sư đoàn, Phòng Hệ
+thông tin địa lý xin đề nghị kế hoạch tổ chức lớp bồi dưỡng CNTT cho cán bộ
+IBB325/qđ2 như sau:
+
+I. Mục đích - yêu cầu
+1. Mục đích:
+
+- Trang bị kiến thức CNTT cho cán bộ hướng tới mục tiêu vận hành thành
+
+thạo các phần mềm đã nghiên cứu hoàn thiện trong đề tài
+
+ 
+
+ 
+
+~ Thực hành tập theo kịch bản trên mạng kết nối bằng đường truyền cáp
+quang mới tại fBB325 phục vụ thử nghiệm và đánh giá kết quả của đề tài.
+
+ 
+
+2. Yêu câu:
+Giai đoạn 1: Tỏ chức học tập trung cho các cán bộ khung tập.
+Trang,
++ Tổ chức 1 mạng LAN trong lớp học gồm một máy chủ kết nối với các
+máy học viên.
+
+ 
+
++ Mỗi cán bộ I máy tính có cổng kết nối mạng LAN.
++ 1 máy chiếu bài giảng.Giai đoạn 2: Tập bài trên hệ thông mạng và trang bị CNT đã được kết nỏi
+tại SCH.
+
+Trang bị (Thưê theo thuyết mình đẻ tài):
+
+  
+  
+ 
+
+trang bị — ĐVT_ Số lượng
+` cải 01
+" cái 05
+Camnan 7 e# 03
+[Máyn TS si 0
+lMàhnh CD, cá 03
+ủ hà ¬ — ái “a
+ˆ cải 03
+
+ 
+
+ 
+
+1. Thành phần tham gia
+Giai đoạn 1:
+
+ 
+
+- Đồng chỉ 2 Nguyễn Thái Học. phụ trách chung.
+- _ Đông chí 4/ Nguyễn Văn Dũng. phụ trách đào tạo. hướng dẫn sư dụng
+-_ Đồng chí 4/ Nguyễn Duy Nam. phụ trách hướng dẫn và lắp đặt trang thiệt
+bị.
+Các đồng chí còn lại trong tổ đẻ tài sẽ căn cứ tiên độ triển khai các nội dung
+để điều động.
+
+ 
+
+Cán bộ tại Sư đoàn 325 tham gia khung tập gồm 07 dỏng chí:
+
+-_ Tại SCH sư đoàn: 01 đồng chí vai Sư đoàn trương: 01 đồng chỉ vai lrực
+ban tác chiến sư đoàn; 03 dỏng chỉ trong các vai Trương ban công bình.
+Trưởng ban trình sát và Trương ban Pháo bình.
+
+~_ Tại SCH trung đoàn 18: 01 đồng chỉ vai Trung đoàn trương: 01 đồng chỉ
+vai Trực ban tác chiến.
+
+ 
+
+Giai đoạn 2:_ Thành phần như giai doạn l.
+II. Thời gian, địa điểm :
+i 'ừ ngày 21 ~ 24/10/2018, tại SCH/f.
+: Từ ngày 25 ~ 26/10/2018. tại SCH/f và SCH/e1§,
+IV. - Cơ quan phối hợp và chỉ đạo
+Phòng chiến thuật Cục Quân huần - BTTM
+Sư đoàn 325/ QĐ2.
+'V. Đám bảo cơ sở vật chất
+- _ Về trang thiết bị phục vụ lớp học và thư nghiệm theo kịch ban: Lỏ dễ tai
+phối hợp với Ban Tác huần/ Sư đoàn 325.
+- _ Về lắp đặt mạng LAN phỏng học vả kết nổi SCH: Tô đê tải phỏi hợp vơi
+Ban Thông tin/ Sư đoàn 325.
+Tên trang bị
+
+ 
+ 
+  
+  
+ 
+
+Máy chủ
+_ [Máy tính xách tay -
+
+Camera có Ããốãốãốãẽaẽaẽaẽaẽa
+[My TS
+
+ 
+
+1. Thành phần tham gia
+Giai đoạn 1: II. Thà
+Giai đo. STT ( LỤC
+NỘ ĐẠCH TẠP HUẢN
+
+(Kèm theo Tờ t! JTTĐL ngàvA€tháng 10 năm 201)
+
+   
+
+ 
+
+XU” h
+- Giai đoạn 1 : xung +9
+" Nội dung, ¬ Ị Phụ trách
+l-_ ——=== — NGÀY 21/10/2018
+Ỉ Chuẩn bị phòng học [- Đ/c Học. đíe Dùng.
+-1_ | + Thiết lập mạng LAN phòng học. - Phết hợp với Ban
+| + Cài đặt phần mềm cho các máy tính học viên. ¡ Tác huận (32Š
+
+     
+
+NGÀY 22/10/2
+
+= IS: 8
+
+thiệu tổng quan các phân mềm hỗ trợ điền
+
+ 
+
+    
+
+Ị ï~Ð/e Học
+
+Ỉ tập. - Si. - Ì
+
+—-3_ Ì + Hướng dẫn sử dụng phần mẻm Hỗ trợ tỏ chức,
+
+điều hành diễn tập.
+
+| + Hướng dẫn các nội dung Soạn thao văn kiện.
+
+CC. _ NGÀY 23/10/2018
+
++ Hướng dẫn các nội dung tác nghiệp bán đồ. (+ Đ/c Học
++ Hướng dẫn các nội dung tác nghiệp trên sa bản 3D. |- Đ/e Dũng
+
+ 
+
+ 
+
+ 
+ 
+
+3ˆ | š Hướng dẫn sử dụng đồng bộ 2D và 3D- L- Đức Nam
+FC NGÀY 24102018.
+
+| + Tập luyện các nội dung tác nghiệp bán đỗ 2D và sa Ị = Ọ
+
+Ỉ bàn 3D. ¡- Ð/c Đù
+
+— 4 | + Giải đáp, hướng, dẫn bố sung. .~ Ð/e Nan
+
+| + Giới thiệu kịch bản thử nghiệm và các nội dung
+— jeänchuẩnbị ——_
+
+ 
+
+~ Giai đoạn 2c
+
+  
+ 
+ 
+
+dung : Phụ trách
+—...= 'ÀY25và26/10/208 _— -.
+Ỉ Tš Hướng dẫn khung tập hợp luyện các bước theo - Tô dễ tải
+Lạ | kịch bản thử nghiệm. +~ Phối hợp với Bạn
+| | ¡__ Tác huấn I335
+
+\
+
+— Nội.

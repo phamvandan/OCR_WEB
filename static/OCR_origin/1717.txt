@@ -1,0 +1,49 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+
+Số:8/BC-VCNTT
+Hà Nội, ngàylHtháng 02 năm 2019
+
+BẢO CÁO
+Rà soát các thiết bị hạ tẦng viễn thông trong mạng Internet và mạng máy
+tính, mạng TSL quân sự, các thiết bị viễn thông trong các hệ thống
+tự động hóa chỉ huy, điều khiển vũ khí.
+
+Căn cứ công văn số 230/BTL-AT ngày 29/01/2019 của Bộ Tư lệnh 86 về
+việc tăng cường bảo đảm ATTT cho hệ thống mạng máy tính quân sự, quốc
+phòng, mạng TSLqs và mạng internet,
+
+'Viện Công nghệ thông tin xin báo cáo kết quả rà soát các thiết bị hạ tầng
+viễn thông trong mạng Internet và mạng máy tính, mạng TSL, quân sự, các thiết
+bị viễn thông trong các hệ thống tự động hóa chỉ huy, điều khiển vũ khí trong
+phạm vi Viện quản lý như sau:
+
+1. Thiết bị tham gia hệ thống mạng LAN nội bộ.
+
+Mạng LAN nội bộ của Viện Công nghệ thông tin là mạng hoạt động theo
+cơ chế mạng ngang hàng, không phân cấp và định tuyến nên toàn bộ các thiết bị
+tham gia vào mạng chủ yếu là các bộ chia mạng và thiết bị đầu cuối. Vì vậy toàn
+bộ thiết bị tham gia vào mạng LAN nội bộ của Viện Công nghệ thông tỉn qua rà
+soát kiểm tra đều đảm bảo an toàn, không có bắt kỳ thiết bị nào trong danh mục
+đã được cảnh báo.
+
+2. Thiết bị tham gia mạng internet.
+
+Không có thiết bị tham gia vào hệ thống mạng internet nằm trong danh
+mục cần khắc phục, thay thế.
+
+3.. Thiết bị tham gia mạng máy tính quân sự, mạng TSLqs.
+
+Viện Công nghệ thông tin có triển khai hệ thống giao ban trực tuyến
+'Bắc/Nam thông qua đường TSLqs. Tuy nhiên không có trang bị thuộc danh mục
+không bảo đảm ATTT./„y—
+
+Nơi nhận:
+~ Văn phòng Viện KHCNQS;
+~ Lưu: VT, KH; T03.
+
+TRƯỞNG
+
+   
+
+á Đỗ Việt Bình

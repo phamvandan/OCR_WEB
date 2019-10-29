@@ -1,0 +1,145 @@
+'VIỆN CÔNG NGHỆ THÔNG TIN CỌNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+BAN KẺ HOẠCH Độc lập - Tự do - Hạnh phúc
+Số: 105/KH-BKH Hà Nội, ngày 20 tháng 3 năm 2017
+PHÊ DUYỆT
+
+Ngày 20 tháng 5 năm 2017
+
+KẾ —
+'Thực hiện (đợt 1) Nhiệm Xây đụng Sự thử nghiệm,
+đào tạo và triển khai Hệ quản lý dữ
+
+ 
+
+liệu quân số chung năm 2017 vn vn Quân lực” của
+'Viện Công nghệ thông tin
+
+Căn cứ Công văn số 130/QL-QSCS ngày 16/1/2017 của Cục Quân lực về
+việc xây dựng hệ thống phần mềm quản lý đữ liệu quân số chung;
+
+Căn cứ Kế hoạch số 376/KH-QL ngày 20/2/2017 của Cục Quân lực về
+việc vận hành, kiểm thử, hiệu chỉnh hệ thống phần mềm quản lý dữ liệu quân số
+chung năm 2017,
+
+Ban Kế hoạch xây dựng kế hoạch thực hiện (đợt 1) nhiệm vụ “Xây dựng,
+thử nghiệm, đào tạo và triển khai Hệ thống phần mềm quản lý dữ liệu quân số
+chung năm 2017 cho Cục Quân lực” như sau:
+
+1. Thời gian thực hiện: Từ 20/2/2017 đến 15/5/2017.
+
+2. Nhóm thực hiện nhiệm vụ
+
+~ 2// Nguyễn Đức Định, Phó Viện trưởng, Phụ trách chung.
+
+Tổ trực tiếp thực hiện:
+
+- 1⁄ Bùi Đức Hợp, TUNC, Phòng CNTT&TTM, Chủ trì thực hiện.
+
+- 4/ Đỗ Ngọc Phục, TUNC, Phòng HTTQL - Xây dựng phần mềm.
+
+- 4/ Lê Thị Thu Hồng, TLNC, Phòng CSDL - Xây dựng phần mềm.
+
+„5 NgybIIEHN Ha; TẸNC, ĐREONIEHIRCCLON “K AM) th gi Go
+chuyển giao, hỗ trợ kỹ thuật.
+
+CHẾ KNTBIE ĐH ÁP DEN QDRABEBIBBGLsee/BB Bo
+pháp lý.
+
+~ 2/CN Nguyễn Trung Hiếu, Nhân viên, Ban Kế hoạch - Hỗ trợ kỹ thuật
+~ 2// Nguyễn Phú Pha, TLNC, Phòng ĐT&CGCN - Kiểm thử phần mềm.- 3/ Lê Hoàng Minh, Phòng ĐT&CGCN - Cài đặt, chuyển giao, hỗ trợ kỹ
+
+- 4/CN Trần Đình Trường, KTV, Phòng THCHTTCH - Lắp đặt mạng.
+- 1⁄/CN Trần Thức Trung, KTV, Phòng BĐKT - Lắp đặt mạng.
+Tổ tư vấn:
+
+- 2// Đặng Thanh Quyền, Phó viện trưởng Viện CNTT.
+
+- 3// Nguyễn Nhật An, Trưởng phòng, Phòng CSDL.
+
+- 2// Cao Nam Hải, Trưởng phòng, Phòng THCHTTCH.
+
+- 2// Nguyễn Sinh Huy, Trưởng phòng, Phòng CNTT&TTM.
+-2// Vũ Sơn Hà, Trưởng phòng, Phòng BĐKT.
+
+- 1⁄/ Bạch Hồng Quyết, Trưởng phòng, Phòng KKTT&TCM.
+
+- 1⁄ Lê Ngọc Tú, Trưởng phòng, Phòng ĐT&CGCN.
+
+- 1⁄ Phạm Hải Hưng, Phó trưởng phòng, Phòng HTTQL.
+
+- 1⁄/ Nguyễn Chí Thành, TLNC, Phòng CNTT&TTM.
+
+- 4/ Hà Trung Hải, PT.Trưởng ban, Ban Kế hoạch.
+
+3. Kế hoạch cụ thể
+Xây dựng phần mềm (lập
+trình) Lập quy trình (bao gồm cả
+quy trình đồng bộ) Khảo sát phân tích thiết kế Nội dung công việc 
+Đóng gói sản phẩm 'Viết tài liệu hướng dẫn sử
+dụng, hướng dẫn cài đặt,
+tài liệu tập huấn Kiểm thử phần mềm. 2/3/2017-
+3/4/2017 
+28/2/2017
+=3/4/2017 20/2/2017
+~1/3/2017 20/2/2017
+~ 1/3/2017 Thời gian
+(®đB-KT) 
+3/4/2017-
+15/4/2017 3/4/2017-
+15/5/2017 ~ Chủ trì: 1/⁄/ Bài Đức Hợp TU 0 LiÁCSSk2USÌE HỢP"
+~ Tham gia:
+
+4/18 Thị Thụ Hồng
+
+4/ Đỗ Ngọc Phục 
+Cán bộ thực hiện ~ Chủ trì: 1⁄/ Bùi Đức Hợp.
+
+~ Tham gia:
+
+4/ Nguyễn Đình Hưng
+Ngọc Phục ~ Chủ trì: 1⁄ Bài Đức Hợp
+~ Tham gia:
+
+4/ Lê Thị Thu Hồng
+
+4/ Nguyễn Đình Hưng HỆ Ì BỤU H.” GÌ») -IƯỤN)
+
+LH
+3/ Lê Hoàng Minh 
+~ Chủ trì: 4/ Đỗ Ngọc Phục
+
+~ Tham gia:
+4/ Lê Thi Thu Hồng. Ghi
+chú Kính đề nghị Viện trưởng Viện Công nghệ thông tin xem xét, phê duyệt
+kế hoạch để tạo điều kiện thuận lợi cho nhóm thực hiện nhiệm vụ hoàn thành
+nhiệm vụ đề ra./.
+
+"Nơi nhận: PT. TRƯỞNG BAN
+~ Như trên;
+
+~ Các đ/c trong danh sách (21);
+~ Các Phòng, Ban liên quan (9);
+
+- Lm: VT, KH; H33. Wl ———
+
+Đại úy Hà Trung Hải
+Hỗ trợ kỹ thuật Cài đặt, chuyển giao phần
+mềm Nội dung công việc Từ
+15/5/2017 
+15/5/2017-
+30/5/2017 Thời gian ~ Tham gia:
+4/ Nguyễn Đình Hưng.
+2/CN Nguyễn Trung Hiếu
+4/ Lê Thị Thụ
+
+4/ Đỗ Ngọc Phục.
+
+3/ Lê Hoàng Minh ~ Chủ trì: 4/ Lê Đình Hưng.
+~ Tham gia:
+
+3/ Lê Hoàng Minh
+
+2// Nguyễn Phú Pha 
+Cán bộ thực hiện Ghi
+chú 

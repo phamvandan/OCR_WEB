@@ -1,0 +1,252 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập — Tự do - Hạnh phúc
+Số: 4é 6c /VCNTT-KH Hà Nội, ngày-/# tháng 10 năm 2017
+'V/v đề xuất kế hoạch khảo sát và thử.
+nghiệm các sản phẩm của
+
+đề tài KC.T-28
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ Hợp đồng Khoa học và Công nghệ số 1933/2017/HĐKHCN ngày
+15 tháng 8 năm 2017 giữa Cục Khoa học quân sự/BQP, Ban Chủ nhiệm Đề án
+KC-T và Viện Khoa học và Công nghệ quân sự, Viện Công nghệ thông tin, Chủ
+nhiệm đề tài;
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài cấp BQP thuộc Đề án
+KC-T: “Nghiên cứu thiết kế, chế tạo máy KU163C-VN dựa theo nguyên mẫu máy
+KVI631 và tích hợp thành hệ thống tự động điều khiển phóng tên lửa Kh-35E
+theo mẫu KACV 3P-60V2-1241.8" (Mã số KC.T-28),
+
+'Viện Công nghệt thông tin đề xuất kế hoạch khảo sát và thử nghiệm các sản
+phẩm của đề tài tại các đơn vị của Quân chủng Hải quân như sau:
+
+1. Nội dung:
+
+1.1. Khảo sát hệ thống, thiết bị: chia làm 2 đợt:
+
+- Đợt I: Dự kiến thời gian làm việc 7 ngày, trong khoảng từ tháng
+10/2017 đến tháng 11/2017.
+
+- Đợt 2: Dự kiến thời gian làm việc 10 ngày, trong khoảng từ tháng
+01/2018 đến tháng 6/2018.
+
+1.2. Kiểm tra, thử nghiệm thiết bị (01 đợt): Dự kiến thời gian làm việc 15
+ngày, trong khoảng từ tháng 3/2019 đến tháng 9/2019.
+
+1.3. Thử nghiệm, nghiệm thu thiết bị (01 đợt): Dự kiến thời gian làm việc
+15 ngày, trong khoảng từ tháng 02/2020 đến tháng 5/2020.
+
+2. Địa điểm: Lữ đoàn 162/Vùng 4 Hải quân.
+(Kế hoạch và Quy trình chỉ tiết được gửi kèm theo công văn này).Kính đề nghị Phòng TM-KH xem xét và báo cáo Ban Giám đốc Viện
+KHCNGđS liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ đoàn công
+tác Viện Công nghệ thông tỉn hoàn thành nhiệm vụ. le —
+
+    
+   
+
+£
+cà
+
+Hữg tá Đỗ Việt BìnhPHỤ LỤC
+Kế hoạch khảo sát hệ thống KACY và Quy trình thử nghiệm các thiết bị của
+đề tài KC.T-28.
+(Kèm theo công văn số: 465 /VCNTT-KH ngày1† /10/2017 của Viện CNTT)
+
+I- KÉ HOẠCH CHUNG
+1. Địa điểm khảo sát và thử nghiệm
+
+Lữ đoàn 162/Vùng 4 Hải quân. (Tàu 376 chính; Tàu 375 dự bị)
+2. Cơ quan phối hợp thực hiện
+
+~ Phòng Kỹ thuật/Vùng 4 Hải quân;
+
+- Lữ đoàn 162/Vùng 4 Hải quân.
+
+3. Đảm bảo, vận hành
+
+Tổ đề tài của Viện KH-CN Quân sự có trách nhiệm đảm bảo an toàn về người
+và thiết bị trong quá trình thử nghiệm. Nếu có hỏng hóc xảy ra do lỗi của tổ đề tài,
+tổ đề tài có trách nhiệm khắc phục và hoàn trả nguyên trạng hệ thống KACY cho
+đơn vị.
+
+Đề nghị Lữ đoàn 162/Vùng 4 HQ và Phòng Kỹ thuậtVùng 4 HQ trợ giúp
+phương tiện đưa đón cán bộ ra/vào căn cứ và bố trí chỗ nghỉ cho đoàn trong thời
+gian thực hiện khảo sát tại đơn vị.
+
+Trong quá trình khảo sát và thử nghiệm, tất cả các thao tác vận hành KACY
+đều do cán bộ Ngành hoả lực, nhân viên Tiểu đội tên lửa của Tàu trực tiếp thực
+hiện để đảm bảo an toàn và khách quan.
+
+ 
+
+II- KẾ HOẠCH KHẢO SÁT HỆ THÓNG KACY TRÊN TÀU 1241.8
+1. Thời gian
+- Đợt 1: Dự kiến thời gian làm việc 7 ngày, trong khoảng từ tháng 10/2017
+đến tháng 11/2017.
+- Đợt 2: Dự kiến thời gian làm việc 10 ngày, trong khoảng từ tháng 01/2018
+đến tháng 6/2018.
+2. Thành phần tham gia khảo sát
+- Đại tá Phạm Hồng Long, Viện CNTT/Viện KH-CNQS
+- Thiếu tá Vũ Hoàng Anh, Viện CNTT/Viện KH-CNQS
+- Thiếu tá Phạm Xuân Công, Viện CNTT/Viện KH-CNQS
+- Thiếu tá Nguyễn Minh Thường, Viện CNTT/Viện KH-CNQS
+- Đại úy Dương Phú Tuắn, Viện CNTT/Viện KH-CNQS
+- Đại úy Nguyễn Tuấn Anh, Viện CNTT/Viện KH-CNQS
+~ Đại úy Dương Mạnh Cường, Viện CNTT/Viên KH-CNOS3. Nội dung, quy trình khảo sát hệ thống KACY trên tàu 1241.8
+a)_ Khảo sát nguội (không cắp điện, không bật máy)
+- Nghiên cứu tài liệu hướng dẫn sử dụng và thuyết minh kỹ thuật của hệ
+thống.
+- Khảo sát phần cứng :
++__ Đo đạc, khảo sát cơ khí tủ thiết bị KV16311
++_ Đo đạc, khảo sát các giắc cắm và hệ thống cáp nối trong hệ thống KACY
++ Đo đạc, khảo sát chỉ tiết các module bên trong tủ KY16311, bao gồm : 01
+module LIIT và 01 module BM-OC, 01 màn hình, 02 khối nguồn, 02 khói
+TIK4.
++_ Khảo sát hệ thống thông tin đầu vào KACY : máy tính đường, hệ thống,
+hàng hải quán tính, hệ thống thông tin chỉ thị mục tiêu 3C25E
+b)_ Khảo sát nóng (không can thiệp)
+~-Xem xét quá trình hoạt động của KV1631I ở các chế độ hoạt động của
+KACY.
+- Xem xét tương tác của thiết bị KV16311 với các tủ thiết bị khác trong hệ
+thống.
+- Thu thập dữ liệu đầu vào của KY163HI, từ các đường truyền của máy tính
+đường, hệ thống hàng hải quán tính và hệ thống ra-đa chỉ thị mục tiêu 3C25E.
+~ Khảo sát hệ thống thông tin đầu vào KACY : máy tính đường, hệ thống
+hàng hải quán tính, hệ thống thông tin chỉ thị mục tiêu 3C25E.
+Kết thúc khảo sát.
+
+II-QUY TRÌNH THỨ NGHIỆM THIẾT BỊ KU163C-VN CỦA HỆ THÓNG
+KACY TRÊN TÀU 1241.8
+1. Thời gian
+- Đợt 1: Dự kiến thời gian làm việc 15 ngày, trong khoảng từ tháng 3/2019
+đến tháng 9/2019.
+- Đợt 2: Dự kiến thời gian làm việc 15 ngày, trong khoảng từ tháng 02/2020
+đến tháng 5/2020.
+2. Thành phần
+- _ Đại tá Phạm Hồng Long, Viện CNTT/Viện KH-CNQS
+- _ Thiếu tá Vũ Hoàng Anh, Viện CNTT/Viện KH-CNQS
+~ _ Thiếu tá Phạm Xuân Công, Viện CNTT/Viện KH-CNQS
+- _ Thiếu tá Nguyễn Minh Thường, Viện CNTT/Viện KH-CNQS
+-_ Đại úy Dương Phú Tuần, Viện CNTT/Viện KH-CNQS
+- _ Đại úy Nguyễn Tuấn Anh, Viện CNTT/Viện KH-CNQS
+- —- Ti Thư mơ Manh Co®rờmoc Viên CN FT/Viên KH-CNOS- _ Đại diện Viện KH-CNQ§, Ban Đề án KC-T: 02 người;
+~ _ Đại diện Cục Khoa học Quân sự: 01 người;
+~_ Đại diện Cục Kỹ thuậ/QCHQ: 01 người;
+~ _ Đại diện Phòng Kỹ thuật/Vùng 4 Hải quân: CNKT, TB Quân khí;
+- _ Đại diện Lữ đoàn 162/Vùng 4 Hải quân: Chỉ huy Lữ đoàn, CNKT, TBQK;
+- _ Đại diện Tàu thử nghiệm lớp 1241.8: Thuyền trưởng, Trưởng ngành 2;
+3. Nội dung thử nghiệm
+Thử nghiệm tủ thiết bị KU163C-VN: lắp ráp cơ khí, thử nghiệm tính năng kỹ
+
+thuật ở các chế độ ““2K”, “OP”, “AB” khi kết nối KACY với giả đạn tên lửa MIP-
+60M hoặc IR-60VN (đáp ứng 3 chế độ này thì 2 chế độ “OP-IT”, “TJIC” đương
+nhiên được đáp ứng):
+
+a) Bật hệ thống KACY của Tàu thử nghiệm, kiểm tra ở chế độ “2K”:
+
+-_ Bật KACY, ghỉ nhận màn hình kết quả kiểm tra sơ bộ ban đầu;
+
+~ _ Vào chế độ “2K”, chọn “IIBC” để xem kết quả kiểm tra các thành phần của
+hệ thống.
+
+-_ Di chuyển chuột tới nút “KoMnnec”, bấm phím INSERT để chuyển sang
+chế độ hiển thị chỉ tiết, bắm ENTER để kiểm tra lại toàn bộ hệ thống.
+
+-__ Tắt KACY, ngắt điện hệ thống và bàn giao tình trạng KACY hiện tại.
+
+b) Lắp ráp thiết bị giả đạn HP-60M hoặc IR-60VN vào 1 bệ tên lửa (giả lập 4
+quả tên lửa) trên cả 4 kênh để kiểm tra ở chế độ “OP”:
+
+-_ Bật KACY, vào chế độ “OP”, bấm nút “I[V” để chọn chế độ nhập thông số
+bằng tay. Trên màn hình cửa số “BbIBOP IỊY”, chọn nút “PB”, đóng cửa số. Nhập
+các tham số theo phương án bắn (27 tham số).
+
+-_ Bấm nút "HP" để giải bài toán chỉ định tên lửa vào mục tiêu.
+
+- _ Bấm nút “LIP” để xác nhận chỉ định tên lửa vào mục tiêu. Chọn bắn chỉ định
+cả 4 quả vào mục tiêu, bấm “PB”.
+
+-_ Bấm nút “HIITT? để tiến hành chuẩn bị trước khi phóng, chờ hệ thống đếm
+giây, qua 60 giây xuất hiện chỉ dẫn mở chìa khóa mạch phóng và bấm nút phóng.
+Ghi nhận kết quả bắn.
+
+-_ Bấm nút “BbIXOJI? để tắt KACY, bàn giao tình trạng chế độ “OP” hiện tại.
+©)_ Tiến hành tháo tủ thiết bị KV1631[ của tàu:
+
+-_ Tháo rời các module bên trong tủ, đưa vào bảo quản: 01 module LỤI, 01
+module BM-OC, 01 màn hình, 01 bộ bàn phím. Không tháo các module khác.
+
+- Tháo các đầu giác nối cáp ở trên nóc tủ: cáp nối sang hệ thống radar, hệ
+thống máy tính đường, hệ thống hàng hải quán tính, cáp nói sang các tủ KB163TI.
+
+- _ Tháo vít cố định tủ với thân tàu; tháo vít cố định chân tủ với sàn tàu.
+
+-_ Di chuyển khung thiết bị KV16311 và các module thành phần ra ngoài, tiến
+hành bàn giao bảo quản.
+
+đ)_ Vận chuyển và lắp đặt tủ thiết bị KU163C-VN vào vị-_ Tháo rời và đóng gói các thành phần của tủ thiết bị KU/63C-VN, bao gồm:
+khung vỏ và hệ thống quạt mát, 01 module LỰI, 01 module BM-OC, 01 màn hình,
+01 bộ bàn phím.
+
+-_ Di chuyển các thành phần của thiết bị KU!63C-VN đã được đóng gói lên
+khu vực chỉ huy của ngành hoả lực.
+
+- _ Tiến hành lắp ráp khung vỏ và cố định khung tủ vào thân tàu.
+
+-_ Lắp và đấu nồi các cáp nối ở nóc tủ.
+
+~ _ Lắp ráp các module thành phần vào tủ KU!63C-VN.
+©) Sau khi kiểm tra các kết nói cơ khí ôn định, tiến hành cấp điện và kiểm tra
+
+KUI63C-VN trong KACY ở chế độ “2K”:
+
+-_ Bật KACY, ghi nhận tình trạng kiểm tra ban đầu của hệ thống.
+
+-_ Vào chế độ “2K”, chọn “IIBC” để ghi nhận kiểm tra ban đầu ở mức chỉ tiết
+các module.
+
+-_ Di chuyển chuột tới nút “Kownnec”, bắm phím INSERT để chuyển sang,
+chế độ hiển thị chỉ tiết, bầm phím ENTER để kiểm tra tự động toàn bộ hệ thống.
+
+- _ Trắc thủ thực hiện chế độ kiểm tra tự động (ABTOMATMHECKHI TECT)
+nhiều vòng để kiểm tra tính ổn định của hệ thống (tối thiểu 30 vòng).
+
+9) Kiểm tra hoạt động của thiết bị KUI63C-VN ở chế độ “OP” khi có kết nỗi với
+giả đạn HP-60M hoặc IR-60VN:
+
+-_ Bật KACY, vào chế độ “OP”, bầm nút “IIV” để chọn chế độ nhập thông số
+bằng tay. Trên màn hình cửa số “BbIBOP LIV”, chọn nút “PB”, đóng cửa sổ. Nhập
+các tham số theo phương án bắn (27 tham số).
+
+- _ Bấm nút "HP" để giải bài toán chỉ định tên lửa vào mục tiêu.
+
+-_ Bấm nút “IIP” để xác nhận chỉ định tên lửa vào mục tiêu. Chọn bắn chỉ định
+cả 4 quả vào mục tiêu, bắm “PB”.
+
+-_ Bấm nút “HIITT? để tiến hành chuẩn bị trước khi phóng, chờ hệ thống đếm
+giây, qua 60 giây xuất hiện chỉ dẫn mở chìa khóa mạch phóng và bắm nút phóng.
+
+- _ Ghi nhận kết quả bắn, In kết quả.
+
+-_ Bấm nút “BbIXOJƑ để tắt KACY.
+
+- _ Thực hiện chế độ “OP” thêm nhiều lần để kiểm tra tính ổn định của thiết bị
+
+thiểu 30 lần, nếu kết quả giống nhau thì chỉ in 1 lần).
+
+tra hoạt động của thiết bị KU163C-VN ở chế độ “AB” nguôn sự cố khi
+
+có kết nối với giả đạn HP-60M hoặc IR60-VN:
+
+'Bật chìa khóa mạch phóng.
+
+Mở nắp dãy nút ấn phóng hủy.
+
+~_ Ấn nút cấp nguồn “AB” trong dãy nút, chọn quả cần phóng hủy và bấm nút.
+
+Ghi nhận kết quả.
+
+- Thực hiện nhiều lần để thử nghiệm tính ổn định của thiết bị (tối thiểu 30
+lần). lJy

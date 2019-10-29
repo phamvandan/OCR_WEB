@@ -1,0 +1,314 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN ộc lập - Tự do - Hạnh phúc
+Số: 3# /VCNTT-KH Hà Nội, ngày22 tháng 01 năm 2018
+'V/v thử nghiệm hệ thống mô phỏng máy
+
+điều khi bắn pháo MR-123-02 MOD 3
+Kính gửi: Vùng 2 Hải quân.
+
+Căn cứ hợp đồng số 371/2016/HĐ-CNTT ngày 28 tháng 12 năm 2016 giữa
+'Viện KH-CNQS và Viện Công nghệ thông tin về việc thực hiện đề tài "Nghiên
+cứu thiết kế, chế tạo hệ thống mô phỏng máy điều khiển bắn pháo MR-123-02
+MOD 3 trên tàu 1241.8”;
+
+Căn cứ theo thuyết minh đề tài: “Nghiên cứu thiết kế, chế tạo hệ thống mô
+phỏng máy điều khiển bắn pháo MR-123-02 MOD 3 trên tàu 1241.8” đã được phê
+duyệt;
+
+Căn cứ vào công văn 16068/BTL-KHQS ký ngày 27/12/2017 của Bộ Tư lệnh
+Hải quân về việc triển khai hệ thống mô phỏng điều khiển máy bắn pháo MR123-
+02 MOD3 trên tàu 1241.8 tại Lữ đoàn 167/Vùng 2 Hải quân,
+
+Viện Công nghệ thông tin đã chỉnh sửa sản phẩm của đề tài nêu trên theo yêu
+cầu thực tế tại đơn vị sử dụng và theo thuyết minh đề tài. Viện CNTT xây dựng
+kế hoạch triển khai thử nghiệm sẵn phẩm của đề tài với nội dung sau:
+
+1. Dự kiến thời gian
+
+- Đợt 1: Dự kiến từ ngày 15/3/2018 đến 24/3/2018, chỉnh sửa cài đặt vận hành,
+thử nghiệm, đánh giá kết quả
+
+- Đợt 2: Dự kiến từ ngày 25/3/2018 đến 31/3/2018, dự kiến tổ kỹ thuật kiểm
+tra đánh giá kết quả thử nghiệm, hoàn thiện hồ sơ.
+
+1. Dự kiến số người và thành phần tham gia công tác:
+
+~ Tổ chức chỉnh sửa cài đặt vận hành, thử nghiệm, đánh giá kết quả gồm các
+đồng chí sau:
+
++ Thiếu tá Dương Hồng trường, Viện CNTT/Viện KHCNQS.
+
++ Trung tá Bạch Hồng Quyết, Viện CNTT/Viện KHCNQS.
+
++ Thiếu tá CN Lê Quang Hưng, Viện CNTT/Viện KHCNQS.
+
++ Vũ Hoàng Minh, cán bộ Viện CNTT/Viện KHCNQS
+
+- Tổ kỹ thuật kiểm tra đánh giá kết quả thử nghiệm: dự kiến gồm 06 đồng chí
+(Viện KHCNQS, Khách mời của BTL Hải quân và Viện Công nghệ thông tin).
+
+II. Địa điểm: Lữ đoàn 167/ Vùng 2 Hải quân
+
+(Ouy trình thử nghiệm trong phụ lục kèm theo)Kính đề nghị BTL Vùng 2 Hải quân xem xét chỉ đạo các đơn vị liên quan tạo
+điều kiện phối hợp, giúp đỡ đoàn công tác Viện Công nghệ thông tin hoàn thành
+nhiệm vụ. jWl ~
+Nơi nhận:
+
+~ Lưu: VT, KH; H03.PHỤ LỤC.
+Quy trình thử nghiệm hệ thống mô phỏng máy điều khiển
+bắn pháo MR-123-02 MOD 3.
+(Kèm theo công văn số: 3Ÿ /VCNTT-KH ngày-22/01/2018 của Viện CNTT)
+
+Thử nghiệm sản phẩm đề tài: Nghiên cứu thiết kế, chế tạo hệ thống mô phỏng
+máy điều khiển bắn pháo MR-123-02 MOD 3 trên tàu 1241.8
+
+Viện Công nghệ thông tin đề xuất tổ chức thử nghiệm sản phẩm nghiên cứu
+của để tài như sau:
+
+1. Nội dung thử nghiệm.
+
+«_ Vận hành hệ thống phần mềm mô phỏng trên máy chủ và các máy trạm
+để thử nghiệm tất cả các chức năng của hệ thống, kiểm tra quy
+thao tác sử dụng mặt máy và các quy trình huấn luyện trên bộ tạo,
+3MI và 3M2, sau khi đã được hiệu chỉnh, bổ sung tính năng
+nghiệm lần 1.
+
+©_ Tiếp tục thử nghiệm hệ thống mô phỏng máy điều khi bắn pháo
+123-02 MOD 3 trong trường hợp huấn luyện độc lập và trường hợp
+huấn luyện hiệp đồng với hệ thống mô phỏng bắn pháo AK-630 bằng
+cột ngắm đã được xây dựng.
+
+2. Phương pháp thử nghiệm.
+
+© Chạy các module phần mềm trên máy chủ và các máy trạm của 2 bộ
+tạo giả mặt máy 3MI và 3M2 để kiểm tra sự hoạt động, đồng bộ và thể
+hiện được đầy đủ các chức năng của các núm nút, đèn báo, đảo mạch,
+đồng hồ, joystick, bàn đạp cò và các thiết bị ngoại vi khác.
+
+©_ Chạy thử nghiệm độc lập hệ thống mô phỏng MR-123-02 MOD 3 để
+thực hành huấn luyện theo chức năng, huấn luyện thao tác tại vị trí
+chiến đấu và huấn luyện điều khiển bắn pháo cho các trắc thủ.
+
+© Chạy thử nghiệm hiệp đồng toàn bộ 2 hệ thống: hệ thống mô phỏng
+máy điều khiển bắn pháo MR-123-02 MOD 3 và hệ thống mô phỏng,
+bắn pháo AK-630 bằng cột ngắm.
+
+3. Quy trình thử nghiệm.
+Quy trình thử nghiệm được trình bày trong bảng sau:
+Huân luyện theo chức
+năng Tạo kịch bản huân
+luyện trên máy giáo
+viên và điều khiển các
+tình huống tác chiến
+trong suốt quá trình
+thử nghiệm. Bật tật cả các chương
+trình phần mềm trên
+máy chủ và máy trạm Nội dung 
++ Bật máy chủ, bật máy tính
+của tủ 3MI và tủ 3M2.
+
++ Đăng nhập máy chủ, sau khi
+đăng nhập thành công, phần
+mềm trên máy chủ sẽ kích
+hoạt các phần mềm trên 2 tủ
+3MI và 3M2. Phương pháp thử nghiệm + Các chê độ làm việc của đài
+ra đa
+
++ Các chế độ làm việc của
+màn hình ra đa
+
++ Các chế độ bám sát mục tiêu
++ Từ tủ 3M2, trắc thủ pháo + Từ phân mêm soạn thảo KB,
+mở kịch bản bài tập sẵn có
+hoặc tạo kịch bản mới từ các
+công cụ trên menu.
+
++ Một kịch bản bài tập tạo ra
+có thể gồm: các đối tượng tĩnh
+như trực thăng treo, tàu chiến
+địch đang đứng yên; các đối
+tượng ở trạng thái đang
+chuyển động: máy bay trực
+thăng, máy bay phản lực, tàu
+chiến.
+
++ Điều khiển các tình huống
+tác chiến: đối tượng di chuyển,
+tạm dừng, ẩn/hiện, thay đổi
+đường chuyển động ...
+
++ Điều khiển thay đổi các yếu
+tố thời tiếƯmôi trường: mây,
+mưa, sóng, gió...
+
++ Chọn đối tượng để quan sát,
+thay đổi góc tầm, góc hướng,
+khoảng cách quan sát .. 
+ỗn định và
+chính xác của
+phần mềm mêm
+soạn — thảo
+kịch bản và
+phần mềm
+sinh ảnh máy
+chủ hoạt động.
+bình thường,
+thể hiện sinh
+động các tình
+huống tác
+chiến. Các máy tính
+và phần mềm
+hoạt động
+bình thường,
+ổn định "Yêu câu 
+Kíp chiến
+đầu và nhóm
+đề tài thực
+hiện Chỉ huy kíp
+chiến đấu và
+nhóm đề tài
+thực hiện Chỉ huy kíp
+chiến đấu và
+nhóm đề tài
+thực hiện Nội dung Phương pháp thử nghiệm. 'Yêu cầu Ghi chú
+
+tạo giả mục tiêu và hiệu chỉnh
+lượng sửa, truyền sang cho
+trắc thủ radar ở tủ 3MI
+
+Huấn luyện thao tác | + Sục sạo và bắt tiêu Xác định độ|Kíp chiến
+
+tại vị trí chiến đấu + Bám sát mục tiêu và xác|ổn định và | đấu vànhóm
+định phần tử bắn chính xác của | đề tài thực
++ Hiệu chỉnh chính xác quá | phần mềm | hiện.
+
+trình bám sát khi đứt bám
+
++ Phục hồi bám sát sau khi
+đứt bám
+
++ Bám sát mục tiêu bay thấp
++ Chuyển sang bắt và bám sát
+tên lửa được phóng ra
+
++ Bám sát quán tính trong
+điều kiện nhiễu thụ động
+
++ Bám sát mục tiêu bằng tay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Huấn luyện điều|+ Bắn pháo AK-176 và AK-| Xác định độ
+
+khiển bắn pháo. 630 bằng ra đa ổn định và | đấu và nhóm
++ Bắn pháo AK-176 và AK- | chính xác của | đề tài thực
+630 bằng quang truyềnhình |phằnmềm | hiện
+
+Huấn luyện hiệp đồng|+ Bật máy tính và chương|+ Tính hiệp|Kp chiến
+
+giữa phòng huấn | trình phần mềm mô phỏng bắn | đồng. đấu đơn vị
+
+luyện máy điều khiển | pháo AK-630, kết nối vào hệ |+ Thời gian | và nhóm đề
+
+bắn pháo MR-123-02 | thống mô phỏng máy bắn pháo | thao tác. tài thực
+
+MOD 3 và phòng huấn | MR-123. + Hạ mục tiêu | hiện.
+
+luyện bấn pháo AK- |+ Tạo kịch bản bài tập hỗn
+
+630 bằng cộtngấm | hợp, nhận lệnh điều khiển từ
+
+ 
+
+phần mềm máy chủ MR-123.
++ Sục sạo tìm kiếm mục tiêu
+
++ Bám bắt mục tiêu
+
++ Trắc thủ pháo AK 630, AK
+176 nhận lệnh bắn mục tiêu.
+
++ Kết thúc bài tập, in kết quả
+bài tập.
+Huân luyện điều
+khiển bắn pháo. Huân luyện thao tác
+tại vị trí chiến đấu Huân luyện hiệp đông
+giữa phòng huấn
+luyện máy điều khiển
+bắn pháo MR-123-02
+MOD 3 và phòng huấn
+luyện bắn pháo AK-
+630 bằng cột ngắm Nội dung 
++ Bắn pháo AK-176 và AK-
+630 bằng ra đa
+
++ Bắn pháo AK-176 và AK-
+630 bằng quang truyền hình + Sục sạo và bắt tiêu
++ Bám sát mục tiêu và xác
+định phần tử bắn
+
++ Hiệu chỉnh chính xác quá
+trình bám sát khi đứt bám
+
++ Phục hồi bám sát sau khi
+đứt bám
+
++ Bám sát mục tiêu bay thấp
++ Chuyển sang bắt và bám sát
+tên lửa được phóng ra
+
++ Bám sát quán tính trong
+điều kiện nhiễu thụ động
+
++ Bám sát mục tiêu bằng tay tạo giả mục tiêu và hiệu chỉnh
+lượng sửa, truyền sang cho
+trắc thủ radar ở tủ 3MI + Bật máy tính và chương
+trình phần mềm mô phỏng bắn
+pháo AK-630, kết nối vào hệ
+thống mô phỏng máy bắn pháo
+MR:123.
+
++ Tạo kịch bản bài tập hỗn
+hợp, nhận lệnh điều khiển từ
+phần mềm máy chủ MR-123.
++ Sục sạo tìm kiếm mục tiêu
+
++ Bám bắt mục tiêu
+
++ Trắc thủ pháo AK 630, AK
+176 nhận lệnh bắn mục tiêu.
+
++ Kết thúc bài tập, in kết quả
+bài tập. 
+Phương pháp thử nghiệm Xác định độ
+ổn định và
+chính xác của
+phần mềm Xác định độ
+ổn định và
+chính xác của hiệp
++ Thời gian
+
++ Hạ mục tiêu 
+Yêu câu Ghi chú
+
+Kíp chiến
+đấu và nhóm
+đề tài thực ⁄
+
+ẢN
+Lập biên bản thử nghiệm với
+xác nhận của đầy đủ các thành
+phần tham gia thử nghiệm Phương pháp thử nghiệm Các kết quả
+thể hiện trong
+biên bản cần
+đầy đủ, trung
+thực 'Yêu cầu 

@@ -1,0 +1,101 @@
+VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:3Ÿ1/VCNTT-KH Hà Nội, ngàyÀŠtháng 9 năm 2018
+
+V/v ý kiến tham gia đối với cầu hình, tính
+
+năng kỹ thuật của 02 hệ thống trinh sát
+MẬT
+
+——^~Kính gửi: Phòng Tham mưu - Kế hoạch/ Viện KH-CN quân sự.
+
+Căn cứ công văn số 1958/BTL-TM ngày 15/9/2018 của Bộ Tư lệnh 86 về
+việc xin ý kiến tham gia đối với cấu hình, tính năng kỹ thuật của 02 hệ thống.
+trình sát,
+
+Sau khi nghiên cứu công văn trên và các tài liệu kèm theo, Viện Công nghệ
+
+ 
+
+thông tin có ý kiến như sau:
+
+1. Nhận xét chung:
+
+Các hệ thống đều cung cắp các tính năng tiến tiền, hữu ích, phục vụ tốt cho
+quá trình trinh sát trên mạng Internet. Cả hai hệ thống đều cung cấp các nhóm
+tính năng cho phép người dùng thu thập thông tin một cách chủ động, tích cực
+và từ đó phân tích, điều tra, đưa ra các kết luận có chiều sâu về thông tin đã thu
+thập được.
+
+2. Hệ thống trinh sát nguồn mở:
+
+Các tính năng được mô tả trong phụ lục đều là những tính năng quan trọng,
+cần thiết cho nhiệm vụ trinh sát, thu thập thông tỉn trên mạng Internet.
+
+Đối với tính năng phân tích dữ liệu thu thập được: Hệ thống khi chuyển
+giao nên cho phép người dùng tùy biến các phương pháp phân tích dữ liệu một
+cách sâu sắc như, cài đặt thêm các module phân tích dữ liệu do ta tự xây dựng
+(như các module dựa trên data mining, trí tuệ nhân tạo,...). Qua đó, đảm bảo
+tính phù hợp bên vững của hệ thống.
+
+   
+
+Ngoài ra, tính năng này cũng cần cho phép người dùng tích hợp các thông
+tỉn thu thập từ nguồn khác (như thông tin do các bộ ban ngành khác cung cấp:
+bộ công an, Tổng cục 2,...) trong quá trình phân tích để có một kết quả phân
+tích toàn diện và tổng hợp nhất.
+
+3, Hệ thống trinh sát chủ động:
+
+Hệ thống trinh sát chủ động được thuyết minh là một hệ thống không chỉ
+đóng vai trò thu thập từ các nguồn công khai trên mạng mà cao cấp hơn, nó còn
+có khả năng khai thác các lỗ hỗng và thâm nhập vào những hệ thống đóng trong
+quá trình thu thập. Có thể thấy, đây là một hệ thống công nghệ hiện đại, đóng
+vai trò quan trọng trong quá trình trinh sát trên không gian mạng.1N
+“nh.
+ĐỒN ĐỤA,
+:MÙIJM ,ĐÁ,
+
+ 
+
+"lạ tay [3000 23-U 006,1, 8000, 0àýng3 (GEN
+"10s ưu) 8uot âu Z0 0nà tửnự! ý ẩueu
+
+(J0. 1J01 nE3 11 1ọp an 8001 â0ẩu Tìuo,) tộtA 02 gội € 302 0| Špp a4]
+óp
+
+nš (J0 nh 064 m 12x tọp toi tp ong tượp dpgd 8uondd px *dpa 8úna opu tàu)
+
+“ấp 3
+
+  
+
+Lapa Up
+
+  
+
+p3 UIlp 1S 3Ó pU TT 3Óp tt tuạiJu Šp| 8ugu qun u04 "00 bí 8000 0, Tê
+
+   
+
+dÊ3 te đuontd *-*'*00100 80001 JQ 1141 302 02 60g (00 Ấ01 301 (80 13) 000 14
+12t 100, 302 trận "8UỢU Ọ| ñIU on, sÖnp 201 1011 :00 00 Ổu01 0t Ýpg gui
+Sðnp 0ựa Ÿpu 8upU Jun 392 "(9g QuUải nỊ Ôg 003 II1-11/866| 0š 0e\ 8uo )
+SàI1 tườN) [} 381 ñỤd 8064] tận pv nọ 3uow “pa quận sðot
+
+Xpu đupU (0N ap3 tạtU Ấn] "u01 (001 0a01 8UonQd tọp ønà äuộp tôot cäuoa
+
+ 
+
+?q U11 Sông phú 2
+
+tp] tiBg (J3 "ĐÓ ðp 0n BuỌt] a2 :0005 opd đắp "opg 003 4| 6Ò) cú 3004) dộu)
+DỤ! ập (014 (60 nộIJU Hạn) 3p 0l tàu Xp| 8ugu pụy o2 ⁄8ung di "0uội tộtp
+trận 1u opd 0ì ŸUOt Tổgu dộa px lạnh oŒ[ tạ) ä9 8uo0] âg than sũtt mì tui
+oeq u00 01 801 3001 TBỤM :tuọä ong ọ2 Ấu 8uọA) §U pna 8upu (Jun 1010
+sipu ý 3uPU1 0£ f68u tàệng a0d sónh dÒ-ŒÒ/Z611 ọ
+
+ 
+
+quịp tạ Anh oad]

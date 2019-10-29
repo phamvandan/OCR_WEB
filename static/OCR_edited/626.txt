@@ -1,0 +1,562 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 46+/VCNTT-KH Hà Nội, ngày #0 tháng 4 năm 2017
+V/v đề xuất nhiệm vụ thuộc chương.
+trinh KC.BM
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Thực hiện chỉ đạo của Thủ trưởng Viện KHCNG®S và hướng dẫn của
+phòng TM-KH, Viện Công nghệ thông tin đề xuất nhiệm vụ KHCN thuộc
+chương trình KC.BM như sau:
+
+1. Tên nhiệm vực Nghiên cứu, thiết kế, xây dựng các hệ thống mô phỏng
+huấn luyện và hỗ trợ rà phá bom mìn.
+
+2. Thuộc chương trình KH&CN: Xây dựng hệ thống thông tin quản lý ô
+nhiễm bom mìn và phát triển hệ thống trang thiết bị, phương tiện phục vụ đò
+tìm, xử lý bom mìn, vật nỗ còn sót lại sau chiến tranh ở Việt Nam.
+
+Kính chuyển Phòng TM-KH/Viện KHCNQS xem xét. WW⁄”
+
+Nơi nhận: Z TRƯỜNG
+~ Như trên; gen
+~ Lưu: VT, KH; H03.
+
+  
+
+b— # Vỳá,
+Tung tá Đỗ Việt BìnhĐơn vị: Viện Công nghệ thông tin
+
+DANH MỤC ĐÈ XUẤT NHIỆM VỤ RÀ PHÁ BOM MÌN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Cơ sở dữ liệu bản đồ địa hình 3D một số khu vực
+
+ 
+
+ 
+
+~ Thiết kế mô hình hệ thông _|
+
+ 
+
+ 
+
+“Tên đề di, | Chủ nhiệm | - mục tiêu và nội dung Thu gn TM
+TT | nhiệm vụ đề tài, cơ nghiên cứu chính Dự kiến kết quả đạt được và chỉ tiêu kỹ thuật | nặ: đậu | Kết thúc | (Triệu
+quan chủ trì đồng) |
+T [Nghiên cứu, | Viện Công | 1) Mục tiêu: 'Cc hệ thông mô phòng huấn luyện và hỗ rợ rà phá. | 10/2017 12/2020 | 58.000
+thiết kế, xây | nghệ thông _ | Nghiên cứu, thiết kế, xây — | bom mìn gồm:
+dựng các hệ | tin dựng các hệ thông mô 1) Hệ thống mô phỏng. huấn luyện kỹ thuật rà phá
+ng mô phỏng huấn luyện và hệ bom mìn, kết hợp giữa mô phỏng trên máy, tính
+phỏng huấn thống thông tin cơ động, với thiết bị đồ tìm, cắt phá bom mìn và kính thực
+luyện và hỗ phục vụ huấn luyện kỹ thuật | tại áo (mô phỏng bán tự nhiên)
+trợ rà phá rà phá và hỗ trợ dò tìm, xử a) Hệ thống mô phỏng kỹ thuật rà phá bom mìn là hệ
+bom mìn lý bom mìn, vật nỗ còn sót thống mô phỏng bán tự nhiên cho toàn bộ thiết bị rà
+Tại sau chiến tranh, nhằm phá bom mìn được biên chế cho Binh chủng Công.
+nâng cao chất lượng hiệu _ | bình,gồm:
+quả của công tác khắc phục - Hệ thống thiết bị mô phỏng gồm các thiết bị mô
+hậu quả bom mìn. phông mây đò tìm, cắt phá bom mìn, ghép nỗi với hệ
+2) Nội dung chính: thống máy tính và kính thực tại ảo:
+a) Nghiên cứu, thiết kế, xây | + Các thiết bị mô phỏng: Thiết kế, chế tạo theo các
+dựng hệ thống mô phỏng — | máy dò tìm, cắt phá bom mìn, vật nỗ thực tế, đảm
+huấn luyện kỹ thuật rà phá _ | bảo thao tác trên thiết bị mô phỏng phù hợp với thiết
+'bom mìn, kết hợp giữa mô _ | bị thực;
+phỏng trên máy tính với + Các thiết bị CNTT gồm máy chủ, máy trạm hiệu
+thiết bị dò tìm, cắt phá bom. | năng cao, máy, chiếu, thiết bị mạng, các phụ kiện
+mìn và kính thực tại ảo (mô. | ghép nối thiết bị mô phỏng với máy tính;
+'bán tự nhiên): + Các kính thực tại ảo, được kết nỗi với máy tính.
+'Tên đề t
+nhiệm v
+
+ 
+
+1 [Nghiên c
+thiết kế,
+dựng các
+thống mí
+phỏng hu
+luyện và
+trợ rà phí
+bom mìr đề tài,
+
+ên cứu, | Viện Công
+
+Chủ nhiệm
+đề tài, cơ
+quan chủ trì
+
+nghệ thông.
+
+tin
+
+ 
+
+Mụ
+"n
+
+1) Mụ
+
+Nghiề "ng.
+h DĐ
+Các
+xây - | bom:
+) U)Hệ
+hệ bom
+ng |vớit
+ÿ thuật | tại ẫ‹
+m,xử |a)HỆ
+ðnsót | thốn
+hằm | phát
+hiệu |bỉnh,
+cphục | - Hệ
+phỏn
+thôn
+kế, xây | + Cá
+hỏng - | máy
+ràphá | bảo
+Eamô | bịth
+với  |+C
+há bom | năn
+cáo (mô | phế
++C
+tệ thông | -Ct 
+mô phỏng huân luyện kỹ
+thuật rà ghá bom mìn bán tự
+nhiên, kết hợp giữa thiết bị
+mô phỏng và phần mềm mô.
+phỏng huấn luyện kỹ thuật
+rà phá bom mìn;
+
+~ Thiết kế, chế tạo hệ thống
+thiết bị mô phỏng gồm các
+thiết bị mô phỏng máy dò
+tìm, cắt phá bom mìn, ghép
+nối với hệ thống máy tính
+và kính thực tại Ảo;
+
+~ Xây dựng cơ sở dữ liệu
+bản đồ địa hình 3D một số
+khu vực điển hình như (đồi
+núi, trung du, đồng bằng, đô
+thị) và các mô hình đối
+tượng 3D phục vụ mô
+phông huần luyện;
+
+~ Thiết kế, xây dựng hệ
+thống phân mềm mô phỏng
+kỹ thuật cá nhân và đội hình
+rà phá bom mìn.
+
+'b) Nghiên cứu, xây dựng.
+thiết bị chuyên dụng cơ
+động tích hợp thông tin hỗ
+trợ dò tìm, xử lý bom mìn,
+vật nỗ, được thiết kế dưới
+dạng vali xách tay.
+
+- Xây dựng cơ sở dữ liệu về
+bomufn, vôi nỄ dùn6 tu ban điên hình như (đôi núi, trung du, đồng bằng, đô thị)
+
+Xã cóc ml đội tượng JD yết Tô JĐMME
+
+huấn luyện;
+
+Hệ thông phần mềm mô phỏng kỹ thuật cá nhân và
+đội hình rà phá bom mìn gồm các phân hệ chính:
+
++ Phân hệ ra đầu bài: có các chức năng: Cầu hình
+tham số kỹ thuật thiết bị mô phỏng: kịch bản địa
+hình; kịch bản bãi mìn, thiết bị nỗ,...; Ra đầu bài tập;
+Giám sát quá trình huấn luyện; Đánh giá kết quả
+huấn luyện.
+
++ Phân hệ mô phỏng thực hành huấn luyện: gồm các
+module phần mềm nhúng điều khiễn thiết bị mô
+phỏng, kính thực tại ảo; Cho phép người học tập
+luyện kỹ thuật cá nhân rà phá bom, mìn và tổ chức
+đội hình rà phá bom, mìn; Cung cấp thông tin cho
+các phân hệ khác hiển thị, đánh giá hoạt động huấn
+luyện.
+
+b) Số lượng: 1 hệ thống.
+
+2) Thiết bị chuyên dụng cơ động tích hợp thông
+tin hỗ trợ dò tìm, xử lý bom mìn, vật nỗ, được
+thiết kế dưới dạng vali xách tay
+
+a) Thiết bị chuyên dụng cơ động tích hợp thông tin
+hỗ trợ dò tìm, xử lý bom mìn, vật nỗ, được thiết kế
+dưới dạng vali xách tay, gồm:
+
+~ Cơ sở dữ liệu về bom mìn, vật nỗ phục vụ tra cứu,
+nhận đạng hình ảnh và hỗ trợ xử lý bom mìn, gồm:
+'Thông tin chung bom mìn, vật liệu nỗ; tính năng; khả.
+năng sát thương; thời gian và khu vực sử dụng; dữ
+iệu về hình ảnh nhận dạng ở các mặt và góc khác.
+nhau; mô tả và hướng dẫn phá, xử lý dưới dạng văn
+'bản, đồ họa 2D, 3D: sức công phá và phá hủy trong. 
+cứu, nhận dạng hình ảnh và
+hỗ trợ xử lý bom mìn;
+
+- Thiết kế, xây dựng phần
+mềm nhận dạng, tra cứu
+thông tin bom mìn, tính toán
+sức công phá, phá hủy trong,
+các địa hình, điều kiện khác
+
+nhau;
+~ Thiết kế, chế tạo thiết bị
+chuyên dụng cơ động được
+kế đưới dạng vali xách
+tay, gồm máy tính chuyên
+dụng tích hợp các thiết bị
+định vị GPS, thiết bị kết nối
+mạng... và cài đặt phần
+mềm, cơ sở dữ liệu về bom
+mìn, vật nỗ. các địa hình, điều kiện khác nhau... .Cơ sở dữ liệu có
+đầy đủ các loại bom mìn, vật liệu nỗ hiện có ở Việt
+Nam ;
+
+- Phần mềm nhận dạng, tra cứu thông tin bom mìn,
+tính toán sức công phá, phá hủy trong các địa hình,
+điều kiện khác nhau;
+
+~ Thiết bị chuyên dụng cơ động được thiết kế dưới
+dạng vali xách tay, gồm máy tính chuyên dụng tích
+hợp các thiết bị định vị GPS, thiết bị kết nối mạng...
+Ỷ di địt phần mềm, cơ sở ữ liệu và bom ma, sật
+
+b) Số lượng thiết bị: 10 bộ.
+
+3) Bộ tài liệu khoa học và tài liệu kỹ thuật
+
+- Bộ tài liệu gồm: Các tài liệu thiết kế hệ thống, Tài
+liệu hướng dẫn sử dụng, cài đặt; báo cáo kết quả thực.
+hiện;
+
+- Bộ tải liệu được trình bày khoa học, rõ rằng, chỉ
+tiết, đầy đủ các nội dung. VIỆN KH-CN QUÂN SỰ
+'VIỆN CÔNG NGHỆ THÔNG TIN
+
+PHIẾU ĐÈ XUẤT ĐÈ TÀI VỀ RÀ PHÁ BOM MÌN
+
+1. Tên đỀ tài: Nghiên cứu, thiết kế, xây dựng các hệ thẳng mô phỏng huấn
+huyện và hỗ trợ rà phá bom mìn.
+
+2. Thuộc chương trình KH&CN: Xây dựng hệ thống thông tìn quản lý ô
+nhiễm bom mìn và phát triển hệ thống trang thiết bị, phương tiện phục vụ dò tìm,
+xử lý bom mìn, vật nỗ còn sót lại sau chiến tranh ở Việt Nam.
+
+3. Lý do đề xuất đề tài:
+
+Trải qua nhiều năm chiến tranh, đất đai và con người Việt Nam đã bị ảnh
+hưởng nặng nề bởi số lượng bom mìn, đạn dược. Số lượng bom mìn, đạn dược đã
+sử dụng nhiều gấp khoảng 3,9 lần so với cuộc chiến tranh thế giới lần thứ hai và
+gấp 12 lần so với chiến tranh Triều Tiên, bình quân 46 tắn/km/ tương đương 280.
+kg/đầu người. Theo số liệu tổng két, riêng số bom, đạn quân đội Mỹ đã sử dụng ở
+Việt Nam khoảng 15.350.000 tấn (trong đó có 7.850.000 tấn thả từ máy bay và
+7.500.000 tấn sử dụng trên mặt đất). Theo các tài liệu nghiên cứu, tỷ lệ bom đạn
+chưa nỗ chiếm khoảng 5% số lượng bom đạn đã sử dụng (theo các tài liệu nước
+ngoài là 10%), thì số lượng bom đạn còn sót lại sau chiến tranh còn khoảng
+800.000 tấn bao gồm cả bom, mìn, tên lửa, đầu đạn pháo, cối và vật nỗ khác...
+nằm ở các độ sâu khác nhau. Tắt cả các loại bom mìn, vật nỗ còn sót lại đều rất
+nguy hiểm và có thể gây nỗ khi tác động phải trong quá trình lao động sản xuất và
+sinh hoạt hoặc có thể tự nỗ do những nguyên nhân về cơ học, lý học hay hoá học.
+Theo kết quả điều tra sơ bộ, diện tích hiện còn bom mìn, vật nỗ chưa nễ sau chiến
+tranh trên toàn quốc khoảng 6,6 triệu ha tương đương 66.000km2, chiếm 20% tổng
+điện tích cả nước. Trong đó: Diện tích còn nhiều bom mìn, vật nỗ là khoảng
+325.600ha (tương đương 9.256km?), chiếm 13,90 % tổng số diện tích hiện còn
+bom mìn, vật nỗ; Diện tích còn rải rác bom mìn, vật nổ khoảng 5.732.300ha
+(tương đương 57.323 km”) chiếm 86,1% tổng diện tích hiện còn bom mìn, vật nổ.
+'Về phạm vi địa lý, bom mìn, vật nỗ đã ảnh hưởng trực tiếp tới tắt cả 64 tỉnh, thành
+phố. Theo thống kê tổng số các loại đất canh tác hiện còn bị bỏ hoang do còn
+nhiều bom mìn, vật nổ chưa nổ khoảng 435.900ha (tương đương 4.359km?),
+chiếm gần 7% tổng diện tích đắt đai còn sót bom mìn, vật nỗ chưa nỗ,
+
+Theo quyết định 504/QĐ-TTg ngày 21/4/2010 của Thủ tướng chính phủ về
+việc phê duyệt Chương trình Hành động quốc gia khắc phục hậu quả bom mìn sau
+chiến tranh giai đoạn 2010 - 2025 thể hiện quyết tâm của Đảng và Nhà nước trong
+việc giảm thiểu và tiến tới khắc phục hoàn toàn ảnh hưởng của bom mìn mà một
+trong, những nhiệm vụ trong tâm là nghiên cứu phát triển công nghệ, trang bị phục
+vụ rà phá bom mìn.
+
+Ngày nay, với sự phát triển mạnh mẽ về lĩnh vực công nghệ thông tin
+(CNTT) nói chung, công nghệ mô phỏng nói riêng đã tạo điều kiện thuận lợi cho
+việc nghiên cứu, ứng dụng trong công tác hỗ trợ rà phá bom mìn. Một trong nhữnghoạt động hỗ trợ rà phá bom mìn là nâng cao năng lực, trình độ, kỹ năng rà phá
+bom mìn, Bằng việc ứng dụng công nghệ mô phỏng trong, huấn luyện, đào tạo sẽ
+giúp đổi mới phương pháp huấn luyện, nâng cao kỹ năng thực hành, khả năng xử
+lý tình huống của đội ngũ cán bộ, chuyên gia, nhân viên chuyên về rà phá bom
+mìn. Ngoài ra, bằng việc ứng dụng các thiết bị chuyên dụng cơ động tích hợp
+thông tin sẽ giúp cho công việc rà phá bom mìn đạt hiệu quả cao hơn.
+
+Bình chủng Công binh và các đơn vị công bình của các quân khu, quân đoàn,
+quân chủng trong được Bộ Quốc phòng. giao nhiệm vụ đò tìm, xử lý bom mìn và
+được trang bị nhiều thiết bị dò, cắt, phá bom, mìn, vật nỗ. Ví dụ như: các máy dò
+mìn TC-91, TM-88 (Trung Quốc), Minelab F1A4 (Úc), FOERSTER minex 2fd
+4500, Vallon ML - 1620C (CHLB Đức)... ; các máy dò bom GA72-CD (Mỹ),
+Vallon EL 1303 -A1 (CHLB Đức), Vallon EL 1303-A1 với Máy tính MCI và
+Phần mềm EVA2000, Foerster ferex 4032 API A1 (CHLB Đức)... ; hay một số
+thiết bị khác như bộ công cụ xử lý tín hiệu, tháo gỡ mìn, tháo ngòi, máy cưa-cắt,
+cứu thương. Đây là những thiết bị, công cụ hiện đại hỗ trợ rất tốt trong hoạt động
+rà phá bom mìn hiện nay tại Việt Nam. Các trang thiết này được huấn luyện đào
+tạo theo giáo trình tại các Nhà trường thuộc Binh chủng Công binh hoặc tài liệu
+huấn luyện của các đơn vị công binh. Về phương pháp huấn luyện, đào tạo vẫn cơ
+bản lên lớp lý thuyết cùng với thiết bị mô hình, tài liệu và thực hành trên thiết bị
+thực. Để đổi mới và nâng cao hơn nữa chất lượng huần luyện, đặc biệt huần luyện
+kỹ thuật cá nhân và đội hình rà phá bom mìn với nhiều không gian, địa hình và
+tình huồng hơn thì việc ứng dụng công nghệ mô phỏng bán tự nhiện, có gắn với
+kính thực tại ảo là một nhu câu cấp thiết.
+
+Viện Công nghệ thông tin/ Viện KH-CN quân sự là một viện nghiên cứu
+chuyên ngành trực thuộc Viện KH-CN quân sự có nhiệm vụ nghiên cứu ứng. dụng
+các tiến bộ KHCN ngành CNTT trong chỉ huy tham mưu, quản lý điều hành, huấn
+luyện đào tạo và thiệt kế, chế tạo, sửa chữa, cải tiến, tăng hạn vũ khí trang.
+thuật phục vụ quốc phòng an ninh. Các đề tài nhiệm vụ của Viện trong thời gian
+qua tập trung vào các lĩnh vực trọng, điểm của Nhà nước và Bộ quốc phòng về các
+hệ thống chỉ huy điều khiển vũ khí trang bị, các hệ thống mô phỏng huần luyện,
+các hệ thống phục vụ tham mưu tác chiến và tự động hóa chỉ huy. Riêng trong lĩnh
+vực mô phỏng huấn luyện, Viện đã có nhiều công trình nghiên cứu ứng dụng trong.
+thực tiễn như mô phỏng huấn luyện tô hợp tên lửa Bastion, máy bay Su-30MK2,
+vũ khí cá nhân, mô phỏng chiến thuật... Đây là những thuận lợi để Viện CNTT
+triển khai hiệu quả đề tài đề xuất.
+
+4. Giải trình về tính cấp thiết:
+
+Công tác khắc phục, xử lý bom mìn, vật nỗ sót lại sau chiến tranh là nhiệm
+Yụ quan trọng, có ý nghĩa chính trị, xã hội và nhân đạo sâu sắc. Để hoàn thành tốt
+nhiệm vụ, công tác rà phá bom mìn (RPBM) được Chính phủ, Bộ Quốc phòng
+quan tâm, đầu tư về nhiều mặt. Đặc biệt, từ sau khi Thủ tướng Chính phủ quyết
+định triển khai “Chương trình hành động quốc gia khắc phục hậu .quả bom mìn sau
+chiến tranh giai đoạn 2010-2025” thì công tác này cảng được triển khai tích cực,
+hiệu quả. Hiện nay, ngoài các thiết bị RPBM đã được trang bị, Bộ Tư lệnh Công,
+binh đã và đang nghiên cứu, ứng dụng, chuyển giao, đưa vào nhiều thiết bị mới,
+hiện đại phục vụ RPBM, như: Bộ thiết bị dò tìm bom mìn dưới biển Sonar 3000;
+
+2máy đò bom Foerster Ferex 4031 API, Vallon El 1303 A1... Do đó, đồng thời với
+việc trang bị thiết bị mới, công tác huấn luyện, đào tạo kỹ thuật RPBM cũng cần
+phải được đôi mới về phương tiện và phương pháp.
+
+Trước yêu cầu đặt ra trong Chương trình hành động quốc gia khắc phục hậu
+quả bom mìn sau chiến tranh và Chương trình KHCN cấp BQP Xây dựng hệ
+thống thông tin quản lý ô nhiễm bom mìn và phát triển hệ thống, tịng th bị,
+phương tiện phục vụ đò tìm, xử lý bom mìn, vật nỗ còn sót lại sau chiến tranh ở
+'Việt Nam, trong đó nhiệm vụ nâng cao năng lực, trình độ, kỹ năng của đội ngũ cán
+bộ, chuyên gia, nhân viên chuyên môn kỹ thuật làm nhiệm vụ rà phá bom mìn
+cũng như nâng cao hiệu quả của công tác rà phá bom mìn là một trong các nhiệm
+vụ quan trọng hàng đầu. Do đó, việc nghiên cứu, xây dựng các hệ thống công
+nghệ thông tin, đặc biệt là công nghệ mô phỏng để đổi mới phương tiện, phương.
+phép huần uyện, nâng cao tình độ, kỹ năng rà phá bom mìn, từ kỹ thuật sử dụng,
+thiết bị dò tìm, cắt phá bom mìn đến kỹ năng cá nhân và phối hợp đội hình trong,
+rà phá bom mìn là rất cần thiết.
+
+Công nghệ mô phỏng (3D simulation) đang thể hiện tính ưu việt trong phát
+triển các hệ thống mô phỏng, đặc biệt các hệ thông mô phỏng bán tự nhiên. Lĩnh
+vực ứng dụng chủ yếu của mô phỏng bán tự nhiên là các hệ thống mô phỏng huấn
+luyện vũ khí trang bị mới như tàu chiến đấu, tên lửa, máy bay, ra đa, xe tăng...
+'Việc ứng dụng thiết bị, máy móc hiện đại trong hoạt động rà phá phá bom mìn liên
+quan trực tiếp đến tính mạng con người đòi hỏi người vận hành thao tác một cách
+thuần thục và chính xác. Do vậy, xây dựng các hệ thống mô phỏng huấn luyện bán.
+tự các trang thiết bị, máy móc là một yêu cầu cấp bách.
+
+Từ những phân tích nêu trên cho thấy việc ứng dựng công nghệ tin nói
+chưng, công nghệ mô phỏng nói riêng phục vụ huấn luyện, đào tạo và hỗ trợ rà
+phá bom mìn là yêu cầu cấp bách, quan trọng, góp phân thực hiện thành công
+Chương trình hành động quốc gia khắc phục hậu quả bom mìn sau chiến tranh
+giai đoạn 2010-2025.
+
+5. Mục tiêu:
+
+Nghiên cứu, thiết kế, xây dựng các hệ thống mô phỏng huấn luyện và hệ
+thống thông tin cơ động phục vụ huần luyện kỹ thuật rà phá và hỗ trợ dò tìm, xử lý
+bom mìn, vật nỗ còn sót lại sau chiến tranh, nhằm nâng cao chất lượng, hiệu quả
+của công tác khắc phục hậu quả bom mìn.
+
+6. Nội dung KH&CN chủ yếu cần giải quyết:
+
+Để đạt được mục tiêu đề ra, các nội dung KH&CN chủ yếu cần phải thực
+hiện gồm:
+
+a) Nghiên cứu, thiết kế, xây dựng hệ thống mô phỏng huấn luyện kỹ thuật rà
+phá bom mìn, kết hợp giữa mô phỏng trên máy tính với thiết bị dò tìm, cắt phá
+bom mìn và kính thực tại ảo (mô phỏng bán tự nhiên):
+
+~ Thiết kế mô hình hệ thống mô phỏng huấn luyện kỹ thuật rà phá bom mìn
+bán tự nhiên, kết hợp giữa thiết bị mô phỏng và phần mềm mô phỏng huấn luyện
+kỹ thuật rà phá bom mìn;
+
+3- Thiết kế, chế tạo hệ thống thiết bị mô phỏng gồm các thiết bị mô phỏng
+máy dò tìm, cắt phá bom mìn, ghép nối với hệ thống máy tính và kính thực tại ảo;
+
+- Xây dựng cơ sở dữ liệu bản đồ địa hình 3D một số khu vực điển hình như
+(đồi núi, trung du, đồng bằng, đô thị) và các mô hình đối tượng 3D phục vụ mô
+phỏng huấn luyện;
+
+- Thiết kế, xây dựng hệ thống phần mềm mô phỏng kỹ thuật cá nhân và đội
+hình rà phá bom mìn.
+
+b) Nghiên cứu, xây dựng thiết bị chuyên dụng cơ động tích hợp thông tin hỗ
+trợ dò tìm, xử lý bom mìn, vật nỗ, được thiết kế dưới dạng vali xách tay
+
+~ Xây dựng cơ sở dữ liệu về bom mìn, vật nỗ phục vụ tra cứu, nhận dạng hình
+ảnh và hỗ trợ xử lý bom mìn;
+
+- Thiết kế, xây dựng phần mềm nhận dạng, tra cứu thông tin bom mìn, tính
+toán sức công phá, phá hủy trong các địa hình, điều kiện khác nhau;
+
+- Thiết kế, chế tạo thiết bị chuyên dụng cơ động được thiết kế ch ng vali
+xách tay, gồm máy tính chuyên dụng tích hợp các thiết bị định vị GPS, thiết bị kết
+nối mạng... và cài đặt phần mềm, cơ sở dữ liệu về bom mìn, vật nỗ.
+
+7. Dự kiến sản phẩm và chỉ tiêu kỹ thuật chủ yếu:
+'Hệ thống mô phỏng huấn luyện
+kỹ thuật rà phá bom mìn, kết
+hợp giữa mô phỏng trên máy.
+tính với thiết bị đò tìm, cắt phá
+bom mìn và kính thực tại ảo
+(mô phỏng bán tự nhiên) Chỉ tiêu kỹ thuật chủ yếu a) Hệ thống mô phỏng kỹ thuật rà phá bom mìn là
+hệ thống mô phỏng bán tự nhiên cho toàn bộ thiết
+bị rà phá bom mìn được biên chế cho Binh chủng
+Công binh, gồm:
+
+- Hệ thống thiết bị mô phỏng gồm các thiết bị mô
+phỏng máy dò tìm, cắt phá bom mìn, ghép nỗi với
+hệ thông máy tỉnh và kính thực tại ảo:
+
++ Các thiết bị mô phỏng: Thiết kế, chế tạo theo các
+máy dò tìm, cắt phá bom mìn, vật nỗ thực tế, đảm.
+bảo thao tác trên thiết bị mô phỏng phù hợp với
+thiết bị thực;
+
++ Các thiết bị CNTT gồm máy chủ, máy trạm hiệu
+năng cao, máy chiếu, thiết bị mạng, các phụ kiện
+ghép nối thiết bị mô phỏng với máy tính;
+
++ Các kính thực tại ảo, được kết nối với máy tính.
+~ Cơ sở dữ liệu bản đồ địa hình 3D một số khu vực
+điển hình như (đồi núi, trung du, đồng bằng, đô thị)
+và các mô hình đối tượng 3D phục vụ mô phỏng
+huấn luyện;
+
+- Hệ thống phần mềm mô phỏng kỹ thuật cá nhân
+và đội hình rà phá bom mìn gồm các phân hệ chính:
++ Phân hệ ra đầu bài: có các chức năng: Cấu hình
+tham số kỹ thuật thiết bị mô phỏng: kịch bản địa
+hình; kịch bản bãi mìn, thiết bị nỗ,...., Ra đầu bài
+tập; Giám sát quá trình huấn luyện; Đánh giá kết
+quả huấn luyện.
+
+-+ Phân hệ mô phỏng thực hành huấn luyện: gồm 
+TÔNG CỘNG Sản phẩm Nghiên cứu, xây đựng thiết bị chuyên dụng cơ động tích
+'hợp thông tin hỗ trợ dò tìm, xử lý bom mìn, vật nổ, được.
+kế dưới dạng vali xách tay Nghiên cứu, thiết kế, xây dựng hệ thống mô phỏng huấn
+luyện kỹ thuật rà phá bom mìn, kết hợp giữa mô phỏng.
+trên máy tính với thiết bị đò tìm, cắt phá bom mìn và
+kính thực tại ảo (mô phỏng bán tự nhiên) 
+Nội dung Nhu cầu kinh phí: 58 tỉ đồn
+ong đó: Bộ tài liệu khoa. i li
+bệnh: học và tài liệu Thiết bị chuyên dụng cơ động,
+tích hợp thông tỉn hỗ trợ đò
+mì tạm VY BẾ,
+được thiết kế dưới dạng vali
+xách tay 
+__ Chỉ tiêu kỹ thuật chủ yếu các module phân mềm nhúng điều khiên thiết bị mô.
+phỏng, kính thực tại ảo; Cho phép người học tập
+luyện kỹ thuật cá nhân rà phá bom, mìn và tổ chức
+đội hình rà phá bom, mìn; Cung cấp thông tin cho
+các phân hệ khác hiển thị, đánh giá hoạt động huấn.
+
+luyện.
+'b) Số lượng: 1 hệ thống. g (Năm mươi tám tỉ đồng) - Bộ tài liệu gồm: Các tài liệu thiết kế hệ thống; Tài
+liệu hướng dẫn sử dụng, cài đặt; báo cáo kết quả.
+thực hiện;
+
+- Bộ tài liệu được trình bảy khoa học, rõ rằng, chỉ
+đầy đủ các nội dung. 
+a) Thiết bị chuyên dụng cơ động tích hợp: tin
+hỗ trợ dò tìm, xử lý bom mìn, vật nỗ, được thiết kế
+dưới dạng vali xách tay, gồm:
+
+~ Cơ sở dữ liệu về bom mnÌn, vật nỗ phục vụ tra cứu,
+nhận dạng hình ảnh và hỗ trợ xử lý bom mìn, gồm:
+'Thông tin chung bom mìn, vật nổ; tính năng; khả.
+năng sát thương; thời gian và khu vực sử dụng; đữ
+liệu về hình ảnh nhận đạng ở các mặt và góc khác.
+nhau; mô tả và hướng dẫn phá, xử lý đưới đạng văn
+bản, đỗ họa 2D, 3D; sức công phá và phá hủy trong.
+các địa hình, điều kiện khác nhan... Cơ sở dữ liệu
+có đầy đủ các loại bom mìn, vật nổ hiện có ở Việt
+Nam;
+
+- Phần mềm nhận dạng, tra cứu thông tin bom mìn,
+tính toán sức công phá, phá hủy trong các địa hình,
+điều kiện khác nhau;
+
+~ Thiết bị chuyên dụng cơ động được thiết kế dưới
+dạng vali xách tay, gồm máy tính chuyên dụng tích
+hợp các thiết bị định vị GPS, thiết bị kết nối
+mạng... và cài đặt phần mềm, cơ sở dữ liệu về bom.
+mÌn, vật nỗ,
+
+'b) Số lượng thiết bị: 10 bộ. 38,00 Kinh phí.
+(tỉ đồng) 9. Khả năng và địa chỉ áp dụng:
+
+- Khả năng áp dụng: Các sản phẩm của nhiệm vụ sẽ được ứng dụng để nâng,
+cao hiệu quả của Chương trình hành động quốc gia khắc phục hậu quả bom mìn
+sau chiến tranh giai đoạn 2010-2025.
+
+- Địa chỉ áp dụng: Trung tâm Hành động bom mìn quốc gia Việt Nam
+(VNMAC), Binh chủng Công binh và Viện KH-CN quân sự.
+
+10. Hiệu quả:
+
+“Thực hiện thành công đề tài “Nghiên cứu, thiết kế, xây dựng các hệ thống mô
+phỏng huấn luyện và hỗ trợ rà phá bom mìn” mang lại nhiều lợi ích to lớn về cả
+chính trị-xã hội và khoa học kỹ thuật trên một số mặt sau:
+
+- Hiện đại hóa về phương tiện, đổi mới phương pháp huấn luyện, đào tạo kỹ
+thuật rà phá bom mìn cũng như cung cấp thông tin kịp thời để hỗ trợ hoạt động dò
+tìm, xử lý bom mìn, vật nô.
+
+- Nâng cao trình độ, kỹ năng rà phá bom mìn, cả kỹ thuật cá nhân và phối
+hợp đội hình, thông qua các bài tập thực hành và xử lý tình huống trên hệ thống.
+mô phỏng, từ đó góp phần nâng chất lượng đào tạo và phát triển nguồn nhân lực
+chuyên môn kỹ thuật cho ngành xử lý bom mìn một cách toàn diện.
+
+~- Góp phần đẩy mạnh các hoạt động nghiên cứu, ứng dụng khoa học-công,
+nghệ trong hoạt động rà phá bom mìn kết hợp với tiếp thu kinh nghiệm, phương
+tiện kỹ thuật tiên tiễn của nước ngoài nhằm nâng cao hiệu quả công tác dò tìm, xử
+lý bom mìn, vật nỗ còn sót lại sau chiến tranh.
+
+~ Nâng cao nhận thức của cộng đồng về hậu quả của bom, mìn vật nỗ còn sót
+lại trong, chiến tranh và những nỗ lực của Đảng, Nhà nước ta hoạt độn;
+khắc phục hậu quả bom mìn sau chiến tranh góp phần ổn định đời sống kinh
+chính trị- xã hội của nhân dân.
+
+11. Thời gian thực hiện: 04 năm, từ năm 2017-2020.|Ñự ——
+
+Hà Nội, ngày,22tháng # năm 2017
+TRƯỞNG
+
+  
+
+Trung tá Đỗ Việt Bình
+
+ 
+
+`“

@@ -1,0 +1,92 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 144/VCNTT-KH ` N2? xà 5 B
+'VNy xây dụng cm cấu bổ song kỹ (huật Hà Nội, ngày l6 tháng 5 năm 2016
+
+năm 2016 và kế hoạch, chỉ tiêu sản
+lượng, ngân sách BĐKT năm 2017
+
+Kính gửi:
+~ _ Thủ trưởng Viện KHCNQS;
+- _ Thủ trưởng Phòng Kỹ thuật /Viện KHCNQS.
+
+Căn cứ điện gửi các đơn vị ngày 11/5/2016 của Phòng Kỹ thuật Viện
+KHCNGS về việc xây dựng nhu cầu bỗ sung kỹ thuật năm 2016 và kế hoạch,
+chỉ tiêu sản lượng, ngân sách bảo đảm kỹ thuật năm 2017,
+
+“Trên cơ sở hướng dẫn, Viện Công nghệ thông tin đã lập nhu cầu bổ sung,
+kỹ thuật năm 2016 và Kế hoạch chỉ tiêu sản lượng, ngân sách bảo đảm năm
+2017 (như phụ lục kèm theo).
+
+Viện Công nghệ thông tin kính trình Thủ trưởng Viện KHCNQS, Thủ
+trưởng Phòng Kỹ thuật Viện KHCNQS xét duyệt chỉ tiêu cho Viện Công nghệ
+thông tin. ⁄2⁄„
+Nơi nhận:
+
+~ Như trên;
+~ Lưu VT, KH; H03.
+
+ 
+
+Đại tá Lê Quang ĐứcDANH MỤC TRANG BỊ ĐÈ NGHÀ PHÍ SỬA CHỮA, NÂNG CÁP NĂM 2016
+lI Máy photo Sharp 5620D. Máy chiêu 3M Panasonic Trang thiết bị CNTT 
+Bộ tông hợp tân sô AD9910/PCBZ. Bộ phân tích thời gian 68 kênh HP1655D Máy phân tích tín hiệu HPE 1437 Máy phát hàm AFG 3101 
+Máy hàn IC chuyên dụng Quick 855T Oscilloscope54600B/2 kênh Máy phát xung SFG - 2120 Máy hiện sóng UT3102C 
+Trang thiết bị kỹ thuật Tên trang bị Cái Cái 
+Cái Cái Cái Cái 
+ĐVT Số lượng 30 25 
+35 15 25 10 
+257 Ngân sách
+(triệu đồng) 40 50 
+S Ghi chú NƯỚC SẢN NGÃN SÁCH
+bợy "TÊN TRANG BỊ Số lượng XUẤT TÍNH NĂNG KỸ THUẬT (riệu đồn
+=——=|—— 280
+1 |Sửa chữa
+« |Dualcore G620,26Ghz,
+
+1 |Máy tính để bàn 15 bộ ĐNÁ  lnp 500GB, Ram 2GB 90 “Thay bo mạch, CPU, RAM, nguồn
+2 _ |Máy tính xách tay § ĐNÁ Tớ” Ram 2GB, HDD 25 Thay thế HDD, Ram, Pin nguồn
+'OSCILLOCOPE 'Oscilloscope, 200 MHz, 2CH, 2| 3 Thị
+
+3_ |TERTRONIXTDS2022B 1 MỸ — |G8sSampleRat. bã Sða chữa vẽ lay thế Hai kiện
+4 _ |Máy hiện sóng TBS 1102 1 Nhật Em 2 kênh, dài tân 10 Sửa chữa và thay thể linh kiện
+5 _ |Thiếtbị phân tích logic số 1 ĐNÁ BNu mẫu 2GB,cạch 4k, 30 Sửa chữa và thay thể linh kiện
+II |Đồng bộ, nâng cấp
+ĩ š IBM Zpro 9228, Tower ă ñ
+1 th 3 Mỹ — |5u,Xeon5140233GHz Ram 30 nâng cấp RA HỆ TẾ thay nguôn,
+1GB, HDD 160GB
+: ÍXeon 3Ghz 2GB, 450W, 1U, nâng cấp RAM, HDD, thay nguồn,
+2._ |Máy chủ HP Intel Xeon MỸ liÔpzeon 30 CPU
+THỊ [Nhu cầu khác
+1_ |Máy photo Ricoh 1 ĐNẢ. HH Sửa chữa và thay thể linh kiện
+2 _ |Máy chiếu Panasonic 1 ĐNÁ 10 Sửa chữa và thay thể linh kiện
+3_ |Sửa chữa Xe - Máy 25
+IH Sửa chữa Xe - Máy Máy chiêu Panasonic Máy photo Ricoh 
+Nhu câu khác Máy chủ HP Intel Xeon Máy tính chuyên dụng
+Workstation IBM Đông bộ, nâng cần 
+Thiết bị phân tích logie số Máy hiện sóng TBS 1102 OSCILLOCOPE
+TERTRONIX TDS2022B Máy tính xách tay 
+Máy tính để bàn TÊN TRANG BỊ 15 bộ Số lượng 
+ĐNAÀ ĐNÀ Mỹ Mỹ 
+ĐNÁ Nhật Mỹ ĐNÁ 
+ĐNÁ XUẤT Xeon 3Ghz 2GB, 450W, 1U,
+HDD 70GB IBM Zpro 9228, Tower
+
+5u,Xeon 5140 2.33GHz, Ram
+
+1GB, HDD 160GB 
+Tốc độ lây mẫu 2GB,cach 4k,
+16 kênh Oscilloscopes 2 kênh, dải tân.
+100MHZ. Oscilloscope, 200 MHz, 2CH, 2
+GS/s Sample Rate. Dual core, Ram 2GB, HDD.
+500GB 
+Dual core G620, 2.6Ghz,
+HDD 500GB, Ram 2GB TÍNH NĂNG KỸ THUẬT 30 30 
+30 2 90 NGÀN SÁCH
+(triệu đồng) 
+Sửa chữa và thay thê linh kiện Sửa chữa và thay thê linh kiện nâng cập RAM, HDD, thay nguôn,
+CPU nâng cắp RAM, HDD, thay nguồn,
+CPU 
+Sửa chữa và thay thể linh kiện Sửa chữa và thay thế linh kiện Sửa chữa và thay thế linh kiện Thay thế HDD, Ram, Pin nguồn 
+Thay bo mạch, CPU, RAM, nguồn GHI CHÚ 

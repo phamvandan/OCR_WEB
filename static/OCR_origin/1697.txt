@@ -1,0 +1,337 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN. Độc lập - Tự do - Hạnh phúc
+Số: 28/VCNTT - KH Hà Nội, ngày 17 tháng 01 năm 2019
+'V/w đề xuất đề tài cán bộ nghiên cứu trẻ
+năm 2019
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ Công văn số 529/TMKH-KHCNMT ngày 28/12/2018 của Phòng,
+TM-KH/Viện KHCNQS về việc đề xuất đề tài cán bộ nghiên cứu trẻ năm 2019,
+
+Viện Công nghệ thông tin đề xuất đề tài cán bộ nghiên cứu trẻ năm 2019
+như sau:
+
+- Ứng dụng trí tuệ nhân tạo nghiên cứu, thiết kế xây dựng công cụ tra cứu thông
+minh phục vụ công tác quản lý điều hành tại Viện Công nghệ thông tin.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H03.Phụ lục
+
+Danh mục đề xuất đề tài cán bộ nghiên cứu trẻ năm 2019
+(Kèm theo công văn số: 28/VCNTT-KH ngày 17 tháng 01 năm 2019 của Viện CNTT)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thời gian Kinh phí
+iiedidì Lo Mục tiêu và nội dung nghiên | Dự kiến kết quả và chỉ tiêu (r4ồng Ghi
+nhiệm đề tài Sương kỹ thuật chủ yến Bắt đầu |Kếtthúc| Tổng | viện | Viễn |ehú
+KHCNQS| huyện
+ngành
+Ứng dụg ti|Thếu — tả|Mụcfên: A— ên đề|05/2019 |05/2020| 120 | 120
+tuệ nhân tạo|Nguyễn Cảnh| - -Nghiên cứu công nghệ lui tế: bị _——
+nghiên cứu,| Hùng scarch cngine trong tìm kiếm full Inghiên cứu khoa học đã thực|
+thiết kế xâY| Viện CNTT _ |textsearch toàn văn trên các tệp lệ:
+dựng công cụ tin pẻf, P
+(nhi nan) - Nghiên cứu mô hình học - Bài báo khoa học;
+lcông tác quản máy trong xác định mục tiêu và |. Các module phần mềm:
+lý điều hành nội dung tìm kiếm từ ngôn ngữ_ |Modul xác định mục tiêu và
+lại Viện Công tự nhiên nhằm nâng cao hiệu quả | nội dụng tìm kiếm sử dụng|
+nghệ thông tin limkiếm. - lcông nghệ AI, Modul search
+~ Thử nghiệm tích hợp và ứng |engine tìm kiếm toàn văn trên
+dụng vào hệ thông quản lý điều [cặc tẹp dự liệu và modul tích
+
+ 
+
+ 
+
+hành của Viện Công nghệ thông,
+tín.
+LNội đụng nghiên cứu chính :
+
+~ __ Nghiên cứu mô hình học
+máy cho phép xác định mục tiêu
+(ntent classification) trong ngôn
+ngữ tự nhiên.
+
+- __ Nghiên cứu mô hình học
+
+ 
+
+lhợp tìm kiếm, hiển thị kết
+quả tìm kiếm trên hệ thống
+lquản lý điều hành của Viện
+công nghệ thông tin.
+
+- Báo cáo tổng hợp, báo
+cáo tóm tắt,
+Ứng dụng trí
+tuệ nhân tạo
+nghiên cứu,
+thiết kế xây
+dựng công cụ
+tra cứu thông
+mình phục vụ
+công tác quản
+lý điều hành
+tại Viện Công
+nghệ thông tin Tên đề tài Đơn vị chủ
+trì, chủ
+nhiệm đề tài Mục tiêu và nội dung nghiên
+cứu chính 
+Mục tiêu
+
+~ Nghiên cứu công nghệ
+scarch cngine trong tìm kiếm full
+text search toàn văn trên các tệp
+tin pdf,
+
+~ Nghiên cứu mô hình học
+máy trong xác định mục tiêu và
+nội dung tìm kim từ ngôn ngữ
+tự nhiên nhằm nâng cao hiệu quả
+tìm kiếm.
+
+- Thử nghiệm tích hợp và ứng,
+dụng vào hệ thống quản lý điều
+hành của Viện Công nghệ thông,
+tin.
+
+Nội dung nghiên cứu chính :
+
+~ __ Nghiên cứu mô hình học
+máy cho phép xác định mục tiêu
+ntent classification) trong ngôn
+ngữ tự nhiên.
+
+~ Ngl xoewml Ninh heo Dự kiến kết quả và chỉ tiêu
+kỹ thuật chủ yếu - Bộ tài liệu chuyên để
+(trình bày các nội dung
+nghiên cứu khoa học đã thực
+hiện);
+
+- Bài báo khoa học;
+
+- Các module phần mi
+Modul xác định mục tiêu và
+nội dung tìm kiếm sử dụng
+công nghệ AI, Modul search
+engine tìm kiếm toàn văn trên
+các tệp dữ liệu và modul tích
+hợp tìm kiếm, hiển thị kết
+quả tìm kiếm trên hệ thống
+quản lý điều hành của Viện
+công nghệ thông tin.
+
+- Báo cáo tổng hợp, báo
+cáo tóm tắt, 05/2019 
+Bắt đầu Thời 05/2020 120 
+Tổng 120 ï
+KiCT08 Kinh ph 
+Viện
+chuyên
+xuỳngh Ghi máy cho phép xác định các thực.
+thể có liên quan (entity
+extraction) trong ngôn ngữ tự
+nhiên.
+
+- _ Xây dựng bộ dữ liệu
+[phục vụ huần luyện mô hình học
+Jmáy.
+~__. Chuyển toàn bộ các tệp
+dữ liệu ảnh (các tệp sao chụp của
+lcác công văn, tài liệu) sang định
+ldanh .pdf văn bản
+
+- __ Nghiên cứu, xây dựng
+|modul mềm xác định mục
+ltiêu và nội dung tìm kiếm sử
+ldụng công nghệ AI.
+
+~._ Nghiên cứu, xây dựng,
+|modul mềm search engine.
+|tìm kiếm toàn văn trên các tệp dữ
+liệu.
+
+- __ Xây dựng modul phần
+mềm tích hợp tìm kiếm, hiển thị
+kết quả tìm kiếm trên hệ thống
+quản lý điều hành của Viện công
+nghệ thông tỉn.
+
+.~_ Xây dựng tài liệu chuyên
+đề và báo cáo.
+
+ 
+
+ 
+
+HZ⁄z%x
+"LH... máy cho phép xác định các thực.
+thể có liên quan (entity
+extraction) trong ngôn ngữ tự
+nhiên.
+
+- _ Xây dựng bộ dữ liệu
+phục vụ huấn luyện mô hình học
+máy.
+
+- __ Chuyển toàn bộ các tệp
+dữ liệu ảnh (các tệp sao chụp của
+các công văn, tài liệu) sang định
+danh .pdf văn bản
+
+-__ Nghiên cứu, xây dựng
+modul phân mềm xác định mục
+tiêu và nội dung tìm kiếm sử
+dụng công nghệ AI.
+
+~._ Nghiên cứu, xây dựng,
+modul mềm search engine.
+tìm kiếm toàn văn trên các tệp dữ
+liệu.
+
+- __ Xây dựng modul phần
+mềm tích hợp tìm kiếm, hiển thị
+kết quả tìm kiếm trên hệ thống
+quản lý điều hành của Viện công
+nghệ thông tin.
+
+.~_ Xây dựng tài liệu chuyên
+đã xà bàn nên, SS  — Ss . c. xẽ —. 'VIỆN KH-CN QUẦN SỰ
+
+'VIỆN CÔNG NGHỆ THÔNG TIN
+
+PHIẾU ĐÈ XUẤT ĐÈ TÀI TRẺ NĂM 2019
+
+1. Tên đỀ tài, nhiệm vụ: Ứng dụng trí tuệ nhân tạo nghiên cứu, thiết kế xây
+dựng công cụ tra cứu thông minh phục vụ công tác quản lý điều hành tại Viện
+Công nghệ thông tỉn.
+
+2. Thuộc chương trình: Đề tài định hướng cán bộ trẻ Viện KH-CNQS
+
+3. Lý do đề xuất Đề tài, nhiệm vụ:
+
+Ngày nay, các ứng dụng trợ lý ảo đã không còn là vấn đề mới mẻ trên thế
+giới. Tuy nhiên, dù đã được nêu ra và nghiên cứu từ lâu, hiện tại vẫn chưa có
+một ứng dụng trợ lý ảo nào thực sự thay thế hoàn toàn được con người. Điều
+này cho thấy độ rộng và phức tạp của bài toán trợ lý ảo. Mặc dù chưa thể thay
+thể hoàn toàn sự hiện diện của con người, các mô hình này vẫn được | phát triên
+mạnh mẽ do khả năng làm tăng năng suất lao động của con người, hỗ trợ xử lý
+các vấn đề đơn giản, thường gặp (Ví dụ: các ứng dụng chatbot cho phép trả lời
+các câu hỏi thường gặp trong một lĩnh vực nhất định,...). Có thể thấy, dù chưa
+được phát triển hoàn toàn thông minh như con người, các mô hình trợ lý ảo vẫn
+được ứng dụng vô cùng rộng rãi từ nhiều năm nay.
+
+  
+
+ 
+
+Đối với quân đội, trong thời đại 4.0 việc ứng dụng các trợ lý ảo trong quản lý
+điều hành là đi theo xu thế chung của thời đại. Mặc dù trong nước đã có nhiều
+doanh nghiệp ứng dụng trợ lý ảo trong các hoạt động kinh doanh, sân xuất,
+ứng dụng trong quân đội hiện còn rất sơ khai. Thực tế này cho thấy một nhu cầu
+xây dựng, làm chủ các mô hình trợ lý ảo nhằm hỗ trợ, tự động hóa công tác chỉ
+huy, quản lý điều hành trong quân đội. Trong khuôn khổ thời gian và kinh phí
+của để tải, nhóm nghiên cứu xác định mục tiêu của đề tài là: Xây dựng ứng dụng
+tìm kiếm có tích hợp trợ lý ảo thông minh trong tìm kiếm dữ liệu trên hệ thông
+quản lý điều hành Viện CNTT.
+
+4. Giải trình về tính cấp thiết:
+
+"Nhu cầu tìm kiếm công văn tài liệu trên hệ thống quản lý điều hành của Viện
+công nghệ thông tin là hết sức cần thiết. Trong nhiều trường hợp, văn thư và cán
+bộ phải lục lại tất cả các công văn đã gửi trên hệ thống, việc này làm mắt rất
+nhiêu thời gian và công sức. Trong rất nhiều trường hợp cán bộ chỉ nhớ một số
+nội dung trên văn bản mà không nhớ rõ tiêu đề, việc tìm kiếm sẽ gặp khó khăn
+hơn rất nhiều. Do đó nhu cầu tích module tìm kiếm toàn văn vào hệ thống quản
+lý điều hành là hết sức cấp thiết, giải quyết được nhu cầu công việc hàng ngày
+và nâng cao được hiệu quả của công tác quản lý điều hành đơn vị.
+
+  
+
+ 
+
+Nhằm nâng cao hiệu quả tìm kiếm, nhóm để tài sẽ thử nghiệm ứng dụng các
+mô hình AI trong xử lý ngôn ngữ tự nhiên nhằm phân tích ngữ nghĩa của câu
+(vốn là công nghệ cốt lõi trong xây dựng các ứng dụng trợ lý ảo thông minh), từ
+đó kết hợp với bộ máy tìm kiếm (search engine) full text search sẽ nâng cao
+
+ 
+
+  
+
+(Si _w„ š\*\được hiệu quả và năng lực tìm kiếm, tiến tới hoàn thiện hệ thống quản lý điều
+hành cho Viện công nghệ thông tin nói riêng, Viện KHCNQS và các đơn vị
+khác nói chung.
+$. Mục tiêu:
+'Việc nghiên cứu nội dung này có hai mục tiêu chính:
+- _ Nghiên cứu công nghệ search engine trong tìm kiếm full text search toàn
+văn trên các tệp tin pdf.
+-_ Nghiên cứu mô hình học máy trong xác định mục tiêu và nội dung tìm
+kiểm từ ngôn ngữ tự nhiên nhằm nâng cao hiệu quả tìm kiếm.
+-_ Thử nghiệm tích hợp và ứng dụng vào hệ thống quản lý điều hành của
+'Viện Công nghệ thông tin.
+6. Nội dung KHCN chủ yếu cần giải quyết:
+- Nghiên cứu mô hình học máy cho phép xác định mục tiêu (intent
+classification) trong ngôn ngữ tự nhiên.
+- _ Nghiên cứu mô hình học máy cho phép xác định các thực thể có liên quan
+(entity extraction) trong ngôn ngữ tự nhiên.
+- _ Xây dựng bộ dữ liệu phục vụ huấn luyện mô hình học máy.
+~ _ Chuyển toàn bộ các tệp dữ liệu ảnh (các tệp sao chụp của các công văn, tài
+liệu) sang định danh .pdf văn bản
+-_ Nghiên cứu, xây dựng modul phần mềm xác định mục tiêu và nội dung.
+tìm kiếm sử dụng công nghệ AI.
+- _ Nghiên cứu, xây dựng modul phần mềm search engine tìm kiếm toàn văn
+trên các tệp dữ liệu.
+-_ Xây dựng modul phần mềm tích hợp tìm kiếm, hiển thị kết quả tìm kiếm
+trên hệ thống quản lý điều hành của Viện công nghệ thông tin.
+~_ Xây dựng tài liệu chuyên đề và báo cáo.
+7. Dự kiến sản phẩm và chỉ tiêu kỹ thuật chủ yếu:
+- Bộ tài liệu chuyên đề (trình bày các nội dung nghiên cứu khoa học đã thực
+hiện);
+- Bài báo khoa học;
+~ Các module phần mềm: Modul xác định mục tiêu và nội dung tìm kiếm sử
+dụng công nghệ AI, Modul search engine tìm kiếm toàn văn trên các tệp dữ liệu
+và modul tích hợp tìm kiếm, hiển thị kết quả tìm kiếm trên hệ thống quản lý điều
+hành của Viện công nghệ thông tin.
+- Báo cáo tổng hợp, báo cáo tóm tắt;
+8. Nhu cầu kinh phí: 120 triệu đồng (Một trăm hai mươi triệu đồng)
+
+\$Q› ¬ z„eJ% hả măng và địu chỉ áp đụng:
+
+Đề tài được đưa vào ứng dụng thực tế tại Viện Công nghệ thông tin, hộ trợ
+công tác tìm kiếm trên nội đụng công văn, tà lệu (tìm kiếm toàn văn) và hoàn
+toàn có khả năng triển khai ấp dụng trên phần mềm, 3uản lý văn thư của Viện
+KHCNQS.
+
+19. Hiệu quả:
+
+ 
+
+Nâng €ao năng lực nghiên cứu, ứng dụng AI trong quản lý điều hành đơn Vị,
+8óp phần Xây dựng đơn Vị vững mạnh.
+
+11. Thời gian thực hiện: 12 tháng
+
+hà Nội, 'gày 15 thắng 07 "iăm 2019
+XÁC NHẬN CỦA THỦ TRƯỞNG NGƯỜI ĐÈ XUẬT.
+
+VIÊN CÔN NGHỆ THÔNG TNyV_
+
+Thiếu tá Nguyễn Cảnh Hùn
+Thượn Tổ Đã Việt Bình nụ ,

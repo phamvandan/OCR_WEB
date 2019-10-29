@@ -1,0 +1,461 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 20f/DT-VCNTT . Hà Nội, ngày44 tháng 5 năm 2018
+DỰ TOÁN
+
+1. TÊN KẾ HOẠCH MUA SẮM: “Mua sắm trang thiết bị vật tư phục vụ nghiên cứu năm 2018”
+2. ĐƠN VỊ LẬP DỰ TOÁN: Viện Công nghệ thông tin
+3. GIÁ TRỊ DỰ TOÁN: 10.000.000.000 đồng (Bằng chữ: Mười tỷ đồng)
+4. CƠ SỞ LẬP DỰ TOÁN:
+~ _ Giá trang thiết bị tính theo giá tại thời điểm lập dự toán.
+
+  
+
+ññg tá Đỗ Việt BìnhĐÈ CƯƠNG XÂY DỰNG DỰ' TOÁN
+
+Cách dn nọ ám, dụng rạng tiết thục vụ ảo công túc duyên nôn ca Vip Công HỆ ng Ít
+
+1. Mục tiêu và sự cần thiết phải tăng cường trang, thiết bị
+
+1. Mục tiêu:
+
+Tăng cường trang thiết bị phục vụ công tác nghiên cứu:
+
+- Nghiên cứu khai thác làm chủ VTBKT công nghệ cao.
+
+- Nghiên cứu và phát triển các hệ thống mô phòng;
+
+“Nha về tí hân ụo (AI) và phị vụ quản, điển hành và ạ lồng công ngệ ông t
+
+2. Sự cần thiếu phải tăng cường trang thiết bị:
+
+2 ứng ai nột êm vị ngiện ngang đ nh ca Viên KHCNGS Bến Bà IS
+đạo của Viện KHCNQS, Viện luôn chủ Lồng im ít nhiện vụ Q8-QP và định hướng nghiên cứu của Viện ở chức si Tà
+HH h c ơn và húlợp với các qua đơn) dng th NO NO GÀ hon
+đc nh ch Hi ng ị kỹ tu (VKTBKT), huấn hiện đn p rà n ng ciến n Các sản phẩm
+co ca Viện uên được nh gi cao à được đa vào iển Hai ứng dụng íc (T Ví
+
+căn vộệ ông th ng ấn gi c hiện vụ KHCN ẹ ạ Hi tác làn hi VN HỆ
+Vàxäy dụng cá hệ tng hon luyện phục vụ sn sàng chiến đến
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính toán, mô. phỏng phương án tác chiến biển đảo trên nền hải
+HA ng ti hộ táng CNTF ng đựn vong hon hn đến pc hư ca
+dd HT ngài tực in năm hỗ cũng hun hyện dc đi min đn Mở bơ PS 7
+máy bay SU-30MK2.
+
+dễ lá go và tỏ ngiệm máy KV 1G buộc hệ tắn dn nh TT VM có
+dựa trên nguyên mẫu KV163I1 của tổ hợp KACV 3P-60V3-12418 và lắp ráp hoàn chỉnh hệ thống KACYV 12418-VN có
+
+2
+
+.~.——tiêu diệt mục tiêu mặt
+Cận tiện quy tình, công nghệ vào sản
+- - Ta 'BMI của hệ thí
+3p-60V2; thiết bÌ VIKO-VN01-
+
+HE nu u„eeaernreaemeffT TỔ
+
+câu ánh mạng A0 là lá cắp IẾT
+1. Nội dung và 30Y mô đầu tư
+ghe công nhiên cứu TẾT Ý điều hành của Viên BỀm:
+
+'Mua sắm mớiĐơn vị tính: triệu đồng
+
+tra
+Trang thiết bị phục vụ thiết i Máy phân tích lô-gic
+Model: LAP-F16464M
+Hãng sản xuất: Zeroplus -
+Đài Loan
+
+hoặc tương đương. Máy hiện sóng cầm tay
+Model: THS3024
+
+Hãng sản xuất: Tektronix -
+Trung Quốc
+
+hoặc tương đương Trang thiết bị phục vụ đo kiểm 
+Phục vụ nghiên cứu làm chủ VKTBKT Máy Scan 3D
+Model: EinScan-Pro
+
+Hãng sản xuất:
+
+SHINING3D - Trung Quốc
+hoặc tương đương ~ Độ chính xác: 0.I mm - 0.3mm - 0.05mm (tùy chế
+độ quét);
+
+~ Tốc độ quét: 15 frames/sec., 10 frames/see (tùy,
+chế độ quét);
+
+~ Vùng quét đơn: 210mm X 150mm;
+
+~ Nguồn ánh sáng quét: White light LED;
+
+~ Các chế độ chép mẫu 3D:
+
+'Handheld HD Scan: Chế độ quét 3D hoa văn, mẫu.
+vật công nghiệp lớn;
+
+Handheld Rapid Scan: Chế độ quét 3D vật cỡ
+
+người;
+Automatic Scan: Chế độ quét 3D sản phẩm cơ khí
+cỡ nhỏ;
+Free Scan: Chế độ quét 3D sản phẩm cơ khí cỡ lớn ~ Số kênh: 64
+
+IMb mỗi kênh
+
+: USB 3.0
+
+~ Các giao thức: 1-WIRE; 3-WIRE; CAN 2.0B; I2C;
+SPI; UART (kŠ: -232C/422/485), MCU-51
+DECODE; MIL-STD-1553 
+~ 5ô kênh: 4 kênh
+
+- Băng thông: 200 MHZ.
+
+- Tốc độ lấy mẫu tối đa: 5 GS/s (1.25 GS/s 4 kênh)
+~ Độ dài bản ghỉ tối đa: 10000 điểm
+
+~ Màn hình hiển thị: 6 inch
+
+~ Giao tiếp: USB host port và USB device Chiếc g Bộ 
+250 400 %0 / 
+5.560 250 §00 320 
+Dùng cho
+mục đích
+cơ động 
+Bộ máy tính workstation
+cấu hình cao kèm theo hai
+màn hình Thiết bị đọc ROM
+Model: Superpro 7500.
+Hãng sản xuất: Xeltck -
+Trung Quốc
+
+hoặc tương đương "Tên thiệt bị * Máy tính SUPERMICRO SC7331-500B-X10
+hoặc tương đương
+
+~ Bo mạch chính: XI0DRL~i
+
+~ Võ máy: SNT900-550
+
+- Bộ xử lý: Intel® Xeon® Processor E5-2630 v4.
+(25M Cache, 2.20 GH2)
+
+- Bộ nhớ: 2 x 16GB PC4-19200 ECC 2400 MHz
+Registered DIMMs
+
+- Bộ điều khiển mạng: Intel® i210 GbE LAN, 2
+
+ports
+- Ô cứng: 2TB Seagate Enterprise 7200 RPM SATA
+6Gb/s
+
+- Card màn hình: NVIDIA Quadro M2000 4GB.
+
+~ Bàn phím, chuột quang.
+
+* 02 màn hình: Dell Ultrasharp UP2716D hoặc
+tương đương.
+
+~ Kích thước màn hình: 27;
+
+- Độ phân giải: 25601440;
+
+- Interfaces: DP, mDP, 2 x HDMI (MHL), 4 x
+'USB3 with one charging port, 2 x USB3 upstream : 
+- Hỗ trợ các loại EPROM, EEPROM nôi tiếp và
+song song, nạp cấu hình cho PROM FPGA, các bộ
+FLASH, BPROM, NVRAQM, SPLD, CPLD,
+EPLD, Vi điều khiển  MCU.
+- Các loại chân chip có thể đọc được: DIP, SDIP,
+PLCC, JLCC, PGA, LGA, SOIC, SOJ, SOT, QFP,
+TQFP, PQFP, VQFP, MQFP, LỌFP, TSOP, SOP,
+TSOPH, PSOP, SSOP, TSSOP, SON, EBGA,
+FBGA, FTBGA, VFBGA, HBGA, CSP, SCSP,
+QFN, HVQFN...
+
+- Giao tiếp máy tính qua USB2.0, LAN;
+~ Bộ nhớ độc lập: SD Card. §L Đơn giá 250 
+100 200 Ghi chú .~ìị — tin
+'Bộ giao tiếp MIL-STD-
+1553 qua công USB
+Model: USB 1553
+
+PN: CP-UA1133
+
+Hãng sản xuất: Astronics
+Ballard Technology - USA.
+hoặc tương đương Model: GEN60-40
+Băng sử sản xuất: TDK-
+
+——_ Trang thiêt bị phục vụ thí nẹ Máy in 3D.
+Model: 3DMaker PRO350
+hoặc tương đương 
+~ Thiết bị giao tiếp chuẩn MIL-STD-1553 qua cổng
+'USB, có 2 kênh muli-function
+~ Bộ nhớ dữ liệu: 32 MB. ~ Dải điện áp đầu ra: 0 - 60 V
+~ Dài đòn đầu ra: 0 - 40A.
+- Công ra: 2400W ~ Kích thước in: 310mm (W) x 300mm (D) x
+460mm (H)
+c4 tộc đo má 032mhy DÄme 05mm,
+
+xi =nd
+
+~ Vật liệu in: PLA, Flexible;
+
+- Lớp in mỏng nhất: 40 micron (0.04 mm);
+-Intừ USB: Có;
+
+~ Màn hình LCD: Có;
+
+~ Tốc độ in tốt nhất: 100mm/s;
+
+~ Vỏ máy: Kim loại / Metal;
+
+- Linh kiện: Japan;
+
+-Đếtự cuộn nhựa: Có;
+
+- File 3D hỗ trợ STL, OBI,
+
+~ Phần mềm cầu hình file 3D: Cura, Slic3r,
+KISSiicer,
+
+~ Phần mềm vẽ 3D hỗ trợ Sketchup, Autocad 3D,
+3D Smdio Max, SolidWorks, Mayva, Rhinoceros... 395 
+390 T80 3 4 
+: - `
+Găng tay Dexmo.
+Hãng sản xuất: Dexta.
+Robotics
+
+hoặc tương đương Phục vụ nghiên cứu về mô phỏng Độ giao tiếp chuẩn Arinc-
+429 sử dụng USB
+
+Model: USB 429
+
+PN: CP-UA1440
+
+Hãng sản xuất: Astronics
+Ballard Technology - USA.
+hoặc tương đương giữ chậm: 5ms;
+Tân s lấy mu:2000/2
+
+~Tân
+~ Thời gian sử dụng nguồn: 3 đến 6 giờ: 
+~ Kích thước: 155 x 100 x 7.5 mm
+- Khối lượng: ~320g,
+- Dung lượng pin: 2000 mAh sóng phát:
+° Đơn xg tên chh Sin, vuông, răng cưa, tam.
+giác, xung,
+THÊ 5 'Hàm mũ tăng và giảm,
+răng cưa âm, Sin(x)/x, Cardiae
+~ Sóng sin: IuHz đến 50MHz
+- Sóng vuông: 1uHz đến 25MHz.
+~ Sóng răng cưa, tam giác: IuHz đến 200kHz.
+vuông: 500uHz đến I0MHZ
+
+: AM,FM, PM, FSK, PWM,
+Sen và bưm
+- Giao tiếp: USB, LAN, LXI-C, GPIB
+~ Nguồn điện: 110-240VAC +10%/ 50Hz to 60Hz Thiệt bị giao tiếp chuẩn Arinc429 qua công USB, có.
+12 kênh thu và 4 kênh phát, có thể lưu lại dữ liệu
+thu được trên máy tính để phục vụ phân tích sau này 35 
+760 120 355 110 
+760 # 120 T10 
+Nghiên cứu S4? 5a
+s#—§sỄÊ xa.
+Bộ cảm biên Body Tracking
+Model: PrioVR hoặc tương
+đương
+
+~ Bao gồm: 01 hub, 01 base
+station, 02 hand controllers
+VÀ Ì7 sensor. Kính thực tại ảo HTC Vive
+'Hãng sản xuất: HTC
+hoặc tương đương, hoặc tương đương. Hub PrioVR:
+- Bộ xử lý 32-bit ARM-based
+~ Công sạc/giao tiếp: USB 2.0
+~ Module không dây DSSS 2.4 GHz
+- Pin: 3500 mAh.
+- Công tắc nguồn.
+Cảm biến PrioVR.
+- Bộ xử lý 32-bit ARM-based
+- Các công giao tiếp vào và ra
+- 1 LED 3 màu
+Bộ điều khiển PrioVR.
+~ Cần điều khiển tương tự 2 chiều với độ phân giải 8
+bít
+- Trigger tương tự với độ phân giải 8 bit
+~6 nút bấm 
+~ Màn hình: Dual AMOLED 3.6"
+
+- Độ phân giải: 1080 x 1200 pixel mỗi mắt
+- Tốc độ refresh: 90 Hz.
+
+~ Vùng quan sát: 110 độ
+
+- Cảm biến: SteamVR Tracking, G-sensor,
+Gyroscope, proximity.
+
+~ Giao tiếp: HDMI, USB 2.0, stereo 3.5 mm
+headphone jack, Power, Bluetooth
+
+~ Tích hợp Mikzophone ~ Sạc 5V băng cáp Micro USB ;
+
+- Kích thước tiêu chuẩn: kích thước phù hợp với cỡ
+M,L, XL;
+
+- Trọng lượng: 68.5 gam;
+
+- Có thê giặt được;
+
+~ Truyền thông không dây: 2.4GHz (Wireless);
+
+- Độ chính xác cảm biến ngón tay, cảm biến định
+hướng: +/-3 độ. 85 80 
+170 160 không gian không gian
+mô phỏng 
+toán hoạt
+động của
+
+trên cơ thể ử ——rB
+Máy chủ phục vụ nghiên.
+cứu trí tuê nhân tạo. Smart Tivi 4K
+
+Mode: KD-75X8500E
+'Hãng sản xuất: Sony.
+hoặc tương đương. Máy tính đô họa. ~ Fom Factor: 4U Rackmountable / Tower
+~ Dual Socket P (LGA 3647) 
+và hạ tâng CNTT. Độ phân giải: 4K Ultra HD (3840 x 2160p)
+giang Intemet: Wif tích hợp, Cổng LAN cắm.
+
+- Tâm Kế nối AV, audio, HDMI, USB.
+~ Tích hợp đầu thu kỹ thuật số: DVB-T2 PrioVR Base Station.
+
+- Bộ xử lý: 32-bit RISC based
+
+-1LED3 màu
+
+~ Module không dây DSSS 2.4 GHz DSSS
+~ Cổng giao tiếp: USB 2.0 ~ Bo mạch chủ: Asus X299-E GAMING,
+~ CPU: Intel Core ¡7 - 7800X 3.5 GHz Turbo 4.0
+'GHz/ 8.25MB / 6 Cores, 12 Threads / socket 2066;
+~ RAM: Corsair 16GB (2x8GB) DDR4 Bus
+3000Mhz CMR16GX4M2C3000C15 - Vengeance
+RGB;
+
+- Card màn hình: ASUS ROG STRIX GTX 1080TI
+~011G— Gaming
+
+- §§D m2 Corsair Force MP500 240GB M.2 2280
+PCle NVMe Gen 3.0 x 4 (Read 3000MB/§, Write
+2400MBI));
+
+- DVD: DVDRW Asus 24DSMT SATA;
+
+- Bàn phím + chuột Fuhlen Optical Wireless
+AI20G;
+
+~ Power Supply Seasonic 850W MI2II Bronze Evo
+Edition;
+
+~ Vỏ Case Corsair Obsiđian Series 750D (Window -
+Full Tower). 
+350 T8 700 —... "-..——.v
+mạch 10GB
+Model: WS-C3850-48XS-S
+'Hãng sản xuất: Cissco
+hoặc tương đương Model: LBP 7110Cw
+'Hãng sản xuất: Canon
+hoặc tương đương Hăng sản xuất: Supermicro
+hoặc tương đương ~ 48 cổng SFP+ I0 G
+~ Công suất nguồn: 750W AC 
+Ko A lo h day sua cau
+
+HN gy lỗ ác A4;
+
+- Độ ph giá 600 x 600 dpi;
+nhớ: 64 MB;
+nối: có dây và không dây ~ CPU: Intel core ¡7-7700 (3.6 GHz, 8MB)
+
+~ Ram 8GB DDR4
+
+~ HDD ITB 7200 rpm.
+
+-DVDRW/WL +BT 4.0
+
+~ Cạc màn hình VGA Gigabyte N730 2GB DDRS
+~ Màn hình DELL E2216HV Full HD 21.5 inch ~ Intel C621 Chipset
+~2 x Intel Xeon Bronze 3104 Processor 6-core.
+
+1.70GHz 8.25MB Cache (85W);
+-12x 8GB PC4-21300 2666MHz DDR4 ECC
+
+ii DIMM;
+~ 1.92 TB Intel SSD DC S4600 Series 2.5"" SATA.
+6,0Gb/s Solid State Drive;
+'No Optical Drive Support;
+~4 x Card NVIDIA VGA GTX 1080 TỊ SC2
+GDD5X 11GB;
+~ Networc: Intel® X550 Dual Port 10GBase-T;
+~ 1x 2200W Redundant Power Supplies
+~-OS:DOS 20 
+TP Q2 dd QQ QOA Q QAgg 700 10,80 26,6 
+700 10,80 333.2 Tổng mức đầu tư: 10.000.000.000 đồng (Bằng chữ: Mười tỷ đông). Đã bao gồm các loại thuế, chỉ phí lắp đặt, đào
+tạo, hướng dẫn sử dụng.
+
+1L. Thời gian thực hiện: Quý II và Quý III năm 2018
+
+II. Địa điểm thực hiện:
+
+Này ngu 2
+Bộ dụng cụ tháo lắp.
+
+Bộ dụng cụ chuyên dụng,
+tháo lắp cơ; Bộ dụng cụ đo.
+kiểm thường và đo kiểm.
+điện TÔNG GIÁ TRỊ Bao gồm:
+
+~ 01 Máy hiện sóng cầm tay GWinstek GDS-210
+hoặc tương đương.
+
+(Băng thông:100MHz (-3dB); Số kênh: 2; Tốc độ
+lấy mẫu: 1GSa/s)
+
+~01 Máy hàn Weller WT 1010 hoặc tương đương,
+(Công suất: 90 W; Số kênh hàn: 1; Màn hình: LCD;
+Dải nhiệt độ: 100 - 450°C)
+
+~ 01 Nguồn DC 3 kênh GW instek SPD-3606 hoặc.
+tương đương (60V, 6A, 3CH; Độ chính xác: 0.5%;
+Độ phân giải: 100mV/10mA)
+
+~ 01 Máy kiểm tra điện áp, tính thông mạch và dòng
+Fluke T5-1000 hoặc tương đương (Âm báo thông.
+mạch: Giới hạn: Bật ở <25 @, tắt ở >400 @; LED
+chỉ báo điện áp: Giới hạn: Được bảo đảm bật ở
+30VAC)
+
+~ 01 Đồng hồ đo điện đa năng số điện tử Fluke 289
+hoặc tương đương
+
+~01 Bộ tuốc nơ vit đa năng Yato 18 chỉ tiết YT-
+25982 hoặc tương đương
+
+~01 Bộ tuốc nơ vit Yato YT-2789 hoặc tương.
+đương . ¿
+~ 01 Bộ kìm tuýp, cờ lê tổng hợp Yato 225 chỉ tiết
+'YT-38941 hoặc tương đương 170 
+10.000 340 Ghi chú „.j Niên
+
+xoa MS
+
+si tác
+
+ven sởt ..
+sưả lê
+Tg geaÝ lên
+
+Côn

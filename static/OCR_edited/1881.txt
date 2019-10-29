@@ -1,0 +1,3114 @@
+VIÊN KHCN QUẦN sỰ
+VIÊN CÔNG \ TH,
+
+GTrụ/ CÔNG HOÀ xã HỘI CHỦ NGHỊ¿, VIỆT Nự
+‹ 'GHẼ THÔNG TINỊ Độc lập - Tụ qo „ Hạnh phúc
+Số: 212/VONTT. KH Tà Nội ngày 0g thẳng 5 năm 20;o
+Ÿ⁄V xây dụng kế hoạch KHCN&MT
+Tiăm 2020, ị
+
+Kính gửi; Phong Tham mựu _ Kế hoạch,
+ăi ©Ông văn số 84m MKH-KHCN&MT ngày 08⁄4/2019 €
+TM-KH/Viện KHCNQs về việc Xây dựng ké hoạch KHCN&MT
+gân sách năm 2020, Ị
+Viện Công nghệ thông tịn
+LKế sẻ là
+
+ủa Phòng
+VÀ dự toán
+
+¡XÍn báo cáo;
+
+   
+ 
+ 
+ 
+
+biển đáo tren nên hải đồ só
+'ảm bảo tiến độ và tập trung Thử nghiệm
+Quân chúng rị;; quân 2019
+
+Đề tài cá
+
+- cập nhà nước chương trình
+thiết bị Chuyển mạch Œ
+tắng FPGA, Và
+
+trong diễn tập cụ,
+
+KC01 “Nghiên
+Switch) Có tính Tiăng an toàn, bảo mị
+"Hã nguồn mở”; đậm Đảo tiến độ thực, hiện,
+
+Sứu thiết kế, ché ạ
+
+ật thông tin trẹn nên- Tập trung thực hiện các đề tài cấp Bộ Quốc phòng thuộc đề án KC.T
+giai đoạn 2: đảm bảo nghiệm thu đề tài KC.T-22 theo tiến độ và thực hiện các đề
+tài KC.T-27, KC.T-28 và KC.T-30 theo chỉ đạo của Ban chủ nhiệm đề án KC.T.
+
+~ Thực hiện đề tài KC.BM.04 thuộc chương trình KC.BM: hiện tại đề tài
+đang thực hiện đảm bảo tiến độ. Trong thời gian tới đề nghị các cơ quan chức
+năng báo cáo các cơ quan có thẩm quyền bố trí đủ kinh phí theo thuyết minh đề
+tài để đảm bảo tiến độ thực hiện của
+
+- Xây dựng thuyết minh 02 đề tài thuộc chương trình KC.KT, bảo vệ đầu
+vào khi có kế hoạch.
+
+- Hoàn thành 04 nhiệm vụ hoàn thiện sản xuất loạt “0, thực hiện theo
+hướng dẫn của cơ quan chức năng chuẩn bị sản xuất loạt “0”.
+
+III. Kế hoạch công tác KHCNK&MT năm 2020
+
+Năm 2020, Viện Công nghệ thông tin chưa có đề xuất đề tài,
+KHCN sử dụng ngân sách sự nghiệp môi trường. Viện CNTT đề xuất 02 đề tài
+nhiệm vụ KHCN thuộc chương trình KC-4.0/19-25 và 02 đề tài cấp Viện
+KHCNG&S.
+
+Triển khai thực hiện các đề tài, nhiệm vụ KHCN đảm bảo tiến độ.
+
+(Chỉ tiết trong phụ lục kèm theo công văn này)
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét _
+
+ 
+
+ 
+
+nhiệm vụ
+
+(Nơi nhận: KT VIÊN TRƯỞNG
+~ Như trên; Ö
+~ Lưu: VT, KH; H03.ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN ì BIỂU KQ-1
+
+KẾT QUÁ THỰC HIỆN CÁC NHIỆM VỤ CẤP QUỐC GIA. NĂM 2018, 2019
+Đơn vị tính: Triệu đồng
+
+ 
+
+Cơ quan Kinh phí
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Số | Tên nhiệm vụ nghiên cứu | chủ trì, | Thời gian 4
+TT | Thoaheevà côngnghệ | Chủ | thực điện Xết quả đã đạt được TổngKP | KPcấp | KPcáp | Chỉehú
+nhiệm được duyệt | năm 2018 | năm 2019
+1 |Chương trình, đề ám
+KHCN
+Chương trình nghiên cứu,
+đào tạo và xây dựng hạ
+tầng kỹ thuật công nghệ
+cao
+T1 [Nghiên cứu thiết kế xây|Nguyễãn |062018- |4) Mội đụng Ï: Khảo sái nghiền cứu | 95.950 20.000 | 0/66.772 | Dự kiến
+dựng hệ thông tác nghiệp, | Đức Định |06/2020 | phân tích nội đụng, phương pháp công kinh phí
+tính toán, thể hiện phương tác chỉ huy - tham muzt (rong tác chiến 2019:
+| — _|án tác chiến biển đảo trên _ .| bảo vệ biến đảo và thiết kế mô hình tổng - — | - 66.122
+nền hải đồ số và sa bàn số thể của hệ thống.
+3D - Công việc 1: Khảo sát, nghiên cứu,
+
+phân tích nội dung, phương pháp công
+tác chỉ huy - tham mưu trong tác chiến
+bảo vệ biển đão
+
+- Công việc 2: Khảo sát, nghiên cứu,
+phân tích quy trình thực hiện nhiệm vụ
+thường xuyên tại Sở chỉ huy và quy trình
+diễn tập tham mưu tác chiến biển đảo
+
+- Công việc 3: Thiết kế mô hình tổng thể
+hệ thống tác nghiệp, tính toán, thể hiện
+phương án tác chiến biễn đảo trên nền hải
+đồ số và sa bàn số 3D
+
+b) Nội dụng 2: Nghiên cứu, làm chủ một
+số công nghệ nền phục vụ xây dựng dữ.
+liệu và phát triển ứng dụng trên sa bàn số
+3D
+Cơ quan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+Số | Tên nhiệm vụ nghiên cứu | chủ trì, | Thời gian Kết
+TT | Khoa học và công nghệ Chủ | thựchiện
+nhiệm.
+1 |Chương trình, đề ám
+KHCN
+Chương trình nghiên cứu,
+đào tạo và xây dựng hạ
+tầng kỹ thuật công nghệ
+cao
+1.1 |Nghiền cứu, thiết kế, xây |Nguyễn |06/2018- |2) Nội dưng
+dựng hệ thống tác nghiệp, | Đức Định | 06/2020 | phẩm tích nộ
+tính toán, thể hiện phương tác chỉ huy -
+| — _|án tác chiến biển đảo trên -| bảo vệ biển đ
+nền hải đồ số và sa bàn số thể của hệ thứ
+3D - Công việc
+phân tích nộ
+tác chỉ huy -
+bảo vệ biển đ
+- Công việc
+phân tích qu
+thường xuyêt
+diễn tập tham
+- Công việc ‡
+hệ thông tác
+phương án tả
+đồ số và sa b
+9) Nội dụng
+số công ngh
+liệu và phát I
+
+34D Cơ quan
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Số | Tên nhiệm vụ nghiên cứu | chủ trì, | Thời gian Kết
+TT | Khoa học và công nghệ Chủ | thựchiện
+nhiệm.
+1 |Chương trình, đề ám
+KHCN
+Chương trình nghiên cứu,
+đào tạo và xây dựng hạ
+tầng kỹ thuật công nghệ
+cao
+1.1 |Nghiền cứu, thiết kế, xây |Nguyễn |06/2018- |2) Nội dưng
+dựng hệ thống tác nghiệp, | Đức Định | 06/2020 | phẩm tích nội
+tính toán, thể hiện phương tác chỉ huy -
+| — _|án tác chiến biển đảo trên - bảo vệ biến 4
+nền hải đồ số và sa bàn số thể của hệ thổ
+3D - Công việc
+phân tích nội
+tác chỉ huy -
+bảo vệ biển đi
+- Công việc
+phân tích qu
+thường xuyêt
+diễn tập tham
+- Công việc 2
+hệ thông tác
+phương án tả
+đồ số và sa b;
+9) Nội dụng
+số công nghỉ
+liệu và phát
+
+34D Cơ quan
+chữ trì,
+Chủ
+nhiệm. Nguyễn
+Đức Định 
+Thời gian
+thực hiện 06/2018-
+06/2020 Kinh phí
+
+ 
+
+t được
+
+Tổng KP
+được duyệt
+
+KP cấp.
+năm 2018
+
+KP cấp
+năm 2019
+
+Ghi chú
+
+ 
+
+ 
+
+ 
+
+sát, nghiên cứu,
+ương pháp công
++ (rong tác chiến
+' kế mô hình tổng
+
+sát, nghiên cứu,
+ương pháp công
+u trong tác chiến
+
+sát, nghiên cứu,
+re hiện nhiệm vụ.
+¡ huy và quy trình
+hiền biển đảo
+
+mô hình tổng thể
+nh toán, thể hiện
+n đảo trên nền hải
+
+cứu, làm chủ một
+› vụ xây dựng dữ
+ụng trên sa bàn số
+
+95.950
+
+ 
+
+20.000
+
+ 
+
+0/66.772
+
+ 
+
+Dự kiến
+kinh phí
+2019:
+66.122 Tổng KP
+được duyệt 
+KP cấp.
+năm 2018 KP cấp
+năm 2019 0/66.772 Ghi chú - Công việc 1: Nghiên cứu, làm chủ công,
+nghệ xây dựng mô hình đối tượng 3D
+
+- Công việc 2: Nghiên cứu, làm chủ công
+nghệ sinh mô hình lưới 3D, phủ ảnh bÈ
+mặt địa hình từ ảnh 2D
+
+- Công việc 3: Nghiên cứu, làm chủ công
+nghệ xây dựng địa vật, các lớp thông tỉn
+thuộc tính trên địa hình 3D
+
+~ Công việc 4: Nghiên cứu, làm chủ công
+nghệ xây dựng địa hình 3D từ dám mây
+điêm, ảnh phủ và mô hình số độ cao
+
+~ Công việc 5: Nghiên cứu, làm chủ công
+nghệ phát triển ứng dụng sa bàn số 3D
+
+©) Nội dưng 3: Thiết kế, xây dụng hệ
+thống cơ sở dữ liệu nền phục vụ tác
+nghiệp, tính toán, thê hiện phương án tác
+chiến biển đảo
+
+- Công việc l: Thiết kế hệ thống cơ sở dữ
+liệu nên phục vụ tác nghiệp, tính toán, thể
+phương án tác chiến biển đảo
+
+~ Công việc 2: Biên tập, chuẩn hóa dữ
+liệu vũ khí trang bị -
+
+- Công việc 3: Biên tập, chuẩn hóa bộ dữ
+liệu bản đồ chuyên đề .
+
+~ Công việc 4: Biên tập, chuẩn hóa bộ dữ
+liệu địa lý biển đảo.
+
+- Công việc 5: Biên tập, chuẩn hóa dữ
+liệu hải đồ số
+
+- Công việc 6: Xây dựng bộ dữ liệu mô
+hình 3D các đối tượng tác chiến;
+
+7: Biên tập, chuẩn hóa và xây
+dựng dữ liệu sa bàn số 3D
+
+4) Nội dụng 4: Thiết kế, xây dựng hệ
+thống phần mềm hỗ trợ tác nghiệp, tính
+toán, thể hiện phương án tác chiến biển
+~ Công việc 1: Nghiên cứu, làm chủ công
+nghệ xây dựng mô hình đối tượng 3D
+
+- Công việc 2: Nghiên cứu, làm chủ công
+nghệ sinh mô hình lưới 3D, phủ ảnh bÈ
+mặt địa hình từ ảnh 2D
+
+- Công việc 3: Nghiên cứu, làm chủ công
+nghệ xây dựng địa vật, các lớp thông tỉn
+thuộc tính trên địa hình 3D
+
+~ Công việc 4: Nghiên cứu, làm chủ công
+nghệ xây dựng địa hình 3D từ dám mây
+đêm, ảnh phủ và mô hình số độ cao
+
+- Công việc S: Nghiên cứu, làm chủ công
+nghệ phát triển ứng dụng sa bàn số 3D
+
+©) Nội dưng 3: Thiết kế, xây dụng hệ
+thống cơ sở dữ liệu nền phục vụ tác
+nghiệp, tính toán, thê hiện phương án tác
+chiến biển đảo
+
+- Công việc l: Thiết kế hệ thống cơ sở dữ
+liệu nên phục vụ tác nghiệp, tính toán, thể
+hiện phương án tác chiến biển đảo
+
+~ Công việc 2: Biên tập, chuẩn hóa dữ
+liệu vũ khí trang bị ¿
+
+- Công việc 3: Biên tập, chuẩn hóa bộ dữ
+liệu bản đồ chuyên đề .
+
+~ Công việc 4: Biên tập, chuẩn hóa bộ dữ
+liệu địa lý biển đảo.
+
+- Công việc 5: Biên tập, chuẩn hóa dữ
+liệu hải đồ số
+
+- Công việc 6: Xây dựng bộ dữ liệu mô
+Ig tác chiến;
+
+ập, chuẩn hóa và xây
+dựng dữ liệu sa bàn số 3D
+
+4) Nội dụng 4: Thiết kế, xây dựng hệ
+thống phần mềm hỗ trợ tác nghiệp, tính
+hệ, DỆ Nến nhượng lốp lấn chiến biển đão rên nên hải đồ số và s4 bản số 3D
+
+- Công việc 1: Thiết kế hệ thống phần
+mềm hỗ trợ tác neh iệp, tính toán, thể hiện
+phương án táo chiều tiễn đảo trên nên bãi
+Hồ số và sa bàn số 3D
+
+  
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+
+rong trình KC01 _— Ì Ỉ
+
+Nghiên cứu thiết kẻ, chế | Thái TUØIE- | Nội dụng 2. "Nghiên cứu tổng quan các| 6865 19000 | 0/2938
+
+tạo thiết bì chuyển mạch Trung 10/2020 | chức năng “và các chuẩn thực. hiện thiết bị
+
+(Switch) có tính năng An Kiên chuyển mạch
+
+toàn, bảo mmật thông tin trên Nội dung 3. “Thiết kế xây dựng, phần cứng
+
+bà) FPGA và mã thiết bị chuyển mạch trÊn nền tảng công.
+nghệ FPGA.
+
+—E—T———”” 'Nội dung 4. Nghiền cứu xây dựng IPeore |
+
+thực hiện chúc năng xử ý thông tìn 8ó
+
+án Ethernet, xây dựng MÁC tableĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIẾU KQ-2
+
+KÉT QUÁ THỰC HIỆN CÁC NHIỆM VỤ CÁP BỘ, CẤP CƠ SỞ NĂM 2018, 2019
+Đơn vỉ tính: Triêu đồng
+13 12 TT Đê tài KC.T-27. ' Nghiên
+cứu thiết kế và chế tạo khối
+chức năng  IHIHI9VN,
+IIBB34VN trong máy tính
+trên khoang BHJBM-20-701
+của đạn tên lửa 3M243” 
+Để tài KC/1-22:
+cứu, thiết kế, chế tạo thiết bị
+kiểm tra tình trạng kĩ thuật
+khối BMI của hệ thống điều
+khiển phóng tên lửa KACY
+3P-60Y9-1241.8” Chương trình HCN Tên nhiệm vụ nghiên cứu
+Khoa học và công nghệ Đê tài KCT-28: “Nghiên
+cứu thiết kế, chế tạo máy
+KUI63C-VN dựa _ theo
+nguyên mẫu máy KV1631{ và
+tích hợp thành hệ thống tự
+động điều khiển phóng tên 
+Cơ quan
+
+ 
+
+Chữ nhiệm 1// Nguyễn
+Minh
+Thường 1⁄/ Phạm
+Xuân Công Hồng Long 
+Thời gạn §8/2017—
+02/2020 §8/2017—
+02/2019 §8/2017—
+7/2020 
+Kết quả đã đạt được ~ Đã nghiệm thu cấp cơ sở
+vào 13h30 ngày 02/4/2019.
+
+- Đang hoàn thiện hồ sơ theo
+kết luận của Hội đồng
+nghiệm thu cấp cơ sở.
+
+- Đang chỉnh sửa và hoàn
+thiện tài liệu thiết kế kỹ
+sau đó gửi phòng kỹ
+thuật để kiểm tra tiêu chuẩn. - Đã chê tạo 01 module JJ-
+JITI, 01 khối II, 01 khối
+BM-OC, 01 vì kết nối TIK4,
+03 khối nguồn BIIM 512-01,
+01 tủ máy KU163C-VN,
+
+~ Đã thiết kế, chế tạo thiết bị ~ Đã thiệt kê chê tạo card
+
+IHH9VN. —_
+
+ã thiết kế chế tạo thiết bị
+tra card ITII]9, thiết bị
+
+kiểm tra card IIBB34.
+
+- Đang chờ phê duyệt bộ chỉ
+
+tiêu chiến-kỹ thuật các sản
+
+phẩm và tài liệu khai thác
+
+MTTK. 
+'Tổng KP
+được
+duyệt 4.400 7.160 14.600 
+2018 Kinh phí 1/900 1.060 
+4.000 KP cấp năm
+2019 0/1.600 Ghi chú 
+Câp đên
+năm 2018:
+12.500
+Dự kiến
+kinh phí Cấp đên
+năm 2018:
+5.560,
+Dựkiến
+kinh phí
+năm 2019:
+1.600 
+14 15 KC.T1-32: “Hoàn thiện
+thiết kế và chế tạo thiết bị
+kiểm tra hệ thống điều khiển
+quản tính II-074 của đạn tên ĐỂ tài ÉC.I30: Nghiễn
+cứu thiết kế chế tạo hệ thông
+tục động kiểm tra tên lửa Kh-
+33E da theo nguyên lý hoại
+động của hệ thông ACK6.3” 
+động điêu khiển phóng tên
+lửa Kh-35E theo mẫu KACV
+3P-60V3-1241.8" 1/ Nguyên
+Thái Hòa 4/ Dương
+Phú Tuấn 12/2017—
+12/2020 
+12/2017—
+12/2020 ~ Nghiên cứu hệ thông điêu.
+khiến quán tính IL074-
+2MCA. CS.
+- Nghiên cứu thiết kế, chế ~ Khai thác làm chủ kỹ thuật
+các hệ thống nguyễn mẫu và
+làm chủ chu trình kiểm tra
+đạn tên lửa Kh-35E theo bộ
+
+ 
+
+~ Nghiên cứu thiết kế chế tạo
+thiết bị phân. tích dữ liệu,
+
+- Nghiên cứu thiết kế chế tạo
+thiết bị mô phỏng tên lửa
+Kh-35E.
+
+- Đang chờ phê duyệt bộ chỉ
+tiêu chiến-kỹ thuật các sản
+phẩm. tạo giả thông tin đầu vào hệ
+thống.
+
+- Đã chế tạo 04 khối BA, 04
+khối IỊC, 04 khối nguồn
+MBIL28,5-35, 01 khối
+BMI, 01 tủ máy KBI63P-
+VN.
+
+- Đã thực hiện phân tích,
+địch ngược 58 phần mềm
+củ máy KUI63C-VN
+(trong đó đã thực hiện thiết
+kế, vẽ lưu đồ thuật toán cho
+33 phần mềm. .
+
+- Đang tổng lắp, kiểm tra,
+thử nghiệm hệ thống ĐKT
+1241.8-VN,
+
+- Đang chờ ngày tổ chức
+Hội thảo bộ chỉ tiệu chiến-
+'kỹ thuật các sản phẩm. 
+7.450 2.010 6.000 9/3.250 
+Dự kiên
+kinh phí
+2019:
+3250 Dự kiên
+kinh phí
+2019:
+7:00 năm 2019:
+2.100 
+MI 1,6 Đê tài câp TP.HCM: Nghiên
+cứu và xây dựng phần mềm
+tích hợp dữ liêu bản đồ để NHIỆM VỤ PHOI HỢP
+VỚI CÁC BỘ, NGÀNH,
+ĐIA PHƯƠNG 
+Nhiêm vu sửn xuất loạt “0? ,Đư án sản xuất thử nghiệm Nhiệm vụ thuộc các chương
+trình KHCN trong điểm Nghiên cứu, thiết kê, xây
+dựng các hệ thống mô phỏng
+huấn luyện, đào tạo phục vụ
+cho nhiệm vụ rà phá bom
+mìn, vật nỗ 
+Chương trình ẤC.BM. lửa Kh-35E” 2/! Đỗ Việt
+Bình 6/2016 -
+6/2018 
+11/2017-
+04/2020 tạo thiệt bị tạo giả hoạt động.
+của hệ thống dẫn đường
+quán tính (TG-S074).
+
+- Đang chờ phê duyệt bộ chỉ
+tiêu chiến-kỹ thuật. - Nghiên cứu các công cụ
+xây dựng hệ thống mô
+phỏng.
+
+- Nghiên cứu làm chủ các
+thiết bị
+
+- Xây dựng các CSDL, tài
+liệu thiết kế các mô hình
+bom, mìn, vật nỗ.
+
+~ Phân mềm quản lý, tra cứu
+dữ liệu về bom, mìn, vật nỗ
+và thiết bị đò tìm -
+
+~- Phần mềm mô phỏng cấu
+tạo, nguyên lý hoạt động, xử
+lý an toàn các loại bom mìn
+và vật nỗ thường gặp .
+- Phần mềm hỗ trợ lập kế
+hoạch rà phá bom mìn phục
+vụ huấn luyện chỉ huy phân
+đội rà phá bom mìn Đã nghiệm thu năm 2018 
+1285 125 53.300 0/46.600 
+Câp đên
+năm 2018:
+6400 -
+Dự kiến
+kinh phí
+năm 2019:
+46.600 
+nững cao hiệu quả công tác
+quản lý và khai thác Mạng
+thông tin chỉ huy điều hành
+Quân khu 7 tại Sở Chỉ huy
+thường xuyên Đê tài cập TP.HCM: Nghiên
+cứu, xây dựng phần hỗ
+trợ công tác huấn luyện các
+đài ra đa đảm bảo bay phục
+vụ cho máy bay SU-30MK2 Đê tài cập TP.HCM: Nghiên
+cứu tích hợp thiết bị, xây
+dựng phần mềm và cơ sở dữ
+liệu nhằm rút ngắn thời gian
+và chọn vị tr trận địa cho
+tổ hợp tên lửa S-300PMUI Đê tài cập TP.HCM: Nghiên
+cứu thiết kế chế tạo hệ thống
+hỗ trợ điều hành chỉ huy tác
+chiến cho đơn vị Hải quân
+cần Vlg 
+Đê tài KHCN TP. Hô Chí
+Minh “Nghiên cứu xây dựng
+hệ thống phần mềm hỗ trợ
+tính toán phần tử bắn và
+lượng sửa kỹ thuật phục vụ
+công tác huần luyện, diễn tập
+tại Lữ đoàn Pháo bỉnh 75,
+Quân khu 7” Để tài cập tỉnh Long An:
+Nghiên cứu chế tạo hệ thống
+bia tự động báo kết quả bắn
+đạn thật sử dụng nhiều lần
+bằng súng bộ bình Viện CNTT
+ThS Huỳnh
+Huy Cường Nguyễn Trí
+Đức 
+Viện CNTT
+Th§ Thái
+Văn Quốc Phạm Thị
+Hồng
+Thanh Phước Huy
+— Đại tá CN
+Trịnh Văn
+Xa 03/2016
+đến tháng
+11/2017
+(gia hạn
+đến tháng
+12/2018) 
+08/2016
+đến tháng
+02/2018,
+gia hạn
+08/2018) 08/2016
+đến thắng
+02/2018,
+gia hạn
+08/2018) 10/2016
+đến tháng
+04/2018 06/2018-
+12/2019 
+Đã nghiệm thu năm 2018 “Triên khai theo kê hoạch “Triên khai theo kê hoạch BCH QS Tỉnh Long An 
+Đã nghiệm thu năm 2018 Đã nghiệm thu năm 2018 1.080 1.020. 
+740 850 180 110 
+100 709 405 
+13 Nghiên cứu hoàn thiện hị
+thống công nghệ thông tin
+ứng dụng trong huấn luyện
+diễn tập chỉ huy cơ quan cấp
+trung, sư đoàn trên bản đồ tại
+Sở chỉ huy và ngoài thực địa Nghiên cứu hoàn thiện, phát
+triển hệ thống phần mềm tính
+toán ứng dụng chiến đấu sử
+dụng phương tiện sát thương
+hàng không tiêu diệt mục
+tiêu mặt đất, mặt nước. Nghiên cứu, xây dựng hệ
+thống tự động thu thập, phân
+tích, tổng hợp thông tin, hỗ
+trợ công tác theo dõi, điều
+hành chỉ huy, ra quyết định
+trong lĩnh vực thông tin tình
+báo 
+Nghiên cứu thiết kê, chế tạo
+hệ thống mô phỏng máy điều
+khiển bắn pháo MR-123-02
+MOD 3 trên tàu 1241.8 Đề tài cấp Viên HCNOS NHIEM VYU CÁP CƠ SƠ Đê tài KHCN tỉnh Đông Nai
+“Nghiên cứu xây dựng bộ
+công cụ hỗ trợ công tác huấn
+luyện kíp chiến đầu Sở Chỉ
+huy tại đơn vị phòng không
+cấp trung đoàn có khí tài hỏa.
+Tực” ứng đụng cho e93/f367 
+Minh “Nghiên cứu, chế tạo
+thiết bị luyện tập kíp chiến
+đấu tổ hợp tên lửa s-75 trên
+cơ sở thiết bị TBLTS-75” 1// Nguyễn
+Thái Học 2/! Nguyễn
+Sinh Huy 3// Nguyễn
+Nhật An 
+4/ Dương
+Hồng
+Trường Bảo 12/2017-
+12/2018 07/2017-
+12/2018 
+01/2017-
+06/2018 12/2016
+06/2018 019-2020 Chuẩn bị nghiệm thu cấp
+quản lý. Sản phẩm ứng dụng.
+cho fBB325/QĐ2 
+ho
+ẩm ứng dụng cÍ l
+ñ đường/QC PK.
+hồng Dẫn âu g/QC
+Phòng m Sản phẩm ứng dụng cho
+Tổng cục II Sản phẩm ứng dụng cho
+Quân chủng Hải quân Đã thâm định kinh phí. Chờ
+ký hợp đồng thực hiện 
+1.980 2.480 820 1.350 
+2.460 §50 
+19 _1.8— 17 1.6 
+1,6 1.5 Nghiên cứu thiết kê, chế tạo.
+giá thử máy thu xử lý quang,
+âm AOII của đài ra đa
+Tớ :n cứu hoàn thiện, nâng.
+cấp và đưa vào áp đụng thử
+hệ thống hỗ trợ chuẩn bị bay
+sp trune đoàn Không quân 
+Hoàn thiện và đưa vào sản
+xuất loạt “0” thiết bị VIKO-
+VNOI Hoàn thiện và đưa vào sản
+xuất loạt “0” thiết bị giả dạn.
+IR-60 Nhiệm vụ hoàn thiện công
+nghệ “Hoàn thiện và đưa vào.
+sản xuất loạt 0 giá kiểm tra,
+chuẩn đoán hỏng hóc các
+mảng chức năng ra đa Kasta-
+2E27 Các nhiệm vụ khác 
+dữ liệu lớn ứng dụng trong
+
+ 
+
+tôi ưu bài toán truy vẫn dữ
+liêu không gian Nghiên cứu cơ sở Hoàn thiện thiết kê, chê tạo
+khối tính toán BMI của hệ
+thống điều khiển phóng tên
+lửa KACY 3P-60V2 2// Nguyễn
+Thái Học 
+2// Nguyễn
+Văn Sơn 4/ Nguyễn
+Duy Nam 2// Cao
+Đăng Huy 4/ Đỗ Xuân
+Ngọc 
+1/ Nguyễn
+'Trọng Thể 4/ Nguyễn
+Tuấn Anh 01/2018-
+12/2018 01/2018-
+12/2018 
+01/2018-
+12/2018 11/2018-
+11/2019 01/2018-
+01/2019 03/2018-
+12/2018 
+01/2018-
+12/2018 Đã nghiệm thu. Kết quả
+phục vụ công tác nghiên cứu Chuẩn bị thử nghiệm theo
+kế hoạch của QC HQ. Chuẩn bị họp hội đồng thâm
+định đồng dấu *A” 
+Đang hoàn thiện hô sơ thiệt
+kế chuẩn bị thâm định đóng
+đấu “A” Chuẩn bị họp hội đồng thẩm
+định đóng dấu “A” Triển khai theo kế hoạch Chuẩn bị nghiệm thu cắp
+quản lý. Sản phẩm ứng dụng.
+cho f371/QC PK-KQ 
+2.300 1.490 50 200 
+300 200 200 1.063 
+30 200 300 200 
+200 2.300 ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KQ-3
+
+KÉT QUÁ THỰC HIỆN NHIỆM VỤ HỢP TÁC QUỐC TÉ VÀ TRONG NƯỚC
+'VẺ KHOA HỌC CÔNG NGHỆ NĂM 2018, 2019
+Đơn vỉ tính: Triều đồng
+
+10
+Cộng Tên
+nhiệm vụ Cơ quan
+chủ trì Đối tác
+thực hiện 
+Tên người,
+chức, địa điểm
+và thời gian
+cam kết, Tên
+và thời gian ký:
+kết văn bản,
+Cơ quan để
+nghị (số công
+văn và thời
+gian, địa chị) Xuất xứ của
+yêu cầu hợp
+tác, mức độ
+xét duyệt và
+cam kết Kết quả thực
+hiện nội dung
+hợp tác Tổng
+KP 
+Phía
+đôi
+tác Phí Kinh phí ì¡ cơ quan cÌ 
+Khác Ghi
+chú máy điều khiển bắn
+pháo MR-123-02
+MOD 3 trên tàu
+12418
+
+ 
+
+ 
+
+KHCNQS “Nghiên cứu thì kế, chế
+tạo hệ thống mô phỏng máy điều khiển
+bắn pháo MR-123-02 MOD 3 trên tàu
+1241.8°
+
+ 
+
+ 
+
+thống mô phỏng huấn luyện phục vụ cho
+quân đội, nhất là đối với các đơn vị của
+Quân chủng Hải quân, từ đó góp phần nâng
+cao chất lượng công tác huấn luyện sẵn
+sàng chiến đấu, làm chủ trang thiết bị, vũ
+khí, khí tài hiện đại của đơn vị.
+
+- Nâng cao trình độ khoa học công
+nghệ, tích lũy những kiến thức nền tảng cho.
+đội ngũ cán bộ nghiên cứu.
+
+- Việc ứng dụng các sản phẩm mô
+phỏng do quên đội ta thiết kế, chế tạo góp
+
+ 
+
+phần giảm chỉ phí mua sắm các hệ thống
+
+ 
+
+'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KQ-4
+KÉT QUÁ NGHIÊN CỨU KHOA HỌC CÔNG NGHỆ NÓI BẬT NĂM 2018, 2019
+Tên sản Tiiện quả kinh tế-xã hội
+Số hẳm/côn „ Xuất xứ (Giải trình chỉ tiết giá trị làm lợi so sánh với Ghi chủ
+TT | qh/côm nhị ệ (ghỉ rõ xuất xứ của nhiệm vụ...) | sản phẩm công nghệ cùng loại, ý nghĩa kinh
+ø ng tế xã hội, môi trường...)
+T_[ Thiết bị xử lý trung |Sản phẩm của để tài cấp Viện |- Việc chế tạo sản phẩm ARMOS-VN tăng
+tâm ARMOS của tổ | KHCNQS “Nghiên cứu thiết kế chế | cường khả năng đảm bảo kỹ thuật, làm chủ
+hợp NKVS-27 làm | tạo hệ thống điều khiên trung tâm của | vĩ khí trang bị của quân đội, sẵn sàng thay
+việc với máy bay | tô hợp đối không mặt đất NKVS-27 | thế kịp thời khi có hỏng hóc đáp ứng yêu
+Su-30MK2 làm việc đồng bộ với máy bay Su27- cầu tác chiến của trung đoàn có Su-30MK2.
+SK2 và Su30-MK2” ~ Sản phẩm thay thế được nguyên mẫu tiết
+kiệm được chỉ phi mua mới từ phía nhà sản
+=== - - ¬ -_ | xuấtcững như chỉ phí-mời chuyên gia.. ——
+2 | Hệ thông mô phòng | Sản phẩm của để tài cấp Viện|  - Làm chủ công nghệ xây dựng các hệ
+bắn | KHCA
+-02 | tạo hệ
+tàu | bắn pÌ ø tâm của
+NKVS-27 | th
+bay Su27- | cầu tác
+
+ 
+
+ 
+
+3 trên tàu sánh với
+›hĩa kinh.
+
+VN tĩng
+làm chủ
+sàng thay
+ứng yêu
+
+ơn vị của
+phần nâng,
+luyện sẵn
+
+ 
+
+học công,
+n tầng cho
+
+phẩm mô
+hế tạo góp
+
+ 
+
+ 
+
+c hệ thống
+
+Gh chú 12
+mô phỏng đất tiên của nước ngoài đông
+thời cũng góp phần tiết kiệm chỉ phí, thời
+gian đáng kể, đảm bảo an toàn tuyệt đối cho
+công tác huấn luyện thường xuyên của đơn
+vị. ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KQ-S
+
+KÉT QUÁ THỰC HIỆN ĐẦU TƯ, NÂNG CAO NĂNG LỰC PHÒNG THÍ NGHIỆM NĂM 2018, 2019
+Đơn vị tính: Triệu đồng
+
+13
+Số
+õ ụ Tên
+hạng mục Ngân sách Bộ KH&ĐT 
+Ngân sách Bộ KH&CN Ngân sách Quôc phòng Dự án Phòng thí nghiệm Ngân sách Quôc phòng. 
+Bảo dưỡng, sửa chữa, xây
+dưng nhỏ PTN Ngân sách khác. Công Ngân sách Bộ KH&CN 
+Chủ
+đầu Địa
+điểm
+đầu tư Thời
+gian
+thực
+hiện Kết quả
+thực hiện 
+Khối
+
+lượng
+
+hoàn
+thành (%) Tông mức
+đầu tư
+được
+duyệt KP cấp
+năm 2018 Kinh phí 
+KP cấp
+năm 2019 Ghỉ rõ số QĐ.
+phê duyệt dự
+" Ghi chú 'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN. BIÊU KQ-6
+
+KÉT QUÁ KHAI THÁC PHÒNG THÍ NGHIỆM NĂM 2018, 2019
+Đơn vị tính: Triệu đồng
+
+14
+Số Công Tên
+Phòng thí nghiệm Đơn vị
+chữ
+quản 
+Sô lượng các
+nhiệm vụ, hợp
+đồng thực
+hiện trong
+sửng, Tổng
+kinh phí
+thu được Sữa chữa,
+bão dưỡng,
+nhỏ Bỗ sung tái
+đầu tư cho
+PTN 
+šc khoản chỉ Chỉ vật tư
+tiêu bao,
+năng lượng Chỉ bôi
+dưỡng cán Trích nộp
+theo chế
+độ 
+Ghi
+chú ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIÊU KQ-7
+
+KÉT QUẢ THỰC HIỆN CÁC NHIỆM VỤ, DỰ ÁN BẢO VỆ MÔI TRƯỜNG NĂM 2018, 2012
+Đơn vị tính: Triệu đồng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thôi | Đơnvichủ | Kinhphíđược -=
+Số | TTênnhiệmvụ, | gian | trìthực duyệt Tiên ki Đơn vị sử Kết quả đạt đi
+TT dự án thực | hiệu Chủ | rạy | Năm |Năm giải ngân | dung, _— ltpR Bgirditoge
+Tnn | 3u te |TÔNg | 201g |2019 | hôm ŒÓ) giữ kết quả
+1 | Nhiệm vụ thường xuyên: :
+1 | Xây dựng cơ sở dữ | 6/2018-| Viện Công| 760| 760 100% — | CụcKHQS | Đã nghiệm thu cấp quản lý
+liệu, thông tin về | 12/2018 |nghệ thông
+môi trường các cơ tin
+sở công nghiệp
+quốc phòng, - -
+ET”
+
+ 
+
+ 
+
+T [Nhiệm vụ, dự án trọng điểm. cấp bách, nhiệm vụ chuyên môn, ...
+Thời | Đơn vị chủ Xinh phí được tu:
+nvụ, | gian | trìthực duyệt Tiên ki An vị sử Kế
+thực | hiệu Chủ | rạy | Năm |Năm ¬—— _— vênQ
+Tnn | 3u te |TÔNg | 201g |2019 | hôm ŒÓ) giữ kết quả
+thường xuyên: R
+ø sở dữ | 6/2018 - | Viện Công| 760|_ 760 100%  |CụeKHQS | Ðãnghiệm
+tin về | 12/2018 |nghệ thông
+các cơ tin
+nghiệp
+
+ 
+
+ 
+
+ 
+
+ 
+
+-dự ân trọng điểm, cấp bách, nhiệm vụ chuyên môn, ‹.. Thời
+gian
+thực
+hiện ong điền ¡cấp bách, nÌ 
+760 Năm
+2018 760 Năm
+2019 
+Cục KHQ§ được
+
+ 
+
+quản lý ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIÊU KQ-8
+„_KẾT QUÁ THỰC HIỆN NHIỆM VỤ BIÊN SOẠN, IN ÂN
+TÀI LIỆU HUẦN LUYỆN, TÀI LIỆU DẠY HỌC NĂM 2018, 2019
+Kết quả biên soạn Kết quả nấn | „ Kinh _
+Số Đơn vị - (triệu đồng) Ghi
+'Tên tài liệu k2 à Chưa Đã Đã in ï `
+TT : thực hiện | Hoàn | loạn | thấm | Chưa | lấn | Chựa | Biên | In chú
+thành | qành | định [thâm định ,uyậm | Ìn ấn | soạn ấn
+4 2 6) @ 6) 4) [2] (8) @)_| 0 | (11) q2
+I | Điều lệnh, điều lệ và tài liệu
+huấn luyện quân sự.
+
+1_ | Biên soạn mới
+
+2 | Chãh sửa
+
+1 | Tài liệu xã hội và nhân văn
+
+quân sự
+
+1 | Biên soạn mới
+
+2 | Chính sửa
+
+TT | Tài liệu đạy học
+
+1 | Biên soạn mới
+
+2 | Chnh sửa
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cộng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Ghi chú: Cột (4), (3), (6), (7), (9): đánh dấu X vào cột thể hiện kết quả đã thực hiện.
+Cột (8): ghỉ rõ số lượng thực tế đã in ấn/số lượng theo kế hoạch Bộ giao.
+Cột (12): giải trình lý do chưa thực hiện được theo kế hoạch, các đề xuất kiến nghị.
+
+16
+1 de. Công Tài liệu xã hội và nhân văn
+ân s 
+Biên soạn mới Chỉnh sửa Biên soạn mới Điêu lệnh, điều lệ và tài liệu
+huấn luyện quân sự 
+Hoàn
+thành Kết quả Chưa
+hoàn
+thành thâm
+đỉnh 
+biên soi MA. Chưa
+thẩm định Kết qui 
+Đầin
+
+H
+(quyền) Chựa
+inấn "
+inấn Biên
+soạn 
+Kin
+(triêu ì phí
+đồng) Ghi
+chú ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BIẾU KQ-9
+KÉT QUẢ THỰC HIỆN NHIỆM VỤ BIÊN SOẠN TỪ ĐIỂN QUÂN SỰ NĂM 2018, 2019
+Đơn vị tính: Triệu đồng
+Kinh phí
+Số Têi Đơn vị “Thời øi: Khối N Tổng kinh | Kinh phí đã > phí
+n ơn vị gian Ất quả rẻ oàn thàn] h DU đề nghị ¡chú
+TT -... M ` Kết quả thực hiện phí được cấp đến Z Ghi chú
+từ điển thựchiện | thực hiện (%) duyệt | măm20, | Chăm
+4) @) @) 4 Ø) LỚ) “ # @) d0
+Cộng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17
+.k3 Tên
+từ điển Công Đơn vị
+thực hiện 
+Thời gian
+thực hiện Kết quả thực hiện Khối lượng,
+hoàn thành
+() Tổng kinh
+phí được
+duyệt 
+TKKinh phí Kinh phí đã
+cấp đến
+năm 20... Kinh phí
+đề nghị
+cấp năm Ghi chú 'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KQ-10
+
+KÉT QUÁ HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ
+NĂM 2018 VÀ CÁC THÁNG ĐẦU NĂM 2019
+
+18
+Số
+"m M 1H Nội dung
+Bài báo, công bổ, giải pháp, kiến nghị, ấn phẩm khoa
+học
+
+¬————=
+“Xuất bàn 02 đặc san “Tin học, ứng dụng và điêu khiên”
+G1 bài báo) 
+Sáng chê, giải pháp hữu ích; Các loại giông giông mới;
+Các loại văc xin mới, chế phẩm mới; Các bản vẽ thiết
+
+kế mới, mẫu máy, thiết bị mới
+
+ 
+
+ 
+
+ 
+
+ 
+
+Doanh nghiệp khoa học và công nghệ được hình thành. Đơn vị chủ trì,
+tết giã Viện CNTT "Tóm tắt nội dung 
+Trình bày các kết quả
+nghiên cứu về tin Thy .Phôi hợp với tạp chí KHCNQS Gửi rõ các bài báo được đăng
+trên các tạp chí quốc tÊ trong
+danh sách ISI, Scopus Ngày, tháng năm (nộp đơn,
+công nhận của Cơ quan có thâm
+quyển) 
+Tên và loại hình doanh nghiệp;
+địa chỉ; giấy phép kinh doanh;
+số quyết định công nhận, nhân Ghi rõ kết quả, hiệu quả thực
+hiện, kèm theo tên nhiệm
+KH&CN: kinh phí thực hi Tên sản phẩm, nhiệm vụ
+KH&CN: tình hình thực hiện. (chia rõ nguồn vốn từ ngân sách
+trung ương; từ bộ, ngành, địa
+phương; doanh nghiệp, Quỹ
+PTKHCN của doanh nghiệp và
+các nguồn khác).
+
+ 
+
+Địự ẩn đầu tư trang thiết bị, công nghệ; dự án tăng
+cường năng lực nghiên cứu.
+
+Đánh giá tỉnh hình thực hiện, số
+kinh phí và nguồn (trong đó ghỉ
+rõ nguồn vốn từ ngân sách trung.
+ương của bộ, ngành, địa
+phương; từ doanh nghiệp, tập
+đoàn, tổng công ty, Quỹ
+PTKHCN của doanh nghiệp và
+các nguồn khác).
+
+ 
+
+Kết quả khác
+
+Ghỉ rõ các thông tím có liên
+quan đến kết quả
+Kết quả khác Dự án đâu tư trang thiệt bị, công nghệ; dự án tăng
+
+cường năng lực nghiên cứu. (chia rõ nguôn vôn từ ngân sách.
+trung ương; từ bộ, ngành, địa
+phương; doanh nghiệp, Quỹ
+PTKHCN của doanh nghiệp và
+mắc randtr LiikŸ, Ghỉ rõ các thông tin có liền
+quan đến kẾt quả 
+Đánh giá tình hình thực hiện, sô
+kinh phí và nguồn (trong đó ghỉ
+rõ nguồn vốn từ ngân sách trung
+ương của bộ, ngành, địa
+phương; từ doanh nghiệp, tập
+đoàn tổng công ty, Quỹ
+PTKHCN của doanh nghiệp và
+cẵn nguồn khác}. ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KQ-1I1
+
+KẾT QUÁ HOẠT ĐỘNG PHỤC VỤ QUÁN LÝ NHÀ NƯỚC
+VỀ KHOA HỌC QUẦN SỰ NĂM 2018,2019
+31 22 21 Sô lượng Quy chuân kỹ thuật mới được áp dụng. 
+Sô lượng Tiêu chuân kỹ thuật mới được áp dụng. Sô phương tiện đo được kiêm định (Công tác tiêu chuân — đo lường - chất lượng Kết quả khác (nêu nỗi trội) 
+Báo cáo thông kê tông hợp SỐ cuộc điêu tra/ sô phiêu thu được tương ứng hông kê KH&CN Nhiệm vụ KH&CN đã đăng ký kêt quả thực hiện 
+Nhiệm vụ KH&CN đang tiên hành “Thông tin về nhiệm vụ KH&CN Xây dựng CSDL (CSDL mới, cập nhập biểu ghỉ
+trong CSDL, số hóa tài liệu đưa vào CSDL,...) Phóng sự trên đài truyện hình 
+Tạp chíbản tin KH&CN. An phẩm thông tin đã phát hành. Bỏ sung, phát triển nguồn tài liệu (ti liệu giấy,
+wụ điện tử, cơ sở dữ Công tác thông tin và thông kê KH&CN 
+Sô sáng kiên, cải Sô các dự án phát triên tài sản trí tuệ được hồ trợ Sô vụ xử lý xâm phạm quyền sở hữu công nghiệp Sô văn băng được câp 
+Sô đơn nộp đăng ký Công tác Sở hữu trí tuệ Số cơ sở được cấp phép đạt tiêu chuân An toàn
+bức xa (Tính đến thời điểm báo cáo) Công tác an toàn bức xa hat nhân 
+Giám định công nghệ hợp đông chuyền giao công nghệ “Thâm định dự án đâu tr Công tác đánh giá, thâm định, giám định và
+chuyển giao công nghệ 
+Nội dung công việc Quy chuẩn Tiêu chuẩn Phương tiện 
+Báo cáo Báo cáo SỐ cuộc/Số
+phiếu Nhiệm vụ 
+CSDL/bieu
+ghi/trang tài
+liêu Buôi phát Tạp chí/bản
+tim Án phâm,
+phút 
+Tài liệu/biêu
+ghiCSDL Vụ 'Văn băng Giây phép 
+Đơn vị Năm
+2018 Các tháng
+đầu năm 2019 uả đạt được
+ễ lượng) 
+Sô hợp đông chuyên giao công nghệ được thực 'Sô công nghệ được chuyển giao, đưa vào ứng
+dụng Sô doanh nghiệp có hoạt động sản xuất, kinh
+doanh trong năm §ô doanh nghiệp có hoạt động đôi mới công nghệ 
+'Số nhiệm vụ hỗ trợ đôi mới công nghệ cho doanh
+nghiệp do BQP phê duyệt. Hoạt động đôi mới công nghệ Số tiên xử phat (nêu có) Số vụ vi phạm phát hiện xử lý 
+Số lượt đơn vị được thanh tra Số cuộc thanh tra Công tác thanh tra Sô mẫu được thử nghiệm và thông báo kết quả. 
+Sô cuộc kiêm tra chất lượng sản phâm, hàng hóa - Sô đơn vị hành chính nhà nước đã công bỗ áp
+dụng hệ thống quản lý chất lượng theo TCVN.
+TSO 9001:2008 Ï Số doanh nghiệp được. Thế | hạn chứng chỉ áp
+dụng hệ thống quản lý chất lượng theo TCVN
+1SO 9001:2008 " Tô chức đào tạo, bôi dưỡng cho đôi tượng thành
+{ 
+Hỗ trợ cá nhân, tô chức, doanh nghiệp, các nhóm.
+nghiên cứu mạnh được ươm tạo công nghệ, ươm.
+tạo doanh nghiệp KH&CN tại các cơ sở và đầu
+mối ươm tạo công nghệ, ươm tạo doanh| nghiệp
+KH&CN Thành lập cơ sở ươm tạo công nghệ, ươm tạo
+doanh nghiệp KH&CN (tập trung viện nghiên
+cứu, trường) Hỗ trợ và hình thành phát triên doanh nghiệp
+KH&CN Công tác hỗ trợ hình thành và phát triển
+doanh nghiệp KH&CN 
+Trọng dụng nhà khoa học được giao chủ trì nhiệm.
+vụ cấp quốc gia đặc biệt quan trọng “Trọng dụng nhà khoa học trẻ tài năng "Trọng dung nhà khoa học đâu ngành Kéo đài thời gian công tác 
+Thăng hạng đặc cách vào hạng chức danh nghiên.
+cứu khoa bọc, chức danh công nghệ Bô nhiệm đặc cách vào hạng chức danh nghiên
+cứu khoa hoc. chức danh công nghệ Công tác sử dụng, trọng dụng cá nhân hoạt
+đông KH&CN “Tông giá trị hợp đông chuyên giao công nghệ 
+Công nghệ Doanh
+nghiệp Nhiệm vụ Vụ 
+Đơn vị Đơn vị Cơ sở nghiệp 
+Người Người Người Đôi tượng. 
+Đôi tượng 2
+Sô lượng doanh nghiệp tham gia Đê án gọi vôn
+được từ các:nhà đầu tư mạo hiểm, thực hiện mua
+bán và sáp nhận/tổng giá trị Sô lượng doanh nghiệp khởi nghiệp đôi mới sáng.
+tạo được hỗ trợ Số lượng dự án khởi nghiệp đôi mới sáng tạo
+được hỗ trợ Sô doanh nghiệp khởi nghiệp đôi mới sáng tạo
+được hình thành (đoanh nghiệp có khả năng tăng
+trưởng nhanh dựa trên khai thác tài sản trí tuệ,
+cloz nhé. mô hình kinh đoạnh tri) 
+Hồ trợ “Hệ sinh thái khởi nghiệp đôi mới sáng
+tao quốc gia đến năm 2025” “Tỷ trọng giao dịch mua bán tài sản trí tuệ Giá trị giao. dịch mnua bán các sản phâm và dịch Hỗ trợ các tô chức khoa học và công nghệ công
+lập chưa chuyển đổi thực hiện cơ chế tự chủ, tự
+chịu trách nhiệm 
+Doanh
+nghiệp/ tổng
+giá trị Doanh
+nghiệp Dự án nghiệp 
+Tr.đ Đơn vị ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+
+KÉT QUÁ BẢO ĐẢM KINH PHÍ, XĂNG DẦU CHO HOẠT ĐỘNG
+
+KHOA HỌC QUẦN SỰ NĂM 2018, 2019
+
+. Kinh phí cho hoạt động khoa học quân sự
+
+BIẾU KQ-12
+
+Đơn vị tính: Triệu đồng
+
+ 
+
+Số
+TT
+
+Nội dung
+
+Kinh phí
+
+ 
+
+Tổng số
+được
+cấp
+
+Trong đó
+
+ 
+
+Kinh | nguồn
+PhÍ | khác
+SNKH
+
+Kinh phí
+đã sử
+dụng
+
+Ghi
+chú
+
+ 
+
+«)
+
+42)
+
+@)
+
+@ @)
+
+(6)
+
+@)
+
+ 
+
+T
+
+Chỉ cho hoạt động KHCN&MT.
+
+ 
+
+1
+
+Nhiệm vụ cấp Nhà nước
+
+ 
+
+- Chương trình KHCN
+
+20.000
+
+20.000
+
+ 
+
+—|_- Đề tài độc lập. - .
+
+20.000
+
+ 
+
+- Dự án XSTN
+
+ 
+
+- Nhiệm vụ hợp tác quốc tế theo nghị định thư
+
+ 
+
+- Nhiệm vụ thuộc chương trình KHCN trọng điểm cấp Nhà nước (KC. KX), phát triển tiềm năng.
+
+1.000
+
+1.000
+
+1.000
+
+ 
+
+- Các nhiệm vụ khác (Chương trình kỹ thuật-kinh tế, nhiệm vụ quỹ gen, nghiên cứu cơ bản
+về khoa học tư nhiên, dự án điều tra cơ bải
+
+ 
+
+ 
+
+ 
+
+Nhiệm vụ nghiên cứu khoa học và PTCN. cấp BQP.
+
+ 
+
+- Chương trình, đề án cấp BQP.
+
+20.270
+
+20.270
+
+20.270
+
+ 
+
+- Đề tài cấp BQP.
+
+ 
+
+~ Nhiệm vụ sản xuất loạt “0”
+
+ 
+
+~ Dự án SXTN cấp BQP.
+
+ 
+
+~ Nhiệm vụ thuộc. chương. trình KHCN trọng điểm (CNTĐH, CNTT, CNVL, CNSH).
+
+ 
+
+= Nhiệm vụ hợp tác quốc tế theo nghị định thư
+
+ 
+
+“
+
+Biên soạn, in ấn tài liệu huần luyện, tài liệu dạy học.
+
+ 
+
+ 
+
+Biên soạn từ điền quân sự
+Số
+TT Biên soạn từ điển quân sự. Biên soạn. in ân tài liệu huân luyện. tài liệu dạy học. ~ Nhiêm vu hợp tác quốc tê theo nghị định thư 
+~ Nhiệm vu thuộc chương trình KHCN trong điểm (CNTĐH. CNTT, CNVL, CNSH). ~ Dư án SXTN cập BỌP.Ầ ~ Nhiêm vu sản xuất loạt “0” ~ Chương trình, đê án cập BỌP. 
+vụ nghiên cứu khoa học và PTCN cấp BỌP.Ầ - Các nhiệm vụ khác (Chương trình kỹ thuật-kinh tê, nhiệm vụ quỹ gen, nghiên cứu cơ bản
+về khoa học tư phiên, dụ án điều tra cơ bải ~ Nhiêm vu thuộc chương trình KHCN trong điểm cấp Nhà nước (KC. KX) phát triển tiềm năng. ~ Nhiêm vu hợp tác quốc tế theo nghị 
+~ Chương trình KHƠN vụ cấp Nhà nước Chỉ cho hoạt động KHCNGMT- Nội dung 
+Tổng số
+được
+cấp Kinh
+phí
+SNKH Kinh phí Nguồn
+khác 
+ậơ đó Kinh phí
+đã sử
+dụng Ghi
+chú 5_ [ Các nhiệm vụ KHCN khác
+- Công tác đánh giá, thâm định công nghệ.
+- Công tác thông tin KHCNMT (không tính phản kinh phí đề nghị cắp từ Trung tâm Thông tỉn KHQS).
+- Công tác xây dựng tiêu chuẩn
+- Công tác sáng kiến, sở hữu trí tuệ
+- Công tác hợp tác quốc tế và KHCN
+- Các nhiệm vụ khác
+6 _ | Nhiệm vụ nghiên cứu cơ sở 6153| 6.153 6153
+7 _ | Xây dựng tiềm lực KHCN
+~ Dự án đầu tư PTN.
+- Sửa chữa xây dựng nhỏ
+- Xây dựng văn bản quy phạm pháp luật
+- Tập huấn KHCN.
+TỊ_ | Chỉ cho nhiệm vụ bảo vệ môi trườn;
+1_ | Nhiệm vụ dự án cấp Bộ,
+2-_ | Nhiệm vụ dự án cấp cơ sở 760| — 760 760
+3_ | Nhiệm vụ/ dự án thuộc đề án hoặc chương trình mục tiêu quốc gia
+THỊ. | Hoạt động nghiên cứu KHCN phối hợp với các tô chức KHCN.
+TẾ | Hoạt động dịch vụ KHCN
+Cộng: 48183 | 48483| 48183| 48.183
+1. Xăng dầu cho hoạt động khoa học, công nghệ và môi trường:
+Đơn vị tính: Lút
+STT ï Chỉ tiêu xăng dâu được cấi Thực tế đã :ehá
+Đơn vị Tổngsố | Nguồn KHCN Ngôn khác sử dụng. Ghi chế
+1 | Viện CNTT 4.365 4.365
+2
+Cộng
+Ị HH STT Công 
+Viện CNTT Đơn vị 4365 _ Thực tê đã
+sử dụng ˆ 
+4365 760 48.183 Cân đổi t 
+Thừa 760 48.183 Đơn
+vừa/thiểu
+Thiếu 
+760 vị tính: Lắt
+
+Ghi chú Lít BIÊU KQ-18
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+THÓNG KÊ CÁN BỘ KHOA HỌC CÔNG NGHỆ VÀ CHỨC DANH SỸ QUAN CM-KT-NV
+S “ân có Chức danh SQ CM-KT-NV
+số | Tên tổ chức ¬ Nhân lục hiện có đến 30/ nạ đã được công nhận. Ghi
+TT | nghiên cứu phát | Tông Giá | Phố |Tiếnsỹ Tiên |Thạc| Đi — | Tống | Cao Khối | chú
+triển BI số Ầ Tá | mesg| KH | SẼ LỘ học | Khác | só | dế Chính | aàu
+q) _) 6) (@ }_® 4) Øø | ® @ | 9 a0) | 2 @3) | 9 g3)
+Viện CNTT ] 135 14 “4 44 14 105 01/04 | 01105
+| t
+— - : |- ]
+L
++}
+can 1 Ì Ì }L ——~
+ong năm/Tổng số đã được công nhận tính đến lệ báo cáo (với toàn bộ các.
+
+ 
+
++% Ghi chú: Cột (1Ù. (12, (13).
+loại chức danh)
+
+(14): Ghỉ rõ số người được quyết định tr
+
+›—'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIÊU KH -1
+
+KÉ HOẠCH THỰC HIỆN CÁC NHIỆM KHOA HỌC VÀ CÔNG NGHỆ CÁP QUỐC GIA NĂM 2020
+Đơn vị: Triệu đồng
+
+26
+MHI. II. Số Các Chương trình KH&CN độc lập 
+Chương trình “Nghiên cứu, đào tạo
+và xây dựng hạ tầng kỹ thuật công,
+nghệ cao”
+
+- Dự án KHCN cấp Nhà nước:
+Nghiên cứu, thiết kế, xây dựng hệ
+thống tác nghiệp, tính toán, thể hiện
+phương án tác chiến biển đảo trên
+nền hỏi để số và sa bàn số 3D Chương trình quôc gia về KH&CN:
+SPQG; Chương trình quốc gia phát
+triển công nghệ cao; Đổi mới công
+nghệ quốc gia. Chương trình KH&CN Tên
+Chương trình/tên nhiệm vụ. 
+Nhiệm vụ thuộc các Chương
+tổình sine cho cắc bỗ, ngành quân Nhiệm vụ thuộc chương trình
+KHCN trọng điểm Các chương trình khác ~ Viện Công.
+nghệ thông tin
+- Trung tá Th§
+Nguyễn Đức.
+Định 
+Cơ quan chủ
+trì/Chủ nhiệm Bắt
+đầu Thời
+thực 6/2018 
+Kết
+thúc gian Tổng số Kinh phí 
+Đã cấp
+đến hết
+năm 2019 86.772 Dự kiên
+kinh phí
+năm 2020 9.228 
+Ghỉ chú Dự kiên kinh
+phí cấp đủ.
+2019: 66.722 ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN Biểu KH-2
+
+KÉ HOẠCH THỰC HIỆN CÁC NHIỆM VỤ NGHIÊN CỨU KHOA HỌC CÔNG NGHỆ
+CÁP BỘ QUỐC PHÒNG NĂM 2020
+Đơn vị tính: Triệu đồng
+
+28
+1.1.1 “Nghiên cứu. thiết
+kế, chế tạo máy
+KUI63C-VN - dựa
+theo nguyên mẫu
+máy KW1ó3l và
+tích hợp thành hệ
+thống tự động điều
+khiển phóng tên lửa
+Kh-35E theo mẫu
+KACV 3P-60V2- Đê tà KCT-27
+“Nghiên cứu thiết
+kế và chế tạo khối
+chức năng
+THHI19VN,
+
+TIBB34VN — trong
+máy - tính - trên
+khoang BI[BM-20-
+701 của đạn tên lửa
+3M242” Chương — trình
+KHCN 
+'Tên nhiệm vụ
+nghiên cứu Khoa
+học và công nghệ 4// Phạm Hông
+Long 1/⁄/ Nguyên
+Minh Thường Cơ quan
+chủ trì,
+Chủ nhiệm
+nhiệm vụ 
+Mục tiêu và
+nội dung
+chính, sản
+phẩm Đảm bảo tiến
+độ. Triển khai
+đầy đủ các nội
+dụng - nghiên
+cứu Đảm bảo tiến
+độ. Triển khai
+đầy đủ các nội
+dung nghiên
+cứu Đảm bảo tiến
+độ. Triển khai
+đầy đủ các nội
+dung nghiên
+cứu 
+Đơn vị ứng
+dụng QCHQ QCHỌQ Bắt đầu 
+8/2017 8/2017 Kết thúc Kết thúc 
+7/2020 02/2020 “Tổng kinh
+phí đã
+được
+duyệt
+hoặc đề
+xử, 14.600 
+7.160 Kinh phí 7.160 KP
+nhận đến
+năm 2019 
+KP đề
+nghị cấp
+năm 2020 Ghi chú Dự kiến cấp
+đủ kinh phí
+năm 2010:
+2.100 phí cấp đủ
+năm - 2019:
+1.600 12418”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+112 |Đề tài KCT-30:| 4/DươngPhú | Hẹ thống tự|- Cục Kỹ |12/2017 | 12/2020 | 33400 | 13.000 | 204400 | Dự kiến cấp
+“Nghiên cứu thiết Tuần động kiểm tra | thuật — Hải đủ kinh phí
+Ni c0 hệ thông đạn tên lửa | quân. năm 2019:
+tự động kiểm tra c S .
+ên lửa Kh.35E dựa Km TS an
+theo nguyên lý hoạt 696/Vùng 2/
+động của hệ thống HQ
+ACK6.3”
+
+1.14 |Để tài KC.T-32: | 1// Nguyễn Thái | Thiết bị Stend- |- Cục Kỹ | 12/2017 | 12/2020 | 7.450 5.260 2.190 | Dự kiến cấp
+“Hoàn thiện thả Hòa  -[S074M kiểm |thuật Hải đủ kinh phí
+kế và chế tạo thiết tra hệ thống IỊ- | quân. 2019: 3.250
+đồng 074 - Căn cứ
+quán tính 074 696/Vùng 2
+của đạn tên lửa Kh- HQ
+35E" :
+
+1.1.5 | Chương trình | 2; Đã Việt Bình | Đảm bảo tiến | Binh chủng | 11/2017 | 04/2020 | 52.900 | i6000 | 36:900 | Dự kiến cấp
+KC.BM “Nghiên z độ. Triển khai|Côngbinh |_. _|_ --E - - —| ——|kiủh - -phí
+
+——[zửn, thiết Kế, xây [_ c đây đủ các. 2019: 10.700
+dựng các hệ thống. dung nghiên
+mô phỏng huấn cứu
+luyện, đào tạo phục
+vụ cho nhiệm vụ rà
+phá bom mìn, vật
+nổ”
+
+II.1.6 | Chương trình. 4/ Nguyễn Tuấn - Cục Kỹ| 2019 2020 11.500 5.200 5.300 | Đang đề xuất
+KC.KT “Nghiên Anh thuật — Hải Dự kiến cấp
+cứu khai thác làm quân, đủ kinh phí
+chủ hệ thống điều 001, M360-|. Căn cứ 2019: 5.200
+khiển toàn tàu 002 của hệ '696/Vùng 2/
+
+Paladi-M trên tàu thống  Paladi- | HQ
+ngằm Kilo 636” M
+
+1.1.7 | Chương trình. 1⁄4 Đinh Văn | Tổ hợp | - Quân chủng |_ 2019 2020 7.400 4.400 3.000 | Đang đề xuất
+KCKT “Nghiên | Ngọc NKV§-27 rút| PK-KQ Dự kiến cấp
+cứu khai thác làm
+
+ 
+
+2
+124186” kế và chế tạo thiết
+bị, kiểm tra hệ
+thống điều khiển
+quán tính IỊ-074
+của đạn tên lửa Kh-
+35E" “Nghiên cứu thiết
+kế chế tạo hệ thống
+tự động kiểm tra
+tên lửa Kh-35E dựa
+theo nguyên Lý hoạt
+động của hệ thống
+_ACK6.3”” Chương trình
+KC.KT “Nghiên
+cứu khai thác làm 
+Chương trình.
+KC.KT “Nghiên
+cứa khai thác làm
+chủ hệ thống điều
+khiển toàn tàu
+Paladi-M trên tàu
+ngắm Kilo 636” Kế, xây
+dựng các hệ thông
+mô phỏng huấn
+luyện, đào tạo phục
+vụ cho nhiệm vụ rà
+phá bom mìn, vật
+nỗ” 1// Nguyễn Thái
+Hòa - 4/ Dương Phú
+Tuân 
+1⁄ Đỉnh Văn
+Ngọc 4/ Nguyễn Tuấn
+Anh 2// Đỗ Việt Bình. Đảm bảo tiến
+độ. Triển khai 
+Thiết bị Stend-
+S074M_ kiểm
+tra hệ thống IỊ-
+074 TỔ hợp
+NKVS-27 rút Máy tính điều
+khiển trung
+tâm  M360-
+001, M360-
+002 của hệ
+thống Paladi-
+M - Cục Kỹ
+thuật — Hải
+quên.
+- Căn cứ
+696/Vùng 2/
+HQ 
+~ Quân chủng,
+PKKQ - Cục Kỹ
+thuật — Hãi
+quân.
+
+- Căn cứ
+-696/Vùng_2/ Binh chủng
+Công bình - Cục Kỹ
+thuật — Hải
+quân.
+
+- Căn cứ
+696/Vùng 2/ 
+12/2017 2019 2019 11/2017 
+12/2017 2020 2020 04/2020 
+12/2020 12/2020 7.400 11.500 
+52.900 7.450 33.400 16.000 
+5.260 13.000 4.400 3.200 
+36.900 2.190 20.400 3.000 
+5.300 2019: 10.700 Dự kiến cấp
+đủ kinh phí
+2019: 3.250 đủ kinh phí
+năm 2019:
+7.000 
+Đang đề xuất
+Dự kiến cấp Đang đề xuất
+Dự kiến cấp
+đủ kinh phí
+2019: 5.200 chủ và thiết kế chế sọn làm việệ|~ Các Trung đủ Kinh phí
+tạo tổ hợp NKVS- đồng bộ với | đoàn KQ 2019: 4.400
+27 của đài dẫn bay máy bay Su-
+của Trung đoàn 30MK2
+Không quân”
+2 | ĐŠïài độc lập
+21|Đề di 1T
+3 |NHiệm vụ thuộc
+các chương trình
+KHCN trọng điểm
+3.1 | Công nghệ tự động
+hoá
+311 |Nhệm vụ 1
+3⁄2
+3.21
+3.3. | Công nghệ sinh học
+3.3.1 | Nhiệm vụ 1
+4 | Dự án sản xuất
+thử nghiệm
+41 [Dựánl
+5ˆ | Nhiệm vụ sản xuất
+loạt “0”
+5.1 | Nhiệm vụl
+6 | Cấc nhiệm vụ khác
+Cộng 134410| 65620| 67790 | Dự kiến kinh
+phí cấp đủ
+năm 2019:
+34:250.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30
+3I 41 33.1 33 
+3.2 31 21 Cộng 
+Các nhiệm vụ khác Nhiệm vụ 1 Thiệm vụ sản xuất
+loạt “0” Dự án sản xuất
+thử nghiệm 
+Nhiệm vụ Công nghệ sinh học. Công nghệ vật liệu. Công nghệ tự động
+tioế 
+Nhiệm vụ thuộc
+các chương trình
+KHCN trong điểm 'Đề lài độc lập chủ và thiệt kê chê
+tạo tổ hợp NKV§-
+27 của đài dẫn bay
+của Trung đoàn
+Không quân" - Các Trung
+đoàn KQ 
+134.410 67.790 đủ kính phí
+2019:4.400 Dự kiến kinh
+phí cấp đủ
+năm 2019:
+34.250 ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+
+BIỂU KH-3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KÉ HOẠCH NHIỆM VỤ NGHIÊN CỨU KHOA HỌC CÔNG NGHỆ
+CÁP CƠ SỞ TRONG NĂM 2020
+Đơn vị tính: Triệu đồng
+Cơ quan Thời gian
+Số | Tên nhiệm ŸỚ Mục tiêu „ nội đụng nghiên | Dự kiến sản phẩm và kếtquã | gặu TP Í Kinh | Ghỉ
+TT vụ nhiệm cứu chín) đạt được phí | chú
+nhiệm vụ
+() 42) 3) lổ) @) (6) 0) 8) 9)
+1 | Nghiên cứu | Viện 1) Mục tiêu —. 1)Bộ tài liệu chuyên để 2020 | 2021 | 3.500
+tiết kế chế| CNTT, 1// | - Nghiên cứu, thiết kế, chế tạo và thử | ø) 36 (ải ấu bao gầm: _
+tạo máy tính | phạm Văn | nghiệm máy tính trung tân I[BM của |+ Tài liệu chuyên đề khảo sát,
+trung - tâm | Hạ, khối tính toán BC thuộc tổ hợp pháo - | nghiên cứu tổng thể hệ thông _
+——HPM của|”* tên Hừa phòng không Palma trên tàu | Palma, BC và máy tính trung tâm
+khối tính toán Gepard 3.9 có tính năng tương đương | I[BM.
+BC thuộc Tổ với nguyên mẫu của Nga. + Tài liệu nghiên cứu cơ chế,
+hợp pháo — 2) Nội dung nghiên cứu chính | phương thức, nguyên lý làm việc
+tên lửa phòng “Khảo sát nghiên cứu tổng thể hệ | của máy tính trung tâm [BM.
+không thống Palma, BC và máy tính trung | + Tài liệu chuyên đề nghiên cứu,
+Tlamwa tâm IBM: - cấu hình phần mềm của máy tính
+(Œalma) trên + Nghiên cứu, khảo sắt tổng thể hệ | trung tâm IIBM.
+tàu - Gepard thống Palma. b) Chỉ tiêu kỹ thuật chủ yêu của sản
+3.9. + Nghiên cứu, khảo sát khối tính toán phẩm:
+BC. . - Các tài liệu có được lập theo mẫu
++ Nghiên cứu cấu hình phẩm mềm | quy định, có nội dung đây đủ, được
+máy tính Trung tâm __ trình bày rõ rằng và khoa học.
+- Nghiên cứu cơ chế, phương thức, | 2) Máy tính trung tâm IBM
+nguyên lý làm việc của máy tính trung | Chỉ riêu kỹ thuật chỉ yếu của sảm
+tâm IBM: phẩm:
++ Nghiên cứu cơ chế lầm việc giữa |- Sản phẩm có tính năng tHƠBg
+
+ 
+
+31
+Số | Tên!
+
+ 
+
+ 
+
+(4) (
+1 phiên | Dự
+
+ạo và thử | 4)
+LIBM của | + T
+ợp pháo — | nghỉ
+. trên tâu | Palr
+ng đương | IIB]
+
+nh. phư
+\g thể hệ | của
+tính trung | + T
+ng thể hệ | trur
+¡ tính toán | phí
+phần mềm | quà
+
+rơng thức, | 2) ]
+tính trung | Ch
+
+ 
+
+việc giữa | - ! hời gian
+
+ 
+
+ 
+
+ 
+
+ất | Kết
+
+u | thúc | Kinh | Ghỉ
+phí | chứ
+
+6) (@) (8) @)
+
+20 | 2021 | 3.500 lan
+
+thúc
+
+2021 32
+Nghiên cứu,
+xây dựng bộ
+công cụ phân
+tích — xử lý
+tiếng nói và
+văn bản tiếng
+Việt trên nền
+tảng trí tuệ Thượng tá,
+TS Nguyễn
+Nhật An,
+Viện CNTT 1) Mục tiêu
+
+Nghiên cứu, ứng dụng các kỹ thuật
+ứng dụng trí tuệ nhân tạo trong Xử lý
+ngôn ngữ tự nhiên để thiết kế, xây
+dựng bộ công cụ phân tích - xử lý
+tiếng nói và văn bản tiếng Việt nhằm
+thay đổi phương thức tương tác người
+~ máy ứng dụng trong thông minh hoá máy tính trung tâm và các thành phân
+trong khối BC.
+
++ Nghiên cứu phương thức làm việc
+khối đầu ra số - tương tự.
+
++ Nghiên cứu phương thức làm việc
+khối đầu vào tương tự số.
+
++ Nghiên cứu nguyên lý làm việc của
+thiết bị xuất nhập thông tin
+
+- Thiết kế chế tạo phần cứng, k„ng
+vỏ Máy tính trung tâm IIBM:
++ Lên cấu hình, lựa chọn phẫn cứng.
+Cài đặt, cấu hình phần mềm lên
+phần cứng mới.
+
++-Thiết kế, chế tạo khung vỏ máy tính.
+- Lắp ráp, thử nghiệm, hiệu chỉnh. 
+1)Bộ tài liệu chuyên đề
+
+4) Bộ tài liệu bao gầm:
+
++ Tài liệu nghiên cứu về Nghiên
+cứu cơ bản về Trí tuệ nhân tạo (Học
+máy: machine leaming, deep-
+leaming trong xử lý tiếng nói và
+văn bản tiếng Việt) đương với nguyên mâu của Nga.
+
+- Sản phẩm đạt các chỉ tiêu về an
+toàn điện.
+
+- Đảm bảo các chỉ tiêu môi trường
+theo quy định.
+
+3) Bộ tài liệu khoa học
+
+4) Sản phẩm bao gẫm:
+
++ Các báo cáo: Báo cáo khoa học
+tổng kết đề tài, báo cáo tóm tắt đề
+tài
+
++ Các tài liệu kỹ thuật Bản vẽ
+Thiết kế cơ khí; Thuyết minh kỹ
+thuật và Hướng đãn sử dụng.
+
+9) Chỉ tiêu kỹ thuật chủ yếu của sản
+phẩm:
+
+Các báo cáo được lập theo mẫu quy
+định, có nội dung đầy đủ, được
+trình bảy rõ rằng và khoa học.
+
+Các tài liệu kỹ thuật có nội dung
+đầy đủ, được trình bày rõ rằng và
+khoa học, theo mẫu của Phòng Kỹ
+Thuật và được Viện CNTT phê
+duyệ
+4) Bài báo
+
++ 01 bài báo thông tin khoa học
+đăng trên tạp chí Nghiên cứu Khoa
+học - Viên KHCNOQS. 2020 2021 
+2.800 33
+nhân tạo
+
+ 
+
+(thay đôi
+phương thức
+tương — tác
+người - máy)
+ứng dụng
+điều khiển
+cho các hệ
+thống chỉ
+huy, tham
+mưu, điều
+
+hành. các hệ thông chỉ huy, tham mưu, điêu
+hành.
+
+2) Nội dung nghiên cứu chính
+
+- Nghiên cứu cơ bản về lĩnh vực xử lý
+tiếng nói sử dụng trí tuệ nhân tạo giải
+quyết các bài toán nhận dạng tiếng nói
+tiếng Việt (speech to tex0, tổng hợp
+tiếng nói tiếng Việt (fext to speech)...
+nhằm nhận dạng lệnh điều khiên.
+
+~ Nghiên cứu cơ bản về lĩnh vực xử lý
+văn bản sử dụng trí tuệ nhân tạo giải
+quyết các bài toán phân tích thông tin
+văn bản tiếng Việt: tiền xử lý, phân
+tích ý chính văn bản, phân loại, phân
+cụm văn bản... nhằm hỗ trợ phân tích
+ý chính các văn kiện đầu vào.
+
+- Nghiên cứu các phương pháp xây
+dựng kho nạt liệu trí thức tiếng nói và
+văn bản tiếng Việt phục vụ các bài
+toán sử dụng trí tuệ nhân tạo.
+
+- Nghiên cứu, thiết kế, xây dựng
+phương thức trao đổi thông tin giữa bộ
+công cụ và các hệ thống chỉ huy, tham
+mưu, điều hành.
+
+~ Nghiên cứu, thiết kế giải pháp ứng
+dụng các kỹ thuật xử lý tiếng nói và
+văn bản tiếng Việt xây dựng bộ công
+cụ phân tích — xử lý tiếng nói và văn
+bản tiếng Việt nhằm thay đổi phương,
+thức tương tác người - máy ứng dụng
+trong thông mình hoá các hệ thông chỉ
+huy, tham mưu, điều hành. + Tài liệu nghiên cứu về xây dựng
+kho ngữ liệu trì thức tiếng nói và
+văn bản tiếng Việt phục vụ cho các
+bài toán trí tuệ nhân tạo
++ Tài liệu khảo sát, nghiên cứu,
+thiết kế, xây dựng phương thức
+trao đôi thông tin giữa bộ công cụ
+và các hệ thông chỉ huy, tham mưu,
+điều hà
+b) Chỉ tiêu kỹ thuật chủ yếu của sản
+phẩm:
+~ Các tài liệu có được lập theo mẫu
+quy định, có nội dung đây đủ, được
+trình bày rõ rằng và khoa học.
+2) Bộ công cụ phân tích
+tiếng nói và văn bản tiếng.
+4) Sản phẩm bao gồm:
+- Kho ngữ liệu trì thức tiếng nói,
+văn bản tiếng Việt phục vụ cho các
+bài toán khai phá đữ liệu sử dụng.
+trí tuệ nhân tạo.
+sông cụ phân tích — xử lý tiếng
+;à văn bản tiếng Việt:
++ Modules thiết lập cấu hình thông
+tin đầu vào (mệnh lệnh bằng giọng
+nói, văn kiện...)
++ Modules thiết lập cấu hình thông
+tin đầu ra (protocol điều khiển các
+hệ thống chỉ huy, tham mưu, điều
+hành)
+
++ Modhles quản lý kho ngữ liệu tri
+thức tiếng nói và văn bản tiếng Việt
++ Modkles huấn luyện tiếng nói uà
+
+ 
+
+ 
+
+ 
+
+     
+
+xử lý 34
+văn bản tiêng Việt
+
++ Áodules tiền xử lý tiếng nói và
+văn bản tiếng Việt
+
++ Modules nhận dạng giọng nói,
+tổng hợp tiếng nói tiếng Việt
+
++ Modules phân tích văn bản tiếng
+Việt
+
+1) Chỉ tiêu kỹ thuật chủ yếu của sản
+phẩm:
+
+- Bộ công cụ được thiết kế chạy
+trên môi trường Windows, được
+xây dựng dựa trên các công nghệ
+ộ thực thì nhanh, giao
+
+ 
+
+diện thân thiện. Chạy ổn định đáp
+ứng đúng và đủ theo yêu cầu để ra
+
+   
+
+phân tích thiết kế hệ thông, tài
+hướng dẫn cài đặt, tài liệu hướng
+dẫn sử dụng.
+
+b) Chỉ tiêu kỹ thuật chủ yếu của sản
+
+ 
+
+Các báo cáo được lập theo mẫu quy
+định, có nội dung đầy đủ, được
+trình bày rõ rằng và khoa học. Các
+tài liệu kỹ thuật có có nội dung đầy
+đủ, được trình bảy rõ rằng và khoa
+học 'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KH-4
+
+KẾ HOẠCH NHIỆM VỤ CHUYỂN GIAO CÔNG NGHỆ TRONG NƯỚC VÀ TỪ NƯỚC NGOÀI NĂM 2020
+Đơn vi tính: Triêu đồng
+
+35
+31 21 Số Nhiêm vụ 1 
+Chuyển giao công nghệ Thiêm vụ l "Chuyển giao công nghệ
+trong nước Mhtmvu Ï 
+Áp dụng thử kết quả
+nghiên cứu -~ Tên
+nhiệm vụ Tên tổ chức
+chuyển giao
+kết quã nghiên
+cứu, chuyển
+giao công nghệ Tên tổ chức
+nhận
+chuyển
+giao; địa chỉ
+áp dụng 
+Thời
+gian
+thực
+hiện Dự kiên
+nội dung
+triển khai
+và kết quả
+đạt được Tông
+kinh
+phí
+thực
+hiện Tông KP
+SNKH
+được duyệt 
+Ngâ Kinh phí KPđã
+nhận đến.
+năm.
+2019 sách SNI 
+KPđê
+nghị cấp
+
+2020 Nguồn
+khác 'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIỂU KH-5
+
+KÉ HOẠCH ĐẦU TƯ, NÂNG CAO NĂNG LỰC PHÒNG THÍ NGHIỆM NĂM 2020
+Đơn vị tính: Triệu đồng
+
+36
+MH 1.2 Số
+TT Ngân sách Quốc phòng.
+Ngân sách Bộ KH&CN. 
+Nhiệm vụ mở mới Ngân sách Quôc phòng Bảo dưỡng, sửa chữa,
+xây dựng nhỏ PTN 'Trung tâm chê thử, thử
+nghiệm của Viện Công.
+nghệ thông tin 
+Ngân sách Quôc phòng Dự án mở mới Ngân sách Quôc phòng Dự án chuyền tiêp 
+Dư án Phòng thí nghiêm Hạng mục Viện.
+CNTT Chủ
+đầu 
+Địa điểm
+đầu tư KhuC
+Viện
+KHCNQS 2018-
+2020 Thời
+gian 
+120.000 Tông mức
+đầu tư được
+duyệt hoặc
+đề nợi KPđã
+nhận đến
+năm 2019 Kinh phí 
+770.000 KP đề
+nghị cấp.
+năm 2020 Dự kiến nội dung
+triển khai và
+kết quả đạt được. Xây dựng Trung tâm
+chế thử, thử nghiệm 
+Đang để xuât Ghi chú NGHỆ THÔNG TIN BIẾU KH-6
+KẾ HOẠCH NHIỆM VỤ HỢP TÁC QUỐC TẾ VÀ TRONG NƯỚC VÈ KHOA HỌC CÔNG NGHỆ NĂM 2020
+
+Đơn vị tính: Triệu đồng
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Dự kiến nội | Thời s Xuất xứ của yêu ˆ Kinh phí
+Số | Tên dung triểnkhai, gian Cœquan, Đốitác | cầu hợp tác mức ———rpi/ 7 ppjacmauanchù hủ
+TT | nhiệmvụ và kết quả đạt | thực | chủtrì  thựchiện ( độxétduyệtvà | Tổng kh _ 5
+được hiện ©ăm' Kết KP Tổng NSKH | Khác chú
+4) 42) @) | @ |} @ |} 6 — # ® ] Ø | g0} d1) 412) 413)
+| |
+
+ 
+
+   
+
+Cơ
+quan để nghị (số công |
+văn và thời gian, địa
+chỉ)
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cộng L
+
+ 
+
+37
+Tên
+nhiệm vụ Cộng Dự kiến nội
+dung triển khai
+và kết quả đạt
+được Thời
+gian 
+Cơ quan
+chủ trì Đối tác
+thực hiện Xuất xứ của yêu
+cầu hợp tác, mức
+độ xét duyệt và
+cam kết Tên người, tổ chức, địa
+điểm và thời gian cam.
+kết: Tên và thời gian
+ký kết văn bản: Cơ:
+quan để nghị (số công
+văn và thời gian, địa
+chỉ) 
+Tổng s6 Tổng. Phi 
+Kinh phí NSKH ì cơ Qua: Khác 
+| << ĐC ÔN Ghi
+chú ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+
+KÉ HOẠCH CÔNG TÁC SÁNG KIÊN, ĐÁNH GIÁ THẢM ĐỊNH CÔNG NGHỆ,
+'TIÊU CHUẢN ĐO LƯỜNG CHÁT LƯỢNG NĂM 2020
+
+BIỂU KH-7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Đơn vị tính: Triệu đằng
+tp 'Tên nhiệm vụ Nội dung Đơn vị chỗ trì tục Đếm - | Kinhphí | Ghỉchú
+TÚ] 2) ở) 4 6) (6) [1
+
+I_| Công tác sáng kiến
+
+1_ | Nhân rộng sáng kiến
+
+2 _ | Khen thưởng sáng kiến
+
+3 _ | Hoạt động khác
+
+II | Đánh giá thẩm định công nghệ
+1_ | Đánh giá công nghệ
+
+2 _ | Thâm đỉnh công nghệ
+
+3__ | Giám định công nghệ
+
+4_ | Xây dựng CSDL công nghệ
+
+ 
+
+IH
+
+Tiêu chuẩn đo lường chất lượng
+
+ 
+
+Xây dựng tiêu chuẩn kỹ thuật cho các sản
+phẩm nghiên cứu
+
+ 
+
+Xây dựng hệ thống quản lý chất lượng
+1SO trong cơ quan hành chính
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cộng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+38
+IH 1I Công Xây dựng hệ thông quản lý chất lượng
+1SO trong cơ quan hành chính 
+Xây dựng tiêu chuẩn kỹ thuật cho các sản
+phẩm nghiên cứu "Tiêu chuẩn đo lường chất lượng Xây dưng CSDL công nghê Giám định công nghệ 
+Đánh giá công nghệ Đánh øiá thẩm đỉnh công nghê Hoạt động khác Khen thưởng sáng kiến 
+Công tác sáng kiến "Tên nhiệm vụ Nội dung Đơn vị chủ trì 
+Thời gian
+thưc hiên Kinh phí Ghi chú 'ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIẾU KH-8
+
+KÉ HOẠCH CÁC NHIỆM VỤ, DỰ ÁN BẢO VỆ MÔI TRƯỜNG NĂM 2020
+(Nguồn ngân sách Sự nghiệp môi trường)
+
+Đam vỉ tính: Triêu đằng
+
+39
+Số
+tt
+
+Tên nhiệm vụ/ dự án
+
+Mục tiêu
+
+ 
+
+Nhiệm vụ thường xuyên theo chức năn
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nhiệm vụ, dự án trọn:
+
+điểm, cấp bách
+
+ 
+
+Chuyễn tiếp từ 2019:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mở mới:
+
+ 
+
+21
+
+ 
+
+22 Tên nhiệm vụ/ dự án Nhiệm vu thường xuy Nhiệm vụ, dự án trọn
+Chuyển tiếp từ 2019: 
+Mục tiêu ân theo chúc năi ; điểm, cấp bách Nội dung, quy mô
+thực hiện 
+, nhiệm vụ chuyên m Dự kiến sản phẩm Đơn vị
+thực hiện Thời
+gian
+thực
+hiện 
+Đã cấp
+đến 2019 Tổng k Đê nghị
+cấp năm
+2020 nh phí ĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN BIÊU KH-9
+
+KÉ HOẠCH THỰC HIỆN NHIỆM VỤ BIÊN SOẠN, IN ẤN
+TÀI LIỆU HUÁẦN LUYỆN, TÀI LIỆU DẠY HỌC NĂM 2020
+Đơn vi tính: Triêu đồng
+
+Ghi chú: Xây đựng đỀ cương khái quát của tài liệu theo Phụ lục 3 kèm theo
+
+40
+I Số
+ố Công “Tài liêu dạy học 
+Tài liệu xã hội và nhân văn
+quân sự Điêu lệnh, điêu lệ và tài liệu
+huân luyện quân sự 'Tên tài liệu Biên soạn
+mới 
+Hình thức Chỉnh
+sửa. biên soạn Kê hoạch 
+Kinh phí biên soạn Kê hoạc Sô lượng
+
+(quyển) 
+Kinh
+
+phí Ghi
+chú JIÈN QUÂN sự NĂM 2020
+
+ĐƠN VE VIÊN CÔNG NGHỆ THÔNG TIN
+KẾ HOẠCH THỰC HIỆN 'NHIỆM VỤ 'BIÊN SOẠN TỪ Đi
+Đơn vị tính: Triệu đồng
+crE
+đề nghì
+ECø_1
+
+tu
+"Tổng kinh Kanh ph N
+
+aã cấp đến | cất lăn
+năm 2019 L
+
+ “...
+
+        
+
+ 
+  
+
+    
+
+ự kiến nội dung triển Khải
+và kết quả đât được
+
+4IĐƠN VỊ: VIỆN CÔNG NGHỆ THÔNG TIN
+
+KÉ HOẠCH BẢO ĐẢM KINH PHÍ, XĂNG DẦU CHO HOẠT ĐỌNG
+KHOA HỌC, CÔNG NGHỆ VÀ MÔI TRƯỜNG NĂM 2020
+
+1. Kinh phí cho hoạt động khoa học quân sự
+
+BIẾU KH-11
+
+Đơn vị tính: Triệu đồng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kế hoạch
+TT Nội dung Trong đó
+Tổng số Kinh phí Cácnguồn | Ghỉ chú
+NSKH khác
+đ) (2) ) ) 6) (6)
+1 _ | Chỉ cho hoạt động khoa học, công nghệ
+1_ | Nhiệm vụ cấp Nhà nước ¬ _— |—
+
+- Chương trình KHCN 10.301 10.301 Dự - kiến
+kinh — phí
+cấp — đủ
+2019:
+66.772
+
+- Để tài độc lập.
+
+- Dự án XSTN.
+
+- Nhiệm vụ hợp tác quốc tế theo nghị định thư.
+
+vụ thuộc chương trình KHCN trong điểm cấp Nhà nước (KC, KX), phát 1073 1073 Dự kiến
+triển tiềm năng. kinh — phí
+cấp: đủ
+2019: 2.938
+- Các nhiệm vụ khác (Chương trình kỹ thuật-kinh tế, nhiệm vụ quỹ gen, nghiên cứu.
+cơ bản về khoa học tư nhiên, dự án điều tra cơ bản...)
+2 _ | Nhiệm vụ nghiên cứu khoa học và PTCN cấp BQP
+
+~ Chương trình, đề án cấp BQP. 67.790 67.790 Dự kiến
+kinh — phí
+cấp đủ năm
+2019:
+
+ 
+
+4
+TT ~ Chương trình, đê án cập BQP cứu khoa học và PTCN cấp BQP. ~ Các nhiệm vụ khác (Chương trình kỹ thuật-kinh tế, nhiệm vụ quỹ gen, nghiên cứu.
+xay h?n về loa Tao bertlEn. duyên don Em my hần. .Ÿ 
+- Nhiệm vụ thuộc chương trình KHCN trong điểm cấp Nhà nước (KC, KX), phát
+triển tiềm năng. ~ Đề tài độc lập - Chương trình KHCN. Nhiệm vụ cấp Nhà nước 
+Chỉ cho hoạt động khoa học, công nghệ Nội dung Tổng số 1.073 
+1/073 Kinh phí
+NSKH "Tron Kê hoạch 
+67.790 1.073 Các nguôn
+khác g đó 
+Dự
+kinh
+
+2019:
+66.772
+
+phí Ghi chú Dự kiến
+kinh — phí
+cấp đủ năm.
+2019: Dự
+
+ 
+
+kinh - phí
+cấp: đủ
+
+2019: 2.938 - AANƯN,
+
+ 
+
+34.250
+
+ 
+
+- Đề tài cấp BQP.
+
+ 
+
+~ Nhiệm vụ sản xuất loạt “0”
+
+ 
+
+- Dự án SXTN cấp BỌP.
+
+ 
+
+“ Nhiện vụ thuộc chương trình KHƠN trọng điểm (ƠNTĐH, CNVL, CNSE).
+
+ 
+
+ 
+
+“Nhiệm vụ hợp tác quốc tế theo nghị định thư
+
+ 
+
+ 
+
+“
+
+Biên soạn, in ấn tài liệu huấn luyện, tài liệu dạy học.
+
+ 
+
++
+
+Biên soạn từ điện quân sự.
+
+ 
+
+ 
+
+ 
+
+Các nhiệm vụ KHCN khác
+
+ 
+
+- Công tác đánh giá trình độ công nghệ
+
+ 
+
+ 
+
+ 
+
+“Công to thông tin KHCNMT (không tính phân kinh phí để nghị cấp từ Trung tâm
+Thông tin KHQS)
+
+ 
+
+~ Công tác xây dựng tiêu chuẩn
+
+ 
+
+- Công tác sáng kiến
+
+ 
+
+~ Công tác hợp tác quốc tế về KHƠN
+
+ 
+
+~ Các nhiệm vụ khác
+
+ 
+
+ 
+
+ 
+
+F6” [Nhiệm vụ nghiên cứu cơ sở ˆ
+
+300|—
+
+_ ~á200
+
+ 
+
+“Xây dựng tiêm lực KHCN.
+
+ 
+
+- Dự án đầu tư PTN
+
+ 
+
+~ Sửa chữa xây dựng nhỏ
+
+ 
+
+~ Xây dựng văn bản quy phạm pháp luật
+
+ 
+
+- Xét duyệt chức danh sỹ quan CM-KT-NV
+
+ 
+
+'Chỉ cho nhiệm vụ bảo vệ môi trường
+
+ 
+
+Nhiệm vụ/ dự án cấp Bộ
+
+ 
+
+Nhiệm vụ/ dự án cấp cơ sở
+
+ 
+
+4| a|>
+
+"Nhiệm vụ dự ân thuộc để ấn hoặc chương tình mục tiêu quộc i2
+
+ 
+
+ 
+
+'Tổng cộng:
+
+ 
+
+ 
+
+85.464
+
+ 
+
+85.464
+
+ 
+
+Dự kiến
+kinh — phí
+cấp đủ năm
+2019:
+
+ 
+
+103.910
+
+ 
+
+ 
+
+41H. Xăng dầu cho hoạt động khoa học công nghệ:
+
+Đơn vị tính: Lữ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STT Đơn vị Hạn mức xăng dầu được 'Kế hoạch xăng dầu đề Ghi chú
+cấp năm 2019. nghị cấp năm 2020
+1| Viện Công nghệ thông tin 6.000. 6.000
+2
+Cộng
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+STT
+
+Đo
+
+ 
+
+Viện Công nghệ
+
+ 
+
+ 
+
+ 
+
+ 
+
+C STT
+
+Đo
+
+ 
+
+Viện Công nghệ
+
+ 
+
+ 
+
+ 
+
+ 
+
+c STT Hạn
+
+ 
+
+tin. 
+u được 'Kế hoạch xăng dầu đề Ghi chú
+9 nghị cấp năm 2020
+
+ 
+
+6.000. Ghi chú 

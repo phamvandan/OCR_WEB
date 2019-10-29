@@ -1,0 +1,112 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: JÁØ/QĐ-VCNTT Hà Nội, ngày 05 tháng 5 năm 2016
+QUYÉT ĐỊNH
+
+'Về việc giao sản phẩm nghiên cứu
+hệ thông mô phỏng vũ khí bộ binh
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyết định số 1653/QĐ-VKHCNQS của Viện Khoa học và
+Công nghệ quân sự ngày 10 tháng 1 1 năm 2015;
+Căn cứ vào nhu cầu thiết bị nghiên cứu của Phòng KTTT&TCM;
+Theo đề nghị của đồng chí Phụ trách Trưởng ban Kế hoạch,
+QUYÉT ĐỊNH:
+
+Điều 1. Giao sản phẩm nghiên cứu hệ thống “ Mô phỏng vũ khí bộ binh
+dựa trên công nghệ mô phỏng của Cộng hòa Séc” với các thành phần phần cứng
+và phần mềm như trong phụ lục kèm theo cho Phòng KTTT&TCM quản lý,
+khai thác.
+
+Điều 2. Phòng KTTT&TCM có trách nhiệm quản lý và khai thác có hiệu
+quả hệ thống nêu trên đồng bộ với các kết quả của đề tài “ Nghiên cứu phát triển
+hệ thống mô phỏng vũ khí bộ binh trên công nghệ mô phỏng của cộng hòa Séc”
+(Chủ nhiệm đề tài: Thiếu tá, Ths Bạch Hồng Quyết; thời gian thực hiện từ tháng
+4 năm 2011 đến hết tháng 12 năm 2011).
+
+Điều 3. Các đồng chí Trưởng Phòng KTTT&TCM, Phụ trách Trưởng Ban
+Kế hoạch, Trưởng Ban Tài chính chịu trách nhiệm thỉ hành quyết định này . .⁄2
+
+Nơi nhận:
+
+- Phòng KTTT&TCM;,
+
+~ Ban Tài chính, Kế hoạch;
+~ Lm: VT; H04.Hi
+T BỊ MÔ PHÒNG SATS— DEMO.
+IVCNTT ngày 05 tháng 5 năm 2016)
+WH 83 82 8.1 
+71.6 T8 7.4 )"* 
+Tạ T1 4.4 43 
+42 41 Cơ sở dữ liệu địa hình Châu Âu theo chuẩn kỹ thuật
+
+129/09/839 ngày 21 tháng l năm 2009 Cơ sở dữ liệu phục vụ mô phỏng. 
+Hệ thông phân mềm mô phỏng của ECOM Phân mêm_ Bao cát Hệ thông lưới ngụy trang 
+Lioa 3KVA Máy nén khí Giá để súng Hệ thông dây âm thanh 
+Hệ thông âm thanh công suất lớn
+Loa chính Hệ thông mô phỏng âm thanh Máy in Joystick 
+Chuột Bàn phím Màn hình LCD 19” 'Computers (Host, IG, Intersector) 
+Hệ thông kết nỗi vũ khí không dây (tối đa 9 loại vũ khi).
+Máy chủ IOS Trạm nạp khí CO2( 01 bộ nạp, 02 bình khí) Súng chỗng tăng RPG-7/TR 'Tiểu liên PKM/TR 
+'Tiêu liên AK-47/TR Súng ngắn, model CZ-75/TR. Các vũ khí huân luyện kèm đầu laser Camera tốc độ cao, model EAC-09 
+Máy chiêu độ phân giải 1400 x 1050 pixel LCD/DLP
+COTS `\⁄ằ+xš⁄25N@yNung 01 01 
+01 maav« 01 01 
+01 01 01 01 
+01 01 05 01 
+01 01 01 02 
+3 01 01 02 
+01 02 02 01 
+01 01 Số lượng Phần mềm mô phỏng hỏa lực cùng các thành phần theo
+
+ 
+
+ 
+
+ 
+
+ 
+
+chuẳn kỹ thuật 129/09/839 ngày 21 tháng 1 năm 2009 9i
+Phần mêm máy chủ IOS cùng các thành phần theo chuẩn |___ ọi
+kỹ thuật 129/09/839 ngày 21 tháng 1 năm 2009.
+
+Phần mềm soạn thảo kịch bản huấn luyện 01
+Phần mềm mô phỏng
+chuẩn kỹ thuật 129/01
+
+ 
+
+Phần mềm máy chủ I
+kỹ thuật 129/09/839 r
+
+ 
+
+ 
+
+ 
+
+Phần mềm soạn thảo. . các thành phần theo
+
+ 
+
+ 
+
+¡ tháng 1 năm 2009 9i
+thành phần theo chuẩn Ơ
+1 năm 2009
+
+ì luyện. 01 . các thành phần theo
+
+ 
+
+ 
+
+¡ tháng 1 năm 2009 9i
+thành phần theo chuẩn Ơ
+1 năm 2009
+
+ì luyện. 01 01 
+01 01 

@@ -1,0 +1,129 @@
+VIÊN CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG HỆ THÔNG TIN QUẢN LÝ Độc lập - Tự do - Hạnh phúc
+Số: 484/TTr-HTTQL Hà Nội, ngày 22 tháng 3 năm 2019
+PHÊ DUYỆẸT
+Ágàyđ# tháng 3 năm 2019
+
+   
+
+TỜ TRÌNH
+V/v tô chức hội thảo, tọa đàm năm 2019 của dự
+Án “Nghiên cứu, thiết kế, Xây dựng hệ thống tác
+"ghiệp, tính toán, thể hiện phương án tác chiến
+Đỗ Việt Bình biển đảo trên nền hãi đồ số Và sa bàn số 3D"
+
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ Thuyết minh dự án khoa học và công nghệ cấp Nhà nước “Nghiên
+cứu, thiết kế, xây dựng hệ thông tác nghiệp, tính toán, thể hiện phương án tác
+chiến biển đảo trên nền hải đồ số và sa bàn số 3D thuộc Chương trình nghiên
+cứu, đảo tạo và xây dựng hạ tầng kỹ thuật công nghệ cao;
+
+Căn cứ Hợp đồng khoa học và công nghệ số 1365/2018/HĐKHCN ký ngày
+01 tháng 6 năm 2018 giữa bên giao là Cục Khoa học quân sự/BQP với bên nhận
+là Viện KH-CN quân sự và Viện Công nghệ thông tin/Viện KH-CN quân sự
+việc thực hiện dự án khoa học và Sông nghệ cấp Nhà nước “Nghiên cứu, thiết
+kể, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển
+đảo trên nền hải đồ số và sa bàn só 3D",
+
+Để đảm bảo thực hiện dự án theo đúng nội dung, tiến độ và chất lượng,
+Phòng Hệ thông tin quản lý và chủ nhiệm đự án xây dựng kế hoạch tổ chức hội
+thảo, tọa đàm năm 2019 như Sâu:
+
+1.MỤC TIÊU
+
+Tổ chức tọa đảm, hội thảo lấy ý kiến vẻ:
+
+- Thiết kế hệ thống phần mềm Phục vụ tác nghiệp, tính toán, thẻ hiện
+phương án tác chiến biển đảo;
+
+~ Xác định các chỉ tiêu chiến - kỹ thuật của hệ thống;
+
+- Biên tập, chuẩn hóa và xây dựng dữ liệu sa bàn số 3D;
+
+~ Tin học hóa một số bài toán tính toán hiệu quả chiến đấu của VKTB.
+
+II NỘI DUNG
+
+1. Hội thảo: Thiết ké hệ thống phần mềm phục vụ tác nghiệp, tính toán, thể
+hiện phương án tác chiến biển đảo~ Thành phần:
+
++ Chủ trì: Thủ trưởng Viện Công nghệ thông tin;
+
++ Thư ký: Trung tá ThS Trần Bình Minh;
+
++ Báo cáo tại hội thảo: Dự kiến 09 báo cáo;
+
++ Thành viên tham gia hội thảo: Dự kiến 22 người (Nhóm thực hiện dự án,
+Hội đồng khoa học Viện Công nghệ thông tin và khách mời).
+
+- Thời gian: Dự kiến 01 buổi trong tháng 3 năm 2019.
+
+- Địa điểm: Viện Công nghệ thông tin.
+
+2. Tọa đàm khoa học: Biên tập, chuẩn hóa và xây dựng dữ liệu sa bàn số 3D.
+
+~ Thành phần:
+
++ Chủ trì: Thủ trưởng Viện Công nghệ thông tin;
+
++ Thư ký: Trung tá ThS Phạm Hải Hưng;
+
++ Báo cáo tại tọa đàm: Dự kiến 02 báo cáo;
+
++ Thành viên tham gia tọa đàm: Dự kiến 10 người (Nhóm thực hiện dự án
+và khách mời).
+
+~ Thời gian: Dự kiến 01 buổi trong tháng 04 năm 2019.
+
+~ Địa điểm: Phòng Hệ thông tin quản lý/Viện Công nghệ thông tin.
+
+3. Tọa đàm khoa học: Tin học hóa một số bài toán tính toán hiệu quả
+chiến đấu của VKTB
+
+- Thành phần:
+
++ Chủ trì: Thủ trưởng Viện Công nghệ thông tin;
+
++ Thư ký: Trung tá ThS Phạm Hải Hưng;
+
++ Báo cáo tại tọa đàm: Dự kiến 01 báo cáo; ị
+
++ Thành viên tham gia tọa đảm: Dự kiến 10 người (Nhóm thực hiện dự
+và khách mời).
+
+- Thời gian: Dự kiến 01 buổi trong tháng 4 năm 2019.
+
+- Địa điểm: Phòng Hệ thông tin quản lý/Viện Công nghệ thông tin.
+
+4. Hội thảo: Xác định các chỉ tiêu chiến - kỹ thuật của hệ thống,
+
+- Thành phẩn:
+
++ Chủ trì: Thủ trưởng Viện Công nghệ thông tỉn;
+
++ Thư ký: Trung tá ThS Trần Bình Minh;
+
++ Báo cáo tại hội thảo: Dự kiến 04 báo cáo;
+
++ Thành viên tham gia hội thảo: Dự kiến 25 người (Thủ trưởng Viện Công
+nghệ thông tin, nhóm thực hiện dự án và khách mời).
+
+- Thời gian: Dự kiến 01 buổi trong tháng 12 năm 2019.
+
+- Địa điểm: Viện Công nghệ thông tin hoặc BTL Hải quân.IH. KINH PHÍ BẢO ĐẢM
+- Kính phí bảo đảm từ kinh
+
+phí của dự án.
+Kính đề nghị Viện trưởng Viện Công nghệ thông tin xem xét, phê duyệt đẻ
+nhóm dự án triển khai thực hiện,/
+Nơi nhận: TRƯỞNG PHÒNG
+~ Như trên,
+
+~ Ban KH, Ban TC, Ban HC-HC;
+~ Lưu: VT, HTTQL(02); M07,
+
+“
+
+Trung tá Phạm Hải Hưng

@@ -1,0 +1,172 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+Số: 429/VCNTT-KH Hà Nội, ngày 04 tháng 10 năm 2017
+
+'V/ xin ý kiến bộ chỉ tiêu kỹ thuật và
+kịch bản thử nghiệm và nghiệm thu thiết
+
+bị xử lý trung tâm ARM OC tổ hợp
+
+NKVS-27
+Kính gửi:
+- Bộ Tham Mưu Quân chủng PK-KQ;
+
+~ Phòng Thông tin/Bộ Tham Mưu Quân chủng PK-KQ.
+
+Căn cứ công văn số 3828/BTL-TM ngày 18/10/2016 của Bộ tư lệnh Phòng
+Không - Không Quân gửi Viện Khoa học và Công nghệ quân sự về việc bảo đảm
+kỹ thuật hệ thống thông tin bảo đảm bay của Quân chủng PK-KQ;
+
+Căn cứ Quyết định số 1414/QĐ-VKHCNQS ngày 04/10/2016 của Giám đốc
+'Viện KH-CN quân sự về việc giao nhiệm vụ thực hiện đề tài nghiên cứu khoa học
+và phát triển công nghệ cắp Viện KHCNQS năm 2016;
+
+Căn cứ theo thuyết minh đề tài: “Nghiên cứu thiết kế, chế tạo hệ thống điều
+khiển trung tâm của Tổ hợp đối không mặt đất NKVS-27 làm việc đồng bộ với
+máy bay Su-27SKII và Su-30MKII” đã được phê duyệt,
+
+Để thực hiện các bước tiếp theo của đề tài, Viện Công nghệ thông tin đề xuất
+với Phòng Thông tin/BTM/Quân chủng PK-KQ một số nội dung sau:
+
+1. Đề nghị Phòng Thông tin/ BTM/ Quân chủng PK-KQ có ý kiến về các chỉ
+tiêu kỹ thuật của hệ thống xử lý trung tâm ARM OC tổ hợp NKVS-27 do Viện
+CNTT nghiên cứu chế tạo (phụ lục kèm theo) để làm căn cứ nghiệm thu đánh giá
+sản phẩm nghiên cứu.
+
+2. ĐỀ nghị Phòng Thông tỉn có ý kiến xác nhận về kịch bản thử nghiệm và
+nghiệm thu hệ thống xử lý trung tâm ARM OC tổ hợp NKVS-27 do tổ Viện
+CNTT nghiên cứu chế tạo (phụ lục kèm theo).
+
+Kính đề nghị Phòng Thông tin cho ý kiến về hai nội dung nêu trên để Viện
+Công nghệ thông tin có căn cứ thực hiện đề tài. /, —”
+
+Nơi nhận: Ê
+
+-ng
+~ Lưu: VT, KH; H04.
+
+ 
+
+` Trung tá Đỗ Việt BìnhPhụ lục
+(Kèm theo công văn số: A39 _/VCNTT-KH ngày O^ tháng 10 năm 2017).
+
+A. Bộ chỉ tiêu kỹ thuật của hệ thống xử lý trung tâm ARM OC tổ hợp
+NKVS-27 do tổ Viện CNTT nghiên cứu chế tạo.
+21 20 Thời gian tiến hành kiểm tra
+tổng thể các thành phần của tổ
+hợp Thời gian sẵn sàng sau khi cấp
+nguồn nuôi 
+Hệ điều hành Độ ẩm làm việc Nhiệt độ làm việc Công suất nguồn ATX 
+Tần số điện áp Dòng điện đầu vào Điện áp đầu vào Giao tiếp tín hiệu thoại tương tự 
+Giao tiếp tín hiệu rời rạc Giao tiếp tín hiệu Arinc429 Giao tiếp ngoại vi Ô cứng HDD 
+Bộ nhớ RAM Bộ xử lý Nội dung Giao tiếp điều khiển thiết bị thu
+phát VTĐ dải sóng m-dm Bekac- 
+Giao tiếp điều khiển thiết bị mã
+P-098-3H Số lượng các tuyến 4 dây để
+
+1
+vào các đầu vào/ra thoại cho các
+đài vô tuyến Số lượng các hướng thu thôn,
+báo sự cô khi sử dụng các thiết
+bị liên lac mã P-098-3H Số lượng các hướng liên lạc trao
+đổi TSL khi sử dụng thiết bị liên
+lac mã P-098-3H 
+<2 phút <2 phút Fedora 98% tại 35°C 
+0°
+đến
++55
+X
+C 600W hoặc lớn hơn 600W hoặc lớn hơn 50Hz 
+<6A tại 240V~ 100 — 240V~ 4 đến 16 kênh 4 đến 16 kênh 
+32 kênh vào. 32 kênh ra 16 kênh thu. 8 kênh phát USB, Ethernet, COM, LPT,
+PS/2 500GB hoặc lớn hơn 
+2GB hoặc lớn hơn Intel E8500 hoặc tương đương 'Yêu cầu kỹ thuật Ghi chú 022
+
+ 
+
+ 
+
+22. | Giao tiếp điều khiển thiết bị thu
+phát VTĐ dải sóng ngắn Boson- I
+2M
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B. Kịch bản thử nghiệm và nghiệm thu hệ thống xử lý trung tâm ARM
+OC tổ hợp NKVS-27 do tổ Viện CNTT nghiên cứu chế tạo.
+
+1. Kịch bản thứ nghiệm hệ thống điều khiễn trung tâm ARM OC tổ hợp đối
+không mặt đất NKVS-27 do Viện CNTT chế tạo:
+
+Bước 1: Bật nguồn cho Tổ hợp NKVS-27, kiểm tra hiện trạng tổ hợp nếu tốt
+nhận hiện trạng bàn giao đẻ thử nghiệm.
+Bước 2: Ngắt nguồn tô hợp NKVS-27.
+Bước 3: Tiến hành đo nguội hệ thống điều khiển trung tâm nguyên bản của
+tổ hợp.
+Bước 4: Tháo hệ thống điều khiển trung tâm nguyên bản của tổ hợp đối
+không mặt đất NKVS-27.
+Bước 5: Lắp hệ thống điều khiển trung tâm của tổ hợp đối không mặt đắt
+NKVS-27 do nhóm đê tài chế tạo.
+Bước 6: Tiến hành đo nguội hệ thống điều khiển trung tâm do nhóm đề tài
+chế tạo, so sánh với nguyên bản trước khi bật nguồn.
+Bước 7: Bật nguồn cho tổ hợp NKVS-27.
+Bước 8: Kiểm tra tình trạng hoạt động của tổ hợp.
+
+Kiểm tra kết nối các thành phần tổ hợp (chế độ tự kiểm tra).
+
+Kiểm tra thử kênh liên lạc thoại trong nội bộ đài.
+Bước 9: Ngắt nguồn tổ hợp NKVS-27. Ộ
+Bước 10: Lắp lại hệ thống điều khiển trung tâm nguyên bản của tổ hợp.
+Bước 11: Bật nguồn và kiêm tra tình trạng hoạt động của tổ hợp, bàn giao.
+Bước 12: Đánh giá kết quả, lập biên bản.
+
+2 Mịch bản nghiệm thu hệ thống điều khiển trung tâm của TỔ hợp đắi
+không mặt đất NKVS-27 do Viện CNTT chế tạo: Ộ ¿
+Bước 1: Bật nguồn cho Tổ hợp NKVS-27, kiểm tra hiện trạng tổ hợp nếu tốt
+nhận hiện trạng bàn giao để thử nghiệm.
+
+Bước 2: Ngắt nguồn tổ hợp NKVS-27.
+Bước 3: Tiến hành đo nguội hệ thống điều khiển trung tâm nguyên bản của
+tô hợp.
+Bước 4: Tháo hệ thống điều khiển trung tâm nguyên bản của tổ hợp đối
+không mặt đất NKVS-27. Ộ ¿
+Bước 5: Lắp hệ thống điều khiển trung tâm của tổ hợp đối không mặt đất
+NKVS-27 do nhóm để tài chế tạo.
+Bước 6: Tiến hành đo nguội hệ thống điều khiển trung tâm do nhóm đề tài
+chế tạo, so sánh với nguyên bản trước khi bật nguồn.
+Bước 7: Bật nguồn cho tổ hợp NKVS-27.
+Bước 8: Kiểm tra tình trạng hoạt động của tổ hợp.
+
+Kiểm tra kết nối các thành phần tổ hợp (chế độ tự kiểm tra).
+022
+
+ 
+
+ 
+
+2
+
+ 
+
+Giao tiếp điề
+phát VTĐ dả
+2M 2 n thiết bị thu
+; ngắn Boson- lạc thoại
+Thủ kênh liên lạc truyền số liệu với "máy bay tại mặt đặc (chưa bạy),
+Bước Thanh SÌá kết quả của tà họi tàn làm việc tại mặt đắt,
+phần đánh giá: Tả, đề tài, Tiểu đoạn thông tin, Tiêu đoạn bảo
+không,
+
+h :
+Bước 10; Ngắ "guồn tổ hợp NKVS-27 khi thự nghiệm xong,
+Bước LJ: Lắp lạ hệ thống điều kh, tan nguyên bản của tổ hợp,
+Đước 12: Bật nguận và kiểm minh ng bon dạ cụ nh bàn giao,

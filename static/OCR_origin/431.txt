@@ -1,0 +1,76 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 48o / VCNTT -KH Hà Nội, ngày 30tháng „1 năm 2016.
+V/v hoàn thiện báo cáo nghiên cứu.
+khả thi,
+Kính gửi:
+- Bộ Tư lệnh Bộ đội Biên phòng;
+- Cục cửa khẩu/BTL Bộ đội Biên phòng.
+
+Căn cứ vào hợp đồng nguyên tắc số 01/BTLBĐBP-VCNTT giữa Bộ Tư
+lệnh Bộ đội Biên phòng và Viện Công nghệ thông tin về việc thực hiện tư vấn
+khảo sát lập dự án đầu tư và thiết kế th công — tổng dự toán dự án “ Xây dựng
+triển khai phần mềm quản lý kiểm soát xuất nhập cảnh của Bộ Tư lệnh Bộ đội
+Biên Phòng”;
+
+Căn cứ ý kiến đóng góp của Phòng Tài chính/BTL Bộ đội Biên phòng về
+báo cáo nghiên cứu khả thì dự án tại công văn số 848/PTC-DT ngày 25/11/2016;
+
+Căn cứ ý kiến đóng góp của Ban Công nghệ thông tin /Bộ Tham mưu về
+báo cáo nghiên cứu khả thì dự án tại công văn số 190/CNTT ngày 24/11/201
+
+Căn cứ ý kiến đóng góp của Phòng Kế hoạch và Đầu tư/ BTL Bộ đội
+phòng về báo cáo nghiên cứu khả thi dự án tại công văn số 443/BTL+
+ngày 24/1 1/2016,
+
+'Viện Công nghệ thông tin đã tiến hành hoàn thiện bản báo cáo nghiên cứu
+khả thi theo các góp ý như sau:
+
+Áp dụng Thông tư 09/2016/TT-BTC ngày 18/01/2016 thay thế Thông tư
+19/2011/TT-BTC ngày 14/2/2011; Nghị định 84/2015/NĐ-CP ngày 30/9/2015
+thay thế Thông tư 22/2010/TT-BKH ngày 02/12/2010 để tính toán lại.
+
+Đã chỉnh sửa:
+
+1. Bảng tính mức lương theo ngày: đã tính lại theo 1 tháng/22 ngày công.
+
+2. Chỉ phí xây dựng chương trình đào tạo và biên soạn giáo trình: đã tính
+lại theo đề nghị.
+
+3. Các chí phí Lập HSMT, thẩm định HSMT và chí phí đánh giá HSDT,
+thấm định kết quả lựa chọn nhà thầu: đã sửa lại theo ý kiến đóng góp.4. Chỉ phí thẩm định, phê duyệt quyết toán:
+
+“Theo Phòng Tài chính/BTL Bộ đội Biên phòng:
+
++ Chỉ phí thẩm định, phê duyệt quyết toán (heo Thông t 09/2016/TT-
+BTC ngày 18/01/2016) là 0,65%.
+Tính lại:
+
+Theo Thông tư 09/2016/TT-BTC ngày 18/01/2016 thì Chỉ phí thẩm định,
+phê duyệt quyết toán là 0,75% do dự án có Tổng mức đầu tư dưới 10 tỷ và trên 5
+tỷ lên phải tính nội suy, nếu chẵn 10 tỷ mới chọn là 0,65%.
+
+5. Chỉ phí kiểm toán độc lậ: tương tự như trên tính lại theo Thông tư
+09/2016/TT-BTC ngày 18/01/2016 là 1,24% .
+
+(ảo chi phí xây dựng phần mềm, hay gọi khác là chỉ phí thiết bị như Nghị
+định lớn hơn 51% tổng giá trị dự án lên Chỉ phí thẩm định, phê duyệt quyết toán
+và Chỉ phí kiểm toán độc lập phải nhân thêm với 70% nữa)
+
+6. Chỉ phí giám sát đánh giá đầu tư:
+
+Theo phòng tài chính là 15% Gqlda (¿heo TT 22/2010/TT-BKH đã hết hiệu
+lực). À
+
+'Viện Công nghệ thông tin áp dụng theo Nghị định 84/2015/NĐ-CP HN) e
+30/9/2015 về giám. sát và đánh giá đầu tư thì Chỉ phí giám sắt đánh giá đầu tư lé>
+20% Galda (Khoản e điều 52)
+
+'Viện Công nghệ thông tin đã hoàn thiện bản báo cáo nghiên cứu khả thị
+như trên. Kính đề nghị Bộ Tư lệnh Bộ đội Biên phòng và các cơ quan chức năng,
+phê duyệt. Để Viện Công nghệ thông tin tiến hành các công việc tiếp theo như
+kế hoạch. MZ—
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H04

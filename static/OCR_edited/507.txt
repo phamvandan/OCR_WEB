@@ -1,0 +1,107 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIÊN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+Số: #6 /VCNTT—KTHT tà Nội, ngày 16 thángQ)năm 2017
+`/w xin sử dụng kinh phí tiết kiệm đấu
+
+thầu mua sắm vật tư linh kiện
+
+Kính gửi: Ban chủ nhiệm Đề án KC-T,
+
+hoạch lựa chọn nhà thầu đề tài KC-T.09,
+
+'Viện Công nghệ thông tin đã tổ chức thực hiện triển khai mua sắm theo
+các quyết định được phê đuyệt, trong quá trình thực hiện triển khai mua sắm vật
+tư lỉnh kiện tổng số kinh phí tiết kiệm đầu thầu là 64.920.500đ (Sáu mượi bốn
+triệu, chín trăm hai mươi ngàm, nắm trăm đồng chẵn).
+
+(Chỉ tiết phụ lực kèm theo)
+
+ 
+
+Kính đề nghị Ban chủ nhiệm Đề án KC-T xem xét phê duyệt để Viện
+Công nghệ thông tin triển khai, L6
+
+Nơi nhận: 5S; VWBỀXRƯỞNG
+~ Như trên,
+- Phòng TMKH/Viện KHCNGS;
+~ Ban TC, Ban KH;
+~ Lưu: VT, KTHT; C06b..
+
+  
+
+KT Đỗ Việt BìnhPHỤ LỤC
+(Kèm theo Công văn số:*5/VCNTT-KTHT ngàyltháng) năm 2017 của Viện CNTT)
+KC.T.09 KC.T.II Tên đề tài Mua sắm
+nguyên vật
+liệu phục vụ
+thử nghiệm 
+Gói thầu Mua sắm
+nguyên vật
+liệu thiết kế
+Card MIIO. Gói số 2 553.580.000 
+60.900.000 Kinh phí phê
+duyệt 550.643.500. 60.896.000 
+Thực hiện 2.936.500 Tiết kiệm PHỤ LỤC
+(Kèm theo Công văn só:45/VCNTT-KTHT ngày#fháng? năm 2017 của Viện CNTT)
+PC429
+(Đề tài
+KC-.T.09) KC2-1-M
+(Đề tài
+KC.T.II) Tên vật tư 01 
+02 Số 44.406.500 10.257.000 
+Đơn giá 44.406.500 20.514.000 Thành tiền 
+© Địa chỉ cơ sở 16 bit công vào/ra khe cắm ISA (x- quy định bởi
+
+jumper):SA(9..0)=x1.0xxx.0000;
+
+Số lượng cổng vào ra 16 bit và ngắt khe ISA: 8 và2;
+
+Thời gian đáp ứng khi giao tiếp với adapter tiêu chuẩn (không hơn) :
+0,5 (1) miero giây;
+
+Số lượng kênh vào (S1), kênh ra (SO) IIK trên ARINC-429: 8
+
+n8(Bn4,4w4, 4n2);
+
+Tần số nhận bởi IK: (12..14,5)KHz, 48 KHz +/-25%, 100 KHz +/-1%;
+
+Tải tương đương trên kênh vào IIK:  Ru>20 KOM, Cn < 10 nÐ;
+
+Tần số đưa ra IIK: 12,5 KHz+/-1%, 50 KHz+/-1%, 100 KHz +/-1%;
+
+Tải trên kênh ra IIK: Rw >600 Ow, Cu < 10.000 nQ;
+
+Thiết lập các chế độ làm việc và tần số thu phát IIK;
+
+© Số lượng các kênh vào ra PK: 4w 4;
+
+Các tham số đầu vào PK (DI RK, DINTI): không có tín hiệu
+
+2,4B<Usx<35B. hoặc đứt đoạn; Xuất hiện tín hiệu (0,22+/-0,22)B;
+
+Đô dài xung ngắn nhất DINT1 T=>lMrc.: "Thông số kỹ thuật ~ 02 biên áp cách ly với tỉ lệ cuộn dây sơ. câp và thứ cập là 1:1.
+
+~ 04 điện trở đường dây truyền tải, mỗi điện trở có giá trị 56 Ohm.
+
+- 01 điện trở đầu cuối (có thể) có giá trị 75 Ohm.
+
+Khối được chế tạo trên bảng mạch in 2 lớp, có phủ chất chống oxy hóa và
+chống âm. Các đầu cáp tín hiệu từ máy KY16311 và KB1631 được đấu nối
+trực tiếp với khối trên mạch in bằng mối hàn. Toàn bộ bảng mạch in của
+khếi được chứa trong vỏ cơ khí có tác dụng chống nhiễu điện từ trường. 
+má có ¬ Các tham sô đâu ra PK (DO RK): giá trị “0” - Un<27B (Trạng thái đóng.
+mạch); (tầng đầu ra - OK) giá trị “1” - Uoer<0,7B khi Ia<16wA (trạng thái
+mở mạch);
+
+s RAM 32K l6-bit
+
+Điện áp nguồn nuôi:
+
++SV+/-5%,  I<450MA;
+
++12Vv+3/-10%, I<150MA;
+
+-12V+3/-I0%,  I<150MA;
+
+-5V +/-5%,, 1<20 MA;* 

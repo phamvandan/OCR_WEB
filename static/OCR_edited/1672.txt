@@ -1,0 +1,219 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: tố /VCNTT-KH 4 Hà Nội, ngày tÏ tháng LÍ năm 2019
+
+V/v để nghị phê duyệt tài liệu Quy trình kiểm
+tra khối BMI, Quy trình Tự kiểm tra thiết bị và
+Bộ Chỉ tiêu chiễn-kỹ thuật sản phẩm của đề tài
+
+KC.T-22
+
+Kính gửi: Phòng TM-KH/Viện KH-CN quân sự.
+
+Căn cứ Công văn số 1560/VKHCNQS-TMKH ngày 24 tháng 10 năm
+2018 của Viện KHCNQS về việc đề nghị phê duyệt và cho ý kiến về các quy
+trình kiểm tra và chỉ tiêu chiến - kỹ thuật các sản phẩm nghiên cứu;
+
+Căn cứ Công văn trả lời số 16965/BTL-KHQS ngày 26 tháng 12 năm
+2018 của Bộ Tư lệnh Hải quân về việc góp ý kiến chỉ tiêu chiến-kỹ thuật và quy
+trình kiểm tra sản phẩm để tài KHCN của Viện KHCNQS,
+
+Viện Công nghệ thông tỉn đã hoàn thiện: Bộ Chỉ tiêu chiến-kỹ thuật; Tài
+liệu Quy trình kiểm tra khối BMI và các module thành phần; Tài liệu Quy trình
+tự kiểm tra thiết bị dựa trên các ý kiến đóng góp của QCHQ và mẫu tài liệu Quy
+trình kiểm tra, kiểm định chung của Cục TC-ĐL-CL/BTTM.
+
+(Các tài liệu liên quan kèm theo công văn này)
+
+Viện Công nghệ thông tin kính đề nghị Phòng TM-KH xem xét, báo cáo
+
+trình Giám đốc xem xét và phê duyệt các tài liệu trên./.„z_
+
+ 
+
+Nơi nhận:
+~_ Như trên;
+~_ Chủ nhiệm đề tài;
+~ Lưu: VT, KH: H04.PHỤ LỤC
+(Kèm theo Công văn số 03 /VCNTT-KH ngày 0Ïtháng 0 năm 2019 của Viện CNTT)
+
+I-_ CƠSỞ XÂY DỰNG QUY TRÌNH KIỀM TRA KHÓI BM-I
+1... Căn cứ chức năng nhiệm vụ của khối BM-1 trong hệ thống KACY
+
+Khối BM-I chính là bộ phận điều khiển của máy KB163I1 trong hệ thống
+KACY, là thành phần quan trọng nhất trong máy KE16311 chịu trách nhiệm điều
+khiển các giao tiếp với các ống phóng tên lửa, các quả đạn tên lửa và giao tiếp
+với máy KY 16311 và các máy khác trong hệ thống KACY.
+
+Nhiệm vụ của khối BM-I:
+
+~ Thực hiện quá trình tính toán để điều khiển và vận hành 4 quả đạn tên
+lửa tương ứng với các chế độ làm việc của tổ hợp KACY.
+
+~ Lưu trữ và chạy chương trình phần mềm điều khiển trong thẻ nhớ Flash
+Disk 128MB.
+
+~ Trao đổi thông tin với 4 quả đạn tên lửa theo các kênh tín hiệu số.
+
+- Điều khiển trao đổi các lệnh rơ le với 4 quả đạn tên lửa và ống phóng,
+qua qua các module rơ le của máy KB1631.
+
+- Trao đổi thông tin với máy điều khiển trung tâm KY1631{ và các thành
+phần còn lại của KACY qua các đường truyền mạng Ethernet và đường truyền
+đa truy nhập (cơ bản và dự phòng).
+
+Thành phần của khối BM-I gồm có:
+
+~ 01 module CPU
+
+- 01 thê nhớ Compaet Flash
+
+~ 02 module nhận thông tin số DI32-5.
+
+- 01 module phát thông tin số DO32-5.
+
+- 01 module kết nối thông tin (chuẩn 1553B) TX1-MP.
+
+- 01 module trao đổi thông tin số MLIO.
+
+~ 01 module thời gian CTC5300.
+
+- 01 module nguồn thứ cắp MIIP3-5127M.
+
+2. _ Căn cứ quy trình thực hiện kiểm tra kỹ thuật của hệ thống KACY
+
+Hệ thống điều khiển chuẩn bị phóng và phóng tên lửa tên tàu (KACY) có
+chế độ kiểm tra kỹ thuật (2K) để kiểm tra tự động chức năng của các thành phần
+trong hệ thống, trong đó có khối BM-1 của các tủ thiết bị KB163I1.
+
+Kế thừa kết quả nghiên cứu của đề tài KC.T-11 (2013-2016) do Viện
+Công nghệ thông tin chủ trì thực hiện; trên cơ sở phân tích, dịch ngược các phần
+mềm chức năng cũng như các phần kiểm tra của bản thân KACY, tổ đề tài xác
+định được các thành phần của khối BM-I cần phải kiểm tra, xác định các tham
+
+2số kiểm tra, các tham số đối chứng,.. từ đó xây dựng quy trình kiểm tra khối
+
+BM-1 độc lập bên ngoài KACY.
+
+3. _ Căn cứ kết quả nghiên cứu quá trình trao đỗi thông tin của khối BM-1
+bên trong KACY cũng như BM-I với các quả đạn tên lửa.
+
+Trên cơ sở nghiên cứu quá trình trao đổi thông tin của khối BM-I bên
+trong hệ thống KACY, tổ đề tài xác định chức năng của các thành phần trong hệ
+thống, bao gồm:
+
+- _ Module nguồn cung cấp các nguồn 5V, +12V cho khối BM-I.
+
+-_ Module CPU sử dụng cổng Ethernet để phục vụ trao đổi thông tin
+
+trong toàn khối trên mạng QNX FLEET.
+
+-_ Module TX1-MP có chức năng tạo mạng đa truy cập nối tiếp chuẩn
+
+MIL-STD-1553B.
+
+-_ Module CTC5300 tạo kênh đánh địa chỉ NODE cho khối BM-1 và tạo
+
+xung đồng bộ tín hiệu thời gian trong khối.
+Trên cơ sở nghiên cứu quá trình trao đổi thông tin của khối BM-1 với các
+quả tên lửa qua các kênh tín hiệu trong các chế độ hoạt động của KACY, bao
+gồm:
+~_ Module MCO: trao đổi 4 kênh tín hiệu ARINC-429 với 4 quả tên lửa
+-_ Module DI32-5 số 1: thu thập thông tin đầu vào số (tín hiệu lệnh) từ
+quả tên lửa số 1 và số 2.
+
+-_ Module DI32-5 số 2: thu thập thông tin đầu vào số (tín hiệu lệnh) từ
+quả tên lửa số 3 và số 4.
+
+-_ Module DO32-5: xuất thông tin đầu ra số (tín hiệu lệnh) ra 4 quả tên
+lửa .
+
+I- CƠ SỞ XÂY DỰNG QUY TRÌNH TỰ KIỀM TRA THIẾT BỊ
+1. Căn cứ chức năng nhiệm vụ của thiết bị kiểm tra
+
+Thiết bị Kiểm tra khối BM-1 có chức năng kiểm tra tình trạng kỹ thuật
+toàn khối BM-1 trong điều kiện hoạt động độc lập ngoài hệ thống KACY.
+
+Thiết bị Kiểm tra khối BM-1 thể kiểm tra chỉ tiết đến mức tuyến tín hiệu
+đối với các module trao đổi thông tin của BM-1, bao gồm: DI32-5, DO32-5,
+MCO, TX1-MP.
+
+Thiết bị Kiểm tra khối BM-1 được thiết kế, chế tạo dựa trên nguyên tắc:
+
+~ Không can thiệp lên đối tượng kiểm tra ( BM-1 và các module thành
+phần)
+
+~ Kiểm tra nguyên khối BM-1 trong điều kiện cấp nguồn và hoạt động,
+như trong môi trường KACY
+
+Thiết bị Kiểm tra khối BM-1 bao gồm các thành phần:
+
+“⁄*e2.
+
+~_ Khối máy tính trung tâm
+
+- Khối tạo tín hiệu kích thích (MIL-STD-1553B, ARINC-429,
+DIGITAL IO)
+Các thiết bị ngoại vi (màn hình, bàn phím, máy in, kết nối).
+
+Căn cứ tính năng kỹ thuật các thành phần của thiết bị kiểm tra
+
+Thiết bị kiểm tra BM-1 có các module cần kiểm tra:
+
+~_ Module nguồn cung cấp các nguồn nuôi cho Thiết bị kiểm tra và khối
+BM-1.
+
+~__ Module CPU sử dụng cổng Ethernet để phục vụ trao đổi thông tin với
+khối BM-1 qua mạng QNX FLEET.
+
+~_ Module MIL-STD-1553B có chức năng tạo mạng đa truy cập nối tiếp
+chuẩn MIL-STD-1553B để kiểm tra card TX1-MP của BM-I.
+
+-_ Module ARINC-429: trao đổi 4 kênh tín hiệu ARINC-429 với 4 quả
+tên lửa
+
+-_ Module DIGITAL INPUT để thu thông tin từ card DO32-5 của BM-1.
+
+-_ Module DIGITAL OUTPUT để thu thông tin từ card DI32-5 của BM-
+1.
+
+IT- TÀI LIỆU THAM KHẢO.
+
+Các quy trình và phương pháp kiểm tra BM-1 được xây dựng trên cơ sở
+
+nghiên cứu Tài liệu khai thác và sử dụng hệ thống KACY, kế thừa các kết quả
+nghiên cứu về hệ thống KACY, cùng các tài liệu đặc tả kỹ thuật của các hãng
+sản xuất thiết bị, bao gồm:
+
+mm
+
+Z2
+
+I3]
+
+I4
+
+B]
+[6]
+
+Tổng cục CNQP, Hướng dẫn khai thác sử dụng và bảo dưỡng kỹ thuật
+tàu 12418, Tổ hợp 3P-60V2-1, Hướng dẫn sử dụng Phần 1 Thuyết minh
+và hoạt động, năm 2017.
+Tổng cục CNQP, Hướng dẫn khai thác sử dụng và bảo dưỡng kỹ thuật
+tàu 12418, Tổ hợp 3P-60V2-I, Phần 2 Sử dụng theo chức năng, Quyên
+1,2,3, năm 2017.
+Đinh Văn Ngọc và cộng sự, Báo cáo tổng kết Nhiệm vụ “Chế ígo khối
+tính toán BM-1 hệ thống điều khiển phóng tên lửa KACYV 3P-60V2”, Viện
+Công nghệ thông tin/Viện KH-CNQS, năm 2016.
+Phạm Hồng Long và cộng sự, Báo cáo tổng kết đề tài KC-T11 “Nghiên
+cứu, thiết kế hệ thông tổ hợp thiết bị điểu khiển phóng tên lửa KACV 3P-
+60V2-1241.8 và thiết kế, chế thử máy KB163IT", năm 2017.
+Trung tâm TC-ĐL-CL1/Cục Kỹ thuật Hải quân: Quy trình kiểm định máy
+hiện sóng DSO-X 2012A, năm 2018.
+Trung tâm sửa chữa phương tiện đo/Cục TC-DL-CL/BTTM: úy trình
+kiểm tra thiết bị kiểm tra APTOMAT CB500, năm 2015.
+
+4
+
+NExa

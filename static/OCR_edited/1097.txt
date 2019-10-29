@@ -1,0 +1,66 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 349 /VCNTT-KH Hà Nội, ngày.2 tháng 01 năm 2018
+
+'V/ đề xuất kế hoạch khảo sát hệ thống.
+1I-074 thực hiện đề tài KC.T-32
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ Hợp đồng Khoa học và Công nghệ số 3254/2017/HĐKHCN ngày
+29/12/2017 giữa Cục Khoa học quân sự/BQP, Ban Chủ nhiệm Đề án KC-T và
+'Viện Khoa học và Công nghệ quân sự, Viện Công nghệ thông tin, Chủ nhiệm đề
+tài;
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài cấp BQP thuộc Đề án
+KC-T: “Hoàn thiện thiắt kế và chế tạo thiết bị kiểm tra hệ thống điều khiển quán
+tính 1Ị-074 của đạn tên lửa Kh-35E” (Mã số KC.T-32),
+
+Viện Công nghệ thông tin đề xuất kế hoạch khảo sát khảo sát hệ thống
+điều khiển quán tính I-074 của lô đạn Kh-35E nhập khẩu năm 2010 như sau:
+
+1. Thành phần tham gia (dự kiến):
+
+1. Thiếu tá Nguyễn Thái Hòa, Phòng KTHT/Viện CNTT/Viện KHCNQS
+
+2. Thiếu tá Nguyễn Minh Thường, Phòng KTHT/Viện CNTT/Viện
+KHCNQS
+
+3. Thiếu tá Vũ Hoàng Anh, Phòng KTHT/Viện CNTT/Viện KHCNQS
+
+4. Đại úy Dương Phú Tuấn, Phòng KTHT/Viện CNTT/Viện KHCNQS
+
+5. Thiếu tá Nguyễn Trọng Thể, Phòng CNM/Viện CNTT/Viện KHCNQS
+
+6. Thiếu tá Huỳnh Huy Cường, Phòng SHĐK/Viện CNTT/Viện
+KHCNQS
+
+7. Đại úy Dương Mạnh Cường, Phòng KTHT/Viện CNTT/Viện
+KHCNQS
+
+1. Địa điểm: Căn cứ 696/Vùng 2 — Hải quân.
+
+II. Thời gian (dự kiến): Từ 15/3/2018 đến 15/6/2018
+
+(Nội dưng khảo sát trong phục lục kèm theo công văn này).Kính đề nghị Phòng TM-KH xem xét và báo cáo Ban Giám đốc Viện
+KHCNGS liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ đoàn
+công tác Viện Công nghệ thông tin hoàn thành nhiệm vụ. JWW#
+
+Nơi nhận: §N TRƯỞNG
+
+  
+
+- Lưu: VT, KH; H03.
+Nội dung khảo sát Khảo sát chỉ tiết các khối chức năng của hệ thống.
+1074 Khảo sát các chế độ làm việc của hệ thống II-074 Khảo sát chỉ tiết giao tiếp giữa hệ thống II-074
+với thiết bị điều khiển trên khoang: đầu tự dẫn V-
+502, đo cao vô tuyến 3A-59A. 
+Khảo sát chỉ tiết giao tiếp giữa hệ thống II-074
+với hệ thống AKHIA 6.3, ACK Ghi chú Đo đạc ội, xây
+dựng sơ đô đâu nôi
+điện Ghỉ nhật ký 
+Ghi nhật ký, thu thập
+dữ liệu Đơn vị 696 vận hành
+kiểm tra tên lửa Kh-
+35E với hệ
+AKHA 6.3, ACK 

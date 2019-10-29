@@ -1,0 +1,340 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do ~ Hạnh phúc
+Số: ⁄#_ /VCNTT-KH Hà Nội, ngày 18 thắng 7 năm 2016
+'V/v kế hoạch thử nghiệm sản phẩm của
+nhiệm vụ khai thác làm chủ và đảm bảo
+kỹ thuật cho tàu ngầm Kilo 636.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ tờ trình số 4166/TTr-KT ngày 20/4/2016 của Cục Kỹ thuật - Bộ tư
+lệnh Hải quân về việc hợp tác làm chủ VKTBKT trên tàu Kilo 636 với Viện Khoa
+học và Công nghệ quân sự;
+
+Căn cứ Quyết định số 580/QĐ-VKHCNQS ngày 13/5/2016 của Giám đốc
+'Viện KH-CN quân sự về việc giao nhiệm vụ khai thác VKTBKT thế hệ mới năm
+2016;
+
+Căn cứ theo thuyết minh nhiệm vụ: “Nghiên cứu, thiết kế chế tạo một số ố thiết
+bị, vật tr phục vụ khai thác làm chủ và đảm bảo kỹ thuật cho tàu ngầm Kilo đe
+đã được phê duyệt,
+
+Để thực hiện các bước tiếp theo của nhiệm vụ, Viện Công nghệ thông tin đề
+xuất kế hoạch tổ chức thử nghiệm nghiệm thu các sản phẩm của nhiệm vụ theo các
+đợt như sau:
+
+1. Đợt 1.
+
+1. Nội dung:
+
+- Sao lưu phần mềm M360-001
+
+- Sao lưu phần mềm M360-002
+
+- Sao lưu phần mềm CKJAB
+
+- Thử nghiệm, nghiệm thu máy tính điều khiển M360-001 do nhóm nhiệm vụ
+sửa chữa.
+
+~ Thử nghiệm, nghiệm thu máy tính điều khiển M360-002 do nhóm nhiệm vụ
+sửa chữa.
+
+~ Thử nghiệm thiết bị kiểm tra rơ le PYE-1T-4V.
+
+~ Thử nghiệm thiết bị tạo giả buồng acquy.
+
+2. Thành phần: Nhóm thực hiện nhiệm vụ của Viện Công nghệ thông
+tin/Viện KH&CNQS đại diện là đồng chí chủ nhiệm nhiệm vụ, đại úy Phạm Văn
+Hậu và 05 đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Đỗ Việt Bình, Viện CNTT/Viện KHCNQS.
+
+~ Trung tá Thái Trung Kiên, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Đinh Văn Ngọc, Viện CNTT/Viện KHCNQS.- Đại úy Nguyễn Minh Thường, Viện CNTT/Viện KHCNQS.
+
+3. Thời gian: Dự kiến khoảng 20 ngày (25/7/2016 đến ngày 15/8/2016)
+
+4. Địa điểm: Lữ 189/Hải quân.
+
+5. Quy trình thử nghiệm nghiệm thu (có phụ lục kèm theo).
+
+1. Đợt2.
+
+1.Nội dung:
+
+~ Thử nghiệm thiết bị kiểm tra rơ le PYE-1T-4Y.
+
+~ Thử nghiệm thiết bị tạo giả buồng acquy.
+
+~ Thử nghiệm thiết bị kiểm tra anten sorna.
+
+2.Thành phần: Nhóm thực hiện nhiệm vụ của Viện Công nghệ thông tin/Viện
+KH&CNGS đại diện là đồng chí chủ nhiệm nhiệm vụ, đại úy Phạm Văn Hậu và
+08 đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Đỗ Việt Bình, Viện CNTT/Viện KHCNQS.
+
+- Trung tá Thái Trung Kiên, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Đinh Văn Ngọc, Viện CNTT/Viện KHCNQS.
+
+~ Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Hoàng Đình Thắng, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Trần Hiếu Minh, Viện CNTT/Viện KHCNQS.
+
+~ Đại úy Nguyễn Minh Thường, Viện CNTT/Viện KHCNQS.
+
+3.Thời gian: Dự kiến khoảng 20 ngày (5/9/2016 đến ngày 25/9/2016)
+
+4.Địa điểm: Lữ 189/Hải quân.
+
+5.Quy trình thử nghiệm nghiệm thu (có phụ lục kèm theo)
+
+II. Đợt 3.
+
+1.Nội dung:
+
+~ Thử nghiệm, nghiệm thu thiết bị kiểm tra rơ le PYE-1T-4Y.
+
+~ Thử nghiệm, nghiệm thu thiết bị tạo giả buồng acquy.
+
+~ Thử nghiệm, nghiệm thu thiết bị kiểm tra anten sorna
+
+- Thử nghiệm, nghiệm thu máy tính trung tâm M360-001-VN do nhóm nhiệm
+vụ chế tạo.
+
+2.Thành phần: Nhóm thực hiện nhiệm vụ của Viện Công nghệ thông tin/Viện
+KH&CNQS đại diện là đồng chí chủ nhiệm nhiệm vụ, đại úy Phạm Văn Hậu và
+06 đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Đỗ Việt Bình, Viện CNTT/Viện KHCNQS.
+
+- Trung tá Thái Trung Kiên, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Đỉnh Văn Ngọc, Viện CNTT/Viện KHCNQS.PHỤ LỤC.
+
+Quy trình thữ nghiệm, nghiệm thu các thiết bị phục vụ khai thác làm chủ và
+đảm bảo kỹ thuật cho tàu ngầm Kilo 636 thuộc Lữ 189/ Hãi quân.
+(Kèm theo công văn số: 4#+ /VCNTT-KH ngày 18/2/2016 của Viện Công nghệ
+thông tin)
+
+1. Quy trình sao lưu phần mềm M360-001:
+
++ Bước 1: Ngắt nguồn hệ thống IlannannB-M.
+
++ Bước 2: Tháo máy tính M360-001, tháo mô đun thẻ nhớ, tiến hành sao lưu.
+
++ Bước 3: Lắp thẻ nhớ mới được sao lưu vào M360-001, bật nguồn hệ thống,
+Tlamianafi-M.
+
++ Bước 4: Kiểm tra tình trạng hoạt động của hệ thống.
+
++ Bước 5: Ngắt nguồn hệ thông điều khiển toàn tàu Ilananwii-M..
+
++ Bước 6: Lắp trả thẻ nhớ nguyên bản vào máy tính M360-001; lắp M360-001
+vào hệ thống Ianuanuii-M.
+
++ Bước 7: Bật nguồn hệ thống Iannannii-M.
+
++ Bước 8: Kiểm tra tình trạng hoạt động của hệ thống.
+
++ Bước 9: Đánh giá kết quả, trả lại nguyên trạng hệ thống.
+
++ Bước 10: Đóng gói, niêm phong thẻ mới sao lưu đề làm Zip.
+
+2. Quy trình sao lưu phần mầm M360-002:
+
++ Bước 1: Ngắt nguồn hệ thống Sub Ilannanwii-M tại khoang 1.
+
++ Bước 2: Tháo máy tính M360-002, tháo mô đun thẻ nhớ, tiền hành sao lưu.
+
++ Bước 3: Lắp thẻ nhớ mới được sao lưu vào M360-002, lắp M360-002 vào
+Sub Ilannanwii-M tại khoang 1 và bật nguồn.
+
++ Bước 4: Kiểm tra tình hoạt động của hệ thống.
+
++ Bước 5: Ngất nguồn hệ thông Sub [annanwii-M khoang I.  _
+
++ Bước 6: Lắp trả thẻ nhớ nguyên bản vào máy tính M360-002; lắp M360-002
+vào hệ thống ITannanwli-M khoang 1.
+
++ Bước 7: Bật nguồn hệ thống Sub Ilarnanwi-M khoang l.
+
++ Bước 8: Kiểm tra tình trạng hoạt động của hệ thống.
+
++ Bước 9: Đánh giá kết quả, trả lại nguyên trạng hệ thống.
+
++ Bước 10: Đóng gói, niêm phong thẻ mới sao lưu để làm Zip.
+
+Lặp lại các thao tác từ bước 1 đến bước 9 đối với 05 Sub Ilanrianwii-M tại 05
+khoang còn lại của tàu.
+
+3. Quy trình sao lưu phần mềm CKJJAE:
+
++ Bước 1: Ngắt nguồn hệ thống C k -
+
++ Bước 2: Tháo máy tính của hệ thông; tháo ổ cứng và tiến hành sao lưu.
+
++ Bước 3: Lắp ô cứng mới được sao lưu vào hệ thông.
+
++ Bước 4: Bật nguồn hệ thống CKJAB.
+
++ Bước 5: Kiểm tra tình trạng hoạt động của hệ thống.
+
++ Bước 6: Ngất nguồn hệ thông CKJLAB.
+
++ Bước 7: Lắp trả cứng nguyên bản vào hệ thống.
+
++ Bước §: Bật nguồn hệ thông.
+
++ Bước 9: Kiểm tra tình trạng hoạt động của hệ thống.+ Bước 10: Đánh giá kết quả, trả lại nguyên trạng hệ thống.
+
++ Bước 11: Đóng gói, niêm phong thẻ mới sao lưu để làm Zip.
+
+4. Quy trình thử nghiệm, nghiệm thu máy tính điều khiển M360-001 do
+nhóm nhiệm vụ sửa chữa:
+
++ Bước 1: Ngắt nguồn hệ thống Sub ITannawii-M tại khoang l.
+
++ Bước 2: Thay thế máy tính M360-001 nguyên bản của Nga tại khoang l
+bằng M360-001 do Nhóm sửa chữa.
+
++ Bước 3: Bật nguồn hệ thống Sub [lananwii-M khoang l.
+
++ Bước 4: Kiểm tra tình trạng hoạt động của hệ thống.
+
++ Bước 5:Ngắt nguồn hệ thống Sub Ilannanwli-M khoang I. .
+
++ Bước 6Lắp trả máy tính M360-001 nguyên bản vào hệ thống Sub
+Tlannann-M khoang l.
+
++ Bước 7: Bật nguồn hệ thống Sub Ilannanwii-M khoang l.
+
++ Bước 8: Kiểm tra tình trạng hoạt động của hệ thông.
+
++ Bước 9: Đánh giá kết quả, lập biên bản thử nghiệm. -
+
+5. Quy trình thử nghiệm, nghiệm thu máy tính điều khiển M360-002 do
+nhóm nhiệm vụ sửa chữa:
+
++ Bước 1: Ngắt nguồn hệ thống Sub [lannanwii-M tại khoang 2.
+
++ Bước 2: Thay thế máy tính M360-002 nguyên bản của Nga tại khoang 2
+bằng M360-002 do Nhóm sửa chữa.
+
++ Bước 3: Bật nguồn hệ thống Sub Ilannannli-M khoang 2.
+
++ Bước m tra tình trạng hoạt động của hệ thống.
+
++ Bước 5:Ngắt nguồn hệ thông Sub [Iannanwli-M khoang 2. -
+
++Bước 6Lấp trả máy tính M360-002 nguyên bản vào hệ thống Sub
+Tlannannii-M khoang 2.
+
++ Bước nguồn hệ thống Sub Tlannanuii-M khoang 2.
+
++ Bước m tra tình trạng hoạt động của hệ thống.
+
++ Bước 9: Đánh giá kết quả, lập biên bản thử nghiệm.
+
+6._ Quy trình thử nghiệm, nghiệm thu thiết bị kiểm tra rơ le PVE-1T-4V:
+
++Bước 1: Ngắt nguồn hệ thông CK/IAB
+
++Bước 2: Ngắt kết nối của rơ le PYE-IT-4V cần kiểm tra với hệ thống,
+
+  
+
+  
+
+  
+ 
+
+ 
+
+  
+ 
+ 
+ 
+  
+
+CKHAB.
++ Bước j kiểm tra với rơ le cần kiểm tra.
++ Bước 4: Bật nguôn thiết bị kiểm tra.
+
+ọc kết quả trên màn hình của thiết bị kiểm tra.
+ánh gía kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng cho
+
+?. Quy trình thử nghiệm, nghiệm thu thiết bị tạo giả bung acquy:
+
++ Bước l: Ngắt nguồn hệ thông CK/IAB và Thiết bị tạo giả.
++ Bước 2: Ngắt kết nối từ BOM xuống ABI tại vị trí jack X8
++ Bước 3: Kết nối X8 vào bộ tạo giả.
+
+  
+
++ Bước
++ Bước §:
+mềm.
+
+ 
+
+nguồn bộ tạo giả sau đó bật nguồn hệ thống CKIAB. Ộ
+iễm tra tình trạng buồng AB1 bằng thao tác trên giao diện phần+ Bước 6: Đánh gía kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng hệ
+thống.
+
+8. Quy trình thử nghiệm, nghiệm thư thiết bị kiểm tra đHfeH sornd:
+
++ Bước Hộ 'Ngắt nguồn toàn bộ tổ hợp sôna, tháo giắc số 7 (bất kỳ trong 36
+giắc) trong bầu sorna.
+
++ Bước 2: Lắp giắc số 7 vào thiết bị kiểm tra, cấp nguồn và khởi động thiết bị
+kiểm tra.
+
++ Bước 3: Tiến hành đo các thông số của giắc số 7.
+
++ Bước 4: Lặp lại với từ 1 đến 3 giắc số 7 khác.
+
++ Bước 5: Lắp lại toàn bộ giắc số 7 vào đùng vị trí ban đầu, tiến hành trích
+xuất báo cáo kết quả kiểm tra. . . -
+
++ Bước 6: Cấp nguồn cho tổ hợp sôna và kiểm tra toàn bộ hoạt động của tổ
+hợp.
+Ó + Bước 7: Đánh gía kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng hệ
+thông.
+
+9. Quy trình thử nghiệm, nghiệm thu máy tính trung tâm M360-001-VN do
+nhóm nhiệm vụ chế tạo:
+
++ Bước 1: Ngắt nguồn hệ thống điều khiển toàn tàu Iannannl-M.
+
++ Bước 2: Thay thế một trong hai máy tính M360-001 nguyên bản của Nga
+bằng M360-001-VN.
+
++ Bước 3: Bật nguồn hệ thống Ilannannii-M.
+
++ Bước 4: Kiểm trat tình trạng hoạt động của hệ thống.
+
++ Bước 5: ;Ngắt nguồn hệ thống điều khiển toàn tàu Tiannanwi-] -M.
+
++ Bước 6:Lấp trả máy tính M360-001 nguyên bản vào hệ thống [larranui-M.
+
++ Bước 7: Bật nguồn hệ thống Hannanuii-M. ,
+
++ Bước 8: Kiểm tra tình trạng hoạt động của hệ thông.
+
+_ + Bước 9: Đánh giá kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng hệ
+
+thống.
+
++ Chú ý: Các thao tác thực hiện đều tuân theo hướng dẫn của tài liệu và
+sự điều hành của trắc thủ.

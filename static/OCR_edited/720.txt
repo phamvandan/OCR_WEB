@@ -1,0 +1,184 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ 
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc Tự do - Hạnh phúc
+Số: J5Ÿ/VCNTT-KH Hà Nội, ngày45tháng € năm 2017
+'V/ Tham gia thảo luận xây dựng Văn bản
+luật an ninh mạng.
+
+Kính gửi: Thủ trưởng Cục Công nghệ thông tin/ BTTM.
+
+Căn cứ Công văn số 647/CNTT-ATM của Cục Công nghệ thông tin về
+việc chuẩn bị báo cáo để làm việc với Đoàn khảo sát của Ủy ban QPAN;
+Căn cứ văn bản luật an ninh mạng gửi kèm và nội dung sẽ thảo luận,
+Viện Công nghệ thông tin tham gia một số nội dung thảo luận như sau:
+1. Tình hình hoạt động của các đối tượng xâm phạm, đe dọa xâm
+phạm đến an ninh mạng; sử dụng không gian mạng để, thực hiện hành vi
+xâm phạm quốc phòng, an ninh và phạm tội: -
+Không gian nh ra kỷ nguyên trao đổi thông tin nhanh chóng, m‹
+lúc mọi nơi. Khi nói đến không gian mạng hay Internet, người ta nghĩ ngay
+các kết nối trực tuyến và sự tiện lợi. Khi các dịch vụ Internet phát triển, đặc biế
+là sự xuất hiện các mạng xã hội và các thiết bị di động thông minh, con người ›,z+
+tương tác đa chiều hơn, phản ánh sinh động hơn, tức thời hơn mọi mặt đời sông NÓ ĐỊ
+Từ quá trình này con người thể hiện đa dạng đời sống và các quan hệ xã hội trên
+Internet, biến Internet thành không gian xã hội, hay không gian mạng, nơi có thể
+thực hiện các hành vi bản chất xã hội của mình, như giao tiếp, lao động,
+sáng tạo, học tập, sản xuất, tiêu dung, vui chơi, giải trí...Trong không gian
+không biên giới đó, con người không bị giới hạn bởi không gian và thời gian.
+Không gian mạng tiếp tục mở rộng, đóng vai trò ngày càng quan trọng,
+hơn trong đời sống con người và với những đặc tính cốt lõi, đưa đến cho con
+người những lợi ích to lớn nhưng cũng đặt con người trước những thách thức
+gay gắt, phức tạp. Do vậy, không gian mạng không chỉ tác động sâu sắc tới đời
+sống xã hội mà còn chỉ phối đời sống chính trị của các quốc gia và đời sống
+chính trị của quốc tế.
+Tâm ảnh hưởng của không gian mạng đã vượt xa ý nghĩa ban đầu của
+Internet là phục vụ quân sự, trở thành nguyên nhân, động lực, môi trường, chất
+xúc tác cho hàng loạt các thay đổi căn bản trên các mặt đời sống xã hội loài
+người.
+Trong lĩnh vực quân sự, nguyên nhân của sự khởi đầu Internet, có những
+thay đổi căn bản với sự xuất hiện của miền tác chiến mới - không gian mạng, đi
+kèm là các học thuyết chiến tranh mới, các phương thức tác chiến mới. Không
+gian mạng không chỉ tạo nên những thay đổi trong lĩnh vực quân sự truyền
+thống, mà giờ đây nó còn tạo ta những nên quân sự trên không gian mạng với
+các vũ khí số phi sát thương, nhưng có khả năng tác chiến cao, được giới chức
+quân sự Mỹ ví như vũ khí hạt nhân.Từ góc nhìn của mỗi quốc gia, lợi ích to lớn và các tác động đa chiều của
+không gian mạng làm xuất hiện các vấn đề an ninh quốc gia mới, đặt mỗi quốc
+gia và cộng. đồng quốc tế trước những lựa chọn phức tạp, giữa cân bằng lợi ích
+và chủ quyên, giữa nhu cầu phát triển và nhu cầu bảo vệ, giữa hợp tác và cạnh
+tranh... Từ đây, hàng loạt vấn đề phức tạp mới đặt ra, như lãnh thổ mạng, chủ
+mạng, biên giới mạng, cửa khẩu mạng, biên phòng mạng, an ninh mạng,
+tranh mạng, tình báo mạng hay khủng bố mạng....Căng thăng và thỏa hiệp
+giữa các quốc gia, các nhóm lợi ích, các thỏa thuận nhằm xác lập và cân bằng
+lợi ích giữa các nước lớn cũng không nằm ngoài các tác động này. Đây là
+những vấn đề mang tính toàn cầu bởi không gian mạng là không gian mở, không
+phụ thuộc biên giới địa lý quốc gia.
+
+Chính sách của không ít quốc gia đang tạo ra cuộc “chạy đua vũ trang”
+trong việc phát triển vũ khí mạng, chiến binh mạng hay thúc đẩy các khuynh
+hướng "tự do”, cực đoan trên không gian mạng nhằm phục vụ lợi ích chính trị
+của mình. Chính sách khai thác tính mở của không gian mạng để thúc đây các
+khuynh hướng tự do vô chính phủ, ly khai của một số quốc gia, điển hình là Mỹ
+và một sô nước phương Tây đối với quốc gia khác vì lợi ích chính trị cũng tạo
+nên những tác động xâu từ không gian mạng. Đây là điều đã xây ra tại Ai cập,
+Syria và một loạt các quốc gia Trung Đông — Bắc Phi, Ukraina, 'Veneznela...và
+nó cũng nằm trong hoạt động “diễn hòa bình” của Mỹ và một số nước
+phương Tâ với Việt Nam trong nhiều năm qua. . l
+
+Sự bất ôn chính trị gần đây trên thế giới cho thấy, cuối năm 2010, đầu
+năm 2011, bất nguồn từ hình ảnh người thanh niên Mohamed Bouazizi ở
+Tunisia tự thiêu để phản đối cảnh sát và những lời kêu gọi xuống đường biểu
+tình lan truyền trên các trang mạng xã hội (Facebook, Twitter, Youtube...) cùng.
+với sự công hưởng của những bất ôn nội tại đã dẫn đến các cuộc biểu tình quy
+mô lớn trên đường phố, kết quả là sự sụp đỗ của chính quyền Tổng thống Ben
+Ali sau 2 năm năm quyền lãnh đạo. Nhưng không dừng lại, làn sóng chống.
+chính quyền tiếp tục lan truyền qua không gian mạng sang hang loạt các nước
+Trung Đông — Bắc Phi như Ai Cập, Syria, Yemen, Bahraihn, Algeria, Jordan,
+Moritani, Bangladesh, Bolivia, Cyrus, Gabong, Iran...để lại nhiều hệ quả chính
+
+¡ - xã hội nặng nề, mặc dù được báo chí phương Tây gọi là “Mùa xuân Ả Rập”.
+lận thây trong sự kiện này vai trò của không gian mạng, thậm chí tại Ai
+Cập, Tông thống Mubarak với 30 năm nắm quyền đã ra lệnh cắt Internet và sóng,
+điện thoại di động nhưng vẫn không kịp ngăn chặn biểu tình và bị lật đỗ chỉ sau
+18 ngày kế từ lời kêu gọi đầu tiên phát đi trên mạng xã hội Facebook.
+
+Các nghiên cứu sau đó còn chỉ ra vai trò của Mỹ và phương Tây thông
+qua các tổ chức phi chính phủ hoạt động tại khu vực này. Điều đáng nói là cách
+thức tô chức biểu tình qua không gian mạng tiếp tục xảy ra tại nhiều nơi trên thế
+giới, kể cả tại Mỹ và phương Tây. Điển hình là bạo động tại Anh vào tháng
+8/2011 mà Thủ tướng David Carmeron miêu tả sau đó là “Mọi người có thể bị
+sốc khi chứng kiến cách các cuộc bạo loạn được tổ chức bằng các phương tiện
+truyền thông xã hội”, hay phong trào “Chiếm phố Wall” tại Mỹ lan ra hơn 1500
+thành phố trên thể giới chỉ sau 01 tháng và gần đây được lặp lại tại Hồng Kông.
+
+2Các diễn biến này một lần nữa cho thấy sức mạnh lan tỏa cực nhanh, không biên
+giới của không gian mạng và càng nguy hiểm hơn nếu đứng sau là âm mưu của
+những quốc gia có tiềm lực khoa học — công nghệ.
+
+Đối với Việt Nam, hoạt động phá hoại tư tưởng đang được các thế lực thù
+địch, phản động triển khai quyết liệt thông qua qua không gian mạng chủ yếu:
+
+"Một là, sử dụng sức mạnh của không gian mạng để truyền bá quan điểm,
+tư tưởng, giá trị phương Tây, lối sống tự do, thúc đây “tự diễn biến”, “tư chuyển
+hóa”. Chúng tập trung xuyên tạc, phản bác chủ nghĩa Mác — Lênin, tư tưởng Hồ
+Chí Minh, đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước,
+thực trạng kinh tế - xã hội, tình hình chính trị nội bộ, bôi nhọ uy tín lãnh đạo
+Đảng, Nhà nước... với cách thể hiện đa dạng, trực quan hơn, tận dụng sự lan tỏa,
+công hưởng của không gian mạng. Đặc biệt là sự tương tác của các mạng xã hội
+với sự tham gia chủ yếu của giới trẻ cùng nhiều thành phần trong xã hội đang
+làm cho những luận điệu chống Đảng, Nhà nước ngày càng trở nên tỉnh vỉ, nguy
+hiểm, trực diện, ảnh hưởng rộng hơn, tác động trực tiếp vào những thành phần
+dễ bị ảnh hưởng. Hướng hoạt động này có sự công hưởng mạnh mẽ của các đối
+tượng phản động người Việt lưu vong, số đối tượng cơ hội chính trị, cực đoan,
+bắt mãn trong xã hội có xu hướng hoạt động nhiều hơn trên không gian
+mạng, với vai trò cung cấp thông tin, trả lời phỏng vấn, bình luận và đăng lại
+thông tin của các hãng thông tấn nước ngoài.
+
+Hai là, các thế lực thù địch tiếp sức, hậu thuẫn cho hoạt động sử dụng,
+
+Imternet phá hoại tư tưởng của số đối tượng phản chống đối trong và ngoài -¬.
+
+nước. Đóng vai trò chính trong hướng này là một số tổ chức phi chính phủ và
+một số hãng thông tắn của Mỹ, phương Tây. Trong khi các hãng thông tấn tuyên
+truyền, quảng bá, kích động hoạt động chống phá của số đối tượng chống đối
+cũng như chỉ trích Việt Nam vi phạm dân chủ, nhân quyền và cái gọi là “tự
+Internet” thì một số tổ chức phi chính phủ cung cắp tài chính, huấn luyện,
+bị công cụ cho các đối tượng hoạt động chống phá trên mạng hoặc khuyến khích
+số này chống phá quyết liệt hơn bằng cách trao các giải thưởng, đề cử vinh danh
+hay xếp Việt Nam vào danh sách “kẻ thù của Internet”...Điều này cũng gia tăng,
+tính nguy hại khi dịch vụ mạng xã hội, blog cá nhân, thư điện tử, trò chuyện trực
+tuyến, đến từ các hãng công nghệ chủ yếu của Mỹ như Facebook, youtube,
+blogspot, Wordpress, Gmail, Yahoo mail, dịh vụ chat Skype Paltalk.. đang
+
+các đối tượng phản động, chống đối sử dụng nhiều nhất cho hoạt động
+chống phá. Sự hỗ trợ bảo mật và cung cấp các dịch vụ ẩn danh của các hãng
+công nghệ cũng góp phần thức đẩy hoạt động cực đoan, xu hướng tự do vô
+chính phủ, thoát ly khỏi sự lãnh đạo của Đảng, Nhà nước hay phản kháng chính
+quyền theo cách mà chúng gọi là “bất tuân dân sự trên mạng”.
+
+2. Nhận định và hướng giải quyết các vấn đề bắt cập đối với Việt Nam
+
+Việt Nam đã đạt được nhiều thành tựu trong việc ứng dụng công nghệ
+thông tin, hòa nhập nhanh với không gian mạng chung của quốc tế, tuy nhiên
+phải nhìn nhận một cách thực tế khách quan rằng. chúng ta còn nhiều vấn đề cònbắt cập có thể tác động xấu tới định hướng và tốc độ phát triển công nghệ thông,
+tin, Internet cũng như an ninh, an toàn thông tỉn, an ninh mạng, đó là:
+
+Thứ nhất, việc xây dựng, ban hành các văn bản quy phạm pháp luật không
+theo kịp tình hình phát triển của không gian mạng, dẫn đến nhiều kẽ hở, nhiều
+vấn đề chưa có quy phạm pháp luật điều chinh, gây khó khăn cho công tác quản
+lý nhà nước gia tăng nguy cơ mất an ninh, an toàn. thông tin và tội phạm mạng.
+
+Thứ hai, chưa có văn bản quy phạm pháp luật điều chỉnh về an ninh, an
+toàn mạng, việc ban hành và thực thi các chính sách về bảo mật tại các cơ quan,
+tô chức, doanh nghiệp chưa được chú trọng.
+
+Thứ ba, việc đầu tư cơ sở hạ tầng của các nhà cung cấp dịch vụ trong
+nước còn phân tán, thiếu đồng bộ, thiếu cơ chế hợp tác, gây lãng phí.
+
+Thứ tư, cơ sở hạ tầng kỹ thuật không gian mạng phát triển nhanh chóng,
+nhưng phần lớn lệ thuộc nước ngoài.
+
+Thứ năm, thiếu hụt nguồn nhân lực chất lượng cao, nhất là trên lĩnh vực
+an ninh, an toàn mạng.
+
+Thứ sáu, hạ tầng không gian mạng tiềm ẳn nguy cơ tê liệt hoạt động thông,
+tin liên lạc quốc gia nếu xảy ra biến cố lớn về an ninh quốc gia.
+
+Thứ bảy, công tác bảo mật hệ thống mạng chưa được cơ quan, tổ chức,
+doanh nghiệp chú trọng, trong khi nhận thức, kỹ năng và ý thức về an ninh, an
+
+toàn thông tin mạng của người sử dụng còn nhiều hạn chế, chưa có biện pháp
+chế tài với tổ chức, cá nhân vi phạm quy định về bảo mật mạng.
+
+CÁC Ý KIỀN THAM GIA CHỈNH SỬA VĂN BẢN
+- Lỗi chính tả “giấp phép” tại Điều 9, mục 2 c.
+
+_ TRƯỜNG _
+
+   
+
+ 
+
+- Lưu VT, KH; H03.
+
+[Fững tá Đỗ Việt Bình

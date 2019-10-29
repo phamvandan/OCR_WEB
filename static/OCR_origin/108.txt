@@ -1,0 +1,170 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIÊN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 409 /BC-VCNTT Hà Nội, ngày 12 thắng 4 năm 2016
+BÁO CÁO
+
+Thành tích đề nghị tặng thưởng Bằng khen của Thủ tướng Chính phủ
+
+Tên đơn vị đề nghị khen thưởng: Viện Công nghệ thông tin.
+
+Ngày truyền thống: 15/4/1974.
+
+1. SƠ LƯỢC ĐẶC ĐIỂM TÌNH HÌNH
+
+1. Đặc điểm tình hình
+
+- Viện Công nghệ thông tin/Viện Khoa học và Công nghệ quân sự được thành
+lập theo Quyết định 810/ QĐ-TM ngày 21/05/2010.
+
+- Địa điểm đóng quân: 17 Hoàng Sâm, Nghĩa Đô, Cầu Giấy, Hà Nội (phía Bắc);
+số 2 Hồng Hà, Phường 2, Quận Tân Bình, TP Hồ Chí Minh (phía Nam).
+
+- Về tổ chức biên chế gồm: 5 Ban Cơ quan, 15 Phòng Nghiên cứu; Đảng bộ
+Viện CNTT trực thuộc Đảng bộ Viện KH-CN quân sự. Đảng bộ bao gồm 01 đảng bộ
+bộ phận; 17 chỉ bộ trực thuộc. Tổng số đảng viên toàn Đảng bộ chiếm tỉ lệ 98,515.
+Đội ngũ cán bộ của Viện hâu hết được đào tạo cơ bản trong và ngoài nước, có trình độ
+cao (14 Tiến sĩ, 74 Thạc sĩ).
+
+2. Chức năng, nhiệm vụ được giao
+
+Theo quyết định số 422/QĐ-VKHCNQS ngày 27/4/2012 của Giám đốc Viện
+KH-CN quân sự quy định về chức năng: Nghiên cứu, ứng dụng các tiến bộ KHCN
+ngành Công nghệ thông tin trong chỉ huy tham mưu, quản lý điều hành, huấn luyện
+đào tạo và thiết kế, chế tạo, sửa chữa, cải tiến, tăng hạn VKTBKT phục vụ quốc
+phòng, an ninh và kinh tế quốc dân. Cùng với 6 nhiệm vụ: Tổ chức nghiên cứu KHCN
+ngành Công nghệ thông tin, toán ứng dụng, tự động hóa chỉ huy và chiến tranh thông,
+tin theo định hướng của Nhà nước, BQP và Viện KH-CNQS...; Triển khai ứng dụng
+các thành tựu KHCN và kết quả nghiên cứu vào thiết kế chế tạo phục vụ cho công tác
+chỉ huy, quản lý điều hành...; Tham gia nghiên cứu, khai thác, sử dụng, sửa chữa, cải
+tiến, tăng hạn, hiện đại hóa VKTBKT thuộc lĩnh vực CNTT...; Tư vấn, giám sát, thẩm
+định các để tài thuộc lĩnh vực CNTT; Tham gia đào tạo sau đại học và đào tạo nguồn
+nhân lực cho các cơ quan, đơn vị trong và ngoài quân đội; Tổ chức hợp tác về KHCN,
+chuyển giao công nghệ với các cơ quan, đơn vị trong và ngoài nước. _
+
+II. THÀNH TÍCH ĐẠT ĐƯỢC TRONG XÂY DỰNG PHẦN MỀM, CHỈ
+ĐẠO THAM GIA CÔNG TÁC KIỂM PHIẾU PHỤC VỤ ĐẠI HỘI XI
+
+Để nâng cao hiệu quả ứng dụng CNTT phục vụ đại hội đảng các cấp trong
+Đảng bộ Quân đội nhiệm kỳ 2015 - 2020. Viện CNTT đã giao nhiệm vụ cho Phòng
+Công nghệ tri thức và Tính toán mềm/Viện CNTT/Viện KH&CNQS phối hợp với
+Phòng Quản lý Đảng viên/Cục Tổ chức/TCCT xây dựng kế hoạch và phần mềm
+“Phục vụ Đại hội Đảng các cấp trong Đảng bộ Quân đội”. Mục đích: Ứng dụngCNTT phục vụ kiểm phiếu bầu cử bằng máy vi tính tại Đại hội đảng các cấp trong,
+Đảng bộ Quân đội, bảo đảm chính xác, đúng quy chế bầu cử trong Đảng, rút ngăn
+được thời gian bầu cử của đại hội; Phối hợp chặt chế với cơ quan chức năng tiền hành
+triên khai xây dựng phần mềm bảo đảm yêu cầu về kỹ thuật và khả năng ứng dụng
+với các loại hình tô chức đảng các cấp trong Đảng bộ Quân đội (từ cấp cơ sở đến cấp
+toàn quân).
+
+ 
+
+ 
+
+* Quá trình triển khai xây dựng và hoàn thiện phần mềm:
+
+- Năm 2012: Tiến hành xây dựng phần mềm "Phục vụ đại hội Đảng các cấp
+trong Đảng bộ Quân đội”. Kết quả đã được áp dụng tại một số đại hội của các đơn vị
+trong Quân đội như: TCKT, ngân hàng CPTM Quân đội...Tháng 8/2012: thực hiện
+nghiệm thu và chuyển giao phần mềm cho Cục Tổ chức/TCCT theo biên bản số
+783/BB-TC ngày 01/08/2012.
+
+- Năm 2013: thực hiện chuyển giao phần mềm cho Ban Tổ chức TƯ theo yêu
+cầu của Cục Tổ chức/TCCT vào ngày 05/3/2013. Tổ chức tập huấn và chuyển giao
+phần mềm cho tắt cả các đảng bộ trực thuộc Quân ủy Trung ương trong hội nghị tập
+huấn toàn quân của ngành tổ chức về công tác tài chính đảng và quản lý đảng viên
+vào tháng 10/2013.
+
+- Năm 2014: tiếp tục ghỉ nhận đóng góp ý kiến của các đơn vị trong toàn quân
+về việc sử dụng phần mềm, tiếp nhận yêu cầu hoàn thiện phần mềm của Cục Tỏ
+chức/TCCT. Tổ chức bàn giao phiên bản nâng cắp của phần mềm cho tắt cả các đảng.
+bộ trực thuộc Quân ủy Trung ương trong hội nghị tập huần toàn quân của ngành tổ
+chức về công tác thống kê đảng, quản lý đảng viên và chuẩn bị đại hội đảng các cấp
+trong Đảng bộ Quân đội vào tháng 7/2014.
+
+- Năm 2015: đảng bộ Quân đội có 397 đảng bộ sử dụng phầm mềm kiểm phiếu
+phục vụ đại hội đảng nhiệm kỳ 2015-2020 (41 đảng bộ trực thuộc QUTW, 145 đảng
+bộ cáp trên TTCSĐ, 211 đảng bộ cơ sở). Tỏ kỹ thuật của Viện CNTT kết hợp với Cục
+Tổ chức/TCCT triển khai thực hiện tại 16 đảng bộ (12 đảng bộ trực thuộc QUTW, 4
+đảng bộ cấp trên TTCSĐ) và tại Đai hội Đảng bộ Quân đội lần thứ X đạt kết quả tốt,
+được TCCT tặng Bằng khen. Cũng trong năm 2015, Viện CNTT đã phối hợp chặt chẽ
+với Ban Tổ chức Trung ương đẻ hoàn thiện phần mềm hỗ trợ đại hội đảng các cấp,
+tiến tới đại hội lần thứ XI của Đảng. Phần mềm sau khi hoàn thiện đã được chuyên
+giao cho Ban TCTW để triển khai ở các Tỉnh và đã được sử dụng có hiệu quả tại Đại
+hội đảng bộ cấp Huyện và cấp Tỉnh.
+
+- Năm 2016: Viện CNTT kết hợp với Ban Tổ chức TƯ hoàn thiện phiên bản
+phần mềm phục vụ Đại hội Đảng toàn quốc lần thứ XII. Tháng 1/2016, trong đại hội
+XII, tổ kỹ thuật phục vụ đại hội gồm 5 đ/c của Cục Tỏ chức và 11 đ/c của Viện CNTT
+đã sử dụng phần mềm phục vụ kiểm phiếu tại các cuộc bầu của Đại hội tại Đại hội và
+các cuộc bầu cử trong phiên họp thứ nhất Ban Chấp hành TƯ khóa XII đạt kết quả
+tốt, đảm bảo tính chính xác, khách quan và thời gian theo yêu cầu của Ban Tổ chức
+đại hội.* Kết quả đạt được:
+
+- Xây dựng phần mềm kiểm phiếu: Lập danh sách các ứng viên và in phiếu bầu
+cử trong các cuộc bầu cử của đại hội; Kiểm phiếu bằng công nghệ tự động nhận dạng
+hình ảnh (đối với những đơn vị có máy quét ảnh) với hai hình thức bằu: dạng thông
+thường (phiếu gạch tên) và dạng đánh dấu (phiếu xin ý kiến); Kiểm hiền bằng
+phương pháp bán tự động (đối với những đơn vị không có máy quét); Xuất và in biên
+bản bầu cử của các cuộc bầu theo mẫu hiện hành.
+
+- dựng phần mềm quản lý đại biểu: Tra cứu thông tin của các đại biểu dự
+đại hội, Kết xuất các mẫu biểu thống kê chất lượng đại biểu dự đại hội; Kết xuất các
+báo cáo thống kê chất lượng cắp ủy mới trúng cử; đoàn đại biểu dự đại hội cấp trên
+của các đảng bộ.
+
+.- Xây dựng kho thông tin phục vụ công tác chuẩn bị, tổ chức đại hội Đảng các
+cấp trong Đảng bộ đội (các văn bản chỉ đạo, hướng dẫn của Trung ương, Quân
+ủy Trung ương và Tổng cục Chính trị).
+
+* Đánh giá kết quả:
+
+Sau thời gian triển khai thực hiện xây dựng, hoàn thiện phần mềm "PÙc vự
+Đại hội Đảng các cấp trong Đảng bộ Quân đội" đã đáp ứng được mục đích, yêu cầu
+đề ra, cụ thể: Phù hợp với các loại hình tổ chức đảng trong Đảng bộ Quân đội, có thể
+áp dụng cho đại hội đảng từ cấp cơ sở đến Đại hội đại biểu Đảng bộ Quân đội và Đại
+hội đại biểu toàn quốc của Đảng; Có tính ưu việt hơn các phần mềm phục vụ đại hội
+Đảng hiện có nhữ ( lý đại biểu dự đại hội; Thống kê, báo cáo chất lượng cắp ủy
+mới và đoăn đại biểu dự đại hội cắp trên; Có khả năng làm việc theo tổ khi tiến hành
+kiểm phiếu bằu.cử ò:cả phương pháp kiểm phiếu tự động và bán tự động; phù hợp với
+thực tiền khi tổ chức đại hội Đảng các cấp; Có khả năng gửi, nhận dữ liệu đại hội
+Đảng giữa các Đ dàng thay đổi các nội dung báo cáo, thống kê và biên bản đại
+hội (tất cầ:đ liệu được xuất ra file Microsoft Word, người sử dụng có thể sửa chữa
+cho phù hợp vi thể thức văn bản).
+
+Có thể so sánh tính ưu việt của phần mềm kiểm phiếu mà đơn vị xây dựng đã
+đáp ứng tốt Quy chế bầu cử trong Đảng, bảo đảm chính xác, rút ngắn thời gian kiểm
+phiếu, phần mềm làm việc ổn định, độ tin cây cao, dễ sử dụng (Tại đại hội Xi thì thời
+gian kiểm phiếu cho 01 cuộc bằu với số lượng 1500 đại biểu mất tối đa khoảng 2 giờ.
+So với kiểm phiếu bằng phương pháp thủ công trước đây mắt khoảng 8 giờ).
+
+Trong quá trình kiểm phiếu thực tế tại Đại hội XI việc kiểm phiếu theo đúng,
+quy chế công tác bầu cử trong đảng. Tổ Kỹ thuật hoạt động theo hướng dẫn của bộ
+phận giám sát. Mọi hoạt động của tô kỹ thuật được đưa lên màn hình lớn để giám sát
+bảo đảm tính khách quan, trung thực. Kết quả kiểm phiếu được in ra nhanh chóng.
+Phần mềm tính toán kiểm phiếu bảo đảm tính chính xác tuyệt đối, không xảy ra bất cứ
+sai sót nhỏ nhất.TH. CÁC DANH HIỆU THỊ ĐUA VÀ HÌNH THỨC KHEN THƯỜNG ĐÃ
+ĐƯỢC NHẬN
+
+Căn cứ vào thành tích xuất sắc đã đạt được trong công tác tham gia phục vụ Đại
+hội Đại biểu toàn quốc lần thức XII của Đảng, Đảng ủy, chỉ huy Viện Công nghệ
+thông tin kinh đề nghị Thủ trưởng Viện KH-CN quân sự xét đẻ nghị Thủ tướng Chính
+phủ tặng bằng khen cho tập thể Viện Công nghệ thông tin./,4@~
+
+XÁC NHẬN CỦA THỦ TRƯỞNG CHÍNH TRỊ VIÊN
+'VIỆN KH-CN QUÂN SỰ —
+2015 Năm Bằng khen Bằng khen 
+Hình thức
+khen
+thưởng Bằng khen Bằng khen 2229/QĐ-CT ngày 19/10/2015
+Tổng cục Chính trị 
+Số, ngày, tháng, năm của QĐ
+Cơ quan ban hành QĐ, 117/QĐ-VKHCNQS
+ngày 01/02/2016
+của Viên KHCNOS 2024/QĐ-VKHCNQS
+ngày 31/12/2015
+của Viên KHCNQS Ghi chú 
+Có thành tích xuất sắc trong,
+phục vụ ĐH XII của Đảng Phân mêm phiêu phục vụ.
+ĐH xu của Đảng là sản phẩm Có thành tích xuất sắc trong.
+phục vụ ĐH Đảng bộ QÐ lần
+thứ X 

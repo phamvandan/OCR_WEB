@@ -1,0 +1,2347 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự đo - Hạnh phúc
+:239/TTr-VCNTT Hà Nội, ngày 21 tháng 5 năm 2019
+
+ 
+
+'TỜ TRÌNH
+'Về việc phê duyệt Kế hoạch đấu thầu năm 2019 của để tài “Nghiên cứu
+thiết kế, chế tạo thiết bị chuyển mạch (Switch) có tính năng an toàn, bảo
+mật thông tin trên nền tăng FPGA và mã nguồn mở”,
+KC.01.18/16-20
+
+  
+
+Kính gửi:
+~ Vụ công nghệ cao;
+~ Ban Chủ nhiệm Chương trình KC.01/16-20;
+- Văn phòng các Chương trình trọng. điểm cấp nhà nước.
+
+Căn cứ vào Luật đấu thầu số 43/2013/QH13 ngày 26/11/2013 của Quốc
+hội nước CHXH chủ nghĩa Việt Nam;
+
+Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ về
+quy định chỉ tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu;
+
+Căn cứ Thông tư số 58/2016/TT-BTC ngày 29/03/2016 của Bộ Tài chính
+về việc Quy định chỉ tiết việc sử dụng vốn nhà nước đề mua sắm nhằm duy trì
+hoạt động thường xuyên của cơ quan nhà nước, đơn vị thuộc lực lượng vũ trang,
+đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức
+chính trị xã hội - nghề nghiệp;
+
+Căn cứ Thông tư số 10/2015/TT-BKHĐT ngày 26/10/2015 của Bộ Kế
+hoạch và Đầu tư quy định chỉ tiết kế hoạch lựa chọn nhà thầu;
+
+Căn cứ Quyết định số 1672/QĐ-BKHCN ngày 18 tháng 6 năm 2018 của
+Bộ trưởng Bộ Khoa học và Công nghệ về việc phê duyệt tổ chức chủ trì, cá nhân
+chủ nhiệm, kinh phí, phương thức khoán chỉ và thời gian thực hiện nhiệm vụ
+KH&CN cấp quốc gia thuộc Chương trình KH&CN KC.01/16-20 bắt đầu thực
+hiện từ năm 2018;
+
+Căn cứ Hợp đồng số: 18/2018/ĐTCT-KC.01/16-20 ký ngày 15 tháng 11
+năm 2018 giữa Văn phòng các chương trình trọng điểm cấp Nhà nước với Viện
+Công nghệ thông tin,
+
+Viện Công nghệ thông tin trình Vụ công nghệ cao, Ban chủ nhiệm
+chương trình KC01/16-20, Văn phòng các chương trình trọng điểm cấp Nhà
+nước xem xét, phê duyệt kế hoạch đấu thầu năm 2019 các gói thầu mua sắm
+phần mềm, nguyên vật liệu, thiết bị, máy móc cho đề tài nêu trên với nội dung
+
+ 
+
+ 
+
+ 
+
+CƠ bản như sau;
+
+ÔNEEQL
+VNI. TÓM TẮT ĐÈ TÀI:
+
+1.Tên đề tài: Nghiên cứu thiết kế, chế tạo thiết bị chuyển mạch (Switch)
+có tính năng an toàn, bảo mật thông tỉn trên nền tảng FPGA và mã nguồn mở.
+
+Mã số: KC.01.18/16-20,
+
+2. Tổng kinh phí thực hiện đề tài: 6.865 triệu đồng (bằng chữ : Sáu tỷ,
+“Tám trăm sáu mươi lăm triệu đồng), trong đó:
+
+~ Kinh phí từ ngân sách nhà nước: là 6.865 triệu đồng (bằng chữ : Sáu tỷ
+tám trăm sáu mươi lãm triệu đồng),:
+
++ Kinh phí khoán: 5.011 triệu đồng (bằng chữ: Năm tỷ không trăm mười
+một triệu đồng).
+
++ Kinh phí không giao khoán: 1.854 triệu đồng (bằng chữ: Một tỷ tám
+trăm năm mươi tư triệu đồng)
+
+- Kinh phí từ nguồn khác: 0 đồng (bằng chữ: không đồng)
+
+Trong đó Ngân sách nhà nước được phân bổ cho các năm cụ thể như sau:
+
+- Năm 2018: 1.000 triệu đồng (bằng chữ : Một tỷ đồng chẵn)
+
+- Năm 2019: 4.500 triệu đồng (bằng chữ: Bốn tỷ năm trăm triệu đồng)
+
+- Năm 2020: 1.365 triệu đồng (bằng chữ: Một tỷ ba trăm sáu mươi lăm
+triệu đồng)
+
+3- Đơn vị chủ trì thực hiện đề tài: Viện Công nghệ thông tỉn.
+
+4- Chủ nhiệm đề tài: TS, Thái Trung Kiên.
+
+5- Tên đơn vị chủ quản: Bộ Khoa học và Công nghệ.
+
+6- Nguồn vốn: Ngân sách Nhà nước.
+
+7- Thời gian thực hiện đề tài: 24 tháng từ tháng 11 năm 2018 đến tháng
+10 năm 2020.
+
+   
+
+ 
+
+1, HOẠT ĐỘNG CỦA ĐÈ TÀI NĂM 2019
+
+ 
+
+2.1- Tên đề tài: Nghiên cứu thiết kế, chế tạo thiết bị chuyển mạch (Switch) có
+
+tính năng an toàn, bảo mật thông tin trên nền tảng FPGA và mã nguồn mở.
+
+ 
+
+2.2- Kế hoạch đầu tư:
+Kinh phí năm 2019 được phê duyệt: 4.500.000.000 đồng (Bốn tỷ năm trăm
+
+triệu đồng chẵn)
+Trong đó:
+~ Trả công lao động : 2.885.500.000 đồng.
+- Nguyên vật liệu năng lượng : _ 1.200.000.000 đồng.
+~ Thiết bị, máy móc : 295.000.000 đồng.
+- Chỉ khác : 119.500.000 đồng.III. PHÀN CÔNG VIỆC ĐÃ THỰC HIỆN
+Không
+IV. PHÀN CÔNG VIỆC KHÔNG ÁP DỤNG ĐƯỢC MỘT TRONG CÁC HÌNH
+'THỨC LỰA CHỌN NHÀ THÀU NĂM 2019
+Đơn vị tính: đằng
+r1 STT PHÀN CÔNG Y
+
+5.1. Bảng tổng Gói 1: Thuê
+thiết bị đo lưu
+lượng và phân
+tích mạng. 
+'Tên gói thầu Gói 2: Nguyên,
+vật liệu phục
+vụ thiết kế xây
+dựng - phần
+cứng thiết bị
+chuyển mạch
+trên nền tảng
+công — nghệ
+FPGA. Tổng cộng
+
+ 
+
+ÀN CÔNG VIỆC THUỘC KÉ HOẠCH ĐẦU 1
+
+1. Bảng tổng hợp phần công việc thuộc kế hoạc Chỉ khác 
+Giá gói thầu
+(đồng) hông giá trị các 1200.000.000 295.000.000. 
+Ngân
+sách
+nhà
+nước Nguồn
+vốn É HOẠC
+
+việc thu gói thâu: 
+Ngân
+sách
+nhà
+nước 5.0 Chào
+hàng
+cạnh
+tranh Chào
+hàng
+cạnh
+tranh 
+Hình
+thức
+lựa
+chọn
+nhà
+thầu H ĐẤU
+
+)c kế ho Một
+giai
+đoạn
+
+một túi
+hồ sơ Phương
+thức
+đấu
+thầu 
+THÀU
+
+ạch lựa € )0.000 Vĩ Một
+giai
+đoạn
+một túi
+hồ sơ Một
+giai
+đoạn
+một túi
+hồ sơ 
+3.005.000.000 119.500.000 2.885.500.000 Giá trị thực hiện 
+H
+năm
+2019 Quý
+H
+
+2019 Thời
+gian
+bắt
+đầu
+lựa
+chọn
+nhà
+thần ọn nhỉ 
+Hợp
+đồng
+trọn
+ĐÓ Hợp
+
+đồng
+trọn
+gói Hình
+
+ 
+
+đồng thầu:
+vị tính 
+60
+ngày 90
+ngày Thời
+gian
+
+hiện
+hợp
+đồng 5.2. Giải trình nội dung kế hoạch lựa chọn nhà thầu:
+a) Cơ sở phân chia các gói thầu:
+~_ Gói thầu số 1: Căn cứ vào nội dung của đề tài, tính chất của công việc,
+tính chất của nguyên vật liệu và theo các nguyên tắc;
+
++ Đảm bảo tính đồng bộ về mặt kỹ thuật và công nghệ của dự án,
+không được chia những công việc của dự án thành các gói thầu quá
+nhỏ, làm mắt sự thống nhất, đồng bộ về kỹ thuật và công nghệ;
+
++ Đảm bảo tiến độ thực hiện dự án;
+
+~_ Gói thầu số 2: Căn cứ vào nội dung dự án, tính chất của công việc, tính
+chất của nguyên vật liệu, theo trình tự thực hiện theo thời gian và theo
+các nguyên tắc:
+
++ Đảm bảo tính đồng bộ về mặt kỹ thuật và công nghệ của dự án,
+không được chỉa những công việc của dự án thành các gói thầu quá
+nhỏ, làm mắt sự thống nhất, đồng bộ về kỹ thuật và công nghệ;
+
++ Đảm bảo tiến độ thực hiện dự án;
+
+b) Giá gói thầu:
+-_ Gói thầu số 1: 295.000.000 VNĐ (Bằng chữ: Hai trăm chín mươi lăm
+triệu đồng chẵn).
+-_ Gói thầu số 2: 1.200.000.000 VNĐ (Bằng chữ: Một tỷ hai trăm triệu
+đồng chấn).
+©) Nguồn vốn:
+~__ Gói thầu số 1: Ngân sách nhà nước.
+- Góớithầu số2: Ngân sáchnhànước — _
+d) Hình thức và phương thức lựa chọn nhà thầu:
+-_ Gói thầu số l:
+
++ Hình thức lựa chọn nhà thầu áp dụng theo hình thức chào hàng
+cạnh tranh thông thường.
+
++ Phương thức lựa chọn nhà thầu áp dụng theo phương thức một
+giai đoạn một túi hỗ sơ,
+
+-_ Góithầu số2:
+
++ Hình thức lựa chọn nhà thầu áp dụng theo hình thức chào hàng,
+cạnh tranh thông thường.
+
++ Phương thức lựa chọn nhà thầu áp dụng theo phương thức một.
+giai đoạn một túi hồ sơ.
+
+đ) Thời gian bắt đầu tổ chức lựa chọn nhà thầu:
+- _ Gói thầu số l: Quý II năm 2019.
+-_ Gói thầu số 2: Quý II năm 2019.
+©) Loại hợp đồng: Trọn gói; .
+ø) Thời gian thực hiện hợp đồng:
+- _ Gói thầu số 1: 90 ngày.
+~_ Gói thầu số 2: 60 ngày.'VI, Phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu
+Đơn vị tính: đồng
+
+4
+4
+/
+r1 Gói 1: Mua sắm phân
+mềm §DSoC
+Development
+Environment 'Tên gói mua sắm 67.000.000 
+Giá gói mua
+sắm
+
+(đồng) 67.000.00 Ngân
+sách nhà
+nước Nguồn
+
+Á
+vốn 
+) VNĐ tranh thức
+
+mua
+
+sắm Quý II
+năm
+2019 
+Thời
+gian bắt
+đầu Hợp
+
+đồng
+trọn
+gói Hình
+thức
+hợp
+đồng 30
+ngày 
+gian
+thực
+hiện
+hợp
+đồng Phụ lục ï
+
+(Kèm theo tờ trình số 239/TT:-VCNTT ngày 21 tháng 5 năm 2019 của Viện CNTT)
+
+BẢNG TÀI LIỆU KÈM THEO VĂN BẢN TRÌNH DUYỆT
+
+ 
+
+Nội dung
+
+Ghi chú
+
+ 
+
+Quyết định số 1744/QĐ-BKHCN ngày 30 tháng 6 năm 2017
+của Bộ trưởng Bộ Khoa học và Công nghệ về việc phê duyệt
+Danh mục nhiệm vụ khoa học và công nghệ đặt hàng thuộc
+Chương trình khoa học và công nghệ trọng điểm cấp quốc gia
+siai đoạn 2016-2020: “Nghiên cứu công nghệ và phát triển sản
+phẩm Công nghệ thông tin phục vụ Chính phủ điện tử”, mã số
+KC.01/16-20
+
+ 
+
+ 
+
+Bản chụp
+
+ 
+
+ 
+
+Quyết định số 1672/QĐ-BKHCN ngày 18 tháng 6 năm 2018
+của Bộ trưởng Bộ Khoa học và Công nghệ về việc phê duyệt
+tổ chức chủ trì, cả nhân chủ nhiệm, kinh phí, phương thức
+khoán chỉ và thời gian thực hiện nhiệm vụ KH&CN cấp quốc
+gia thuộc Chương trình KH&CN KC.01/16-20 bắt đầu thực
+hiện từ năm 2018
+
+ 
+
+Bản chụp.
+1 | Quyết định số
+của Bộ trưởng
+Danh mục nh
+Chương trình
+giai đoạn 2014
+phẩm Công nị
+KC.01/16-20
+
+ 
+
+2 | Quyết định số
+của Bộ trưởn;
+tổ chức chủ !
+khoán chỉ và
+gia thuộc Chị
+hiện từ năm 24 1 | Quyết định số
+của Bộ trưởng
+Danh mục nh
+Chương trình
+giai đoạn 2014
+phẩm Công nụ
+KC.01/16-20
+
+ 
+
+2 | Quyết định số
+của Bộ trưởng
+tổ chức chủ †
+khoán chỉ và
+gia thuộc Chị
+hiện từ năm 24 STT ,
+
+Ghi c
+
+ 
+
+ 
+
+ngày 30 tháng 6 năm 2017
+ng nghệ về việc phê duyệt
+
+ 
+
+ốc gia
+công nghệ và phát triển sản
+Chính phủ điện tử”, mã số
+
+Bản chụp.
+
+ 
+
+ngày 18 tháng 6 năm 2018
+ìng nghệ về việc phê duyệt
+„ kinh phí, phương thức
+hiệm vụ KH&CN cấp quốc
+KC.01/16-20 bắt đầu thực
+
+ 
+
+ 
+
+Bản chụp. 
+Bản chụp Bản chụp. Phụ lục 2
+CHI TIẾT HÀNG HÓA CÁC GÓI THẦU
+(Kèm theo tờ trình số 239/TT>-VCNTT ngày 21 thắng 5 năm 2019 của Viện CNTT)
+
+Gói 1: Thuê thiết bị đo lưu lượng và phân tích mạng.
+Đơn vị tính: VNĐ
+Nội dung “Thuê thiết bị đo.
+lưu lượng mạng Thuê máy phân
+tích mạng cisco. 'Yêu cầu kỹ thuật 
+Đơn vị
+đo Chiếc Chiếc Số 
+01 01 Số ngày
+thuê 63,5 
+§0 Đơn giá 2.500.000 1.500.000 
+Thành tiền 200.000.000. 95.000.000 
+(
+
+yói 2: Nguyên, vật liệu phục vụ Artix-7FPGA "XC7A200T" Nguyên, vật liệu ~ Câu trúc chuyên mạch hiệu suât cao và câu trúc chuyên tiếp gói tíi
+cho phép đạt tốc độ tối đa 210 Mpps
+
+- Tùy chọn giao diện Ethernet từ 10 Mbps đến 10 Gbps và giao diện
+'WAN DS0 đến OC-48 căng như các mô-đun địch vụ tích hợp.
+
+- Quân lý các chính sách quality-of-service (QoS) và danh sách kiểm.
+soát truy cập (access-control-list - ACL) nâng cao.
+
+- Khả năng chuyển tiếp nội dung giữa các Layer 4-7 với hiệu năng.
+cao. tích hợp máy chủ cân bằng tải bên trong cho phép tối da 200.000.
+kết nối đồng thời mỗi giây. 
+§ â Đơn
+Thông số kỹ thuật viđo Bằng chữ: Hai trăm chín mươi lăm triệu đông e
+
+thiết kế xây dựng phần cứng thiết bị chuyển mạ logic Cells
+Block Ram
+- Số DSP slices
+SP Perfomance
+~ Số bộ trangeeivers tối thiểu: 16
+
+-H trợ CPU ối thiểu: 3003 DMIPs.
+
+   
+  
+  
+
+ 
+
+Con
+
+độ cao tối thiểu: 500.
+5Gbps, 5Gbps, văn./,)
+
+ch trên 
+Số
+lương Đơn giá 119.976,00 công ngh
+vị tính. 
+Thành FPGA.
+nghìn đồng 160.970,00 295.000.000 
+399.880,00 |
+TT 22 21 24 
+23 Nguyên, vật liệu VSC8512 MX25L12805D 
+CO4605A-125.000 MT40A256M16HA NB2309AIIDT NC7SZ125M5 
+ôi g Đơn
+'Thông số kỹ thuật Niữu
+
+ộ nguồn I /O 2.5 V
+
+- Đầu vào 2,5 V -3,3 V
+
+- Kích thước: 27 mm x 27 mm.
+
+~ Hỗ trợ SGMII v1.9 và QSGMII v1.3, MAC 1000BASE-
+X, ranh giới quét JTAG của IEEE 1149.1 và IEEE 11496 Con
+AC-TAG
+
+- Tuân thủ theo chuẩn IEEE 802.3 (10BASE-T, 10BASE-
+Te, I00BASETX, 1000BASE-T, 100BASE-FX và
+1000BASE-X) ~ Chip DDR4 SDRAM 4G-Bit 256M x l6
+~ Nguồn: 1.2V +60mV
+
+ 
+
+Con ~ Chip DDR4 SDRAM 4G-Bit 256M x 16
+~ Nguồn: 1.2V +60mV MX25LI12805D ~ Giao diện ngoại vi ní
+thích - Chế độ 0 và Chế độ 3
+
+- Cầu trúc bịt 134,217,728 x 1
+
+~ 4096 sector với mỗi sector là byte 4K
+
+256 sector với mỗi sector là byte 64K,
+
+~ Mỗi sector có thể bị xóa
+
+~ Nguồn đơn: 2,7 đến 3,6 volt cho đọc, xóa và thuật toán
+chương trình 
+~ Tân sô: 125.000 MHz
+
+~ Ôn định tần số: + 50 PPM
+- Đầu vào: 3.3V + 0.3V'
+
+~ Tải 15pF ~ Nguôn: 3.0V —3.6V.
+- Dãi tần số đầu ra: 15MHZ - 133MHz
+~ Nhiệt đô hoạt đông: -40°C - 85°C
+
+ 
+
+Con T23
+
+~ Kiễu logie: Bộ đệm, không đảo ngược.
+- Nguồn: 1.65V - 5.5V
+
+~ Nhiệt đô hoạt đông: -40°C - 85°C
+
+ 
+
+Con Số
+lượng 
+18 10 10 10 
+10 Đơn giá 1.490,00 30.00 
+110,00 300.00 25.00 40.00 
+“Thành tiền 26.820,00 3.000,00 300,00 
+400,00 1.100,00 250,00 
+27 TT 29 2/6 
+213 411 351-3007F' APX8II-31UG7 
+'Nguyên, vật liệu RT8105 DA101711S2APOF TL1195WF100Q 
+AOD472 4SVP560M MBRSI40T3G MP2307 
+Đơn
+
+Thông số kỹ thuật No ~ Điện áp định mức: 125VAC ~ Kích thước: 7.1mm x 6.55mm.
+~ Điện áp định mức: 12VDC
+~ Cường độ dòng điện định mức: 0.5A. ~ Kiêu chân: Dip-2, 3mm _
+~ Dòng chuyên tiếp: 0mA,
+áp chuyển tiếp: 2V- 
+~ Điện áp vào: 5V - 12V
+~ Bộ dao động tần số cố định: 300kHz áp vào: 2.2V-5.5V.
+áp đầu ra: ~ Điện áp nguôn khi xả: VDS = 25V
+~ Dòng xả liên tục: ID = 55A (VGS = 10V).
+- Điện trở nội của mostfet khi dẫn bão hòa: RDS(ON) <6 Con
+mQ (VGS = 10V)
+
+'RDS(ON) <9.5 mQ (VGS
+
+ 
+
+.5V) ~ Điện dung: 560uF + 20%.
+~ Kích thước: 8 x11.9 mm 
+~ Dòng điện thuật định mức: If= 1A.
+~ Vimm - Điện áp ngược: 40V
+
+t độ hoạt động: -65°C - 125%C
+chân: DO-214AA. ~ Khoảng hoạt động đâu vào: 4,75V đến 23V
+- Đầu ra có thể điều chỉnh từ 0,925V đến 20V
+~ Hiêu suất: 95% 40 10 
+Số
+lượng 10 10 10 
+10 10 10 Đơn giá 
+30,00 30.00 18,00 25,00 
+35.00 3200 20.00 30.00 
+320.00 Thành tiền 150.00 300,00 
+180,00 300,00 200,00 250.00 
+350.00 320,00 300,00 3.200,00 11
+
+:
+§
+%
+Ặ
+#
+(
+8
+217 219 218 220 
+225 222 Nguyên, vật liệu 25ZL470M10XI6
+
+P1020NXN2HFE 
+25ZL470M10XI6
+
+P1020NXN2HFE HC9-0R47 74HC164PW 74HC125D 
+NDT3055L 7SZ32M5 LOH32CNIR0M53L BLM21B601S 
+Đơn
+
+Thông số kỹ thuật SL đề
+
+ 
+
+~ Nội điện trở: 13mOhm dung: 470uF + 20%.
+
+ng: 25V
+
+lộ rộng bus: 2 core, 3
+800MHz
+
+~ Bô điều khiển RAM: DDR2. DDR3 ~ Độ tự cảm: 47uH+ 15%,
+ng DC tối đa: 3,65A.
+
+- Trở kháng tối đa: 72,3mOhms
+~ Kích thước: 13.8x13.1x7.5mm. ~ Điện áp đánh thủng: 60V
+~ Dòng xã liên tục: 4A.
+~ Kích thước: 6,5x3.5x1.8mm 
+~ Sô lượng công: l
+
+~ Số đầu vào: 2
+
+- Số đầu ra: 1
+
+~ Điện áp: 1,65-5,5V. - Điện áp; 2-6V.
+- Số đầu vào: 4
+- Số đầu ra: 4 ~ Kiêu chân: 1210 ~ Kiêu chân: 0805
+
+- Dòng DC max: 200mA.
+~ Sai số: 25%
+
+~ Trở kháng: 600 Ohms 
+10 10 10 ¡0 
+10 40,00 Đơn giá 2.240,00 
+113,00 25,00 26,00 17.00 
+17.00 16,00 10.00 10,00 
+Thành tiền 22.400,00 400,00 1.150,00 
+250.00 170,00 160,00 100,00 
+100,00 260,00 
+` TT 232 231 
+Nguyên, vật liệu VSC8584XKS U77-A41118-200T UE75-A20-6000T 
+74LVCI38A 74AHC594PWR 74HC240PWR 74HC165PWR 
+~ Sô bộ thu phát: 4
+~ Tốc độ dữ liệu: 10 Mb / giây, 100 Mb / giây, l Gb/giây Con
+~ Điện áp hoạt động: 1V. 25V. 33V Đơn
+
+'Thông số kỹ thuật "¬
+
+Trở kháng DC max: 600 Ohms ô lượng đường vào: 3 Input
+- Số lượng đường ra: 8 Output
+iện áp hoạt động: 2-6 ô lượng đường vào: 3 Input
+- Số lượng đường ra: 8 Output
+iện áp hoạt động: 2-6 
+hân
+it trên mỗi phần tử: 8
+
+- Chức năng: Serial to Parallel
+
+- Điện áp: 2V -5,SV
+
+hoạt động: -40 ®C-125 °C ~ Sô chân: 20
+- Kiều liên kết: Receptacle
+tiếp xúc: 15.0uin (0.38um) p )
+bit trên phân từ: 8
+ˆ Chức năng: Parallel or Serial to Serial Con
+
+ 
+
+- Kiểu ngõ ra 3-State ~“
+~ Điện áp: 2V -6V Sô
+
+lượng 
+10 10 10 10 
+10 10 1.750,00 Đơn giá 
+320,00 18.00 25,00 32.00 
+18,00 24,00 17.500.00 “Thành tiền 
+3.200.00 180,00 320,00 250,00 
+240.00
+
+180,00 ÁN AC Z2Xã AB rưc *
+TT 233 236 23 
+241 241 239 238 
+Nguyên, vật liệu 74HC4051PWR AMP Connectors 2007198-1 AMP Connectors 1888247-2 
+U78-B4126-00121 RJHSE-5380 MAX322ICDBR LF9207A 
+VSC8221XHH Thông số kỹ thuật
+~ Nhiệt độ hoạt động: -40 °C-85 °C
+
+vị đo Điện áp: 2V -6V.
+~ Mulplexer/Demultplexer Circuit: 8:1
+- Số lượng Cireuit: 1
+
+~-3db Băng thông: 180MHz ~ Trạng thái thành phân:
+~ Kiêu liên kết: Receptacle
+- Loại liên kết: SEP+
+
+ế lương vi trí: 20
+
+ 
+
+ 
+
+loạt động, 
+~ Trạng thái thành phân: Hoạt động.
+- Kiểu liên kết: Cage
+~ Loại liên kết: SFP+ ~ Trạng thái thành phâ
+~ Kiểu kết nối: Jack
+
+- Loại kết nối: SFP+
+~ Sẽ chân liên kết: 8p§c ~ Dòng hoạt động: ImA.
+~ Nhiệt độ hoạt đ‹
+
+ 
+
+~40 °®C-§5 °C Trạng thái thành phân: Obsolete
+~ Kiêu liên kết: Receptacle with Cage, Ganged (2x4)
+
+  
+
+¡ liên kết
+ố lương vì trí: 160 (20x88) 
+~ Độ tự cảm: 4,7uH ~ Module chuyên đôi. áp 100/1000BASE-T
+~ Thời gian tăng và thời gian giảm tín hiệu: 0.5sec (Max) —_ Con
+~ Phép thử nghiêm cao áp: 60sec ~ Số Drivers/Receivers: 1/1
+- Điện áp: 3V-3,6V lượng 
+10 10 10 10 
+10 10 10 10 
+10 Đơn giá 75,00 21.00 
+250.00 75,00 650.00 350,00 
+42.00 Thành tiền 210.00 2.300,00 
+730,00 6.300,00 750,00 210.00 
+250,00 420,00 
+TT 24 Nguyên, vật liệu NB2309AIIDR2 
+MX30LF1G08AA-TI M5686LFT-25MH: Si5335D-B02381-GM. SI53102-AI-GM 
+1CS2304NZG-ILF Thông số kỹ thuật vo
+
+ 
+
+- Sai số: 30%
+
+- Dòng DC max: 750mA.
+
+- Trở kháng DC max: 240mOhms
+
+~ Công nghệ: FLASHENAND.
+
+- Bộ nhớ: 1Gb (128Mx8)
+
+~ Thời gian truy cập: 0ns Con
+7V-3,6V
+độ hoạt động: -40°C-85°C ~ Tân sô: 25MHz
+- Đi - Khoảng hoạt động. L3MHZ-132MHz
+- Không có độ trễ trong truyền tải vào — ra
+- Đa đầu ra lệch thấp,
+~ Lệch đầu ra nhỏ hơn 250 picsecond
+~ Device~Device Skew Less than 700 ps
+~ One Input Drives 9 Qutputs, Grouped as 4 + 4 ~L
+
+Con 
+~ Kiêu: Clock Generator.
+òng khóa pha: Yes with Bypass
+
+ầu vào: CMOS, Clock, Crystal
+
+- Đầu ra: CML, HCSL, HSTL, LVCMOS, LVDS, Con
+LVPECL, SSTL
+
+- Số lượng mạch tích h‹
+~ Tỳ lê - Đầu vào:Đầu ra ~ Sô đâu ra: 2 Qutput
+~ Tần số đầu vào max: 175 MHz ~ Số đầu ra: 4 Output
+- Tân số đầu vào max: 140 MHz
+- Độ trễ trên đường truyền - Max: 3.8 ns
+
+ 
+
+~ Nhiệt đô hoạt đông: 0°C- 70°Œ 10 
+10 10 10 10 
+10 310.00 Đơn giá 32.00 
+120,00 230,00 30,00 75,00 
+Thành tiền 3.100,00 320.00 1.200,00 
+300,00. 2.300,00 730.00 15
+
+ị
+TT 2.48 251 Nguyên, vật liệu 
+1SL3180EIBZ LCMXO2-1200HC-
+4MG/32C 73251-1150 1CS830231 
+§i51210-A18AFM 'Thông số kỹ thuật ~
+¬—————'i*-
+~ Điện áp: 2,97V- 3.63 V
+~ Nhiệt độ hoạt động: -40°C - 85°C. ~ Số lượng điều khiên: 1
+
+- Số lượng đầu nhận: 1
+
+- Điện áp hoạt động: 3.3 V
+~ Dòng hoạt động: 4 mA.
+
+~ Nhiệt đô hoat đôi
+
+ 
+
+~40°C - §5°C ~ Loại: Jack
+
+~ Trở kháng: 50 Ohms
+
+- Tần số max: 18 GHz
+
+~ Kiêu Termination: Solder
+- Định hướng: Góc phải
+
+- Polarity: Standard
+
+~ Chất liệu: Brass 
+~ Số phân tử logic: 1280
+- Số mảng logic Blocks - LABs: 160,
+- Số chân I/Os: 105 O.
+
+ 
+
+in lo hon 40527 0%C.. 82% ~ Loại IC: Bộ đệm xung
+- Kiểu chân: SOIC-8
+
+~ Kích thước:
+
+ 
+
+,5x4.9x3.0mm vào max: 166 MHZ
+số đầu ra max: 200 MHZ
+
+- Số lượng đầu ra: 2 Output
+
+- Chu kỳ xung - Max: 55 %
+
+- Điện áp hoạt động: 2.5 V to 3.3 V
+- Dòng hoạt động: 4.5 mA.
+
+~ Nhiệt độ hoạt động: 0%C - 70°C
+
+ 
+
+ 
+
+Con Số
+lượng 
+10 10 10 10 
+10 Đơn giá 125,00 125,00 
+250,00 175,00 210.00 Thành tiền. 
+1.250,00 1.250.00 2.300,00 1.750,00 
+2.100.00 
+TT 255 25 257 
+PCA9306DCTR Nguyên, vật liệu MAXI953EUB FDW2501NZ 
+BAS40 04 SOT23 74754-0101 BAR43C ô ý thuậ Đơn
+“Thông số kỹ thuật viđẹ 
+~ Thời gian trê trên đường truyễn: 1.2 ns
+~ Điện áp hoạt động: 1.2 - 5.5 V
+~ Nhiệt đô hoạt đông: -40°C - §5°C - Số đầu ra: 1 Output
+
+~ Tân sô chuyên mạch: 1000 kHz
+~ Chu kỳ xung - Max: 89 %
+
+- Điện áp đầu ra: 0.8 V to 4.73 V
+
+- Dòng đầu ra: 4000 mA,
+
+~ Nhiệt đô hoạt động: -40°C - §5°C ~ Kiêu chân: TSSOP-8
+- Số kênh: 2 Kênh.
+~ Phân cực transistor: N-Kênh
+~ Vds — Điện áp đánh thủng: 20 V
+~ ld~ Dòng xà liên tục: 5.5 A.
+~ Rds Trở kháng xả: 18 mOhms
+Điện áp công- nguồn: 12 V'
++ độ hoạt động: -55°C - 155°C
+~ Đồng chuyên tiếp - TẾ: 200 mA.
+~ Điện áp đảo ngược - Vim: 30 V
+- Điện áp chuyên tiếp - Vf: 0.8 V
+~ Cầu hình: Âm cực chung kép
+~ Công nghệ:
+- Dòng điện đò - Ir: 0.5 uA.
+- Nhiệt độ hoạt động: -55°C - 155°C.
+- Kiểu: Female
+~ Mạ tiếp xúc: Nickel
+Kiểu lắp: SMD/SMT
+
+   
+
+ 
+
+ 
+
+ 
+
+   
+
+  
+
+~ Dòng chuyển tiếp - If: 200 mA. 10 
+10 10 10 Đơn giá 
+25,00 200,00 218.00 1400 
+210,00 13,00 250,00 Thành tiền 
+2.000,00 2.180,00 140,00 2.100.00 
+130,00 
+TT 262 261 Nguyên, vật liệu 
+BZX84C4V7 SOT23 ®CLAMP0524P HDR_1X2 HSMF-C1I55 
+Đơn
+
+Thông số kỹ thuật SH) ~ Điện áp đào ngược - Vrrm: 40 V
+- Điện áp chuyên tiếp - Vf: 1 V
+
+- Cấu hình: Series kép
+
+- Công nghệ: Sĩ
+~ Dòng điên dò -
+
+ 
+
+ 
+
+02uA ~ Kiêu chân: SOT-23
+Hug lượng bao phí 360 nÖW
+
+ 
+ 
+
+- Zz~ Trở kháng Zener: 80 Ohms
+~ Nhà sản xuất: ON Semiconductor ~ Vesd — Điện áp xả tĩnh điện tiêp xúc: 8 kV
+
+~ Vesd — Điện áp xả tĩnh điện trong không khí: 15 kV'
+- Phân cực: Đơn hướng
+
+- Số kênh: 4 Kênh
+
+- Kiểu lắp: SMD/SMT
+
+- Điện áp sự
+
+   
+
+- Điện áp khóa: 15 V
+~ Ipp - Dòng xung cực 
+~ Sô lượng chân tiệp xúc: 2
+~ Chuẩn chân: 2.54 mm lương 10 10 
+10 Đơn giá 65,00 21,00 
+15,00 21,00 "Thành tiền 650,00 
+210,00 150.00 210.00 
+269 2.68 Nguyên, vật liệu CONN_USB_MINI B_TH 
+HDR_1X9 HDR_IXI ASP_ 134486_01 SMA_32K1I0K-400 
+HDR_2X7 265 HDR_1X3 ~ Sô chân liên kết: 5 chân.
+
+~ Số cổng: 1
+
+-Dòng
+
+ 
+
+n định mức: l A. ~ Chiều dài đầu kết nối: 3.2 mm: 
+ây “trợ " Đơn
+Thông số kỹ thuật sáo ~ Sô chân: 9
+
+~ Chuẩn chân: 2.54 mm
+
+- Số hàng: 1
+
+~ Dòng điện định mức: 1 A. ~ Trở kháng: 50 Ohmsr
+~ Tần số max: 12.4 GHz. iêu liên kêt: Array, Female Sockets
+- Số chân: 400.
+
+- Chuẩn chân: 1.27mm
+
+- Số hàng: 10
+
+- Số chân: 3
+
+~ Chuẩn chân: 2.54 mm.
+
+- Số hàng: 1
+
+- Dòng định mức: 3A.
+
+~ Số chân: 14
+
+~ Chuẩn chân: 2.54 mm
+
+Con
+
+Con 
+Số
+lương 10 10 10 
+10 10 10 10 
+Đơn giá 15,00 35.00 62.00 
+32,00 32,00 25,00 1400 
+Thành tiền 150,00 250.00 620.00 
+350.00 140,00 250,00 19
+272 279 278 273 
+HDR_2X3 39-30-1060_JACK_§00X540 SAMTEC _TST_110 XX XD HDR-2X5-SHR_HDR-2X5-
+SHR 
+INDUCTOR_0_4 7UH FERRJTE-220_0603 WM2701-ND MOLEX-87832-1420 
+1CD_DISPLAY, 16X2 FERRITE-600 - Sô hàng: 2 ~ Số chân: 10
+~ Chuẩn chân: 2.54 mm.
+~ Số hàng: 2
+
+Con 
+~ Sô chân: 6
+
+~ Số hàng: 2 ~ Số chân: 14 ~ 5ô chân: 6
+- Chuẩn chân: 4.2 mm
+~ Số bàng: 2 ~ SỐ chân: 20
+- Chuẩn chân: 2.54 mm.
+- Số hàng: 2 
+- 36 ký tự x dòng: l6x2 C
+on
+
+~-WxHxT: 122 mm x 44 mm x 12.7 mm ~ Trở kháng: 600Ohms ~ Độ tự cảm: 0.47uH
+~ Dòng bão hòa: 6.3A.
+~ Kiểu chân: 0806 ~ 3ô chân: 3
+- Chuẩn chân: 2.54 mm. 
+10 Số
+lượng 10 10 
+10 10 10 10 
+10 10 10 Đơn giá 
+10,00 25.00 35,00 1400 
+32.00 15,00 42,00 24.00 
+120,00 “Thành tiền 100.00 250.00 
+300,00 350.00 140,00 320.00 
+150,00 420,00 240,00 1.200,00 
+289 287 JVUMPER_BLOCK _2-PIN SLW-107-01-G-D.
+
+HOEE_MH 125 230 
+STANDOFF'_8400 MACHINE SCREW_M2 5 MACHINE_SCREW 4-40 RUBBER_BUMPER 
+NUT_§S 4-40 ĐDR4 SODIMM - Kích thước vn 4-40 ~ Kích thước ren: 4-40
+- Đường kính  Outside: 6.35mm
+- Chiều cao giữa board: 9.53mm
+~ Chiều đài - Overall: 14.30mm 
+~ Kích thước ren: M2.5 x 0.45
+~ Chiêu dài: 4 mm. ~ Kích thước ren: 4-40
+~ Chiều đài: 3/8 in ~ Sản phẩm: Bumpers
+~ Loại: Xuyên lễ 10 
+10 10 10 10 
+10 10 10 10 
+10 25.00 34.00 32.00 
+Đơn giá 35.00 1400 32.00 
+124,00 34.00 3100 250,00 
+320,00 "Thành tiền 1.240.00 340.00 
+310,00 350.00 140,00 320.00 21
+2.92 291 2.96 Nguyên, vật liệu 
+§TANDOFF_10MM §STANDOFF_ 1892 PCIE_POWER_STICKER PCIE_8LANE_EDGE 
+M24C08-WDW6TP 1CS844021AGI-0ILF RJ45_HFJII-IG01E Đơn
+
+Thông số kỹ thuật viđo 
+~ Chiêu cao: 5.2 mm.
+- Vật liệu vỏ: Nhựa nhiệt đèo
+~ Số hàng: 2 ~ Kích thước ren: 4-40.
+-!Phiều săn: {ÔNG ~ Kích thước ren: 4-40
+- Đường kính ~ Outside: 6.35mm
+- Chiều cao giữa board: 9.53mm
+~ Chiều đài ~ Overall: 9.53mm. ~ Vật liệu tiếp điểm: Hợp kim đồng
+- Dòng định mức: 1.1 A
+~ Điện áp định mức: 50 VAC
+
+ 
+
+Con 
+chân: TSSOP-8
+áp: 238V -2.62V.
+
+   
+
+hoạt động: -40°C - 85°C ~ Số lượng chân: 14 Số
+lượng 10 
+10 10 10 10 
+10 10 24,00 Đơn giá 
+25.00 30.00 240.00 21,00 
+360,00 40,00 Thành tiền 240.00 
+250.00 300.00 3.600.00 400.00 
+3.400.00 21000 
+298 TT 2101 2.100 
+Nguyên, vật liệu SIT9102AI-
+243N25E200.0000 SN74LV54IAPWR N25Q128A13BSF40F 
+TXS0108EPWR 67840-8001 ônø số kỹ thuâ Đơn
+Thông số kỹ thuật — lường vào: ổ Input.
+lường ra: 3 Output
+
+~ Polariy: Non-Inverting
+2V-5.5V
+
+độ hoạt động: -40°C - 125°C
+
+ 
+
+  
+
+Con 
+~ Điện áp: 2.5 V - 5.5 V
+~ Nhiệt độ hoạt động: -40°C - 85°C ~ Tân sô: 200 MHz
+
+¬ Ôn định tần số: 50 PM
+~ Điện áp hoạt động:
+~ Nhiệt độ hoạt động: SÀN §5°C ~ Kích thước bộ nhớ: 128 Mbit
+- Tần số xung cực đại: 108 MHz
+~ Kiểu giao diện: SPI
+16Mx8
+~ Loại thời gian: Đồng bộ Bm
+~ Chiều rộng bus dữ liệu: 8 bit
+iện áp - Min: 2.7 V ~ Điện áp: 1.2, 1.6ó5V - 3.6, 5.5 V
+~ Nhiệt đô hoạt đông: -40°C - §5°C 
+- Tiếp điểm mạ: Gold
+- Chiều cao: 1.8 mm.
+~ Nhiệt độ hoạt động: -40°C - 85°C Số
+lương 10 10 
+10 10 10 10 
+Đơn giá 160.00 25.00 30.00 
+25.00 250,00 21,00 Thành tiền 1.600.00 
+250,00 300.00 210.00 
+2.102 TT 2105 2.104 
+2.103 2.106 Nguyên, vật liệu CP2103-GM 
+CD74HC4051PWT PTD08A010W PTD08A020W INA333AIDGKR 
+Thông số kỹ thuật ~ Tốc độ dữ liệu: 60Mb/s ~ Điện áp: 3.6V
+~ Kích thước: 0.88x5x5mm
+
+~-MN
+
+ 
+
+độ hoạt động: -5Š°C - 125°C - Trở kháng - Max: 130 Ohms
+
+- On Time - Max: 40 ns
+
+~ Off Time - Max: 40 ns
+
+- Điện áp hoạt động: 2 V to 6 V
+
+- Nhiệt độ hoạt động: -55°C - 125%
+~- Băng tần: 180 MHz 
+~ SỐ lượng đâu ra: 1
+- Điện áp vào: 4.75 V to 14 V
+
+~ Điện áp ra-Kênh 1: 0.7V - 3.6V.
+
+~ Dòng điện ra-Kênh 1: 10 A.
+
+~ Nhiệt độ hoạt đông: -40°C - 85°C ~ 5ô lượng kênh: l
+
+- Hệ số trệt tín hiệu dồng pha: 100 đB
+~Ib~ Dòng phân cực đầu vào: 200 pA.
+~ Vos~ Điện áp bù đầu vào: 0.025 mV.
+- Trở kháng đầu vào max: 100 GOhms
+- Điện áp: 1.8V - 5.5 V
+
+~ Dòng hoạt động: 50 uA.
+
+~ Nhiệt độ hoạt động: -55°C - 125°C. ~ Sô lượng đâu ra: Ï
+
+áp vào: 4.75 V to 14 V
+
+áp ra- Kênh 1: 0.7V - 3.6V
+~ Dòng điện ra- Kênh 1: 20 A.
+
+~ Nhiệt độ hoạt đông: -40°C - §5°C Sô
+lương 
+10 10 10 10 
+Đơn giá 15,00 35,00 62,00 
+36,00 32,00 Thành tiền 150,00 
+350,00 620.00 360,00 320,00 
+211 2/10 2109 2.108 
+2107 TT ADP123AUUJZ-R7 88E1111-XX-BABIC000 
+Nguyên, vật liệu
+
+TPS51200DRCT 370BAB000544DG REF3012AIDBZT ~ Tân sô: 10 MHz đên 810 MHz
+~ Ôn định tần số: 61.5PPM
+
+ 
+
+ 
+
+ng áp nguồn - Min: 2.97 V 
+~ Điện áp ra (Min/Fixed): 125V
+
+- Dòng điện ra: 25mA.
+
+~ Sai số: +0.2%
+
+- Hệ số nhiệt độ: 75ppm/°C
+
+~ Nhiễu - 0.1Hz to 10Hz: 14#Vp-p
+~ Nhiễu - 10Hzto 10kHz: 42wVrms
+~ Điện áp vào: 1.8V ~ 5.5V
+
+- Dòng điện vào: 50A,
+
+~ Nhiệt độ hoạt động: -40°C - 125°%C ~ Dòng điện đầu ra: 300 mA,
+
+- Điện áp vào MAX: 5.5 V
+
+~ Điện áp vào MIN: 2.3 V
+
+độ hoạt động: -55°C - 125°C 10 10 
+10 10 10 23.00 
+315,00 Đơn giá 15,00 170,00 
+230,00 3.150,00 250,00 Thành tiền 
+130.00 1.700,00 —~m—
+
+25
+2117 2H6 2115 2114 
+213 2.112 SN74AVC1T45DCKR Nguyên, vật 
+PC28F00AP30TF TXB0108PWR UCD9248PFC SN74AVC4T245RSVR 
+PCA9548ARGER ~ Thời gian trễ trên đường truyện: 5.6 ns
+- Điện áp nguồn: ].2V - 3.6 V Con
+- Nhiệt độ hoạt động: -40°C - 85%
+~ Số lượng chuyên mạch: 8
+- Trở kháng - Max: 45 Ohms Con
+hoạt động: 2.3 V- 5.5 V
+độ hoạt động: -40°C - 85°C
+
+ 
+ 
+ 
+
+áp nguồn: 1.2V - 3.6V' Chàm
+- Tốc độ dữ liệu: 380 Mb/s
+~ Nhiệt độ hoạt đông: -40°C - 85°C Số
+lượng 10 
+10 10 10 10 
+10 10 80.00 Đơn giá 
+24,00 40,00 35,00 36.00 
+62.00 Thành tiền 240.00
+
+315,00 350,00
+
+400.00 
+360.00 620.00 800.00 
+2122 2121 2120 2119 
+TT SN74LVC1GI8DBVR TL1963ADCQR Nguyên, vật liệu 
+§N74AVC2T245RSIWR ADV75IIKSTZ-P SIT8103AN-23-25E-
+66.0000T' ~ Thời gian trễ đo truyên: 5.1 ns 
+~ Loại: đầu. phát xn ñ ố: 25 PPM.
+- Điện dung tải: 15 pF
+iện áp hoạt động: 2.5 V Con
+áp nguồn - Min: 2.25 V
+áp nguồn - Max: 2.75 V'
+`t độ hoạt động: -20°C - 70%.
+
+ 
+
+= Nhi 10 10 
+10 10 10 Đơn giá 
+25,00 22.00 1700 47.00 
+40.00 215.00 170.00 Thành tiền 
+470,00 400,00 “max
+
+27
+2129 2124 212 2126 
+2.125 2124 Nguyên, vật liệu NC7SZ66P5X 
+SIT8102AN-23-25E-
+12.00007T LMZ120021ZX-ADJ/NOPR SI5324C-C-GM PTD08D210WAC 
+Số 10 10 10 
+10 10 10 Đơn giá 
+30,00 24.00 25.00 22.00 
+21,00 Thành tiền 250.00 220.00 
+210,00 300,00 240.00 
+2132 211 2.130 TT 
+SŠP0503BAHTG ABM8-25.000MHZ-B2-T Đặt làm mạch in
+(40.5 x 35.6 cm, 12-16 lớp) CS-023-114.285M 
+dung tải: 18 pF
+
+   
+  
+ 
+
+Con
+
+- Điện áp khóa: 7.8 V
+~ Cd ~ Điện dung đi ốt: 30 pF'
+~ Nhiệt độ hoạt động: -40°C - 85°C ~ Kích thước:40.5 x 35.6 cm
+- Số lớp: 12-16 lớp
+
+- Loại mạch: mạch tốc độ cao
+
+- Độ dày mạch: 1.6mm Lần
+~ Màu sơn: Xanh lá
+
+~ Màu chữ: Màu trắng.
+
+~ Chân: Mạ vàng ~ Trở kháng nội : 80 Ohms
+
+~ Nhiệt độ hoạt đí
+
+ 
+
+-40°C - §5°C 10 
+10 10 Đơn giá 13,00 
+34.00 80.000,00 Thành tiền 350,00 
+320.000,00 130.00 340,00 Z>2v-222 SE rAmz.
+
+29
+45 44 43 41 
+TT 0 1UF- 0402 Nguyên, vật liệu 10E_0402 
+10UF_1206 22UF-_ 1206 10UE_ 1210 ~ Loại tụ: Tụ gôm dán
+- Điện dung: 0.1IF
+
+¡ số: +5%
+áp định mức: 50V. Con
+chân: 0402
+"Nhiệt độ hoạt động: -55°C - 105°C 
+'TThông số kỹ thuật
+
+vị đo ~ Loại tụ: Tụ gôm dán.
+
+dung: 10F
+
++5%
+
+~ Điện áp định mức: 50V.
+
+- Kiểu chân: 0402
+
+Nhiệt độ hoạt động: -55°C - 105°C Số
+lương 300 
+300 300 300 300 
+3,00 Đơn giá 3,00 3,00 
+3.00 Thành tiền 900,00 900,00 
+900,00 900,00 900,00 900,00 
+49 48 47 46 
+Nguyên, vật liệu 1UF_0603 0 01UF_ 0402 1000PF_0402 
+10UF_0805 ~ Sai sô: +5%
+
+áp định mức: 50V
+
+~ Kiêu chân: 1206
+
+~ Nhiệt độ hoạt động: -55°C - 105°C “Thông số kỹ thuật
+
+Đơn
+vi đo ~ Loại tụ: Tụ gôm dán
+
+- Điện dung: 0.1uF
+
+- Sai số: +59,
+
+- Điện áp định mức: 50V.
+
+ 
+
+ 
+
+ 
+
+-55°C - 105°C 
+~ Loại tụ: Tụ gôm dán.
+- Điện dung: IuF
+Í số: +59
+áp định mức: 50V' Can
+chân: 1210
+~ Nhiệt độ hoạt động: -55°C - 105°C. ~ Loại tụ: Tụ gồm đán
+
+ 
+
+~ Điện áp định mức: 50V. ~ Loại tụ: Tụ gôm dán
+
+ 
+
+~ Nhiệt độ hoạt động: -55°C - 105°C ~ Loại tụ: Tụ gôm đán
+
+ 
+
+~ Nhiệt độ hoạt động: -55°C - 105°C 
+Sô
+lượng 300 300 300 
+Đơn giá 3,00 3,00 3,00 
+3,00 3,00 900,00 Thành tiền 
+900.00 900,00 900,00 
+TT 410 4 412 
+411 Nguyên, vật liệu 330UF_TANT_D 18PF_ 0402 
+330UF_LOW_ESR 47UF_1206 ~ Kiêu chân: 0402
+~ Nhiệt độ hoạt động: -55°C - 105°C Đơn
+
+ônø số kỹ
+Thông số kỹ thuật cơ 
+~ Loại tụ: Tụ Tantalum dán
+
++10%
+
+ 
+
+- Nhiệt độ hoạt động: -55°C - 105°C - Loại tụ: Tụ gôm dán
+
+ 
+
+- Điện áp định mức: 50V.
+- Kiểu chân: 1206
+Nhiệt độ hoạt động: -55°C - 105°C ~ Loại tụ: Tụ gôm dán.
+~ Điện dung: 18pF'
+¡ số: +5%,
+áp định mức: 50V
+chân: 0402.
+~ Nhiệt độ hoạt động: -55°C - 105% Số
+lương 
+300 300 300 300 
+3.00 3.00 3,00 3,00 
+Thành tiền 900,00 900,00 900,00 
+900,00 
+418 417 416 TT 
+0_068UF_ 0402 0_068UF_ 0402 330UF_8_3MMX8_3MM 820PF_0402 
+10UF._0603 4 7UF_0402 ~ Loại tụ: Tụ gôm đán.
+- Điện dung: 18pF
+- Sai số: +5%
+
+ 
+
+- Điện áp định mức: 50V
+
+- Kiểu chân: 0402
+~ Nhiệt độ hoạt độn;
+
+-55°C - 105°C ~ Loại tụ: Tụ gôm đán
+
+ 
+
+~ Nhiệt độ hoạt độn:
+
+~55°C - 105°C 
+~ Loại tụ: Tụ nhôm.
+
+ 
+
+- Điện áp định mức; 50V
+- Kiêu chân: Dịp 2- 3mm.
+- Nhiệt độ hoạt động: -55°C - 105°C. ~ Loại tụ: Tụ gôm đán
+- Điện dung: 10uF
+
+Con ~ Loại tụ: Tụ gôm đán.
+- Điện dung: 4.7uF
+
+- Sai số: +59
+
+áp định mức: 50V.
+
+ 
+
+~ Nhiệt độ hoạt động: -55°C - 105°C 300 
+300 300 300 300 
+3.00 Đơn giá 3,00 3,00 
+3,00 3.00 Thành tiền 900,00 
+900,00 900,00 900,00 900,00 .Ỷẳ⁄”..va
+
+“àổ:
+42 420 419 TT 
+Nguyên, vật liệu 100UF_ 1206 0 22UF_0402 20PF._0402 
+DNP_C_0402 Đơn
+
+Thông số kỹ thuật Nn ~ Loại tụ: Tụ gôm dán
+
+- Điện dung: 100uF
+
+- Sai số: +5%
+
+- Điện áp định mức: 50V.
+
+- Kiễu chân: 1206
+
+~ Nhiệt độ hoạt động: -55°C - 105°C +5%
+
+áp định mức: 50V
+
+- Kiểu chân: 0603
+
+~ Nhiệt độ hoạt động: -55°C - 105%C 
+Số
+lượng 300 300 300 
+300 Đơn giá 3.00 3.00 
+3,00 Thành tiền 900,00 900,00 
+900,00 900,00 
+426 424 0 022UF_0402 Nguyên, vật liệu 
+16SVPF180M 9 47UF_ 0402 100PF_ 0805 ~ Loại tụ: Tụ nhôm dán
+- Điện dung: 180uF'
+
+- Sai số: #209
+
+- Điện áp định mức: 50V
+
+chân: 6.3x5.9mm.
+
+~55°C - 105°C 
+~ Loại tụ: Tụ gôm dán
+
+- Điện dung: 0.47uF
+
+~ Sai số: +5%,
+
+~ Điện áp định mức: 50V
+
+- Kiểu chân: 0402
+
+~ Nhiệt độ hoạt động: -55°C - 105%C.
+
+ 
+
+Con ~ Loại tụ: Tụ gôm đán.
+dung: 100pF
++5%,
+
+áp định mức: 5
+chân: 0805
+
+~ Nhiệt độ hoạt độn;
+
+ 
+   
+  
+
+0V
+
+~55°C - 105°C 300 Sô 
+300 300 300 Đơn giá 
+3.00 3,00 Thành tiền 900,00 
+900,00 900,00 900,00 35
+428
+
++
+
+0 1UF_0805_CPACK
+
+| Điện trở
+
+30_0402
+
+~ Loại tụ: Tụ gồm dán
+
+ 
+
+~ Điện áp định mức: 50V
+- Kiểu chân: 0805
+~ Nhiệt độ hoạt độn;
+
+ 
+
+~55°C - 125°C
+
+- Loại điện trở: Điện trở dân
+
+~ Kiểu chân: 0402
+
+- Trở kháng: 30 Ohms
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+~ Hệ số nhiệt độ: 100 PPM / C
+
+- Nhiệt độ hoạt động: -55°C - 155°%C
+
+ 
+
+ 
+
+$2
+
+4 7K 0402
+
+ 
+
+- Loại điện trở: Điện trở dán
+
+- Kiều chân: 0402
+
+- Trở kháng: 4.7kOhms
+
+- Công xuất: 100 mW (1/10 W)
+
+ 
+
+- Hệ số nhiệt độ: 100 PPM /C
+~ Nhiệt độ hoạt động: -55°C - 155%C
+
+ 
+
+ 
+
+DNP_R_0402
+
+ 
+
+~ Loại điện trở: Điện trở dán
+- Kiểu chân: 0402 $2 + 74754-0101 
+4 7K 0402
+
+DNP_R_0402 30_0402 0 1UF_0805_CPACK Số 
+300 300 300 300 
+300 3,00 Đơn giá 3,00 
+1.300,00 1.300,00 69.000,00
+
+1.300,00 900,00 
+900,00 
+36 ằ 3.4 TT 
+Nguyên, vật liệu 249 0402 47_0603 15.0402 
+15.0402 ~ Trở kháng: 0 Ohms
+
+- Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1%
+
+- Hệ số nhiệt độ: 100 PPM /C
+
+- Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở đán
+
+~ Kiểu chân: 0402
+
+~ Trở kháng: 15Ohms
+
+- Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155%C ~ Loại điện trở: Điện trở dán
+- Kiễu chân: 0402
+
+- Trở kháng: 249Ohms
+
+~ Công xuất: 100 mW (1/10 W) Con
+~ Sai số
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155%C 
+~ Loại điện trở: Điện trở dán
+
+- Kiểu chân: 0603
+
+~ Trở kháng: 47Ohms
+
+- Công xuất: 100 mW (1/10 W)
+
+~ Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM/C
+
+~ Nhiệt độ hoạt động: -55°C - 155%C 300 300 300 
+Đơn giá 3,00 Thành tiền 1.300,00 
+1.300,00 1.300,00 1.300,00 _.Ýe
+
+37
+3.9 $7 Nguyên, vật liệu 6_8IK_0402 
+6_8IK_0402 100_0402 10 0805 40_9 0402 
+Ă s Đơn
+Thông số kỹ thuật vn ~ Loại điện trờ: Điện trở dán.
+- Kiểu chân: 0402
+- Trở kháng: 6.81kOhms
+- Công xuất: 100 mW (1/10 W)
+~ Sai số: 1%,
+- Hệ số nhiệt độ: 100 PPM / C
+- Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở dán.
+
+- Kiều chân: 0402
+
+- Trở kháng: 49.9Ohms
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+~ Hệ số nhiệt độ: 100 PPM /C
+
+Nhiệt độ hoạt động: -55°C - 155°C 300 
+lượng 300 300 300 
+Đơn giá 3,00 1.300,00 Thành tiền 
+Thành tiền 1.300,00 1.300,00 1.500,00 
+TT
+
+Nguyên, vật liệu
+
+"Thông số kỹ thuật
+
+ 
+
+- Hệ sô nhiệt độ: 100 PPM /C
+- Nhiệt độ hoạt động: -55°C - 155°C.
+
+ 
+
+311
+
+10 0K 0402
+
+- Loại điện trở: Điện trở dán
+
+~ Kiểu chân: 0402
+
+- Trở kháng: 10kOhms
+
+- Công xuất: 100 mW (1/10 W)
+
+ 
+
+ 
+
+2K_POT-3352W
+
+ 
+
+ệt độ hoạt động: -55°C - 155°C
+¡ điện trở: Biên trở.
+
+ 
+
+1_0M_ 0402
+
+ 
+
+~ Công xuât: 100 mW (1/10 W)
+
+~ Sai %
+~ Hệ số nhiệt độ: 100 PPM / C
+~ Nhiệt độ hoạt động: -55°C - 155°C.
+
+ 
+
+ 
+
+Con
+
+ 
+
+ 
+
+3.14
+
+ 
+
+140 0402
+
+ 
+
+- Loại điện trở: Điện trở dán.
+
+~ Kiểu chân: 0402
+
+- Trở kháng: 140Ohms
+
+~ Công xuất: 100 mW (1/10 W)
+- Sai số: 1 % 3.14 TT Nguyên, vật liệu 
+2K_POT-3352W 10 0K 0402 1_0M_ 0402 140 0402 
+~ Kiểu chân: 0402
+
+- Trở kháng: 10kOhms
+
+- Công xuất: 100 mW (1/10 W)
+
+1%
+
+nhiệt độ: 100 PPM /C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C ~ Hệ sô nhiệt độ: 100 PPM / C
+Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Biên trở.
+
+~ Trở kháng: 2kOhms
+
+- Công xuất: 50 mW (1/20 W) Con
+~ Sai số: 10 %,
+
+~ Nhiệt độ hoạt động: -10°C - 50%. - Kiểu chân: 0402
+- Trở kháng: 140Ohms
+~ Công xuất: 100 mW (1/10 W)
+
+~ Sai 
+- Kiều chân: 0402
+- Trở kháng: IMOhms
+~ Công xuất: 100 mW (1/10 W)
+
+~ Sai số: 1 %
+- Hệ số nhiệt độ: 100 PPM / C
+~ Nhiệt độ hoạt động: -55°C - 155°C
+
+ 
+
+Con Số 300 300 
+300 300 Đơn giá 3,00 
+5,00 3,00 3,00 Thành tiền 
+1.300,00 1.500,00 1.300,00 1.500.00 39
+4_99K_0402 0 0402 787_0402 4 22K 0402 
+~ Hệ sô nhiệt độ: 100 PPM /C
+~ Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở dán.
+- Kiểu chân: 0402
+
+ 
+ 
+
+- Công xuất: 100 mW (1/10 W)
+
+~ Hệ số nhiệt độ: 100 PPM / C
+Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở dán.
+
+- Kiễu chân: 0402
+
+~ Trở kháng: 0Ohms
+
+~ Công xuất: 100 mW (1/10 W) Con
+- Sai số: 1 %,
+
+~ Hệ số nhiệt độ: 100 PPM /C
+
+ộ hoạt động: -55°C - 155°C. lượng 
+300 300 300 Đơn giá 
+5,00 3,00 Thành tiền 1.300,00 
+1.300.00 1.300.00 1.300.00 
+3.22 “ Nguyên, vật liệu WSL3637 
+1_00K_0402 27.4.0402 2_00K 0402 ~ Công xuât: 100 mW (1/10 W)
+
+- Sai số: 1 %,
+
+~ Hệ số nhiệt độ: 100 PPM /C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C. 
+Đơn
+
+Thông số kỹ thuật in ~ Loại điện trờ: Điện trở Current Sense - SMD.
+~ Trở kháng: 4mOhms
+
+~ Công xuất: 3W“
+
+~ Sai số: 1 %
+
+- Hệ số nhiệt độ: 50 PPM / C
+
+~ Nhiệt độ hoạt động: -65°C - 170°C ~ Trở kháng: IkOhms
+~ Công xuất: 100 mW (1/10 W)
+
+ 
+
+- Hệ số nhiệt độ: 100 PPM / C
+-Nl lộ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở dán
+~ Kiểu chân: 0402. 
+-Kiêu chân: 0402.
+
+~ Trở kháng: 2kOhms
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1%
+
+~ Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155% 300 300 300 
+300 Đơn giá 3,00 5,00 
+Thành tiền 1.300,00 1.300,00 1.300,00 ị 
+1.300,00 MGKC Ki tieu
+
+41
+3.25 š.2 Nguyên, vật 1_000K_0603 
+330_0603 261_0402 Đơn
+
+Thông số kỹ thuật — ~ Loại điện trở:
+
+- Kiểu chân: 0603
+
+~ Trở kháng: 330Ohms
+
+- Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM / C
+Nhiệt độ hoạt động: -55°C - 155%C
+
+ 
+
+ 
+
+Con 
+~ Trở kháng: 27.4Ohms
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+~ Hệ số nhiệt độ: 100 PPM./ C
+
+iệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở đán
+
+~ Kiểu chân: 0603
+
+~ Trở kháng: IkOhms
+
+- Công xuất: 100 mW (1/10 W)
+
+~ Sai số: 1%
+
+- Hệ số nhiệt độ: 100 PPM./C
+
+Nhiệt độ hoạt động: -55°C - 155°C 300 300 
+300 3,00 Thành tiền 1.500.00 
+1.300,00 1.300,00 
+"=
+
+% 73K_0402 4 330K 0603 2 43K 0402 
+$6_6K_0402 ~ Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động
+
+-55°C - 155°C - Kiểu chân: 0402
+
+- Trở kháng: 2.43Ohms
+
+- Công xuất: 100 mW (1/10 W)
+- Sai số: 1 % ~ Loại điện trở: Điện trở dán
+
+~ Kiểu chân: 0402
+
+~ Trở kháng: 86kOhms
+
+~ Công xuất: 100 mW (1/10 W)
+
+~ Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C
+
+ 
+
+ 
+
+ 
+
+Con 
+300 300 300 300 
+Đơn giá 3,00 3,00 Thành tiền 
+1.300.00 1.300,00 1.300,00 1.300,00 
+1.300,00 "`
+
+4
+$.30 Nguyên, vật liệu 1_21K 0402 4 75K 0402 
+4_70K_0402 220 0402 ~ Hệ sô nhiệt độ: 100 PPM / C
+~ Nhiệt độ hoạt động: -55°C - 155°C Đơn
+
+'Thông số kỹ thuậ
+lông số kỹ thuật | 
+~ Loại điện trở: Điện trở dán
+
+~ Kiêu chân: 0402
+
+- Trở kháng: 4.75kOhms
+
+- Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+~ Hệ số nhiệt độ: 100 PPM / C
+"Nhiệt độ hoạt động: -55°C - 155°C Sô
+lượng 300 300 
+300 300 Đơn giá 3.00 
+5,00 3,00 Thành tiền 1.300,00 
+1.500,00 1.300.00 - 1300,00 
+3.36 80 6_0402 49_9 0201 Nguyên, vật liệu 
+1 07K 0402 Š 62K 0402 ~ Loại điện trở: Điện trở dán. Con ~ Loại điện trở: Điện trở đán
+
+- Kiểu chân: 0402
+
+~ Trở kháng: 5.62kOhms
+
+- Công xuất: 100 mW (1/10 W)
+ố:1%
+
+nhiệt độ: 100 PPM /C
+
+ộ hoạt động: -55°C - 155C. 
+300 Sô 300 300 
+300 3,00 |
+
+1.500.00 3.00 5,00 
+Đơn giá 3,00 1.500,00 Thành tiền 
+1.300,00 1.300,00 1.300,00 W2 /Ý MU
+
+4
+3.39 TT Nguyên, vật liệu 887_0402 
+100K_0603 27_4K_0402 kỹ Đơn
+Thông số kỹ thuật — ~ Kiêu chân: 0402
+
+- Trở kháng: 1.07kOhms
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C 
+~ Loại điện trở: Điện trở dán.
+
+- Kiểu chân: 0402
+
+ 
+
+100kOhms
+
+~ Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt độn;
+
+~55°C - 155% 300 300 300 
+Đơn giá Thành tiền 1.300.00 1.500,00 
+1.300,00 
+TT Nguyên, vật liệu 51_1K 0402 51_1K 0402 
+100_0201 1K25R005FER 100K_0402 ~ Hệ số nhiệt độ: 100 PPM / C
+
+  
+
+~Nl lộ hoạt động: -55°C - 155°C 
+~ Loại điện trở: Điện trở đán
+~ Kiểu chân: SMD/SMT.
+
+~ Trở kháng: 5mOhms
+
+- Công xuất: 2W'
+
+Con trở: Điện trở đán
+
+~ Kiểu chân: 0402.
+
+~ Trở kháng: 100kOhms
+
+- Công xuất: 100 mW (1/10 W) Con
+- Sai số: 1%
+
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C 300 300 
+300 300 Đơn giá 3,00 
+3,00 3,00 1.300,00 1.300,00 
+Thành 1.300,00 100.00 1.500,00 47
+TT 61 Nguyên, vật liệu 24_9 0402 
+Điốt 27K 0402 BZX84C4V7_SOT23 BAS40_04 SOT23 
+ông số kỹ thuâi Đơn
+Thông số kỹ thuật — - Nhiệt độ hoạt động: -40%C - 125°C ~ Loại điện trở: Điện trở dán.
+
+- Kiều chân: 0201
+
+~ Trở kháng: 24.90hmsr
+
+~ Công xuất: 100 mW (1/10 W)
+
+- Sai số: 1 %
+
+- Hệ số nhiệt độ: 100 PPM / C
+
+~ Nhiệt độ hoạt động: -55°C - 155°C ~ Loại điện trở: Điện trở dán
+
+- Kiều chân: 0201
+
+~ Trở kháng: 2.7kQhms
+
+- Công xuất: 100 mW (1/10 W) Con
+ai số: 1 %
+
+số nhiệt độ: 100 PPM / C
+
+Nhiệt độ hoạt động: -55°C - 155°C 
+Số 300 100 100 
+300 Đơn giá 1,80 1,80 
+3,00 Thành tiền 1.300,00 180,00 
+1.500.00 180,00 
+65 6.4 63 TT 
+Nguyên, vật liệu DL4148 ĐFLSII50 MM3Z2V7B 
+Thông số kỹ thuật viên
+~ Dung sai điện áp: 5 %
+
+~ Dung sai điện áp: - 0.03 %/C.
+
+- Dòng Zener: 3 uA.
+
+- Zz ~ Trờ kháng Zener: 80 Ohms
+
+-55°C - 155%
+
+ 
+
+- Kiểu chân: SOD-80.
+- IÝ- Dòng chuyển tiết
+
+10 mA.
+
+- VÝ- Điện áp chuyển tiếp: 1 V'
+
+- lr- Dòng điện rò: 100 uA.
+
+- Nhiệt độ hoạt động: -65°C - 175°C.
+
+~ Nhà sản xuất: Micro Commercial Components (MCC) ~ Kiêu chân: ĐOWERDI 123
+
+    
+
+~ Vinm - Điện áp ngược:
+- VỀ - Điện áp chuyển tiếp:
+~ I§m - Dòng điện cực đại: 50 A. ~ “ener Voltage: 2.7 V'
+
+~ Mounting Style: SMD/SMT
+
+~ Package / Case: SOD-323F-2
+
+- Pd - Năng lượng thất thoát: 200 mW'
+~ Dung sai điện áp: 2 %
+
+~ Dung sai điện áp: -
+
+~Zener Current: 18 uA.
+
+~ Zz - Trở kháng Zener: 94 Ohms
+
+~ Nhiệt độ hoạt động: -65°C - 175%C
+
+- Nhà sản xuất: ON Semiconduetor ~ Zener Voltage: 2.7 V
+
+~ Mounting Style: SMD/SMT
+
+~ Package / Case: SOD-323F-2
+
+- Pd - Năng lượng thất thoát: 200 mW'
+~ Dung sai điện áp: 2 %
+
+~ Dung sai điện áp: -
+
+~Zener Current: 18 uA.
+
+- Zz - Trở kháng Zener: 94 Ohms
+
+~ Nhiệt độ hoạt động: -65°C - 175%C
+
+- Nhà sản xuất: ON Semiconduetor
+
+ 
+
+Con 
+Số
+lượng 100 100 1,80 
+Đơn giá 1,80 180.00 Thành tiền 
+180,00 180,00 ``-- `...
+
+40
+66 6.9 68 6.7 
+Nguyên, vật liệu 1NS335BRLG 1NS335BRLG LED-GRN-SMT_LED_ 0603 
+RCLAMP0524P SODIMM_CAGE ~  - Dòng điện rò: 2 uÁ.
+~ Nhiệt độ hoạt động: -55°C - 175°C "Thông số kỹ thuật 
+~ Kiêu DRAM: Double Data Rate (DDR) 2
+~ Chiều cao ngăn xếp: 8 mm.
+
+- Định hướng mô-đun: Góc phải
+
+- Kiểu gắn PCB: Bề mặt gắn
+
+~ Hệ thống kết nối: Cáp nối - Vz - Zener Voltage: 3.9 V
+
+- Mounting Style: Xuyên lỗ
+
+- Kiểu chân: 017AA-2
+
+~ Pd - Năng lượng thất thoát: 5 W
+
+~ Dung sai điện áp: 5 %
+
+~Zener Current: 50 uA.
+
+~ Zz - Trở kháng Zener: 2 Ohms
+
+- Nhiệt độ hoạt động: -65%C - 200°C. ~ Loại: Xanh láLEDs. ~ Vesd - Điện áp phóng tĩnh điện tiếp xúc
+~ Vesd - Điện áp phóng tĩnh điện trong không khí: 15 kV.
+
+- Số lượng kênh: 4 Kênh
+
+- Điện áp đánh thủng: 6.5 V'
+
+áp làm việc: S V Con
+- Điện áp kẹp: 15 V
+
+- Ipp - Dòng xung đột biến: 5 A.
+
+- Cd - Điện dưng đi Ốt: 0.8 pF
+
+~ Nhiệt độ hoạt động: -55°C - 125°C 
+Số
+lương 100 100 100 
+100 Đơn giá 1.80 180 
+“Thành tiền 180,00 180,00 180,00 
+6.12 611 6.10 HSMF-C155 
+LED-GREEN-
+SMT._ LED_0603 LED_GRN SMALL_DUAL_
+STACK Màu chiêu sáng: Đô, Xanh lá. ~ Kiều chân: 0603 (1608 metri)
+
+~ Màu: Xanh lá
+
+- Bước sóng/Nhiệt độ màu: 574 nm.
+- Cường độ sáng: 50 mcd
+
+~ Góc nhìn: 120 dep.
+
+~ TÝ- Dòng chuyển tiếp: 20 mA.
+
+~ VỀ - Điện áp chuyển tiếp: 2.2 V
+'Nhiệt độ hoạt động: -55°C - 125°C 
+100 100 100 1,80 
+Đơn giá 1,80 180,00 180,00 
+180,00 180.00 Thành tiền \\ 2 S228
+
+$1
++4 72 71 Nguyên, vật liệu 
+ị DDR3_SO-DIMM CONN USB_MINI B TH HDR_1X2 
+ASP_134603_01 Đơn
+
+ônz số kỹ thuật
+Thông số kỹ thuật _— ~ Kiêu: DDR3 SO DIMM
+ế 204
+: -55°C - 85°C
+
+ 
+
+ 
+ 
+
+~ Điện áp định mức: 25V.
+
+'Terminal Pitch (mm) 0.6 ~ Bước sóng/Nhiệt độ màu: 572 nm, 626 nm.
+- Cường độ sáng: 10 med, 15 mcdi
+
+- Góc nhìn: 170 deg
+
+- If- Dòng chuyển tiếp: 20 mA.
+
+~ Vf- Điện áp chuyển tiếp: 2.1 V, 2.2 V
+
+- Công suất: 65 mW 
+~ Sô lượng tiêp điểm: 400
+
+- Kiểu chân _ 0.050": (127mm)
+
+~ Số hàng: 10
+
+- Kiểu liên kết: Gắn bề mặt Cái
+5 Hang Guide
+
+   
+
+~ Độ dài Termination: 3.2 mm.
+Số chân liên kết: Số
+
+lương 20 20 
+20 Đơn giá 70,00 70,00 
+70.00 Thành tiền 1.400.00 1.400.00 
+22.400,00 1.400.00 
+710 78 77 76 
+Là) Nguyên, vật SMA_32K10K-400 HDR_IXI 
+HDR_!X9 ASP_ 134486_01 HDR_2X7 265 HDR_1X3 
+~ Pitch: 2.54 mm. Cá
+hàng: 4
+Dòng điện định mức: 1 A. ~ Số công: 1
+Dòng đi định mức: Ì A. ~ Trở kháng: 50 Ohms
+- Tần số max: 12.4 GHz
+
+~ Kiểu gắn: Xuyên lỗ
+
+~ Kiểu liên kết: PCB Mount ~ Dòng điện định mức: 1 A.
+~ Kiểu liên kết: Xuyên lỗ
+~ Kiểu gắn: Xuyên lỗ
+
+ 
+
+Cái 
+- Sô chân: 3
+
+~Pitch: 2.54 mm
+
+- Số hàng: 1
+
+- Dòng định mức: 3A. ~ Kiêu liên kêt: Array, Female Sockets
+- Số chân: 400) 20 có 
+Sô
+lượng 20 20 20 
+70,00 70.00 70.00 70,00 
+70.00 70,00 1.400.00 1.400,00 
+1.200.00 Thành tiền 1.400,00 1.400.00 
+1.400.00 
+&3 82 &1I ^
+
+5 
+z1 713 712 zH 
+Nguyên, vật liệu HDR-2X5-SHR_HDR-2X5-
+SHR HDR_2X3 FERRITE-600 
+INDUCTOR_0_4_7UH FERRITE-220_0603 Cuộn cảm WM270I-ND 
+MOLEX-87832-1420 39-30-1060 JACK_500X540 SAMTEC TST 110 XX XD Thông số kỹ thuật ng
+vị đo 
+- Sô chân: 3
+~Pitch: 2.54 mm
+Số hàng: ] Cái Cái ~ Sô chân: 20
+- Pitch: 2.54 mm
+Số hàng: 2 Row'
+
+ 
+
+Cái 
+~ Sô chân: 10 ~ Số chân: 6
+~ Pitch: 2.54 mm
+~ Số hàng: 2 Số 100 
+100 100 20 20 
+20 20 1,00 70.00 
+70.00 70.00 Đơn giá 70,00 
+70.00 70.00 1.400.00 1.400.00 
+Thành tiền 100,00 100,00 390,00 
+1.400,.00 1.400.00 1.400,00 1.400.00 (Băng chữ: Một tỷ hai trăm triệu đông chẵn)
+
+54
+Đơn
+
+ 
+
+ 
+
+ 
+
+TT Nguyên, vật liệu | “Thông số kỹ thuật vị đo
+| - Dòng DC max: 2A,
+| - Kiểu chân: 1206
+¡- Trở kháng: 78 Ohms
+- Tần số kiểm tra: 25 MH:
+$4 2773021447 Ð HIH M2 MÔ, Con
+
+ 
+
+ 
+
+~ Nhiệt độ hoạt động: -55°C - 125°C
+- Kiều: Hạt SMD.
+
+Cộng 84 TT 2773021447 
+Nguyên, vật liệu Đơn
+
+“Thông số kỹ thuật ViĂo ~ Trở kháng: 78 Ohms
+
+- Tần số kiểm tra: 25 MHZ
+
+~ Nhiệt độ hoạt động: -55°C - 125°C
+Kiểu: Hạt SMD.
+
+ 
+
+Con - Dòng DC max: 2A.
+Kiểu chân: 1206 
+Sô 90 Đơn giá 1,00 
+Thành tiền 90,00 

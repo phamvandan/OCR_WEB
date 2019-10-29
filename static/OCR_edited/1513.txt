@@ -1,0 +1,382 @@
+VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:4S2/VCNT] Hà Nội, ngày Ä†tháng 10 năm 2018
+V/v phê duyệt bộ chí tiêu chiến-kỹ thuật
+sản phâm KHCN của các nÌ
+hoàn thiện công nghệ
+
+  
+
+ 
+
+Kính gửi: Phòng TM-KH/Viện KH-CN Quân sự.
+
+Căn cứ Danh mục nhiệm vụ KH&CN cấp Viện KHCNQS năm 2018 đã
+được Giám đốc Viện KHCNQS phê duyệt tại Tờ trình số 41 1TTr-TMKH ngày
+01 tháng 11 năm 2017;
+
+Căn cứ Quyết định số 1710/QĐ-VKHCNQS ngày 15/11/2017 của Giám
+đốc Viện KHCNQS Về việc giao nhiệm vụ và kinh phí hoàn thiện sản phẩm
+nghiên cứu cho Viện Công nghệ thông tin (Ngân sách quốc phòng năm 2018);
+
+Căn cứ Biên bản Hội thảo ngày 27/9/2018 xây dựng các bộ chỉ tiêu chiến-
+kỹ thuật sản phẩm của các nhiệm vụ hoàn thiện công nghệ cấp Viện KHCNQS,
+
+Viện Công nghệ thông tin đã hoàn thành dự thảo Bộ chỉ tiêu chiến-kỹ
+thuật của Thiết bị giả đạn IR-60VN và Khối tính toán BMI của hệ thống điều
+khiển phóng tên lửa KACY 3P-60V2.
+
+Viện Công nghệ thông tin đề nghị Phòng TM-KI1 xem xét, báo cáo Giám
+đốc Viện KHCNQS và có văn bản gửi Quân chúng Hải quân đề nghị phê duyệt
+các bộ chỉ tiêu kỹ-chiến thuật nêu trên. —
+
+ 
+
+Nơi nhận
+~ Như trên:
+
+- Các CNNV (02):
+
+~_ Lưu: VT,KH: H05.
+
+ 
+
+Thượng tá Đỗ Việt Bình† hụ lục
+DỰ THẢO BỘ CHỈ TIÊU CHIẾN-KỸ THUẬT BMI
+(Kèm theo công văn số: A52-/VCNTT-KH ngày 4/10/2018 của Viện CNTT)
+
+L. Tên sản phẩm: Khối tính toán BMI của hệ thống điều khiển phóng tên lửa
+KACY 3P-60V2.
+II. Chỉ tiêu chiến thuật:
+
+Khối BMI là bộ phận điều khiển của máy KB1631I, có nhiệm vụ điều khiển
+các giao tiếp với các ống phóng tên lửa, các quả đạn tên lửa và giao tiếp với máy
+KY16311 và các máy khác trong hệ thống điều khiển phóng tên lửa KACY 3P-
+60V2-1241.8.
+
+II. Chỉ tiêu kỹ thuật:
+Số kênh lệnh đơn 27 V đâu
+ra Sô kênh trao đôi thông tin
+chuẩn ARINC-429
+
+Số kênh lệnh đơn 27 V đầu.
+vào Số đường truyền theo
+chuẩn MIL-STD -1553B Hệ điều hành
+
+ 
+
+Bus dữ liệu
+
+Số đường truyền theo
+chuẩn TCP/IP
+
+thống 
+Thẻ nhớ Flash card Bộ nhớ RAM Bộ xử lý AMD_ Geode
+LX800 Nội dung 
+(+27+3) V 32 64 ISA-8 bít 
+không Photon 512 MB 256 MB 500 MHz. 
+Khối BMI do Viện
+CNTT chế tạo Chỉ tiêu kỹ thuật (+27+3) V 32 
+64 ISA-8 bit QNX4.25,
+không Photon 128 MB 
+32 MB 300 MHz MI do Nga
+chế tạo
+(Theo tài liệu HBJIII
+4461121.029P33) | CNTT chế tạo — | (7heo tài liệu HB/HL.
+| 4461121.029P“)3)
+
+  
+
+ 
+
+| 12 | Công suất tiêu thụ <27W
+l5 Chịu rung sóc dao động
+
+<I96m/g°L
+
+STT | Nội dung Khối BMI do Viện chế tạo
+-<19, 6 mức?
+
+(316+10%) mm
+
+“Giới 10%) mm
+
+_ (77:10%) mm
+
+(178+10%) mm
+<2kg
+
+(177+10%) mm -
+(178+10%) mm
+<2kg
+
+ 
+
+ 
+
+ 
+
+ 
+
++ (1100) Hz ˆ (1100) 1z
+(0270) ° — 10:55)
+<98 % <98 %
+]
+STT STT. Nội dung 14
+1Š STT | Nội dung
+
+ 
+
+  
+
+ju rung sóc dao động
+hình sin
+
+” (độ 35°C
+16. Kích thước
+
+E Chiều đài -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Khối BMI do Viện
+CNTT chế tạo
+
+ 
+
+(1100) Hz
+
+(070) °
+
+<98%
+
+(316+10%) mm
+(177+10%)
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Khối BMI c
+
+chế tạ
+
+(Theo tài liệu
+
+4461121.02
+
+_(1:100)
+(-10:55)
+
+<98§
+
+(316110%
+Nưn
+(178+10%
+<3kẹ 
+Công suất tiêu thụ - Chiều rộng, Nhiệt độ hoạt động
+
+Độ ẩm hoạt động ở nhiệt
+độ35%  —
+Kích thước
+
+- Chiều dài Chịu rung sóc dao động.
+NHHm..........
+- Biên độ gia tốc
+
+- Trong dải tần 
+(1100) Hz
+
+(070) °
+
+<98%
+
+(316+10%) mm
+
+(177+10%) mm Khối BMI do Viện
+' chế tạo 7 nụ lục
+BỘ CHỈ TIÊU CHIẾN-KỸ THUẬT IR-60VN
+(Kèm theo công văn số: A§2/VCNTT-KH_ngày 43/10/2018 của Viện CNTT)
+
+1. Tên sản phẩm: Thiết bị giả đạn IR-60VN
+II. Chỉ tiêu chiến thuật:
+
+Thiết bị có nhiệm vụ kiểm tra sự làm việc của tổ hợp KACY khi được nối
+vào vị trí của tên lửa 3M-24 (3M-242) trong TIIK 3C-34 (3C-342) cùng với khả
+năng tạo giả những hư hỏng của tên lửa, nhằm hỗ trợ công tác bảo đảm kỹ thuật,
+nâng cao hiệu quả huấn luyện thường xuyên kíp trắc thủ, cũng như nâng cao khả
+năng làm chủ vũ khí trang bị mới hiện đại của Hải Quân Việt Nam.
+
+Thiết bị đảm bảo làm việc trong các chế độ sau:
+
+- “OP” để đảm bảo cho các chế độ làm việc “OP”, “OP-[I", *OP-M”, “HH”
+và “AB” của tổ hợp KACY khi nuôi từ nguồn điện cơ bản.
+
+- “AB” để đâm bảo trong chế độ làm việc phóng bỏ của KACY, khi sử
+dụng nguồn điện sự cố.
+
+III. Chỉ tiêu kỹ thuật:
+STT - Điện áp - Số lượng. Tín hiệu nhận vê dạng lệnh
+đơn 27V 
+~ Dòng điện ~ Điện áp tín hiệu mức cao. ~ Điện áp tín hiệu mức "0° ~ Điện áp tín hiệu mức thập. 
+~ Tân sô Giao diện trao đôi thông tin sô
+ARINC 429 Số lỗi giả lập trên mỗi kênh Sô lượng kênh giả lập đông
+thời 
+Nội dung (24+30) V 36 12mA. 
++2a212v 0V+0.5V -(12#1.2)V 50 kHz + 2.5 % 
+21 IR-60VN 14 Ệ
+@® lổ IR-60M
+(Theo tài liệu HB.JIT
+467918.007P' Ị Chỉ tiêu kỹ thuật
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sH Nội dung |  ẤR-60M
+IR-60VN —_ YĂeo tải liêu TIM HH
+48“VJA d9
+tín hiệu. . = I00mA
+¡ —
+Ị l HH
+- Điện áp ' (24230) V
+ˆ- Đông tải tín hiệu — — ˆ xIÁAT”
+6 Điện áp nguồn nuôi (18236) V mội chiều (24210)V
+7 Công suất tiêu thụ I0 MỘC Ố 4U
+Ị § >I MO
+củ ! Đến LED Ì
+10 { (20+ 1) ke (16 1.6)Kp
+lÍ Kiểu đáng | Dạng vali chuyên dụng |
+123 Kích thước Ị
+f.Chndi —~ '(702310%)mm_ `
+—_- Chiểu rộng ` (434+10%) mm
+—- Chiều cao — ĩ —— (377110%)mm _
+13 ` lhời gian làm việc liên tục — — 120 phút 30 phút
+, Độ âm tương dối © 98 ˆ Độ âm - 98% và
+14 Diễu kiện làm việc ®ä và nhiệt độ tử 0 “C—- nhiệt độ từ 30C
+đến 50 'C đến §U C
+Íyg _ Chịu rung sóc dao động hình - Ỉ
+là
+
+| ịn
+19.6m)(2/00)
+(1#100) Hz
+
+ 
+
+Biên độ (gia tốc) — —
+
+    
+
+trong dải t
+
+ 
+
+(Œ)— Õ đề trồng là các chỉ tiêu kỳ thuật không được phia Nga cung cấp hoặc
+
+không tên tại.
+Ị Chỉ tiêu kỹ thuậ
+=
+
+ 
+
+ 
+
+ 
+
+Nội dun;
+khung: IR-60VN _
++
+- Dòng tải. tín hiệu = 100 mA.
+_ Iín hiệu truyền đi dạng lệnh. †
+đơn 27V Ị
+Số lượng d4 -
+TỶ... " ——
+- Diện áp Ị (24+30) V Ị
+
+   
+  
+
+     
+
+ 
+
+   
+
+ 
+
+- Döng tải: tín SIA |
+Điện áp nguồn nuôi (18+36) V một chiều Ị
+ˆ Công suất tiêu thụ “40W
+
+_ Điện trở cách điện mạch cắt
+
+| gguản m&ới CÔ S & PMIẾI
+Chibá lỗi Đến LED Ỉ
+
+Ỉ - Khối lượng. c `] (20+ 1)kp ú
+
+“Kiểu đáng | Dạng vali chuyên dụng |
+Kích thướ |
+
+ 
+
+   
+
+    
+
+ 
+
+ 
+
+ 
+
+ˆ - Chiều đài '(702310%) mm
+
+- Chiều rộng _ —— (434#10%) mm
+
+- Chiều cao ĩ —— (377110%)mm _
+
+ˆ Thời gian làm việc liên tục — — 120 phút
+, Độ âm tương dối - 08 ˆ
+
+Điều kiện làm việc độ từ 0C |
+
+đến 50 C Ị
+| Chịu rung sóc dao động hình - Ỉ
+‡
+
+- Biên dộ (gia l s Í 19,6 m/š” (2.0 g)
+|
+
+ 
+
+- Trong dải (1#100) Hz 

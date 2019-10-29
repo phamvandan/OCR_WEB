@@ -1,0 +1,138 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 54 /VCNTT-KH Hà Nội, ngày-46tháng 02 năm 2019
+'V/v thử nghiệm khối BMI trên tàu với
+tên lửa thật
+
+Kính gửi: Phòng TM-KH/Viện KH-CN quân sự.
+
+Căn cứ Quyết định số 1710/QĐ-VKHCNQS ngày 15/11/2017 của Giám
+đốc Viện KHCNQS về việc giao nhiệm vụ và kinh phí hoàn thiện sản phẩm
+nghiên cứu cho Viện Công nghệ thông tin (Ngân sách quốc phòng năm 2018);
+
+Căn cứ Công văn số 16965/BTL-KHQS ngày 26/12/2018 của Bộ Tư lệnh
+Hải quân về việc góp ý kiến chỉ tiêu chiến kỹ thuật và quy trình kiểm tra sản
+phẩm đề tài KHCN của Viện KHCNQS,
+
+Để phê duyệt bộ chỉ tiêu chiến kỹ thuật của khối BMI, theo ý kiến của
+Quân chủng Hải quân trong công văn số 16965/BTL-KHQS Viện Công nghệ
+thông tin xây dựng kế hoạch thử nghiệm khối BMI trên tàu với tên lửa thật tại
+Vùng 2 Hải quân. (Kế hoạch và quy trình thử nghiệm được gửi kèm theo công
+văn này).
+
+'Viện Công nghệ thông tin kính để nghị Phòng Tham mưu - Kế hoạch xem
+xét, báo cáo Giám đốc Viện KHCNQS có văn bản gửi Bộ Tư lệnh Quân chủng.
+Hải quân để thực hiện thử nghiệm khối BMI tại Vùng 2 Hải quân. _
+
+Nơi nhận TRƯỞNG
+~ Như trên;
+
+~ CNNV (4/ Đỗ Xuân Ngọc);
+~ Lm: VT, KH; H04.
+
+  
+
+Việt BìnhPHỤ LỤC
+Kế hoạch và Quy trình thử nghiệm khối BM1
+(Kèm theo Công văn số 51/VCNTT-KH ngày 15/02/2019 của Viện CNTT)
+
+1- KẾ HOẠCH THỬ NGHIỆM
+1. Thành phần tham gia thử nghiệm:
+
+- Đại tá Phạm Hồng Long, Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Nguyễn Minh Thường, Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Phạm Xuân Công, Viện CNTT/Viện KH-CNQS
+
+- Thiếu tá Dương Phú Tuấn, Viện CNTT/Viện KH-CNQS
+
+~ Thiếu tá Vũ Hoàng Anh, Viện CNTT/Viện KH-CNQS
+
+- Đại úy CN Dương Mạnh Cường, Viện CNTT/Viện KH-CNQS
+Khách mời tham gia:
+
+- Đại diện Phòng Tham mưu - Kế hoạch/Viện KH-CNQS.
+
+- Đại diện Cục Kỹ thuậ/BTL QCHQ.
+
+- Đại diện Phòng Khoa học quân sự/BTL QCHQ.
+
+- Thủ trưởng Viện Công nghệ thông tỉn.
+
+- Đại diện Phòng Kỹ thuật/Vùng 2 Hải quân.
+
+~ Thủ trưởng Lữ đoàn 167/Vùng 2 Hải quân.
+
+- Đại diện Phòng Kỹ thuật/Lữ đoàn 167/Vùng 2 Hải quân.
+
+- Đại diện Phòng Kỹ thuật/Căn cứ 696/Vùng 2 Hải quân.
+
+~ Chỉ huy tàu và kíp tàu thử nghiệm.
+2. Thời gian: Dự kiến từ ngày 15/3/2019 đến 15/4/2019.
+._ Địa điểm: Vùng 2 Hải quân.
+4. Cơ quan phối hợp thực hiện: Phòng Kỹ thuật Vùng 2 HQ; Lữ đoàn 167, Căn
+
+cứ 696.
+5. Nội dung:
+
+- Thử nghiệm khối BMI do Viện CNTT/Viện KHCNQS chế tạo với quả đạn
+tên lửa 3M-242/V,1 trên tàu M tại Lữ đoàn 167.
+
+~ Quá trình tổ chức thử nghiệm đề nghị được kết hợp với kế hoạch huấn
+luyện của Lữ đoàn 167 và Vùng 2 Hải quân.
+
+~ Trong quá trình tổ chức thử nghiệm, Viện Công nghệ thông tin và tổ thực
+hiện nhiệm vụ có trách nhiệm đảm bảo an toàn về trang thiết bị. Nếu có hỏng
+hóc xảy ra trong quá trình thử nghiệm, Viện Công nghệ thông tin và tổ thực
+hiện nhiệm vụ có trách nhiệm khắc phục và hoàn trả nguyên trạng cho tàu.
+
+°I- QUY TRÌNH THỨ NGHIỆM
+3.1 Kiểm tra tình trạng hệ thống KACY của tàu với khối BMI gốc
+
+Bước 1: Lắp hệ thống cáp nối của bệ phóng có tên lửa thật vào thiết bị giả
+đạn tên lửa IR-60VN. Bật KACY và chạy ở các chế độ “2K”, “OP”, ghi nhận
+tình trạng hoạt động của KACY ở các chế độ này.
+
+Bước 2: Tháo hệ thống cáp nối khỏi thiết bị giả đạn tên lửa IR-60VN và
+lắp vào bệ phóng có tên lửa thật. Bật KACV và chạy ở chế độ “HH”, ghỉ nhận
+tình trạng hoạt động của KACY ở chế độ này.
+
+Bước 3: Tắt hệ thống KACY, kết thúc nội dung kiểm tra, lập biên bản ghỉ
+nhận.
+
+3.2 Thử nghiệm khối BMI1 do Viện CNTT/Viện KHCNQS chế tạo
+
+Bước 1: Thay thế khối BMI do Viện CNTT/Viện KHCNQS chế tạo vào tủ
+thiết bị KE16311 có kết nói với tên lửa thật.
+
+Bước 2: Tháo hệ thống cáp nối từ bệ phóng có tên lửa thật và lắp vào thiết
+bị giả đạn tên lửa IR-60VN.
+
+Bước 3: Bật KACY và chạy ở các chế độ “2K”, “OP”, ghỉ nhận tình trạng,
+hoạt động của KACY ở các chế độ này.
+
+Bước 4: Tháo hệ thống cáp nối khỏi thiết bị giả đạn tên lửa IR-60VN và
+lắp vào bệ phóng có tên lửa thật. Bật KACY và chạy ở chế độ “HH”, ghỉ nhận
+tình trạng hoạt động của KACY ở chế độ này.
+
+Bước 5: Tắt hệ thống KACY, kết thúc nội dung thử nghiệm, lập biên bản
+ghỉ nhận.
+
+3.3 Khôi phục hệ thống KACY lại trạng thái ban đầu
+
+Bước 1: Tháo hệ thống cáp nối khỏi bệ phóng có tên lửa thật.
+
+Bước 2: Tháo dỡ khối BMI do Viện CNTT/Viện KHCNQS chế tạo %
+khôi phục lại khối BMI gốc của tủ máy KB163I1. Bật KACV và chạy ở chế
+“2K”, ghỉ nhận tình trạng hoạt động của KACV ở chế độ này. ị
+
+Bước 3: Tắt hệ thống KACY, kết thúc quá trình thử nghiệm, lập biên bản
+ghỉ nhận.
+
+ 
+  
+
+Chú ý: Các thao tác thực hiện đều tuân theo hướng dẫn của tài liệu và sự
+vận hành của trắc thủ.

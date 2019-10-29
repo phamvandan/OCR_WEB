@@ -1,0 +1,123 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: #J‡ /VCNTT-KH Hà Nội, ngày 31 tháng 8 năm 2016
+'V/v đề nghị đánh giá, nghiệm thu cấp cơ
+sở đề tài khoa học và công nghệ cấp Bộ
+Quốc phòng
+
+Kính gửi: Giám đốc Viện KH-CN quân sự.
+
+Căn cứ Thông tư số 91/2015/TT-BQP ngày 11 tháng 8 năm 2015 của Bộ
+trưởng Bộ Quốc phòng quy định việc đánh giá, nghiệm thu kết quả thực hiện đề tài
+khoa học và công nghệ cắp Bộ Quốc phòng sử dụng ngân sách nhà nước;
+
+Căn cứ vào Hợp đồng Nghiên cứu khoa học và phát triển công nghệ số KC-
+T.11/2013/HĐ-KCT ngày 26/11/2013 giữa Ban Chủ nhiệm Để án KHCN KC-T và
+'Viện Công nghệ thông tin.
+
+Căn cứ theo Thuyết mỉnh đã được xét duyệt của đề tài “Nghiên cứu, thiết kế
+hệ thống tổ hợp thiết bị điều khiển phóng tên lửa KACV 3P-60V2-1241.8 và thiết
+kế, chế thử máy KE163IT° (mã số KC-T.11); Viện Công nghệ thông tin hoàn thành
+các nội dung nghiên cứu của đề tài.
+
+'Viện Công nghệ thông tin đề nghị Viện KHCNQS xem xét và tổ chức đánh
+giá, nghiệm thu cắp cơ sở kết quả thực hiện đề tài khoa học và công nghệ sau đây:
+
+Tên đề tài: Nghiên cứu, thiết kế hệ thống tổ hợp thiết bị điểu khiển phóng tên
+lửa KACV 3P-60V2-1241.8 và thiết kế, chế thử máy KB16311.
+
+Mã số: KC-T.11.
+
+Hợp đồng số: KC-T.11/2013/HĐ-KCT.
+
+Thời gian thực hiện đề tài từ 12/2013 đến 06/2016.
+
+Chủ nhiệm đề tài: Đại tá, Thạc sĩ Phạm Hồng Long.
+
+Hồ sơ đánh giá đề tài cấp Viện KHCNQS được liệt kê trong phụ lục kèm
+theo công văn này.
+
+Đề nghị Viện KH-CNQS xem xét và tổ chức đánh giá, nghiệm thu kết quả
+thực hiện đề tài./.
+Nơi nhận:
+~ Như trên,
+
+~ Phòng TM-KH ;
+~ Lưu: VT, KH; H04.
+
+ 
+
+JFtá Lê Quang Đứcsơ đánh giá đề tài KC-T.11
+UUÙNTT-KH ngày 31 tháng 8 năm 2016)
+
+   
+
+Báo cáo tổng hợp
+
+Báo cáo tóm tắt
+
+Bản vẽ sản phẩm
+
+Điều kiện kỹ thuật
+
+Hướng dẫn sử dụng
+
+Bộ chỉ tiêu kỹ thuật thiết bị KB163P-VN.
+
+Chuyên đề 1.1 Các yêu cầu chung đối với hệ thống.
+
+Chuyên đề 1.2 Mô tả chức năng hệ thống và các chế độ hoạt động
+
+. Chuyên đề 1.3 Thiết kế cấu trúc chung toàn thệ thống.
+
+.. Chuyên đề 1.4 Chức năng các hệ thống con và nguyên lý làm việc cơ bản
+.. Chuyên đề 1.5 Phân tích yêu cầu các hệ thống con chủ yếu
+
+.. Chuyên đề 1.6 Sơ đồ cấu trúc phần cứng và phần mềm
+
+. Chuyên đề 1.7 Thiết kế sơ bộ giao diện kết nối với hệ thống khác
+
+. Chuyên đề 1.8 Cách thức và Phương tiện kiểm thử các yêu cầu hệ thống
+.. Chuyên đề 1.9 Mô tả kỹ thuật kết cấu hệ thống và các hệ thống con
+
+.. Chuyên đề 1.10 Các yêu cầu và nội dung cho các bước thiết kế kỹ thuật
+.. Chuyên đề 2.1 Nghiên cứu nguyên lý làm việc các module thương mại
+. Chuyên đề 2.2 Nghiên cứu thiết kế chế tạo module chuyên dụng MCO.
+
+.. Chuyên đề 2.3 Nghiên cứu thiết kế chế tạo khối máy tính ngoại vi BMI
+. Chuyên đề 2.4 Nghiên cứu thiết kế khối nguồn nuôi chuyển mạch
+
+.. Chuyên đề 2.5 Thiết kế kỹ thuật KB163P
+
+.. Chuyên đề 2.6 Lắp ráp chỉnh sửa kiểm thử hoàn thiện
+
+.. Chuyên đề 3.1 Dịch ngược phần mềm TS
+
+.. Chuyên đề 3.2 Dịch ngược phần mềm TSK.
+
+.. Chuyên để 3.3 Dịch ngược phần mềm I-TXIR.
+
+.__ Chuyên đề 3.4 Dịch ngược phần mềm TS_IPBA
+
+.. Chuyên đề 3.5 Dịch ngược phần mềm TS_DI32-5
+
+. Chuyên đề 3.6 Dịch ngược phần mềm TS_686E
+
+._ Chuyên để 3.7 Dịch ngược phần mềm TS_DO32-5
+
+. Chuyên đề 3.8 Dịch ngược phần mềm TS_5300
+
+. Chuyên đề 3.9 Dịch ngược phần mềm TS_MCO.
+
+. Chuyên đề 3.10 Dịch ngược phần mềm T§_SD
+
+. Chuyên đề 3.11 Dịch ngược phần mềm TS_IPCS
+
+.. Chuyên đề 3.12 Dịch ngược phần mềm TS_KANAL
+
+.. Chuyên đề 3.13 Dịch ngược phần mềm MCO
+
+.. Chuyên đề 3.14 Dịch ngược phần mềm TSP.
+
+Tổng cộng: 37 quyển.

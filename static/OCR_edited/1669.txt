@@ -1,0 +1,64 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do ~ Hạnh phúc
+Số:608/VCNTT-KH Hà Nội, ngày 25 tháng 42 năm 2018
+'V/w xin ý kiến các bộ chỉ tiêu chiến-kỹ
+thuật các sản phẩm KHCN và các tài liệu.
+nghiên cứu của các để tài KC-T
+
+Kính gửi: Phòng TM-KH/Viện KH-CN Quân sự.
+
+Căn cứ Quyết định số 303/QĐ-BQP ngày 09/02/2017 của Bộ trưởng Bộ
+Quốc phòng về việc phê duyệt kết quả xét duyệt thuyết minh, thẩm định kinh
+phí đề tài thuộc Đề án KHCN mã số KC.T giai đoạn 2 mở năm 2016;
+
+Căn cứ Quyết định số 4999/QĐ-BQP ngày 9/11/2017 của Bộ trưởng Bộ
+Quốc phòng về việc phê duyệt kết quả xét duyệt thuyết minh, thẳm định kinh
+phí đề tài thuộc Đề án KHCN mã số KC-T, giai đoạn 2 mở năm 2017;
+
+Căn cứ Hợp đồng Khoa học và công nghệ số 1947/2017/HĐKHCN ký
+ngày 17/8/2017 giữa Cục Khoa học quân sự/BQP, Ban chủ nhiệm Đề án KC.T
+với Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ Hợp đồng Khoa học và công nghệ số 3253/2017/HĐKHCN ký,
+ngày 29/12/2017 giữa Cục Khoa học quân sự/BQP, Ban chủ nhiệm Đề án KC.
+với Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ Hợp đồng Khoa học và công nghệ số 3254/2017/HĐKHCN
+ngày 29/12/2017 giữa Cục Khoa học quân sự/BQP, Ban chủ nhiệm Đề án KC.T
+với Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ tiến độ thực hiện các đề tài và Căn cứ Biên bản Hội thảo ngày
+27/11/2018 về xây dựng Bộ chỉ tiêu chiến-kỹ thuật cho các sản phẩm đề tài
+KHCN,
+
+Hiện nay, các đề tài đã hoàn thành dự thảo các Bộ chỉ tiêu chiến-kỹ thuật
+các sản phẩm khoa học công nghệ và các tài liệu của các đề tài:
+
+1. Đề tài: “Nghiên cứu thiết kế và chế tạo khối chức năng IITITI9VN,
+TIBB34VN trong máy tính trên khoang BHBM-20-701 của đạn tên lửa 3M242”
+(Mã số: KC.T-27):
+
+- Bộ chỉ tiêu chiến-kỹ thuật của card IIITI9VN.
+
+- Bộ chỉ tiêu chiến-kỹ thuật của card IIBB34VN.
+
+- Bộ chỉ tiêu chiến-kỹ thuật của thiết bị kiểm tra IIIIT9.
+
+- Bộ chỉ tiêu chiến-kỹ thuật của thiết bị kiểm tra IIBB34.
+
+- Tài liệu khai thác làm chủ hệ thống MTTK BLIBM-20-701.
+
+2. Đề tài: “Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa
+Kh-35E dựa theo nguyên lý hoạt động của hệ thống ACK6.3” (Mã số KC.T-30):
+
+- Bộ chỉ tiêu chiến-kỹ thuật của Thiết bị phân tích dữ liệu.- Bộ chỉ tiêu chiến-kỹ thuật của Thiết bị mô phỏng tên lửa Kh-35E.
+3. Đề tài: “Hoàn thiện thiết kế và chế tạo thiết bị kiểm tra hệ thống điều
+khiển quán tính II-074 của đạn tên lửa Kh-35E” (Mã số KC.T-32):
+- Bộ chỉ tiêu chiến-kỹ thuật của Thiết bị tạo giả IẸ074 TG-S074.
+(Các dự thảo gửi kèm theo công văn này)
+'Viện Công nghệ thông tin kính đề nghị Phòng TM-KH xem xét, báo cáo
+Giám đốc Viện KHCNQS có văn bản đề nghị Quân chủng Hải quân cho ý kiến
+về các dự thảo nêu trên/„_
+
+~_ Lưu: VT, KH; H06.

@@ -1,0 +1,50 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: JT*/VCNTT -KH Hà Nội, ngày 31 tháng 5 năm 2016
+'V đề nghị thi tiểu luận tổng quan
+chuyên để tiến sĩ.
+
+Kính gửi: Thủ trưởng Viện KH - CN quân sự.
+
+Nghiên cứu sinh Đào Tuấn Hùng được công nhận là NCS khóa 2012 hệ
+không tập trung 4 năm của Viện KHCNQS theo quyết định số 1184/QĐ-
+'VKHCNGS ngày 18 tháng 10 năm 2012 của Giám đốc Viện KHCNQS.
+
+Chuyên ngành: Cơ sở toán học cho tin học.
+Mã số: 62 46 01 10
+
+Theo chương trình đào tạo, nghiên cứu sinh Đào Tuấn Hùng phải học và thi
+các chuyên đề sau:
+
+Tiểu luận tổng quan: Phát triển các lược đồ chữ ký số hướng tới nhóm thực
+hiện trên FPGA.
+
+Chuyên đề 1: Nghiên cứu một số kỹ thuật ký số nhóm dựa trên các hệ mật
+Enagmal, RSA, Elliptic...
+
+Chuyên đề 2: Nghiên cứu phát triển một số lược đồ chữ ký số nhóm.
+
+Đến nay nghiên cứu sinh đã nghiên cứu, hoàn thành và đóng quyển các
+chuyên đề tiến sỹ và tiểu luận tổng quan, và có đề nghị của tập thể giáo viên hướng,
+dẫn về việc cho NCS được thi Tiểu luận tổng quan và chuyên đề tiến sự
+
+'Viện CNTT đề xuất tiểu ban chấm thi như sau:
+
+1. TS. Thái Trung Kiên, Viện CNTT - Trưởng tiểu ban;
+
+2. TS. Lê Xuân Đức, Viện CNTT ~ Thư ký;
+
+3. T§. Tống Minh Đức, HVKTQS - Ủy viên.
+
+Kính đề nghị Thủ trưởng Viện KHCNQ§S, Phòng Đào tạo xem xét và làm các thủ
+tục cần thiết để Viện CNTT tổ chức cho NCS Đào Tuần Hùng được trình bày luận tổng
+quan và chuyên đề tiến sĩ trước tiểu ban chấm thi. ⁄⁄
+
+Nơi nhận:
+
+~ Như trên;
+
+~ Phòng Đào tạo;
+
+~ Lưu: VT, KH; S04.

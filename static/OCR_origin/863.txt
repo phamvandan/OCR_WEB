@@ -1,0 +1,188 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+
+Số:Z0í /VCNTT-KH Hà Nội, ngày 29 tháng 8 năm 2017
+V/v đề nghị bảo vệ luận án cấp cơ sở
+
+Kính gửi: Thủ trưởng Viện KH-CN quân sự.
+
+Nghiên cứu sinh Hà Gia Sơn được công nhận là nghiên cứu sinh hình
+thức đào tạo không tập trung theo quyết định số 1231/QĐ-VKHCNQS ngày 09
+tháng 11 năm 2010 của Giám đốc Viện Khoa học và Công nghệ Quân sự.
+
+Sau thời gian học tập theo quy định, nghiên cứu sinh đã hoàn thành
+chương trình đào tạo và đã có đủ các chứng chỉ môn học theo quy định.
+
+Quá trình công tác và nghiên cứu tiếp theo, nghiên cứu sinh Hà Gia Sơn
+đã hoàn thành luận án với đề tài “Nghiên cứu giải pháp dự báo biến động của hệ
+thống các dữ liệu đa chiều phụ thuộc lẫn nhau theo chuỗi thời gian bằng mạng
+nơ ron”; thuộc chuyên ngành: Cơ sở toán học cho tin học; mã số: 62.46.01.10.
+
+Đơn vị chuyên môn Viện Công nghệ thông tin đã tổ chức hội thảo luận án
+ở cấp Viện chuyên ngành và nhận định luận án đã đạt được các kết quả đủ điều
+kiện để bảo vệ cấp cơ sở.
+
+Căn cứ kết quả đào tạo và đối chiếu với yêu cầu chất lượng luận án tiến sĩ,
+Viện Công nghệ thông tin đề nghị Giám đốc Viện KH-CN quân sự cho phép
+nghiên cứu sinh Hà Gia Sơn được bảo vệ luận án trước Hội đồng đánh giá luận
+án cấp cơ sở. VN
+
+Nơi nhận: KT.VIỆN TRƯỞNG
+~ Như trên; PHÓ VIỆN TRƯỞNG
+~ Phòng đào tạo;
+
+  
+
+~ Lưu VT, KH; Đ04.'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 29 tháng 8 năm 2017
+
+GIỚI THIỆU DANH SÁCH
+HỘI ĐÔNG ĐÁNH GIÁ LUẬN ÁN TIẾN SĨ CÁP CƠ SỞ
+
+Cho luận án của nghiên cứu sinh: Hà Gia Sơn
+
+Tên luận án: “Nghiên cứu giải pháp dự báo biến động của hệ thống các
+dữ liệu đa chiều phụ thuộc lẫn nhau theo chuỗi thời gian bằng mạng nơ ron”.
+
+Chuyên ngành: Cơ sở toán cho tin học
+
+Mã số: 62.46.01.10
+
+Người hướng dẫn: 1.1S. Ngô Trọng Mại
+2.TS, Tôn Thiện Chiến
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRÁCH
+CHUYÊN | ĐƠNVỊCÔNGTÁC | NHIỆM
+TT HỌ VÀ TÊN TRONG
+NGÀNH Số điện thoại HỘI
+ĐÔNG.
+- Chủ tịch
+¡ STonhọc| — ViệnKHCNQS Í
+1. |TS.NgyễnMạnhLinh  Í che nọ, 0983.750.801 đâm
+mm l Thư ký
+ÍCS Toán học | — ViệnKHCNQS Ẵ
+2. |T§. Ngô Duy Đô ẹ Hội
+cho Tin học 0987.435.118 đà
+ĐH Khoa học tự D
+3. |PGSTSĐỗTrngTuấn (CSToánhọe[ mưạnpHQGHaNỘI | #2”
+cho Tin học 101018727 biện ï
+n ICS Toán học HVKTQS Phản
+4._ |TS. Tổng Minh Đức cho Tìn học 0984.485.888 biện 2
+ĐH Giao Thông Vậntải | „„
+5. |PGSTS Nguyễn VănLong [CỔ TH na H0 non | Ủyviên
+6. |PGS.TS. Ngô Thành Long ESToen Đ Ýă Ủy viên
+Ks Tơnn Viện KHCNQS b.
+7.. | TS. Nguyễn Chí Thành Hến in seo Ủy viên
+đữ 'VIỆN KH-CN QUÂN SỰ
+ÙN CÔNG NGHỆ THÔNG 1
+
+GIỚI
+HỘI ĐỒNG ĐÁNH ‹
+
+Cho luận án của nghiên
+'Tên luận án: “Nghiên c¡
+iệu đa chiều phụ thuộc lẪn r
+Chuyên ngành: Cơ sở to
+Mã số: 62.46.01.10
+Người hướng dẫn: TS. Nguyễn Chí Thành PGS.TS. Ngô Thành Long 
+PGS.TS Nguyễn Văn Long TS. Tống Minh Đức PGS.TS Đỗ Trung Tuấn TS. Ngô Duy Đô 
+TS. Nguyễn Mạnh Linh HỌ VÀ TÊN CS Toán học
+cho Tin học CS Toán học
+cho Tin học 
+CS Toán học
+cho Tin học CỘN
+
+THIỆU DAN
+IÁ LUẬN Á
+
+cứu sinh: H¿
+giải pháp ‹
+hau theo chu
+m cho tin học
+
+I.TS. Ngô Tr
+.TS. Tôn Thh CS Toán học
+cho Tin học CS Toán học
+cho Tin học 
+CS Toán học
+cho Tin học CS Toán học
+cho Tin học CHUYÊN
+NGÀNH G HÒA XÃ HỘI CHỦ NGI
+Độc lập — Tự do - Hạn
+
+Hà Nội, ngày 29 tháng 8
+
+H SÁCH
+\ TIỀN SĨ CÁP CƠ SỞ
+
+ 
+
+Gia Sơn
+lự báo biến động của hệ th
+i thời gian bằng mạng nơ.
+
+ng Mại
+ên Chiến 
+Viện KHCNQS
+0983.943.010 HVKTQS
+0914.364.064 ĐH Giao Thông Vận tải
+0933.819.869 HVKTQS
+0984.485.888 
+ĐH Khoa học tự
+nhiên/ÐHQG Hà Nội
+0904.218.247 Viện KHCNQS
+0987.435.118 Viện KHCNQS
+0983.750.801 'ĐƠN VỊCÔNG TÁC
+Số điện thoại 
+Ủy viên Ủy viên Ủy viên Phản
+biện 2 
+Phản
+biện 1 ứng các
+on”, Hội Chủ tịch
+Hội
+đồng 
+TRÁCH
+
+NHIỆM
+TRONG
+HỘI
+ĐÔNG Mự —
+
+      
+ 
+
+XĂNG ĐƠN VỊ CHUYÊN MÔN
+
+THƯỢNg tá Đặng Thanh Quyền
+TS. Nguyễn Doãn Cường TS. Nguyễn Mạnh Hùng CS Toán học
+cho Tin học CS Toán học
+cho Tin học. 
+'Viện KHCNQS
+0913.923.326 HVKTQS
+0989.146.397 Ủy viên Ủy viên 

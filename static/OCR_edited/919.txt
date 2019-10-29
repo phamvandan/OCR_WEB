@@ -1,0 +1,357 @@
+'VIỆN CÔNG NGHỆ THÔNG TIN CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KTHT Độc lập - Tự do - Hạnh phúc
+Số: 456 /TTr-KTHT Hà Nội, ngàyÁ3 thángÀO năm 2017
+PHÊ DUYỆT
+Ngày43 tháng 4Ô năm 2017
+SÊN TRƯỞNG !&~ 'TỜ TRÌNH
+
+'Về việc phê duyệt kế hoạch thực hiện đề tài
+“Nghiên cứu thiết kế và chế tạo khối chức năng.
+HHH9VN, HBB34VN trong máy tính trên
+khoang BHBM-20-701 của đạn tên lửa 3M243”
+
+  
+
+"Trung tá Đỗ Việt Bình
+Kính gửi: Viện trưởng Viện Công nghệ thông tỉn.
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ
+cấp BQP thuộc Đề án KC.T “Nghiên cứu thiết kế và chế tạo khối chức năng
+IIHN9VN, HBB34VN trong máy tính trên khoang BIBM-20-701 của đạn
+tên lửa 3M242” (mã số KC.T-27);
+
+Thực hiện chỉ đạo của Thủ trưởng Viện,
+
+Phòng Kỹ thuật hệ thống và Tổ đề tài đề xuất kế hoạch triển khai thực hiện
+như sau:
+
+1. Tên đề tài: Nghiên cứu thiết kế và chế tạo khối chức năng HIII9VN,
+IIBB34VN trong máy tính trên khoang BIHBM-20-701 của đạn tên
+lửa 3M242 (mã số KC.T-27);
+
+2. Chủ nhiệm đề tài: Thiếu tá, ThS. Nguyễn Minh Thường
+
+3. Thời gian thực hiện đề tài: 30 tháng, từ 8/2017 đến 02/2020
+
+4. Kế hoạch thực hiện đề tài:
+Hoàn thành 0Ì tài liệu chuyên để Nội dung 2: Nghiên cứu sự trao đôi
+thông tin trong khối MTTK
+BHBM20-701 Nội dung 1: Nghiên cứu sự trao đổi
+thông tin trong hệ thống điều khiển
+quán tính II-074 Nội dung chính 
+8/2017-
+12/2017 8/2017-
+12/2017 Nguyễn Minh Thường
+Nguyễn Chí Đức
+
+Vũ Hoàng Anh
+Dương Mạnh Cường Tài liệu chuyên để 
+Tài liệu chuyên để Sản phẩm 
+Nội dung 10: Thừ nghiệm
+TIBB34VN tại phòng thí nghiệm thự nghiệm card
+IIIIT9VN tại phòng thí nghiệm Nội dung 9: Thử nghiệm TIIIII9VN
+tại phòng thí nghiệm. Nội dung 4: Xây dựng hoàn chỉnh
+bộ sơ đồ nguyên lý của card TIBB34 
+Hoàn thành 0Ì tài liệu chuyên đề Nội dung 3: Xây dựng hoàn chỉnh
+'bộ sơ đổ nguyên lý của card IIITI9 Hoàn thành 01 bộ tài liệu thiết kê kỹ:
+thuật, 01 module phần mềm; chế tạo
+01 mạch in; 01 thiết bị của thiết bị
+kiểm tra card IIBB34 Nội dung 8: Thiết kế chế tạo thiết bị
+kiểm tra card IIBB34 
+"Hoàn thành 01 bộ tài liệu thiết kê kỹ
+thuật, 01 module phần mềm; chế tạo
+01 mạch in; 01 thiết bị của thiết bị
+kiểm tra card IIIII10 ội dung 7: Thiết kế chế tạo thiết bị
+kiểm tra card TIIIII9 Hoàn thành 01 tài liệu chuyên để, 01
+module phần mềm: chế tạo 01 card.
+TIBB34VN hoàn chỉnh Nội dung 6: Thiết kế chế tạo card
+TIBB34VN 
+Hoàn thành 01 tài liệu chuyên đê, 0L
+module phần mềm; chế tạo 01 card
+THIII9VN hoàn chỉnh Nội dung 5: Thiết kế chế tạo card
+THII9VN 4/2019-
+6/2019 01/2018-
+3/2018 
+15/3/2019 10/2018-
+3/2019 15/3/2019 10/2018-
+3/2019 
+13/9/2018 4/2018-
+9/2018 13/3/2019 10/2018-
+3/2019 
+13/9/2018 4/2018-
+9/2018 01/2018-
+3/2018 Nguyễn Minh Thường
+Dương Mạnh Cường 
+Nguyễn Minh Thường
+Dương Mạnh Cường Nguyễn Minh Thường
+Nguyễn Công Thức
+Nguyễn Đình Cảnh Nguyễn Minh Thường,
+Nguyễn Công Thức
+Doãn Văn Mi Nguyễn Minh Thường.
+Nguyễn Công Thức.
+Nguyễn Đình Cảnh 
+Nguyễn Minh Thường.
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư Nguyễn Minh Thường,
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư Nguyễn Minh Thường.
+Nguyễn Công Thức.
+Nguyễn Đình Cảnh Biên bản thử
+nghiệm 
+CS Biên bản thử
+nghiệm ~ Tài liệu chuyên
+đề
+
+- Card [IIITI9VN
+hoàn chỉnh
+
+~ Module phần
+NIỄN Tài liệu chuyên đề 
+~ Tài liệu thiết kê
+kỹ thuật
+
+~ Module phần
+mềm,
+
+~ Thiết bị ~ Tài liệu thiệt kẻ
+kỹthuậ
+
+~ Module phần
+mằi
+
+m
+~ Thiết bị ~ Tài liệu chuyên
+đề
+
+~- Card IIBB34VN
+hoàn chỉnh
+
+~ Module phần
+mềm (Chỉ tiết trong phụ lục kèm theo)
+Kính đề nghị Viện trưởng xem xét và phê duyệt.
+
+Nơi nhận: CHỦ NHIỆM ĐÈ TÀI TRƯỞNG PHÒNG
+
+~ Như trên;
+
+~ Ban Kế hoạch;
+
+-CNĐT; {
+
+~ Lưu: VT, KTHT; T05.
+_ Thiếu tá Nguyễn Minh Thường Đại tá Phạm Hồng Long
+Hoàn thành tất cả các báo cáo kêt
+quả nghiên cứu đề tài, phục vụ
+nghiệm thu các cấp Nội dung 12: Báo cáo tông kêt, báo.
+cáo tóm tắt để tài Hoàn thành thử nghiệm III1II9VN,
+HBB34VN tại đơn vị Nội dung l1: Thừ nghiệm
+TITIII9VN, IIBB34VN tại căn cứ
+696 
+Hoàn thành thử nghiệm card
+HBB34VN tại phòng thí nghiệm 15/10/2019 4/2019-
+10/2019 13/9/2019 
+7/2019-
+9/2019 15/6/2019 Tổ đề tài Tài liệu báo cáo 
+Biên bản thử
+nghiệm PHỤ LỤC
+(Kèm theo Tờ trình số 4S€ /TTr-KTHT ngày /40/2017)
+
+I. KÉ HOẠCH THỰC HIỆN CÁC NỘI DUNG NGHIÊN CỨU
+Nội dung chính Nội dung 4: Xây dựng hoàn chỉnh bộ sơ đô
+nguyên lý của card IIBB34 ~ Hiệu chỉnh kiểm chứng sơ đồ đâu dây card
+TH;
+
+~ Phân tích xác định chức năng các khối trong,
+card TIIITI9;
+
+- Xác định giá trị và ý nghĩa của các đường tín
+hiệu trong card [IHII9;
+
+~ Chuyển bộ sơ đồ đầu dấy card IIIIII9 sang sơ
+đồ nguyên lý Nội dung 3: Xây dựng hoàn chỉnh bộ sơ đồ
+nguyên lý của card IIIT9 
+“ Nghiên cửu trao đôi thông tin giữa oard HTIUE.
+và các khối chức năng khác trong MTTK;
+~ Nghiên cứu trao đổi thông tin giữa card TIA3
+và các khối chức năng khác trong MTTK;
+~ Nghiên cứu trao đổi thông tin giữa card TIA V4
+và các khối chức năng khác trong MTTK;
+~ Nghiên cứu trao đổi thông tin giữa card IIBB34
+và các khối chức năng khác trong MTTK;,
+~ Nghiên cứu trao đổi thông tin giữa card IIBB35
+và các khối chức năng khác trong MTTK. Nội dung 2: Nghiên cứu sự trao đôi thông tin
+trong khối MTTK BLIBM20-701 ~ Nghiên cứu cơ sở lý thuyết về hệ điêu khiên
+quán tính. Tổng hợp các tư liệu kỹ thuật của hệ
+thống LI-074;
+
+~ Khảo sát, đo đạc nguội hệ thống LL.074, xác định
+tổng quát chức năng điện của thiết bị máy tính
+trên ¬ (MTTK) và các thành phần khác
+trong hệ th
+
+ng;
+
+ 
+
+ 
+
+iện các bảng mạch chức năng của thiết
+
+bị MTTK;
+
+~ Khảo sát, tìm hiểu đối các khối chức năng khác
+của hệ thống LỊ-074;
+
+~ Tổ chức đo đạc và xác định sơ đồ luồng tín hi
+giữa MTTK BIIBM20-701 và các thành phần
+chức năng khác trong hệ thống II-074 và với các.
+giấc đấu nếi ra ngoài hệ thống. Nội dung !: Nghiên cứu sự trao đổi thông tin
+trong hệ thống điều khiển quán tính L|-074 
+§/2017-
+12/2017 'Thơi gian 15/3/2018 01/2018-
+3/2018 
+15/3/2018 0\/2018-
+3/2018 15/12/2017 8/2017-
+12/2017 
+15/12/2017 Cán bộ thực hiện Nguyễn Minh Thường,
+Nguyễn Công Thức.
+Doãn Văn Minh Nguyễn Minh Thường.
+Nguyễn Chí Đức
+
+'Vũ Hoàng Anh
+Dương Mạnh Cường 
+Nguyễn Minh Thường,
+'Nguyễn Công Thức.
+Nguyễn Đình Cảnh Nguyễn Minh Thường,
+Phạm Công Từ
+Phạm Đức Thỏa Sản phẩm Tài liệu -
+chuyên để 
+chuyên đề Tải liệu „
+chuyên để
+
+“mm Tài liệu
+chuyên đề _Mƒ2WA
+10 81 73 12 
+71 63 62 54 
+52 Nội dung 10: Thử nghiệm HBB34VN tại phòng.
+thí nghiệm Lấy xác nhận biên bản thử nghiệm card
+TIITI9VN tại phòng thí nghiệm của Viện CNTT Nội dung 9: Thử nghiệm IIIITI9VN tại phòng thí 
+Lắp ráp linh kiện, kiểm tra hiệu chỉnh mạch điện
+và hoàn thiện thiết bị kiểm tra card IIBB34 Viết chương trình fïrmware cho thiết bị kiểm tra
+card IIBB34 Hoàn thiện tài liệu thiết kế kỹ thuật của thiết bị
+kiểm tra card [IBB34 Nội dung 8: Thiết kể chê tạo thiết bị kiếm tra card.
+TIBB34 
+Lắp ráp linh kiện, kiểm tra hiệu chỉnh mạch điện
+và hoàn thiện thiết bị kiếm tra card TITTI9 'Viết chương trình firmware cho thiết bị kiểm tra
+card TITII9 Hoàn thiện tài liệu thiết kế kỹ thuật của thiết bị
+kiểm tra card [ITITI9 Nội dung 7: Thiết kê chê tạo thiết bị kiểm tra card.
+Tmne 
+'Viết chương trình firmware cho card [IBB34VN Lắp ráp linh kiện, kiểm tra hiệu chỉnh mạch điện
+và hoàn thiện card IIBB34VN ~ Thiết kế sơ đỗ nguyên lý card IIBB34VN,
+~ Thiết kế sơ đổ mạch in card IIBB34VN Nội dung 6: Thiết kế chế tạo card [IBB34VN. 
+Viết chương trình firmware cho card [IITI9VN. Lắp ráp linh kiện, kiểm tra hiệu chỉnh mạch điện
+và hoàn thiện card TIITI9VN ~ Thiết kế sơ đồ nguyên lý card [ITITI9VN;
+~ Thiết kế sơ đồ mạch in card TITITI9VN Nội dung 5: Thiết kế chế tạo card ITII9VN 
+4/2019-
+6/2019 15/3/2019 10/2018-
+3/2019 15/3/2019. 
+15/3/2019 15/3/2019 10/2018-
+3/2019 15/9/2018 
+15/9/2018 15/9/2018 4/2018-
+9/2018 15/3/2019 
+15/3/2019 15/3/2019 10/2018-
+3/2019 15/9/2018 
+15/9/2018 15/9/2018 4/2018-
+9/2018 Nguyễn Minh Thường.
+Dương Mạnh Cường 
+Nguyễn Minh Thường,
+Doãn Văn Minh
+Phạm Đức Thỏa
+Pham Công Tư Nguyễn Minh Thường.
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư Nguyễn Minh Thường
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư Nguyên Minh Thường
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư 
+Nguyễn Minh Thường.
+Doãn Văn Minh.
+Phạm Đức Thỏa
+
+Phạm Công Tư Nguyễn Minh Thường.
+Doãn Văn Minh
+Phạm Đức Thỏa
+Phạm Công Tư Nguyên Minh Thường.
+Nguyễn Công Thức.
+Nguyễn Đình Cảnh Nguyễn Minh Thường,
+Nguyễn Công Thức.
+Nguyễn Đình Cảnh. 
+Nguyễn Minh Thường,
+Nguyễn Công Thức
+Nguyễn Đình Cảnh Nguyễn Minh Thường.
+Nguyễn Công Thức.
+Nguyễn Đình Cảnh Nguyễn Minh Thường,
+Nguyễn Công Thức.
+'Nguyễn Đình Cảnh Nguyễn Minh Thường,
+Nguyễn Công Thức.
+'Nguyễn Đình Cảnh 
+Biên bản thử
+“ng Module phần.
+mềm
+
+Thiết bị “Tài liệu thiết
+kế kỹ thuật “5 TT UIU
+
+Thiết bị 
+Module phần
+mềm “Tài liệu thiết
+kế kỹ thuật Module phần
+mềm Card
+TIBB34VN
+9ˆ chà. 
+Tài liệu
+chuyên đề Module phần
+mềm Card
+THII9VN
+kuên chânh Tài liệu „
+chuyên đề 
+'Viết báo cáo tông hợp để tài, các báo cáo chuyên.
+đề, hoàn tất các hỗ sơ pháp lý để phục vụ nghiệm
+thu các cấp. Nội dung 12: Báo cáo tông kêt, báo cáo tóm tắt
+đề tài Lây xác nhận biên bản thử nghiệm card
+TIIII9VN, card [IBB34VN tại căn cứ 696/ Vùng
+2 Hải quân. Nội dung II: Thử nghiệm HIHI9VN, IBB34VN
+tại căn cứ 696 
+Lây xác nhận biên bản thử nghiệm card
+TIBB34VN tại phòng thí nghiệm của Viên CNTT Hội thảo lân 3: "Xây dựng bộ cÌ
+thuật cho sản phẩm để tài" (1 bị Hội thảo lân 2: "Trao đôi thông tỉn trong.
+khối MTTK BLIBM20-701" (1 bị Hội thảo lân I: "Trao đôi thông tin trong.
+hệ thống điều khiển quán tính LỊ074" (1
+buổi) 
+Nội dung II KÉ HOẠCH TỎ CHỨC HỘI 11/2018-
+12/2018 j/2018-
+4/2018 
+01/2018-
+02/2018 TH ÀO 15/10/2019 
+4/2019-
+10/2019 15/9/2019 7/2019-
+9/2019 15/6/2019 
+Nguyễn Minh Thường
+Vũ Hoàng Anh Nguyễn Minh Thường.
+'Vũ Hoàng Anh Nguyễn Minh Thường,
+'Vũ Hoàng Anh Cán bộ thực hiện 
+Tổ để tài "Tổ để tài Nguyễn Minh Thường.
+Dương Manh Cường Kế hoạch tỏ chức
+Biên bản hội thảo
+
+Kế hoạch tô 
+Sản phẩm ~ Tài liệu báo
+cáo
+~ Hỗ sơ đẻ Biên bản thư.
+nghiệm. Biên bản thử. 

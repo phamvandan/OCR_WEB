@@ -1,0 +1,121 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:ổ7/ VCNTT-KH Hà Nội, ngày Z Ï tháng 3 năm 2017
+
+'V/v thử nghiệm sản phẩm của nhiệm vụ
+khai thác làm chủ và đảm bảo kỹ thuật
+cho tàu ngầm Kilo 636
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ tờ trìnk số 4166/TTr-KT ngày 20/4/2016 của Cục Kỹ thuật - Bộ tư
+lệnh Hải quân về việc hợp tác làm chủ VKTBKT trên tàu Kilo 636 với Viện
+Khoa học và Công nghệ quân sự;
+
+Căn cứ Quyết định số 580/QĐ-VKHCNQS ngày 13/5/2016 của Giám đốc
+Viện KH-CN quân sự về việc giao nhiệm vụ khai thác VKTBKT thế hệ mới
+năm 2016;
+
+Căn cứ theo thuyết minh nhiệm vụ: “Nghiên cứu, thiết kế chế tạo một số
+thiết bị, vật tư phục vụ khai thác làm chủ và đảm bảo kỹ thuật cho tàu ngầm Kilo
+636” đã được phê duyệt,
+
+Để thực hiện các bước tiếp theo của nhiệm vụ, Viện Công nghệ thông tin
+đề xuất kế hoạch tổ chức thử nghiệm các sản phẩm của nhiệm vụ như sau:
+
+1.Nội dung:
+
+~ Thử nghiệm thiết bị kiểm tra anten sorna.
+
+- Thử nghiệm máy tính trung tâm M360-001-VN do nhóm nhiệm vụ chế
+tạo.
+
+2.Thành phần: Nhóm thực hiện nhiệm vụ của Viện Công nghệ thông
+tin/Viện KHCNQS đại diện là đồng chí chủ nhiệm nhiệm vụ, đại úy Phạm Văn
+Hậu và 08 đồng chí bao gồm:
+
+~ Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Thái Trung Kiên, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Đinh Văn Ngọc, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Hoàng Đình Thắng, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Nguyễn Minh Thường, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Nguyễn Tuấn Anh, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Phạm Xuân Công, Viện CNTT/Viện KHCNQS.
+
+3.Thời gian: Dự kiến từ 03/4/2017 đến ngày 25/4/2017.
+
+4.Địa điểm: Lữ 189/Quân chủng Hải quân.
+
+5.Quy trình thử nghiệm: (có phụ lục kèm theo)Kính đề nghị Phòng Tham mưu — Kế hoạch xem xét vào báo cáo Ban Giám
+đốc Viện KHCNQS liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ
+đoàn công tác Viện Công nghệ thông tin hoàn thành nhiệm vụ././/r-
+
+Nơi nhận: TRƯỞNG
+
+~nt;
+~ Lưu: VT, KH; H03
+
+  
+
+lế tá Đỗ Việt BìnhỤC.
+vụ khai thác làm chủ và đảm bảo kỹ
+âm Kilo 636.
+
+ngày 24/3/2017 của Viện Công nghệ
+ng tin)
+
+Quy trình thử nghiệm (
+
+(Kèm theo công văn số.
+
+1. Quy trình thử nghiệm thiết bị kiẪm tra anlen sorna:
+
+„ + Bước 1: Ngắt nguồn toàn bộ tổ hợp sôna, tháo giắc số 7 (bất kỳ trong 36
+giắc) trong bầu sorna.
+
++ Bước 2: Lắp giắc số 7 vào thiết bị kiểm tra, cấp nguồn và khởi động thiết
+bị kiểm tra.
+
++ Bước 3: Tiến hành đo các thông số của giắc số 7 ở chế độ tự động.
+
++ Bước 4: Lặp lại với từ 1 đến 3 giắc số 7 khác.
+
++ Bước 5: Lắp lại toàn bộ giắc số 7 vào đùng vị trí ban đầu, tiến hành trích
+xuất báo cáo kết quả kiểm tra.
+
++ Bước 6: Cấp nguồn cho tỗ hợp sôna và kiểm tra toàn bộ hoạt động của tổ
+hợp.
+„ + Bước 7: Đánh gia kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng hệ
+thông.
+
+2. Quy trình thử nghiệm máy tính trung tâm M360-001-VN:
+
++ Bước 1: Ngắt nguồn hệ thông điều khiển toàn tàu [annanuli-M.
+
++ Bước 2: Thay thế một trong hai máy tính M360-001 nguyên bản của Nga
+bằng M360-001-VN.
+
++ Bước 3: Bật nguồn hệ thống Ilaranwii-M.
+
++ Bước 4: Kiểm tra tình trạng hoạt động của hệ thống,
+
++ Bước 5: Ngắt nguồn hệ thẳng điều khiển toàn tàu IlannannB-M.
+
++ Bước 6: Lắp trả máy tính M360-001 nguyên bản vào hệ thống [annai-
+
++ Bước 7: Bật nguồn hệ thống Ianranm-M.
++ Bước 8: Kiểm tra tình trạng hoạt động của hệ thống.
+" Bước 9: Đánh giá kết quả, lập biên bản thử nghiệm, trả lại nguyên trạng hệ
+thống.
+
++ Chú ý: Các thao tác thực hiện đều tuân theo hướng dẫn của tài liệu và
+sự điều hành của trắc thủ.

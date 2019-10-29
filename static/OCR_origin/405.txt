@@ -1,0 +1,194 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Ty do - Hạnh phúc.
+Số: 40 /VCNTT-KH Hà Nội, ngày4tháng 11 năm 2016
+'V/v xin thử nghiệm phục vụ nghiệm.
+thu kỹ thuật các sản phẩm KHCN đề
+tài KC-T.09.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ Quyết định số 4614/QĐ-BQP ngày 21/11/2013 của Bộ trưởng Bộ
+Quốc phòng về việc phê duyệt kết quả xét duyệt thuyết minh và thẩm định kinh
+phí 05 đề tài bỗ sung thực hiện từ năm 2013 thuộc Đề án KC-T;
+
+Căn cứ vào Hợp đồng Nghiên cứu khoa học và phát triển công nghệ số
+KC-T.09/2013/HĐ-KCT ngày 26/11/2013 giữa Ban Chủ nhiệm Đề án KHCN
+KC-T và Viện Công nghệ thông tin.
+
+Căn cứ vào thuyết minh đã được phê duyệt của đề tài KC-T.09“Nghiên
+cứu thiết kế, chế thử giá kiểm tra máy tính trên khoang hệ thống điều khiển
+quán tính IỊ-074 của tên lửa Kh-35E° (CNĐT: Thiếu tá Nguyễn Thái Hòa);
+
+Nhằm đánh giá thực tế sản phẩm của đề tài, Viện Công nghệ thông tin
+xây dựng kế hoạch triển khai thử nghiệm phục vụ nghiệm thu kỹ thuật sản phẩm
+tại đơn vị của Quân chủng Hải quân (Phụ lục kế hoạch và quy trình thử nghiệm
+được gửi kèm theo công văn này).
+
+Kính đề nghị Phòng TM-KH xem xét và báo cáo Ban Giám đốc Viện
+KHCNG(S liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ tổ đề tài
+hoàn thành tốt nhiệm vụ. /⁄Â„
+
+Nơi nhận
+- Như tê,
+
+“Em VỀ,KH, H04.1
+1
+
+2.
+3:
+
+ 
+   
+   
+
+LỤC
+lệm thiết bị của đề tài KC-T.09
+"KH ngày 4P /11/2016 của Viện CNTT)
+
+Kế hoạch
+(Kèm theo công
+
+KẾ hoạch thử nghiệm _
+Thành phần tham gia:
+~_ Đại úy Nguyễn Minh Thường, Phòng KTHT/Viện CNTT (Tổ trưởng)
+- _ Thiếu tá Nguyễn Thái Hoà, Phòng KTHT/Viện CNTT
+- _ Đại úy Dương Mạnh Cường, Phòng KTHT/Viện CNTT
+-_ Đại úy Dương Phú Tuấn, Phòng KTHT/Viện CNTT
+-_ Đại úy Vũ Hoàng Anh, Phòng KTHT/Viện CNTT
+- _ Thượng úy Nguyễn Tuấn Anh, Phòng KTHT/Viện CNTT
+Kính mời tham dự:
+- _ Thủ trưởng Viện KHCNQS.
+- _ Đại diện Phòng TM-KH/Viện KH-CNQS.
+- _ Thủ trưởng Viện Công nghệ thông tin.
+- _ Đại diện Phòng Quân khí/Cục Kỹ thuật/Quân chủng Hải quân.
+- _ Đại diện Cục Khoa học Quân sự.
+Đơn vị thử nghiệm: Căn cứ 696/Vùng 2 Hải Quân.
+Thời gian thử nghiệm: tiễn hành theo 2 đợt
+- _ Đợt 1: Dự kiến từ 15/11/2016 đến 10/12/2016. (phục vụ nghiệm thu cơ sở)
+
+-_ Đợt 2: Dự kiến từ 15/12/2016 đến 31/12/2016. (4w kiến phục vụ nghiệm
+thu quản lý)
+
+II Quy trình thử nghiệm
+
+ 
+
+TT Nội dung Ghi chú.
+
+ 
+
+1
+
+Vận hành hệ thống AKTIA 6.3 kiểm tra ở
+
+Kiểm tra hệ thống AKIIA.
+chế độ tự kiểm tra CK6.3. b0 thng
+
+ 
+
+Vận hành hệ thống kiểm tra với quả đạn
+
+. Kiểm tra chất lượng quả đạn và xác
+học tập (quả Y7) ở hai chế độ K78-T và
+
+định chất lượng của khối II-074.
+
+ 
+
+ 
+
+chế độ K78
+
+3ˆ | Tháo gỡ khối IỊ-074 khỏi quả đạn. Đơn vị 696 thực hiện.
+Đơn vị 696 bàn giao khối II-074 cho nhóm
+
+4 . Lập biên bản bàn giao.
+thử nghiệm.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tiên hành thử nghiệm.
+'Vận hành hệ thông AKHIA 6.3 kiểm tra ở
+chế độ tự kiểm tra CK6.3. Nội dung “Tiên hành thử nghiệm Đơn vị 696 bàn giao khôi II-074 cho nhóm
+thử nghiệm. 
+Tháo gỡ khôi II-074 khỏi quả đạn. Vận hành hệ thông kiểm tra với quả đạn
+học tập (quả Y7) ở hai chế độ K78-T và
+chế độ K78 Kế hoạch nghiệm t
+(èm theo công È
+
+Kế hoạch thử nghiệm
+
+Thành phần tham gia:
+Đại úy Nguyễn Minh Thường, Phòng K
+Thiếu tá Nguyễn Thái Hoà, Phòng KTH
+Đại úy Dương Mạnh Cường, Phòng KT
+Đại úy Dương Phú Tuấn, Phòng KTHT/
+Đại úy Vũ Hoàng Anh, Phòng KTHT/V
+“Thượng úy Nguyễn Tuấn Anh, Phòng K
+
+nh mời tham dự:
+Thủ trưởng Viện KHCNQS.
+Đại diện Phòng TM-KH/Viện KH-CNQ
+Thủ trưởng Viện Công nghệ thông tin.
+Đại diện Phòng Quân khí/Cục Kỹ thuật
+Đại diện Cục Khoa học Quân sự.
+
+Đơn vị thử nghiệm: Căn cứ 696/Vùng 2
+
+Thời gian thử nghiệm: tiến hành theo 2 đ
+Đợt I: Dự kiến từ 15/11/2016 đến 10/12
+Đợt 2: Dự kiến từ 15/12/2016 đến 31/
+thu quản Lý)
+
+Quy trình thử nghiệm Ghi chú 
+Lập biên bản bàn giao Đơn vị 696 thực hiện. Kiểm tra chất lượng quả đạn và xác
+định chất lượng của khối II-074. Kiểm tra hệ thống AKIIA. 
+tiết bị của đề tài KC-T.09
+y.AP/11/2016 của Viện CNTT)
+
+'HT/Viện CNTT (Tổ trưởng)
+[/Viện CNTT
+
+IT/Viện CNTT
+
+Viện CNTT
+
+ện CNTT
+
+THT/Viện CNTT
+
+.
+
+Quân chủng Hải quân.
+
+ải Quân.
+
++
+
+/2016. (phục vụ nghiệm thu cơ sở)
+2/2016. (dư kiến phục vụ nghiện 
+33 3.2 37 Nhóm thử nghiệm bàn giao Hệ thông IỊ-
+074 cho đơn vị 696. 
+'Vận hành hệ thống AKIIA 6.3 kiểm tra
+quả đạn sau khi đã được lắp lại II-074
+trong hai chế đề K78 và K78-T. Vận hành hệ thông AKHA 6.3 kiểm tra ở
+chế độ tự kiểm tra CK6.3. Lắp ghép khôi II-074 trở lại quả đạn Vận hành chê độ kiêm tra con quay 
+Vận hành chê độ kiêm tra thông thường Ghép nối khối IỊ-074 vào giá kiểm tra LỊ-
+074 do nhóm đề tài chế tạo. Lập biên bản bàn giao Kiểm tra hiện trạng quả đạn sau khi
+được trả lắp lại giống ban đầu. Kết
+quả kiểm tra đảm bảo đúng với
+chất lượng giống với quả đạn trước.
+khi được tháo khối II-074. 
+Kiểm tra hệ thống AKIIA. Đơn vị 696 thực hiện. Ghỉ nhật ký đê theo dõi Ghỉ nhật ký đê theo dõi 
+Nhóm đê tài thực hiện ghép nôi
+theo chuẩn tín hiệu đưa vào khối
+1-0724 

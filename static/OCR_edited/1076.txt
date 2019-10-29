@@ -1,0 +1,885 @@
+VIỆN KH - CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA. VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 4ƒ /BC-VCNTT Hà Nội, ngày đố tháng 01 năm 2018
+BÁO CÁO.
+
+Quyết toán xăng dầu năm 2017
+S _ —=—
+
+I. ĐẶC ĐIỂM TÌNH HÌNH:
+
+'Năm 2017 Viện Công nghệ thông tin triển khai nhiều đề tài nhiệm vụ, tập trung giải quyết dứt điểm các nhiệm vụ chuyển tiếp từ
+năm 2016, đẩy nhanh tiến độ thực hiện các nhiệm vụ được giao năm 2017, cán bộ phải thường xuyên đi triển khai nhiệm vụ đến các đơn vị
+Quân đội cũng như các cơ quan, chính. quyền địa phương, phạm vi thực hiện nhiệm vụ trên nhiều địa bàn.
+
+Dưới sự chỉ đạo trực tiếp của Đảng ủy và Thủ trưởng Viện KHCNQS, được sự quan tâm giúp đỡ của các cơ quan chức năng cấp trên,
+Đảng ủy, Thủ trưởng Viện CNTT đã lãnh đạo đơn vị khắc phục khó khăn, hoàn thành tốt nhiệm vụ và đạt được một số kết quả nỗi bật sau:
+
+II. KÉT QUẢ THỰC HIỆN CÁC NHIỆM VỤ:
+
+- Khối Tham mưu: Đơn vị đóng quân ở 02 thành pÌ : Hà Nội và thành phố Hồ Chí Minh. Thủ trưởng đơn vị cùng với các Trưởng,
+phòng, Ban phải đi công tác chỉ đạo nghiệp vụ, triển khai nhiệm vụ của cấp trên giao ở các bộ phận trong Viện.
+
+- Khối Kỹ thuật: Đi triển khai các nhiệm vụ đề tài, dự án.
+
+- Khối Hậu cần: Đảm bảo đời sống cho cán bộ, nhân viên trong Viện.
+
+ˆ Khối Chính trị: Phục vụ các hoạt động CTĐ, CTCT và công tác chính sách chung của Viện.
+
+CÁC CHƯƠNG TRÌNH, DỰ ÁN, NHIỆM VỤ TRỌNG ĐIỂM:
+
+Đề tài, nhiệm vụ cấp BQP: Các đề tài theo chương trình KC-T giai đoạn I, giai đoạn II (Nghiên cứu thiết kế và chế tạo khối chức năng,
+TIT, IBB34 trong máy tính trên khoang BLIBM-20-701 của đạn tên lửa 3M-242, Mã số: KC-T.27; Nghiên cứu thiết kế chế tạo thiết bị
+tự động kiểm tra tình trạng kỹ thuật khối BMI của hệ thống tự động điều khiển phóng tên lửa trên tàu KACY 3P-60V2-1241.8, Mã số: KC-
+T.22; Nghiên cứu, thiết kế chế tạo và thử nghiệm máy KY16311 thuộc hệ thống tự động điều khiển phóng tên lửa trên tàu dựa trên nguyên
+mẫu KY16311 của tổ hợp KACY 3P-60V2-12418. Lắp ráp hoàn chỉnh hệ thông KACY 12418-VN có chức năng tương đương KACY 3P-
+
+60V2-12418, Mã số: KC-T.28); Thiết ké, xây dựng các hệ thống mô phỏng huấn luyện và hỗ trợ rà phá bom mìn, vật nổ;
+
+ 
+
+2
+
+`
+
+“~w„kĐề tài, nhiệm vụ cấp Viện KHC! Nghiên cứu thiết kế, chế tạo hệ thống mô phỏng máy điều khiển bắn pháo MR-123-02 MOD.
+3 trên tàu 1241.8; Nghiên cứu thiết kế chế tạo hệ thống điều khiển trung tâm của tổ hợp đối không mặt đất NKVS-27 làm việc đồng bộ với
+máy bay Su27-SK2 và Su30-MK2; Nghiê xây dựng hệ thống tự động thu thập, phân tích. tổng hợp thông tỉn, hỗ trợ công tác theo
+dõi, điều hành chỉ huy, ra quyết định trong lĩnh vực thông tin tình báo; Nghiên cứu hoàn thiện, phát triển hệ thống phân mềm tính toán ứng
+dụng chiến đấu sử dụng phương tiện sát thương hàng không tiêu diệt mục tiêu mặt đất, mặt nước.
+
+Đề tài, nhiệm vụ cấp Sở, Tổng cục: Nghiên cứu chế tạo hệ thống bia tự động báo kết quả bắn đạn thật sử dụng nhiều lần bằng súng
+bộ binh; Tích hợp thiết bị và xây dựng phần mềm phục vụ huần luyện nhiệm vụ săn ngằm; Nghiên cứu và xây dựng phân mẻm tích hợp dữ
+liệu bản đồ để nâng cao hiệu quả công tác quản lý và khai thác Mạng thông tin chỉ huy điều hành Quân khu 7 tại Sở Chỉ huy thường xuyên;
+Nghiên cứu thiết kế chế tạo hệ thống hỗ trợ điều hành chỉ huy tác chiến cho đơn vị hải quân cấp vùng; Nghiên cứu, xây dựng phần mềm hỗ
+trợ công tác huấn luyện các đài ra đa đảm bảo bay phục vụ cho máy bay SU-30MK2; Tích hợp thiết bị, xây dựng phần mềm và CSDL
+nhằm rút ngắn thời gian tìm và chọn vị trí trận địa cho TLPK S-300PMUI
+
+'Đề tài nghiên cứu cơ sở: Nghiên cứu khảo sát khối ôn định xung 468353.004 và khối nguồn MAA300-1C27CYH của đài dẫn bay
+gần 4N tại trung đoàn 923 Quân chủng PKKQ, phục vụ sửa chữa, thiết kế chế tạo: Nghiên cứu bộ công cụ phát triển phần mềm của phần
+mềm phân tích mã IDA để xây dựng các plugin hỗ trợ phân tích, dịch ngược các phần mềm nhúng trên vũ khí, trang bị; Nghiên cứu phương
+pháp tự động nhận dạng, phân tích các đoạn mã nhị phân thường gặp trong các phần mẻm có sẵn trên vũ khí, trang bị.
+
+Đề tài định hướng trẻ: Nghiên cứu ứng dụng Deep learning trong nhận dạng một số loại máy bay chiến đầu
+
+II. KÉT LUẬN-KIẾN NGHỊ .
+
+~ Công tác xăng dẫu năm 2017 của đơn vị đã hoàn thành tốt nhiệm vụ, bảo đảm kịp thời cho các nhiệm vụ, sử dụng xăng dầu tiết
+hiệu quả, đúng mục đích nhiệm vụ được giao.
+
+- Đề nghị Ban Xăng xe/Phòng Hậu cân thường xuyên giúp đỡ về nghiệp vụ quản lý xe và xăng dầu./. „+
+
+ 
+
+ 
+
+Nơi nhận: _ ⁄ TRƯỞNG
+- Phòng Hậu cần;
+~ Lưu: VT, HC; L03.
+
+  
+
+tá Đỗ Việt Bình(Kèm theo văn bản số: ⁄‡† ` !BC-XD ngày,|5 tháng 01 năm 2018 của Viện Công nghệ thông tin)
+
+Phụ lục 2
+
+BẢNG KÊ TỐNG HỢP MUA LẺ XĂNG DẦU PHÂN CẤP NĂM 2017
+
+vi: Nhiên liệu: lít 15C; Dầu mỡ: kẹ; Tiền: đồng.
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nhãn | Số [Dung] Thi Tuyến đường đi Xăng dầu mua lễ trên đường
+„| hiệu | đăng | tích | hành Phrre K lan Than] Ghi
+TT | Đơnvi | tá ti ảng |Đỉa điểm| Số hóa lgày lủng| ơn nl l
+kiểm | ký [thùng lệnh Từ Đến ^¬ đơn | tháng | loại |lượng| giá tiền | chú
+loại xe chứa| của L Lũsg dâu) =1
+_|Xăng A92, A95
+0007969 |28/12/2016| A92 | 45 |17590| — 791550
+0008472 | 3/1/2017 | A92 | 50 |17590| 879.500
+0008714 | 6/1/2017 | A92 | 30 |I7590|  s27200|
+0009291 | 16/1/2017 | A92 | 45 |17590| 791.550
+Hồ Chí
+Minh và 0003790 | 18/1/2017| A92 | 4s |18290| 823050
+Đồng Nai,
+Viên Tư 000977 | 21⁄12017| A92 | 50 |t7590| - 879500
+. šew|_ Bử
+Toyota- Phó viện | Hồ Chỉ
+1 | CNTT-
+Tỉ Imova | 5160| ẾÓ | trưởng | Minh F2. 3533| HCM | opossg | 2/207 | A9s | so [i8290| 914500
+Thuận
+Lãng Âm, 0073360 | 21/2/2017| A92 | 40 |i8090| 7234600
+Cần thơ,
+Án Cũng 2078469 | 23/2/2017 | A92 | 50 |18090| 904500
+0021561 | 24/2/2017 | A92 | 40 |18090| - 723.600
+seo 3622n7 A92 | 35 |18090| 633.150
+0013762 | 27⁄3/2017| A92 | s0 |Iz310| - 865500
+Viện
+CNTT-
+CSPN Đơn vị ,A9S loại xe 
+Toyota-
+Inova $1-60 đăng 60 
+Dung
+tích
+thùng
+chứa Phó viện
+trưởng Hồ Chỉ
+Minh Tuyên đường ( 
+Hồ Chí
+Minh và
+Đồng Nai,
+'Viũng tàu,
+Bình
+Dương,
+Bình
+“Thuận,
+Long An,
+Cần thơ,
+An Giang Đến 353 Địa điểm
+
+xăng dầu 
+Xăng dâu mua lẻ trên đường. HCM Số hóa
+đơn 0013762 
+0016038 0021561 2078469 0073360 
+0010358 0009677 0003790 0009291 
+0008714 0008472 tháng 23/2/2017 
+21/2/2017 6/2/2017 21/1/2017 18/1/2017 
+16/1/2017 6/1/2017 3/1/2017 27/3/2017 
+26/2/2017 24/2/2017 A92 A92 
+A92 A92 A92 Chủng
+loại 
+A92 A92 A92 A92 
+A92 A95 A92 50 
+3° 50 50 4 
+45 30 50 35 
+40 50 Đơn
+giá 18.290 
+17.590 18.290 17.590 17.590 
+17.590 17310 18.090 18.090 
+18.090 18.090 Thành
+tiền 879.500 
+823.050 791.550 527.700 879.500 
+865.500 633.150 723.600 723.600 
+914.500 Ghi Số [Dung] Thi Tuyến đường đi Xăng dầu mua lẻ trên đường,
+: đăng | tích hành man + Gãi
+TT | Đơn vị ký |thùng| lệnh - , Tổng Địa điểm| Số hóa Ngày Chúng Số Đơn Thành mn
+ý n Từ Đến kem | mua đơn tháng | loại |lượng| giá tiễn chú
+chứa của \xăng dầu XD
+2 | in [foeal PO | sọ | Thủ tướng | tr Nội | Nghệ An | 800 [Nghệ An| 0001040 | 13/2/2017 | A92 | s0 |I7940| - #97000
+Ý | CNTT | mova: | 52-38 Viện UỢNI[ HN MUA VN nh :
+ĩ PQ Thủ trưởng | „„. và: [ma Ninh
+3 Nisan |. dạ | 60 | “vien ° | HàNg Thanh Hóa| 500 | ni | 0000207 | 13/2/2017 | A92 | so |17780| - 8893500
+4 Foyorl PO | sọ | Thủ ưưởng [TL vội Í Hải Phòng | 350 | Hà Nội | 0000510 | 20/3/2017 | A92 | s0 | 1800| - 901000
+Inova: | 52-38 Viện
+0021647 | 6/4/2017 | A92 45 17230 T15.350|
+=l=
+0010083 | 12⁄4/2017| A92 | s0 |17230| 861.500
+0010084 | 13/4/2017 | A92 | 40 |17230| 689200
+Hỗ Chí
+Minh và 0000742 | 22/4/2017 | A92 17580 | — 879000
+Đồng Nai, F—+T——
+'Vũng tàu, 0003739 | 25/4/2017 17580| — 703:200|
+Viện : .| Bình HCM,
+Toyota- |PQ 51-| Ẫ
+s | cu | Tên 3 so | Phôvifn n Dương, | 3233 | TN, VL. | 0002348 | 17/5/2017 | A92 17270| — 863.500
+CSPN ... , Bình VT
+Thuận, 0002806 A9 17.060 761.700)
+Long An, 23/5/2017 45
+Cần thơ, 0002122 | 96/2017 | A92 | 45 |17360| 781-200
+An Giang
+0006858 | 14/6/2017 | A92 | 50 |17480| 874000
+0001332 | 15/6/2017 | A92 | 40 |17360 man)
+0010415 | 27/6/2017 | A92 | 30 |16500| 495.000
+Mau
+
+CSPN Mau
+
+CSPN Viện
+CNTT Đơn vị 
+Toyota-
+Inova Toyota-
+Imova: Nissan Toyota-
+Thoýtt 
+PQ 5I- 52-38 50-68. PQ
+52-38 
+Số
+đăng
+ký 60 60 Dung
+tích
+thùng
+chứa 
+Phó viện
+trưởng. Thủ trưởng
+
+Viện Thủ trưởng.
+Viện hành
+lệnh
+của 
+Hà Nội Hồ Chỉ
+Minh Hà Nội Hà Nội 
+Thanh Hóa Nghệ An Hỗ Chí
+Minh và
+Đồng Nai,
+'Vũng tầu,
+Bình
+Dương,
+Bình
+Thuận.
+Long An,
+Cần thơ.
+An Giang Hải Phòng. 
+350 500 800 323 
+Hà Nội Ninh
+Bình Nghệ An lêm
+
+xẵng dẫu 
+Xăng dâu mua lẻ trên đường HCM,
+TN, VL,
+VT 0000510 0000207 
+0001040 Số hóa
+đơn 0010415 0001332 
+0006858 0002122 0002806 0002348 
+0003739 0000742 0010084 0010083 
+0021647 6/4/2017 20/3/2017 13/2/2017 
+13/2/2017 Ngày
+tháng 27/6/2017 15/6/2017 
+14/6/2017 9/6/2017 23/5/2017 17/5/2017 
+25/4/2017 22/4/2017 13/4/2017 12/4/2017 
+A92 A92 A92 A92 
+A92 A92 A92 loại 
+A92 A92 A92 A92 
+A92 A92 A92 50 
+45 $0 50 $0 
+Số 30 40 30 
+45 4S 50 $0 
+40 17.230 18.020 17.790 
+17.940 16.500 17.360 17480 
+17360 17.060 11270 17.580 
+17.580 17230 17230 861.500 
+T15.350 901.000 889.500 897.000 
+Thành
+tiên 495.000 694.400 874.000 
+81.200 767.700 863.500 703.200 
+879.000 689.200 Ghi
+chú m Nhãn | Số [Dung] Thi Tuyển đường đi Xăng dầu mua lẻ trên đường,
+¡| hiệu | đăng | tích | hành Địa điểm| Sốhóa | —Nị Chủng| Số | Đ Thành | Ghi
+TT | Đơnvi | tiến | ịa điểm gày nẽ| ơn ni ụ
+Í[ kiểu | ký |thùng| lệnh Từ | Bến |TỔE| mụa | đơn | tháng | loại |lượng| giá tiền | chú
+loại xe chứa| của km | ng dầu XD
+Viện |. PỌ Thủ trưởng |,_....| TP Hưng Hưng
+6 | cwấr |NESn|sogg| 69 | “Vận [HàNðH| “vạy | 180 | vay |0002060| 942017 | A92 | s0 |I7230| 861500
+Viện | PQ Thủ trường TP Hưng Hưng
+7 | cwrr |NSP|sgog| 69 | “Vạn |HANð| vay | 180 | yạy |0002463| t8/42017| A92 | 30 |17290J 861500
+Viện | PQ Thủ trường - | Tứ Kỳ-Hải Hưng
+% | cwrr |NSSm|goag| 60 | vẹa |HẾNG| puạng | 280 | yạy |9003234| 83/2017 | A9 | 50 | H8l20| 986006
+Viện |. PQ Thủ trưởng |. va; | TP Hưng Duy Tiên
+9 | cưnr |MSSmlgggg| 60 | Viện |HANG| vạn | 180 Í na gam | 0000392 | 2/5/2017 | A92 | 50 |17270| - 863.500
+Viện |Toyoa-| PQ Thủ trường | „„...... | Thọ Xuân- Ninh
+10 Ì CwTT | mova [5238| 59 |  YViea - | HàNỗi | nang Họa| 509 | gìn | 9000890 | 27/5/2017 | A92 | 50 | 17260 Ben]
+Viện |Toyoa-| PQ Thủ trưởng |,„....| TPHải "
+HH Ì CNTT | movar|5-38| 5 | VVieạ |HANG| pạạg | 350 | HàNội |0023364| 29/52017| A92 | 50 | 7060| - 853000
+Viện |Toyoa-| PQ Thủ trưởng |,„. vv„| TP Tam ñ
+!2 | cvrT | ovar|5oa8| 5 | Vviệa |HÀNG| pm | 350 | HàNam |0098924 | 20/62017| A92 | 50 |I7560| - 878000
+Viện |Toyo-| PQ Thủ trưởng 2; | TP Tam =_=
+lã | pit lbsnz [52:58 Vin |HANỘ| pạa ” | 350 | HàNội | 0000048 | 25/6/2017 | A92 | so | l6s00| - 825000
+Hồ Chí
+Minh và 0006035 | 6/7/2017 | A92 | 50 |16.060| 803.000
+Đồng Nai,
+Vũng tâu, 0006234 | 10/7/2017 | A92 | 50 |16.060| 803.000
+na HCM.
+Vị " | 0004968 | 12/7/2017| A92 | 30 |16060| 481800
+lên, [Teyea-|PQ s1-| Phó viện | HồChi| Dương, TN,
+| CSTT | mova | é0 | Ế | tưởng | Mãn |  Bìh |H90|U vrp|
+CSPN ự Thuận, cm | 0002830 | 13/7/2017 | A92 | 40 |16.060| 642400
+NBT
+Long An,
+Cần thơ. 0002267 | 21/7/2017 | A92 | 50 |16420| 821000
+An Giang,
+Bình: 0022009 | 2/8/2017 | A92 | 37 |16420| 607050
+Thuận, Cà
+12 Viện
+CNTT Viện
+CNTT Đơn vị 
+Viện
+CNTT-
+CSPN Viện.
+CNTT Viện
+CNTT Viện
+CNTT 
+Viện
+CNTT Viện
+CNTT Viện
+CNTT Toyota-
+Inova 
+Toyota-
+Inova; Toyota-
+Imova; Toyota-
+hova: Toyota-
+Inova; 
+Nissan Nissan Nissan Nissan 
+Nhãn
+hiệu
+kiểu
+
+loại xe PQ
+50-68. PQ
+50-68. Pọ
+50-68. 
+PQ
+50-68. PQ §I- P9
+52-38 52-38 
+Pọ
+52-38 PQ
+52-38 60 Dung
+tích
+thùng
+chứa 
+“Thủ trưởng,
+Viện Thi
+hành
+lệnh
+của Phó viện
+trưởng Thủ trưởng
+Viện 
+Thủ trưởng
+Viện Thủ trưởng.
+Viên Thủ trưởng.
+Viện Hỗ Chỉ
+Minh 
+Hà Nội Hà Nội Hà Nội Hà Nội 
+Hà Nội Hà Nội Hà Nội Từ 
+“Tuyên đường đi Đến Ho Chi
+Minh và
+Đồng Nai,
+'Vũng tàu,
+Bình
+Dương,
+Bình
+“Thuận,
+Long An,
+Cần thơ.
+An Giang,
+Bình
+Thuận Cà Điệp 
+TP Hải
+Phòng Thọ Xuân-
+Thanh Hóa TP Hưng Dương 
+TP Hưng
+Yên TP Hưng
+Yên 350 350 
+350 500 180 280 
+180 180 Tổng 1800 
+Xăng dâu mua lẻ trên đường Hà Nội Hà Nam Hà Nội 
+Ninh
+Bình Duy Tiên
+Hà Nam Hưng Hưng
+Yên 
+Hưng
+Yên Địa điêm
+
+xăng dầu HCM,
+
+VL.VT,Đ
+N.BT 0003234 
+0002463 0002060 Sô hóa
+đơn 0000048 
+0098924 0023364 0000890 0000892 
+0022009 0002267 0002830 0004968 
+0006234 0006035 29/5/2017 27/5/2017 
+20/5/2017 8/5/2017 18/4/2017 9/4/2017 
+Ngày
+tháng 2/8/2017 21/7/2017 13/7/2017 
+12/7/2017 10/7/2017 6/1/2017 25/6/2017 
+20/6/2017 Chủng
+loại A92 A92 
+A92 A92 A92 A92 
+A92 A9 A92 A92 
+A92 A92 A92 A92 
+$0 530 50 50 
+$0 Số 37 50 
+40 30 50 30 
+30 50 50 17.260 
+17270 18.120 17.230 17230 
+Đơn
+giá 16.060 16.060 16.060. 
+16.060 16.500 17.560 17.060 
+16.420 16.420 861.500 861.500 
+Thành
+tiền 803.000 803.000 825.000 
+878.000 853.000 863.000 863.500 
+607.050 821.000 642.400 481.800 Nhãn | Số Tuyến đường đi Ỉ Xăng dầu mua lẻ trên đường.
+TT | Đơn vị nh đăng Tổng |Đia điểm| Sốhóa [ Ngày [Chủng] Số | Đơn [ Thành Ghi
+êu | ký Từ Đến k mua đơn tháng loại |lượng| giá tiền chú
+loại xe th lặng dầu xp
+Viện |Toyota-| PQ TP Tam E.
+15 CNTT | Imova: | 52-38 Hà Nội Điệp 350 | Hà Nội | 0034121 | 4/7/2017 | A92 50 16.500 825.000
+Viện |Toyoa-| PQ 3 nạ: | Lâm Thao-
+16 CNTT | Inova; | 52-38 Hà Nội Phú Thọ 250 | Hà Nội | 0002261 | 1/9/2017 | A92 50 17480 874.000
+Viện |, PQ 3 Nọ; | TP Hưng Hưng
+7 | cwạr | Nen [22 vg Hà Nội | ` vàn | 180 | vay | 0008696 | 29/9/2017 | A92 | 39 [1810| - 702060)
+Cộng 1961 34.000.000|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hà Nội, ngày “lẾ tháng 01 năm 2018
+TL. VIỆN TRƯỞNG
+NGƯỜI LÀM BÁO CÁO. TRƯỞNG BAN TÀI CHÍNH TRƯỞNG BAN HC-HC
+
+QE #“_
+
+Thiếu tá Đỗ Khoa Lập Trung tá Nguyễn Thị Thanh Hà Trung tá Nghiêm Anh Dũng.
+TT Cộng Viện
+CNTT Viện.
+CNTT 
+Viện
+CNTT Đơn vị Nissan Toyota-
+Inova; 
+Toyota-
+Inova; Nhãn
+hiệu
+
+loại xe 52-38 PQ
+52-38 
+PQ
+52-38 sỀa
+H Dung
+tích
+thùng
+chứa 60 
+60 Thủ trưởng.
+Viện Hà Nội Hà Nội 
+Hà Nội Từ Tuyển đường đi TP Hưng 
+TP Tam
+Điệp. Đến 180 250 
+350 Tổng
+km Xăng dâu mua lẻ trên đường.
+Địa
+
+điểm Sốhóa | Ngày |Chủng| Số | Đơn | Thành -
+mua | đơn | tháng lượng n
+xxx. dẫo| Hưng
+Yên 
+Hà Nội Hà Nội Địa điểm
+mua
+xăng dầu Số hóa 
+0008696 0002261 0034121 29/9/2017 
+1/9/2017 4/1/2017 tháng A92 
+A92 A92 Chủng
+loại Số 
+1.961 39 50 50 
+18.110 17480 16.500 34.000.000 
+702.000 874.000 ¬ chú Phụ lục 4
+BÁO CÁO TỐNG HỢP KẾT QUẢ MUA XĂNG DẦU PHÂN CẤP NĂM 2017
+(Kèm theo văn bản số: |} IBC-XD ngày |ố tháng 01 năm 2018 của Viện Công nghệ thông tin)
+
+Đvt: Nhiên liệu: lít 15°C; Dầu mỡ: ke; Tiền:
+(TH/KH)
+
+   
+  
+
+  
+ 
+     
+  
+   
+     
+   
+   
+   
+   
+   
+   
+   
+
+ 
+ 
+
+ 
+
+   
+
+KẾ HOẠCH NĂM BỔ SUNG | TỔNG
+“Thành tiến| trượt giá | N.sách cấp
+
+ 
+
+TT |NỘI DUNG - DIỄN GIẢI
+
+ 
+
+ 
+
+   
+
+1720| 12
+731
+
+ 
+
+ 
+
+    
+
+17.480
+| 1560|
+17580| 1.582.200)
+17590| 3.8698
+17790| 88935
+17940| 897000
+Sú[ 18020 90190
+6| 18090 2.984.85
+NỘI DUNG - DIỄN GIẢI Số lượng HOẠCH l! “Thành tiền 
+ĂM BỒ SUNG
+trượt giá TỔNG
+Nsách cấp Số lượng 
+_2.720.200
+
+ 
+
+.2.145.000
+1, 620.700
+_4.049.050
+863.000 'Vượt (+); thiếu(-) SO SANI 10 
+Chỉ; quá (+); còn(-) KẾ HOẠCH NĂM. Ÿ rỉ THỰC HIỆN NĂM 2015 SO SẢNH (THIKH)
+"—=. - BỒ SUNG| TỔNG = TT
+NỘI DŨNG - DIỄN GIẢI cà tượng | Đơn giá | Thành tiến| trượt giá | Nasách cấp | Số lượng | Đơn giá | Thành tin | SỐ lượng (6-1) | Thành tiến(-5)
+'Ywợt (2) thiếu) [Chỉ: quá +); còn(2|
+B 1 2 3 4 § 6 1 8 9 10
+3| 18110] 702.000
+50| 18120| 906.000
+9| 18290| 1.737.550)
+Hà Nội. ngày lỗ tháng Ú1 năm 2018
+TL. VIỆN TRƯỞNG
+NGƯỜI LÀM BÁO CÁO. TRƯỞNG BAN TÀI CHÍNH TRƯỞNG BAN HC-HC
+Thiếu tá Đỗ Khoa Lập Trung tá Nguyễn Thị Thanh Hà Trung tá Nghiêm Anh Dũng.
+NỘI DUNG - ĐIỄN GIẢI Số lượng Đơ giá 'Thành tiền 
+BỔ SUNG
+trượt giá TỔNG
+Nsách cấp 39
+50
+95 Số lượng 
+18.110
+18.120
+18.290 “hành tiền M2015 702.000
+906.000
+1.737.550 
+"Vượt (+); thiếu(-) Chỉ: quá (+); còn( -) Phụ lục 1
+PHÂN TÍCH NGUỒN NHẬP, XUẤT XĂNG DÀU
+(Từ ngày 01/01/2017 đến ngày 31/12/2017)
+
+Hà Nội ngày ^Ố máng 01 năm 2018
+TL. VIỆN TRƯỞNG
+NGƯỜI LÀM BẢO CÁO TRƯỞNG BAN HC-HC
+
+.
+
+Thiếu tá Đỗ Khoa Lập Trung tá Nghiêm Anh Dũng.
+¬ls|a|= LOHÖNG SH, Chọn,
+
+ 
+
+TH hả,
+hụt DIỄN GIẢI 14.300 
+phản lực nhiên liệu Dầu mỡ ¬ gy 
+chú VIỆN KH-CN QUÂN SỰ
+'VIỆN CÔNG NGHỆ THÒNG TIN
+
+NGƯỜI LÀM BẢO CÁO.
+
+Thiểu tá Đỗ Khoa Lập
+
+BẢO CÁO NHẬP-XUÁT-TÒN XĂNG DÀU
+(Từ ngày 01/01/2017 đến ngày 31/12/2017)
+
+Đwt: Nhiên liệu lút 150C; Dằu mỡ: Kg.
+
+Hà Nội, ngày ÁÕ tháng 01 năm 2018
+TL. VIỆN TRƯỞNG
+TRƯỞNG BAN HC-HC
+
+x.~
+
+Trung tá Nghiêm Anh Dũng
+
+=4
+<“—=—niE—-mx— se cm c NHIÊN LIỆU
+XĂNG Ô TÔ ˆ
+
+Xăng 92, A95
+
+ 
+
+MILPC-05 CS32 TÊN XĂNG DÀU TÔN
+ĐÀU
+KỲ 
+Qua
+Kho Viện Phân Ứng HM
+năm sau CỘNG 
+14-300
+14.300
+
+45
+485 485 “Tiêu thụ
+mufn XUAÂT 
+BQ,BD
+
+sửa chữa Khác CỘNG 14-300
+14.300
+
+485
+485 
+TÒN
+CUÓI
+KỲ 'VIỆN KH-CN QUÂN SỰ
+'VIỆN CÔNG NGHỆ THÔNG TIN
+
+1. NHIÊN LIỆU
+
+BÁO CÁO TIÊU THỤ XĂNG DẦU THEO NHIỆM VỤ
+(Từ ngày 01/7/2017 đến ngày 30/9/02017)
+
+ 
+
+ 
+
+.Đvi: Nhiên liệu: lí 15°C. Dầu mỡ: kg
+
+ 
+
+  
+
+Lñy
+
+    
+
+ 
+
+SS giữa HM.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|Chuyên gia đỗi ngoại.
+
+   
+
+ 
+
+|Công tác vật tư
+
+ 
+
+lỖ tô trạm nguồn
+
+_ KHÔI KỸ THUẬT
+
+ 
+
+ 
+
+—4 103 + Bị — 2 |6|— =|B 8Ì —|EỈ mm ni)
+
+ 
+
+ 
+
+_ Cộng T- thụ xe máy,
+HAO HỰT.
+|Hao hụt thường xuyên
+1T E
+Na --¬ s Công nghệ thông tin
+tạo, bỗ túc lái xe, thợ.
+F Ticiinr
+
+ 
+
+Công tác chính sách
+KHÔI HẦU CÀN Nghiên cứu, quản lý KHCN.
+Thông tin KHCN _
+
+Nhiệm vụ khác
+CÔ mỹ Xe máy.
+HAO HỤT.
+
+Hao hụt thường xuyên
+Tăng cò: 
+Vũ khí đạn
+Thông tin
+Bobo Vận chuyển xăng dầu
+
+Chuyên gia đối ngoại NHIỆM VỤ 14.300 
+©
+ù
+=
+
+gỈ Hạn mức đượ Diesel 1.220 
+1.450 4.100
+
+2.700
+14-300
+
+14.300 Hoạt động 179
+
+598 
+Bh.
+"1.293 8.668 14.047 Giờ 
+của xe máy Km 2.350 Xe 
+4.100
+
+2.700
+14300
+
+14.300 1.450 Máy 3.570 
+14.300 Xe Lấy
+tích s0 
+970 2350
+1450
+900 SS giữa HM
+ham II. DÀU MỠ
+
+1. Hạn mức: SỐI kg
+2. Thực tế sử dụng: S01 kg
+NGƯỜI LẬP BẢO CÁO
+
+Thiếu tá Đỗ Khoa Lập
+
+Hà Nội. ngày “ÍẾ tháng 0L năm 2018
+TL. VIỆN TRƯỞNG
+'TRƯỞNG BAN HC-HC
+
++“
+
+Trung tá Nghiêm Anh Dũng'VIỆN KH-CN QUÂN SỰ
+VIỆN CÔNG NGHỆ THÔNG TIN
+
+BẢO CÁO TIÊU THU XĂNG DÀU CHO XE, MÁY TÀU VÀ BQ, BD, SC
+(Từ ngày 01/01/2017 đến ngày 31/12/2017)
+
+Hà Nội, ngày Ế tháng 01 năm 2018
+- TL. VIÊN TRƯỞNG
+NGƯỜI LẬP BÁO CÁO. TRƯỞNG BAN HC-HC
+
+”
+
+Thiếu tá Đỗ Khoa Lập Trung tá Nghiêm Anh Dũng,
+“—s..nem—.=ae 3U DỤNG XANG (+)
+
+CHO XE MÁY (+)
+Cho xe
+Xe INOVA
+Xe NISSAN
+Cho máy
+SỬ DỤNG ĐIEZEN (+)
+CHO XE MÁY (+)
+Choxe
+Chomáy _
+
+'TÔNG CỘNG Xe, máy, tàu
+theo loại Số lượng
+xe, máy,
+tàu 
+85.480
+55.710
+29.770 Giờ 14310
+14310
+8356
+5.954 Theo
+định 
+14.300
+
+ 
+
+8350
+3.950 ng sô nhị Theo
+định mức Bình quân 
+15
+20 20 Theo.
+thực chỉ So sánh 
+rới định mức 

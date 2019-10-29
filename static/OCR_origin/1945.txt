@@ -1,0 +1,4684 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+Số: s076/TTr-VCNTT Hà Nội, ngày-4Itháng Gnăm 2019
+
+ 
+
+'TỜ TRÌNH.
+
+'Về việc đề nghị phê duyệt Kế hoạch lựa chọn nhà thầu năm 2019
+của Dự án khoa học và công nghệ cấp Nhà nước “Nghiên cứu, thiết kế,
+xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến
+
+biển đảo trên nền hải đồ số và sa bàn số 3D”
+
+Kính gửi: Giám đốc Viện Khoa học và Công nghệ quân sự.
+
+Căn cứ Luật Đấu thầu số 43/2013/QH13 của Quốc hội nước CHXHCN
+'Việt Nam; Nghị định số 63/2014/NĐ-CP của Chính phủ quy định chỉ tiết thi
+hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu;
+
+Căn cứ Thông tư số 10/2015/TT-BKHĐT ngày 26/10/2015 của Bộ
+KH&ĐT quy định chỉ tiết về kế hoạch lựa chọn nhà thầu;
+
+Căn cứ Thông tư số 88/2017/TT-BQP ngày 17/4/2017 quy định một số
+nội dung về đấu thầu lựa chọn nhà thầu trong Bộ Quốc phòng; Thông tư
+191/2017/TT-BQP ngày 17/8/2017 của Bộ trưởng Bộ Quốc phòng về việc sửa
+đổi, bỗ sung một số nội dung của Thông tư số 88/2017/TT-BQP;
+
+Căn cứ Quyết định số 1015/QĐ-BQP ngày 30/3/2018 của Bộ trưởng Bộ
+Quốc phòng về việc phê duyệt kết quả thẩm định nội dung, kinh phí dự án
+“Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương,
+án tác chiến biển đảo trên nền hải đồ số và sa bàn số 3D” thuộc Chương trình
+nghiên cứu, đào tạo và xây dựng hạ tầng kỹ thuật công nghệ cao;
+
+Căn cứ Hợp đồng khoa học và công nghệ số 1365/2018/HĐKHCN ký
+ngày 01 tháng 6 năm 2018 giữa bên giao là Cục Khoa học quân sự/BQP với bên
+nhận là Viện KHCNQS và Viện Công nghệ thông tin/Viện KHCNQS vẻ việc
+thực hiện dự án khoa học và công nghệ cắp Nhà nước “Nghiên cứu, thiết kế, xây
+dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển đảo trên
+nên hải đồ số và sa bàn số 3D”;
+
+Căn cứ Quyết định số 1364/QĐ-VKHCNQS ngày 26/9/2018 của Giám
+đốc Viện KHCNQS về việc phê duyệt Kế hoạch mua sắm nguyên vật liệu, năng
+lượng, thiết bị, máy móc của dự án khoa học và công nghệ cấp Nhà nước
+“Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương,án tác chiến biển đảo trên nền hải đồ số và sa bàn số 3D”;
+
+Căn cứ Hướng dẫn số 1046/KHQS-TC ngày 27/5/2019 của Cục Khoa học
+quân sự/BQP vẻ việc chỉ ngân sách Nhà nước năm 2019 (Ngân sách Nhà nước giao);
+
+Căn cứ Quyết định số 817/QĐ-VKHCNQS ngày 05/6/2019 của Giám đốc
+Viện KHCNGQS về việc giao phân cấp Ngân sách Nhà nước năm 2019 cho Viện
+Công nghệ thông tin,
+
+'Viện Công nghệ thông tin kính đề nghị Giám đốc Viện KHCNQS xem xét
+chỉ đạo các cơ quan thâm định và trình cấp có thẩm quyền phê duyệt Kế hoạch
+lựa chọn nhà thầu năm 2019 của dự án KHCN cấp Nhà nước “Nghiên cứu, thiết
+kế, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển
+đảo trên nền hải đồ số và sa bàn số 3D” trên cơ sở các nội dung sau:
+
+I.MÔ TẢ TÓM TÁT VỀ DỰ ÁN KHOA HỌC VÀ CÔNG NGHỆ
+1. Tên dự án khoa học và công nghệ: Nghiên cứu, thiết kế, xây dựng hệ
+thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển đảo trên nền hải
+đồ số và sa bàn số 3D.
+2. Mã số: CNC.M03.DAHT/2018
+3. Cấp quản lý: Nhà nước.
+4. Nguồn vốn: Ngân sách Nhà nước.
+5. Thời gian thực hiện: 24 tháng (6/2018- 6/2020).
+6. Đơn vị chủ trì: Viện Công nghệ thông tỉn.
+7. Chủ nhiệm dự án: Trung tá ThS Nguyễn Đức Định.
+§. Tổng kinh phí: 95.950 triệu đồng,
+(Bằng chữ: Chín mươi lăm tỷ chín trăm năm mươi triệu đồng).
+- Dự toán năm 2018 :  29.274/772 triệu đồng
+- Dự toán năm 2019 : 57.447,755 triệu đồng
+- Dự toán năm 2020 : 9.227.473 triệu đồng
+
+Trong đó:
+
+- Chỉ phí nhân công : 32,660,927 triệu đồng
+- Nguyên vậtliệu : 62.183,000 triệu đồng
+- Thiết bị, máy móc : 606,000 triệu đồng
+- Chỉ khác h 500,073 triệu đồngII. PHẦN CÔNG VIỆC ĐÃ THỰC HIỆN
+Phần công việc đã thực hiện là mua sắm nguyên vật liệu, thiết bị bao gồm
+03 gói thầu với tổng giá trị là 12.739,160 triệu đồng (thuộc Kế hoạch Lựa chọn
+nhà thầu năm 2018).
+Băng số 1. Phần công việc đã thực hiện
+
+Gv “ớn
+
+Bằng chữ: Mười hai tỷ bảy trăm ba mươi chín triệu một trăm sáu mươi
+nghìn đồng,
+
+II. PHẦN CÔNG VIỆC KHÔNG ÁP DỤNG ĐƯỢC MỘT TRONG
+CÁC HÌNH THỨC LỰA CHỌN NHÀ THÀU
+
+Phần công việc không áp dụng được một trong các hình thức lựa chọn nhà
+thầu trong dự án bao gồm phần khoán chỉ (gồm chỉ phí nhân công và chỉ phí
+khác) và chỉ phí dôi dư sau đấu thầu với tổng giá trị là 33.184,840 triệu đồng.
+Chỉ tiết theo bảng sau:
+Tên gói thầu : giá trị Gói thầu số 3-2018:
+Mua sắm phần mềm
+công cụ phục vụ phát
+triển và vận hành ứng
+dụng 3D năm 2018 Gói thầu số 2-2018:
+Mua sắm trang thiết
+bị phục vụ thu thập,
+biên tập, xây dựng dữ
+liệu 
+Gói thầu số 1-2018:
+Mua sắm các phần
+mềm công cụ phục vụ
+phát triển ứng dụng
+bản đồ số và phục vụ
+biên tập, xây dựng dữ
+liệu địa hình và mô
+hình 3D Đơn vị
+thực hiện Công ty Cổ phần
+Hoàng Thành Công ty Cổ phần
+ứng dụng công
+nghệ viễn thông
+ÂuÁ 
+Công ty Cổ phần
+phần mềm Thăng
+Long Giá trị
+(triệu đồng) 12.739,160 2.309,760 
+1.311/400 9.118,000 QÐ số 479/QĐ-
+'VCNTT ngày
+02/11/2018 Văn bản
+phê duyệt 
+QÐ số 481/QĐ-
+VCNTT ngày
+02/11/2018 QÐ số 480/QĐ-
+'VCNTT ngày
+02/11/2018 Bảng số 2. Phần công việc không áp dụng được một trong các
+hình thức LCNT
+Gói thầu số 3-2019:
+Mua sắm các thư Gói thầu số 2-2019:
+Mua sắm thư viện
+lõi hỗ trợ tích hợp
+thông tin từ các hệ
+thống giám sát Gói thầu số 1-2019:
+Mua sắm phần mềm
+công cụ phục vụ
+phát triển và vận
+hành ứng dụng 3D
+năm 2019 Tên gói thầu 
+Bằng chữ: Ba mươi ba tỷ một trăm tắm mươi tư triệu tám trăm b‹
+IV. PHÀN CÔNG VIỆC THUỘC KÉ HOẠCH L
+THÂẦU TRÌNH DUYỆT
+4.1. Bảng tổng hợp phần công việc thuộc kế hoạch lựa
+Kế hoạch lựa chọn nhà thầu trình duyệt bao gồm 10 gó
+trị là 50.026,000 triệu đồng. Chỉ tiết theo bảng sau:
+Bảng số 3. Bảng kề hoạch lựa chọn nhà thầu trì: Tổn; giá trị thực hiện Chi phí đôi dư sau đấu
+thầu 
+Chỉ phí khác Nhân công Nội dung công việc 7.760,000. 
+2.080,000 6.176,000 Giá gói
+thầu
+(triệu
+đồng) Viện Công nghệ thông tin 
+'Viện Công nghệ thông tin 'Viện Công nghệ thông tin Đơn vị thực hiện NSNN
+chỉsg 
+NSNN
+chỉ sự
+nghiệp
+KHCN NSNN
+chỉ sự
+
+KHCN Nguồn
+vốn Đấu 
+Đấu
+
+hạn
+chế
+
+trong
+quân
+đội Đấu
+thầu
+rộng
+
+trong,
+nước Hình
+thức
+
+LCNT 01
+giai 
+01
+giai 01
+
+đoạn,
+01 túi
+hồ sơ 01
+giai
+
+01 túi
+hồ sơ thức 
+IH/2019 Quý
+II/2019 Thời gian
+bắt đầu tổ
+chức Quý
+1/2019 
+n mươi nghìn đông.
+ƒA CHỌN NHÀ
+
+chọn nhà thầu
+thầu với tổng giá
+
+h duyệt 33.184,840 23,840 500,073 
+32.660,927 Giá trị
+(triệu đồng) gói Trọn
+gói 
+Trọn
+gói hợp
+đồng T5 T5 
+75 
+viện lõi hỗ trợ
+truyền thông trong,
+mạng theo thời gian
+thực, xử lý và thể
+hiện dữ liệu 3D, lưu
+trữ và đồng bộ dữ
+liệu 'Tên gói thầu Gói thầu số 4-2019:
+Mua sắm dữ liệu ảnh
+bay chụp và mô hình
+số độ cao DEM Khu
+vực Cam Ranh Gói thầu số 5-2019:
+Mua sắm dữ liệu ảnh
+vệ tỉnh và mô hình
+số độ cao DEM.
+phạm vi Thế giới,
+Việt Nam, Phú Yên
+đến Vũng Tàu, một
+số đảo thuộc khu.
+vực Biển Đông 
+Gói thầu số 6-2019:
+Mua sắm dữ liệu địa
+hình 3D Gói thầu số 8-2019:
+Mua sắm phần mềm Gói thầu số 7-2019:
+Mua sắm bản quyền
+cho máy trạm vận
+hành ứng dụng bản
+đồ số Giá gói
+thầu
+(triệu
+đồng) 
+2.000,000 7.920,000 7.600,000 1.533,000 
+2.425,000 chỉ sự
+nghiệp NSNN
+chỉ sự
+nghiệp
+KHCN NSNN
+chỉ sự
+nghiệp
+KHCN 
+chỉ sự NSNN
+chỉ sự
+nghiệp định
+
+nước trong
+nước 
+Đấu
+
+thầu
+
+rộng
+rãi
+
+nước Đầu
+thầu
+
+chế
+trong
+
+đội Đấu
+thầu Đấu
+
+rộng
+
+trong
+nước 
+01 túi
+hồ sơ H
+
+thức
+
+ặ 01
+giai
+
+01 túi
+hồ sơ 01
+giai
+đoạn,
+01 túi
+hồ sơ 
+01
+
+đoạn,
+01 túi
+hồ sơ 01 01
+giai
+
+01 túi
+hồ sơ bắt dẫu ủ
+chức 
+Quý
+1/2019 HL/2019 Quý
+12019 Quý
+1/2019 
+Quý
+1/2019 Quý
+1/2019 ãš Trọn
+gói 
+gối gói gói gói 
+L) ngày T5 T5 Bằng chữ: Năm mươi tỷ không trăm hai mươi sáu triệu đồng.
+(Chi tiết các gói thầu trong Phụ lục kèm theo)
+4.2. Giải trình nội dung kế hoạch lựa chọn nhà thầu
+4.2.1. Cơ sở pháp lý xây dựng kế hoạch lựa chọn nhà thầu
+Căn cứ Luật Đấu thầu số 43/2013/QH13 của Quốc hội nước CHXHCN
+Việt Nam, Thông tư số 10/2015/TT-BKHĐT ngày 26/10/2015 của Bộ KH&ĐT
+quy định chỉ tiết về kế hoạch lựa chọn nhà thầu, Thông tư số 88/2017/TT-BQP.
+ngày 17/4/2017 quy định một số nội dung về đấu thầu lựa chọn nhà thầu trong
+Bộ Quốc phòng, Thông tư 191/2017/TT-BQP ngày 17/8/2017 của Bộ trưởng Bộ
+Quốc phòng về việc sửa đổi, bổ sung một số nội dung của Thông tư số
+88/2017/TT-BQP, Viện Công nghệ thông tỉn kết hợp các cơ sở pháp lý sau để
+lập kế hoạch lựa chọn nhà thầu cho dự án:
+~ Thuyết minh dự án khoa học và công nghệ đã được phê duyệt;
+- Hợp đồng khoa học và công nghệ số 1365/2018/HĐKHCN ký ngày 01
+
+6
+'Tên gói thầu hệ thông, Gói thầu số 9-2019:
+
+Mua sắm trang thiết
+bị phục vụ cài đặt và
+vận hành hệ thống. Gói thầu số 10-
+2019: Mua sắm.
+
+trang thiết bị phục
+vụ trình chiếu, thiết
+bị mạng và phụ kiện 
+Gói thầu số 10-
+2019: Mua sắm.
+trang thiết bị phục
+vụ trình chiếu, thiết
+bị mạng và phụ kiện Giá gói
+thầu
+(triệu
+đồng) 8.322,000 50.026,000 
+4.210,000 Nguồn
+vốn nghiệp.
+KHCN NSNN
+chỉ sự
+nghiệp
+KHCN 
+NSNN
+chỉ sự
+nghiệp
+KHCN Hình
+
+thức
+LCNT rộng
+Tãi
+
+trong
+
+nước Đầu
+
+thầu
+
+rộng,
+rãi
+
+nước 
+Đấu
+thầu
+
+rộng
+
+trong
+nước thức đoạn,
+01 túi
+hồ sơ 01
+giai
+đoạn,
+01 túi
+hồ sơ 
+01
+giai
+đoạn,
+01 túi
+hồ sơ Thời gian
+bắt đầu tổ
+chức Quý
+1/2019 Quý
+1/2019 
+hợp
+đồng Trọn
+gói Trọn
+gói tháng 6 năm 2018 giữa bên giao là Cục Khoa học quân sự/BQP với bên nhận là
+'Viện KHCNQS và Viện Công nghệ thông tin/Viện KHCNQS về việc thực hiện
+dự án khoa học và công nghệ cấp Nhà nước “Nghiên cứu, thiết kế, xây dựng hệ
+thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển đảo trên nền hải
+đồ số và sa bàn số 3D”;
+
+- Quyết định số 1364/QĐ-VKHCNQS ngày 26/9/2018 của Giám đốc Viện
+KHCNGS về việc phê duyệt Kế hoạch mua sắm nguyên vật liệu, năng lượng,
+thiết bị, máy móc của dự án khoa học và công nghệ cấp Nhà nước “Nghiên cứu,
+thiết kế, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến
+biển đảo trên nền hải đồ số và sa bàn số 3D”.
+
+4.2.2. Giải trình nội dung trong kế hoạch lựa chọn nhà thầu
+
+Căn cứ vào các cơ sở pháp lý nêu trên, Viện Công nghệ thông tin giải trình
+các nội dung của Kế hoạch lựa chọn nhà thầu như sau:
+
+4.2.2.1. Cơ sở phân chia các gói thầu
+
+Việc phân chia các công việc của dự án khoa học và công nghệ thành các gói
+thầu như trên căn cứ vào các nội dung công việc trong thuyết minh dự án đã được
+phê duyệt, Quyết định số 1364/QĐ-VKHCNQS ngày 26/9/2018 của Giám đốc
+Viện KHCNQS về việc phê duyệt Kế hoạch mua sắm nguyên vật liệu, năng,
+lượng, thiết bị, máy móc của dự án và kế hoạch bố trí vốn để thực hiện dự án
+trong năm 2019. Các gói thầu được phân chia dựa vào tính chất của từng hạng,
+mục công việc có tính độc lập với nhau, bảo đảm khi tổ chức lựa chọn nhà thầu và
+thực hiện hợp đồng phù hợp với tiến độ dự án.
+
+4.2.2.2. Giá gói thầu
+
+Giá gói thầu được xác định trên cơ sở dự toán thuyết minh dự án khoa học
+và công nghệ đã được phê duyệt và Quyết định số 1364/QĐ-VKHCNQS ngày
+26/9/2018 của Giám đốc Viện KHCNQS về việc phê duyệt Kế hoạch mua sắm
+nguyên vật liệu, năng lượng, thiết bị, máy móc của dự án.
+
+4.2.2.3 Nguôn vốn: Ngân sách Nhà nước chỉ sự nghiệp KHCN.
+
+4.2.2.4. Hình thức và phương thức lựa chọn nhà thầu
+
+a) Hình thức lựa chọn nhà thầu
+
+- Đầu thầu rộng rãi đối với các gói thầu số 1-2019, 3-3019, 5-2019, 7-2019,
+8-2019, 9-2019, 10-2019: Đây là các gói thầu mua sắm hàng hóa thông dụng, sẵn
+có trên thị trường, có nhiều nhà thầu có khả năng cung cấp. Căn cứ Điều 20 Luật
+đấu thầu 2013, đề nghị áp dụng hình thức đấu thầu rộng rãi. Các gói thầu sẽ lựa
+chọn nhà thầu trong nước.
+
+- Đấu thầu hạn chế trong quân đội đối với các gói thầu số 2-2019, 6-2019:
+
+7Đây là các gói thầu mua sắm hàng hóa có tính chất đặc thù, mang yếu tố bí mật
+quân sự (tích hợp thông tin từ các hệ thống giám sát của Hải quân, biên tập dữ liệu
+địa hình khu vực Bán đảo Cam Ranh) nên cần lựa chọn các nhà thầu trong quân
+đội để thực hiện. Tích hợp thông tin và biên tập dữ liệu địa hình là các nội dung có
+yêu cầu cao về kỹ thuật, có tính đặc thù, trong quân đội chỉ có một số nhà thầu có
+kinh nghiệm và đủ năng lực để thực hiện. Căn cứ Điều 21 Luật đấu thầu 2013, đề
+nghị áp dụng hình thức đấu thầu hạn chế. Các gói thầu sẽ lựa chọn nhà thầu trong,
+quân đội.
+
+~ Chỉ định thầu đối với gói thầu số 4-2019: Đây là gói thầu bay chụp tại khu
+vực quan trọng về quân sự (Bán đảo Cam Ranh), có quy chế riêng về bảo đảm
+an ninh và an toàn (ban hành theo Quyết định số 44/2015/QĐ-TTg) nên cần phải
+lựa chọn nhà thầu trong quân đội có chức năng, kinh nghiệm để đảm bảo an toàn
+và bí mật quân sự. Theo tìm hiểu của đơn vị chủ trì thực hiện dự án KHCN,
+trong các đơn vị quân đội có chức năng bay chụp ảnh hàng không, Công ty
+TNHH MTV Trắc địa Bản đồ/Cục Bản đồ/BTTM là đơn vị duy nhất được phép
+kí kết hợp đồng kinh tế bay chụp ảnh hàng không. Căn cứ Điều 22 Luật đầu thầu
+2013, đề nghị áp dụng hình thức chỉ định thầu.
+
+b) Phương thức lựa chọn nhà thầu
+
+Căn cứ Khoản 1 Điều 28 Luật đấu thầu 2013, Điều 63 Nghị định 63/2014, tắt
+cả các gói thầu đều là gói thầu mua sắm hàng hóa có quy mô nhỏ, do vậy đề nghị
+dụng phương thức lựa chọn nhà thầu 01 giai đoạn, 01 túi hồ sơ.
+
+4.2.2.5. Thời gian bắt đầu tổ chức lựa chọn nhà thâu
+
+- Thời gian bắt đầu tổ chức lựa chọn nhà thầu theo tiến độ của dự án khoa.
+học và công nghệ trong thuyết minh đã được phê duyệt, Hợp đồng khoa học và
+công nghệ số 1365/2018/HĐKHCN ký ngày 01/6/2018 và kế hoạch bố trí vốn
+cho dự án KHCN.
+
+- Theo tiến độ của dự án khoa học và công nghệ trong thuyết minh đã được
+phê duyệt, một số hàng hóa thuộc gói thầu số 10-2019 sẽ được mua sắm trong
+kế hoạch năm 2020. Tuy nhiên, để đảm bảo tiến độ nghiệm thu của dự án
+(6/2020), trên cơ sở kinh phí được cấp theo kế hoạch bố trí vốn năm 2019, đơn
+vị chủ trì dự án đề nghị cho phép thực hiện trong kế hoạch lựa chọn nhà thầu
+năm 2019.
+
+4.2.2.6. Hình thức hợp đồng
+
+Căn cứ điều 62 Luật Đấu thầu, đề nghị loại hợp đồng trọn gói cho các gói
+thầu trong kế hoạch lựa chọn nhà thầu.
+
+4.2.2.7. Thời gian thực hiện hợp đồng
+
+Thời gian thực hiện hợp đồng được xác định căn cứ vào tiến độ thực hiện
+
+§dự án và nội dung, tính chất của gói thầu theo đúng quy định tại Khoản 7 Điều
+35 Luật Đấu thầu 2013.
+V. PHÀN CÔNG VIỆC CHƯA ĐỦ ĐIÊU KIỆN LẬP KÉ HOẠCH
+LỰA CHỌN NHÀ THÀU
+Không có.
+'VI. TỎNG GIÁ TRỊ CÁC PHÀN CÔNG VIỆC
+Bảng số 5. Tổng giá trị các phần công việc
+
+'VII. KIÊN NGHỊ
+Trên cơ sở những nội dung nêu trên, Viện Công nghệ thông tin kính đề
+nghị Giám đốc Viện Khoa học và Công nghệ quân sự xem xét và có văn bản đề
+nghị cơ quan có thắm quyền phê duyệt kế hoạch lựa chọn nhà thầu năm 2019
+của dự án khoa học và công nghệ cấp Nhà nước “Nghiên cứu, thiết kế, xây dựng,
+hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển đảo trên nền
+hải đồ số và sa bàn số 3D” để Viện Công nghệ thông tin có cơ sở triển khai thực
+hiện dự án đúng tiến độ.,_
+Nơi nhận: VIỆN TRƯỜNG
+~ Như trên; b
+Phòng TM-KH;
+
+~ CNDA (02);
+~ Lưu: VT, KH; H06.
+
+   
+
+tá Đỗ Việt Bình
+"Tổng mức đầu tư của dự án 'Tổng giá trị các phần công việc Tổng giá trị phần công việc chưa đủ điều kiện lập kế hoạch lựa
+chọn nhà thầu (nếu có) 'Tổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầu 
+Tổng giá trị phần công việc không áp dụng được một trong
+các hình thức lựa chọn nhà thầu 'Tổng giá trị phần công việc đã thực hiện. Nội dung 95.950,000 
+95.950.000 50.026,000 33.184,840 12.739.160 Phụ lục
+
+DANH MỤC CÁC GÓI THÀU TRONG KÉ HOẠCH LỰA CHỌN NHÀ THÀU
+(Kèm theo Tờ trình số: @ÿ£ /TTY-VCNTT ngày ⁄24/ 6 /2019 của Viện CNTT)
+
+ 
+
+ñng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐVT: Triệu
+
+Tên hàng hóa| Tính năng kỹ thuật | Xuấtxứ | ĐVT | SL | Đơngiá |Thànhtiền| Chỉ
+chú
+
+'Gói thầu số 1-2019: Mua sắm phần mềm công cụ phục vụ phát triển và vận|_ 6.176,000
+
+lhành ứng dụng 3D năm 2019
+
+Phản mêm ` | Phân mềm: Skyline [ Bộ [ I6] '386000J 6.176,000| Mục
+
+lcông cụ phục |TeraExplorer Pro hoặc 1243,
+
+(vụ phát triển |tương đương. PLI
+
+lvà vận hành _ |- Phiên bản: 7.0.1 hoặc thuyết
+
+lứng dụng sa |mới hơn mình
+
+lbànsố3D  |-Ti
+
+tác
+
+dữ
+
+ 
+
+ính năng chính:
+
++ Cung cấp các hàm.
+LAPI để hỗ trợ lập trình
+lứng dụng sa bàn số 3D;
+
++ Cung cắp nền tảng để
+Iphục vụ vận hành ứng.
+ldụng sa bàn số 3D;
+
++ Hỗ trợ hiển thị, thao
+
+trên địa hình 3D, cung.
+
+lcắp các công cụ mạnh mẽ
+lvà môi trường 3D có độ
+'phân giải cao để hiển thị,
+truy vấn, phân tích và
+trình bày dữ liệu trong,
+|không gian;
+
++ Hỗ trợ cung cấp các
+'công cụ để đo khoảng
+'cách, độ dốc, thể tích, diện
+
+ 
+
++ Hỗ trợ cung cấp các
+(công cụ cho phép phân
+ltích địa hình, địa vật như.
+hiển thị tầm nhìn, độ bao
+Iphủ của đối tượng lên địa
+hhình...;
+
++ Cho phép phủ lên địa
+lhình các hình ảnh với định
+ldạng, kích cỡ và độ phân
+|giải khác nhau; tích hợp
+liền mạch với các lớp đối
+lượng và các lớp mô hình
+lưới 3D; trực quan hóa kết
+quả truy cập và phân tích
+
+liệu không gian 3D;
+
++ Cung cắp các tính
+năng cho phép thao tác và
+phân tích các mối quan hệ
+không gian trên các lớp
+Phân mêm
+công cụ phục
+vụ phát triển
+và vận hành
+ứng dụng sa
+bàn số 3D. Gói thâu sô 1-
+bành ứng đơn: Tên hàng hóa| Tính năng kỹ thuật | Xuất xứ | ĐVT | §S§L | Đơn giá - Phân mêm:
+TerraExplorer Pro hoặc.
+tương đương,
+
+- Phiên bản: 7.0.1 hoặc
+mới hơn
+
+- Tính năng chính:
+
++ Cung cấp các hàm.
+API để hỗ trợ lập trình
+ứng dụng sa bàn số 3D;
+
++ Cung cắp nền tảng để
+phục vụ vận hành ứng
+dụng sa bàn số 3D;
+
++ Hỗ trợ hiển thị, thao
+tác trên địa hình 3D, cung,
+cắp các công cụ mạnh mẽ
+và môi trường 3D có độ
+phân giải cao để hiển thị,
+truy vấn, phân tích và
+trình bày dữ liệu trong
+không gian;
+
++ Hỗ trợ cung cấp các
+công cụ để đo khoảng.
+cách, độ dốc, thẻ tích, diện
+tích...;
+
++ Hỗ trợ cung cấp các
+công cụ cho phép phân
+tích địa hình, địa vật như
+hiển thị tầm nhìn, độ bao
+phủ của đối tượng lên địa
+hình...;
+
++ Cho phép phủ lên địa
+hình các hình ảnh với định
+dạng, kích cỡ và độ phân
+giải khác nhau; tích hợp
+liền mạch với các lớp đối
+tượng và các lớp mô hình
+lưới 3D; trực quan hóa kết
+quả truy cập và phân tích
+dữ liệu không gian 3D;
+
++ Cung cắp các tính
+năng cho phép thao tác và
+phân tích các mối quan hệ
+không gian trên các lớn 
+019: Mua săm phân mềm công cụ phục vụ Ƒ
+3D năm 2019 Skyline 16 hát triên và vận 
+386,000 6.176,000 6.176,000 Thành tiên 
+Ghi
+chú Tên hàng hóa| Tỉnh năng kỹ thuật | Xuấtxứ | ĐVT | SL | Đơngiá |Thànhtiền| Ghí
+chú
+
+ 
+
+Teature và 3DML;
+
++ Cung cấp các thao tác
+không gian trên một lớp
+feature như hợp nhất các
+feature thành một feature,
+xuất các feature được lựa
+chọn thành tệp dữ liệu
+
+ 
+
++ Hỗ trợ hệ điều hành
+Microsoft Windows
+
+ 
+
+ 
+
+ 
+
+7/8/10;
++ Bản quyền theo từng,
+
+'máy tính vận hành ứng.
+
+Ldụng.
+Gói thầu số 2-2019: Mua sắm thư viện lõi hỗ trợ tích hợp thông tin từ các hệ|_ 2.080,000)
+thống giám sát
+Thư việnhỗ [Tính năng: ViệNam] Bộ [ 1 [2/080,000- 2.080,000J Mục
+lrợ tích hợp _ |- Thư viện cung cấp các 132,
+hông tin từ _ |hàm API hỗ trợ kết nói, PLI
+lcác hệ thống _ [truy vấn danh sách và thuyết
+|giám sát thông tin các đối tượng. minh
+
+Inhận dạng từ các hệ thông
+
+|giám sát (hệ thống giám
+|sát vùng trời, hệ thông
+Inhận dạng tàu biển AIS,
+lhệ thống radar tầm trung.
+(Score-3000);
+
+- Hỗ trợ nên tảng .NET
+|Framework;
+
+|- Chạy trên hệ điều hành
+Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+'TCVN 6909:2001;
+
+- Thư viện được cung cấp
+dưới dạng thư viện API,
+định dạng DLL;
+
+|- Sản phẩm gồm đĩa thư
+lviện phần mềm và tài liệu
+đặc tả kỹ thuật;
+
+- Tài liệu đặc tả kỹ thuật
+được trình bày rõ rằng, có
+lcáu trúc, chỉ tiết đến từng
+|hàm API.
+
+(Các hàm/nhóm hàm API
+
+  
+
+lập giao thức kết
+với hệ thống giám sát
+
+ 
+
+ 
+
+- Thiết lập giao thức kết
+lnối với hệ thống nhận
+Tên hàng hóa Thư viện hồ
+trợ tích hợp.
+
+thông tin từ
+
+các hệ thông
+giám sát Gói thâu số 2-
+thống giám sát “Tính năng kỹ thuật 
+Tính năng:
+- Thư viện cung cấp các
+hàm API hỗ trợ kết nồi,
+truy vấn danh sách và
+thông tin các đối tượng
+nhận dạng từ các hệ thông
+giám sát (hệ thống giám
+sát vùng trời, hệ thông
+nhận dạng tàu biên AIS,
+hệ thống radar tầm trung,
+Score-3000);
+
+- Hỗ trợ nền tảng .NET
+Framework;
+
+- Chạy trên hệ điều hành.
+Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+TCVN 6909:2001;
+
+- Thư viện được cung cắp
+dưới dạng thư viện API,
+định dạng DLL;
+
+Sản phẩm gồm đĩa thư
+viện phần mềm và tài liệu
+đặc tả kỹ thuật,
+
+- Tài liệu đặc tả kỹ thuật
+được trình bày rõ rằng, có
+cấu trúc, chỉ tiết đến từng
+hàm API.
+
+Các hàm/nhóm hàm API
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thiết lập giao thức kết
+với hệ thống giám sát
+
+ 
+
+ 
+
+ 
+
+- Thiết lập giao thức kết
+nối với hệ thống nhận 019: Mua săm thư viện lõ feature và 3DML;
+
++ Cung cấp các thao tác
+không gian trên một lớp
+feature như hợp nhất các
+feature thành một feature,
+xuất các feature được lựa
+chọn thành tệp dữ liệu
+mới...
+
++ Hỗ trợ hệ điều hành
+Microsoft Windows
+7/8/10;
+
++ Bản quyền theo từng,
+máy tính vận hành ứng,
+dụng. Xuất xứ 
+Việt Nam hỗ trợ tíc ' hợp th Bộ 
+ng tỉ ¡ từ các hệ Đơn giá 2,080,000 
+Thành tiên 2,080,000 2,080,000 Ghi
+chú TT
+
+Tên hànghóa| Tính năng kỹ thuật | Xuấtxứ
+
+ 
+
+ 
+
+ 
+
+ldạng tàu biển AIS;
+Re
+nối với hệ thống radar tẦm.
+lung Score-3000;
+(- Tạo kết nói với hệ thống.
+lgiám sát vùng trời;
+(- Tạo kết nói với hệ thống.
+Inhận dạng tàu biển AIS;
+(- Tạo kết nối với hệ thống.
+Iradar tầm trung Score-
+3000;
+- Truy vấn danh sách đối
+tượng giám sát của hệ
+|thống giám sát vùng trời;
+- Truy vấn danh sách đối
+lượng giám sát của hệ
+|thống nhận dạng tàu biển
+|AIS;
+|- Truy vấn danh sách đối
+ltượng giám sát của hệ
+thống radar tầm trung.
+(Score-3000;
+- Truy vấn thông tin kiểu
+loại đối tượng;
+LTPy Vkribueg B6
+
+La h Ni tin quốc
+
+Tự tàn thông tỉn
+lhướng đối tượng;
+
+'- Truy vấn thông tin cự li,
+|phương vị, vận tốc đối
+
+lượng;
+
+|- Truy vấn thông tin quỹ
+'đạo đối tượng;
+
+- Truy vấn thông tin mức
+|độ xác định của đối tượng:
+IĐịch, ta, nước ngoài, chưa
+Xxác định...;
+
+- Tích hợp thông tỉn khác
+|từ các hệ thống giám sát;
+
+|- Đóng kết nối với hệ
+thống giám sát vùng trời;
+- Đóng kết nói với hệ
+|thống nhận dạng tàu biển
+|AIS;
+
+|- Đóng kết nói với hệ
+thống radar tầm trung.
+|Seore-3000.
+Tên hàng hóa dạng tàu biên AIS;
+
+- Thiết lập giao thức kết
+nối với hệ thống radar tẦm.
+trung Score-3000;
+
+- Tạo kết nối với hệ thống.
+giám sát vùng trời;
+
+- Tạo kết nói với hệ thống.
+nhận dạng tàu biển AIS;
+- Tạo kết nối với hệ thống.
+radar tầm trung Score-
+3000;
+
+- Truy vấn danh sách đối
+tượng giám sát của hệ
+thống giám sát vùng trời;
+- Truy vấn danh sách đối
+tượng giám sát của hệ
+thống nhận dạng tàu biển.
+AIS;
+
+- Truy vấn danh sách đối
+tượng giám sát của hệ
+thống radar tằm trung.
+Score-3000;
+
+- Truy vấn thông tin kiểu
+loại đối tượng;
+
+_Ông sản háng Ngx| Gí
+
+Tạ h Ni tin quốc
+
+ch đối
+- Truy vấn tế thông tin
+hướng đối tượng;
+- Truy vấn thông tin cự li,
+phương vị, vận tốc đối
+
+tượng;
+- Truy vấn thông tin quỹ
+đạo đối tượng;
+- Truy vấn thông tin mức
+độ xác định của đối tượng:
+Địch, ta, nước ngoài, chưa.
+xác định...;
+- Tích hợp thông tin khác
+từ các hệ thống giám sát;
+Đồng kết nối với hệ
+
+ng giám sát vùng trời;
+- Đóng kết nói với hệ
+thống nhận dạng tàu biển
+AIS;
+- Đóng kết nối với hệ
+thống radar tằm trung.
+Score-3000. “Tính năng kỹ thuật Xuất xứ 
+Nd...................AA Thành tiên Ghi
+chú Tên hànghóa| Tính năngkỹthuật | Xuấtxứ Đơn giá [Thành tiền| Ghi
+
+chú.
+
+ 
+
+ 
+
+TT | Gói thầu số 3-2019: Mua sắm các thư viện lõi hỗ trợ truyền thông trong| 7.760,000
+Imạng theo thời gian thực, xử lý và thể hiện dữ liệu 3D, lưu trữ và đồng bộ
+
+ 
+
+ 
+
+1 |Hhưviệnhỗ [Tính năng: ViệtNam] Bộ [ I [1960,000| 1.960000| Mục
+
+lrợ truyền - Thư viện cung cấp các. 13.1,
+
+thông trong  |hàm API cho phép gửi PUI
+
+Imạng theo Ínhận thông điệp giữa các thuyết
+
+thời gian thực. | máy tính trong hệ thống mình
+
+lúc nghiệp, đồng bộ thông
+
+lin (hời gian, khu vực, đối
+
+lrượng,...) theo thời gian
+
+thực;
+
+~ Chuẩn truyền thông phân
+
+tán thời gian thực: Chuẩn
+
+HLA;
+
+~ Cho phép đồng bộ thời
+
+lgian thực với hàng nghìn
+
+đối tượng,
+
+- Hỗ trợ nền tảng NET
+
+Framework;
+
+- Chạy trên hệ điều hành
+
+Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+
+'TCVN 6909:2001;
+
+- Thư viện được cung cấp
+
+ldưới dạng thư viện hàm
+
+API, định dạng DLL;
+
+~ Sản phẩm gồm đĩa thư
+
+viện phần mềm và tài liệu
+
+.đặc tả kỹ thuật,
+
+- Tài liệu đặc tả kỹ thuật
+
+'được trình bày rõ rằng, có
+
+lcấu trúc, chỉ tiết đến từng.
+
+lhàm API.
+
+Các hàm/nhóm hàm API
+
+|hỗ rợ:
+
+- Khai báo, cập nhật nhóm
+nối;
+
+- Khai báo, cập nhật phiên
+
+làm việc;
+
+~ Khai báo và quản lý cầu
+
+(trúc thông điệp thời gian
+
+thực;
+
+~ Khai báo và quản lý cầu
+
+trúc thông tin mô tả đối
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tượng;
+- Khai báo và quản lý
+IH Thư viện hồ
+trợ truyền
+thông trong
+
+thời gian thực Gói thâu sô 3-2019: Mua săm các thư viện lõi hồ trợ truyền thông trong
+mạng theo thời gian thực, xử lý và thể hiện dữ liệu 3D, lưu trữ và đồng bộ
+dữ liệu Tên hàng hóa| Tính năng kỹ thuật | Xuấtxứ | ĐVT | SL | Đơn giá 
+Tính năng:
+- Thư viện cung cấp các
+hàm API cho phép gửi
+nhận thông điệp giữa các
+máy tính trong hệ thống,
+tác nghiệp, đồng bộ thông
+tin (thời gian, khu vực, đối
+tượng,...) theo thời gian
+thực;
+- Chuẩn truyền thông phân
+tán thời gian thực: Chuẩn
+HLA;
+- Cho phép đồng bộ thời
+gian thực với hàng nghìn
+đối tượng;
+- Hỗ trợ nền tảng NET
+Framework;
+- Chạy trên hệ điều hành
+Windows 7/8/10;
+- Xử lý dữ liệu Unicode
+TCVN 6909:2001;
+- Thư viện được cung cấp
+dưới dạng thư viện hàm.
+API, định dạng DLL;
+- Sản phẩm gồm đĩa thư
+viện phần mềm và tài liệu
+đặc tả kỹ thuật,
+- Tài liệu đặc tả kỹ thuật
+được trình bày rõ rằng, có
+cấu trúc, chỉ tiết đến từng,
+hàm API.
+Các hàm/nhóm hàm API
+hỗ trợ:
+- Khai báo, cập nhật nhóm
+kết nối;
+- Khai báo, cập nhật phiên
+làm việc;
+- Khai báo và quản lý cấu
+trúc thông điệp thời gian
+thực;
+
+- Khai báo và quản lý cấu
+c. mg tin mô tả đối
+
+Đ báo sổ: quản lý Việt Nam. Bộ 1.260,000 
+7.760,000 Thành tiên 1,960,000 Mục
+Ti,
+PLI 
+Ghi
+chú Tên hàng hóa
+
+"Tính năng kỹ thuật
+
+Xuất xứ
+
+ĐVT
+
+§L
+
+Đơn giá
+
+Thành điền] Ghi
+chú.
+
+ 
+
+thuộc tính đối tượng;
+
+- Thiết lập giao thức kết
+truyền thông trong mạng;
+~ Khởi tạo và quản lý
+nhóm kết nối;
+
+-- Khởi tạo và quản lý.
+[phiên làm việc;
+
+- Khởi tạo và quản lý.
+thành viên;
+
+- Đăng ký, hủy bỏ thành
+viên liên kết với nhóm kết
+nối, phiên làm việc;
+
+~ Tạo mới thông điệp thời
+gian thực;
+
+- Gửi thông điệp theo
+phương thức quảng bá;
+
+- Gửi thông điệp theo
+|phương thức gửi riêng;
+
+- Nhận thông điệp thời
+gian thực;
+
+- Phân quyền sở hữu đối
+tượng đồng bộ;
+
+- Phân quyển quản lý
+thuộc tính đối tượng đồng,
+bộ;
+
+'- Đồng bộ thông tin đối
+|tượng thời gian thực.
+
+ 
+
+ 
+
+ 
+
+'Thư viện h
+trợ xử lý, hiển
+thị và thể hiện
+dữ liệu sa bàn
+số 3D
+
+Tĩnh năng:
+'- Thư viện cung cắp các
+hàm API hỗ trợ việc xử lý
+'và thể hiện dữ liệu nền địa.
+hình, địa vật, mô hình 3D,
+lớp thông tỉn theo tỷ lệ
+hiền thị, mức độ phón;
+to/thu nhỏ, góc xoay,
+
+Inhìn và tích hợp thê hiện
+|thông tin địa lý biển đảo,
+thông tin đối tượng trên sa
+lbàn số 3D;
+
+- Hỗ trợ nên tảng .NET
+'Framework;
+
+- Chạy trên hệ điều hành
+[Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+[TCVN 6909:2001;
+
+|- Thư viện được cung cấp.
+|dưới dạng thư viện hàm
+
+ 
+
+LAPI, định dạng DLL;
+
+ 
+
+Việt Nam
+
+ 
+
+ 
+
+ 
+
+3.150,0001
+
+ 
+
+3.150,000J Mục
+134,
+PLI
+
+thuyết
+mình
+Thư viện hỗ,
+trợ xử lý, hiển
+thị và thể hiện
+dữ liệu sa bàn
+số 3D Tên hàng hóa Tính năng:
+- Thư viện cung cấp các
+hàm API hỗ trợ việc xử lý
+và thể hiện dữ liệu nền địa
+hình, địa vật, mô hình 3D,
+lớp thông tỉn theo tỷ lệ
+hiển thị, mức độ phóng
+to/thu nhỏ, góc xoay,
+nhìn và tích hợp thê hiện
+thông tin địa lý biển đảo,
+thông tin đối tượng trên sa.
+bàn số 3D;
+
+- Hỗ trợ nền tảng .NET
+Framework;
+
+- Chạy trên hệ điều hành
+Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+TCVN 6909:2001;
+
+- Thư viện được cung cấp
+dưới dạng thư viện hàm
+API, định đạng DLI thuộc tính đôi tượng;
+
+- Thiết lập giao thức kết
+truyền thông trong mạng;
+- Khởi tạo và quản lý
+nhóm kết nối;
+
+- Khởi tạo và quản lý
+phiên làm việc;
+
+- Khởi tạo và quản lý
+thành viên;
+
+- Đăng ký, hủy bỏ thành
+viên liên kết với nhóm kết
+nối, phiên làm việc;
+
+- Tạo mới thông điệp thời
+gian thực;
+
+- Gửi thông điệp theo.
+phương thức quảng bá;
+
+- Gửi thông điệp theo
+phương thức gửi riêng;
+
+- Nhận thông điệp thời
+gian thực;
+
+- Phân quyền sở hữu đối
+tượng đồng bộ;
+
+- Phân quyền quản lý
+thuộc tính đối tượng đồng
+bộ;
+
+- Đồng bộ thông tin đối
+tượng thời gian thực. 
+“Tính năng kỹ thuật Việt Nam Xuất xứ 3.150,000 
+Đơn giá 3.150,000 Thành tiên Mục
+134,
+PLI
+thuyết
+mình 
+Ghi
+chú Tên hàng hóa| Tính năng kỹ thuật | Xuấtxứ | ĐVT | SL [ Đơn giá |Thànhtiền| Ghi
+chú
+- Sản phẩm gồm đĩa thư.
+viện phần mắm và liệu
+đặc tả kỹ thuật;
+- Tài liệu đặc tả kỹ thuật
+dđược trình bày rõ rằng, có
+
+ 
+
+lcấu trúc, chỉ tiết đến từng
+lhàm API.
+
+(Các hàm/nhóm hàm API
+|hỗ trợ:
+
+|- Đọc, xử lý dữ liệu nền
+.địa hình trên sa bàn số;
+
+~ Thể hiện nền địa hình.
+lên sa bàn số;
+
+~ Đọc, xử lý dữ liệu ảnh
+|phủ trên sa bàn số;
+
+|- Thể hiện ảnh phủ trên sa
+lbàn số;
+
+|- Đọc, xử lý dữ liệu nền.
+(địa vật trên sa bàn số;
+
+~ Thể hiện nền địa vật trên
+sa bàn số;
+
+- Đọc, xử lý dữ liệu kí
+hiệu 2D trên sa bản số;
+
+- Thể hiện kí hiệu 2D trên
+sa bản số;
+
+- Đọc, xử lý dữ liệu mô
+lhình đối tượng 3D trên sa
+lbàn số;
+
+-- Thể hiện mô hình 3D đối
+ltượng tác chiến trên sa
+lbàn số;
+
+'~ Tính toán tỷ lệ và thể
+lhiện các đối tượng theo tỷ
+llệ hiển thị của sa bàn số;
+'- Tính toán tỷ lệ và thể
+lhiện các đối tượng theo
+'mức độ phóng to/thu nhỏ
+lên sa bàn số;
+
+~ Tính toán tỷ lệ và thể
+hiện các đối tượng theo
+góc xoay trên trên sa bàn
+
+- Tính toán tỷ lệ và thể
+hiện các đối tượng theo.
+tầm nhìn trên sa bàn số,
+|- Tích hợp hiển thị thông.
+lún địa lý biển đảo;
+
+~ Tích hợp hiển thị thông
+In đối tượng;
+
+- Tích hợp hiển thị thông
+Tên hàng hóa Tính năng kỹ thuật - Sản phẩm gồm đĩa thư
+viện phần mềm và tài liệu
+đặc tả kỹ thuật;
+
+- Tài liệu đặc tả kỹ thuật
+được trình bày rõ rằng, có
+cấu trúc, chỉ tiết đến từng,
+hàm API.
+
+Các hàm/nhóm hàm API
+hỗ trợ:
+
+- Đọc, xử lý dữ liệu nền
+địa hình trên sa bàn số;,
+
+- Thể hiện nền địa hình
+trên sa bàn số;
+
+- Đọc, xử lý dữ liệu ảnh
+phủ trên sa bản số;
+
+- Thể hiện ảnh phủ trên sa
+bàn số;
+
+- Đọc, xử lý dữ liệu nền
+địa vật trên sa bàn số;
+
+- Thể hiện nền địa vật trên
+sa bản số;
+
+- Đọc, xử lý dữ liệu kí
+hiệu 2D trên sa bàn số;
+
+- Thể hiện kí hiệu 2D trên
+sa bàn số;
+
+- Đọc, xử lý dữ liệu mô
+hình đối tượng 3D trên sa
+bàn số;
+
+- Thể hiện mô hình 3D đối
+tượng tác chiến trên sa
+bàn số;
+
+~ Tính toán tỷ lệ và thể
+hiện các đối tượng theo tỷ
+lệ hiển thị của sa bàn số;
+- Tính toán tỷ lệ và thể
+hiện các đối tượng theo.
+mức độ phóng to/thu nhỏ
+trên sa bàn số;
+
+~ Tính toán tỷ lệ và thể
+hiện các đối tượng theo.
+góc xoay trên trên sa bàn
+
+~ Tính toán tỷ lệ và thể
+hiện các đối tượng theo.
+tầm nhìn trên sa bàn số;
+~ Tích hợp hiển thị thông
+tin địa lý biển đảo;
+
+~ Tích hợp hiển thị thông
+tin đối tượng;
+
+~ Tích hợp hiển thị thông Xuất xứ 
+Đơn giá Thành tiên Ghi
+chú đối tượng, địa hình, địa
+lvật;
+
+- Hỗ trợ nền tảng .NET
+|Framework;
+
+|- Chạy trên hệ điều hành.
+Windows 7/8/10;
+- Xử lý dữ liệu Unicode
+'TCVN 6909:2001;
+
+- Thư viện được cung cấp
+'dưới dạng thư viện hàm
+|API, định dạng DLL;
+
+|- Sản phẩm gồm đĩa thư
+'viện phần mềm và tài liệu
+'đặc tả kỹ thuật,
+
+- Tài liệu đặc tả kỹ thuật
+'được trình bày rõ ràng, có
+lcấu trúc, chỉ tiết đến từng
+lhàm API.
+
+| Các hàm/nhóm hàm API
+|hỗ trợ:
+
+~ Thiết lập mô hình lưu trữ
+(dữ liệu;
+
+~ Xử lý, lưu trữ dữ liệu
+bản đồ số;
+
+~ Xử lý, lưu trữ dữ liệu địa
+lý biển đảo;
+
+~ Xử lý, lưu trữ dữ liệu hải
+đồ số;
+
+- Xử lý, lưu trữ dữ liệu đối
+
+ 
+
+|tượng;
+
+~ Xử lý, lưu trữ dữ liệu
+nên địa hình;
+
+~ Xử lý, lưu trữ dữ liệu
+nền địa vật;
+
+- Xử lý lưu trữ dữ liệu các
+lớp thông tin;
+
+- Xử lý, lưu trữ dữ liệu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tên hànghóaj Tính năngkỹthuật [ Xuấtxứ | ĐVT | SL | Đơngiá |Thànhtiền| Ghỉ
+†—— chú
+tin khác;
+- Thiết lập trình chiếu cho
+lcác đối tượng;
+- Thiết lập kịch bản báo.
+lcáo trên sa bàn số.
+(Thư viện hỗ _ |T/nw năng: ViệNam| Bộ |ƑT [2.650,000| 2.650,000] Mục
+lrợ xử lý, lưu__|- Thư viện cung cấp các 13.4,
+trữ và đồng bộ |hàm API hỗ trợ xử lý, lưu PLI
+dữ liệu trữ và đồng bộ dữ liệu bản thuyết
+'đồ, địa lý biển đảo, hải đồ, minh
+
+ 
+
+ 
+
+ 
+
+ỉ
+ỳ
+Ỉ
+(
+í
+Ề
+Thư viện hỗ
+trợ xử lý, lưu
+trữ và đồng bộ
+dữ liệu Tên hàng hóa Tính năng:
+
+- Thư viện cung cắp các
+hàm API hỗ trợ xử lý, lưu
+trữ và đồng bộ dữ liệu bản
+đồ, địa lý biển đảo, hải đồ,
+đối tượng, địa hình, địa
+vật,
+
+- Hỗ trợ nền tảng .NET
+Framework;
+
+- Chạy trên hệ điều hành.
+Windows 7/8/10;
+
+- Xử lý dữ liệu Unicode
+TCVN 6909:2001;
+
+- Thư viện được cung cấp
+dưới dạng thư viện hàm.
+API, định dạng DLL;
+
+- Sản phẩm gồm đĩa thư
+viện phần mềm và tài liệu
+đặc tả kỹ thuật;
+
+- Tài liệu đặc tả kỹ thuật
+được trình bày rõ rằng, có
+cấu trúc, chỉ tiết đến từng
+hàm API.
+
+Các hàm/nhóm hàm API
+hỗ trợ:
+
+- Thiết lập mô hình lưu trữ
+dữ liệu;
+
+- Xử lý, lưu trữ dữ liệu
+bản đồ số;
+
+- Xử lý, lưu trữ dữ liệu địa
+lý biển đảo;
+
+- Xử lý, lưu trữ đữ liệu hải
+đồ số;
+
+- Xử lý, lưu trữ dữ liệu đối
+
+ 
+
+tượng
+Xử lý, lưu trữ đữ liệu.
+
+nền địa hình;
+
+- Xử lý, lưu trữ dữ liệu
+
+nền địa vật;
+
+- Xử lý lưu trữ dữ liệu các
+
+lớp thông tin;
+
+- Xử lý, lưu trữ dữ liệu
+
+khác; tin khác;
+~ Thiết lập trình chiếu cho
+các đối tượng;
+
+- Thiết lập kịch bản báo.
+cặp tiên ss bàn số. 
+Tính năng kỹ thuật 'Việt Nam Xuất xứ 2.650,000 
+<< Đơn giá 2.650,000 Thành tiên 
+Mục
+
+134,
+
+PLI
+thuyết
+mình Ghỉ TT | Tên hàng hóa
+
+"Tính năng kỹ thuật
+
+Xuất xứ
+
+ĐVT | SL ] Đơn giá
+
+ 
+
+san bộ đữ liệu bản đồ
+
+- Đồng bộ dữ liệu dữ liệu.
+địa lý biển đảo;
+
+- Đồng bộ dữ liệu dữ liệu.
+hải đồ số,
+
+- Đằng bộ dữ liệu đối
+tượng;
+
+- Đồng bộ dữ liệu nền địa
+hình;
+
+- Đồng bộ dữ liệu nền địa
+Vật,
+
+- Đồng bộ dữ liệu các lớp.
+|thông tin;
+
+- Đồng bộ dữ liệu khác.
+
+ 
+
+ 
+
+TV | Gói thầu số 4-2019: Mua sắm dữ liệu ảnh bay chụp.
+
+DEM Khu vị
+
+Cam Ranh
+
+và mô hình số độ cao
+
+ 
+
+1 [Dữ liệu ảnh
+|phủ địa hình
+|và mô hình số.
+độ cao DEM
+Khu vực Cam
+Ranh
+
+ 
+
+- Mỗi mảnh có kích thước
+1 km x 1 km (1 km?) gồm:
+
++ Ảnh phủ địa hình mức
+17 đi lệ 1:5.000);
+
++ Mô hình số độ cao
+DEM 15m.
+~ Nằm trong khu vực có
+tọa độ:
+
++ Góc trên trái:
+109%04°59°"Đ,
+11959°51°°B;
+
++ Góc dưới phải:
+109°21"21°°Đ,
+11546'44'"B.
+
+- Mức chồng phủ:
+
++ Theo hướng bay: >=
+60%;
+
++ Giữa các đường bay:
+>=40%.
+
+- Thông tin
+
++ Thông tỉn vị trí: X, Y,
+độ cao máy ảnh.
+
++ Thông tin về hướng:
+'Omega, Phi, Kappa
+- Định dạng phù hợp với
+\phần mềm PhotoMesh
+
+ 
+
+Việt Nam
+
+Mảnh | 100| 20,0001
+
+ 
+
+ 
+
+V_ | Nội dung 5-2019: Mua sắm dữ liệu ảnh vệ tỉnh và mô hình số độ cao DEM.
+
+vực Biển Đôn;
+
+'phạm vi Thế giới, Việt Nam, Phú Yên đến Vũng Tàu, một số đảo thuộc khu
+
+7.920,0001
+
+ 
+
+ 
+
+1 |Dữliệu ảnh
+phủ địa hình
+lvà mô hình số
+
+ 
+
+- Mỗi mảnh có kích thước.
+|4.444 km x 4.444 km
+
+ 
+
+|&khoảng 19,75 triệu km2)
+
+ 
+
+Việt Nam
+
+Mảnh [36] 16/250
+
+ 
+
+ 
+
+585,000
+
+ 
+
+ 
+
+Mục
+141,
+PLI
+Dữ liệu ảnh |- Mỗi mảnh có kích thước.
+phủ địa hình |4.444 km x 4.444 km
+và mô hình số |(khoảng 19,75 triệu km2)
+
+36 | 16,250
+
+ 
+
+'Việt Nam | Mảnh Nội dung 5-20
+phạm vỉ Thế g
+vực Biển Đông Dữ liệu ảnh
+phủ địa hình
+và mô hình số.
+độ cao DEM
+Khu vực Cam. Gói thâu số 4-
+DEM Khu vực 
+Tên hàng hóa 19: Mua săm dữ liệu ảnh \
+ới, Việt Nam, Phú Yên để - Mỗi mảnh có kích thước
+1 km x 1 km (1 km?) gồm:
+
++ Ảnh phủ địa hình mức
+17 (ti lệ 1:5.000);
+
++ Mô hình số độ cao
+DEM 15m.
+- Nằm trong khu vực có
+tọa độ:
+
++ Góc trên trái:
+109904°59°°Đ,
+11959°51"
+
++ Góc dưới phải:
+109°21°21”*Đ,
+11946°44''B.
+- Mức chồng phủ:
+
++ Theo hướng bay: >=
+60%;
+
++ Giữa các đường bay:
+>= 40%.
+- Thông tin ảnh:
+
++ Thông tỉn vị trí: X, Y,
+độ cao máy ảnh.
+
++ Thông tin về hướng:
+Omega, Phi, Kappa.
+- Định dạng phù hợp với
+phần mềm PhotoMesh t019: Mua săm dữ liệu ản
+Cam Ranh 
+sp nể bộ đữ liệu bản đô
+
+- Đồng n dữ liệu dữ liệu.
+
+địa lý biển đảo;
+
+- Đồng bộ dữ liệu dữ liệu
+hải đồ số;
+
+cản bộ dữ liệu đối
+- -bùn bộ dữ liệu nền địa
+
+- "By bộ dữ liệu nền địa
+vật,
+
+- Đồng bộ dữ liệu các lớp
+thông tin;
+
+- Đồng bộ dữ liệu khác. “Tính năng kỹ thuật ệ tỉnh và n
+¡ Vũng Tài 'Việt Nam 
+¡ bay chụp Xuất xứ ô hình s
+„ một số và mô h 
+) độ ‹
+đão ( nh sí ao DEM
+huộc khu 20,000 
+độ cao Đơn giá 585,000 7.920,000 
+2.000, 2,000,000 Thành tiên Ghi 
+Mục
+141,
+PLI Mục
+
+14.1,
+
+PLI
+thuyết
+minh TT | Tên hàng hóa
+
+  
+
+"Tĩnh năng kỹ thuật
+
+Xuất xứ
+
+ĐVT
+
+§L
+
+ 
+
+  
+
+7 (tỉ lệ 1:5.000.000) hoặc.
+cao hơn;
+
++ Mô hình số độ cao.
+DEM 250m.
+- Định đạng phù hợp với
+sắc phần mảm
+'CityBuilder &
+'TerraBuilder,
+TerraExplorer Pro và
+SkylineGlobe. Server
+
+ 
+
+ 
+
+~ Mỗi mành có kích thước.
+555 km x 555 km (khoảng,
+308 nghìn km?) gồm:
+
++ Ảnh phủ địa hình mức
+9 (ï lệ 1:1.000.000) hoặc
+leao hơn;
+
++ Mô hình số độ cao
+DEM 90m.
+~ Định dạng phù hợp với
+lcác phần mí
+CityBuilder &
+[TerraBuilder,
+[TerraExplorer Pro và
+SkylineGlobe Server.
+
+"Việt Nam.
+
+Mảnh
+
+225,000
+
+1.350,000
+
+  
+ 
+
+14.1,
+PLI
+thuyết
+minh
+
+ 
+
+- Mỗi mảnh có kích thước
+111 km x 111 km (khoảng
+
+ 
+
+12,3 nghìn km?) gồm:
+
++ Ảnh phủ địa hình mức.
+13 (ti lệ 1:50.000) hoặc
+cao hơn;
+
++ Mô hình số độ cao
+IDEM 30m.
+~ Định dạng phù hợp với
+các phần mềm
+(CityBuilder &
+'TerraBuilder,
+'TerraExplorer Pro và
+'SkylineGlobe Server.
+
+Việt Nam
+
+Mảnh
+
+ 
+
+ 
+
+343,500
+
+3.435.000.
+
+Mục
+14.1,
+PLI
+thuyết
+minh
+
+ 
+
+ 
+
+ 
+
+- Mỗi đảo gồm:
+
++ Ảnh phủ địa hình mức.
+17 ( lệ 1:5.000) hoặc cao
+hơn;
+
++ Mô hình số độ cao
+'DEM 15m.
+
+- Định dạng phù hợp với
+lcác phần mềm.
+|CityBuilder &
+
+ 
+
+ 
+
+Việt Nam
+
+ 
+
+Đảo
+
+20
+
+85,000
+
+ 
+
+1.700,0001
+
+ 
+
+Mục
+
+141,
+
+PLI
+thuyết
+mình
+Dữ liệu ảnh
+phủ địa hình
+và mô hình số
+độ cao DEM.
+Đảo ta thuộc.
+khu vực quần
+đảo Trường Sa Dữ liệu ảnh
+phủ địa hình
+và mô hình số
+độ cao DEM
+Khu vực từ
+Phú Yên đến
+Vũng Tàu Dữ liệu ảnh
+phủ địa hình
+và mô hình số
+độ cao DEM
+Khu vực Việt
+Nam độ cao DEM
+Phạm vi Thế
+giới 
+Tên hàng hóa ~ Mỗi mảnh có kích thước.
+555 km x 555 km (khoảng
+308 nghìn km”) gồm:
+
++ Ảnh phủ địa hình mức
+9 (1 lệ 1:1.000.000) hoặc
+
+cao hơn;
+
++ Mô hình số độ cao
+DEM 90m.
+- Định dạng phù hợp với
+các phần mềm.
+CityBuilder &
+TerraBuilder,
+TerraExplorer Pro và
+SkvlineGlobe Server - Môi đảo gôm:
++ Ảnh phủ địa hình mức.
+17 ( lệ 1:5.000) hoặc cao
+
+hơn;
+
++ Mô hình số độ cao
+DEM I5m.
+- Định dạng phù hợp với
+các phần mềm.
+CityBuilder & - Môi mảnh có kích thước
+111 km x 111 km (khoảng
+12,3 nghìn km?) gồm:
+
++ Ảnh phủ địa hình mức.
+13 (ti lệ 1:50.000) hoặc
+cao hơn;
+
++ Mô hình số độ cao
+DEM 30m.
+
+- Định dạng phù hợp với
+các phần mềm.
+CityBuilder &
+TerraBuilder,
+TerraExplorer Pro và
+SkylineGlobe Server 
+gồm:
+
++ Ảnh phủ địa hình mức
+7 (ti lệ 1:5.000.000) hoặc
+cao hơn;
+
++ Mô hình số độ cao
+DEM 250m.
+- Định đạng phù hợp với
+các phần mềm
+CityBuilder &
+TerraBuilder,
+TerraExplorer Pro và
+ni ixiease Tính năng kỹ thuật - 'Việt Nam 'Việt Nam 
+"Việt Nam Xuất xứ Đảo 10 
+25,000 85,000 343,500 Đơn giá 
+3.435.000 1,350,000 1,700,000 Thành tiên 
+141,
+PLI
+thuyết
+mình Mục
+14.1,
+PLI
+thuyết
+minh Mục
+
+14.1,
+
+PLI
+thuyết
+minh thuyệt
+minh 
+Ghỉ
+chú Tên hàng hóa
+
+"Tính năng kỹ thuật
+
+'TerraBuilder,
+'TerraExplorer Pro và
+lineGlobe Server.
+
+Xuất xứ
+
+ĐVT
+
+SL
+
+Đơn giá
+
+Thành tiến] Ghi
+chú
+
+ 
+
+ 
+
+ 
+
+'Dữ liệu ảnh
+phủ địa hình
+và mô hình số
+độ cao DEM
+'Đảo nước.
+ngoài thuộc.
+khu vực quần
+đảo Trường Sa.
+
+ 
+
+- Mỗi đảo gồm:
+
++ Ảnh phủ địa hình mức.
+14 ( lệ 1:25.000) hoặc
+cao hơn;
+
++ Mô hình số độ cao.
+'DEM 30m.
+
+- Định dạng phù hợp với
+các phần mềm
+(CityBuilder &
+'TerraBuilder,
+'TerraExplorer Pro và
+'SkylineGlobe Server
+
+Việt Nam
+
+10
+
+85,000
+
+850,000| Mục
+
+ 
+
+VỊ
+
+Gói thầu số 6-2019: Mua sắm dữ liệu địa hình 3D.
+
+ 
+
+Dữ liệu sa bàn Ï-
+số 3D Khu
+vực Cam Ranh
+
+- Mỗi mành có kích thước.
+1 km x I km (1 km2)
+~ Các lớp thông tin gồm:
+
++ Lớp địa danh
+
++ Lớp giao thông,
+
++ Lớp thủy hệ
+
++ Lớp thảm thực vật
+
++ Lớp khu vực dân cư
+
++ Lớp khu vực quân sự
+~ Các lớp mô hình địa vật
+gồm:
+
++ Lớp mô hình cây cối
+
++ Lớp mô hình nhà cửa
+
++ Lớp mô hình cầu
+cảng, cầu tàu
+
++ Lớp mô hình công
+trình quân sự
+
++ Lớp mô hình khác.
+- Tương thích với địa hình
+nền phủ ảnh mức 17 (tỉ lệ
+1:5.000) và mô hình số độ.
+cao DEM 15m.
+- Định dạng phù hợp với
+phần mềm TerraExplorer
+'Pro và SkylineGlobe
+(Server
+
+Việt Nam.
+
+Mảnh
+
+ 
+
+100
+
+58.0001
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dữ liệu sa bàn
+số 3D Đảo ta
+thuộc khu vực
+quần đảo.
+'Trường Sa
+
+ 
+
+- Các lớp thông tỉn gồm:
++ Lớp địa danh
++ Lớp giao thông,
++ Lớp thủy hệ
++ Lớp thảm thực vật
+- Các lớp mô hình địa vật
+lgồm:
++ Lớp mô hình cây cối
+
+ 
+
+Việt Nam
+
+ 
+
+Đảo
+
+ 
+
+20
+
+ 
+
+60,0001
+
+ 
+
+1:200,000J Mục
+142,
+PLI
+thuyết
+minh
+
+ 
+
+ 
+
+10
+Dữ liệu sa bàn
+số 3D Đảo ta
+thuộc khu vực
+quần đảo.
+Trường Sa Dữ liệu sa bàn
+số 3D Khu
+vực Cam Ranh Gói thâu số 6- Dữ liệu ảnh
+phủ địa hình
+và mô hình số
+độ cao DEM
+Đảo nước
+ngoài thuộc.
+khu vực quần
+đảo Trường Sa 
+Tên hàng hóa - Các lớp thông
++ Lớp địa danh
++ Lớp giao thông,
++ Lớp thủy hệ
++ Lớp thảm thực vật
+
+- Các lớp mô hình địa vật
+m:
++ Lớp mô hình cây cối
+
+ 
+
+gôm: ~ Môi mảnh có kích thước
+1 km x Ï km (1 km2)
+- Các lớp thông tin gồm:
+
++ Lớp địa danh
+
++ Lớp giao thông
+
++ Lớp thủy hệ
+
++ Lớp thảm thực vật
+
++ Lớp khu vực dân cư
+
++ Lớp khu vực quân sự:
+- Các lớp mô hình địa vật
+gồm:
+
++ Lớp mô hình cây cối
+
++ Lớp mô hình nhà cửa
+
++ Lớp mô hình cầu.
+cảng, cầu tàu
+
++ Lớp mô hình công.
+trình quân sự
+
++ Lớp mô hình khác
+- Tương thích với địa hình
+nền phủ ảnh mức 17 (tỉ lệ
+1:5.000) và mô hình số độ.
+cao DEM 15m
+- Định dạng phù hợp với
+phần mềm TerraExplorer
+Pro và SkylineGlobe
+Server 019: Mua săm dữ liệu đị: 
+~ Mỗi đảo gôm:
++ Ảnh phủ địa hình mức.
+14 ( lệ 1:25.000) hoặc
+cao hơn;
++ Mô hình số độ cao.
+DEM 30m.
+- Định dạng phù hợp với
+các phần mềm
+CityBuilder &
+TerraBuilder,
+TerraExplorer Pro và.
+SkylineGlobe Server TerraBuilder,
+TerraExplorer Pro và
+Skviinetlinbe Sarver “Tính năng kỹ thuật Việt Nam 
+'Việt Nam 'Việt
+
+Nam Xuất xứ. 20 
+10 60,000 58.000 5,000 
+1.200,000 800,000 7.600,000 0, 
+Thành tiên Mục
+14.2,
+PLI
+thuyết
+mình Mục
+
+142,
+
+PLI
+thuyết
+minh thuyết 
+Ghi
+chú "Tên hàng hóa
+
+Tính năng kỹ thuật
+
+Xuất xứ
+
+ĐVT
+
+§L
+
+Đơn giá
+
+Thành tiền |
+
+Ghi
+chú
+
+ 
+
++ Lớp mô hình nhà cửa
+
++ Lớp mô hình cầu
+lcảng, cầu tàu
+
++ Lớp mô hình công.
+lrình quân sự
+
++ Lớp mô hình khác
+- Tương thích với địa hình
+nền phủ ảnh mức 17 (tỉ lệ
+1:5.000) và mô hình số độ
+cao DEM 15m
+- Định dạng phù hợp với
+phần mềm TerraExplorer
+Pro và SkylineGlobe
+Server
+
+ 
+
+ 
+
+Dữ liệu sa bàn
+số 3D Đảo
+Inước ngoài
+thuộc khu vực.
+(quân đảo
+'Trường Sa
+
+- Các lớp thông tin gồm:
++ Lớp địa danh
++ Lớp giao thông
++ Lớp thủy hệ
++ Lớp thảm thực vật
+- Các lớp mô hình địa vật
+ôm:
++ Lớp mô hình cây cối
++ Lớp mô hình nhà cửa
++ Lớp mô hình cầu
+cảng, cầu tàu
++ Lớp mô hình công,
+trình quân sự
++ Lớp mô hình khác
+- Tương thích với địa hình
+nền phủ ảnh mức 14 (tỉ lệ
+1:25.000) và mô hình số.
+,độ cao DEM 30m.
+|- Định dạng phù hợp với
+|phần mềm TerraExplorer
+Pro và SkylineGlobe
+Server
+
+Việt Nam
+
+Đảo
+
+60,0001
+
+600,000
+
+Mục
+142,
+PLI
+thuyết
+mình
+
+ 
+
+VII
+
+Gói thầu số 7-2019: Mua sắm bản quyền
+
+bản đị
+
+cho máy trạm vận hành ứng dụng
+
+2.425,000|
+
+ 
+
+ 
+
+ 
+
+|Bản quyền cho
+Imáy trạm vận
+hành ứng dụng|
+lbản đồ s
+
+ 
+
+- Tên bản quyên:
+ArcEngine Runtime.
+license/ArcGIS Runtime
+lieense
+
+- Phiên bản: Phù hợp với
+Iphiên bản của Phần mềm
+|công cụ phục vụ phát triển
+ứng dụng bản đồ số và
+cung cắp dịch vụ bản đồ.
+số trên máy chủ (ArcGIS
+'Developer Subscription
+
+ 
+
+|Professional 10.6.1)
+
+ESRI
+
+ 
+
+ 
+
+Tieense
+pack
+
+ 
+
+$
+
+ 
+
+485,000
+
+2.425,0001
+
+ 
+
+ 
+
+Mục
+1212
+„PLI
+thuyết
+mình
+
+ 
+
+ 
+
+l6 Ùi dụ n
+L đ@@ Tên hàng hóa Dữ liệu sa bàn
+số 3D Đảo
+nước ngoài
+thuộc khu vực
+quần đảo
+Trường Sa Đản quy
+
+ên cho
+
+Tả trạm vận
+
+hận dà ghế 
+Tính năng kỹ thuật + Lớp mô hình nhà cửa
+
++ Lớp mô hình cầu
+cảng, cầu tàu
+
++ Lớp mô hình công.
+trình quân sự
+
++ Lớp mô hình khác
+- Tương thích với địa hình
+nền phủ ảnh mức 17 (tỉ lệ
+1:5.000) và mô hình số độ
+cao DEM 15m
+- Định dạng phù hợp với
+phần mềm TerraExplorer
+Pro và SkylineGlobe
+Suyynn 019: Mua săm bản quyên - Các lớp thông tin gôm:
+
++ Lớp địa danh
+
++ Lớp giao thông
+
++ Lớp thủy hệ
+
++ Lớp thảm thực vật
+- Các lớp mô hình địa vật
+gồm:
+
++ Lớp mô hình cây cối
+
++ Lớp mô hình nhà cửa
+
++ Lớp mô hình cầu
+cảng, cầu tàu
+
++ Lớp mô hình công,
+trình quân sự
+
++ Lớp mô hình khác
+- Tương thích với địa hình
+nền phủ ảnh mức 14 (tỉ lệ
+1:25.000) và mô hình số.
+độ cao DEM 30m
+- Định dạng phù hợp với
+phần mềm TerraExplorer
+Pro và SkylineGlobe
+Server 
+- Tên bản quyền:
+ArcEngine Runtime
+license/ArcGIS Runtime
+license
+
+- Phiên bản: Phù hợp với
+phiên bản của Phần mềm
+công cụ phục vụ phát triển
+ứng dụng bản đồ số và
+cung cắp dịch vụ bản đồ
+số trên máy chủ (ArcGIS
+Developer Subscription
+Professional 10.6.1) Xuất xứ cho máy tr Việt Nam 
+ESRI ạm vận | Đảo lành 
+10 Đơn giá mg dụng 485,000 
+Thành tiên 2.425.000 0,( 2.425,000 
+Ghỉ
+chú Mục
+
+142,
+
+PLI
+thuyết
+minh Tên hàng hóa
+
+ 
+
+Tính năng kỹ thuật [ Xuấtxứ | ĐVT
+
+SL
+
+Đơn giá
+
+Thành tiền] Ghi |
+
+chú
+
+ 
+
+- Cung cấp dưới đạng gói
+
+ 
+
+š
+
+|bản quyền (license a
+ìn mềm
+
+'Gói thầu số 8-2019: Mua sắm phi
+
+hệ thống
+
+1.533,000|
+
+ 
+
+Hệ điểu hành|
+máy chủ
+Microsoft
+Windows
+Server
+
+- Phiên bản:
+'WinSvrSTDCore 2016
+SNGL OLP 16Lie NL
+'CoreLic hoặc mới hơn
+
+- Hình thức cấp phép:
+'Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: 1 máy, 16 lõi (core)
+máy chủ
+
+- Các tính năng chính:
+Hoạt động ôn định, tính
+sẵn sàng cao, khả năng
+bảo mật tiên tiến và hiệu
+quả, hỗ trợ không giới hạn
+các kết nối mạng riêng ảo,
+cho phép tạo đĩa dự phòng,
+với dung lượng linh hoạt,
+cung cấp tính năng ảo hóa
+và chuyển dịch máy ảo,
+cung cấp tính năng tránh.
+trùng lặp dữ liệu
+
+Microsoft
+
+76,250]
+
+610,000} Mục
+111,
+PLI
+thuyết
+mình
+
+ 
+
+ 
+
+Bản quyền cho|
+Imáy trạm truy
+lcập hệ điều
+hành máy chủi
+Microsoft
+Windows
+Server
+
+- Phiên bản: WinSvrCAL
+2016 SNGL OLP NI,
+UsrCAL hoặc mới hơn
+(phù hợp với phiên bản
+của Hệ điều hành máy chủ
+Microsoft Windows Server
+được lựa chọn)
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: 1 máy/1 license
+
+Microsoft
+
+license
+
+1,000
+
+44.000 Mục
+1"
+
+thuyết
+minh
+
+ 
+
+ 
+
+ 
+
+Hệ quản trị cơ|
+sở dữ liệu
+Microsoft
+SQL Server
+
+ 
+
+- Phiên bản: SQLSvrStd
+2016 SNGL OLP NL hoặc
+mới hơn
+- Hình thức cắp phép:
+Dưới dạng danh sách mã
+key bản quyền
+- Số máy tính cho phép cài
+đặt: 8 máy/1 bộ
+- Các tính năng chính:
+
++ Khả năng lưu trữ và
+quản trị cơ sở dữ liệu
+ldung lượng lớn với nhiều.
+
+Microsoft
+
+ 
+
+ 
+
+Bộ
+
+ 
+
+ 
+
+493,000
+
+ 
+
+493,000 Mục
+113,
+PLI
+thuyết
+mình
+
+ 
+
+ 
+
+12
+VI Hệ quản trị cơ
+sở dữ liệu
+Microsoft
+SQL Server Bản quyên cho
+máy trạm truy
+cập hệ điều
+hành máy chủ
+Microsoft
+Windows
+Server Hệ điêu hành
+máy chủ
+Microsoft
+Windows
+Server 
+Tên hàng hóa - Phiên bản: SQLSvrStd
+2016 SNGL OLP NL hoặc
+mới hơn
+- Hình thức cấp phép:
+Dưới dạng danh sách mã
+key bản quyền
+- Số máy tính cho phép cải
+đặt: 8 máy/1 bộ
+- Các tính năng chính:
+
++ Khả năng lưu trữ và
+quản trị cơ sở dữ liệu
+dụng lương lớn với nhiều. - Phiên bản: WinSvrCAL
+2016 SNGL OLP NL
+UsrCAL hoặc mới hơn.
+(phù hợp với phiên bản
+của /iệ điều hành máy chủ
+Microsofì Windows Server
+được lựa chọn)
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: l máy/1 license - Phiên bản:
+WinSvrSTDCore 2016
+SNGL OLP 16Lie NL
+CoreLic hoặc mới hơn
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: 1 máy, 16 lõi (core)
+máy chủ
+
+- Các tính năng chính:
+Hoạt động Ổn định, tính
+sẵn sàng cao, khả năng.
+bảo mật tiên tiến và hiệu
+quả, hỗ trợ không giới hạn
+các kết nối mạng riêng ảo,
+cho phép tạo đĩa dự phòng.
+với dung lượng linh hoạt,
+cung cắp tính năng ảo hóa.
+và chuyển dịch máy ảo,
+cung cấp tính năng tránh
+trùng lăp dữ liệu 
+019: Mua sắm phần mêm - Cung câp dưới dạng gói.
+bản quyền (license pack) “Tính năng kỹ thuật Microsoft 
+Microsoft Microsoft hệ thông Xuất xứ 
+Bộ license 493,000 1,000 
+76,250 Đơn giá 493,000 44,000 
+610,000 Thành tiên Mục
+
+113,
+
+PLI
+thuyết
+mình Mục
+112,
+PLI
+thuyết
+minh 
+Mục
+
+111,
+
+PLI
+thuyết
+mình Ghỉ
+chú FT
+
+"Tên hàng hóa
+
+"Tính năng kỹ thuật
+
+Xuất xứ
+
+ĐVT
+
+SLU
+
+Đơn giá
+
+Thành tiên
+
+Ghi
+chú.
+
+ 
+
+'định dạng dữ liệu
+
++ Khả năng mã hóa và
+lbảo mật dữ liệu trong
+|suốt, hiệu quả và mọi lúc
+lvới các kỹ thuật mã hóa
+tiên tiến
+
++ Tính sẵn sàng cao và
+khả năng khôi phục dữ
+liệu khi có sự cố
+
++ Hỗ trợ cân bằng tài
+(load balancing)
+
++ Có khả năng truy vấn
+dữ liệu tốc độ cao, độ trễ
+thấp
+
++ Cho phép cài đặt
+nhiều thê hiện (Instanee)
+trên cùng một máy chủ
+
++ Hỗ trợ nâng cấp phiên.
+bản dễ dàng với cơ sở dữ
+liệu phiên bản cũ hơn
+
++ Có khả năng truy vấn
+dữ liệu phân tán
+
+ 
+
+Bản quyển cho.
+[máy trạm truy
+|cập hệ quản trị
+lcơ sở dữ liệu|
+Microsoft
+SQL Server
+
+- Phiên bản: SQLCAL
+'2016 SNGL OLP NL
+UsrCAL hoặc mới hơn
+'(phù hợp với phiên bản
+lcủa Hệ quản trị cơ sở dữ
+liệu Microsoft SQL Server
+được lựa chọn)
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: 1 máy/1 lieense
+
+Microsoft
+
+license
+
+“
+
+7,000
+
+308,000]
+
+thuyết
+
+ 
+
+ 
+
+ 
+
+Hệ điểu hành
+máy trạm
+IMicrosoft
+[Windows
+
+- Phiên bản: WinPro 10
+SNGL OLP NL
+Legalization GetGenuine
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+Hđặt: 1 máy/1 license
+
+- Cho phép cài đặt và kích
+|hoạt nhiều lần trên 1 máy
+tính. Được phép hạ cấp
+xuống các phiên bản hị
+.điều hành máy trạm thấp.
+lhơn mà Microsoft còn hỗ
+
+ 
+
+trợ
+
+ 
+
+Microsoft
+
+Bộ
+
+ 
+
+ 
+
+ 
+
+6,500
+
+78,000.
+
+Mục
+1L4,
+EU}
+thuyết
+minh
+Bản quyên cho
+
+cơ sở dữ liệu
+Microsoft
+SQL Server Tên hàng hóa Hệ điêu hành
+máy trạm
+Microsoft
+Windows định dạng dữ liệu
+
++ Khả năng mã hóa và
+bảo mật dữ liệu trong
+suốt, hiệu quả và mọi lúc
+với các kỹ thuật mã hóa.
+tiên tiến
+
++ Tính sẵn sàng cao và
+khả năng khôi phục dữ
+liệu khi có sự cố
+
++ Hỗ trợ cân bằng tài
+(load balancing)
+
++ Có khả năng truy vấn.
+dữ liệu tốc độ cao, độ trễ
+thấp
+
++ Cho phép cài đặt
+nhiều thẻ hiện (Instance)
+trên cùng một máy chủ
+
++ Hỗ trợ nâng cấp phiên.
+bản dễ dàng với cơ sở dữ
+liệu phiên bản cũ hơn
+
++ Có khả năng truy vấn
+dữ liệu phân tán 
+Tính năng kỹ thuật - Phiên bản: WinPro 10
+SNGL OLP NL
+Legalization GetGenuine
+
+- Hình thức cắp phép:
+Dưới dạng mã key bản
+quyền
+
+- Số máy tính cho phép cài
+đặt: 1 máy/1 license
+
+- Cho phép cài đặt và kích
+hoạt nhiều lần trên 1 máy
+tính. Được phép hạ cấp.
+xuống các phiên bản hệ
+điều hành máy trạm thấp,
+hơn mà Microsoft còn hỗ
+trợ - Phiên bản: SQLCAL
+2016 SNGL OLP NL
+UsrCAL hoặc mới hơn
+(phù hợp với phiên bản
+của Hệ quản trị cơ sở dữ
+liệu Microsofì SQL Server
+được lựa chọn).
+
+- Hình thức cấp phép:
+Dưới dạng mã key bản
+
+quy
+- Số máy tính cho phép cải
+đặt: I máy/1 license Microsoft 
+Xuất xứ Microsoft license Bộ 
+12 7,000 Đơn giá 6,500 
+Thành tiên 308,000 78,000 Ghỉ
+chú 
+Mục
+11.5,
+PLI
+thuyết
+mình TT [ Tên hàng hóa
+
+Tính năng kỹ thuật
+
+Xuất xứ
+
+ 
+
+ 
+
+thống,
+1 [Máy chủ dịch [Cấu hình tương đương EU/G77
+vụ loại 1 |hoặc cao hơn: Asia
+
+-- CPU: 2 x Intel Xeon 10C
+12.40 GHz;
+
+- HDD: 6 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+lhot-plug, 2.5-inch;
+
+- RAM: 4 x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+- Video card: Onboard;
+
+~ Network (RJ-45): PLAN
+[EM 4x 1Gb;
+
+- Raid: PRAID CP400ï;
+
+- Extemal Interface: 2 x
+VGA , 5 x USB 3.0, 1 x
+'USB 2.0, 1 x serial RS-
+'232-C optional, 1 x
+Ídedicated management
+LAN port for iRMC S5;
+
+- Power: 2 x Modular PSU
+800W, 1 x Power Supply
+Dummy, 2 x Cable
+
+ 
+
+ 
+
+ 
+
+Ipowercord rack;
+~ Case: Rack 2U;
+- Keyboard, mouse.
+2 |Máy chủ dữ|Cẩuhìnhtươngđương | EUG7
+liệu loại!  |hoặc cao hơn: Asia
+
+ 
+
+~ CPU: 2 x Intel Xeon 10C
+2.40 GHz;
+
+- HDD: 6 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512,
+hot-plug, 2.5-inch;
+
+~ RAM: 4 x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+~ Video card: Onboard;
+
+- Network (RJ-45): PLAN
+EM 4 x IGb;
+
+- Raid: PRAID CP400i;
+
+~ Extemal Interface: 2 x
+'VGA , 5 x USB 3.0, I x
+'USB 2.0, 1 x serial RS-
+232-C optional, 1 x
+ddedicated management
+|LAN port for iRMC S5;
+
+ 
+
+ 
+
+- Power: 2 x Modular PSU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14
+1X Máy chủ dịch
+vụ loại 1 Sứ thâu sô 9-2019: Mua săm trang thiệt bị phục vụ cài đặt và vận hành hệ
+thống Tên hàng hóa| Tính năng kỹ thuật | Xuất xứ. | ĐVT | SL | Đơn giá 
+Máy chủ dữ
+liệu loại 1 Câu hình tương đương.
+hoặc cao hơn:
+
+- CPU: 2 x Intel Xeon 10C
+2.40 GHz;
+
+- HDD: 6 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+hot-plug, 2.5-inch;
+
+- RAM: 4x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+- Video card: Onboard;
+
+- Network (RJ-45): PLAN
+EM4x IGb;
+
+- Raid: PRAID CP400i;
+
+- Extemnal Interfaee: 2 x
+VGA , 5 x USB 3.0, 1 x
+USB 2.0, I x serial RS-
+232-C optional, 1 x
+dedicated management
+LAN port for iRMC S5;
+
+- Power: 2 x Modular PSU
+800W, 1 x Power Supply
+Dummy, 2 x Cable
+powercord rack;
+
+- Case: Rack 2U;
+
+1N ni nườna: Câu hình tương đương
+hoặc cao hơn:
+
+- CPU: 2 x Intel Xeon 10C
+2.40 GHz;
+
+- HDD: 6 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+hot-plug, 2.5-inch;
+
+- RAM: 4x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+- Video card: Onboard;
+
+- Network (RJ-45): PLAN
+EM 4 x 1Gb;
+
+- Raid: PRAID CP400i;
+
+- External Interface: 2 x
+VGA, 5 x USB 3.0, Ì x
+USB 2.0, 1 x serial RS-
+232-C optional, 1 x
+dedicated management
+LAN port for iRMC S5;
+-'Emswur'1+ Năntnlev VSUT EU/G7/
+Asia 
+EU/G7/
+Asia Bộ Bộ 385,000 
+385,000 385,000 8.322,000 Thành tiên 
+Ghỉ
+chú Mục
+1.6.2,
+PLI
+thuyết
+mình Tỉnh năng kỹ thuật
+
+   
+ 
+ 
+     
+ 
+ 
+       
+   
+   
+   
+         
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     
+   
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+ 
+ 
+
+800W, 1 x Power Supply
+'Dummy, 2 x Cable
+|powercord rack;
+
+- Case: Rack 2U;
+
+- Keyboard, mouse.
+
+LCấu hình tương đương EUG7/ | Bộ | 3 | 192/000
+|hoặc cao hơn: Asia
+- CPU: Intel Xeon 8C 2.10
+|GHz;
+
+- HDD: 4 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+lhot-plug, 2.5-inch;
+
+- RAM: 1 x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+- Video card: Onboard;,
+
+- Network (RJ-45): PLAN
+IEM4x 1Gb;
+
+- Raid: PRAID CP400i;
+
+- Extemal Interface: 2 x
+'VGA, 5 x USB 3.0, 1 x
+USB 2.0, 1 x serial RS-
+232-C optional, 1 x
+dedicated
+
+LAN port for iRMC S5;
+
+- Power: 1 x Modular PSU
+800W, 1 x Power Supply
+Dummy, 1 x Cable
+|powercord rack;
+
+- Case: Rack 2U;
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+- CPU: Intel Xeon 8C 2.10.
+GHz;
+
+- HDD: 4 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+hot-plug, 2.5-inch;
+
+- RAM: 1 x 16GB DDR4;
+- Optical drive: DVD-
+RW;
+
+- Video card: Onboard;
+
+- Network (RJ-45): PLAN
+EM4 x 1Gb;
+
+- Raid: PRAID CP400i;
+
+- Extemal Interface: 2 x
+ÍVGA, 5 x USB 3.0, 1 x
+|USB 2.0, 1 x serial RS-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15
+Máy chủ dữ
+liệu loại 2 Máy chủ dịch
+vụ loại 2 Tên hàng hóa Câu hình tương đương
+hoặc cao hơn:
+
+- CPU: Intel Xeon 8C 2.10
+GHz;
+
+- HDD: 4 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+hot-plug, 2.5-inch;
+
+- RAM: 1 x 16GB DDR4;
+- Optieal drive: DVD-
+RW;
+
+- Video card: Onboard;
+
+- Network (RJ-45): PLAN
+EM 4x IGb;
+
+- Raid: PRAID CP400i;
+
+- External Interface: 2 x
+VGA, 5 x USB 3.0, 1 x
+USB 2.0, 1 x serial RS- 
+Câu hình tương đương.
+hoặc cao hơn:
+
+- CPU: Intel Xeon 8C 2.10
+GHz,
+
+- HDD: 4 x SAS 12Gb/s,
+1.2TB, 10K rpm, 512n,
+hot-plug, 2.5-inch;
+
+- RAM: 1 x 16GB DDR4;
+- Optical drive: DVD-
+
+R
+- Video card: Onboard,
+
+- Network (RJ-45): PLAN.
+EM4x IGb;
+
+- Raid: PRAID CP400i;
+
+- Extemal Interface: 2 x
+VGA, 5 x USB 3.0, 1 x
+USB 2.0, 1 x serial RS-
+232-C optional, 1 x
+dedicated
+
+LAN port for iRMC S5;
+
+- Power: 1 x Modular PSU
+800W, 1 x Power Supply
+Dummy, 1 x Cable
+powercord rack;
+
+- Case: Rack 2U;
+
+- Keyboard, mouse. 800W, 1 x Power Supply
+Dummy, 2 x Cable
+powercord rack;
+
+- Case: Rack 2U;
+
+- Keyboard, mouse. Tính năng kỹ thuật Asia 
+EU/G?7/
+Asia S Xuất xứ Bộ 
+192,000 376,000 376,000 thuyết 
+Mục
+
+163,
+
+PLI
+thuyết
+
+minh Ghi
+chú TT [Tênhànghóa|j Tính năngkỹthuật | Xuấtxứ | ĐVT | SL | Đơngiá [Thànhdiền| Ghi
+chú
+
+ 
+
+232-C optional, 1 x
+ldedicated management
+LAN port for iRMC S5;
+
+- Power: 1 x Modular PSU
+800W, 1 x Power Supply
+IDummy, 1 x Cable
+Ipowercord rack;
+
+- Case: Rack 2U;
+
+- Keyboard, mouse.
+
+ 
+
+5 |Thiểbilwu |Cấuhinhtươngđương | EU/G7 | Bộ | 4 | 425,000| 1700000) Mục
+trữ chuyên hoặc cao hơn: Asia 16.5,
+dụng - Controller: 1 FC 16G PLI
+2P; thuyết
+~ Supported RAID Ievels: minh
+0, 1, 1+0, 5, 6;
+- Host Interface: Fibre
+Channel (16 GbiUs,
+8GbiUs)
++iSCSI (10GbiUs
+[10GBase-Tu, 1GbiUs)
++ SAS (12GbiUs)
+- Maximum storage
+lcapacity HDD: 320 TB;
+|- Maximum storage
+leapacity SSD: 16 TB;
+- Drivers: 5 x HD NLSAS
+'6TB 7.2 3.5 AF;
+~ Raek: 19 Ìn
+-- Power: AC 100-
+120V/AC 200-240 V
+30/60Hz.
+
+    
+
+ 
+
+6 — [Mãn hình máy | Câu hình tương đương Asa | Cñ | 8 5000| 6400| Mục
+cchủ lhoặc cao hơn: 166,
+- Kích thước màn PLI
+lhình:18.5 inch; thuyết
+- Độ phân giải: HD; mình
+- Số lượng màu:16.7 triệu
+màu;
+
+- Độ sáng: 200 cd/m2;
+
+- Độ tương phản tĩnh:
+60:1;
+
+~ Góc nhìn: 90° (Dọc) /
+'65° (Ngang);
+
+- Thời gian đáp ứng: 5ms;
+- Cổng kết nối: VGA.
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 [TMếtbikế [Cấuhinhtươngđương | BUG7 | Bộ | 8 | 5600| 768000 Mục
+nói, tích hợp _ |hoặc cao hơn: Asia 16.7,
+máy chùvà  |-Bus Interiace:PCI PLI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16
+Thiết bị kết
+nói, tích hợp.
+máy chủ và Màn hình máy
+chủ Thiết bị lưu
+trữ chuyên
+dụng Tên hàng hóa 
+Câu hình tương đương.
+hoặc cao hơn:
+- Bus Interface: PCI Câu hình tương đương,
+hoặc cao hơn:
+
+- Kích thước màn
+hình:18.5 in
+- Độ phân giải: HD;
+
+- Số lượng màu: 16.7 triệu
+màu;
+
+- Độ sáng: 200 cd/m2;
+
+- Độ tương phản tĩnh:
+600:1;
+
+- Góc nhìn: 90° (Dọc) /
+65° (Ngang);
+
+- Thời gian đáp ứng: 5ms;
+- Cổng kết nối: VGA.. Câu hình tương đương.
+hoặc cao hơn:
+- Controller: 1 FC 16G
+2P;
+- Supported RAID levels:
+0, 1, 1+0, 5, 6;
+- Host Interface: Fibre
+Channel (16 Gbius,
+8GbiUs)
++iSCSI (10GbiUs
+[10GBase-Tu, 1GbiUs)
++ SAS (12GbiUs)
+- Maximum storage
+capacity HDD: 320 TB;
+- Maximum storage
+capacity SSD: 16 TB;
+- Drivers: 5 x HD NLSAS
+6TB 7.2 3.5 AF;
+- Rack: 19 inch;
+- Power: AC 100-
+120V/AC 200-240 V
+50/60Hz. 232-C optional, l x
+dedieated management
+LAN port for iRMC S6;
+
+- Power: 1 x Modular PSU
+800W, 1 x Power Supply
+Dummy, 1 x Cable
+powercord rack;
+
+- Case: Rack 2U;
+
+~- Keyboard, mouse. 
+“Tính năng kỹ thuật EU/G7/
+Asia EU/G?7/
+Asia Xuất xứ 
+3,000 8,000 425,000 Đơn giá 
+1.700,000 Thành tiên Mục
+16.5,
+PLI
+
+minh Mục
+16.7,
+PLI 
+Ghi
+chú thiết bị lưu trữ
+chuyên dụng.
+
+ 
+
+Tính năng kỹ thuật [ Xuấtxứ | ĐVT | SL | Đơngiá
+
+|L————————— —-
+
+IExpres ŒCIe) 3.0 x8;
+
+- Ports: Single-port GEN 5
+FC;
+
+- Throughput: 16Gbps line
+Irate per port (maximum);
+- Performance: QoS
+|CS_CTL, FEC, Buffer-to-
+lbuffer credit recovery
+((BB-CR): automatic
+lbuffer credit loss detecion
+land recovery Diagnostics;
+~ Diagnosties Port:
+LCB,RDP;
+
+- Deployment and
+Management: FA-WWN,
+F-BLD, FC ping, FC
+lraceroute, VM-TD, Fabrie
+device management
+interface (FDMI)
+enhancements.
+
+ 
+
+Thành Ghỉ
+chú
+thuyết
+
+minh
+
+ 
+
+Cấu hình tương đương.
+hoặc cao hơn:
+
+- CPU: Xeon E3-1220v6
+3.00GHz 8MB;
+
+- RAM: 2 x 16GB DDR4;
+- Ô cứng: 1 x SSD SATA.
+III 512GB + 1x HDD
+SATA III 1TB 7.2k;
+
+- CD/DVD: DVD-RW;
+
+~ LAN: 10/100/1000
+
+IMb/s;
+
+- Card đồ họa: Bộ nhớ
+
+§GB;
+
+~ Monitor: LCD/LED 24
+
+inch;
+
+- Keyboard, mouse: USB
+board, USB mouse.
+
+EU/G7/
+Asia
+
+Bộ
+
+32
+
+89,000
+
+2.848,000
+
+Mục
+
+16.8,
+
+PLI
+thuyết
+mình
+
+ 
+
+9 |Máytính xách
+tay hiệu năng,
+
+'Cấu hình tương đương
+|hoặc cao hơn:
+
+-- CPU: Intel Core ¡7-
+7820HQ;
+
+- RAM: 2 x 8GB DDR4;
+|- Ô cứng: 1x SSD SATA.
+256GB + 1 x HDD 1TB
+54;
+
+|- Màn hình: Full HD;
+
+~ Network: Ethernet LAN,
+
+ 
+
+'Wifi 802.11b/g/n;
+
+ 
+
+EU/G7/
+Asia
+
+ 
+
+Bộ
+
+ 
+
+12
+
+ 
+
+85,000
+
+ 
+
+1.020,000
+
+Mục
+
+16.9,
+
+PLI
+thuyết
+mình
+
+ 
+
+ 
+
+ 
+
+SG
+Máy tính xách
+tay hiệu năng,
+cao Tên hàng hóa Máy tính đông.
+bộ hiệu năng
+cao thiết bị lưu trữ
+chuyên dụng, 
+Câu hình tương đương
+hoặc cao hơn:
+
+- CPU: Intel Core i7-
+7820HQ;
+
+- RAM: 2 x 8GB DDR4;
+- Ô cứng: 1x SSD SATA
+256GB + 1 x HDD ITB
+54;
+
+- Màn hình: Full HD;
+thernet LAN,
+Wifñ §02.11b/g/n: “Tính năng kỹ thuật Câu hình tương đương.
+hoặc cao hơn:
+
+- CPU: Xeon E3-1220v6.
+3.00GHz 8MB;
+
+- RAM: 2x 16GB DDR4;
+- Ô cứng: 1 x SSD SATA.
+III 512GB + Ix HDD
+SATA III ITB 7.2k;
+
+- CD/DVD: DVD-RW;
+
+- LAN: 10/100/1000
+Mb/s;
+
+- Card đồ họa: Bộ nhớ
+8GB;
+
+- Monitor: LCD/LED 24
+inch;
+
+- Keyboard, mouse: USB
+keyboard, USB mouse. Expres (PCIle) 3.0 x8;
+
+- Ports: Single-port GEN 5
+FC;
+
+- Throughput: 16Gbps line
+rale per port (maximum);
+- Performance: QoS
+CS_CTL, FEC, Buffer-to-
+bufTer credit recovery
+(BB-CR): automatic
+bufer credit loss detection
+and recovery Diagnostics;
+- Diagnostics Port:
+LCB,RDP;
+
+- Deployment and
+Management: FA-WWN,
+F-BLD, FC ping, FC
+traceroute, VM-TD, Fabric
+device management
+interface (FDMI)
+enhancements. 
+EU/G7/
+Asia EU/G7/
+Asia Xuất xứ HỘ, 
+Bộ 12 3 85,000 
+89,000 Thành tiên 1.020,000 2.848,000 
+TM,
+16.9,
+PLI
+thuyết
+mình Mục
+
+16.8,
+
+PLI
+thuyết
+mình thuyết Ghi
+chú Tên hàng hóa.
+
+Tỉnh năng kỹ thuật
+
+Xuất xứ
+
+ĐVT
+
+SL
+
+Đơn 5| Thành tiên.
+
+Ghi
+chú
+
+ 
+
+- Card đồ họa: Bộ nhớ
+4GB;
+
+- Ô quang: DVD-RW;
+- PIN/Battery: Lithium-
+lon, 6cell, 10.8
+'6700mAh, 72Wh.
+
+ 
+
+Gói thầu số 10-2010: Mua sắm trang th
+
+mạng và phụ kiện
+
+iết bị phục vụ trình chiếu, thiết bị|
+
+4.210,000
+
+ 
+
+cứng đi
+động dung
+lượng cao
+
+Cấu hình tương đương.
+hoặc cao hơn:
+
+- Dung lượng: 12TB;
+
+~ Chuẩn giao tiếp: USB.
+3.0;
+
+- Tốc độ truyền: Lên đến
+290MBIs.
+
+Asia
+
+Cái
+
+ẽ
+
+33,000
+
+66,000.
+
+Mục
+16.10,
+PLI
+thuyết
+minh
+
+ 
+
+Máy chiều độ
+phân giải cao
+
+'Cấu hình tương đương.
+lhoặc cao hơn:
+
+- Máy chiếu đa phương
+tiện;
+- Độ sáng: 1800 Lumens;
+- Độ tương phản:
+15.000:1;
+
+- Độ phân giải thực: Full
+
+ 
+
+- Tuổi thọ bóng đèn: Lên
+tới 6.000 giờ;
+
+- Kích thước chiếu: 40
+inch - 300 inch;
+~ Cổng tín hiệu vào:
+|HDMI, DVI-D, S-Video,
+|Audio, RGB, VGA;
+
+- Tự động dò tìm tín hiệu
+ẳđầu vào;
+
+~ Direct Power On/Of;
+
+- ECO tiết kiệm điện năng.
+liêu thụ;
+
+|- Màn chiếu: Chất liệu vải
+cao cắp Matle white, 120
+inch, kích thước 2m x 2m,
+điều khiển từ xa.
+
+ 
+
+EU/G7/
+Asia
+
+133,000
+
+2.128,000
+
+Mục
+16.11,
+PLI
+thuyết
+minh
+
+ 
+
+ 
+
+'Thiết bị tích
+lhợp, điều
+|khiển hiển thị
+mở rộng của.
+hệ thống màn
+hình ghép
+
+ 
+
+Cấu hình tương đương.
+hoặc cao hơn:
+
+- 6x2 đigital AV switcher,
+local or Web browser
+'setup and control
+
+- Video: Input Signal
+'HDMI, 3D (DVI &
+DisplayPort compatible
+[I); Output Signal
+
+ 
+
+EU/G7/
+Asia
+
+ 
+
+HDMI, 3D (DVI
+
+ 
+
+ 
+
+ 
+
+185,000
+
+ 
+
+555,000)
+
+Mục
+16.12,
+PLI
+thuyết
+mình
+Ó cứng di
+động dung
+lượng cao Gói thâu số I
+s6ảu4031kzl Tên hàng hóa Thiết bị tích
+hợp, điều
+khiển hiển thị
+mở rộng của.
+hệ thống màn
+hình ghép 
+Máy chiêu độ
+phân giải cao Câu hình tương đương.
+hoặc cao hơn:
+
+- Máy chiếu đa phương.
+tiện;
+
+- Độ sáng: 1800 Lumens;
+- Độ tương phản:
+15.000:1;
+
+- Độ phân giải thực: Full
+HD;
+
+- Tuổi thọ bóng đèn: Lên
+tới 6.000 giờ;
+
+- Kích thước chiều: 40
+inch - 300 inch;
+- Cổng tín hiệu vào:
+HDMI, DVI-D, S-Video,
+Audio, RGB, VGA;
+
+- Tự động dò tìm tín hiệu
+đầu vào;
+
+- Direct Power On/Of,
+
+- ECO tiết kiệm điện năng,
+tiêu thụ;
+
+- Màn chiếu: Chất liệu vải
+cao cấp Mattle white, 120
+inch, kích thước 2m x 2m,
+điều khiển từ xa. Câu hình tương đương,
+hoặc cao hơn:
+
+- Dung lượng: 12TB;
+
+- Chuẩn giao tiếp: USB.
+3.0;
+
+- Tốc độ truyền: Lên đến
+290MBs. -2010: Mua săm trang tỉ
+lên 
+- Card đô họa: Bộ nhớ
+4GB;
+
+- Ô quang: DVD-RW;
+- PIN/Battery: Lithium-
+lon, 6cell, 10.8V
+6700mAh, 72Wh. Tính năng kỹ thuật Câu hình tương đương.
+hoặc cao hơn:
+
+- 6x2 đigital AV switcher,
+loeal or Web browser
+setup and control
+
+- Video: Input Signal
+HDMI, 3D (DVI &
+DisplayPort compatible
+[1]; Output Signal
+HDMI, 3D (DVL Asia 
+lết bị phụ: Xuất xứ EU/G7/
+Asia EU/G?7/
+Asia 
+vụ trìn ì chỉ 16 u, thiết bị 
+Đơn giá 133,000 185,000 66,000 
+4.210,000 Thành tiên 355,000 2.128.000 
+Mục
+16.10,
+PLI
+thuyết
+mình Ghi
+chú Mục
+16.12,
+PLI
+thuyết
+mình Mục
+16.11,
+PLI
+thuyết
+minh Tên hàng hóa.
+
+Tính năng kỹ thuật
+
+Xuất xứ
+
+—_———}
+
+ĐVT
+
+ 
+
+Đơn giá
+
+Thành ti
+
+ 
+
+Ghi
+chú
+
+ 
+
+ 
+
+compatible [1]);
+
+~ Audio: Input Signal
+'HDMI (DisplayPort
+compatible [I]); Output
+Signal Types HDMI;
+Formats Dolby Digital,
+Dolby TrueHD, DTS,
+DTS-ES, DTS 96/24,
+LPCM tp to 8 channels
+I6];
+
+~ Communications:
+Ethemet 10/100 Mbps,
+lauto-switching, full/half
+'duplex, DHCP, Web
+lbrowser setup; HDMI
+HDCP, EDID;
+
+- Connectors: INPUT 1—
+6 (6) 19-pin Type A.
+HDMI; HDMI digital
+video/audio inputs; DVI
+and DisplayPort
+Multimode [1]; OUTPUT
+1 ~2 (2) 19-pin Type A.
+[HDMI female; HDMI
+(digital video/audio
+
+loutputs; DVI [1]; USB
+() Type A; LAN (1)
+RÑJ45; 10Base-T/100Base-
+TX Ethernet port.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chuyển mạch
+|trung tâm
+
+Cấu hình tương đương
+hoặc cao hơn:
+
+~ Phù hợp với các tiêu
+chuẩn: IEEE 802. 1as;
+IEEE 802.1; IEEE
+302.1w; IEEE 802.11;
+IEEE 802.1x; IEEE
+302.1x-Rev; IEEE
+302.3ad; IEEE 802.3af,
+IEEE 802.3at; IEEE.
+802.3bz; IEEE 802.3x full
+duplex on 10BASE-T;
+100BASE-TX, and
+1000BASE-T ports; IEEE
+302.1D Spanning Tree
+Protocol; IEEE 802.1p
+CoS prioritization; IEEE
+302.1Qat Stream
+Reservation Protocol;
+IEEE 802.1Qav; IEEE.
+
+ 
+
+802.1Q VLAN; IEEE
+
+ 
+
+EU/USA/
+Mexico/
+Asia
+
+ 
+
+Bộ
+
+ 
+
+3 315,000
+
+ 
+
+ 
+
+945,000
+
+Mục
+
+L1,
+
+PLI
+thuyết
+mình
+Chuyên mạch
+trung tâm. Tên hàng hóa Câu hình tương đương
+hoặc cao hơn:
+
+- Phù hợp với các tiêu
+chuẩn: IEEE 802. las;
+IEEE 802.1s; IEEE.
+802.1w; IEEE 802. LI;
+IEEE 802.1x; IEEE
+802.1x-Rev; IEEE
+802.3ad; IEEE 802.3af,
+IEEE 802.3at, IEEE,
+802.3bz; IEEE 802.3x full
+duplex on 10BASE-T;
+100BASE-TX, and
+1000BASE-T ports; IEEE
+802.1D Spanning Tree
+Protocol; IEEE 802.1p
+CoS prioritization; IEEE
+802.lQat Stream.
+Reservation Protocol;
+IEEE 802.1Qav; IEEE
+§02.1Q VLAN: IEEE compatible [1]);
+
+~ Audio: Input Signal
+HDMI (DisplayPort
+compatible [I]); Output
+Signal Types HDMI,
+Formats Dolby Digital,
+Dolby TrueHD, DTS,
+DTS-ES, DTS 96/24,
+LPCM tp to 8 channels
+[6];
+
+- Communieations:
+Ethernet 10/100 Mbps,
+auto-switching, fufl/half'
+duplex, DHCP, Web.
+browser setup; HDMI
+HDCP, EDID;
+
+- Connectors: TNPUT 1—
+6 (6) 19-pin Type A.
+HDMI; HDMI digital
+video/audio inputs; DVI
+and DisplayPort
+Multimode [1]; OUTPUT
+1 —2 (2) 19-pin Type A
+HDMI female; HDMI
+digital video/audio
+outputs; DVI [1]; USB
+(1) Type A; LAN (1)
+RJ45; 10Base-T/100Base-
+TX Ethernet port. 
+“Tính năng kỹ thuật Mexico/
+Asia Xuất xứ. Bộ 
+315,000 Đơn giá 945,000 Thành tiên 
+Ghỉ
+chú Mục
+
+THỊ,
+
+PLI
+thuyết
+mình Xuất xứ | ĐVT
+
+ 
+
+SLU
+
+Đơn giá
+
+Thành tiễn Ghỉ
+chú
+
+ 
+
+TT [Tên hànghóa| — Tính năng kỹ thuật
+
+802.3 10BASE-T
+specification; IEEE,
+802.3u 100BASE-TX
+specification; IEEE.
+802.3ab 1000BASE-T
+specification; IEEE
+802.3z 1000BASE-X
+speciffcation;
+
+- Hỗ trợ chuyển mạch lớp
+
+|- Cấu trúc: dạng mở
+(modular);
+
+(- Số công Ethernet
+10/10/1000 Mbps: 24;
+- Hỗ trợ mở rộng: 4 SFP
+|hoặc 2 SFP+;
+
+- Điện áp sử dụng: 100-
+240v.
+
+ 
+
+ 
+
+5 [Chuyển mạch
+truy cập 24-
+Ports
+
+Cấu hình tương đương,
+hoặc cao hơn:
+- Phủ hợp với các tiêu
+chuẩn: IEEE 802.3
+10Base-T, IEEE 802.3u
+100Base-TX;
+- Số công: 24 port
+10/100/ 1000 Mb/s;
+~ Tốc độ truyền mạng:
+'Auto-Negotiation,
+10/20Mbps,
+100/200Mbps;
+- Tốc độ Filtering/
+Forwarding:
+
++ 100 Mbps: 148800
+packets / second
+
++ 10 Mbps : 14880
+packets / second
+- Bộ đệm dữ liệu: 512 KB;
+- Network Media
+100Base-TX: RJ-45
+'STP/UTP, Category 5
+(cable; 10Base-T: R1-45
+'STP/UTP, Category 3~5
+lcable
+
+ 
+
+EU/USA/
+Mexico/
+Asia
+
+39,000,
+
+234/000 Mục
+L2,
+PLI
+
+thuyết
+mình
+
+ 
+
+6 |ÔÖcám điện
+
+- Công suất tôi đa: 200W.
+10A 250V;
+
+- Dây dài: 3 - 5m;
+
+- Số chất
+- Có bảo vệ quá tải.
+
+ 
+
+Việt Nam
+
+Cái
+
+32
+
+ 
+
+16,000| Mục
+M43,
+PLI
+
+thuyết
+
+ 
+
+ 
+
+ 
+
+7 |Hệp nỗi gắn
+tường
+
+ 
+
+- Bao gồm đề, mặt, hạt
+RJ45;
+
+ 
+
+ 
+
+Cái
+
+ 
+
+60
+
+0,500
+
+ 
+
+30,000| Mục
+114,
+
+ 
+
+ 
+
+20
+Hộp nỗi gắn
+tường O căm điện Chuyên mạch
+truy cập 24-
+Ports Tên hàng hóa 
+- Bao gôm đê, mặt, hạt
+RJ45: - Công sut tôi đa: 2200W:
+10A 250V;
+
+- Dây dài: 3 - ấm;
+
+- Số chấu: 6;
+-IC6 bảo vẽ sẻ tải. Câu hình tương đương.
+hoặc cao hơn:
+- Phủ hợp với các tiêu
+chuẩn: IEEE 802.3
+10Base-T, IEEE 802.3u
+100Base-TX;
+- Số cổng: 24 port
+10/100/ 1000 Mb/s;
+- Tốc độ truyền mạng: TP:
+Auto-Negotiation,
+10/20Mbps,
+100/200Mbps;
+- Tốc độ Filtering/
+Forwarding:
+
++ 100 Mbps: 148800
+packets / second
+
++ 10 Mbps : 14880
+packets / second
+- Bộ đệm dữ liệu: 512 KB;
+- Network Media
+100Base-TX: RJ-45
+STP/UTP, Category 5
+cable; 10Base-T: R1-45
+STP/UTP, Category 3~5
+cable 802.3 10BASE-T
+specification; IEEE,
+802.3u 100BASE-TX
+specifieation; IEEE,
+802.3ab 1000BASE-T
+specification; IEEE,
+802.3z 1000BASE-X
+specification;
+
+- Hỗ trợ chuyển mạch lớp
+
+ 
+
+- Cấu trúc: dạng mở
+(modular);
+
+- Số công Ethernet
+10/10/1000 Mbps: 24;
+- Hỗ trợ mở rộng: 4 SFP.
+hoặc 2 SFP+;
+
+- Điện áp sử dụng: 100-
+240v. 
+Tính năng kỹ thuật EU/USA/
+Mexico/
+Asia 'Việt Nam Xuất xứ 
+60 32 c
+
+— 0,500 
+32,000 Đơn giá 30,000 16,000 
+234,000 Thành tiên Mục
+1L4. Mục
+
+M43,
+
+PLI
+thuyết 
+Mục
+
+112,
+
+PLI
+thuyết
+minh Ghỉ TT [Tênhànghóa| Tỉnh năngkỹ thuật | Xuấtxứ | ĐVT | SL | Đơngiá [Thành tiền| Ghi
+chú
+Iwallplate RJ45 |- Để, mặt: Chất liệu nhựa. PHI
+cứng; thuyết
+- Hạt RJ45: Phù hợp sử minh
+dụng cho cáp mạng, Cat5,
+Cat6.
+8 |Đẩumạng  |-Chuẩn kếtnôi: RJ45; Asia | Hộp | 4 1,000 4,000 Mục
+|RJ45 - 100 đầu/hộp; 15,
+~ Phù hợp sử dụng cho cáp PLI
+mạng Cat5, Cat6. thuyết
+mình
+9 |Cápmạng  |-CápUTP:Cat5; Asia | Hộp | 12 8000| — 96,000 Mục
+UTP. - Độ dài: 305 m/hộp; 1L6,
+- Có khả năng chống. PLI
+nhiễu. thuyết
+mình
+10 [Bộphụkiện |-Bao gồm ông gen, ông Asa | Bộ |4 16,000| — 64,000] Mục
+lắp đặt mạng _ |nhựa các loại, vít và các _ 1L7,
+vật tư phục vụ thỉ công lắp PLI
+[đặt khác. thuyết
+mình.
+11 |Dây cấp - Ruột dẫn: Đồng; Việt Nam| m |900 0080| — 72/000 Mục
+nguồn 2x15 |- Số lõi: 1L8,
+~ Mặt cắt định danh: 1,5 PLI
+Imm2 đến 1000 mm2; thuyết
+- Điện áp định danh: 0,6/1 mình
+
+ 
+
+ 
+
+ 
+
+|kV đến 18/30 kV.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Giá các gói thầu trên đã bao gồm các loại thuế và phí liên quan.⁄.
+
+21
+10 Dây cấp
+nguồn 2x1,5 Bộ phụ kiện
+lắp đặt mạng Cấp mạng,
+UTP. 
+Đâu mạng
+RJ45 wallplate RJ45 Tên hàng hóa - Mặt cắt định danh: 1,5
+mm2 đến 1000 mm2;
+
+- Điện áp định danh: 0,6/1
+kV đến 18/30 kV. 
+- Bao gôm ông gen, ông.
+nhựa các loại, vít và các „
+vật tư phục vụ thỉ công lắp
+đặt khác - Cáp UTP: Cat 5;
+
+- Độ dài: 305 m/hộp;
+- Có khả năng chống.
+nhiễu. - Chuẩn kết nôi: RJ45;
+
+- 100 đầu/hộp;
+
+- Phù hợp sử dụng cho cáp
+mạng Cat5, Cat6. - Đê, mặt: Chât liệu nhựa.
+
+cứng;
+- Hạt RJ45: Phù hợp sử
+dụng cho cáp mạng, Cat5,
+Cat6. 
+Tính năng kỹ thuật "Việt Nam Asia Asia 
+Asia Xuất xứ Bộ Hộp 
+Hộp ĐVT 900 12 
+0,080 16,000 8,000 Đơn giá 
+72,000 Thành tiên 96,000 Mục
+
+1L8,
+
+PLI
+thuyết
+mình 
+Mục
+
+1L6,
+
+PLI
+thuyết
+minh Mục
+1L5,
+PLI
+
+thuyết PLIL
+thuyết
+mình Ghỉ
+chú 

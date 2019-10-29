@@ -1,0 +1,58 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ RỌI CHỦ NGHĨA yrẹ NAM
+h
+
+'VIỆN CÔNG NGHỆ THÔNG TIN do-
+Số: ÝG /VCNTT-KH Hà Nội, Nôi nhớ năm Su
+V/v phối hợp nghiên cứu thực hiện
+nhiệm vụ KHCN cấp BQP
+
+Kính gửi: Bệnh viện Trung ương Quân đội 108.
+
+Trong những năm gần đây, cùng với sự phát triển của cuộc cách mạng,
+công nghiệp 4.0, ngành trí tuệ nhân tạo đã có những bước phát triển mạnh mẽ và
+ngày càng được sử dụng rộng rãi trên tất cả các lĩnh vực như y tế, giáo dục, quốc
+phòng, an ninh... Với sự phát triển của trí tuệ nhân tạo hiện nay, nhiều phần mềm
+nhận dạng, phát hiện, phân loại đối tượng đã được nghiên cứu, xây dựng với độ
+chính xác cao, có thể áp dụng trong nhiều lĩnh vực khác nhau, trong đó có lĩnh
+vực phân tích hình ảnh y tế nhằm hỗ trợ và nâng cao hiệu quả công tác chân đoán
+và điều trị tại các bệnh viện.
+
+Các kết quả thống kê gần đây cho thấy, số lượng người Việt Nam mắc các
+bệnh lý về đại tràng chiếm tỷ lệ khá cao. Các bệnh lý về đại tràng nếu không,
+được phát hiện và điều trị kịp thời có thể dẫn đến những biến chứng nguy hiểm,
+ảnh hưởng lớn đến sức khỏe và tỉnh thần người bệnh; tuy nhiên, nếu được phát
+hiện sớm thì khả năng chữa khỏi là rất cao. Trong đó, việc tiến hành nội soi là
+một trong những biện pháp hiệu quả nhất để kiểm tra và phát hiện sớm bệnh đại
+tràng; các bác sĩ giàu kinh nghiệm sẽ quan sát trực tiếp hình ảnh niêm mạc đại
+tràng thông qua máy soi để phát hiện các bất thường của niêm mạc như viêm,
+loét, u, polyp,... từ đó có thể chẩn đoán và tư vấn phương pháp điều trị thích
+hợp.
+
+Viện Công nghệ thông tin/Viện KHCNQS đã đề xuất với Bộ Quốc phòng
+nhiệm vụ KHCN “Nghiên cứu, xây dựng hệ thống hỗ trợ chẩn đoán hình ảnh nội
+soi đại tràng bằng kĩ thuật học sâu (Deep learning) phục vụ chăm sóc sức khỏe bộ
+đội” để nghiên cứu, áp dụng trí tuệ nhân tạo xây dựng các hệ thống hỗ trợ chuẩn
+đoán hình ảnh nội soi đại tràng giúp các bác sĩ phân tích nhanh và có kết luận
+chính xác hơn. Bác sĩ có thể sử dụng kết quả đầu ra của hệ thống như là một ý
+kiến tham khảo và sau đó đưa ra quyết định cuối cùng, góp phần rút ngắn thời
+gian thăm khám và nâng cao số lượng bệnh nhân được chẩn đoán, nâng cao tỉ lệ
+phát hiện sớm các bệnh về đại tràng. Ngoài ra, hệ thống cũng hỗ trợ đào tạo và
+tự đào tạo chuyên ngành nội soi tiêu hóa nhằm phát triển, nâng cao trình độ cho
+bác sĩ nội soi. Hệ thống có thể được triển khai, áp dụng tại các bệnh viện nói
+chung và Bệnh viện Trung ương Quân đội 108 nói riêng để góp phần hiện đại
+hóa công tác khám, chữa bệnh và đào tạo tại Bệnh viện.ĐỀ sản phẩm Của nhiệm Vụ Phục vụ nhụ cầu của các bệnh vien hiệu quả
+nhất, Viện CNTT rất cận SW hợp tác, hỗ trợ của Bệnh viện Trụng tương Quân đội
+108 trong việc gả chức khảo Sắt, tìm hiểu 4y trình nội sọ tiêu hóa và các kiến
+
+thức Chuyên sâu VỆ chân đc bị trằng: hỗ trợ xây dựng kho đữ liệu trị
+thức về Phân tích, nhận lên, phân loại các bệnh lý từ nỘI soi đại
+lê huấn luyện ch, Các thuật toán trí lạO; tổ chức, thử nghiệm, đánh giá
+
+Viện Công nghe thông tin kính qà "ghị Bệnh vien Trung ương Quận đội
+108 phối hợp, với Viện thực hiện "hiệm vụ KHCN nạu tiÊn và ứng dụng, vàn
+Phẩm sau khi nhiệm vụ đực. "ghiệm thụ/,.„.
+
+“Mới nhận; NNRƯỞNG
+
+~ Như trên,
+~ Lứu: VT, KH, H03,

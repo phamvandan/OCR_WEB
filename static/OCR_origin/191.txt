@@ -1,0 +1,1234 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CỘNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: !Ø0/VCNTT-KH Hà Nội, ngày 4O tháng 6 năm 2016
+
+'VWw rà soát bài báo, sáng chế, giải pháp.
+hữu ích... là kết quả hoạt động KHCN
+giai đoạn 2011-2015 và 6 tháng đầu
+năm 2016.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ Công văn 100/TMKH-KHCNMT ngày 23 tháng 5 năm 2016 của
+Phòng Tham mưu — Kế hoạch về việc rà soát bài báo, sáng chế, giải pháp hữu
+ích ... là kết quả hoạt động KHCN giai đoạn 2011-2015 và 6 tháng đầu năm
+2016,
+
+Viện Công nghệ thông tin báo cáo kết quả rà soát bài báo, sáng chế, giải
+pháp hữu ích ... là kết quả hoạt động KHCN giai đoạn 2011-2015 và 6 tháng
+đầu năm 2016 như trong phụ lục kèm theo.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch. /#⁄
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; H03.PHỤ LỤC
+Danh sách bài báo
+(Kèm theo công văn 190/VCNTT-KH ngày +40 tháng 6 năm 2016)
+Bài báo Thiết kê và chế
+tạo thiết bị tự động kiểm.
+tra chức năng bo mạch
+điện tử kỹ thuật số theo
+phương pháp tái cấu hình
+và tạo mẫu nhanh RPS Bài báo: Ung dụng toán
+học trong xây dựng
+đường bay trên bán đồ Bài báo:
+Ha Nguyen Thi Thu, An
+Nguyen Nhat “A method.
+for Generating
+Vietnamese HS
+Sentence Reduction
+
+Networi”, Intemational
+Joumal of Innovative
+Computing, Information
+and _ Control(TICIC),
+Vol. 11, No. 2, pp. 407-
+415, April 2015. (SSN
+1349-4198, ISI Indexed,
+lImpact Factor: 2.932) Nội dung 
+"Viện CNTT
+Nguyễn Thái
+Ti Đức
+Thiện
+Nguyễn Văn Đơn vị chủ
+trì tác giá 2// Nguyễn
+trưởng phòng
+Quản trị
+CSDL/Viện Bài báo trình bày phương pháp thiết
+kế và chế tạo thiết bị tự động kiểm.
+tra chức năng bo mạch điện tử kỹ
+thuật số với chỉ phí thấp và khả năng.
+tái cấu hình cao. Thiết bị được điều
+khiển thông qua một phần mềm ứng.
+dụng chạy trên một máy tính cá
+nhân. Các bộ giá trị tín hiệu kích
+thích đầu vào của bo mạch được xây.
+dựng trước và lưu trong cơ sở dữ liệu
+(CSDL) trên máy tính, sau đó được
+tải vào bộ nhớ mẫu của thiết bị thông.
+qua đường truyền Ethernet. Các tín
+hiệu này được thiết bị ngoại vi đặt
+lên mức 20Mhz, là tần số kích thích
+đưa tới các chân vào của bo mạch
+cần kiểm tra (DUT - Deviee Unđer
+Test). Tín hiệu đầu ra của DUT được.
+# sảnh với siế trị xuẫn sẵn bạ, ngượi 
+Vân đề được đề cập trong bài báo là
+tập trung nghiên cứu về mối liên hệ
+giữa các yếu tố: không tốc máy bay
+Ø) và góc nghiêng khi vòng() để
+xác định bán kính vòng (R) với một
+góc cho trước của máy bay và ứng
+đụng xây dựng đường bay trên bản
+đề số phục vụ cho hoạt động chuẩn
+bị, điễu hành và giám sát bay của lực
+lương Không quân Việt na Trong bài báo này, chúng tôi trình
+bày một phương pháp rút gọn câu
+văn bản và áp dụng trong bài toán
+tóm tắt văn bản tiếng Việt dựa trên
+mô hình Bayesian Network. Tóm tắt nội dung Tạp chí
+Nghiên cứu
+khoa học và
+Găng nghệ
+quân sự, số 
+Tạp chí
+Thông tin
+khoa học số
+39, tháng.
+10-2015,
+Tạp chí
+khoa học và
+công nghệ
+quân sự. Đường
+đến bài báo
+hưtp:/lwwvw,
+iiiele.org/vo
+L-110)hm. Ghỉ chú. 
+Bài báo “Ứng dụng giải
+thuật di truyền, hệ hỗ trợ.
+ra quyết định để giải bài
+toán tối ưu đa mục tiêu
+trọng lập kế hoạch bảo.
+đảm” Bài báo “Mô hình hệ
+thống huấn luyện mô
+phỏng cấp chiến địch-
+chiến thuật cho lực lượng
+tác chiến điện tử” Sơn
+Nguyễn Thái
+Học "Viện CNTT
+Nguyễn Thái
+Học
+
+Nguyễn Văn
+Sơn 
+tốt cùng loại đã được lây mẫu trước
+đó để xác định liệu DUT có còn tốt
+hay không. Phương pháp này đã
+được ứng dụng thành công trong việc
+thiết kế, chế tạo thiết bị hỗ trợ chư:
+đoán, phát hiện hỏng hóc một số
+mảng chức năng của đải ra đa
+KASTA-2E2 Bài báo giới thiệu phương pháp sử
+dụng giải thuật di truyền và hệ hỗ trợ
+ra quyết định đễ giải quyết bài toán
+lập kế hoạch bảo đảm, một bài toán
+hết sức phức tạp do những đặc trag
+của lĩnh vực chỉ huy tham mu trong,
+quân sự và các yếu tố ràng buộc toán
+học: thời gian, chỉ phí cho một hành
+động tác chiến. Việc thu được một
+lời giải tối tư luôn là đáp án tốt nhất
+đối với mọi bài toán. Tuy nhiên với
+bài toán lập kế hoạch bảo đảm khi
+không gian bài toán lớn thì việc có đ-
+ợc một phơng án mang tính khả thí,
+chấp nhận được cũng có thể đợc xem.
+là lời giải của bải toán. Sử dụng kiến
+thức về Hệ hỗ trợ ra quyết định trong,
+việc hỗ trợ cán bộ sĩ quan chỉ huy
+tham mu tác chiến lựa chọn đợc một
+kế hoạch thỏa mãn các điều kiện
+ràng buộc. Đặc san 40
+năm Viện
+Công nghệ
+thống tin,
+tháng 04-
+2014 dụng công
+nghệ mô
+
+phỏng cho
+lực lượng
+
+  
+
+tác chỉ
+điện tử”,
+06-2015 
+10 An efficient and effective
+algorithm for mining top-
+rank-k frequent patlerns;
+Exprt Systems with
+Applieaions, Vol. 42,
+pp. 156 — 164. Ung dụng công nghệ
+giám sát chuyển động
+trong việc chế tạo thiết bị
+tập bắn súng Bài báo: Ứng dụng công,
+nghệ thông tin trong
+quản lý phục vụ công tác
+ứng phó với biến đổi khí
+hậu và tìm kiếm, cứu hộ,
+cứu nạn của BQP. 
+Bài báo: Bộ công cụ nền
+phát triển các sản phí
+mô phỏng phục vụ công,
+tác huấn luyện vận hành,
+sửa chữa bảo dưỡng khí
+tài tác chiến điện từ Bài báo: Kỹ thuật lựa
+chọn thích ứng cho giải
+thuật tiến hóa đa mục
+tiêu sử dụng điểm Knee Bài báo: Về một phương
+pháp tách ảnh tự nhiên
+dựa trên độ chắn sáng Quyen
+Huynh-Thi-
+Le, - Tuong
+Le, Bay Vo,
+Bac Le 
+'Viện CNTT
+
+Ngọc Bảo Nguyễn Đức
+Định, Trần
+Bình Minh,
+Đỗ — Ngọc
+Phục,
+
+Nguyễn Đình.
+Thắng Trần Bình
+Minh, Đỗ
+Việt Bình Nguyễn Xuân
+
+Hùng,
+Nguyễn
+Long,
+Nguyễn Đức
+Định, Lê
+
+Quốc Việt 
+Trần Bình
+Minh, Phạm
+Hải Hưng Frequent pattern mining generates a
+lot of candidates, which requires a lot
+of memory usage and mining tỉme.
+In real applications, a small number
+Of frequEnt palterns are used.
+Therefore, the mining of top-rank-k
+fequent pattems, which limits the
+number of mined frequent pattens
+lw ruidug them ia ñesueney, hao Phân tích và đưa ra công thức tính
+tóan khi ứng dụng công nghệ giám
+sát chuyển động vào chế tạo thiết bị
+tập bắn. Bài báo để xuất là một số ứng dụng.
+công nghệ thông tin điển hình, tập
+trung chủ yếu ứng dụng chương trình.
+phần mềm và cơ sở dữ liệu trong
+quản lý phục vụ công tác ứng phó
+với biển đổi khí hậu và tìm kiếm cứu
+hộ, cứu nạn của Bộ Quốc phòng. 
+Bài báo đề xuất một số bộ công cụ
+phần mềm nền sử dụng để phát triển
+các sản phẩm mô phỏng phục vụ
+công tác huấn luyện vận hành, sửa.
+chữa bảo dưỡng khí tài tác chiến điện
+từ trong quân đội Bài báo để xuất kỹ thuật lựa chọn
+thích ứng cho giải thuật tối ưu đa
+mục tiêu sử dụng điểm Knee nhằm
+nâng cao chất lượng hiệu quả của
+giải thuật Bài báo giới thiệu một giải pháp cho
+việc tách ảnh tự nhiên thông qua việc
+đưa ra một hàm chỉ phí dựa trên giả
+định về tính trơn địa phương của
+màu đối tượng và màu nền để thù
+được một hàm chỉ phí bậc hai của độ
+chắn sáng là. THẾ, tin có tính tương tác để
+có thể huấn luyện được các
+huỖng xảy ra trong thực tÉ chiến đâi 
+Công nghệ
+tỉnh Bình
+Dương Kỹ yếu Hội
+thảo Quân
+đội với
+nhiệm vụ
+bảo vệ môi Kỳ yếu hội
+thảo về ứng,
+dụng công
+nghệ mô
+phỏng trong,
+tác chiến
+điện tử của
+Cục TCĐT,
+06/2015 Tạp chí
+nghiên cứu
+Khoa học
+và công
+nghệ quân
+sự, 04/2015 
+Tạp chí
+nghiên cứu
+Khoa học
+và công
+nghệ quân
+sự, 04/2014 
+14 13 12 Blind Signature Protocol
+Based on DiffeuHy of
+
+Simultaneous — Solving 
+Nghiên cứu thiệt kê chê
+tạo học cụ huấn luyện
+bắn mục tiêu bay thấp
+cho lực lượng phời
+không địa phương (thiết
+bị mới) Enhancing the mining
+(op-rank-k  frequent
+patterns. SMC 2014:
+2008-2012 2//, Thạc sĩ Đỗ
+Việt Bình Phòng Sô hóa
+và điều
+khiển, Viện
+CNTT
+
+'Vũ Như Hải
+Lữ Hồng
+Châu
+Huỳnh Huy
+Cườn
+Nguyễn Chí
+Cường
+
+Trần Việt
+Dũng 
+Hoai Bac Le,
+Bay — Vo,
+Quyen
+
+Huynh-Thi-
+Le,  Tuong received increasing interest. This
+paper proposes the ïNTK algorithm,
+which is an improved version of the
+NTK algorithm, for mining top-rank-
+k fequent paterns. This algorithm
+employs an N-list structure to
+represent pattrns. The subsume
+coneept is used to speed up the
+process of mining  top-rank-k
+patems. The cxperiments are
+condueted to evaluate ïNTK and
+NTK in terms of mining time and
+memory tusape for eight đatasets. The
+experimental results show that INTK.
+is more efiieient and faster than
+NTK. Blind Signature Protocol Based on
+Diffieulty of Simultaneous Solving
+'Two Difficult Problems Huân luyện bản mục tiêu bay thập là
+một nội dung huắn luyện quan trọng,
+cho lực lượng phòng không địa
+phương nhưng học cụ phục vụ còn
+thiếu. Qua tìm hiểu thực tế, nhóm
+nghiên cứu đã thiết kế chế tạo học cụ
+thông qua đề tài và dự án KHCN cấp.
+TP HCM. Các sản phẩm nghiên cứu
+đã được đưa vào sử dụng tại một số
+đơn vị và đang được tiếp tục nghiên
+cứu hoàn thiện để trang bị cho nhiều.
+đơn vị khác 
+Frequent pattern mining generates a
+lot of candidates which spends a lot
+of usage memory and mining tỉme.
+Besides, in real applications, a small
+number of frequent pattems are used.
+Therefore, the problem of mining
+top-rank-k frequent patterns (TRFPs)
+is an interesting topic in recent years.
+This paper proposcs ïNTK algorithm
+for mining TRFPs. This algorithm.
+employs N-list structure generated
+by PPC-tree to reduce the memory
+usage. Besides, the subsume concept
+ïs also used to enhance the process of
+mining TRFPs. The experimental
+results show that iNTK outperforms
+NTK in terms of mining tìme and
+manhnnum Tạp chí
+Hikari, Vol.
+6,2012, no. (tạp chí
+nghiên cứu.
+khoa học và
+công nghệ
+quân sự,
+đặc san.
+CNTT 04-
+2014, trang
+267-271 
+21 12 18 17 
+16 Sự tương đương giữa mã
+Xyclic cục bộ xây dựng
+trên nhóm nhân Xyclic
+và mã Xyclie truyền
+thống Tích các nhóm nhân
+
+Xyclie trên phân hoạch
+vành đa thức. 'Về cấp của đa thức trong.
+vành 
+Nghiên cứu các đặc tính
+động lực học của tàu
+thủy phục vụ cho bài
+toán mô phỏng chuyển
+động của tàu tên lửa
+12418 Các nguy cơ từ tân công,
+bằng phân tích năng
+lượng vào thẻ thông Nghiên cứu xây dựng
+giải pháp hỗ trợ giám sát,
+quản trị hạ tầng mạng nội
+bộ Digital Signature
+Schemes fromTwo Hard
+Problems 
+Two Difficult Problems 1/, Nguyễn
+Văn Trung. 1/, Nguyễn
+Văn Trung }/, Nguyễn
+Văn Trung 
+Dương Hồng.
+Trường,
+
+Hồng Quyết,
+Đỗ Việt Bình 2//, Thạc sĩ Để
+Việt Bình 2//, Thạc sĩ Để
+Việt Bình "Về cấp của đa thức trong vành. 
+Nghiên cứu xây dựng giải pháp hỗ
+trợ giám sát, quản trị hạ tầng mạng,
+nội bộ Sự tương đương giữa mã Xyclic cục.
+bộ xây dựng trên nhóm nhân Xyclic
+và mã Xyclic truyền thống “Tích các nhóm nhân Xyclic trên phân
+hoạch vành đa thức. Nghiên cứu các đặc tính động lực
+học của tàu thủy phục vụ cho bài
+toán mô phỏng chuyển động của tàu
+tên lửa 1241.8 
+Các nguy cơ từ tân công băng phân
+tích năng lượng vào thẻ thông mình Digital Signature Schemes omTwo.
+Hard Problems Kỷ yếu hội
+gia về điện
+tử - truyền
+thông Hội Tạp chí
+nghiên cứu
+KHKT và
+Công nghệ
+Quân sự ;
+Số tháng
+4/2014.
+ISN1859-
+1043 
+Tạp chí
+khoa học và
+công nghệ,
+Học viện
+Bưu chính
+Viễn thông,
+
+1A/2013 Tạp chí
+nghiên cứu
+KHKT và
+Công nghệ
+Quân sự
+2015 Tạp chí
+nghiên cứu
+KHKT và
+công nghệ
+quên sự, số
+42014 Tạp chí
+Springer
+'Volume
+
+240,2013 
+139, 6903—
+6910 
+2+4 Một hướng đi mới trong
+tính toán thông minh ứng
+dụng trong hỗ trợ ra
+quyết định và lập kế
+hoạch Các mã xyclic xây dựng
+từ một lớp kề xyclic Các mã xyclic trên vành
+Mersenne 
+A classification of Linear
+Codes  Based on
+Algebraic Structures and
+Local Xylic Codes Bùi Quang
+Vinh,
+Nguyễn Đức
+Định, Hoàng
+'Văn Toàn, Lê
+'Yên Chỉ Bùi Quang
+Vinh,
+Nguyễn Đức
+Định, Hoàng
+'Văn Toàn, Lê
+'Yên Chỉ 1⁄/, Nguyễn
+Văn Trung. 
+I//, Nguyễn
+Văn Trung. 1//, Nguyễn.
+Văn Trung Các mã xyclic trên vành Mersenne. A classification of Linear Codes
+Based on Algebraic Structures and
+Local Xylic Codes 
+Bài báo giới thiệu về một hướng
+nghiên cứu mới trong lĩnh vực tính
+toán thông mỉnh đó là
+Computational Red Teaming (CRT),
+đây là hướng nghiên cứu còn mới ở
+Việt Nam. CRT là sự phát triển tự
+nhiên của các mô hình và phương
+pháp tính toán nhằm phục vụ hỗ trợ
+ra quyết định và lập kế hoạch trong.
+các lĩnh vực kinh tế, quản lý, an ninh
+quốc phòng... CRT có rất nhiều tiềm.
+năng để nghiên cứu và phát triển
+nhằm ứng dụng trong thực. tiễn hoạt
+động quân sự. CRT hứa hẹn một
+phương pháp tính toán mới để giải
+quyết nhiều bài toán phức tạp trong
+Tĩnh vực hỗ trợ ra quyết định và lập Các mã xyclic xây dựng từ một l‹
+kề xycie "¬ ISN1859-
+1043 Tnternationa.
+1on ATC 14
+15-
+17/10/2014;
+http://ieexpl
+©ore.ieee.Org/.
+xpl/articleD.
+etail.jsp2rel
+oad=true&a
+mumber=70
+43410 
+Vô tuyến
+điện từ Việt
+Nam. Ngày
+17-
+
+18/12/2013 Tạp — chí
+nghiên cứu
+Khoa học
+và — công
+nghệ quân
+sự, 04/2014 Tạp chí
+nghiên cứu
+KHKT và
+Công nghệ
+Quân sự ;
+Số - tháng
+10/2015.
+ISN1859-
+1043 ¬
+32 31 2 Cơ chế luân chuyển dòng
+job trong mạng hàng đợi
+dạng tổng quát G/G/J 
+Một vài kết quả nghiên
+cứu về trạng thái của
+mạn hàng đợi
+(Queueing network) dạng
+tổng quát G/G/J (J e N*) Ứng dụng công nghệ xử
+lý song song của bộ xử lý
+đồ họa để tăng tốc độ
+tính toán của thuật toán
+tách nền trong thị giác
+máy tính Thiết kế chế tạo thiết bị
+lịnh vị GPS và xây dựng
+hệ thống giám sát hành
+trình Real-time
+implementation of melp
+vocoder onn TỊ fxed-
+point tms320c55x đẹp 
+§peech analysi
+synthesis based on the
+periodic-aperiodie
+đecomposition and
+autoregresiVes
+parameterization. Exploitaion of smart
+cards and  human
+biometrics attributes Exploitaion of smart
+cards and  human
+biometrics attributes Nguyễn
+Trung Dũng,
+Trần Quang 
+Nguyễn.
+Trung Dũng,
+Nguyễn Hải
+Nam Hoàng Đình
+Thắng, Thái
+Trung Kiên,
+Cao Đăng
+Huy, Nguyễn
+Chí Thành Phạm Văn
+
+Hậu, Đỉnh
+Văn Ngọc,
+Lê Thị
+Hương, Trần
+Anh Đức,
+Thái Trung
+
+Kiên Trần Duy
+Hòa, Nguyễn
+Hữu Mộng,
+Lê Thị
+Hương, Thái
+Trung Kiên 
+Bùi Quang
+Vinh, Đỗ
+Ngọc Phục,
+Nguyễn Đình
+Huấn Cơ chế luân chuyển dòng job trong
+mạng hàng đợi dạng tổng quát G/G/J Một vài kết quả nghiên cứu về trạng.
+thái của mạng hàng đợi (Queueing
+network) dạng tổng quát G/G/J
+(JSM) Bài báo này giới thiệu về kỹ thuật xử
+lý song song của bộ xử lý đồ họa và
+ứng dụng vào bài toán tách nền trong.
+thị giác máy tính để phát hiện đối
+tượng chuyển động trong ảnh, video. 
+Bài báo này giới thiệu tổng quát hệ
+thống giám sát hành trình sử dụng
+thiết bị định vị GPS trong quản lý,
+giám sát phương tiện, các khả năng
+ứng dụng trong an ninh quốc phòng.
+cũng như dân sự. Bài báo trình bày về mô hình nén
+thoại thuật toán MELP cũng như
+thực hiện thuật toán này trên nền
+chíp DSP TMS320C55X, và kết quả
+thử nghiệm trên bộ dữ liệu nói tiếng.
+Việt Bài báo công bố kết quả nghiên cứu,
+đánh giá thử nghiệm mô hình hài
+cộng tạp ứng dụng cho việc phân
+tích, tổng hợp tiếng nói Bài báo giới thiệu việc sử dụng thẻ
+thông minh và các đặc điểm nhận
+dạng sinh học của con người trong
+xây dựng các cơ chế xác thực điện
+tử. Cụ thể là kỹ thuật nhận dạng vân.
+tay tích hợp trong thẻ thông minh.
+Bài báo cũng để cập đến các định.
+hướng phát triển của kỹ thuật này
+trong tương lai. 
+Tạp — chí
+Nghiên cứu
+
+Quân sự, số Tạp chí
+nghiên cứu
+Khoa học
+và công
+nghệ quân
+sự, 04/2014 Tạp — chí
+Nghiên cứu
+KH&CN
+Quân sự, số
+26, tr41-53 Tạp — chí
+nghiên cứu
+Khoa học
+Và — công
+nghệ quân
+sự, 04/2014 
+Kỳ yếu hội
+nghị tổng
+kết công tác
+NCKH
+ngành
+TCĐLCL
+giai đoạn
+2006 - 2010 Tạp chí
+nghiên cứu
+Khoa học
+và công
+nghệ quân
+sự, 04/2014 Tạp chí
+nghiên cứu
+Khoa học
+Và — công
+nghệ quân
+sự, 04/2014 
+3 Phân tích và đề xuất mô
+hình toán dựa trên mô
+hình đại số quan hệ cho
+việc xử lý cơ sở dữ liệu
+chuỗi thời gian Một phương pháp phân
+tíh mạng hàng đợi đa
+lớp tổng quát G/G/J Toward an Agent Based
+Distllaion Approach foi
+Protestng. Crowc
+Simulation 
+Ưng dụng hệ đa tác tủ
+trong mô phỏng, nghiên
+cứu tình huông tác chiến Nguyễn Doãn
+Cường,
+Phùng Trần
+Thị Thu
+Phương Anh,
+Phạm Đình
+Cường, Phạm
+Minh - Hải,
+Nguyễn
+'Thanh Sơn Nguyễn
+Trung Dũng,
+Hà Mạnh
+Tiến Bùi = Thu
+Lâm, Mạc
+'Văn Viên 
+Bùi Huy
+Ngọc, Mạc
+'Văn Viên Phân tích và đề xuất mô hình toán
+dựa trên mô hình đại số quan hệ cho
+việc xử lý cơ sở dữ liệu chuỗi thời
+gian Một phương pháp phân tích mạng
+hàng đợi đa lớp tổng quát G/G/J Trong bài báo này trình bày những
+iên cứu bước đầu về hệ
+
+ 
+
+đa tác tử và việc ứng dụng hệ đa tác
+
+ 
+
+chủ yếu đã giải quyết gồm: Mô hình
+hóa tình huông; Xây dựng hoạt cảnh
+mô phỏng tỉnh huồng; Ứng dụng hệ
+đa tác từ CROCADILE để nghiệ
+
+ 
+
+'Những nghiên cứu ban
+sự phù hợp giữa kết quả mô phỏng
+
+ác đánh giá của chuyên gia quân
+¡ với một tình huống tác chiến
+phức tạp, cũng như sự phù hợp giữa
+kết quả mô phỏng với kết quả giải
+tích đối với những tình huống đơn
+èu đó khẳng định tính khả thí
+khai thác sử dụng các hệ đa
+tác tử hiện có trên thị trường để phục
+vụ việc nghiên cứu phát triển công
+nghệ đa tác tử trong nước cũng như
+hỗ trợ các chuyên gia quân sự trong,
+nghiên cứu, đánh giá các tình huống
+tác chiến. 
+This paper proposes to investigate
+the problem of protesting crowd
+simulation, one of the most
+fascinating types of human crowd. lt
+considers CROCADILE, an agent
+based distillation system, for this
+purpose. A model of protestng Tạp — chí
+Khoa học
+và Kỹ thuật
+- Học viện
+KTQS, số
+172, trl5-
+31 TInformation
+Systems for
+Crsis
+Response.
+and
+Managemen Hội nghị
+khoa học lấr
+thứ 15 - Học
+Viện KTQS
+(1-2011). 10
+Vấn để mô phỏng hành
+vi đám đông trong xã hội
+và ứng dụng - Sự phát Ứng dụng một số kỹ
+thuật khai phá dữ liệu
+trong phân tích hoạt cảnh
+mô phỏng đám đông, Ứng dụng công nghệ đa
+tác tử để xây dựng phần
+mềm mô phông trận đánh Phan Nguyên
+
+'Văn Viên 
+Phan Nguyên
+
+'Văn Viên Mạc Văn
+Viên Bài báo trình bày vấn đề mô hình
+hóa và mô phỏng đám đông nhằm
+khám phá các quy luật, các hành vi
+có thể của đám đông. Tổng quan các
+cách tiếp cận mô hình hóa, các công.
+nghệ và hệ thống mô phỏng đám
+đông. Đề xuất phương pháp ứn;
+
+dụng các kỹ thuật khai phá dữ liệu đ
+
+trích rút các quy luật, các hành vi của
+đám đông từ dữ liệu thu được qua
+mô phỏng đám đông. Các quy luật,
+hành vi thu được qua khai phá dữ
+liệu có thể hỗ trợ ra những quyết
+định phù hợp cho việc điều khiển
+đám đông. Trong bài báo này chúng tôi trình
+'bày những kết quả nghiên cứu về mô.
+hình hóa các thành phần chính trong.
+hệ thống mô phỏng trận đánh bao.
+gộm trận địa và các thực thể chiến
+đầu. Dựa trên kết quả đó, chúng tôi
+xây dựng một phần mềm demo trên
+nền tảng mã nguồn mở MASON. Mô
+phỏng trận đánh là một vấn đề rộng
+lớn và phức tạp cần phải đầu tư
+nghiên cứu nhiều hơn nữa thì mới có
+được một phần mềm có tính ứng
+dụng. Bài báo này cung cấp cho
+người đọc một kiến thức tổng quan
+về mô hình hóa, mô phỏng trận đánh.
+dựa trên công nghệ đa tác tử. 
+cerowd was determined and then a
+CROCADILE model of protesting
+crowd was built and đemonstrated.
+'We validated the model by using two.
+scenarios where protesters are varied.
+with điẾerent personalities. The
+simuladon results ¡indicated that
+CRODACILE served well as the
+plaáfom for protesing crowd
+modeling simulation. Sự — phát
+triển của
+công nghệ
+thông tin và
+ứng dụng Tạp chí
+Nghiên cứu
+khoa học và
+công nghệ
+quân sự -
+Viện Khoa
+học và công
+nghệ quân
+sự, -
+2014. 
+4l triển của công nghệ
+thông tin và ứng dụng
+trong công tác Công an -
+Những vấn đề đặt ra
+trong công tác đào tạo,
+bồi dưỡng nguồn nhân
+lực công nghệ thông tin
+của Trường Đại học Kỹ
+thuật ~ Hậu cần Công an
+nhân dân, 09-2015. SƠ ĐỒ CHỮ KÝ SỐ
+SỬ DỤNG CHUỖI MÃ
+BĐCH PHƯƠNG PHÁP
+THẾ GIẢI MÃ
+HIỆU QUẢ MÃ
+BCH 
+Bài báo để xuất sơ đổ chữ ký số dựa
+trên hệ mật McEliece sử dụng chuối Các phương pháp đại số giải mã mã
+BCH thường yêu câu giải phương
+trình bậc cao trên trường Galoa nên
+có độ phức tạp cao. Một biện pháp
+hiệu quả để giảm độ phức tạp của
+giải mã syndrome là sử dụng thuật
+toán thế. Bài báo trình bày giải mã
+thế trên cơ sở phân loại dịch vòng
+vector lỗi theo chuẩn syndrome, tham
+số được tính dựa trên cấu trúc đại số
+cửa mđ. Nhờ phân hoạch các vector
+lỗi thành các tập con tương đương
+không giao nhau có thể giải mã ngoài
+giới hạn sửa lỗi. Bộ giải mã theo
+phương pháp đề xuất có thể thực hiện
+trên mảng logic lập trình được có
+mức tác động nhanh cao và độ phức
+tạp thấp hơn các bộ giải mã đại số
+thông thường. việc sử dụng các hệ thông mô phỏng.
+để giải quyết bài toán điều khiển đám.
+đông trong lĩnh vực bảo đảm an ninh
+xã hội. trong công
+tác Công an
+-.— Những
+vấn để đặt
+Ta — trong
+công - tác
+đào tạo, bồi
+dưỡng
+RgiÖn: nh
+lực công
+nghệ thông
+tin của
+Trường Đại
+học - Kỹ
+thuật = Hậu
+cần Công an
+nhân đân,
+09-2015. 
+Tạp chí
+Nghiên cứu Tạp chỉ
+Nghiên cứu.
+Khoa học
+và Công
+nghệ Quân
+sự, ISSN
+1859—
+1043, số đặc
+san, 05-
+2012, tr3-9. `.
+
+ 
+
+ 
+
+12
+“ SIMULTANEOUS
+CORRECTION
+RANDOM AND
+BURST ERRORS
+USING NORM
+SYNDROME FOR
+BCH CODES MỞ RỘNG KHẢ
+NĂNG SỬA LỖI CỦA DỰA TRÊN CHUẨN
+SYNDROME 
+VĂN THÁI HOAN, VŨ
+SƠN — HÀ,
+PHẠM VIỆT
+TRUNG, LÊ
+'VĂN THÁI Bài báo nghiên cứu giải mã thế trên.
+cơ sở phân loại dịch vòng vector lỗi
+theo chuẩn syndrome, tham số đặc
+trưng cho cấu trúc đại số của mã.
+Nhờ phân hoạch các vector lỗi thành
+các tập con tương đương không giao.
+nhau mã BCH và biến thể có thể sửa
+được đồng thời lỗi ngẫu nhiên và lỗi
+chim, Phương pháp thế giải mã mã BCH
+dựa trên chuẩn syndrome được
+nghiên cứu trong bài báo cho phép
+sửa đồng thời các lỗi ngẫu nhiên và
+một số cấu hình lỗi chùm đặc biệt.
+Cơ sở của việc giải mã ngoài khả
+năng sửa của mã là phân loại các cấu
+hình lỗi theo tham số chuẩn
+syndrome đặc trưng cho cấu trúc mã.
+Trong bài báo này cũng trình bày
+thiết bị giải mã tác động nhanh theo
+phương pháp đã nghiên cứu và đánh
+giá chất lượng của bộ giải mã. 
+mã BCH và giải mã thế dựa trên
+chuẩn syndrome, tham số mới đặc
+trưng cho cấu trúc mã. Sơ đồ chữ ký
+được để xuất cho phép sử dụng các
+mã có chiểu dài và khoảng cách mã
+không lớn nhưng tăng số lượng lỗi có
+thể sửa được, tăng tốc độ mã hóa,
+giảm độ phức tạp ký và xác nhận,
+đồng thời cho phép xây dựng sơ đồ
+tủa thữ kÝ su tần. REV 2013-
+Ký yếu Hội
+nghị Quốc
+gia về Điện
+tử - Truyền
+thông, Hội
+Vô tuyến
+Điện tử Việt
+
+nam, Tạp chí
+Nghiên cứu.
+Khoa học
+và Công
+nghệ Quân
+sự, ISSN
+1859 ~
+1043, đặc
+san CNTT,
+04-2014, tr.
+16-22. Khoa học
+và Công
+nghệ Quân
+sự, ISSN
+1859—
+1043, số đặc
+san, 05-
+2013, tr. 47-
+56. 
+“4 PHƯƠNG PHÁP NÉN
+CHUẨN SYNDROME
+GIẢI MÃ MÃ BCH “Tóm tất văn bản tiếng
+Việt dựa vào kỹ thuật
+Voting” “Lựa chọn tập gán nhãn
+ranh giới từ cho mô hình
+Markov Ấn trong bài toán
+tách từ tiếng Việt” 
+MỞ RỘNG KHẢ NĂNG
+SỬA LỖI CỦA MÃ.
+REED.SOLOMON SỬ
+DỤNG CHUẨN
+SYNDROME KHÁC
+HOAN,
+SƠN HÀ,
+
+EÉ PHẠM KHÁC
+HOAN, VŨ
+SƠN — HÀ.
+NGUYÊN THỊ
+THU NGA Nguyên Nhật
+Án, Trân
+Neoc Anh 
+Trân Ngọc
+Anh, Nguyễn
+Nhật An
+(2011) Phương pháp giải mã thế mã BCH
+được trình bày trong bài báo cho
+phép giảm độ phức tạp khi sửa lỗi bội
+cao. Dựa trên phép thế cyclotomie và.
+phép thế dịch vòng có thể phân loại
+các vector lỗi thành các lớp
+cyclotomic. Mặt khác, khi thực hiện
+phép biến đổi syndrome sao cho
+thành phần thứ nhất của syndrome
+bằng 0 có thể giảm đáng kể số lượng
+
+chuẩn svndrome cần xử lý. Bài bảo nghiên cứu giải mã thế mã
+Reed-Solomon trên cơ sở phân loại
+dịch vòng veelor lỗi theo chuẩn
+syndrome, tham số đặc trưng cho cầu
+trúc đại số của mã. Với mã Reed-
+Solomon (RS). các vector lỗi sẽ được.
+chia thành các A-orbi. Nhờ phân
+hoạch các modul lỗi thành các tập
+con tương đương không giao nhau
+nên mã RS có thể đẳng thời sửa được
+
+lỗi modul và lỗi chùm. Tóm tắt văn bản tiếng Việt dựa vào.
+kỹ thuật Voting 
+Lựa chọn tập gán nhãn ranh giới từ
+cho mô hình Markov ẳn trong bài
+toán tách từ tiếng Việt 12/2013. tr
+154-158. Tạp chí
+Nghiên cứu
+Khoa học
+và Công
+nghệ Quân
+sự, ISSN
+1859 -
+1043, số 32.
+08-2014. tr.
+91-96. Chuyên san
+Công nghệ
+thông tin 
+Tạp chí
+Nghiên cứu
+Khoa học.
+và Công,
+nghệ quân
+sự, ISSN
+1859-1043.
+đặc san
+11/2011,
+tr91-99, Tạp chí
+Nghiên cứu
+Khoa học
+và Công
+nghệ Quân
+sự, ISSN
+1859—
+1043, số 36.
+04-2015. tr.
+103-109, 1
+“2 | - : “Kỹ thuật Voting trong
+bài toán tách từ tiếng
+Việt, bài toán gán nhãn lớp
+thực từ, hư từ tiếng Việt” 
+Thanh
+Quyên Trn
+Ngọc Anh,
+Nguyễn Nhật
+An (2014) Nguyễn Nhật
+An, Trần
+Ngọc Anh,
+
+Nguyệt Hoa
+(2014) (2014) Nguyễn Nhật
+Án, Trần
+Ngọc Anh,
+'Nguyễn Đức
+Hiểu (2014) 
+"Tôi ưu hoá đàn kiến trong bài toán
+tách từ tiếng Việt Kỹ thuật Voting trong bài toán tách.
+từ tiếng Việt Kỹ thuật voting trong bài toán gán
+nhãn lớp thực từ, hư từ tiếng Việt “Xác định các hệ sô phương,
+bài toán tóm tất văn bản tỉ lì
+dựa vào kỹ thuật Voting. 
+k.
+Nghiên cứu
+Khoa học
+và Công
+nghệ quân.
+sự, ISSN
+1859-1043,
+Đặc san
+CNTT,
+04/2014,
+tr219-220. Tạp chí
+Nghiên cứu
+Khoa học
+và Công
+nghệ quân
+sự, ISSN
+1859-1043,
+Đặc san
+CNTT,
+04/2014,
+tr.54-61. Tạp chí
+Nghiên cứu
+Khoa học
+và Công
+nghệ quân
+sự, ISSN
+1859-1043,
+Đặc san
+CNTT,
+04/2014,
+tr.54-61. thông
+(ICT)
+thuộc Tạp
+chí Khoa
+học và Kỹ
+thuật, Học
+viện Kỹ
+thuật quân
+sự, ISSN
+1859-0209 
+Nghiên cứu
+Khoa học
+và Công.
+nehê quân Tạp chí
+Khoa học
+và Công.
+nghệ, Đại
+học Công,
+nghiệp Hà
+nội, ISSN
+1859-3585,
+số 23,
+08/2014,
+trl5-18, 
+Nghiên cứu chế tạo card
+giao tiếp chuyên dụng
+MLO trong khối máy
+ính BMI của hệ thống
+điều khiển phóng tên lửa.
+3M-242 bằng công nghệ
+thiết kế ngược Nghiên cứu chuẩn giao
+tiếp HPIIC và dữ liệu
+trao đổi qua WIPIIC trong.
+hệ thống kiểm tra chẩn
+đoán tham số AKHA6.3 Nghiên cứu hệ điều hành
+mã nguồn mở trên hệ
+thống nhúng. Giải pháp công nghệ
+USB high-spced cho thiết
+bị huấn luyện báo vụ đa
+kênh 
+Phươn; ính xác
+
+hương pháp chính x
+
+2 pháp Fourier
+g phá
+
+phươn,
+
+Bung Tóm tắt văn bản tiên
+Việt dựa trên bộ hệ
+đặc trưng”, “Xác định các hệ số đặc
+trưng bằng giải thuật đi
+truyền cho bài toán tóm
+tắt văn bản tiếng Việt” Phạm Xuân
+Công, Định
+'Văn Ngọc 
+Hiểu, Trân
+Ngọc Anh
+(2014) 'Vũ Hoàng
+Anh, Đào
+'Văn Hưng,
+Đỗ Xuân
+Ngọc Đồ Xuân
+Ngọc, Dương
+Phú Tuần,
+Nguyễn Minh
+Thường Ngọc Anh
+(2014) 
+Dương Phú
+Tuẫn Nguyễn Nhật
+An, Nguyễn
+Quang Bắc,
+Nguyễn Đức
+Hiểu (2015) Nghiên cứu chế tạo card giao tiếp
+chuyên dụng MIIO trong khối máy
+tính BMI của hệ thống điều khiển
+phóng tên lửa 3M-242 bằng công
+nghệ thiết kế ngược. Nghiên cứu chuẩn giao tiếp WPIIC
+n dữ liệu trao đổi qua MPIIC trong
+
+hệ thống kiểm tra chân đoán tham số
+AKIA63 
+Nghiên cứu hệ điều hành mã nguồn
+mở trên hệ thống nhúng. Xác định các hệ sô đặc trưng bằng,
+giải thuật di truyền cho bài toán tóm.
+tắt văn bản tiếng Việt Giải pháp công nghệ USB hiph-
+speed cho thiết bị huần luyện báo vụ
+đã kênh Phương pháp chính xác hóa phương,
+vị bằng phương pháp Fourier Burg 
+'KÔHR), VNI DđN, ĐỒNG 'Y JNEUTB0,TIM,
+bộ hệ số đặc trưng Số 39,
+10/2015 sự, ISSN
+1859-1043,
+số 32,
+08/2014,
+tr.82-90. Số 39,
+10/2015 
+Số 34,
+12/2014 Tạp chí
+Nghiên cứu
+Khoa học
+và Công
+nghệ quân
+sự, ISSN
+1859-1043,
+số 32,
+08/2014,
+tr36-46. Số 8, 2010 Tạp chí
+Nghiên cứu
+Khoa học
+và Công.
+nghệ quân
+sự, ISSN
+1859-1043.
+số 35,
+02/2015,
+tr.59-69. ẢN shư2
+Tự động nhận dạng tín
+hiệu âm thanh Morse
+trong điều kiện ít tạp âm Nghiên cứu làm chủ khối
+BMI - máy tính điều
+khiển máy KBI63II của
+hệ thống điều khiển
+phóng tên lửa 3M-242. Nguyễn Văn.
+Hùng,
+Nguyễn Thái
+Hòa Phạm Xuân
+Công, Phạm.
+"Văn Hậu,
+Dương Mạnh
+Cường, Định
+'Văn Ngọc,
+Nguyễn Văn
+Bình, Thân
+Văn Doanh 
+'Tự động nhận dạng tín hiệu âm thanh
+Morse trong điều kiện ít tạp âm. Nghiên cứu làm chủ khối BMI -
+máy tính điều khiển máy KBI6311
+của hệ thống điều khiển phóng tên
+lửa 3M-242 Sô kỷ niệm
+55 năm
+Viện
+KHCNQS,
+10/2015 Số 40,
+122015 

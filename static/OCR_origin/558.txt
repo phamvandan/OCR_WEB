@@ -1,0 +1,460 @@
+'VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 36 /VCNTT-KH Hà Nội, ngày .É tháng 3 năm 2017
+V/v đề xuất xây dựng sản phẩm nghiên.
+cứu mục tiêu.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ vào công văn số 57/TMKH-BKHCNMT ngày 02/3/2017 của
+Phòng Tham mưu — Kế hoạch/Viện KHCNQS về việc đề xuất xây dựng sản
+phẩm nghiên cứu mục tiêu,
+
+Viện Công nghệ thông tin đề xuất xây dựng các sản phẩm nghiên cứu
+mục tiêu như sau:
+
+1. Hệ thống điều khiển phóng tên lửa 3M-242 trên tàu ĐKT — 1241.8.
+
+2. Hệ thống cơ sở dữ liệu, phần mềm tự động nhận dạng mục tiêu quốc
+gia.
+
+3. Hệ thống phần mềm tự động hóa xử lý, tổng hợp thông tin và hỗ trợ ra
+quyết định tại các sở chỉ huy Bộ tư lệnh Cảnh sát biển.
+
+(Thông tin chỉ tiết trong phụ lục kèm theo)
+
+Kính chuyển Phòng TM-KH/Viện KHCNQS xem xét. JffÍy
+
+Nơi nhận:
+
+~ Như trên;
+- Lưu: VT, KH; H03.Đơn vị: Viện Công nghệ thông tin
+
+DANH MỤC ĐÈ XUẤT XÂY DỰNG SẢN PHM NGHIÊN CỨU MỤC TIÊU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: Lệ mô
++r | Tênsản Tính cấp thiết xây. | Tính đặc thù trong | tràm lượng khoa học của sẵn | tiên và gng trình tân sinh
+hÌm dựng sản phẩm nghiên cứu ra sản Thu ôn“ft die triển khai ứng. nghiên ñạtvực
+, cho Viện CNTT phẩm của Viện , k dụng Km .
+
+T [Hệ thống | Phục vụ nghiên cứu | Nỗi tiếp các đề tài |- Nghiên cứu làm Chủ hoàn toàn | Phát triển và tiếp nỗi | 2017-_ | 01 bộ, bao gồm:
+điều khiển |và từng bước làm |nghiên cứu, khai| hệ thống điều khiển phóng tên | các thành công từ | 2020 01 máy
+phóng tên | chủ tổ hợp tên lửa | thác, làm chủ tổ hợp | lửa 3M-242 trên tàu 1241.8 Đề án KCT giai KUI63C-VN
+lửa - 3M-|3M-242 tên lửa 3M-242 của | - Dịch ngược, viết lại hệ thống | đoạn 1. 02 máy
+242 trên Viện Công nghệ| phần mêm điểu khiến 'Năng lực của đơn vị KBI63P-VN
+tàu ĐKT — thông tỉn trong các | - Phân tích, Thiết kế ngược một | thực hiện rất tốt, có 02 giả đạn IR-
+12418 năm qua số card chuyên dụng, nhiều kinh nghiệm. 60VN
+
+- Lập trình thời gian thực, lập Sản phẩm được
+trình nhúng ứng dụng toàn
+~ Công nghệ FPGA, Oncchip bộ trên các tàu
+Hải quân lớp
+12418, và các
+tàu M của Vùng
+2 HQ, Vùng 4
+
+HQ
+
+2 |Hệ thống J= . ——T- Cc thuật toán phân tích xử lý | - Hệ thông sản phẩm | 2018- | Sản phẩm là hệ
+cơ sở dữ|  - Hệ thống nhận| Hệ thống nhận tín hiệu ôm thanh thủy âm sẽ được triển khai| 2025 |thống phần
+liệu, phần | SMS mMG TH dạng tự động mMC|_ Các thuật toán phân ch nhận|_ sử dụng ti sở chỉ mềm / phần
+mềm _ tr be hộ TÊ | no: vợt |_ đệng Xử lý ảnh huy các quân bình cứng tích hợp
+động nhận | tội Hành ti bàn XP với |, Các thuật toán học máy t tuệ |_ chủng, cùng dẹp có thể triển khai
+dạng MP Thiền - B0 nghiên Su sã Viện nhân tạo, khai phá dữ liệu bức tranh tổng, tại sở chỉ quy
+tiêu quốc| ni. viên khai và | CNTT, Các nội đun ~ Khảo sát đánh giá các loại mục | _ về tình hình chung, các quân bình
+
+2„M-
+Tính cấp thiết xây | Tính đặc thù trong
+dựng sản phẩm nghiên cứu ra sản
+cho Viện CNTT phẩm của Viện
+
+'Tên sản
+
+Hàm lượn:
+phẩm ẫ
+
+phi
+
+ 
+
+Hệ thông | Phục vụ nghiên cứu | Nỗi tiếp các đề tài | - Nghiên cứ
+điều khiển |và từng bước làm |nghiên cửu, khai| hệ thống.
+phóng tên | chủ tổ hợp tên lửa | thác, làm chủ tổ hợp | lủa3M-2⁄4
+
+ 
+
+ 
+
+ 
+
+lửa - 3M-|3M-242 tên lửa 3M-24 của | - Dịch ngư
+242 trên Viện Công nghệ| phần mềm
+tàu ĐKT ~ thông tin trong các | - Phân tích
+1241.8 năm qua số card ch
+- Lập trình
+
+trình nhút
+
+~ Công ngh
+
+Hệ thống ~ Các thuậ
+
+- Hệ thống nhận| Hệ thống nhận ị
+liệu ¬ dạng mục tiêu quốc | dạng tự động mục NI
+b gia là một phần của |tiêu quốc gìa là sản
+
+mềm tự dạng xử]
+hệ thống tự động hóa | phẩm phù hợp với | „
+
+mn "hữn Ìchi huy, đã được|các địh hướng cm
+
+tiêu quốc trên thế | nghiên cứu của Viện | _ khảo sát
+
+ 
+
+ 
+
+ 
+
+ 
+
+iới triển khai và | CNTT. Các nội duni Tên sẵn
+phẩm Hệ thông
+điều khiển
+phóng tên
+lửa 3M-
+242 trên
+tàu ĐKT ~
+12418 Hệ thông
+cơ sở dữ
+liệu, phần
+mềm tự
+động nhận
+dạng mục
+tiêu qu 
+Tính cấp thiết xây
+dựng sản phẩm
+cho Viện CNTT Phục vụ nghiên cứu
+và từng bước làm
+chủ tổ hợp tên lửa
+3M-242 Tính đặc thù trong
+nghiên cứu ra sản
+phẩm của Viện
+
+Nỗi tiếp các đề tài
+nghiên cứu, khai
+thác, làm chủ tổ hợp
+tên lửa 3M-242 của
+Viện Công nghệ
+thông tin trong các
+năm qua : Lệ | Quymôsản
+ccñasản |1ínhkhảthikhi | tình | phẩm có thể
+triển khai ứng, đã
+,c ủ nghiên |  đạtđược
+lụng Sâu
+Toàn toàn | Phát triển và tiếp nội |2017- _ | 01 bộ, bao gồm:
+phóng tên | các thành công từ|2020  |01 máy
+12418 |Đề án KCTT giai KUI63C-VN
+¡ hệ thống | đoạn 1. 02 máy
+n Năng lực của đơn vị KBI63P-VN
+ngược một | thực hiện rất tốt, có 02 giả đạn IR-
+` nhiều kinh nghiệm. 60VN
+¡ thực, lập Sản phẩm được
+ứng dụng toàn
+Dnechip bộ trên các tàu
+Hải quân lớp
+12418, và các
+tàu M của Vùng
+2 HQ, Vùng 4
+HQ
+ì tích xử lý | - Hệ thống sản phẩm | 2018- | Sản phẩm là hệ
+ủy âm sẽ được triển khai | 2025 | thống phần
+n tích nhận | sử dụng tại sở chỉ mềm / phần
+huy các quân bình cứng tích hợp
+máy, trí tuệ | chủng, cung mì có thể triển khai
+lữ liệu bức tranh tổng. tại sở chỉ quy
+ác loại mục |_ về tình hình chung, các quân bình
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tùww 
+Tính khả thỉ khi
+triển khai ứng
+dụng Phát triên và tiếp nỗi
+các thành công từ
+Đề án KC-T giai
+đoạn I.
+
+Năng lực của đơn vị
+thực hiện rất tốt, có
+nhiều kinh nghiệm.
+
+~ Hệ thông sản phẩm
+sẽ được triển khai
+sử dụng tại sở chỉ
+huy các quân binh
+chủng, cùng có
+bức tranh tổng. vã
+về tình hình chung trình
+nghiên 2017-
+2020 
+_2018-
+2025 Quy mô sản
+phẩm có thể
+đạt được
+
+ 
+
+02 giả đạn IR-
+60VN
+
+Sản phẩm được
+ứng dụng toàn
+bộ trên các tàu
+Hải quân lớp
+12418, và các
+tàu M của Vùng
+2 HQ, Vùng 4
+HQ 
+gia ứng dụng hiệu quả
+trong thực tiễn.
+
+~ Ngoài nước, các
+nghiên cứu về hệ
+thống tự động nhận
+dạng mục tiêu đã
+được nghiên cứu từ
+nhiều năm nay, và
+các báo cáo nghiên
+cứu thường tập trung.
+chủ yếu riêng lẻ với
+mục tiêu mặt đất.
+
+- Trong nước,
+việc hệ thống hóa
+các dạng mục tiêu
+chưa được đầu tư
+nghiên cứu, cũng
+như chưa có hệ
+thống chung về cơ
+sở dữ liệu mục tiêu
+quốc gia.
+
+~ Do vậy mục tiêu
+của đề xuất này là
+xây dựng hệ thống
+tích hợp nhận dạng,
+mục tiêu quốc gia,
+phục vụ quá trình tự.
+động hóa chỉ huy, hỗ
+trợra quyết định. Hệ nghiên cứu chính để
+tạo ra sản phẩm bao
+gồm:
+
+- Nghiên cứu các
+thuật toán phân tích,
+trích xuất đặc trưng
+của các dạng mục
+tiêu: như xử lý tín
+hiệu dưới nước; phân
+tích xử lý ảnh mục
+tiêu...
+
+~ Nghiên cứu các
+thuật toán học máy,
+deep leaming, trí tuệ
+nhân tạo trong việc
+tự động nhận dạng
+mục tiêu.
+
+~ Nghiên cứu các
+thuật toán hỗ trợ ra
+quyết định, khai phá
+dữ liệu.
+~ Phát triển hệ thống
+tích hợp phần mềm,
+phần cứng tiêu và các phương pháp đánh.
+giá — nhận dạng mục tiêu.
+
+- Nghiên cứu xây dựng hệ thống
+đặc trưng của các đạng mục
+tiêu.
+
+- Nghiên cứu các phương pháp,
+thuật toán trích xuất đặc trưng,
+dữ liệu mục tiêu.
+
+- Nghiên cứu các phương pháp,
+thuật toán học máy tự động
+nhận dạng mục tiêu.
+
+- Nghiên cứu xây dựng hệ thông
+tự động nhận dạng mục tiêu:
+
++ Hệ thống tự động nhận
+dạng mục tiêu đưới nước.
+
++ Hệ thống nhận đạng
+mục tiêu mặt đất
+
++ Hệ thống nhận dạng
+mục tiêu trên không, 
+về vùng biến, yên
+không và các điểm.
+nóng mặt đất.
+
+- Hệ thống là sự tích
+hợp dữ liệu từ các
+nguồn thông tin
+của các quân binh.
+chủng, chủng như: Hải
+quân, cảnh sát
+biển, không
+quân, và các
+quân khu / quân 
+Hệ thống
+phần mềm
+tự động
+hóa xử lý,
+tổng hợp
+thông tỉn
+và hỗ trợ
+Ta - quyết
+định tại
+các sở chỉ
+huy Bộ tư
+lệnh Cảnh
+sát biển - Xuất phát từ yêu
+cầu xây dựng các hệ
+thống sở chỉ huy các
+theo mô hình tự
+động hóa C3I, CẠI
+của thế giới.
+
+- Tíh hợpxử lý,
+trao đổi, tổng hợp
+thông tin theo các
+chuyên đề từ các hệ
+thống giám sát vùng,
+trời, nhận dạng tàu
+biển AIS, thông tin
+nghệp vụ hàng
+ngày...
+
+- Xuất phát từ nhu
+cu xây dựng
+phương án tác chiến,
+xử lý tình huống
+nhanh tại các SCH thông sẽ được xây
+dựng và phát triển
+trong nhiễu năm, và
+có tính chất lâu dài ~ Định hướng nghiên
+cứu và các sản phẩm
+nghin cứu trong
+lĩnh huấn luyện diễn
+tập, chỉ huy điều
+hành của Viện
+CNTT
+
+- Xây dựng các sản
+phẩm ứng dụng tại
+SCH các cấp và các
+đơn vị trong Quân
+đội. 
+- Khảo sát, phân tích,ích hợp
+các nguồn dữ liệu nghiệp vụ,
+hình ảnh từ vệ tỉnh, từ các tầu,
+số liệu báo cáo nghiệp vụ hàng
+ngày, hệ thống nhận dạng tàu
+biển AIS, dữ liệu vùng trời.
+
+~ Thiết kế, xây dựng các phần
+
+mềm tích hợp, xử lý và tổng hợp
+dữ liệu nghiệp vụ, phần mềm
+phân phối, trao đổi thông tin,
+truy xuất và hiển thị thông tin,
+xây dựng phương án tác chiến
+và trình chiếu giao ban tại các sở.
+chỉ huy - Các sản phẩm
+nghiên cứu trong
+lĩnh huấn luyện diễn
+tập của đã được triển
+khai thực tế như là
+nền tảng để xây
+dựng các hệ thống tự
+động hóa thu thập,
+xử lý thông tin và hỗ
+trợ ra quyết định tại
+các SCH.
+
+Năng lực của đơn
+vị phát triển từ các
+lnh vực khác như
+thu thập, xử lý thông
+tin... 2018-
+202 ¬ 
+Bộ sản phẩm
+ứng dụng tự
+động hóa chỉ
+huy tại các
+SCH BTL Cảnh
+sắt biển.
+
+Phần mềm
+tích hợp, xử lý
+và tổng hợp dữ
+liệu nghiệp vụ
+- Phần mềm
+phân phối, trao
+đổi thông tin,
+truy xuất và
+hiển thị thông
+tin
+- Phần mềm
+xây dựng 
+trên nên hải đô sô và
+báo cáo thủ trưởng
+cấp trên khi có sự vụ
+xảy trên biển "HH. ĐH. phương án tác
+chiến và trình
+chiếu giao ban
+tại các sở chỉ
+huy 

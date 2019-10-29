@@ -1,0 +1,86 @@
+VIỆN CÔNG NGHỆ THÔNG TIN CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KỸ THUẬT HỆ THÓNG Độc lập - Tự do - Hạnh phúc
+Số: 176/KH-KTHT đà Nội, ngày 03 tháng 5 năm 2018
+PHÊ DUYỆT
+
+Ngày 3 tháng 5 năm 2018
+
+KÉ HOẠCH
+“Tổ chức thử nghiệm khối BMI của nhiệm vụ
+“Hoàn thiện thiết kế, chế tạo khối tính toán
+'BMI của hệ thống điều khiển phóng tên lửa
+KACY 3P-60Y3”
+
+ 
+
+Căn cứ Quyết định số 1710/QĐ-VKHCNQS ngày 15 tháng 11 năm 2017
+của Giám đốc Viện KH-CN quân sự về việc giao nhiệm vụ và kinh phí hoàn
+thiện sản phẩm nghiên cứu cho Viện Công nghệ thông tin (Ngắn sách quốc
+phòng năm 2018);
+
+Căn cứ Đề cương đã được phê duyệt của nhiệm vụ “Hoàn thiện thiết kế,
+chế tạo khối tính toán BMI của hệ thống điều khiển phóng tên lửa KACYV 3P-
+60V2”,
+
+Triển khai thực hiện nhiệm vụ, Phòng Kỹ thuật hệ thống và Tổ nhiệm vụ
+đề xuất kế hoạch thử nghiệm khối BMI tại Lữ đoàn 162/Vùng 4 Hải quân như
+SAU:
+
+1, Mục tiêu: Thử nghiệm khối BMI để kiểm tra độ tin cậy và tính ổn định
+trong quá trình hoạt động và vận hành với hệ thống KACY 3P-60Y2.
+
+2. Nội dung:
+
+~ Bật hệ thống KACY của tàu 376, kiểm tra ở chế độ “2K” kết quả hoạt
+động bình thường, bàn giao tình trạng KACY.
+
+- Tắt KACY, ngắt cấp điện cho hệ thống. Tiến hành tháo khối BMI1 gốc
+của tàu, thay thế khối BM1-VCNTT vào bệ máy KB163I1 số 1.
+
+~ Bật KACY, kiểm tra ở chế độ “2K” kết quả hoạt động bình thường.
+
+- Kết nối KACY với thiết bị giả đạn tên lửa IR-60VN tại bệ số 1. Khởi
+động lại KACY, vào chế độ làm việc chính “OP”, kết quả KACY làm việc bình
+thường.
+
+- Tất KACY, ngắt cấp điện cho hệ thống. Tiến hành tháo khối BMI-
+VCNTT, thay thế khối BMI gốc vào máy KB163I1 số 1. Bật hệ thống KACY,
+kiểm tra ở chế độ “2K” kết quả hoạt động bình thường, bàn giao tình trạng
+KACY.3. Địa điểm: Lữ đoàn 162/Vùng 4 Hải quân.
+
+4. Thời gian: Dự kiến từ 07/5/2018 đến 16/11/2018, chia làm 04 đợt:
+
+- Đợt l: Từ 07/5/2018 đến 18/5/2018.
+
+- Đợt 2: Từ 09/7/2018 đến 20/7/2018.
+
+- Đợt 3: Từ 10/9/2018 đến 21/9/2018.
+
+- Đợt 4: Từ 12/11/2018 đến 16/11/2018.
+
+5. Thành phần:
+
+- Đại úy Đỗ Xuân Ngộc; Phòng KTHT/Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Phạm Xuân Công, Phòng KTHT/Viện CNTT/Viện KHCNQS.
+
+- Đại úy CN Dương Mạnh Cường, Phòng KTHT/Viện CNTT/Viện
+KHCNGS.
+
+6. Kinh phí: Trích từ kinh phí của nhiệm vụ.
+
+7. Đơn vị phối hợp: Lữ đoàn 162/Vùng 4 Hải quân.
+
+Kính đề nghị Viện trưởng xem xét và phê duyệt./.
+
+ 
+
+Nội nhận: CHỦ NHIỆM NHIỆM VỤ TRƯỞNG PHÒNG
+~ Như trên;
+- Ban Tài chính, Ban Kế hoạch;
+
+-CNNV:
+- Lưu: VT, KTHT; N06.
+
+Đại úy Đỗ Xuân Ngọc 'Đại tá Phạm Hồng Long

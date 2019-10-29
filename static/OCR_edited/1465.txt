@@ -1,0 +1,290 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:40#/VCNTT-KH Hà Nội, ngày.2ƒ tháng 2 năm 2018
+VWw phê duyệt Bộ chỉ tiêu chiến-kỹ thuật
+
+và xin ý kiến về kịch bản thử nghiệm,
+nghiệm thu sản phẩm của đề tài
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ Công văn số 1971/BTL-TM ngày 02/06/2017 của Thủ trưởng
+BTL Phòng không - Không ( quân về việc phát triển Hệ thống phần mềm hỗ trợ
+tính toán ứng dụng chiến đấu sử dụng các phương tiện sát thương hàng không,
+tiêu diệt mục tiêu mặt đất, mặt nước;
+
+Căn cứ Công văn số 123/BTM-DĐ ngày 26/6/2017 của Thủ trưởng Bộ
+Tham mưu PK-KQ về việc đề xuất nội dung cân thực hiện trong việc phát triển
+Hệ thống phần mềm tính toán ứng dụng chiến đấu sử dụng PTSTHK tiêu diệt
+mục tiêu mặt đất, mặt nước;
+
+Căn cứ Hợp đồng khoa học và công nghệ số 308B/2017/HĐ-CNTT-CNN
+ngày 08/08/2017 giữa Viện KHCNQS/Bộ ,Quốc phòng và Viện Công nghệ
+thông tin/Viện KHCNQS/Bộ Quốc phòng về việc thực hiện đề tài “Nghiên cứu
+phát triển, hoàn thiện hệ thống phần mềm tính toán ứng dụng chiến đấu sử dụng,
+phương tiện sát thương hàng không tiêu diệt mục tiêu mặt. đất, mặt nước”;
+
+Căn cứ vào thuyết minh, đề tài cắp Viện KHCNQS “Nghiên cứu phát triển,
+hoàn thiện hệ thống phần mềm tính toán ứng dụng chiến đấu sử dụng phương,
+tiện sát thương hàng không tiêu diệt mục tiêu mặt đất, mặt nước” đã được phê
+duyệt,
+
+Để thực hiện các bước tiếp theo của đề tài, đồng, thời có cơ sở đánh giá
+thử nghiệm, nghiệm thu và đưa vào áp dụng Hệ thống phần mềm tính toán ứng
+dụng chỉ \u sử dụng phương tiện sát thương hàng không tiêu diệt mục tiêu
+mặt đất, mặt nước, Viện Công nghệ thông tin kính đê nghị Phòng Tham mưu -
+Kế hoạch xem xét báo cáo Giám đốc Viện KHNCQS có văn bản đề nghị Bộ
+Tham mưu/Quân chủng PK-KQ phê duyệt Bộ chỉ tiêu c] -kỹ thuật và cho ý
+kiến về kịch bản thử nghiệm, nghiệm thu (nội đưng chỉ tiết trong phụ lục kèm
+theo) đề Viện hoàn thành tốt nhiệm vụ././y2 —
+
+ 
+
+   
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; H03.PHỤ LỤC
+KỊCH BẢN THỬ NGHIỆM, NGHIỆM THU
+(Kèm theo công văn số: 404/VCNTT-KH, ngày ‹9Ÿ/ 2/2018 của Viện CNTT)
+
+1. CÔNG TÁC CHUẢN BỊ :
+
+Kịch bản thử nghiệm, nghiệm thu hệ thống phần mềm tính toán ứng dụng chiến
+đấu sử dụng phương tiện sát thương hàng không tiêu diệt mục tiêu mặt đất, mặt nước:
+tiến hành thử nghiệm, nghiệm thu các nội dung sau:
+
+1. Nội đưng 1: Kiểm tra các chức năng của phân hệ tính toán sử dụng phương tiện
+sát thương hàng không tiêu diệt mục tiêu cơ động.
+2. Nội dung 2: Kiểm tra các chức năng của phân hệ tính toán sử dụng phương tiện
+sát thương hàng không có điều khiển.
+3. Nội dung 3: Kiểm tra các chức năng của phân hệ tính toán lựa chọn phương án
+mang treo tối ưu công kích mục tiêu.
+4. Nội dưng 4: Kiểm tra các chức năng của phân hệ tính toán cự ly cắt bom để bảo
+đảm trúng mục tiêu.
+5. Nội dung 5: Kiểm tra các chức năng của phân hệ tính toán các điều kiện đảm bảo
+an toàn khi sử dụng phương tiện sát thương hàng không.
+6. Nội dung 6: Kiểm tra các chức năng của phân hệ hỗ trợ tính toán khắc phục hỏa
+lực phòng không.
+7. Nội dung 7: Kiểm tra cơ sở đữ liệu phục vụ tính toán ứng dụng chiết
+dụng PTSTHK tiêu diệt mục tiêu mặt đất, mặt nước.
+
+- _ Thành phần tham gia:
+
+o_ Tổ đề tài và các cán bộ có liên quan.
+o_ Phòng Dẫn đường/BTM/QCPKKQ;
+1. THỰC HÀNH THỬ NGHIỆM, NGHIỆM THU.
+1. Nội dung 1: Kiểm tra các chức năng của phân hệ tính toán sử dụng
+phương tiện sát thương hàng không tiêu diệt mục tiêu cơ động.
+
+Lần lượt kiểm tra các chức năng sau:
+
+- Chức năng tính toán hỗ trợ chọn phương án, loại và cỡ PTSTHK khi tấn công
+
+vào mục tiêu cơ động.
+
+- Chức năng xác định độ đài loạt hợp lý của PTSTHK (độ dài loạt bom) theo
+
+hướng bay của máy bay khi tiêu điệt mục tiêu cơ động.
+
+- Chức năng xác định các điểm ngắm khi tấn công hỏa lực vào các mục tiêu cơ
+
+động.
+
+- Chức năng tính toán lựa chọn hướng bắn hoặc tiếp cận mục tiêu.
+
+- Chức năng đánh giá hiệu suất sử dụng PTSTHK tiêu diệt mục tiêu.
+
+ 
+
+——~ Chức năng tính số lượng máy bay dùng, để tiêu diệt mục tiêu cơ động trong
+các tình huống tác chiến tiêu biểu.
+
+Phương pháp đánh giá, kiểm chứng kết quả: Thông qua việc thực hiện giải
+bài toán bằng chương trình, các đáp số cuối cùng và các kết quả tính trung gian
+được kiểm tra tính đúng đắn theo quy trình nghiệp vụ và được so sánh với lời giải
+của bài toán mẫu hoặc kết quả giải bằng phương pháp nghiệp vụ của chuyên gia
+thuộc phòng Dẫn đường.
+
+2. Nội dung 2: Kiểm tra các chức năng của phân hệ tính toán sử dụng
+
+phương tiện sát thương hàng không có điều khiển.
+
+Lần lượt kiểm tra các chức năng sau:
+
+~ Chức năng quản lý, tra cứu, cập nhật dữ liệu. về đặc tính và các tham số có liên
+quan của các loại PTSTHK có điều khiển.
+
+- Chức năng giải quyết các bài toán đặc trưng, tính toán ứng dụng chiến đấu
+PTSTHK có điều khiển tiêu diệt mục tiêu mặt đất, mặt nước:
+
++ Xác định hiệu suất sát thương mục tiêu khi sử dụng PTSTHK có điều khiển
+tiêu diệt mục tiêu mặt đất, mặt nước.
+
++ Xác định số lượng PTSTHK có điều khiển cần thiết để tiêu diệt mục tiêu.
+
+Phương pháp đánh giá, kiểm chứng kết quả: Thông qua Việc thực hiện giải
+bài toán bằng chương trình, các đáp số cuối cùng và các kết quả tính trung gian
+được kiểm tra tính đúng đắn theo quy trình nghiệp vụ và được s0 sánh với lời giải
+của bài toán mẫu hoặc kết quả giải bằng phương pháp nghiệp vụ của chuyên gia
+thuộc phòng Dẫn đường.
+
+3. Nội dung 3: Kiểm tra các chức năng của phân hệ tính toán lựa chọn
+phương án mang treo tối wu công kích mục tiêu.
+
+Lần lượt kiểm tra các chức năng sau:
+
+- Chức năng quản lý, tra cứu, cập nhật dữ liệu về đặc tính và các phương án
+
+mang treo của các loại máy bay (04 loại).
+
+- Chức năng quản lý, tra cứu, cập nhật thông tin về số lượng, chủng loại máy
+bay và PTSTHK hiện có tại đơn vị.
+
+- Chức năng tính toán lựa chọn phương án mang bom tối ưu cho một máy bay
+khi đánh các loại mục tiêu mặt đắt, mặt nước (04 loại máy bay Su-22M; Su-22M4; Su-
+27SMK; Su-30MK2).
+
+~ Chức năng tính toán lựa chọn phương án mang, bom tối ưu cho một tốp máy.
+bay (04 loại máy bay Su-22M; Su-22M4; Su-27SMK; Su-30MK2).
+
+NI
+
+4%?"Hường pháp đáng gu, #iỂm chứng kết qua; Thông qua việc thực hẹn giải
+
+4 Nội dung 4; Kiểm tra các ©hức năng của Phân hệ tính toán ự ly cắt bom
+để bảo đảm trúng mục tiệu,
+Lần lượt kiểm trạ ©ác chức năng sau.
+~ Chức nặng quản lý, trạ cứu, cập nhật cợ SỞ dữ liệu Phục vụ tính toán cự ly cắt
+bom để bảo đậm trúng mục tiêu,
+~ Chức năng tính toán cự ly cắt bom để bảo đám trúng mục tiêu;
++ Chức năng tịnh toán cự ly cất bọm khi ném bom pừ trạng thái bạy, bằng
+(Cự ly cắt bom theo tắm, cự ly cắt bom theo hướng),
+# Chức năng tính toán °W ý cắt bom khi ném bom thĩa lịa,
+* Module phần mềm tín toán cự ly cắt bom khị Tiềm bom bổ nhào,
+
+5. Nội dụng s; Kiểm tra các chức năng của Phân hệ tính toán các điều kiện
+đảm bảo an toàn khi sử. dụng Phương tiện sát thương hàng không,
+
+- Chức năng quản ly ụự, Sứ, cập nhật cơ sở dự iệu các điều kiện an toàn khi
+THK,
+~ Chức năng tính toán các điều kiện ạn toàn khi bắn bằng pháo và tên lửa hàng
+
+không không điệu khiển:
+# Tính toán cự y xạ nhất cho phép bán pháo
+
+*# Tính toán
+không điều khiển.
+
+ 
+
+ÔN v
+
+Íg~ Chức năng tính toán các điều kiện an toàn khi ném bom hàng không thông
+thường.
+
++ Tính toán điều kiện bảo đảm an toàn khi ném bom hàng không thông
+thường khi chiếc lẻ ném bom bay bằng.
+
++ Tính toán điều kiện bảo đảm an toàn khi ném bom hàng không thông
+thường khi chiếc lẻ ném bom bổ nhào.
+
++ Tính toán điều kiện bảo đảm an toàn khi ném bom hàng không thông
+thường khi bay đội hình một tốp ném bom.
+
++ Tính toán điều kiện bảo đảm an toàn khi ném bom hàng không thông
+thường khi bay đội hình nhiều tốp ném bom.
+
+Phương pháp đánh giá, kiểm chứng kết quả: Thông qua việc thực hiện giải
+bài toán bằng chương trình, các đáp số cuối cùng và các kết quả tính trung gian
+được kiểm tra tính đúng đắn theo quy trình nghiệp vụ và được so sánh với lời giải
+của bài toán mẫu hoặc kết quả giải bằng phương pháp nghiệp vụ của chuyên gia
+thuộc phòng Dẫn đường.
+
+6. Nội dung 6: Kiểm tra các chức năng của phân hệ hỗ trợ tính toán khắc
+phục hỏa lực phòng không.
+
+Lần lượt kiểm tra các chức năng sau:
+
+- Chức năng quản lý, tra cứu, cập nhật các phương tiện phòng không của đối
+
+phương.
+
+- Chức năng tính xác suất vượt qua một vùng hỏa lực phòng không chỉ có một
+loại phương tiện sát thương phòng không khi biết chính xác vị trí bố trí của hỏa lực
+phòng không.
+
+~ Chức năng tính xác suất vượt qua một vùng hỏa lực phòng không chỉ có một
+loại phương tiện sát thương phòng không khi không biết chính xác vị trí bồ trí của hỏa.
+lực phòng không.
+
+- Chức năng tính xác suất vượt qua một vùng HLPK có nhiều loại phương tiện
+sát thương.
+
+- Chức năng tính xác suất vượt qua nhiều vùng hỏa lực phòng không.
+
+- Chức năng tác nghiệp bản đồ số:
+
++ Quản lý các lớp bản đồ nền: Thêm lớp, bỏ lớp, ẩn hiện lớp.
++ Thao tác trên bản đồ: Phóng to, thu nhỏ, di chuyển, định vị theo tọa độ
+hoặc địa danh, ....
++ Cập nhật thông tin thuộc tính và hiển thị thông tin tiêu cao trên bản đồ.
++ Quản lý bản đồ nhỏ hỗ trợ định vị nhanh vị trí trên bản đồ.
+~ Chức năng biểu diễn khu vực nằm trong tầm hoạt động của các phương tiện
+
+ 
+
+/JV
+
+7phòng không đối phương trên bản đỗ số:
+
++ Nhập thông tin thuộc tính các phương tiện phòng không của đối
+phương trên bản đỗ số.
+
++ Hiển thị các phương tiện phòng không và tầm hoạt động của chúng
+trên bản đồ số.
+
++ In ấn, kết xuất một khu vực trên bản đồ ra file.
+
++ Lưu lại một phiên làm việc.
+
++ Mở một phiên làm việc đã lưu trước đó.
+
+Phương pháp đánh giá, kiểm chứng kết quả: Thông qua việc thực hiện giải
+bài toán bằng chương trình, các đáp số cuối cùng và các kết quả tính trung gian
+được kiểm tra tính đúng đắn theo quy trình nghiệp vụ và được so sánh với lời giải
+của bài toán mẫu hoặc kết quả giải bằng phương pháp nghiệp vụ của chuyên gia
+thuộc phòng Dẫn đường.
+
+7. Nội dung 7: Kiểm tra cơ sở dữ liệu phục vụ tính toán ứng dụng chiến đấu
+sử dụng PTSTHK tiêu diệt mục tiêu mặt đất, mặt nước.
+
+Lần lượt kiểm tra các cơ sở dữ liệu sau:
+
++ Cơ sở dữ liệu đặc tính và các tham số có liên quan của các loại PTSTHK có
+điều khiển. Yêu cầu đáp ứng: Yêu cầu mỗi loại PTSTHK có điều khiển mô tả đầy đủ
+thông tin theo giáo trình của Học viện Phòng không Không quân: chiều dài, đường
+kính thân, sải cánh, trọng lượng tên lửa, trọng lượng phần chiến đấu, độ cao sử dụng,
+độ cao sử dụng, cự ly phóng, ... Số lượng đầy đủ theo chủng loại PTSTHK có điều
+khiển được trang bị tại Quân chủng Phòng không ~ Không quân (bao gồm các loại tên
+lửa có điều khiển: X; bom điều khiển: ).
+
++ Cơ sở dữ liệu đặc tính và khả năng mang treo của các loại máy bay, đặc tính
+mang treo của các PTSTHK.
+
++ Cơ sở dữ liệu phục vụ tính toán cự ly cắt bom để đảm bảo trúng mục tiêu.
+'Yêu cầu đáp ứng: Yêu cầu mô tả đẩy đủ thông tin phục vụ tính toán cự ly cắt bom theo
+tài liệu Thông số ném bom bổ nhào (thông tin về khoảng cách bom rơi, thời gian bom
+rơi, độ cao cắt bom, không tốc khi ném bom, góc bổ nhào, thời gian rơi đặc trưng) và
+tài liệu Lý thuyết ném bom (thời gian rơi đặc trưng).
+
++ Cơ sở dữ liệu đặc tính và các tham số có liên quan của các phương tiện phòng,
+không của đối phương. Yêu cầu đáp ứng: đầy đủ các loại phương tiện phòng không,
+của đối phương do Bộ Tham mưu cung cấp.
+
+`—_—.
+'xủg S
+
+VN:
+
+KG

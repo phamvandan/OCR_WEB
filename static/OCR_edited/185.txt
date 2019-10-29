@@ -1,0 +1,115 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CỘNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 4Ÿ#/VCNTT -KH Hà Nội, ngày Otháng 6 năm 2016
+V/ đề xuất đề tài, nhiệm vụ năm 2017
+thuộc Chương trình công nghệ vũ trụ.
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ công văn 97/TMKH - KHCNMT ngày 20 tháng 5 năm 2016 của
+Phòng Tham mưu — Kế hoạch về việc đề xuất đề tài, nhiệm vụ năm 2017 thuộc
+Chương trình công nghệ vũ trụ,
+
+'Viện Công nghệ thông tin để xuất một (01) nhiệm vụ khoa học công nghệ:
+
+- Nghiên cứu thiết kế chế tạo thiết bị định vị sử dụng dịch vụ
+Glonass/GPS, đánh giá dịch vụ định vị Glonass tại Việt Nam để ứng dụng trong
+quân sự.
+
+(Phiếu đề xuất gửi kèm theo công văn này)
+
+Kính chuyển Phòng Tham mưu — Kế hoạch. ⁄2
+
+Nơi nhận:
+~ Như trên,
+~ Lưu: VT, KH; H03.Mẫu AI-ĐXNV
+, 07/2014/TT-BKHCN
+PHIẾU ĐÈ XUÁT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ
+
+1. Tên nhiệm vụ KH&CN: .
+Nghiên cứu thiết kế chế tạo thiết bị định vị sử dụng dịch vụ Glonass/GPS, đánh
+giá địch vụ định vị Glonass tại Việt Nam để ứng dụng trong quân sự.
+
+2.. Hình thức thực hiện (Mi tong các hình thức:đễ tài khoa học và công nghệ hoặc dự ám
+SXTN, đề án khoa học hoặc dự án KH&CN):
+
+. Đề tài khoa học và công nghệ thuộc “Chương trình khoa học và công nghệ
+cấp quốc gia về công nghệ vũ trụ giai đoạn 2016 - 2020”
+
+3. Mục tiêu:
+~ _ Nghiên cứu chế tạo thiết bị định vị sử dụng dịch vụ Glonass (dịch vụ định vị
+của Nga) và GPS.
+~ _ Nghiên cứu phát triển hệ thống phần mềm quản lý và thu nhận tín hiệu.
+- _ Đánh gia dịch vụ định vị Glonass tại Việt Nam.
+- _ Ứng dụng thử nghiệm trong quản lý điều hành xe đơn vị hoặc giám sát diễn
+tập.
+
+4. Tính cấp thiết của nhiệm vụ KH&CN (Tần quan trọng, tính thời sự hoặc cấp
+bách,...) :
+Dịch vụ định vị GPS của Mỹ đã được khai thác sử dụng với các mục đích
+khác nhau đặc biệt nở rộ trong thời gian gần đây tại Việt Nam. Các thiết bị định vị
+sử dụng GPS được sử dụng cả trong quân sự lẫn dân sự.
+
+Dịch vụ định vị Glonass là dịch vụ định vị mới của Nga, mới được hoàn
+thành và bắt đầu đưa vào hoạt động. Dịch vụ này đã bắt đầu được tích hợp trong
+một số thiết bị thông minh, tuy nhiên ít được khai thác sử dụng, đặc biệt tại Việt
+Nam.
+
+Để đánh giá được khả năng sử dụng dịch vụ định vị Glonass cần thiết phải
+có sự khảo sát chỉ tiết và khả năng ứng dụng địch vụ này tại Việt Nam.
+
+Một số ứng, dụng quân sự hiện nay đang sử dụng thiết bị định vị GPS để xác
+định vị trí và các thiết bị này là thiết bị ngoại nhập. Để trách sự phụ thuộc vào
+nguồn cung cấp dịch vụ định vị, thì cần thiết phải nghiên cứu và thử nghiệm với
+dịch vụ định vị mới (Glonass).
+
+Với sự phát triển của công nghệ, sự mở cửa đối với các lĩnh vực hoạt động,
+quân sự, thì việc nghiên cứu chế tạo thiết bị sẽ trở nên dễ dàng hơn. Từ đó tạo độnglực cho nghiên cứu chế tạo thiết bị định vị có thể sử dụng cả 2 dịch vụ Glonass /
+GPS. Điều này mang lại nhiều cơ hội lựa chọn cho người sử dụng đầu cuối (như
+nhận định của TS Doãn Minh Chung — Viện Công nghệ vũ trụ trên báo Khoa học
+và Phát triển ngày 4/10/2015).
+
+5. Các nội dung chính và kết quả dự kiến:
+Các nội dung nghiên cứu:
+~ _ Nghiên cứu tìm hiểu các loại chip / module sử dụng dịch vụ định vị Glonass:
+của Nga và các nước khác.
+~_ Nghiên cứu chế tạo thiết bị định vị sử dụng địch vụ Glonass, có khả năng
+truyền dữ liệu thông qua địch vụ viễn thông.
+- _ Nghiên cứu phát triển phần mềm chủ phân tích và ghỉ nhận dữ liệu
+~ _ Nghiên cứu và phát triển phần mềm theo dõi giám sát
+- _ Triển khai thu thập đữ liệu định vị Glonass, GPS
+- Đánh giá dịch vụ định vị Glonass
+Triển khai ứng dụng thử nghiệm
+Kết quả dự kiến:
+- _ Thiết bị định vị sử dụng dịch vụ Glonass/GPS
+- _ Hệ thống phần mềm
+-_ Các tài liệu thiết kế sản phẩm, tài liệu mô tả hệ thống
+6. Khả năng và địa chỉ áp dụng:
+- _ Sử dụng tại các đơn vị quân đội trong việc giám sát quản lý xe
+- _ Sử dụng cho mục đích huần luyện, diễn tập ( theo dõi vị trí vận động)
+~_ Sử dụng cho Hải quân (tích hợp với Hải đồ).
+
+ 
+
+ 
+
+7. Dự kiến hiệu quả mang lại:
+
+Qua đề tài nghiên cứu đánh giá được khả năng sử dụng dịch vụ định vị Glonass,
+sẵn sàng thay thế cho hệ thống định vị GPS của Mỹ.
+
+Làm chủ toàn bộ quá trình thiết kế, chế tạo thiết bị định vị có thể sử dụng với
+nhiều mục đích khác nhau.
+
+Thay thể các thiết bị định vị nhập ngoại.
+
+§. Dự kiến thời gian thực hiện (Số tháng, bắt đầu từ ..)
+Thời gian thực hiện 18 tháng
+
+9. Thông tin khác (Chỉ áp dụng đối với dự án SXTN hoặc dự án KHCN):
+
+9.1 Xuất xứ hình thành:
+
+(Nếu là Dự án SXTN cẩn nêu rõ: Kết quả của các đề tài KHCN; kết quả khai thắc sáng chế,
+giải pháp hữu ích hoặc kết quả KH&CN từ nước ngoài.

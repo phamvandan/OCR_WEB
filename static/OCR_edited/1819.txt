@@ -1,0 +1,103 @@
+VIÊN CÔNG NGHỆ THÔNG TIN__ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG THIẾT BỊ CHUYÊN DỤNG Độc lập - Tự do — Hạnh phúc
+Số: o4/TTr-TBCD Hà Nội, ngày tháng2Anăm 2017
+PHÊ DUYỆT
+Ngày 04 tháng o4 năm 2017
+'VIỆN TRƯỞNG/z__ TỜ TRÌNH
+
+'Về việc mua sắm phần mềm cho đề tài cấp
+Quốc gia “ Nghiên cứu thiết kế, chế tạo thiết
+bị chuyển mạch (Switch) có tính năng an
+toàn, bảo mật thông tin trên nền tảng EPGA.
+và mã nguồn mỡ ”
+
+ 
+
+Đỗ Việt Bình
+
+ 
+
+Kính gửi: Viện trưởng Viện Công nghệ thông tỉn.
+
+Căn cứ Qu; ét định số 1672/QĐ-BKHCN của Bộ trưởng Bộ Khoa học và
+Công nghệ về việc phê duyệt tổ chức chủ trì, cá nhân chủ nhiệm, kinh phí, phương
+thức khoán chỉ và thời gian thực hiện nhiệm vụ KH&CN cập quốc gia thuộc
+Chương trình KH&CN KC.01/16- 20 bắt đầu thực hiện từ năm 2018;
+
+Căn cứ Hợp đồng số 18/2018/ÐTCT-KC: 01/16- 20 ngày lŠ tháng 11 năm
+2018 giữa Văn phòng các Chương trình trọng điểm cấp Nhà nước và Vụ Công
+nghệ cao. với Viện Công nghệ thông tin về việc thực hiện Đề tài “Nghiên cứu thiết
+kế, chế tạo thiết bị chuyển mạch (Swhitch) có tính năng an toàn, bảo mật thông. tin
+trên nền tảng FPGA và mã nguôn. mở”;
+
+Để đảm bảo thực hiện đề tài “Nghiên cứu thiết kế, c ế tạo thiết bị chuyển
+mạch (Switch) có tính năng an toàn, bảo mật thông tin trên nền tảng FPGA và mã
+nguồn mở”, Phòng Thiết bị chuyên dụng đề xuất mua sắm phần mềm phục vụ đề
+tài nêu trên như sau:
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Nội dung
+TT Nội dung ĐVT | SL | Đơngiá | Thành tiền
+bề SDSoC Developmemt| nạ | oi | 67000.000| 67000000
+nvironment
+Tổng 67.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Bằng chữ: Sáu mươi bảy triệu đồng)
+Giá trên đã bao gồm thuế và chỉ phí liên quan.
+2. Nguồn kinh phí: Trích nguồn kinh phí đề tài
+3. Hình thức hợp đồng: Trọn gói.
+4. Thời gian thực hiện hợp đồng: 30 ngày.
+Phân mên
+Environme _————Ă- Fˆ [xâ«h ð
+
+ơngiá | Thành ti
+
+.000.000 67.000.
+67.004 Kính đề nghị Viện trưởng xem xét phê duyệt để bảo đảm tiến độ thực hiện dÈZ
+tài,
+Nơi nhận: TRƯỞNG PHÒNG
+~ Như trên;
+
+lan KH, Ban TC;
+
+- Lưu: VT, TBCD(02), U06. JUZ~
+
+Trung tá Thái Trung Kiên(Kèm theo tờ trình lễ
+Phần mềm SDSoC
+Development
+Environment “Tên phân mêm. ~ Xilinx OpenCV libraries are now_ available featuring,
+50+ hardware optimized OpenCV functions, including
+Gausian, Median, Bilateral, Harris corner, Canny edge
+detection, HoG, SVM, LK Optical Flow, and many
+more
+- Easy to use Eclipse IDE to develop a full Zyng SoC
+and MPSoC system with embedded C/C++/OpenCL
+applications
+~ Accelerate a function in Programmable Logic (PL)
+with a click of button
+~ §upports bare metal, Linux and FreeRTOS as target
+OS "NGozaz¿z9Đ&c tính kỹ thuật 

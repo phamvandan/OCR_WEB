@@ -1,0 +1,41 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số:528/VCNTT—KH Hà Nội, ngày2Ÿ tháng 11 năm 2017
+'V/v tham gia ý kiến về tính năng chiến,
+kỹ thuật TBĐC của Binh chúng
+Đặc công
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ văn số 3858/QL-TB ngày 22/11/2017 của Cục Quân lực về
+việc tham gia ý kiến về tính năng chiến, kỹ thuật TBĐC của Binh chủng Đặc
+công,
+
+'Viện Công nghệ thông tin có một số ý kiến như sau:
+
+1. Thiết bị kiểm soát người nhái
+
+- Cần bỗ sung mô hình bố trí giám sát người nhái.
+
+- Các thiết bị liên XesetiekiniollBgrielliee Nofigine
+làm rõ phương thức truyền tin khi lặn. Các cảm biến và hệ thống thu thủy âm
+đóng vai trò quan trọng.
+
+- Các chế độ bảo mật khi truyền dữ liệu.
+
+II. Các thiết bị thông tin kết nối HE, VHF/UHF
+
+~ Cần bổ sung mô hình triển khai lắp đặt.
+
+- Bỗ sung thông tin về nguồn nuôi chuyên dụng khi hoạt động độc lập
+(như ac quy, pin), thời gian hoạt động liên tục với các nguồn nuôi.
+
+- Các chế độ bảo mật khi sử dụng các thiết bị này.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét/. [glẹ ——
+
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H03.

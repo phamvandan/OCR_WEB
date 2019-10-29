@@ -1,0 +1,245 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 99/QĐ-VCNTT Hà Nội, ngày 17 tháng 3 năm 2017
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ thực hiện đề tài nghiên cứu cơ sở
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ Quyết định 1623/QĐ-VKHCNQS ngày 10/11/2016 của Giám đốc
+Viện KHCNQS vẻ việc giao nhiệm vụ, kế hoạch phân cấp ngân sách ngành
+khoa học, công nghệ và môi trường năm 2017 cho Viện Công nghệ thông tin;
+
+Xét đề nghị của đồng chí Phụ trách Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ thực hiện các đề tài nghiên cứu cơ sở như sau:
+
+Điều 2. Đơn vị chủ trì, Chủ nhiệm đề tài có trách nhiệm xây dựng thuyết
+minh đề tài và bảo vệ trước Hội đồng KHCN cắp Viện CNTT.
+Điều 3. Quyết định này có hiệu lực từ ngày ký.
+Nghiên cứu phương pháp tự động,
+phát hiện các đoạn mã nhị phân
+thường gặp trong các phần mềm
+có sẵn trên vũ khí, trang bị Nghiên cứu bộ công cụ phát triển
+phân mềm của phần mềm IDA để
+xây dựng các plugin hỗ trợ phân
+tích, dịch ngược các phần mềm
+nhúng trên vũ khí, trang bị. Nghiên cứu khảo sát khôi ôn định
+xung 468353-004 và khối nguồn
+MAA300-1C27CYH của đài dẫn
+bay gần 4N tại Trung đoàn 923
+QC PK-KQ phục vụ sửa chữa,
+thiết kế chế tạo. Tên đề tài 
+1/⁄/ Nguyên Chí
+Thành
+
+Thời gian thực
+
+hiện: 08 tháng 2// Nguyễn Doãn
+Cường
+Thời gian thực
+hiện: 08 tháng 2// Vũ Sơn Hà
+Thời gian thực
+hiện: 08 tháng, Ề tài
+
+Chủ nhiệm đề tài 
+40 40 Kinh phí
+(triệu đồng) Các đồng chí Chủ nhiệm đề tài, đơn vị chủ trì và các Phòng, Ban liên quan
+chịu trách nhiệm thi hành quyết định này. /#lz
+
+Mới nhận:
+~ Ban Tài chính;
+
+- Các CNĐT (06);
+
+~ Lưu VT, KH; H08.
+
+  
+
+2
+ng tá Đỗ Việt BìnhDANH SÁCH CÁC ĐÈ TÀI NGHIÊN CỨU CỞ SỞ
+(Kèm theo Quyết định số 99/QÐ-VCNTT ngày 17/3/2017 của Viện trưởng Viện CNTT)
+Nghiên cứu bộ
+BÀ cụ phát _=
+
+mềm
+na Tôi
+Xây dựng các
+plugin hỗ trợ phân
+th, đính amượge Nghiên cứu khảo
+sát khối ổn định
+xung 468353-004
+và khối nguồn
+MAA300-
+
+1C27CYH của đài
+dẫn bay gần ÁN tại
+Trung đoàn 923
+QC PK-KQ phục
+vụ sửa chữa, thiết
+kế chế tạo. 'Tên đề tài 24 Nguyễn
+Doãn Cường 
+2⁄/ Vũ Sơn Hà CNDT ~ Nghiên cứu, làm chủ bộ công cụ
+phát triển phần mềm của phần mềm
+phân tích mã IDA. Xây dựng plugin
+kết xuất hình ảnh ra file Visio phục.
+vụ cho việc nghiên cứu mã,
+
+- Nghiên cứu tống quan về phẩn Nghiên cứu thiết kế, chế tạo hệ
+Ig điều khiển trung tâm của Tổ
+đối không mặt đất NKVS-27
+
+khai thác và làm chủ công
+nghệ chế tạo thiết bị phục vụ
+
+tác đảm bảo kỹ thuật cho trang thi
+
+bị vũ khí thể hệ mới.
+
+~ Nghiên cứu, khảo sát tổng thể khối
+
+ổn định xung 468353-004.
+
+~ Nghiên cứu làm chủ khối ổn định
+
+xung 468353-004 và tiến hành sửa
+
+chữa khôi phục khối đang hỏng hóc.
+
+- Nghiên cứu làm chủ khối nguồn
+
+MAA300-1C27CYH.
+
+~ Trên cơ sở khối nguồn MAA300-
+
+1C27CYH tiến hành thiết kế chế tạo
+
+khối nguồn mới có chức năng tương
+
+đương.
+- Tích hợp, thử nghiệm và viết tài
+liệu. 
+Mục tiêu, nội dung nghiên cứu
+chính ~ Tài liệu nghiên cứu vê
+
+Bạn và xây dựng module
+mở m "
+Tung
+
++ n KÀ lên cứu bộ
+công ch na ghen ~ 01 Khôi ôn định xung
+468353-004 sau sửa chữa:
+Khôi phục tính năng kỹ
+thuật so với khối nguyên
+mẫu tại đài.
+
+- 0! Khối nguồn Tính
+năng đương với
+khối nh MAA300-
+1C27CYH.
+
+~ Sơ đồ nguyên lý khối ổn
+định xung 468353-004 và
+khối nguồn MAA300-
+1C27CYH. Dự kiến kết quả và chỉ
+tiêu kỹ thuật 
+3/2017-
+11/2017 03/2017-
+11/2017 Kinh phí
+đồng) AI
+các phân mêm
+nhúng trên vũ khí,
+trang bị. Lại bit)
+đàn ga
+Si Vhếg
+31 ệ1 ga 1// Nguyễn Chí
+Thành mêm IDA.
+
+~ Nghiên cứu bộ công cụ phát triển
+(SDK — Soffware
+
+Development Kit) của IDA.
+
+- Nghiên cứu ngôn ngữ script IDC
+
+của IDA.
+
+~ Nghiên cứu phương pháp xây dựng
+
+plugin cho phân mềm ÏDA..
+
+- Nghiên cứu cấu trúc file đồ thị
+
+IDA.
+
+~ Nghiên cứu cấu trúc file visio, các
+
+thư viện làm việc với file vdx của
+
+Net Framework.
+
+~ Xây dựng module plugin cho phép.
+
+kết xuất dạng đồ hình IDA ra file
+
+-vdx (Visio). 
+đoạn mã nhị phân đã biết (đã
+được phân tích) hay không.
+
+- Nghiên cứu các phương pháp tự
+động phát hiện, nhận dạng các đoạn.
+mã nhị phân.
+
+- Thiết kế, xây dựng module phần
+mềm hỗ trợ cập nhật, tra cứu cơ sở.
+dữ liệu các đoạn mã nhị phân.
+
+- Module phần mềm tự động nhận - Tài liệu chuyên để
+nghiên cứu các phương
+pháp tự động phát hiện,
+nhận dạng các đoạn mã
+nhị phân.
+
+~ Module phần mềm hỗ trợ.
+cập nhật, tra cứu cơ sở dữ.
+liệu các đoạn mã nhị phân.
+- Module phần mềm tự
+động nhận dạng các đoạn
+mã nhị phân thường gặp.
+
+- Module phần mềm tích
+hợp cho công cụ [DA tự mêm (SDK - Software
+Development Ki) của
+1DA.
+
++ Kết quả nghiên cứu
+phương pháp xây dựng
+plugin cho phần mềm
+IDA.
+
++ Kết quả nghiên cứu về
+cấu trúc file đồ thị của
+phần mềm IDA.
+
++ Kết quả nghiên cứu về
+thư viện API của Net
+Framework làm việc với
+file vdx (Visio).
+
+~ Module plugin cho phép
+chiết xuất dạng đồ thị của
+IDA sang file vdx (Visio):
+File kết xuất ra có thể sử 03/2017-
+11/2017 Í phân thường dạng và đánh
+Mạ hôn TU Ni h Nun ng
+- Module phần mềm tích hợp cho
+
+công cụ IDA tự động nhận dạng và
+đinh dẫu các đạn nhị hâm
+dạng c
+
+công e
+đánh d thường n 

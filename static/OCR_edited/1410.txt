@@ -1,0 +1,575 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 31VCNTT-KH Hà Nội, ngày3h, tháng 8 năm 2018
+
+V/v xin phê duyệt chỉ tiêu kỹ thuật và cho.
+ý kiến về kịch bản nghiệm thu sản phẩm.
+của đề tài
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ Công văn số 4982/BTL-TM ngày 04/12/2017 của Thủ trưởng
+BTL Phòng không - Không quân về việc phối hợp nghiên cứu, triển khai đề tài
+của Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ Hợp đồng nghiên cứu khoa học và phát triển công nghệ số
+53B/2018/HĐ-CNTT ngày 06/03/2018 giữa Viện KHCNQS/Bộ Quốc phòng và
+Viện Công nghệ thông tin/Viện KHCNQS/Bộ Quốc phòng về việc thực hiện đề
+tài “Nghiên cứu hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thống hỗ trợ
+chuẩn bị bay cấp Trung đoàn không quân”;
+
+Căn cứ Công văn số 1473/BTM-CNTT ngày 21/5/2018 của Thủ trưởng,
+Bộ Tham mưu PK-KQ về việc phối hợp triển khai thực hiện đề tài “Nghiên cứu
+hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thống hỗ trợ chuẩn bị bay cấp
+Trung đoàn không quân” của Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ kết quả triển khai thử nghiệm sản phẩm của đề tài “Nghiên cứu,
+
+thiết kế xây dựng hệ thống hỗ trợ chuẩn bị bay huấn luyện cho Trung đoàn
+Không quân” tại e923/f371 và nội dung yêu cầu thực hiện và chất lượng của sản
+phẩm trong thuyết minh đề tài cấp Viện KHCNQS “Nghiên cứu hoàn thiện,
+nâng cấp và đưa vào áp dụng thử hệ thống hỗ trợ chuẩn bị bay cấp Trung đoàn
+không quân”,
+Trên cơ sở kết quả làm việc giữa Viện Công nghệ thông tin, tổ thực hiện
+đề tài với các chuyên gia thuộc Phòng Quân huấn và Ban Công nghệ thông tin
+trong việc hoàn thiện bảng bảng chỉ tiêu kỹ thuật và kịch bản nghiệm thu các sản
+phẩm đề tài, Viện đã xây dựng bảng chỉ tiêu kỹ thuật và kịch bản nghiệm thu
+trong phục lục kèm theo.
+
+  
+
+Để có cơ sở đánh giá nghiệm thu và đưa vào áp dụng Hệ thống hỗ trợ
+chuẩn bị bay cho các đơn vị trong Quân chủng, Viện Công nghệ thông tin kính
+đề nghị Phòng Tham mưu - Kế hoạch xem xét báo cáo Giám đốc Viện
+KHNCQS có văn bản đề nghị Bộ Tham mưu PK-KQ xem xét phê duyệt chỉ tiêukỹ thuật và cho ý kiến về kịch bản nghiệm thu nêu trên để Viện hoàn thành tốt
+nhiệm vụ./„#
+JNơi nhận:
+
+~ Như trên;
+- Lưu: VT, KH; H03.
+
+ 
+
+Thượng tá Đỗ Việt Bình
+
+kẻPHỤ LỤC
+'KỊCH BẢN NGHIỆM THU
+(Kèm theo công văn số: 3A9 /VCNTT-KH, ngày # /8/2018 của Viện CNTT)
+
+I. CÔNG TÁC CHUẢNBỊ:
+
+-_ Đã xây dựng kịch bản nghiệm thu hệ thống sản phẩm của đề tài “Nghiên
+cứu hoàn thiện, nâng cắp và đưa vào áp dụng thử hệ thống hỗ trợ chuẩn bị
+bay cấp Trung đoàn không quân”
+
+- _ Thành phần tham gia:
+
++ Nhóm đề tài và Hội đồng nghiệm thu.
++ Đại diện đơn vị sử dụng.
+II.  THỰC HÀNH NGHIỆM THU
+1.1. Nghiệm thu thiết bị
+
+ 
+
+TT | Tên thiết bị ĐVT Yêu cầu cầu hình SL
+
+ 
+
+Thiết bị cấp Sư
+đoàn
+
+ 
+
+-BộVXL: Corei5—7400
+
+- Cạc đồ họa:VGA onboard, Intel HD
+
+Graphics 630
+
+- Bộnhớ  : 1x 4GB DDR4/ 2400MH+z
+(2 slots)
+
+- Ôcứng: — 500TB SATA3 (7200rpm)
+
+- Kết nối mạng: — 1000Mbps/802.11bgn/
+
+Wiñ
+
+- Ôquang: DVDRW
+
+- Phụ kiện _ Key/mouse
+
+- Cổng giaotiếp: 2 x USB 3.0 pons
+(#ont) ; 4 x USB 2.0 ports (back) ;
+
+- Màn hình LCD: 24inch
+
+- Chuột bàn phím
+
+Z\À*VTE
+
+Máy tính để bản
+I. | tại Phòng Quân| Bộ
+huấn Sư đoàn
+
+01
+
+ 
+
+~8 công
+
+ạ | #8 Chiếc |_ Tác độ: 10/100/1000Mbps
+
+01
+
+ 
+
+ 
+
+~ Loại máy In laser trắng đen
+
+- Chức năng: In
+
+3. | Máyin Chiếc |- Tốc độ in: 12 trang/phút "
+- Độ phân giải: 2400 x 600 dpi _
+
+-- Kết nối: USB
+Tên thiết
+
+ 
+
+Thiết bị
+đoàn
+
+ 
+
+Máy tính
+tại Phòr
+huấn Sư ‹
+
+ 
+
+Switch
+
+ 
+
+ 
+
+ 
+
+Máy ïn ết bị ĐVT
+
+ 
+
+bị cấp Sư
+
+ 
+
+- Bộ VXL:
+
+|- Cạc đồ họa
+
+Graphics 6:
+
+- Bộ nhớ
+
+(2 slots)
+
+- Ô cứng:
+
+- Kết nối mạ
+
+Wiñ
+
+- Ô quang:
+
+- Phụ kiện
+
+- Cổng giao
+
+(on ;4:
+
+-- Màn hình
+
+- Chuột bàn
+
+- 8 công
+
+- Tốc độ: I(
+
+- Loại máy
+
+- Chức năn/
+sáe |- Tốc độ in:
+
+Chiếc |' Độ phân
+
+-- Kết nồi: L
+
+ính để bàn
+ng Quân| Bộ
+ư đoàn
+
+ 
+
+h Chiếc ĐVT Chiếc 
+S§U
+
+ 
+
+ 
+
+nel HD
+2400MHz
+
+)0rpm)
+02.1 1bgn/
+
+3.0 porls
+9;
+
+01
+
+ 
+
+01
+
+ 
+
+ 
+
+01 §LU 01 01 \ Su Đ/
+H: „H TT . Nghiệm thu Cơ sí 
+Máy in Switch Máy tính để bàn
+tại 04 Trung đoàn:
+01 máy tính tại
+phòng Chuẩn bị
+bay, 01 máy tính
+tại vị trí trợ lý Tác
+huấn Thiết bị cấp
+Trung đoàn 
+Tên thiết bị Cơ sở dữ liệu bài bay 'Tên cơ sở dữ liệu, tài liệu ĐVT 
+: dữ liệu Chiếc Chiếc Bộ 
+và tài liệu - Loại máy In laser trăng đen
+- Chức năng: In
+
+- Tốc độ in: 12 trang/phút
+
+- Độ phân giải: 2400 x 600 dpi
+- Kết nối: USB - 8 công
+- Tốc độ: 10/100/1000Mbps - BộVXL: Corei5- 7400
+- Cạc đồ họa: VGA onboard, Intel HD
+
+Graphics 630
+
+- Bộnhớ  : 1x 4GB DDR4/ 2400MHzZ
+(2 slots)
+
+- Ôcứng:  500TB SATA3 (7200rpm)
+
+- Kết nối mạng: 1000Mbps/802.1 Ibgn/
+Wiũ
+
+- Ôquang: DVDRW
+
+ 
+
+- Phụ kiện _ Key/mouse
+
+- Cổng giaotiếp: 2 x USB 3.0 pons
+(on) ; 4 x USB 2.0 ports (back) ;
+
+- Màn hình LCD: 24inch
+
+- Chuột bàn phím 
+'Yêu cầu câu hình ~___ Với mỗi bài bay yêu câu mô tả đây đủ
+thông tin, đặc điểm bài bay theo giáo trình:
+Dòng máy bay, CTNV, số hiệu, tên bài
+bay, số lần chuyến, độ cao nhỏ nhất, độ cao
+lớn nhất, thời gian bay, mô tả, đặc
+điểm( bay đơn, bay kèm, ..)
+
+- — Với mỗi dòng máy bay yêu cầu đáp
+ứng đủ về số lượng theo giáo trình của từng
+dòng máy bay như sau:
+
+Dòng máy bay AH-2: 89 bài.
+
+Dòng máy bay Cy-22: 166 bài.
+
+Dòng máy bay Cy-27: §8 bài. 'Vêu câu đáp ứng SL 
+07 Wa\h Ý A@ c7
+Cơ sở dữ liệu máy bay Cơ sở dữ liệu Sân bay,
+đường bay Cơ sở dữ liệu dây bay Cơ sở dữ liệu ký hiệu bài
+bay 
+- Với môi máy bay nhập đây đủ thông
+tin: Đơn vị sử đụng, số hiệu, dòng máy bay,
+chức năng.
+
+# Số lượng nhập đầy đủ số lượng máy
+bay của từng Trung đoàn: 916, 923, 927,
+921:
+
+Trung đoàn 916: 22 máy bay Mi
+
+Trung đoàn 927: 10 máy bay Su-30MK2
+Trung đoàn 921: 12 máy bay Su-22
+
+"Trung đoàn 923: 12 máy bay Su-30MK2 - Yêu câu với môi sân bay nhập đây đủ
+các thông tin:
+
+Tên sân bay, Ký hiệu, Cấp sân bay, Tọa độ,
+Mức cao,
+
+Hướng CHC, Đường CHC, Đài xa, Đài gần,
+'VOR, Sân bay dự bị, Đường bay,
+
+Không vực, Địa tiêu
+
+- — Cần nhập đầy đủ các sân bay f371 sử
+dụng: Sân bay Nội Bài, Sân bay Hòa lạc,
+Sân bay Kép, Sân bay Kiến An, Sân bay
+'Tho Xuân, Sân bay Gia Lâm, - "Yêu câu với từng dây bay theo đúng.
+như mô tả trong giáo trình huấn luyện bay
+của từng dòng máy bay.
+
+- — Số lượng đầy đủ theo giáo trình của
+từng dòng máy bay:
+
+AH-2:
+
+Cy-22: 9
+
+Cy-27:
+
+Cy-30: 7
+
+Mi: -__ Yêu câu thiệt kê vẽ ký hiệu theo đúng
+mô tả trong giáo trình huấn luyện của từng.
+dòng máy bay.
+
+- Yêu cầu ký hiệu được đưa vào cùng.
+với CSDL bài bay.
+
+- Yêu cầu ký hiệu trong khi viết vẽ kế
+hoạch có thể thay đổi kích thước, tỷ lệ dễ
+dàng và phù hợp với thiết kế của bản kế
+hoạch.
+
+. Số lượng ký hiệu tượng ứng với số
+lượng bài bay của từng đồng máy bay. 
+Dòng máy bay Cy-30: 132 bài.
+Dòng máy bay Mi: 196 bài. | <6
+113. ] ân lý các danh mục:
+
+Chức vụ
+
+- Sân bay
+
+~ Phi công
+
+-_ Máy bay
+
+-_ Bài bay
+
+-_ Giãn cách
+
+-_ Khoa mục
+
+-_ Đơn vị Nhật ký sử dụng. Đang xuât 
+Đăng nhập Nhóm các quản lý chun;
+trên cả phần mềm Lập
+hoạch bay cấp Trung đoàn
+và Sư đoàn: ên phân mêm/Chức năng ghiệm thu phần mềm 
+Báo cáo tông hợp, báo cáo
+tóm tắt Tài liệu phân tích thiết kê
+hệ thống, Cơ sở dữ liệu hỗ sơ phi
+công ~__ Đảm bào đây đủ các chức năng: thêm
+mới, sửa, xóa.
+
+- _ Đảm bảo nhập được đầy đủ thông tin
+của từng danh mục:
+
++ Chức vụ: Tên, ký hiệu
+
++ Sân bay: Tên sân bay, Ký hiệu, Cấp sân
+bay, Tọa độ, Mức cao, Hướng CHC, Đường
+CHC, Đài xa, Đài gần, VOR, Sân bay dự bị,
+Đường bay, Không vực, Địa tiêu. 
+- — Ghi lại nhật ký sử dụng người dùng.
+gồm các thông tin: thời gian, IP máy tính,
+tài khoản. hoạt động. ~ __ Ngay lập tức thoát ra màn hình đăng
+nhập 'Vêu câu đáp ứng - — Tông hợp đây đủ các kết quả nghiên
+
+cứu.
+
+= Đảm bảo tính chính xác, khoa học
+trình bày theo quy định 
+- Yêu câu tài liệu rõ ràng, chỉ tiết dễ
+hiểu.
+
+= Mô tổ đầy đủ các chức năng theo
+phần mềm. - Cân đây đủ các nội dung khảo sát,
+nghiên cứu và thiết kế. Đảm bảo tính chính
+xác, khoa học, trình bày theo quyđịnh. - 'Với một hô sơ phi công cần nhập đây
+đủ các thông tin: Họ tên, số hiệu, cấp bậc,
+cấp KTL, chức vụ, phân loại, đơn vị quản
+lý, đơn vị bay, loại máy bay đang bay, loại
+máy bay đã bay qua.
+
+- Cần nhập đầy đủ số lượng phi công
+tại f371 và các e916, e921, e923, e927. - Chỉ đăng nhập vào phân mềm khi
+đúng tên tài khoản và mật khâu.
+
+- Cảnh báo khi tên tài khoản hoặc mật
+khẩu không đúng. WGI kx+ AC
+Nhóm chức năng trên phân
+mềm Lập kế hoạch bay cấp
+"Trung đoàn. Người dùng "Tên phần mềêm/Chức năng Quản lý KHB ngày 
++ Phi công: Họ tên, sô hiệu, câp bậc, cập
+KTL, chức vụ, phân loại, đơn vị quản lý,
+đơn vị bay, loại máy bay đang bay, loại máy
+bay đã bay qua. -
+
++ Máy bay: Đơn vị sử đụng, số hiệu, dòng,
+máy bay, chức năng.
+
++ Bài bay: Dòng máy bay, CTNV, số
+hiệu, tên bài bay, số lần chuyến, độ cao nhỏ
+nhất, độ cao lớn nhất, thời gian bay, mô tả,
+đặc điểm( bay đơn, bay kèm, ..), ký hiệu bài
+bay. Quản lý theo dòng máy bay.
+
++ Giãn cách: Giãn cách bay khoa mục,
+giãn cách bay trên không, giãn cách chỉ huy
+bay.
+
++ Khoa mục: Chương trình nhiệm vụ,
+nhóm khoa mục, khoa mục.
+
++ Đơn vị: Quản lý danh mục cây phân
+câp.
+
++ Người dùng: Quản lý người dùng thuộc
+đơn vị, "Yêu cầu đáp ứng ~ Đây đủ chức năng tạo mới kê hoạch, sửa
+kế hoạch, xóa kế hoạch, gửi kế hoạch lên Sư
+đoàn.
+
+- Chỉ sửa được kế hoạch chưa phê duyệt
+hoặc bị Sư đoàn trả lại.
+
+- Chỉ xóa được kế hoạch chưa phê duyệt.
+
+- Chỉ gửi được kế hoạch đã phê duyệt.
+
+- Gồm 2 phần chính:
+
++ Nhập thông tin kế hoạch: Tên KH, kế
+hoạch chính hay dự bị, ngày bay, giờ cất
+cánh, giờ hạ cánh, tổ chức, nhiệm vụ, loại
+máy bay, sân bay, sân bay dự bị, đường bay,
+không vực bay, độ cao thấp nhất và độ cao
+bay cao nhất, chỉ huy bay chính, chỉ huy
+bay phụ, chỉ huy cắt hạ cánh, chỉ huy trường,
+bắn,
+
++ Vẽ chỉ tiết kế hoạch: đảm bảo đầy đủ ký
+hiệu bài bay, dễ sử dụng chỉnh sửa. Có tích
+hợp chức năng kiểm tra và cảnh báo khi xếp
+kế hoạch. In kế hoạch theo mẫu của Trung. 4#vựagc-ewẽ\
+II. Quản lý, tông hợp Kê hoạch Quản lý, tông hợp Kê hoạch
+bay ngày Nhóm chức năng trên phân
+mềm Lập Kế hoạch bay cấp
+Sư đoàn 
+Quản lý tiên độ năm Quản lý tiên độ tháng, Quản lý giãn cách Quản lý trình độ phi công, chỉ
+huy bay 
+Quản lý Kê hoạch bay năm Quản lý Kê hoạch bay tháng "Tên phân mêm/Chức năng ~ — Tự động nhận kê hoạch bay ngày của 
+- __ Tự động nhận kê hoạch bay ngày của
+các trung đoàn gửi lên.
+
+- Có thể kiểm tra, cảnh báo từng kế
+hoạch. .
+
+-__. Có thể trả lại kế hoạch cho trung đoàn
+khi có sai sót.
+
+- ___ Thực hiện tổng hợp kế hoạch Sư đoàn
+từ các kế hoạch của từng Trung đoàn. -._ Tự động cập nhập đê theo dõi tiên độ
+thực hiện trong Năm trong quá trình cập
+nhật kế quả thực hiện kế hoạch bay ngày. -.__ Tự động cập nhập đê theo dõi tiên độ
+thực hiện trong tháng trong quá trình cập
+nhật kế quả thực hiện kế hoạch bay ngày. - — Tự động cập nhập giãn cách bay của
+từng phi công theo từng nhóm CTNV, khoa
+mục trong quá trình cập nhật kế quả thực
+hiện kế hoạch. 
+- — Tự động cập nhập trình độ phi công
+sau khi thực hiện kế hoạch bay Ngày.
+~ Chỉ tiết đến CTNV, nhóm khoa mục. -__. Có thể chọn năm đê lây hoặc tạo mới
+kế hoạch nếu chưa có.
+
+- — Có thể lập kế hoạch cho từng loại
+máy bay và từng chương trình nhiệm vụ.
+
+- _ Kế hoạch chỉ tiết đến từng phi công,
+từng bài bay. - _ Có thê chọn tháng, năm để lây hoặc
+tạo kế hoạch.
+
+- Chọn loại máy bay và từng chương
+trình nhiệm vụ để lập và chỉnh sửa kế
+hoạch.
+
+- — Chỉ sửa được kế hoạch chưa phê
+duyệt.
+
+- _ Không xóa được kế hoạch vì I tháng
+chỉ có 1 kế hoạch.
+
+- — Kế hoạch đảm bảo chỉ tiết đến từng
+phi công, bài bay. š 
+"Yêu câu đáp ứng ZZjH
+Quản lý tiên độ năm Quản lý tiên độ tháng Quản lý giãn cách Quản lý trình độ phi công, chỉ
+huy bay 
+Quản lý, tông hợp Kê hoạch
+bay năm bay tháng "Tên phân mêm/Chức năng 'Yêu cầu đáp ứng 
+- __ Tự động cập nhập đê theo dõi tiên độ
+thực hiện trong Năm trong quá trình cập
+nhật kế quả thực hiện kế hoạch bay ngày.
+
+-__ Theo dõi quản lý tiến độ thực hiện kế
+hoạch của toàn Sư đoàn và từng trung đoàn
+trực thuộc. -_ Tự động cập nhập đê theo dõi tiên độ
+thực hiện trong tháng trong quá trình cập
+nhật kế quả thực hiện kế hoạch bay ngày.
+
+-__ Theo dõi quản lý tiến độ thực hiện kế
+hoạch của toàn Sư đoàn và từng trung đoàn
+trực thuộc. - — Tự động cập nhập giãn cách bay của
+từng phi công theo từng nhóm CTNV, khoa
+mục trong quá trình cập nhật kế quả thực
+hiện kế hoạch.
+
+- Quản lý giãn cách của toàn bộ phi
+công trong Sư đoàn. - — Tự động cập nhập trình độ phi công
+sau khi thực hiện kế hoạch bay Ngày.
+
+-_. Chỉ tiết đến CTNV, nhóm khoa mục.
+
+-_. Quản lý trình độ của toàn bộ phi công,
+trong Sư đoàn. 
+- _ Tự động nhận kê hoạch bay ngày của
+các trung đoàn gửi lên.
+
+- __ Có thể trả lại kế hoạch cho trung đoàn
+khi có sai sót.
+
+- __. Thực hiện tổng hợp kế hoạch Sư đoàn
+từ các kế hoạch của từng Trung đoàn. các trung đoàn gửi lên.
+
+- — Có thể kiểm tra, cảnh báo từng kế
+hoạch.
+
+- ___ Có thể trả lại kế hoạch cho trung đoàn
+khi có sai sót. -
+
+- __ Thực hiện tổng hợp kế hoạch Sư đoàn
+từ các kế hoạch của từng Trung đoàn. 

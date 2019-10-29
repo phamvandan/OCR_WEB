@@ -1,0 +1,772 @@
+VIÊN CÔNG NGHỆ THÔNG TIN_ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KỸ THUẬT HỆ THÓNG 'Độc lập - Tự do - Hạnh phúc
+Số: đ4 /TTr-KTHT Hà Nội, ngày 46 tháng $ năm 2018
+PHÊ DUYỆT
+Ngày 1€tháng 3 năm 2018
+
+N TRƯỞNG
+
+  
+
+TỜ TRÌNH
+'Về việc phê duyệt kế hoạch thực hiện đề tài
+“Hoàn thiện thiết kế và chế tạo thiết bị kiểm tra
+hệ thống điều khiển quán tính II-074 của đạn
+tên lửa Kh-35E”
+
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ
+cấp BỌQP thuộc Đề án KC.T: “Hoàn thiện thiết kế và chế tạo thiết bị kiểm tra
+hệ thống điều khiển quán tính II-074 của đạn tên lửa Kh-35E” (Mã số
+KC.T-32);
+
+Thực hiện chỉ đạo của Thủ trưởng Viện,
+
+Phòng Kỹ thuật hệ thống và Tổ đề tài đề xuất kế hoạch triển khai thực
+hiện như sau:
+
+1. Tên đề tài: Hoàn thiện thiết kế và chế tạo thiết bị kiểm tra hệ thống điều
+khiển quán tính II-074 của đạn tên lửa Kh-35E (Mã số KC.T-32)
+
+2. Chủ nhiệm đề tài: Thiếu tá, ThS. Nguyễn Thái Hòa
+
+3. Thời gian thực hiện đề tài: 36 tháng, từ 12/2017 đến 12/2020
+
+4. Kế hoạch thực hiện đề tài" (Chi tiết trong phụ lục kèm theo):
+12 Các nội dung, công việc chủ yêu cần.
+thực hiện Nội dung 1: Nghiên cứu hệ thông điều
+khiển quán tính II-074-2MC2. Nghiên cứu giao tiệp giữa HTĐKQT HỊ-
+074-2MC2 với các hệ thống điều khiển
+ngoại vi (HTĐKP KACY, Hệ thống
+kiểm tra đạn Kh-35E AKHA 6.3, ACK)
+Hoàn thành 01 tài liệu chuyên đi
+
+Nghiên cứu giao tiếp giữa HTĐKQT II-
+074-2MCO với các thiết bị điều khiển
+trên khoang tên lửa Kh-35E (đầu tự dẫn.
+Y-502, đo cao vô tuyến 3A-59A, máy
+lái IT-27,...) 
+Thời gian 12/2017-
+12/2018 12/2017-
+12/2018 Cán bộ thực hiện 
+'Vũ Hoàng Anh
+Đỗ Ngọc Tuấn
+Dương Mạnh Cường, Nguyễn Thái Hòa
+
+Nguyễn Minh Thường,
+Xuân Ngọc.
+
+Dương Mạnh Cường Sản phẩm Tài liệu
+chuyên đề 
+Tài liệu
+chuyên đề 
+34 33 32 3.1 
+24 23 22 m 
+14 Nghiên cứu thiết kế, chế tạo hoàn thiện
+thiết bị TG-S074 Hoàn thành 05 modun chức năng Nghiên cứu thiết kế, chế tạo các khỏi
+tạo giả hoạt động của các khối chức
+năng trong hệ thống LI-074-2MC2. 
+Nghiên cứu xây dựng bộ chỉ tiêu kỹ-
+chiến-thuật cho thiết bị TG-S074 Nội dung 2: Nghiên cứu thiết kể, chế
+tạo thiết bị tạo giả hoạt động của hệ
+thống dẫn đường quán tính (TG-
+S074) Nghiên cứu các khối chức năng của
+HTĐKQT II-074-2MC2 Nghiên cứu các chế độ làm việc của
+HTĐKQT I-074-2MC3 
+Nghiên cứu thiết kế các thành phần
+khác của thiết bị Stend-S074M Nghiên cứu thiết kẻ, xây dựng chức
+năng cho các khối kiểm tra chuyên sâu
+các thành phần chức năng trong hệ
+thống I1-074-2MC2. Nội dung 3: Nghiên cứu xây dựng
+chức năng, hoàn thiện thiết kế thiết bị
+Stend-S074M Hoàn thành 01 bộ chương trình phân
+mắm 
+Nghiên cứu xây dựng chương trình
+phần mềm điều khiển thiết bị TG-S074 Hoàn thành 0ï tài liệu chuyên đề Nghiên cứu xây dựng bộ chỉ tiêu kỹ-
+chiến-thuật cho thiết bị Stend-S074M ụ chuyên đê 
+iên cứu xây dựng hoàn thiện thiết
+kế, chức năng cho thiết bị Stend-S074M Hoàn thành 0Ì tài liệu chuyên đề 12/2017-
+12/2018 12/2017
+12/2018 
+12/2017-
+12/2018 12/2018-
+12/2019 12/2018-
+12/2019 13/9/2019 
+9/2018-
+9/2019 9/2018-
+9/2019 9/2018-
+9/2019 15/12/2019 
+12/2018-
+12/2019 12/2018-
+12/2019 Nguyễn Minh Thường
+Dương Phú Tuần
+Đỗ Xuân Ngọc Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Manh Cường 
+Nguyễn Thái Hòa
+Nguyễn Minh Thường
+Ngọc Tuấn Nguyễn Thái Hòa
+Nguyễn Minh Thường.
+Dương Phú Tuần
+Nguyễn Tuấn Anh Nguyễn Thái Hòa
+Đào Văn Hưng
+Nguyễn Tuấn Anh Nguyễn Thái Hòa
+Nguyễn Minh Thường,
+Vũ Hoàng Anh 
+Nguyễn Minh Thường
+'Vũ Hoàng Anh
+Dương Manh Cường Nguyễn Thái Hòa
+Nguyễn Minh Thường
+Ngọc Tuấn Nguyễn Thái Hòa.
+Nguyễn Minh Thường,
+Dương Phú Tuấn Nguyễn Thái Hòa
+Nguyễn Minh Thường
+Dương Phú Tuấn 
+Thiết bị Modun
+chức năng Bộ chỉ tiêu
+kỹ thuật Tài liệu
+chuyên đề 
+Tài liệu
+chuyên để Tài liệu
+chuyên đề Tài liệu
+chuyên để Tài liệu
+chuyên để 
+¬ Tài liệu,
+chuyên để -CNP
+~ Lưu: VT, KTHT; H05.
+
+NRÀ
+
+“Thiếu tá Nguyễn Thái Hòa
+
+ 
+
+Đại tế Phạm Hồng Long
+
+—
+VI 43 42 4.1 
+Hoàn thành 05 modun chức năng Nghiên cứu chế tạo các thành phần khác.
+của thiết bị Stend-S074M. Hoàn thành 05 modun chức năng Nội dung 8: Viết báo cáo tổng kết đề
+tài 
+Nội dung 7: Hoàn thiện tài liệu thiết
+hướng dẫn sử dụng thiết bị Stend-
+S074M Nội dung 6: Xây dựng quy trình kiểm
+tra, phương án thử nghiệm và nghiệm
+thu Stend-S074M Hoàn thành 0l bộ chương trình phẩn
+ma. Nội dung 5: Nghiên cứu thiết kế, xây
+dựng phần mềm Stend-S074M 
+Nghiên cứu chế tạo hoàn thiện cho thiết
+bị Stend-S074M Nghiên cứu chế tạo các khôi kiểm tra
+chuyên sâu các thành phần chức năng
+trong hệ thống 1I-074-2MC2 Nội dung 4: Nghiên cứu thiết kế, chế
+tạo phần cứng Stend-S074M. 12-2019-
+12/2020 
+'9/2020-
+12/2020 12/2019-
+3/2020. 6/2020-
+9/2020 15/12/2020 
+12/2019-
+12/2020 12-2019-
+12/2020 12-2019-
+12/2020 'Vũ Hoàng Anh.
+Dương Phú Tuần 
+Nhöễn Thái Hòa
+Minh Thị
+le Ngọc Tuấn luỳng Xuân Ngọc
+Nguyễn Tt Nguyễn Thái Hòa
+Nguyễn Minh Thường
+Ngọc Tuấn Phạm Xuân Công 
+Nguyễn Thái Hòa
+Nguyễn Minh Thường,
+Dương Mạnh Cường Nguyễn Minh Thường.
+
+Dương Phú Tuấn
+'Vũ Hoàng Anh Tài liệu báo.
+cáo Bộ chương
+trình phần
+mềm 
+Thiết bị 05 modun
+chức năng Modun
+chức năng Tài liệu báo
+cáo 
+Tài liệu báo . _ Phụ lục
+(Kèm theo Tờ trình số 94/TTr-KTHT ngày 1€ /3 /2018)
+
+ 
+
+Các nội dung, công việc chủ yếu cần
+thực hiện.
+
+Thời gian
+
+Cán bộ thực hiện
+
+Sản phẩm
+
+ 
+
+Nội dung 1: Nghiên cứu hệ thống điều
+khiển quán tính HI-074-2MC2
+
+12/2017-
+12/2018
+
+-|
+
+ 
+
+Nghiên cứu giao tiếp giữa HTĐKQT I[_
+074-2MCĐ với các hệ thống điều khiển
+ngoại vi (HTĐKP KACY, Hệ thống
+kiểm tra đạn Kh-35E AKHIA 6.3, ACK):
+- Nghiên cứu giao tiếp giữa
+HTĐKQT I-074-2MC2 với hệ
+thống KACV .
+- Nghiên cứu giao tiếp giữa
+HTĐKQT I-074-2MC2 với hệ
+thống AKHA 6.3 và ACK
+
+15/12/2018
+
+Vũ Hoàng Anh
+Đỗ Ngọc Tuần
+Dương Mạnh Cường
+
+01 tài liệu
+chuyên đề
+
+ 
+
+Nghiên cứu giao tiếp giữa HTĐKQT I_-
+074-2MC2 với các thiết bị điều khiển
+trên khoang tên lửa Kh-35E (đầu tự dẫn
+Y-502, đo cao vô tuyến 3A-59A, máy
+lái TT-27,...):
+- Nghiên cứu giao tiếp giữa
+HTĐKQT IỊ-074-2MC2 với đầu
+tự dẫn V-502
+~ Nghiên cứu giao tiếp giữa
+HTĐKQT IỊ-074-2MC2 với đo
+cao vô tuyến 3A-59A.
+- Nghiên cứu giao tiếp giữa
+HTĐKQT L0742MC2 với
+máy lái II-27.
+
+15/12/2018
+
+Nguyễn Thái Hòa
+
+Nguyễn Minh Thường,
+Xuân Ngọc
+
+Dương Mạnh Cường,
+
+01 tài liệu
+chuyên đề
+
+ 
+
+Nghiên cứu các chễ độ làm việc của
+HTĐKQT I-074-2MCS:
+~_ Nghiên cứu chế độ cơ bản (chế
+độ cơ bản)
+~ _ Nghiên cứu chế độ kiểm tra mở
+rộng (chế độ PK)
+
+15/12/2018
+
+Nguyễn Thái Hòa
+Nguyễn Minh Thường.
+Đề Ngọc Tuần
+
+01 tải liệu
+chuyên đẻ
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu các khỏi chức năng của
+HTĐKQT L-074-2MC2:
+-_ Nghiên cứu khối chức năng B-
+472M
+- Nghiên cứu khối chức năng B-
+473M
+- Nghiên cứu khối chức năng B-
+474M Nghiên cứu khối chức
+năng B-475M
+- Nghiên cứu khối chức năng B-
+476M
+- _ Nghiên cứu khối MTTK (MLIO-
+1M3A-07, MIIO-1M3A-08)
+
+ 
+
+15/12/2018
+
+ 
+
+'Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Mạnh Cường
+
+ 
+
+01 tài liệu
+chuyên đề
+Các nội.
+
+ 
+
+Nội dung
+khiển quá
+
+ 
+
+Nghiên cú
+074-2MC:
+ngoại vỉ
+kiểm tra đi
+- Ng
+
+thố
+
+ 
+
+Nghiên cứ
+074-2MC3
+trên khoan,
+Y-502, đo
+lái TIT-27,.
+- Ngi
+HTï
+tựẻ
+- —Ngh hủ yến cần | mnại gian | Cán bộ
+‡ thống điều |_ 12/2017.
+C2 12/2018
+ITPKQTIL
+g điều khiến
+„ Hệ thống
+: Tê dc, v Hoàng
+ng | 15/12/2018 | Đỗ Ngọc ]
+ÁC2 với hệ De Mi
+tiếp giữa
+IC2 với hệ
+ACK
+TĐKQT II
+điều khiển
+(đầu tự dẫn
+-59A, máy
+tiếp giữa Nguyễn Th.
+C9 với đầu | 1s/i2/20pg bỆy Mi
+tiếp giữa Dương Mạt
+C2 với đo
+tiếp giữa
+MC2_ với
+¡ việp của
+Nguyễn Thí
+y bản (chế | Js/12/20g Nguyễn Mir
+Šm tra mở Đồ Ngọc Tu
+năng của
+› năng B-
+› năng B-
+'Vũ Hoàng A
+: năng B- | 15/12/2018 | Đỗ Xuân Ng
+hối chức Dương Mạnh
+' năng B-
+K (MLO-
+-08) King Thời gan | Cán bộ
+Ệ thống điều |_ 12/2017-
+IC2 12/2018
+ITĐKQT I-
+g điều khiển
+„ Hệ thống
+Tà B Hoàng
+f hệ | 15/12/2018 | Đỗ Ngọc ï
+ÁC2 với hệ De
+tiếp giữa
+ÍC2 với hệ
+ACK
+TĐKQT H-
+điều khiển
+(đầu tự dẫn
+-59A, máy
+tiếp giữa Nguyễn Thị
+C9 với đầu | 1s/i2/20pg Đa N
+tiếp giữa Dương Mạt
+C2 với đo
+tiếp giữa
+MC2 với
+\ việc của
+Nguyễn Thá
+; bản (ch | 1s/12/2ptg Nguyễn Mir
+ln Ba mớ Đồ Ngọc Tu
+năng của
+; năng B-
+› năng B-
+'Vũ Hoàng A,
+: năng B- | 15/12/2018 | Đỗ Xuân Ng
+hối chức Dương Mạnh
+- năng B-
+K (MLO-
+-08) 15/12/2018 
+15/12/2018 15/12/2018 12/2017-
+12/2018 bộ thựchiện | Sản phẩm
+n 01 tài liệu
+Mạnh Cường | Chuyên đề
+Thái Hòa
+Minh Thường | 01 tài liệu
+Ngọc chuyên đề
+lạnh Cường,
+hái Hòa nh
+i 01 tài liệu
+nh
+Thấp, nƯỜNE | chuyện đệ
+SH 01 tài liệu
+nh Cường _ | Vhuyên để 
+01 tài liệu
+chuyên đề 01 tải liệu
+chuyên đẻ 01 tài liệu
+chuyên đề 01 tài liệu
+chuyên đề 
+Sản phẩm Nội dung 2: Nghiên cứu th ch
+n đệ, tiết bị tạo giả hoạt động của hệ
+
+thống dẫn đường quán tính (TG_
+8074)
+
+12/2017.
+9/2019
+
+ 
+
+ 
+
+chiến-thuật cho thiết bị TG-S074:
+
+~_ Nghiên cứu xây dựng bản thạo,
+chỉ tiêu kỹ thuật
+
+2l | _ =- Tổ chức hội tháo xịn góp ý
+kiến hoàn thiện bộ thi tiêu kỹ
+thuật
+
+~__ Chỉnh sửa, hoàn thiện và xịn phệ
+đuyệt bộ chỉ tiêu kỹ thuật
+
+Nghiên cứu xây dựng bộ chỉ tiên mỊ
+
+15/12/2018
+
+Nguyễn Minh Thường 0I Bộ chỉ
+tiêu kỹ thuật
+
+ 
+
+Nghiên cứu thiết kể,
+t&o giả hoạt động của các khối chúc
+năng trong hệ thống 1I-074-2MC2:
+— Nghiên cứu thiết kế chế tạp
+khối TG-472 tạo giả hoạt động
+của khối B-472M.
+— Nghiên cứu thiết kế, chế tạo.
+¡ TÓ-473 tạo giả hoạt động
+22 của khối B-473M.
+, ~ Nghiên cứu thiết kế, chế tạo
+Ì TG-474 tạo giả hoạt động
+của khối B-474M.
+— Nghiên cứu thiết kế, chế tạo
+¡ TG-475 tạo giả hoạt động
+của khối B-475M.
+Nghiên cứu thiết kế, chế tạo.
+khối TG-476 tạo giá hoạc động
+76M
+
+  
+
+ 
+
+15/9/2019.
+
+ 
+
+Nguyễn Minh Thường
+Vũ Hoàng Anh TH ỚNG
+Dương Mạnh Cường s
+
+ 
+
+ 
+
+của khối B-4:
+chế tạo hoàn thiện
+
+Nghiên cứu thiết k
+thiết bị TG-S074;
+~__ Nghiên cứu xây dựng hoàn thiện
+chức năng cho HÀ BH 0.5074
+~ Nghiên cứu thị chế tạo
+2z khối tạo giả hệ thống IỊ-074
+” trong chế độ cơ bản
+— Nghiên cứu thiết kế, chế tạp
+khỔI tạo giả hệ thống IỊợy
+trong chế độ kiểm tra mổ rộng
+~ Nghiên cứu thiết kế, chế tạo.
+
+15/9/2019
+
+Nguyễn Thái Hòa
+Nguyễn Minh Thường | 0 thiết bị
+'Vũ Hoàng Anh
+
+ 
+
+ 
+
+khuôn mẫu cho thiết bị TQ-S074
+
+Nghiên cứu xây dựng chương trình
+
+phấn mềm điều khiển thiết bị TG-8074,
+
+~_ Nghiên cứu xây dựng giặn độ
+thời gian - logie của thiết bị
+
+24] - N iên cứu xây dựng thuật toán
+điều tiện thiết gi He
+
+~_ Nghiên cứu thiết kế, xây dựng
+
+chương trình phần mềm điều
+
+khiển thiết bị TG-S074
+
+ 
+
+15/9/2019.
+
+ 
+
+ 
+
+Nguyễn Thái Hòa — |01bộ
+Đào Văn Hưng
+Nguyễn Tiẫn Anh. | thhphên
+34 33 32 31 
+Nội dung 3: Nghiên cứu xây dựng
+chức năng, hoàn thiện thiết kế thiết bị
+Stend-S074M Nghiên cứu thiệt kể các thành phần
+khác của thiết bị Stend-S074M:
+
+Nghiên cứu thiết kế mô-đun
+điều phối các thành phần chức
+năng của thiết bị Stend-S074M
+Nghiên cứu thiết kế mô-đun tạo.
+giả tín hiệu thiết bị đầu tự dẫn
+Y-502
+
+Nghiên cứu thiết kế mô-đun tạo.
+giả tín hiệu thiết bị đo cao vô
+tuyến 3A-59A.
+
+Nghiên cứu thiết kế mô-đun tạo
+giả tín hiệu máy lái IIT-27
+Nghiên cứu thiết kế mô-đun tạo
+giả tín hiệu hệ thống KACY Nghiên cứu thiết kế, xây dựng chức
+năng cho các khối kiểm tra chuyên sâu
+các thành phần chức năng trong hệ
+thống I1-074-2MC2:
+
+Nghiên cứu thiết kế, xây dựng
+chức năng cho khối KT-472
+Nghiên cứu thiết kế, xây dựng
+chức năng cho khối KT-473
+Nghiên cứu thiết kế, xây dựng
+chức năng cho khối KT-474
+Nghiên cứu thiết kế, xây dựng
+chức năng cho khối KT-475
+Nghiên cứu thiết kế, xây dựng
+chức năng cho khối KT-476 Nghiên cứu xây dựng bộ chỉ tiêu kỹ-
+chiến thuật cho thiết bị Stend-S074M:
+Nghiên cứu xây dựng bản thảo
+_ tiêu kỹ thuật
+~ __ Tổ chức hội thảo xin đóng góp ý
+kiến hoàn thiện bộ chỉ tiêu kỹ
+thuật
+~ __ Chỉnh sửa, hoàn thiện và xin phê
+duyệt bộ chỉ tiêu kỹ thuật 
+KỆ di cứu xây dựng hoàn thiện thiết
+kế, chức năng cho thiết bị Stend-
+S074M:
+~ _ Nghiên cứu hoàn thiện thiết kế,
+chức năng điện cho các khối
+kiểm tra chuyên sâu của thiết bị
+Stend-S074M.
+~ _ Nghiên cứu hoàn thiện thiết kế,
+chức năng điện tổng thể cho
+thiết bị Stend-S074M 15/12/2019 12/2018-
+12/2019 15/12/2019 
+15/12/2019 15/12/2019 Nguyễn Thái Hòa
+Nguyễn Minh Thường
+
+Dương Phú Tuần
+Nguyễn Tuần Anh 'Nguyễn Thái Hòa
+Nguyễn Minh Thường
+Dương Phú Tuấn 
+Nguyễn Thái Hòa
+Nguyễn Minh Thường,
+Dương Phú Tuấn Nguyễn Thái Hòa
+Nguyễn Minh Thường,
+ĐỂ Ngọc Tuần 01 bộ tài
+bụ chuyên 01 bộ tài
+liệu chuyên
+đe 
+01 bộ tài
+liệu chỉ tiêu
+kỹ thuật 01 bộ tài
+liệu chuyên
+đề 
+43 42 41 Nghiên cứu chê tạo các thành phân khác
+của thiết bị Stend-S074M:
+
+Nghiên cứu chế tạo mô-đun điều
+phối các khối chức năng của
+thiết bị Stend-S074M.
+
+Nghiên cứu chế tạo mô-đun tạo
+giã hoạ động của thiết bị đầu tự
+
+Nghiên cứu chế tạo mô-đun tạo
+giả hoạt động của thiết bị đo cao
+vô tuy
+
+Nghiên cứu chế tạo mô-đun tạo
+giả hoạt động của máy lái
+Nghiên cứu chế tạo mô-đun tạo
+giả tín hiệu hệ thống KACV 
+Nghiên cứu chế tạo các khôi kiểm tra
+chuyên sâu các thành phần chức năng
+trong hệ thống II-074-2MC2:
+Nghiên cứu chế tạo khối KT-
+472 kiểm tra chuyên sâu khối B-
+472M
+- Nghiên cứu chế tạo khối KT-
+473 kiểm tra chuyên sâu khối B-
+473M
+- Nghiên cứu chế tạo khối KT-
+474 kiểm tra chuyên sâu khối B-
+474M
+- Nghiên cứu chế tạo khối KT-
+475 kiểm tra chuyên sâu khối B-
+475M
+- Nghiên cứu chế tạo khối KT-
+476 kiểm tra chuyên sâu khối B-
+476M Nội dung 4: Nghiên cứu thiết kế, chế
+tạo phần cứng Stend-S074M Nội dung 5: Nghiên cứu thiết kế, xây
+dựng phần mềm Stend-S074M:
+
+- Nghiên cứu thiết kế các chức
+năng phần mềm điều khiển thiết
+bị Stend-S074M
+
+- Lập trình thử nghiệm các chức Nghiên cứu chế tạo hoàn thiện cho thiết
+bị Stend-S074M:
+
+-_ Nghiên cứu hoàn thiện chế tạo
+điện từ cho thiết bị Stend-
+S074M
+
+~_ Nghiên cứu hoàn thiện chế tạo
+hòm hộp, cơ khí cho thiết bị
+Stend-S074M.
+
+- Thử nghiệm, hiệu chỉnh hoàn
+thiện điện tử cho thiết bị Stend-
+S074M 
+15/12/2020 12/2019-
+12/2020 15/12/2020 15/12/2020 
+12/2019-
+12/2020 'Vũ Hoàng Anh
+Dương Phú Tuấn Nguyễn Thái Hòa
+Nguyễn Minh Thường,
+Dương Mạnh Cường Nguyễn Minh Thường
+Dương Phú Tuần
+'Vũ Hoàng Anh 
+Nguyễn Thái Hòa
+Đào Văn Hưng
+Phạm Xuân Công 05 modun
+chức năng 05 modun
+chức năng ¬ 
+01 bộ
+chương, 01 thiết bị NGG. zZ
+VII VI VI mu 
+Nội dung 6: Xây dựng quy trình kiêm
+tra, phương án thử nghiệm và nghiệm
+thu Stend-S074M:
+
+Xây dựng quy trình kiểm tra cho
+thiết bị Stend-S074M.
+
+Xây dựng phương án thử
+nghiệm, nghiệm thu thiết bị
+Stend-S074M.
+
+Thử nghiệm-nghiệm thu trong
+phòng thí nghiệm (Viện
+CNTT/Viện KH-CNQS)
+
+Thử nghiệm-nghiệm thu tại đơn
+vị (Căn cứ 696/Vùng 2 - Hải
+Quân) năng phân mêm điêu khiên thiết
+bị Stend-S074M
+
+Cài đặt chương trình phần mềm,
+hiệu chỉnh thiết bị Stend-S074M. Nội dung 8: Việt báo cáo tông kết đề
+
+tài:
+
+Xây dụng li liệu báo cáo tổng
+kết
+
+Tổ chức hội thảo xin đóng góp ý
+kiến hoàn thiện báo cáo. tổng kết
+Chinh sửa hoàn thiện tài liệu báo
+cáo tổng kết
+
+'Viết báo cáo tóm tắt
+
+Đề xuất, tổ chức chuẩn bị
+nghiêm thu đề tài tứ dung 7: Hoàn thiện tài liệu thiết
+, hướng dẫn sử dụng thiết bị Stend-
+S074M:
+
+Thiết kế, xây dựng bản vẽ sản
+phẩm
+
+Xây dựng tài liệu thuyết minh
+điều kiện kỹ thuật
+
+Xây dựng tài liệu hướng dẫn sử
+dụng thiết bị
+
+Tổ chức thẩm định đóng dấu
+*T” tài liêu thiết kế 
+6/2020-
+9/2020 9/2020-
+12/2020 12/2019-
+3/2020 Ngaễn Thái Hòa
+Nguyễn Minh Thường
+Đỗ Ngọc Tuần 
+Nguyễn Thái Hòa.
+Nguyễn Minh Thường
+Đỗ Ngọc Tuấn. Nguyễn Thái Hòa
+Xuân Ngọc
+Nguyễn Tuần Anh 01 bộ tài
+liệu báo cáo 01 bộ tài
+liệu báo cáo 
+01 bộ tài
+liệu báo cáo 

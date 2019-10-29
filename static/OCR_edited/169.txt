@@ -1,0 +1,296 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: ⁄§ /VCNTT-HTTĐL Hà Nội, ngày?Ztháng s năm 2016
+
+V/v xin ý kiến về tính năng chiến kỹ thuật
+sản phẩm của Nhiệm vụ cải tiến Ra đa P37
+
+Kính gửi: Cục Kỹ thuật/Quân chủng PK-KQ.
+
+Căn cứ Hợp đồng số 675/2015/HĐ-CNTT ngà 29/05/2015 giữa Viện
+KH-CNQS và Viện Công nghệ thông tin về việc “Thiết kế chế tạo thiết bị cho
+VKTBKT thế hệ mới”; ¿
+
+Căn cứ nội dung yêu cầu thực hiện và chất lượng của sản phẩm trong
+thuyết minh Nhiệm vụ KHCN cấp Viện KHCNGQS “Cải tiến hiện đại hóa đài ra
+đa P37: Thiết kế, chế tạo mới hệ thống. chống nhiễu, hệ thống sóng và tích
+hợp hệ thống tự động kiểm tra dự báo hỏng hóc cho đài ra đa P37" :
+
+Căn cứ vào công văn số 266/BTL-KT ngày 28/1/2015 của Quân chủng
+PK-KO về việc phối hợp thực hiện nhiệm vụ cải tiễn, hiện đại hóa đài Ra đa P37
+giữa Viện KHCNQS và Quân chủng PK-KQ.
+
+Căn cứ vào bảng tính năng kỹ thuật các sản phẩm đã đăng ký trong thuyết
+mình Nhiệm vụ và thực tế thực hiện, Viện Công nghệ thông tin đã xây dựng
+bảng tính năng chiến kỹ thuật các sản phẩm của Nhiệm vụ (chỉ tiết như phụ lục
+kèm theo);
+
+Đề sản phẩm của Nhiệm vụ đáp ứng các tính năng chiến kỹ thuật và sớm
+
+tợc đưa vào khai thác sử dụng, Viện Công nghệ thông tin kính đề nghị Cục Kỹ
+thuật:
+
+- Xem xét, cho ý kiến đánh giá vẻ tính năng chiến kỹ thuật các sản phẩm
+thuộc Nhiệm vụ trên.
+
+- Cho phép thử nghiệm các sản phẩm của Nhiệm vụ trên khí tài P37Uy#
+
+  
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT,p.HTTĐL; S03.
+
+ 
+
+Đại tá Lê Quang ĐứcTÍNH NĂNG CHIẾN KỸ THUẬT SẴN PHÁM CỦA NHIỆM VỤ
+(Kèm theo Công văn sỐ xã /VCNTT-HTTĐL ngày2Z/‹ ø /2016)
+
+1. Tính năng kỹ chiến thuật của thiết bị chống nhiễu
+
+     
+
+  
+
+   
+       
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sTT | THAM SÓ KỸ THUẬT CHÍNH | ĐÐVĐ
+KHÓI NGUÒN
+ñ Điện áp nguồn đầu vào khối. w_ ]~(190+250) MI((1⁄2)
+VJ50Hz
+12 Nguồn +12V LễT +12V
+Biên độ X 1220,5
+Độ gợn mV <25
+13 | Nguồn -12V LễT -12V
+Biên độ V -1240,5
+Độ gợn mV <25 ]
+| 144 | Nguồn +5V LễT +5V
+Biên độ 1 5+0,5
+[— |Đâsm mỸ <25
+1.5 |Nguôn +12V M2JJ25
+Biên độ V 1/220,2
+Độ gợn mV <I0
+16 [Nguồn 25V 1 T M2I26 \
+Biến độ l Ý 2,540,2
+Độ gợn mV <I0
+17 | Nguồn l,8V M2I26
+Biên độ V 1,820/2
+Độ gợn mV <I0
+KHÔI TÍN HIỆU VÀO/RA
+21. | Xung kích vào Ị Đầu ®
+KÍCH
+PHÁT
+Biên độ V >5 \
+À
+3.8 3.7 3.6 3.5 
+3.4 33 3.2 3.2 
+3.1 23 22 21 
+Số bus Tín hiệu số ra ngoài tủ Độ rộng (t,) Hệ số chế áp nhiễu 
+Số chu kỳ bù khử MẢNG CHÉ ÁP NHIÊU Dung lượng bộ nhớ Chu kỳ biến đổi A/D 
+Khả năng phân biệt theo cự ly
+hướng tâm của bản đồ nhiễu. Khả năng phân biệt theo phương vị
+của bản đỗ nhiễu Cự ly hoạt động lớn nhất của bản
+đồ nhiễu Khả năng phân biệt biên độ tín hiệu
+địa vật 
+BẢN ĐỎ ĐỊA VẬT Biên độ Tạp Tín hiệu đầu ra tách sóng 
+Số lượng xung trong l vòng quay
+ăng ten Biên độ Xung phương bắc vào ô lượng xung trong Ì vòng quay
+ăng ten 
+Biên độ Xung phương vị 5° vào HS dB 
+Bít 8S Không nhỏ
+hơn 40 Không nhỏ
+hơn 22 
+71 đến 72
+xung >7V Từ 0,4 đến Không lớn
+hơn 0.36 
+Không lớn
+hơn 0,5 >180 Km Quyết định
+có địa vật
+=3,3 V và
+
+không có địa
+
+0V 0 đến 4,5 V 
+<1 1 xung 1 xung >7V 
+Đầu ®
+PV S50 Khả năng
+phát hiện
+có và
+không có
+tín hiệu Đầu ®
+Phương bắc WSL ~ Ƒ^ J8]
+12. 3.10 3.9 Công suất tiêu thụ nguồn (với điện áp 220V+10%,,
+50H2) 
+Công suất tiêu thụ nguồn (với điện áp 220V+10%,,
+S0Hz) Giao diện đầu ra Giao diện đầu ra Tôc độ truyền dữ liệu tôi thiêu 
+Sô lượng kênh truyên tin
+(video, điểm dấu) Sô điêm dâu giả trong một vòng quan sát Cự ly xử lý thông tin ra đa Hệ sô khuyêch đại tín hiệu 
+Lọc nhiêu theo độ rộng xung (Cho phép lọc bỏ xung.
+nhiễu có độ rộng tùy chọn) Ngưỡng biên độ Tân số lượng tử Xung kích
+-_ Biên độ
+-  Độrộng 
+Biên độ tín hiệu góc quay
+-_ Điện áp kích thích (50Hz)
+-_ Điện áp pha I
+~_ Điện áp pha 2
+~_ Điện áp pha 3 Biên độ tín hiệu Video đâu vào. THAM SỐ KỸ THUẬT CHÍNH Fính năng chiến kỹ thuật thiết bị hiệ 
+Khả năng tương thích, lắp lẫn Khả năng chuẩn đoán hỏng hóc -_ Tốc độ truyền n sóng 
+Không nhỏ
+hơn Ì 05 modul
+thuộc 5 kênh
+có thể lắp
+lẫn cho nhau Tới mảng
+chức năng,
+trong tủ <500 W 
+Ethemet SMbps 4 <I50 
+Trong phạm vỉ
+phát hiện của đài 0,2-3nms 256 mức 600KHz-5MHz 
+S+50V
+>lus 110V+10%
+46V
+46V
+46V 5+24V GIÁ TRỊ rH
+
+4Á ° +
+
+W
+STT 3. Khả ~ Đánh tông thê hoạt động của toàn.
+tủ ~ Trạng thái kết nôi 
+~ Trạng thái kênh phát 01 ~ Nhiệt độ ~ Sô lượng điện áp đo đạc tự động Module xử lý tủ thu, phát 03 
+~ Đánh tông thê hoạt động của toàn
+tủ ~ Trạng thái kết nôi ~ Trạng thái kênh phát 01 Đ
+` 
+~ Nhiệt độ ~ Sô lượng điện áp đo đạc tự động Module xử lý tủ thu, phát 02 ~ Đánh tông thê hoạt động của toàn
+tủ 
+~ Trạng thái kết nôi ~ Nhiệt độ ~ Sô lượng điện áp đo đạc tự động Module xử lý tủ thu, phát 01 
+THAM SỐ KỲ THUẬT CHÍNH ~ Hoạt động tô/Không hoạt động. ~ Hiện thị màu sắc trạng thái đường,
+truyện đữ liệu ~ Trang thái có phát / không phát 
+~ Hiền thị theo độ
+~ Cảnh báo quá đô ẩm ~ Hiên thị nhiệt độ hoạt động,
+~ Cảnh báo quá ngưỡng nhiệt độ ~ Hoạt động tô/Không hoạt động ~ Hiên thị màu sắc trạng thái đường,
+truyện dữ liệu 
+~ Trạng thái có phát / không phát ~ Hiên thị theo độ
+~ Cảnh báo quá đô ẩm ~ Hiên thị nhiệt độ hoạt động.
+~ Cảnh báo quá ngưỡng nhiệt độ ~ Hoạt động tôVKhông hoạt động. 
+- Hiện thị màu sắc trạng thái đường
+truyện dữ liệu ~ Trạng thái có phát / không phát - Hiên thị theo độ âm
+~ Cảnh báo quá đô ầm ~ Hiên thị nhiệt độ hoạt động.
+~ Cảnh báo quá ngưỡng nhiệt độ 
+GIÁ TRỊ 5+70°C
+95% 
+ÃốÃãẽẽẽẽẽ ~ Trạng thái kêt nôi ~ Điện áp nguồn Báo hồng cho tủ Chồng nhiều 
+~ Nhiệt độ ~ Trạng thái kết nôi ~ Tín hiệu giả Video ~ Tín hiệu điểm dâu 
+~ Tình trạng xung kích ~ Điện áp nguồn Báo hỏng cho tủ Hiện sóng ~ Đánh tông thê hoạt động của toàn
+tủ 
+~ Trạng thái kết nôi - Độ âm - Nhiệt độ ~ Số lượng điện áp đo đạc tự động. 
+Modute xử lý tũ thu, phát 05 ~ Đánh tông thê hoạt động của toàn
+tủ ~ Trạng thái kết nỗi ~ Trạng thái kênh phát 0L 
+Hiên thị trạng thái có kết nôi/không.
+có +l12V ~ Hiên thị theo độ
+- Cảnh báo quá độ ẩm
+
+của đài ~ Hiên thị nhiệt độ hoạt động khôi
+« Cảnh báo quá ngưỡng nhiệt đồ 
+Hiên thị trạng thái có kêt nôi/không,
+có Hiên thị trạng thái có tín
+hiệu/không có Hiên thị trạng thái có tín
+hiệu/không có có/không 
++12V ~ Hoạt động tôƯ/Không hoạt động. ~ Hiên thị màu sắc trạng thái đường
+truyền dữ liệu có phát / không phát 
+- Hiền thị theo độ âm
+- Cảnh báo cuả độ Ấm ~ Hiền thị nhiệt độ hoạt động
+- Cảnh báo quá ngưỡng nhiệt độ ~ Hoạt động tô/Không hoạt động, ~ Hiên thị màu sắc trạng thái đường,
+truyền dữ liệu 
+~ Trạng thái có phát / không phát 
+Điêu kiện làm việc Công suất tiêu thụ nguôn (với điện
+áp 220V+10%, 50Hz) Giao diện đâu ra theo chuân Tôc độ truyền dữ liệu 
+Số lượng kênh truyền tin Nguôn chính trên xe Điện áp hoạt động toàn đài Các tham số khác 
+~ Nhiệt độ "Theo điêu kiện hoạt động của đài 300 W UDP/IP 
+10/100Mbps 01 +27, -27, +200, -200, -372, -150, -
+250, +120, +300.~6.3,~2 V 220V 50Hz và 220V 400Hz 
+~ Hiên thị theo độ
+~ Cảnh báo quá độ âm
+
+của đài ~ Hiên thị nhiệt độ hoạt động khôi
+~ Cảnh báo quá ngưỡng nhiệt 

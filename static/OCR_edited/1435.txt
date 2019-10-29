@@ -1,0 +1,172 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+. §ố:3ƒ4/VCNTT-KH Hà Nội, ngày.|3 tháng 9 năm 2018
+'V/v kiểm tra an toàn thông tin đối với các
+thiết bị triển khai thử nghiệm tại đơn vị
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ Thông tư 161/2017/TT-BQP ngày 07/7/2017 của Bộ Quốc phòng
+Quy định về quản lý, khai thác sử dụng hạ tằng công nghệ thông tin quân sự
+trong Quân đội nhân dân Việt Nam;
+
+Căn cứ Thông tư 202/2016/TT-BQP ngày 12/12/2016 của Bộ Quốc phòng.
+Quy định về bảo đảm an toàn thông tin trong Quân đội nhân dân Việt Nam;
+
+Căn cứ Hợp đồng nghiên cứu khoa học và phát triển công nghệ số
+53B/2018/HĐ-CNTT ngày 06/03/2018 giữa Viện KHCNQS/Bộ Quốc phòng và
+Viện Công nghệ thông tin/Viện KHCNQS/Bộ Quốc phòng về việc thực hiện đề
+tài “Nghiên cứu hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thông hỗ trợ
+chuẩn bị bay cắp Trung đoàn không quân”;
+
+Căn cứ Công văn số 1473/BTM-CNTT ngày 21/5/2018 của Thủ trưởng
+Bộ Tham mưu PK-KQ về việc phối hợp triển khai thực hiện đề tài “Nghiên cứu
+hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thống hỗ trợ chuẩn bị bay cấp
+Trung đoàn không quân” của Viện Công nghệ thông tin/Viện KHCNQS;
+
+Căn cứ Hợp đồng số 156/HĐKT ngày 30 tháng 8 năm 2018 giữa Viện
+Công nghệ thông tin và Công ty TNHH công nghệ HDCOM Việt Nam về việc
+mua sắm thiết bị phục vụ triển khai thử nghiệm,
+
+Đổ các trang bị theo đề tài đáp ứng đúng quy định, yêu cầu trước khi đưa
+vào sử dụng tại Quân chủng PK-KQ, Viện Công nghệ thông tin kính đề nghị
+Phòng Tham mưu - Kế hoạch xem xét báo cáo Giám đốc Viện KHNCQS có văn
+bản để nghị Bộ Tư lệnh 86 hỗ trợ kiểm tra an toàn thông tin đối với các thiết bị
+theo danh mục (tại phụ lục kèm theo).
+
+Thời gian kiểm tra dự kiến: Từ ngày 24/9/2018 đến ngày 29/9/2018.
+
+Địa điểm: Viện Công nghệ thông tin, Số 17 Hoàng Sâm-Nghĩa Đô-Cầu
+Giấy-Hà Nội ,/ —C THIẾT BỊ KIÊM TRA.
+ƒCNTT-KH ký ngày /(4 tháng 9 năm 2018)
+
+ 
+
+ 
+
+Số
+
+ĐVT |¡
+
+Ghi chú
+
+ 
+
+Máy tính để bàn Dell Vostro 3670MT:
+
+- Processor: Intel Core i5 - 8400 (6*2.8),
+Mainboard . Ram: 1 x 4GB DDR4/
+2400MHz (2 slos).. Hard Drive : ITB
+SATA.. Graphics : Integrated Intel HD
+Graphics. Optical Drive : DVD-RW. Nic:
+10/100/1000 Mbps . WL + BT.. 1VGA,
+1HDMI.
+
+- Màn Hình Dell E2414H 24inch.
+
+~ Dell Optieal Mouse & Keyboard
+
+Bộ 8
+
+ 
+
+Switch CISCO SG95D-08:
+2 | 8cổng
+|- Tốc độ: 10/100/1000Mbps
+
+Chiếc ð
+
+ 
+
+Máy in Canon 25IDW Laser Printer LBP
+25IDW
+
+- Máy in laser đen trắng
+
+- Tốc độ: 30 trang / phút khổ A4.
+
+- Khổ giấy tối đa: A4
+
+Độ phân giải: 1200 x 1200 dpi.
+
+3ˆ |- In hai mặt tự động (Duplex).
+
+- In mạng không đây Wifi (Wireless) hoặc
+5b.
+
+Ƒ Bộ nhớ chuẩn: 512 MB.
+
+- Khay giấy: 250 tờ + khay đa năng: 50 tờ,
+- Kích thước: 403 x 376 x 301mm.
+
+- Trọng lượng : ~12.4 Kg.
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+Chiếc §
+TT Tê
+
+Máy tính
+- Process
+Mainboar
+2400MH:
+SATA..
+Graphics.
+10/100/10
+IHDMI.
+
+~ Màn Hìn
+- Dell Op
+Switch C
+8 công
+|_ } Tốc độ: I
+Mắy in C:
+25IDW
+
+- Máy in la
+- Tốc độ: 3
+- Khổ giấy
+Độ phân g
+3 | Inhai mặ
+- In mạng k
+usb,
+
+- Bộ nhớ ch
+L Khay giấy
+- Kích thướ
+Trọng lượ thị pvr | Số Ghi chú
+
+ 
+
+70MT:
+0 (6*2.8).
+B DDR4/
+ve : ITB
+Intel HD
+RW, Nic.| BỘ
+. IVGA,
+
+ 
+
+ 
+
+ 
+
+Chiếc §
+
+ 
+
+nter LBP
+
+Chiếc §
+) hoặc
+
+30 tờ. Chiếc Chiếc 
+Bộ ĐVT 

@@ -1,0 +1,997 @@
+'VIỆN KH-CN QUÂN SỰ CỌNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 2⁄4 /VCNTT-KH Hà Nội, ngày 29 tháng ⁄1 năm 2018
+'V/ đề xuất các vấn đề nghiên cứu KH&CN
+năm 2020 và những năm tiếp theo
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ công văn số 434/TMKH-KHCNMT ngày 19/11/2018 của Phòng
+Tham mưu - Kế hoạch về việc đề xuất các vấn đề nghiên cứu KH&CN năm 2020
+và những năm tiếp theo,
+
+'Viện Công nghệ thông tin đề xuất các vấn đề nghiên cứu KH&CN năm 2020
+và những năm tiếp theo như sau:
+
+~ Nghiên cứu làm chủ, phát triỂn, chế tạo các hệ thống điều khiển trên tàu mặt
+nước, tàu ngầm hải quân
+
+- Nghiên cứu, thiết kế, chế tạo và tích hợp các hệ thống đảm bảo bay của
+không quân
+
+- Nghiên cứu, thiết kế, chế tạo các hệ thống mô phỏng thực tại ảo và mô
+phóng tích hợp phục vụ huấn luyện VKTBKT công nghệ cao
+
+~ Nghiên cứu thiết kế chế tạo một số thiết bị phục vụ bảo vệ mục tiêu quân sự
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống tích hợp thông tin thông minh phục
+vụ tự động hóa chỉ huy tham mưu các cấp
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống quản lý điều hành dựa trên dữ liệu
+lớn phục vụ chính phủ điện tử trong quân đội
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét./„z _
+
+Nơi nhận:
+~ Như trên,
+~ Lưu: VT, KH; H03.Phụ lục
+
+Danh mục các vấn đề nghiên cứu KH&CN năm 2020 và những năm tiếp theo
+(Kèm theo công văn số. 54 /VCNTT-KH ngày 22 thắng 1ƒ năm 2018 của Viện Công nghệ thông tin)
+
+ 
+
+Vấn đề nghiên cứu
+
+Lý do đề xuất
+
+'Yêu cầu chung
+
+Ghi chú
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu làm chủ, phát
+triển, chế tạo các hệ
+thống điều khiển trên tàu
+mặt nước, tàu ngầm hải
+quân
+
+ 
+
+Hầu hết các vũ khí, trang bị khí tại
+được trang bị trên các lớp tàu của Hải
+quân đều có trang bị các thiết bị máy tính
+điều khiển. Trên thiết bị máy tính điều
+khiển chứa toàn bộ các chương trình làm
+việc của hệ thống. Sau thời gian khai thác
+sử dụng, các thiết bị máy tính trên các hệ
+thống đã phát sinh nhiều hỏng hóc. Việc
+bảo đảm kỹ thuật cho các tổ hợp này hiện
+nay còn gặp nhiều khó khăn, đặc biệt là
+các hệ thông máy tính điều khiển. Qua
+khảo sát thực tế tại đơn vị, các hệ thống
+máy tính điều khiển trên tàu được trang bị
+cho Hải quân Việt nam là các hệ thông
+thiết bị máy tính sử dụng các hệ điều hành
+chuyên dụng. Việc bảo đảm kỹ thuật cho
+các hệ thống máy tính yêu cầu cần phải
+đầu tư bài bản cho việc nghiên cứu hệ
+thống và cần có độ trình trong, thời gian
+dài. Trong thực tế, nếu hệ thống máy tính
+điều khiển bị hỏng, toàn bộ tổ hợp sẽ
+không thể làm việc. Do vậy, việc nghiên
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu làm chủ hệ thống điều
+khiển quán tính của đạn tên lửa Kh35.
+
+- Nghiên cứu, phân tích hoạt động của
+quả đạn tên lửa trong các chế độ làm việc. _
+
+- Nghiên cứu khôi phục thuật toán điều
+khiển của đạn tên lửa trong các chế độ làm
+việc.
+
+- Phân tích bóc tách các tham số điều
+khiển quả đạn trong quá trình bay.
+
+- Phân tích các gói dữ liệu trao đổi là việc
+của quả đạn.
+
+- Thiết kế chế tạo được 01 thiết bị MTTK.
+mẫu điều khiển đạn tên lửa Kh35E. .
+
+- Nghiên cứu thiết kế chế tạo các khối
+thành phần của hệ thống ĐKQT2.
+
+Nghiên cứu làm chủ, phát triển các hệ
+thống máy tính điều khiển trên lớp tàu của
+quân chủng Hải quân.
+
+- Nghiên cứu hoạt động của các thiết bị
+máy tính trên tàu Hải quân.
+
+- Nghiên cứu kiến trúc mạng hệ thống
+máy tính trên các lớp tàu Hải quân
+
+ 
+
+ 
+
+Z-ưƯN
+Nghiên cứu làm chủ, phát
+triển, chế tạo các hệ
+thống điều khiển trên tàu
+mặt nước, tàu ngầm hải
+quân Vấn đề nghiên cứu Lý đo đề xuất Hầu hệt các vũ khí, trang bị khí tại
+được trang bị trên các lớp tàu của Hải
+quân đều có trang bị các thiết bị máy tính
+điều khiển. Trên thiết bị máy tính điều
+khiển chứa toàn bộ các chương trình làm
+việc của hệ thống. Sau thời gian khai thác
+sử dụng, các thiết bị máy tính trên các hệ
+thống đã phát sinh nhiều hỏng hóc. Việc
+bảo đảm kỹ thuật cho các tổ hợp này hiện
+nay còn gặp nhiều khó khăn, đặc biệt là
+các hệ thông máy tính điều khiển. Qua
+khảo sát thực tế tại đơn vị, các hệ thông
+máy tính điều khiển trên tàu được trang bị
+cho Hải quân Việt nam là các hệ thông
+thiết bị máy tính sử dụng các hệ điều hành
+chuyên dụng. Việc bảo đảm kỹ thuật cho
+các hệ thống máy tính yêu cầu cần phải
+đầu tư bài bản cho việc nghiên cứu hệ
+thống và cần có độ trình trong, thời gian
+dài. Trong thực tế, nếu hệ thống máy tính
+điều khiển bị hỏng, toàn bộ tổ hợp sẽ
+không thẻ làm việc. Do vậy, việc nghiên 
+Yêu cầu chung Nghiên cứu làm chủ hệ thông điều
+khiển quán tính của đạn tên lửa Kh35.
+
+- Nghiên cứu, phân tích hoạt động của
+quả đạn tên lửa trong các chế độ làm việc.
+
+- Nghiên cứu khôi phục thuật toán điều
+khiển của đạn tên lửa trong các chế độ làm
+việc.
+
+- Phân tích bóc tách các tham số điều
+khiển quả đạn trong quá trình bay.
+
+~ Phân tích các gói dữ liệu trao đổi là việc
+của quả đạn.
+
+- Thiết kế chế tạo được 01 thiết bị MTTK.
+mẫu điều khiển đạn tên lửa Kh35E.
+
+- Nghiên cứu thiết kế chế tạo các khối
+thành phần của hệ thống ĐKQT2.
+
+Nghiên cứu làm chủ, phát triển các hệ
+thống máy tính điều khiển trên lớp tàu của
+quân chủng Hải quân.
+
+- Nghiên cứu hoạt động của các thiết bị
+máy tính trên tàu Hải quân.
+
+- Nghiên cứu kiến trúc mạng hệ thống
+máy tính trên các lớp tàu Hải quân Ghi chú | cứu làm chủ các hệ thống máy tính điều
+khiển trên lớp tàu Hải quân là một trong,
+các nhu cầu cấp thiết hiện nay nhằm hỗ trợ
+công tác bảo đảm kỹ thuật cho các hệ
+thống vũ khí, khí tài được lắp trên các lớp
+tàu.
+
+Kế thừa các kết quả nghiên cứu, làm chủ
+các hệ thống thực hiện cải tiến chế tạo các
+hệ thống, thiết bị có tính năng kỹ chiến
+thuật tương đương hoặc cải tiến phù hợp
+với điều kiện kỹ thuật, tính năng kỹ chiến
+thuật tùy biển theo yêu cầu của tác chiến
+Việt Nam. Với mục tiêu từng bước làm
+chủ vũ khí, trang bị, khí tài hiện đại bằng.
+nội lực trong nước.
+
+ 
+
+  
+ 
+
+- Nghiên cứu cài
+điều khiển của các hệ
+máy tính mới.
+
+- Nghiên cứu xây dựng driver cho điều
+khiển các ngoại vi cho các thiết bị máy tính
+trên các nền tảng hệ điều hành chuyên dụng.
+
+"Nghiên cứu khôi phục thuật toán
+chương trình điều khiển của các thiết bị máy
+tính trong tỏ hợp.
+
+- Từng bước nghiên cứu, xây dựng lại
+chương trình phần mềm cho các hệ thống,
+máy tính sử dụng trên các lớp tàu được trang,
+bị cho Hải quân Việt Nam.
+
+Nghiên cứu, thiết kế, chế tạo tổ hợp
+điều khiển phóng tên lửa Kh35 trên bờ,
+trang bị cho lực lượng phòng thủ biển
+đão của Quân chủng Hải quân.
+
+- Nghiên cứu phân tích hệ thống điều
+khiển phóng tên lửa bờ.
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống,
+phần mềm điều khiển. -
+
+- Nghiên cứu, thiết kế, chế tạo hệ thống,
+chỉ thị mục tiêu. -
+
+~ Nghiên cứu, thiết kế, chế tạo hệ truyền
+tin
+
+- Nghiên cứu, thiết kế chế tạo hệ thống,
+điện tử
+
+lặt các chương trình
+ng trên các thê hệ
+cứu làm chủ các hệ thông máy tính điều
+khiển trên lớp tàu Hải quân là một trong,
+các nhu cầu cấp thiết hiện nay nhằm hỗ trợ
+công tác bảo đảm kỹ thuật cho các hệ
+thống vũ khí, khí tài được lắp trên các lớp
+tàu.
+
+Kế thừa các kết quả nghiên cứu, làm chủ
+các hệ thống thực hiện cải tiến chế tạo các
+hệ thống, thiết bị có tính năng kỹ chiến
+thuật tương đương hoặc cải tiên phù hợp
+với điều kiện kỹ thuật, tính năng kỹ chiến
+thuật tùy biển theo yêu cầu của tác chiến
+Việt Nam. Với mục tiêu từng bước làm
+chủ vũ khí, trang bị, khí tài hiện đại bằng
+nội lực trong nước. - Nghiên cứu cài đặt các chương trình
+điều khiển của các hệ thống trên các thế hệ
+máy tính mới.
+
+- Nghiên cứu xây dựng driver cho điều
+khiển các ngoại vi cho các thiết bị máy tính
+trên các nền tảng hệ điều hành chuyên dụng.
+
+-Nghiên cứu khôi phục thuật toán
+chương trình điều khiển của các thiết bị máy
+tính trong tỏ hợp.
+
+- Từng bước nghiên cứu, xây dựng lại
+chương trình phần mềm cho các hệ thống,
+máy tính sử dụng trên các lớp tàu được trang
+bị cho Hải quân Việt Nam.
+
+Nghiên cứu, thiết kế, chế tạo tổ hợp
+điều khiển phóng tên lửa Kh35 trên bờ,
+trang bị cho lực lượng phòng thủ biển
+đão của Quân chủng Hải quân.
+
+- Nghiên cứu phân tích hệ thống điều
+khiển phóng tên lửa bờ.
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống,
+phần mềm điều khiển.
+
+- Nghiên cứu, thiết kế, chế tạo hệ thống,
+chỉ thị mục tiêu. -
+
+~ Nghiên cứu, thiết kế, chế tạo hệ truyền
+tin
+
+- Nghiên cứu, thiết kế chế tạo hệ thống,
+tử
+
+ 
+
+đi: - Nghiên cứu, thiết kế, chế tạo hệ cơ khí,
+thủy lực
+
+- Nghiên cứu, thiết kế, chế tạo hệ cấp
+nguồn
+
+Nghiên cứu làm chủ đẹp nguyên lý
+hoạt động của các trang thiết bị trên tàu
+
+m Kilo636
+
+- Làm chủ các module máy tính chuyên
+dụng trên tàu, sẵn sàng thay thế: hệ thống
+điều khiển toàn tàu, hệ thống sonar, hệ
+thống điều khiển vũ khí...
+
+~ Làm chủ các hệ điều hành chuyên dụng,
+các phần mềm chuyên dụng trên máy tính
+chuyên dụng.
+
+~ Đào tạo cán bộ nghiên cứu chuyên sâu.
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu, thiết kế, chế
+tạo và tích hợp các hệ
+thống đảm bảo bay của
+không quân
+
+ 
+
+Nhiệm vụ chính trị trong tâm đặt ra đối
+với Quân chủng PK-KQ hiện nay là thực
+hiện tốt sẵn sàng chiến đấu, Quản lý vùng,
+trời, Quản lý - Điều hành bay.
+
+Đối với nhiệm vụ quản lý vùng trời
+quốc gia, để đáp ứng yêu cầu nhiệm vụ xây
+dựng Quân chủng PK-KQ hiện đại, những
+năm qua, Quân chủng đã tích cực triển khai
+nhiều dự án như: đầu tư mua sắm các ra đa
+mới, hiện đại như tổ hợp ra-đa cảnh giới
+ELM-2288/ER, đài ra-đa cảnh giới 36Dó,
+ra-đa thụ động Kolchuga, ra đa P18-M cải
+
+ 
+
+Nghiên cứu thiết kế chế tạo các hệ thống
+máy tính điều khiển trung tâm cho các
+các hệ thống bảo đảm bay
+
+- Nghiên cứu thiết kế “hé tạo Tổ Hợp
+NKVS§-27 rút gọn làm việc đồng bộ với máy
+bay Su-30MK2
+
+~ Nghiên cứu, làm chủ tiến tới chế tạo các
+hệ thống máy tính điều khiển trung tâm của
+các đài ra đa thế hệ mới
+
+- Nghiên cứu thiết kế, chế tạo hệ thống
+kết nối, trao đổi dữ liệu máy bay-mặt đất
+phục vụ công tác quản lý, chỉ huy điều hành
+
+ 
+
+uy,
+Nghiên cứu, thiết kế, chế
+tạo và tích hợp các hệ
+thống đảm bảo bay của
+không quân Nhiệm vụ chính trị trong tâm đặt ra đối
+với Quân chủng PK-KQ hiện nay là thực
+hiện tốt sẵn sàng chiến đầu, Quản lý vùng
+trời, Quản lý - Điều hành bay.
+
+Đối với nhiệm vụ quản lý vùng trời
+quốc gia, để đáp ứng yêu cầu nhiệm vụ xây
+dựng Quân chủng PK-KQ hiện đại, những,
+năm qua, Quân chủng đã tích cực. triển khai
+nhiều dự án như: đầu tư mua sắm các ra đa
+mới, hiện đại như tổ hợp ra-đa cảnh giới
+ELM-2288/ER, đài ra-đa cảnh giới 36Dó,
+ra-đa thụ động Kolchuøa, ra đa PI§-M cải Nghiên cứu. thiết kế chế tạo các hệ thống
+máy tính điều khiển trung tâm cho các
+các hệ thống bảo đảm bay
+
+- Nghiên cứu thiết kế “hé tạo Tổ Hợp
+NKVS-27 rút gọn làm việc đồng bộ với máy
+bay Su-30MK2
+
+~ Nghiên cứu, làm chủ tiến tới chế tạo các
+hệ thống máy tính điều khiển trung tâm của
+các đài ra đa thế hệ mới
+
+- Nghiên cứu thiết kế, chế tạo hệ thống,
+kết nối, trao đổi dữ liệu máy bay-mặt đất
+phục vụ công tác quản lý, chỉ huy điều hành ~ Nghiên cứu, thiết kê, chế tạo hệ cơ khí,
+thủy lực
+
+- Nghiên cứu, thiết kế, chế tạo hệ cấp
+nguồn
+
+Nghiên cứu làm chủ được nguyên lý
+hoạt động của các trang thiết bị trên tàu
+
+m Kilo636
+
+- Làm chủ các module máy tính chuyên
+dụng trên tàu, sẵn sàng thay thế: hệ thống
+điều khiển toàn tàu, hệ thống sonar, hệ
+thống điều khiển vũ khí...
+
+~ Làm chủ các hệ điều hành chuyên dụng,
+các phần mềm chuyên dụng trên máy tính
+chuyên dụng.
+
+~ Đào tao cán bộ nghiên cứu chuyên sâu. _Ttiển...
+
+; đặc biệt đã đầu tư xây dựng các hệ
+tự động hóa quản lý tình báo phòng không,
+tự động (VQI-M, VQ2...) góp phân hiện
+đại hóa nhiệm vụ quản lý vùng trời quốc
+gia.
+
+Máy bay Su-30MK2 là máy bay hiện
+đại nhất của Không Quân Việt Nam thời
+điểm hiện tại, là lực lượng Không quân chủ
+lực của Quân chủng cũng như Quân đội
+'Việt Nam.
+
+Các hệ thống bảo đảm bay tương,
+rạc hoặc tích hợp mức độ thấp làm giảm
+khả năng tương tác, bảo đảm cho Su-
+30MK2. Việc nghiên cứu, thiết kế, chế
+tích hợp các hệ thống bảo đảm bay cho c‹
+trung đoàn Su-30MK2 nhiệm vụ cân thiết.
+
+ 
+
+ 
+ 
+
+ 
+
+bay và dẫn đường cho đơn vị Không quân
+
+~ Nghiên cứu, thiết kế, chế tạo hệ thống
+thu nhận, giải mã và xử lý thông tin đầu ra
+rađa 36D6M trực tiếp từ đải (không qua xe
+điều khiển xa PIIY-])
+
+- Nghiên cứu, thiết kế chế ` tạo hệ thống tự
+động kiểm tra hỏng hóc buống tập lái máy
+baySu-30MK2 . -
+
+- Nghiên cứu, chê tạo tô hợp thiết bị
+chuẩn đoán, sửa chữa hệ thống phát cho đài
+ra đa P18-M.
+
+„ Nghiên cứu, thiết kế, chế tạo các hệ
+
+thống giá thử phục vụ phát hiện, chuẩn đoán
+hỏng hóc cho các khôi, mảng trên các dài ra
+đa thể hệ mới.
+- Nghiên cứu, thiết kế, chế tạo, tích hợp
+thông tin các hệ thống bảo đảm bay phát
+huy tối đa sự hỗ trợ của các hệ thống bảo.
+đảm bay cho nhiệm vụ bảo đảm bay cho
+máy bay Su-30MK2.
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu, thiết kế, chế
+tạo các hệ thông mô
+phỏng thực tại ảo và mô
+phỏng tích hợp phục vụ
+huấn luyện VKTBKT
+công nghệ cao _
+
+ 
+
+- Công tác huần luyện tại các đơn vị hiện
+chủ yếu được tiến hành theo phương pháp
+truyền thống, kết hợp một số mô hình học
+cụ, ít có tính tương tác với học viên, thiết
+bị khó nâng cấp, cập nhật. Trong huấn
+luyện thực hành có nhiều yêu cầu về địa ,
+
+ 
+
+- Lâm chủ các công nghệ mô phỏng hiện
+đại: các Engine mô phỏng, các thiết bị thực
+tại ảo.
+
+ 
+
+ 
+
+- Xây dựng cơ sở dữ liệu các loại địa hình,
+đối tượng chiến đầu, khí tải quân sự 3D.
+Nghiên cứu, thiết kế, chế
+tạo các hệ thông mô
+phỏng thực tại ảo và mô
+phỏng tích hợp phục vụ
+huấn luyện VKTBKT
+công nghệ cao. - Công tác huấn luyện tại các đơn vị hiện
+chủ yếu được tiến hành theo phương pháp
+truyền thống, kết hợp một số mô hình học
+cụ, ít có tính tương tác với học viên, thiết
+bị khó nâng cấp, cập nhật. Trong huấn
+luyên thực Hãnh có nhiều ›yêu cẩu về đi ...; đặc biệt đã đầu tư xây dựng các hệ
+tự động hóa quản lý tình báo phòng không,
+tự động (VQI-M, VQ2...) góp phân hiện
+đại hóa nhiệm vụ quản lý vùng trời quốc
+gia.
+
+Máy bay Su-30MK2 là máy bay hiện
+đại nhất của Không Quân Việt Nam thời
+điểm hiện tại, là lực lượng Không quân chủ
+lực của Quân chủng cũng như Quân đội
+'Việt Nam.
+
+Các hệ thống bảo đảm bay tương đối rời
+rạc hoặc tích hợp mức độ thấp làm giảm
+khả năng tương tác, bảo đảm cho Su-
+30MK2. Việc nghiên cứu, thiết kế, chế tạo,
+tích hợp các hệ thống bảo đảm bay cho các
+trung đoàn Su-30MK2 nhiệm vụ cân thiết. - Làm chủ các công nghệ mô phỏng hiện
+đại: các Engine mô phỏng, các thiết bị thực
+tại ảo.
+
+- Xây dựng cơ sở dữ liệu các loại địa hình,
+đối tượng chiến đầu, khí tài quân sự 3D. 
+bay và dẫn đường cho đơn vị Không quân
+
+~ Nghiên cứu, thiết kế, chế tạo hệ thống
+thu nhận, giải mã và xử lý thông tin đầu ra
+rađa 36D6M trực tiếp từ đải (không qua xe
+điều khiển xa PIIY-I)
+
+- Nghiên cứu, thiết kế chế tạo hệ thống tự
+động kiểm tra hỏng hóc buống tập lái máy
+baySu-30MK2 - ¿
+
+- Nghiên cứu, chế tạo tổ hợp thiết bị
+chuẩn đoán, sửa chữa hệ thống phát cho đài
+ra đa PI8-M.
+
+„ Nghiên cứu, thiết kế, chế tạo các hệ
+
+thống giá thử phục vụ phát hiện, chuẩn đoán
+hỏng hóc cho các khối, mảng trên các dài ra
+đa thế hệ mới.
+- Nghiên cứu, thiết kế, chế tạo, tích hợp
+thông tin các hệ thông bảo đảm bay phát
+huy tối đa sự hỗ trợ của các hệ thống bảo.
+đảm bay cho nhiệm vụ bảo đảm bay cho
+máy bay Su-30MK2. hình, thời tiết-môi trường với ch phí đắt
+đỏ, có thể không an toàn cho học viên và
+giáo viên.
+
+~ Trong lĩnh vực quân sự theo xu thế cuộc
+cách mạng công nghiệp 4.0 hiện nay, công.
+nghệ mô phỏng & thực tại ảo đang là
+nhóm công nghệ then chốt trong chiến
+lược xây dựng quân đội theo hướng gọn
+nhẹ, chính quy, tỉnh nhuệ, hiện đại.
+nghệ mô phỏng và thực tại ảo sẽ thiết kế,
+chế tạo ra các hệ thống mô phỏng tích hợp
+phục vụ huấn luyện VKTBKT CNC với
+mô hình hoạt động sát với thực tế chiến
+đấu cùng nhiều ưu điểm: tiết kiệm chỉ phí,
+thời gian huấn luyện, đảm bảo an toàn,
+hiệu quả.
+
+- Xây dựng hệ thống mô phỏng huấn luyện
+chiến đấu cho phép học viên có thể tương
+tác với môi trường và các khí tài quân sự
+trong không gian ảo lẫn trong thực tế.
+
+- Áp dụng công nghệ thực tại ảo trong xây
+dựng phòng học thông minh, phục vụ công.
+tác huần luyện VKTBKT CNC:
+
++ Nghiên cứu, thiết kế, chế tạo hệ thông mô
+
+Công Í "hỏng hoạt động các thành phần cơ bản tổ
+
+hợp tên lửa Spyder phục vụ nhiệm vụ Huấn.
+luyện SSCĐ tại Quân chủng PK-KQ
+
++ Nghiên cứu, thiết kế, chế tạo hệ thống mô
+phỏng kíp chiến đấu của các hệ thống ra đa
+đảm bảo bay
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu thiết kế chế
+tạo một số thiết bị phục
+vụ bảo vệ mục tiêu quân
+sự
+
+ 
+
+Bảo vệ các mục tiêu tiếp cận từ trên
+không bởi tắn công tự sát UAV là sự cấp
+thiết trong, điều kiện hiện nay.
+
+Nghiên cứu hệ thống cảnh báo và phát | °â)
+
+hiện UAV được nhiều nước quan tâm
+nghiên cứu phát triển.
+Mở ra định hướng nghiên cứu và ứng
+dụng kỹ thuật tiên tiễn hiện đại như AI.
+Thế giới đã xuất hiện các thiết bị tàu
+không người lái phục vụ tấn công và bảo
+
+ 
+
+Nghiên cứu, thiết kế, xây dựng hệ
+thống cảnh báo và phát hiện UAV phục
+vụ bảo vệ mục tiêu chống tấn công tiếp
+In"
+~ Nghiên cứu thiết kế hệ thống thiết bị; .
+
+- Nghiên cứu, tích hợp, xây dựng hệ thống,
+phát hiện mục tiêu UAV;
+
+- Nghiên cứu, ứng dụng công nghệ AI
+(phát hiện mục tiêu).
+
+- Đào tạo đội ngũ các bộ chuyên sâu trong
+các lĩnh vực liên quan đến định hướng
+
+ 
+
+#2 9s
+Nghiên cứu thiết kế chế
+tạo một số thiết bị phục
+vụ bảo vệ mục tiêu quân
+sự Bảo vệ các mục tiêu tiếp cận từ trên
+không bởi tấn công tự sát UAV là sự cấp
+thiết trong điều kiện hiện nay.
+
+Nghiên cứu hệ thống cảnh báo và phát
+hiện UAV được nhiều nước quan tâm
+nghiên cứu phát triển.
+
+Mỡ ra định hướn; láng nghìn cứu và ứng
+dụng kỹ thuật tiên tiên hiện đại như AI.
+
+Thế giới đã xuất hiện các thiết bị tàu
+không người lái phục vụ tấn công và bảo ,, thời tiêt-môi trường với chỉ phí đặt
+đỏ, có thể không an toàn cho học viên và
+giáo viên.
+~ Trong lĩnh vực quân sự theo xu thế cuộc
+cách mạng công nghiệp 4.0 hiện nay, công.
+nghệ mô phỏng & thực tại ảo đang là
+nhóm công nghệ then chốt trong chiến
+lược xây dựng quân đội theo hướng gọn
+nhẹ, chính quy, tỉnh nhuệ, hiện đại.
+nghệ mô phỏng và thực tại ảo sẽ thiết kế,
+chế tạo ra các hệ thống mô phỏng tích hợp
+phục vụ huấn luyện VKTBKT CNC với
+mô hình hoạt động sát với thực tế chiến
+đấu cùng nhiều ưu điểm: tiết kiệm chỉ phí,
+thời gian huấn luyện, đảm bảo an toàn, Nghiên cứu, thiết kê, xây dựng hệ
+thống cảnh báo và phát hiện UAV phục
+vụ bảo vệ mục tiêu chống tấn công tiếp
+cận
+
+~ Nghiên cứu thiết kế hệ thống thiết bị; .
+
+- Nghiên cứu, tích hợp, xây dựng hệ thống,
+phát hiện mục tiêu UAV;
+
+- Nghiên cứu, ứng dụng công nghệ AI
+(phát hiện mục tiêu).
+
+- Đào tạo đội ngũ các bộ chuyên sâu trong,
+các lĩnh vực liên quan đến định hướng 
+- Xây dựng hệ thống mô phỏng huấn luyện
+chiến đấu cho phép học viên có thể tương,
+tác với môi trường và các khí tài quân sự
+trong không gian ảo lẫn trong thực tế.
+
+- Áp dụng công nghệ thực tại ảo trong xây
+dựng phòng học thông minh, phục vụ công.
+tác huân luyện VKTBKT CNC:
+
++ Nghiên cứu, thiết kế, chế tạo hệ thống mô
+phỏng hoạt động các thành phần cơ bản tổ
+hợp tên lửa Spyder phục vụ nhiệm vụ Huấn.
+luyện SSCĐ tại Quân chủng PK-KQ
+
++ Nghiên cứu, thiết kế, chế tạo hệ thống mô
+phỏng kíp chiến đấu của các hệ thống ra đa
+đảm bảo bay. vệ mục tiêu trên biển.
+
+Bảo vệ các mục tiêu biển đảo là một
+trong những nhiệm vụ quan trọng đổi với
+nước ta. Các chương trình nghiên cứu cho.
+iễn đảo đã và đang được nhà nước đầu tư
+rất lớn.
+
+Với kinh nghiệm chiến tranh du kích thì
+việc phát triên các tÌ j tân công không
+người lái sẽ tạo nên các tình huông bất
+ngờ, phục vụ hiệu quả trong công tác bảo
+vệ chủ quyền quốc gia trên biển.
+
+ 
+
+ 
+
+nghiên cứu.
+
+Nghiên cứu, thiết kế chế tạo cano
+không người lái bảo vệ mục tiêu và tấn
+công từ xa phục vụ bảo vệ biển đảo
+
+- Nghiên cứu hệ thống điều khiển Cano
+không người lái;
+
+~ Nghiên cứu, thiệt kê tích hợp Cano
+không người lái;
+
+~ Nghiên cứu, ứng dụng công nghệ AI cho
+cano không người lái (nhận dạng, phát hiện,
+tấn công mục tiêu).
+
+- Đào tạo đội ngũ các bộ chuyên sâu trong
+các lĩnh vực liên quan đến định hướng
+nghiên cứu.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu, thiết kế, xây
+dựng hệ thống tích hợp
+thông tỉn thông mình
+phục vụ tự động hóa chỉ
+huy tham mưu các cấp
+
+ 
+
+ 
+
+- Việc tích hợp các nguồn thông tin phục
+vụ chỉ huy-tham mưu tác chiến theo nhiều
+cấp, nhiều chiều là xu hướng và yêu cầu
+bắt buộc trong tình hình mới. Hiện nay,
+tích hợp thông. tin tại các SCH đã từng
+, tuy nhiên, về cơ bản
+vẫn chỉ theo chiều đọc từ cấp dưới lên cấp
+trên, chia sẻ thông tin ngang hàng giữa các
+Quân bình chủng và từ cấp trên xuống cấp
+
+ 
+
+ 
+
+ 
+
+dưới còn hạn chẻ.
+
+~ Nghiên cứu cấu trúc nguồn thông tin từ các
+hệ thống cần tích hợp (hệ thống giám sát,
+trình sát, tình báo, thời tiết, khí tượng, thủy
+văn, vũ khí trang bị...).
+
+- Đề xuất được phương án tích hợp, thể hiện
+thông tỉn phục vụ chỉ huy-tham mưu tác
+chiến theo nhiều chiều, nhiều cấp.
+
+~ Nghiên cứu làm chủ các công nghệ CMCN
+4.0 như xử lý dữ liệu lớn (Bigdata), trí tuệ
+
+ 
+
+ 
+
+ 
+
+¡nhân tạo và hệ hỗ trợ ra quyết định (AI |
+
+ 
+
+ 
+
+#
+nghiên cứu.
+
+Nghiên cứu, thiết kế chế tạo cano
+không người lái bảo vệ mục tiêu và tấn
+công từ xa phục vụ bảo vệ biển đảo
+
+- Nghiên cứu hệ thống điều khiển Cano
+không người lái;
+
+- Nghiên cứu, thiệt kê tích hợp Cano
+không người l
+
+~ Nghiên cứu, ứng dụng công nghệ AI cho
+cano không người lái (nhận dạng, phát hiện,
+tấn công mục tí
+
+- Đào tạo đội ngũ các bộ chuyên sâu trong
+các lĩnh vực liên quan đến định hướng
+nghiên cứu. ~ Nghiên cứu cầu trúc nguồn thông tin từ các
+hệ thống cần tích hợp (hệ thống giám sát,
+trinh sát, tình báo, thời tiết, khí tượng, thủy.
+văn, vũ khí trang bị...).
+
+- Đề xuất được phương án tích hợp, thể hiện
+thông tỉn phục vụ chỉ huy-tham mưu tác
+chiến theo nhiều chiều, nhiều cấp.
+
+~ Nghiên cứu làm chủ các công nghệ CMCN
+4.0 như xử lý dữ liệu lớn (Bigdata). trí tuệ
+nhân tạo và hệ hỗ trợ ra quyết định (AI, - Việc thể hiện thông tin tích hợp vẫn ở
+dạng thô, các phần mềm phục vụ thể hiện
+và khai thác thông tin chưa có các công cụ
+thông minh hỗ trợ người chỉ huy. Kho dữ
+liệu tích hợp chưa được tô chức quản lý
+theo kỹ thuật xử lý dữ liệu lớn (Bigdata)
+dẫn đến tràn dữ liệu và tra cứu tìm kiếm
+còn chậm. Khai thác dữ liệu còn mang
+tính thủ công, chưa có tính thông minh
+hóa, chưa có sự đối sánh thông tin giữa
+các nguồn, chưa ứng dụng trí tuệ nhân tạo
+(AD) vào hỗ trợ ra quyết định và dự báo.
+tình hình, chưa hỗ trợ khai phá dữ liệu để
+tìm kiếm tri thức nghệ thuật quân sự mới.
+
+ 
+
+ 
+
+DSS), khai phá dữ liệu (Data mining)... phục
+vụ cho việc thiết kế, xây dựng hệ thông một
+cách thông minh.
+
+- Nghiên cứu, thiết kế, xây dựng được hệ
+thống tích hợp thông tin thông minh phục vụ
+chỉ huy-tham mưu tác chiến các cấp. Hệ
+thống cho phép: Tích hợp thông tin ổn định
+và linh hoạt; quản lý và khai thác thông tin
+một cách thông minh nhằm hỗ trợ tôi đa
+người chỉ huy và cơ quan trong thực hiện
+nhiệm vụ; hỗ trợ người chỉ huy dự báo tình
+hình và ra quyết định; hỗ trợ khai phá dữ
+liệu để tìm kiếm tri thức nghệ thuật quân sự
+mới.
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu, thiết kế, xây
+dựng hệ thống quản lý
+điều hành dựa trên dữ
+liệu lớn phục vụ chính
+phủ điện tử trong quân
+đội
+
+ 
+
+- Trước những thách thức và cơ hội của
+cuộc CMCN 4.0 đem lại, Bộ Quốc phòng
+xác định cần phải quyết liệt thực hiện chủ
+trương phát triển Chính phủ điện tử trong
+toàn quân. Hàng loạt các hệ thống cần
+điện tử hóa, liên thông dữ liệu dần xây
+dựng thành các lớp cơ sở dữ liệu ngành
+liên thông với nhau trên các nghiệp vụ
+hành chính công.
+
+- Bộ quốc phòng đã có Quyết định số
+4481/QĐ-BQP ngày 18 tháng 10 năm
+2018 về việc ban hành kiến trúc khung,
+chính phủ điện tử Bộ Quốc phòng phiên
+
+ 
+
+- Nghiên cứu làm chủ các công nghệ, kỹ
+thuật trong thiết kế, xây dựng dữ liệu lớn
+(big data) ứng dụng trong thiết kế xây dựng,
+các lớp cơ sở dữ liệu của các ngành trong
+toàn quân.
+
+- Nghiên cứu làm chủ các công nghệ kỹ
+thuật về trí tuệ nhân tạo (A]) trong các bài
+toán nhận dạng, phân tích, ứng dụng trong
+khai phá nguồn dữ liệu lớn của các ngành.
+
+- Từ những kết quả nghiên cứu trên Xây
+dựng được các hệ thống quản lý, hệ thống
+dịch vụ công trong BQP, liên thông, trao đổi
+
+ 
+
+X»
+
+Pxág NV
+Nghiên cứu, thiết kế, xây
+dựng hệ thống quản lý
+điều hành dựa trên dữ
+liệu lớn phục vụ chính
+phủ điện tử trong quân
+đội - Trước những thách thức và cơ hội của
+cuộc CMCN 4.0 đem lại, Bộ Quốc phòng,
+xác định cần phải quyết liệt thực hiện chủ
+trương phát triển Chính phủ điện tử trong
+toàn quân. Hàng loạt các hệ thống, cân
+điện tử hóa, liên thông dữ liệu dần xây
+dựng thành các lớp cơ sở dữ liệu ngành
+liên thông với nhau trên các nghiệp vụ
+hành chính công.
+
+- Bộ quốc phòng đã có Quyết định số
+4481/QĐ-BQP ngày 18 tháng 10 năm
+2018 về việc ban hành kiến trúc khung,
+chính phủ điện tử Bộ Quốc phòng phiên - Việc thể hiện thông tin tích hợp vẫn ở
+dạng thô, các phân mêm phục vụ thê hiện
+và khai thác thông tin chưa có các công cụ
+thông minh hỗ trợ người chỉ huy. Kho dữ
+liệu tích hợp chưa được tổ chức quản lý
+theo kỹ thuật xử lý dữ liệu lớn (Bigdata)
+dẫn đến tràn dữ liệu và tra cứu tìm kiếm
+còn chậm. Khai thác dữ liệu còn mang
+tính thủ công, chưa có tính thông mình
+hóa, chưa có sự đối sánh thông tin giữa
+các nguồn, chưa ứng dụng trí tuệ nhân tạo
+(AI) vào hỗ trợ ra quyết định và dự báo
+tình hình, chưa hỗ trợ khai phá dữ liệt
+tìm kiếm tri thức nghê thuật quân sự mới. - Nghiên cứu làm chủ các công nghệ, kỹ
+thuật trong thiết kế, xây dựng dữ liệu lớn
+(big data) ứng dụng trong thiết kế xây dựng,
+các lớp cơ sở dữ liệu của các ngành trong
+toàn quân.
+
+- Nghiên cứu làm chủ các công nghệ kỹ
+thuật về trí tuệ nhân tạo (AI) trong các bài
+toán nhận dạng, phân tích, ứng dụng trong,
+khai phá nguồn dữ liệu lớn của các ngành.
+
+- Từ những kết quả nghiên cứu trên Xây
+dựng được các hệ thống quản lý, hệ thố
+dịch vụ công trong BQP, liên thông, trao đổi 
+DSS), khai phá dữ liệu (Data mining)... phục
+vụ cho việc thiết kế, xây dựng hệ thông một
+cách thông minh.
+
+- Nghiên cứu, thiết kế, xây dựng được hệ
+thống tích hợp thông tin thông minh phục vụ
+chỉ huy-tham mưu tác chiến các cấp. Hệ
+thống cho phép: Tích hợp thông tin ổn định
+và linh hoạt; quản lý và khai thác thông tin
+một cách thông minh nhằm hỗ trợ tôi đa
+người chỉ huy và cơ quan trong thực hiện
+nhiệm vụ; hỗ trợ người chỉ huy dự báo tình
+hình và ra quyết định; hỗ trợ khai phá dữ
+liệu để tìm kiếm tri thức nghệ thuật quân sự
+mi. bản 1.0.
+
+- Bộ quốc phòng đã có Quyết định thành
+lập Ban chỉ đạo về chính phủ điện tử Bộ
+
+Quốc phòng.
+
+Chia sẽ dữ liệu giữa các nghiệp vụ trong
+ngành và các ngành với nhau có ứng dụng.
+các kỹ thuật về dữ liệu lớn và trí tuệ nhân
+tạo thành một hệ thống chính phủ điện tử
+trong toàn quân.

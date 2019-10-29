@@ -1,0 +1,83 @@
+'VIỆN CÔNG NGHỆ THÔNG TIN CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+PHÒNG TOÁN ỨNG DỤNG
+
+ 
+
+Số: 102/TTr-TƯD. Hà Nội, ngày 07 tháng 03 năm 2019
+PHÊ DUYỆT
+Ngày 07 tháng 3 năm 2019
+'TỜ TRÌNH
+'Về việc tổ chức Hội thảo khoa học thuộc
+
+HP
+
+đề tài định hướng cán bộ trẻ “Nghiên cứu
+ứng dụng học tăng cường trong xây dựng
+mô hình học máy tự tìm kiếm đối tượng”
+
+  
+
+tá Đỗ Việt Bình
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ thuyết minh đề tài “Nghiên cứu ứng dụng học tăng cường trong
+xây dựng mô hình học máy tự tìm kiếm đối tượng”,
+
+Phòng Toán ứng dụng xây dựng kế hoạch hội thảo khoa học thuộc đề tài
+như sau:
+
+1. Mục tiêu
+
+Tổ thực hiện báo cáo về kết quả thực hiện đề tài “Nghiên cứu ứng dụng
+học tăng cường trong xây dựng mô hình học máy tự tìm kiếm đối tượng” để xin
+ý kiến đóng góp từ các thành viên trong buổi hội thảo, hoàn thiện các sản phẩm
+của để tài.
+
+2. Nội dung hội thảo
+
+Hội thảo về kết quả thực hiện đề tài “Nghiên cứu ứng dụng học tăng
+cường trong xây dựng mô hình học máy tự tìm kiếm đối tượng”:
+
+- Bộ tài liệu chuyên đề trình bày các nội dung nghiên cứu khoa học đã
+thực hiện.
+
+~ Module phần mềm học máy cho thiết bị tự hành mô phỏng trên nền tảng.
+Gazebo và ROS.
+
+- Bộ tài liệu kỹ thuật của module phần mềm, báo cáo tổng hợp, báo cáo
+tóm tắt.
+
+3. Địa điểm, thời gian
+
+~ Địa điểm: Phòng họp tầng 10, Viện Công nghệ thông tin.
+
+- Thời gian: 01 buổi, dự kiến từ ngày 08/03 đến 15/03/2019.
+
+4. Thành phần
+
+~ Thủ trưởng Viện Công nghệ thông tin.
+
+- Đại diện Ban Kế hoạch.- Hội đồng khoa học (tiểu ban phần mềm).
+
+~- Nhóm thực hiện đề tài (đồng chí chủ nhiệm để tài Lê Phú Cường -
+Trưởng nhóm).
+
+- Phòng Toán ứng dụng.
+
+- Kính mời các đại biểu quan tâm tham dự .
+
+5. Kinh phí
+
+- Trích từ kinh phí thực hiện của đề tài.
+
+Kính đề nghị Viện trưởng xem xét, phê duyệt kế hoạch để Phòng Toán
+ứng dụng hoàn thành nhiệm vụ được giao./.
+
+Nơi nhận: TRƯỞNG PHÒNG
+~ Như trên;
+
+~ Ban Tài chính, Ban Kế hoạch;
+~ Chủ nhiệm đề tài;
+~ Lưu: VT, TƯD; P07.
+
+“Thiếu tá Phạm Văn Lai

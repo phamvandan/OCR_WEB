@@ -1,0 +1,675 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 52⁄//TTr-VCNTT Hà Nội, ngày.12 tháng 11 năm 2018
+
+TỜ TRÌNH
+'Về việc phê duyệt kết quả lựa chọn nhà thầu gói thầu
+“Mua vật tư Công nghệ thông tin và điều khiển năm 2018”
+thuộc đề tài cấp Bộ Quốc phòng, Mã số KC.T-22
+
+Kính gửi: Giám đốc Viện Khoa học và Công nghệ quân sự
+
+Căn cứ Luật Đấu thầu số 43/2013/QH13 ngày 26/11/2013;Nghị định số
+63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ quy định chỉ tiết thi hành một số
+điều của Luật Đấu thầu về lựa chọn nhà thầu;
+
+Căn cứ Luật Đầu thầu số 43/2013/QH13 ngày 26/11/2013;Nghị định số
+63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ quy định chỉ tiết thi hành một số
+điều của Luật Đầu thầu về lựa chọn nhà thầu;
+
+Căn cứ Thông tư số 88/2017/TT-BQP ngày 17/4/2017 quy định một số nội
+dung về đấu thầu lựa chọn nhà thầu trong Bộ Quốc phòng; Công văn số
+528/VKHCNQS-TMKH ngày 27/4/2017 của Phòng TM-KH hướng dẫn thực
+hiện mua sắm trong Viện KH-CN quân sự;
+
+Căn cứ Quyết định số 1332/QĐ-VKHCNGQS ngày 21 tháng 9 năm 2018 của
+Giám đốc Viện KHCNQS về việc phê duyệt Kế hoạch lựa chọn nhà thầu cho gói
+thầu thuộc đề tài cấp BQP "Nghiên cứu, thiết kế, chế tạo thiết bị kiểm tra tình
+trạng kĩ thuật khối BMI của hệ thống điều khiển phóng tên lửa KACY 3P-
+60V2-1241.8”, mã số KC.T-22 của Viện Công nghệ thông tin;
+
+Căn cứ Quyết định số 425/QĐ-VCNTT ngày 09/10/2018 của Viện trưởng
+Viện Công nghệ thông tin Về việc phê duyệt Hồ sơ yêu cầu của gói thầu “Mua
+vật tư công nghệ thông tin và điều khiển năm 2018” của để tài cấp Bộ Quốc
+phòng, Mã số: KC.T-22;
+
+Căn cứ Báo cáo đánh giá Hồ sơ đề xuất (HSĐX) của gói thầu “Mua vật tư
+Công nghệ thông tin và điều khiển năm 2018” và thương thảo hợp đồng giữa
+Viện Công nghệ thông tin với Công ty Cổ phần phát triển đầu tư thương mại
+Hoàng gia,
+
+Theo quy định của pháp luật về Đầu thầu, Viện Công nghệ thông tin xin
+báo cáo kết quả lựa chọn nhà thầu của gói thầu “Mua vật tư Công nghệ thông tin
+và điều khiển năm 2018” như sau :1. Cơ sở pháp lý của việc lựa chọn nhà thầu :
+
+- Luật Đấu thầu số 43/2013/QH13 ngày 26/11/2013; Nghị định số
+63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ quy định chỉ tiết thi hành một số
+điều của Luật Đầu thầu về lựa chọn nhà thầu.
+
+- Thông tư số 11/2015/TT-BKHĐT ngày 27/10/2015 của Bộ Kế hoạch và
+Đầu tư quy định chỉ tiết lập lập hồ sơ yêu cầu đối với chỉ định thầu, chào hàng
+cạnh tranh.
+
+2. Nội dung của gói thầu: Mua vật tư Công nghệ thông tin và điều
+khiển năm 2018
+Danh mục hàng hóa Module bộ nhớ lưu trữ dữ liệu truyền của kênh MIL-
+
+STD-1553 , s
+
+-_ Lưu trữ dữ liệu số thu được của kênh truyền MIL-STD-
+1553
+
+~_ Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền MIL-
+STD-1553. Module chuyên mức điện áp các lệnh đơn
+
+Biến đôi điện áp lệnh đơn từ +27V sang chuẩn tín hiệu
+TTL.
+
+Phối hợp đảm bảo biến đổi được chuẩn điện áp tương
+thích giữa đầu vào và đầu ra.
+
+Không gây méo, sai lệch tín hiệu.
+
+ 
+
+Điện áp lệnh đâu vào biến đổi cho mức logie “1”: 12V
+đến 36V ` m
+
+Điện áp lệnh đầu vào biến đổi cho mức logie “0”: 0V.
+đến 1,2V
+
+Điện áp lệnh đầu ra tương ứng cho mức logie “1”:
+5V+5%,
+
+Điện áp lệnh đầu vào tương ứng cho mức logie “0”: 0
++08) -
+
+Điện áp nguôn nuôi: 5V + 10%.
+
+Dòng điện tiêu thụ không tải tối đa: <200mA Module xử lý và điêu khiên tín hiệu vào ra lệnh đơn
+
+~_ Xử lý luông tín hiệu vào ra các lệnh đơn.
+
+~_ Thời gian đáp ứng lệnh đơn đâu vào: T.res < chu kỳ
+xung nhịp
+
+Điện áp đầu vào yêu cầu được cách Ìy quang.
+
+Thời gian đáp ứng sườn lên khoảng 20 chu kỳ lệnh
+Thời gian đáp ứng sườn xuống khoảng: 14 chu kỳ lệnh.
+Số lệnh xử lý tối đa 8 lệnh đến đồng thời.
+
+-_ Số lệnh đơn tạo ra đẳng th ¡ đa: 8 lệnh. 
+Mô
+đun Đơn vị tš lượng NMoNOewg27
+Module xử lý truyền nhận chuân I'OCT-18977-79
+
+(ARINC-429)
+
+Xử lý, truyễn, nhận luồng dữ liệu theo chuẩn truyền dữ
+
+liệu TOCT-18977-79 (ARINC-429).
+
+-_ Thực hiện truyền nhận xử lý gói đữ liệu tương thích với
+chuẩn dữ liệu TOCT-18977-79 (ARINC-429).
+
+- Điểu khiển IC truyền nhận đữ liệu theo chuẩn hàng
+không ARINC-429.
+
+-_ Số kênh truyền: 2 kênh.
+
+-_ Số kênh nhận: 8 kênh
+
+ân mảnh, xắp xắp dữ liệu theo các trường: Địa chỉ,
+
+,„ di dấu, kiểm tra. Module xử lý truyền nhận chuẩn MIL-STD-1553
+-_ Xử lý, truyền, nhận luông dữ liệu theo chuẩn truyền dữ
+liệu MIL-STD- 1553.
+Biến đổi chuẩn tín hiệu truyền dữ liệu từ chuẩn MIL-
+STD-1553 sang dạng tín hiệu TTL.CMOS.
+Thực hiện biến đổi các chế độ làm việc:
+
++ Chế độ điều khiển,
+
++ Chế độ truyền lệnh không có dữ liệu,
+
++ Chế độ truyền lệnh có dữ liệu,
+
++ Chế độ nhận lệnh có đữ liệu
+
+Vùng dữ liệu tổ chức theo các trang, mỗi trang có
+
+dung lượng: 512KB.
+-_ Tổ chức truy cập bộ nhớ: BUS dữ liệu 16bit, địa chỉ
+32Bir
+Biên độ tín hiệu có điện áp: 27V + 30.
+-_ Nhịp chuẩn hệ thống: 20Mhz.
+Thực hiện truyền nhận xử lý gói dữ liệu tương thích với
+chuẩn dữ liệu MIL-STD- 1 553. Đơn vị
+tính đun 
+đun lượng 
+¬ Module bộ nhớ lưu trữ dữ liệu truyên của kênh ['OCT-
+18977-79 (ARINC-429)
+- Lưu trữ dự liệu số thu được của kênh truyền TOCT-
+18977-79.
+~_ Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền TOCT-
+18977-79.
+~_ Dung lượng 32KB
+~_ Bus dữ liệu hệ thống 16bit.
+-_ Bus địa chỉ 14bit
+-_ Tân số nhịp tối đa 20Mihz.
+-_ Đóng gói, mã hóa tin tín hiệu ARINC429 đến đồng thời:
+4 gói.
+-_ Độ dài một từ mã của gói tin: 32bit
+-_ Mã địa chỉ gói tín đến: 8bit.
+-_ Kiểm tra độ tin cây của gói tin đến.
+Bộ nhớ lưu trữ đữ liệu
+phôi hợp kênh truyền chuẩn truyền TOCT-18977-
+
+    
+
+(ARINC-429)
+
+- Phối hợp trở kháng kênh truyền nhận đữ liệu theo chuẩn
+TOCT-18977-79 (ARINC-429).
+
+- Phối hợp trở kháng kênh kênh truyền TOCT-18977-79
+(ARINC-429).
+
+~ Trở kháng đầu vào tại tần số nhịp tín hiệu 100Khz là:
+1009.
+
+- Không gây nhiễu, méo tín hiệu đường truyền đữ liệu.
+
+~ Tần số nhịp tối đa 20Mhz. Danh mục hàng hóa
+
+Tô chức câu trúc bộ đệm cho mỗi kênh truyền, nhận:
+
+256 Word.
+Tổ chức cấu trúc bộ đệm thanh ghi điểu khiển BUFF,
+Rl, RF, DI, RA, RKI RKO... đảm bảo đọc ghỉ phù hợp
+đâm bảo điều khiển
+
+Điều khiển dữ liệu tín hiệu truyên thông vi sai.
+
+Truyền, nhận dữ liệu theo các nhịp: 12.5Khz, 50Khz,
+100Kiz. -
+
+Địa chỉ card có thê điều chỉnh được trong quá trình
+hoạt động.
+
+Số lượng ngắt đầu vào: 4 đường.
+
+Tổ chức vùng nhớ RAM lưu dữ liệu tạm thời: 10x32KB Khung vỏ cơ khí tủ thiệt bị kiêm tra
+-Cao 1325mm
+-Rông 1334mm 
+tš Bộ tš lượng 3... Quy trình tô chức lựa chọn và đánh giá HSĐX của nhà thâu
+3.1. Quá trình tỗ chức lựa chọn nhà thầu :
+
+Trên cơ sở Kế hoạch lựa chọn nhà thầu đã được phê duyệt tại Quyết định
+số 1332/QĐ-VKHCNQS ngày 21 tháng 9 năm 2018 của Giám đốc Viện
+KHCNGS về việc phê duyệt Kế hoạch lựa chọn nhà thầu cho gói thầu thuộc đề
+tài cấp BQP "Nghiên cứu, thiết kế, chế tạo thiết bị kiểm tra tình trạng kĩ thuật
+khối BMI của hệ thống điều khiển phóng tên lửa KACY 3P-60V2-1241.8”. Tổ
+chuyên gia đấu thầu đã lập và trình duyệt HSYC và được Viện trưởng Viện
+CNTT phê duyệt tại quyết định số 398/QĐ-VCNTT ngày 27/9/2018.
+
+Thời gian phát hành HSYC từ ngày 16/10/2018 đến ngày 26/10/2018
+(trong giờ hành chính).
+
+Thời điểm đóng thầu: 08h30 ngày 26/10/2018
+
+Đến thời điểm đóng thầu có 03 nhà thầu đã nộp HSĐX;
+
+-_ Công ty Cổ phần IDEA GROUP
+
+-_ Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia
+
+-_ Công ty TNHH cơ khí chính xác ALPHA TECH Việt Nam
+3.2. Quá trình tỗ chức đánh giá HSĐX của các nhà thầu :
+
+Tại bước đánh giá sơ bộ HSĐX:
+
++ Công ty Cổ phần IDEA GROUP chưa có thông tin trên mạng đấu thầu
+quốc gia, không được đánh giá tiếp.
+
++ Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia, Công ty
+“TNHH cơ khí chính xác ALPHA TECH Việt Nam vượt qua bước đánh giá sơ bộ
+theo quy định của HSYC
+
+5
+
+(ÍS@' 4 X\v\A
+Giắc căm chuyên dụng
+
+- Loại giắc ọ 30 số chân: 32
+
+-Imax: 50A. Tần số: 1-5000Hz
+
+- Dòng điện 3A-12,5A; điện áp 700 V
+~ Nhiệt độ làm việc -60 đến 100 °C Đơn vị
+tính Bộ Bộ 
+Số Tại bước đánh giá kinh nghiệm và năng lực:
+
++ Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia, Công ty
+TTNHH cơ khí chính xác ALPHA TECH Việt Nam vượt qua bước đánh giá sơ bộ
+theo quy định của HSYC được đưa vào đánh giá kỹ thuật.
+
+~ Kết quả đánh giá về mặt kỹ thuật:
+
++ Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia, Công ty
+TNHH cơ khí chính xác ALPHA TECH Việt Nam, vượt qua bước đánh giá kỹ
+thuật theo quy định của HSYC được đưa vào đánh giá.
+
+- Kết quả đánh giá về tài chính:
+
+Giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ giá trị giảm giá (nếu có) có
+kết quả như sau:
+
+Đơn vì tính: đồng
+
+-_ Viện Công nghệ thông tin đã tiến hành thương thảo hợp đồng với nhà
+thầu Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia.
+
+- Giá dự thầu của nhà thầu Công ty Cổ phần phát triển đầu tư thương mại
+Hoàng gia không có sai lệch, lỗi số học. Do đó, giá đề nghị trúng thầu đã bao
+gồm tất cả các loại thuế của nhà thầu là: 7.372.300.000 đông (Một tỷ, ba trăm
+mười hai triệu, ba trăm nghìn đồng) nhỏ hơn giá gói thầu đã được phê duyệt là
+1.332.000.000 đồng (Một , ba trăm ba mươi hai triệu đồng) và là nhà thầu
+chào giá thấp nhất.
+
+4. Đề nghị về kết quả lựa chọn nhà thầu
+
+Nhà thầu Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia đã đáp
+ứng đầy đủ các điều kiện trúng thầu theo quy định của Luật Đấu thầu. Do đó,
+Viện Công nghệ thông tin đề nghị nhà thầu trúng thầu của gói thầu “Mua vật tư
+Công nghệ thông tin và điều khiển năm 2018” của dự toán đề tài KC.T-22 là:
+
++ Công ty Cổ phần phát triển đầu tư thương mại Hoàng gia.
+
++ Địa chỉ: P603 tòa nhà Kim ánh, ngõ 78 phố Duy Tân - Phường Dịch
+'Vọng Hậu - Quận Cầu Giấy - Hà Nội..
+
+ 
+
+6
+Công ty TNHH cơ khí chính xác ALPHA TECH Việt
+Nam phát triên đầu tư thương mại Hoàng gia 'TTên nhà thầu Xêp hạng nhà thâu theo giá dự thâu như sau : 
+Công ty TNHH cơ khí chính xác ALPHA TECH Việt
+Nam Công ty Cô phân phát triên đầu tư thương mại Hoàng
+gia Tên nhà thâu Xếp hạng 
+1.328.800.000. 1.312.300.000. lá dự thầu + Giấy Đăng ký kinh doanh: do Sở KH&ĐT thành phố Hà Nội cấp (Đăng
+ký lần đầu ngày 22 tháng 01 năm 2016), mã số doanh nghiệp: 0107307298.
+
+4.1. Giá đề nghị trúng thầu: 1.312.300.000. đồng (Một tỷ, ba trăm mười
+hai triệu, ba trăm nghìn đồng).
+
+4.2. Hình thức hợp đằng: Trọn gói
+
+4.3. Thời gian thực hiện: 30 ngày
+
+5. Kiến nghị
+
+5.1 VỀ việc phê duyệt kết quả lựa chọn nhà thầu :
+
+Kính đề nghị Viện KHCNQS sớm thẩm định và phê duyệt kết quả lựa chọn
+nhà thầu để Viện Công nghệ thông tin và nhóm thực hiện nhiệm vụ có cơ sở
+triển khai thực hiện gói thầu trên.
+
+5.2 VỀ tiết kiệm trong đấu thầu
+
+Đề nghị cho phép sử dụng số tiền tiết kiệm sau đấu thầu là 19.700.000
+đồng (Mười chín triệu, bảy trăm nghìn đông) theo đúng quy định.
+
+(Xin gửi kèm theo tài liệu liên quan đến quá trình tổ chức đấu thầu, Hồ sơ
+đề xuất của các Nhà thầu, báo cáo đánh giá Hồ sơ đề xuất của gói thầu và phụ
+lục danh sách hàng hóa mua sắm) /np_
+
+    
+
+Nơi nhận:
+~ Như trên;
+
+- Phòng TM-KH;
+
+~ CNĐT (1// Phạm Xuân Công),
+~ Lưu: VT, KH; H05.
+
+SIÊN TRƯỞNG
+
+Hà(Kèm theo tờ trình số: ð0#t/TTY-
+
+PHỤ LỤC
+
+Danh sách hàng hóa mua sắm
+
+VCNTT ngày 412. /11/2018 của Viện
+
+Công nghệ thông tin)
+
+ 
+
+Danh mục hàng hóa
+
+'Đặc tính kỹ thuật
+
+Đơnvj| Số
+tính
+
+lượng
+
+Xuất xứ, ký.
+mã hiệu, nhãn.
+mác sản phẩm.
+
+Đơn giá
+
+Thành tiền
+
+ 
+
+Module xử lý và
+điều khiển tín hiệu
+vào ra lệnh đơn.
+
+Xử lý luông tín hiệu vào ra các lệnh
+đơn.
+
+Thời gian đáp ứng lệnh đơn đầu
+vào: T.res < chu kỳ xung, nhịp
+
+Điện áp đầu vào yêu cầu được cách
+ly quang.
+
+Thời gian đáp ứng sườn lên khoảng, Mô
+20 chu kỳ lệnh đun
+
+Thời gian đáp ứng sườn xuống
+khoảng: 14 chu kỷ lệnh.
+
+Số lệnh xử lý tối đa 8 lệnh đến đồng
+thời.
+
+Số lệnh đơn tạo ra đồng thời tối đa:
+§ lệnh.
+
+ 
+
+Việt Nam
+
+40.300.000
+
+ 
+
+322.400.000
+
+ 
+
+ 
+
+Module chuyển
+mức điện áp các
+lệnh đơn
+
+ 
+
+ 
+
+Biến đối điện áp lệnh đơn từ +27V
+sang chuẩn tín hiệu TTL.
+Phối hợp đảm bảo biến đổi được
+
+ 
+
+tš
+
+ 
+
+Việt Nam
+
+ 
+
+22.400.000
+
+ 
+
+ 
+
+179.200.000\: ` @⁄#/
+Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh MIL-
+STD-1553 Danh mục hàng hóa Lưu trữ dữ liệu sô thu được của kêr
+truyền MIL-STD-1553
+
+Lưu trữ toàn bộ dữ liệu truyền nhận
+kênh truyền MIL-STD-1553.
+
+Tổng dung lượng bộ nhớ 128MB.
+Vùng nhớ cho bộ thu dữ liệu từ:
+0x00000000 đến 0x03FF FFFE chuân điện áp tương thích giữa đâu
+vào và đầu ra.
+-_ Không gây méo, sai lệch tín hiệu.
+Độ trễ tín hiệu cực đại: 100us.
+Điện áp lệnh đầu vào biến đổi cho
+mức logic “1”: 12V đến 36V
+Điện áp lệnh đầu vào biến đổi cho
+mức logic “0°: 0V đến 1,2V
+Điện áp lệnh đầu ra tương ứng cho
+mức logic “1”: 5V+5%,
+Điện áp lệnh đầu vào tương ứng cho
+mức logic “0°: 0 + 0,8 (V)
+-_ Điện áp nguồn nuôi: SV + 10%.
+-_ Dòng điện tiêu thụ không tải tối đa:
+<200mA. 
+Đặc tính kỹ thuật Mô Việt Nam Xuất xứ, ký
+mã hiệu, nhãn
+mác sản phẩm 
+16.100.000 Đơn giá 128.800.000 Thành tiền 
+"4 Danh mục hàng hóa Moddle xử lý
+truyền nhận chuẩn
+MIL-STD-1553 'Đặc tính kỹ thuật 
+- Xử lý, truyền, nhận luông dữ liệu
+theo chuẩn truyền dữ liệu MIL-
+STD-1553.
+
+Biến đổi chuẩn tín hiệu truyền dữ
+liệu từ chuẩn MIL-STD-1553 sang
+dạng tín hiệu TTL.CMOS.
+
+- Thực hiện biến đổi các chế độ làm
+
+việc:
+
++ Chế độ điều khiển,
+
++ Chế độ truyền lệnh không
+có dữ liệu,
+
++ Chế độ truyền lệnh có dữ
+liệu, 'Vùng nhớ cho bộ phát dữ liệu từ:
+0x0400 0000 đến 0x07FF FFFF
+Thời gian truy cập bộ nhớ: < 40ns
+Thời gian ghỉ bộ nhớ: < 80ns
+
+Bus dữ liệu 6 bit.
+
+Bus địa chỉ 13 bit
+
+Tần số nhịp tối đa 20Mhz.
+
+Điện áp nguồn nuôi: 5V + 10%.
+Dòng điện tiêu thụ: < 100mA. Đơn vị Việt Nam 
+Xuất xứ, ký
+mã hiệu, nhãn
+mác sản phẩm 14.300.000 Đơn giá 114.400.000 
+“Thành tiền No xe
+Module xử lý
+truyền nhận chuẩn
+TOCT-18977-79
+(ARINC-429) Danh mục hàng hóa Xử lý, truyền, nhận luông dữ liệu
+theo chuẩn truyền dữ liệu TOCT-
+18977-79 (ARINC-429).,
+
+Thực hiện truyền nhận xử lý gói dữ
+liệu tương thích với chuẩn dữ liệu
+TOCT-18977-79 (ARINC-429).
+Điều khiển IC truyền nhận dữ liệu
+theo chuẩn hàng không ARINC-
+429.
+
+Số kênh truyền: 2 kênh.
+
+_§ố kênh nhận: 8 kênh + Chê độ nhận lệnh có dữ liệu.
+-_ Vùng dữ liệu tổ chức theo các trang,
+mỗi trang có dung lượng: 512KB.
+-_ Tổ chức truy cập bộ nhớ: BUS dữ
+liệu 16bit, địa chỉ 32Bit
+- _ Biên độ tín hiệu có điện áp: 27V +
+30%.
+- _ Nhịp chuẩn hệ thống: 20Mhz.
+- Thực hiện truyền nhận xử lý gói dữ
+liệu tương thích với chuẩn dữ liệu
+MIL-STD-1553. 
+'Đặc tính kỹ thuật Mô
+đun Đơn vị Số 
+Việt Nam Xuất xứ, ký
+mũ hiệu, nhãn
+mác sản phẩm. 36.000.000 Thành tiền 
+144.000.000 12
+Danh mục hàng hóa Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh TOCT-
+18977-79 (ARINC- Đơn vị Mô
+đun 
+Số
+lượng Xuất xứ, ký
+mã hiệu, nhãn
+mác sản phẩm Việt Nam Đơn giá 
+27.000.000 108.000.000 Thành tiền NŒ7IN*)⁄
+Khung vỏ cơ khí tủ Module phối hợp
+kênh truyền chuẩn
+truyền TOCT-
+18977-79
+(ARINC-429) 429) 429) 
+Danh mục hàng hóa - Cao 1325mm Phôi hợp trở kháng kênh truyên
+nhận dữ liệu theo chuẩn TOCT-
+18977-79 (ARINC-429).
+
+Phối hợp trở kháng kênh kênh
+truyền TOCT-I8977-79 (ARINC-
+429).
+
+Trở kháng đầu vào tại tần số nhịp
+tín hiệu 100Khz là: 1009.
+
+Không gây nhiễu, méo tín hiệu
+đường truyền dữ liệu.
+
+Tần số nhịp tối đa 20Mhz. Dung lượng 32KB.
+'Bus dữ liệu hệ thống 16bit.
+
+Bus địa chỉ 14bit
+
+Tần số nhịp tối đa 20Mhz.
+
+Đóng gói, mã hóa tin tín hiệu
+ARINC429 đến đồng thời: 4 gói.
+Độ dài một từ mã của gói tin: 32bit
+Mã địa chỉ gói tín đến: 8bit.
+
+Kiểm tra độ tin cậy của gói tin đến.
+Bộ nhớ lưu trữ dữ liệu đến: 2MB. 
+Đặc tính kỹ thuật Mô
+đun Đơn vị
+tính Xuất xứ, ký
+mã hiệu, nhãn
+mác sản phẩm 
+Việt Nam Việt Nam Đơn giá 31.300.000 
+Thành tiền 36.000.000 125.200.000 Suỏn
+I3 uoq I
+
+uyu 'nật gửi
+%
+
+Ñ 'nx JựnX
+
+8uộa ï
+
+ 
+
+%01
+)„ 001 tp 09- 9ộ! ÓP 1ỆIN
+\ 00/ đẹ trộtp V E q
+1000S
+
+£ :upu2 0s 0£ở
+
+ 
+
+ 
+
+20€ X tui €0 09 49T -
+A009 'A006/00£ :tuịp quvp dợ uệ
+tạrgu 8uo2 'ãA oeq đẹt8 02) :160]
+s !ô[ 09 + £ S
+(9 '€ đp2) tọu IS nạrgu ưpox uậc
+on ọ)
+out 8u0i} tru
+
+n 8uọp :upp 1ộng -
+
+tọq 02 1911 I2
+
+ 
+
+ 
+
+oS
+
+quy
+yửng) ©j quy sẻ sọu 8uyu sñu u
+TT Ụ ẨM q Ị 5u Ũ
+00000 v8 uoq 00000£ 1 2onb 8u 
+vŸN, tuyqd ugs 30t
+tuyqu 'nật
+Ẩu 'nx 0I 0I 
+.m
+Suải
+% up Õe 001 tệp 09- 9$1A tt
+
+A 00/ đợ tộtp °ÿ€“Z[~V£ tộtp 8uọc[
+ZH000S-I :0S ỹL 'V0€ :Xett
+
+££ :ue2 0 0£0 9818 tö0T 0€ X tu c'0 Ø9 (9
+A009 tA006/00€ :quÏp qượp dự tội
+nại 8uods 'ặA opq đptổ 02) :Jö0]
+1Ø[09 + €1}
+
+(9 *c dpo) tru tỏs nạrqu treox tộq
+sönp #0 £ d2 uọn uộq :ny2 19
+on tị 8unh
+
+lộnạ
+
+ 
+
+no
+
+ 
+
+nầu 
+lửng) § quy sŒ O2] tệ 3A tre 99 121 T42
+tiộtp up uoS
+
+£OL đạt :nộI[ 1pq2)
+
+tu! 0001 nẸG
+
+uruipE£€[ 8uỏy[ đt
+uọẨng2 g2 21 '8uúp uạÁi
+tộN un ‹ 
+#ñ tan Iq
+
+sọu 8uyx sñu tu 

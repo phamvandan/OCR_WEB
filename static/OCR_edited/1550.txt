@@ -1,0 +1,130 @@
+VIÊN CÔNG NGHỆ THÔNG TIN _ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KỸ THUẬT HỆ THÓNG Độc lập - Tự do - Hạnh phúc.
+Số: A83 /TTr-KTHT Hà Nội, ngày 02 tháng I1 năm 2018
+PHÊ DUYỆT
+NgàyO€ thắng 11 năm 2018
+
+   
+
+TỜ TRÌNH
+Về việc tổ chức hội thảo xây dựng
+các bộ tài liệu cho các đề tài KC.T
+
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ cấp
+BQP thuộc Đề án KC.T “Nghiên cứu thiết kế và chế tạo khối chức năng
+THIIISVN, IBB34VN trong máy tính trên khoang BIIBM-20-701 của đạn tên
+lửa 3M243” (Mã số KC.T-27);
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ cấp \Ó
+BQP thuộc Đề án KC.T “Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra
+tên lửa Kh-35E dựa theo nguyên lý hoạt động của hệ thống ACK6.3” (Mã số
+KC.T-30);
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ cấp
+BQP thuộc Đề án KC.T “Hoàn thiện thiết kế và chế tạo thiết bị kiểm tra hệ thống
+điều khiển quán tính II-074 của đạn tên lửa Kh-35E” (Mã số KC.T-32),
+
+Triển khai thực hiện các đề tài, phòng Kỹ thuật hệ thống xin đề xuất kế hoạch
+tổ chức hội thảo lấy ý kiến đóng góp của các chuyên gia nhằm hoàn thiện các bộ tài
+liệu như sau:
+
+I. Mục tiêu
+
+"Tổ chức hội thảo nhằm hoàn thiện các bộ tài liệu sau:
+
+-Đề
+
+Ai
+VUA SE
+
+  
+
++ Tài liệu khai thác làm chủ hệ thống MTTK BLIBM-20-701.
+- Đề tài KC.T-30:
++. Bộ chỉ tiêu chiến-kỹ thuật của Thiết bị phân tích dữ liệu;
++. Bộ chỉ tiêu chiến-kỹ thuật của Thiết bị mô phỏng tên lửa Kh-35E.
+- ĐỀ tài KC.T-32: Bộ chỉ tiêu kỹ thuật của Thiết bị tạo giả LI-074 TG-S074.I. Nội dung
+
+1, Đề tài KC.T-27
+
+- Hội thảo: “Trao đổi thông tin trong hệ thống điều khiển quán tính LI074” và
+“Tài liệu khai thác làm chủ hệ thống MTTK BLIBM-20-701.
+
+~ Trình bày về bộ tham số, chỉ tiêu kỹ thuật dự kiến của card HTII9VN, card
+IIBB34VN, thiết bị kiểm tra.
+
+~ Trình bày về tài liệu khai thác làm chủ hệ thống MTTK BIIBM-20-701.
+
+- Lấy ý kiến đóng góp của các chuyên gia nhằm hoàn thiện các bộ chỉ tiêu kỹ
+thuật của card IIIIII9VN, card IIBB34VN, thiết bị kiểm tra.
+
+~ Lấy ý kiến đóng góp của các chuyên gia nhằm hoàn thiện bộ tài liệu khai
+thác làm chủ hệ thống MTTK BLIBM-20-701.
+
+2. Đề tài KC.T-30
+
+- Hội thảo: “Giải pháp xây dựng hệ thống ASK-V”.
+
+- Trình bày về bộ chỉ tiêu chiến-kỹ thuật dự kiến của Thiết bị phân tích dữ
+liệu, Thiết bị mô phỏng tên lửa Kh-35E.
+
+- Lấy ý kiến đóng góp của các chuyên gia nhằm hoàn thiện các bộ chỉ tiêu
+chiến-kỹ thuật của Thiết bị phân tích dữ liệu, Thiết bị mô phỏng tên lửa Kh-35E.
+
+3. Đề tài KC.T-32
+
+- Hội thảo: “Xây dựng Bộ chỉ tiêu kỹ thuật Thiết bị tạo giả H-074 TG-S074”.
+
+- Trình bày về bộ chỉ tiêu kỹ thuật dự kiến của Thiết bị tạo giả L-074 TG-
+
+ 
+
+S074. #
+- Lấy ý kiến đóng góp của các chuyên gia nhằm hoàn thiện bộ chỉ tiêu kỹ thuật
+
+của Thiết bị TG-§074. à
+1I. Thành phần: là
+- Chủ trì hội thảo: Thủ trưởng Viện CNTT. xem
+
+- Thư ký hội thảo: Đại úy Đỗ Xuân Ngọc, Phòng KTHT/Viện CNTT.
+- Tiểu ban phần cứng/Hội đồng khoa học Viện Công nghệ thông tin.
+- Trình bày báo cáo: Đại diện các nhóm thực hiện đề tài.
+- Kính mời đại diện các cơ quan, đơn vị:
+
+o_ Thượng tá Lê Đức Hạnh Phòng TMKH/Viện KH-CNQS.
+
+liện Phòng Khoa học quân sự/BTL Hải quân.
+Phòng Quân khí/Cục Kỹ thuật/BTL Hải quân.
+Đại diện Trung tâm đo lường 1/Quân chủng Hải quân.
+Đại diện Viện Kỹ thuật Hải quân/Quân chủng Hải quân.
+Trung tá Nguyễn Sỹ Long — Phó phòng nghiên cứu Viện Tên lửa.
+Đại tá Trần Minh Nghĩa — Trưởng phòng nghiên cứu Viện Ra đa.
+©__ Trung tá Hà Huy Dũng — Trưởng phòng nghiên cứu Viện Ra đa.
+- Kính mời các đồng chí cán bộ của Viện CNTT quan tâm tham dự đóng góp
+
+ý kiến cho để tài.
+
+  
+
+oooooo
+
+`"II. Thời gian, địa điểm
+- Thời gian: Dự kiến từ ngày 19 đến ngày 30 tháng 11 năm 2018, trong đó: đề
+tài KC.T-27: 01 buổi, đề tài KC.T-30 và KC.T-32: 01 buổi.
+- Địa điểm: Phòng họp tằng 10 nhà S1A, Viện Công nghệ thông tin.
+1V. Kinh phí thực hiện: Trích từ kinh phí của các đề tài.
+Kính đề nghị Viện trưởng xem xét phê duyệt để tổ chức thực hiện,
+
+Mới nhận:
+
+Thước TRƯỞNG PHÒNG
+~ Ban Kế hoạch, Ban Tài chính;
+
+~ Các CNĐT (03);
+
+~ Lưu: VT, KTHT; N08.
+
+Đại tí Phạm Hồng Long

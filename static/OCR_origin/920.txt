@@ -1,0 +1,1123 @@
+VIÊN CÔNG NGHỆ THÔNG TIN  CỌNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KỸ THUẬT HỆ THÓNG 'Độc lập - Tự do - Hạnh phúc
+Số: 45 # /TTr-KTHT Hà Nội, ngàyÁ3tháng 4Ônăm 2017
+PHÊ DUYỆT
+
+NgàyA}tháng AÔ năm 2017
+—VIỆN TRƯỞNG lí — TỜ TRÌNH
+
+'Về việc phê duyệt kế hoạch thực hiện đề tài
+“Nghiên cứu thiết kế, chế tạo máy KUI63C-VN
+dựa theo nguyên mẫu máy KY1631I và tích hợp
+
+thành hệ Thông tự động điều khiển phóng tên
+lửa Kh-35E theo mẫu KACY 3P-60V3-1241.8°
+
+   
+ 
+
+ng tá Đỗ Việt Bình
+Kính gửi: Viện trưởng Viện Công nghệ thông tin.
+
+Căn cứ Thuyết minh đã được phê duyệt của đề tài khoa học và công nghệ
+cắp BQP thuộc Để án KC.T: “Nghiên cứu thiết kế, chế tạo máy KU163C-VN
+dựa theo nguyên mẫu máy KY1631I và tích hợp thành hệ thống tự
+điều khiển phóng tên lửa Kh-35E theo mẫu KACY 3P-60Y2-1241.8” (Mã số
+KC.T-28);
+
+'TThực hiện chỉ đạo của Thủ trưởng Viện,
+
+Phòng Kỹ thuật hệ thống và Tổ đề tài đề xuất kế hoạch triển khai thực
+hiện như sau:
+
+1, Tên đề tài: Nghiên cứu thiết kế, chế tạo máy KU163C-VN dựa theo
+nguyện mẫu máy KY1631I và tích hợp thành hệ thống tự động điều
+khiến phóng tên lửa Kh-35E theo mẫu KACY 3P-60Y3-1241.8 (Mã
+số KC.T-28)
+
+2. Chủ nhiệm đề tài: Đại tá, ThS. Phạm Hồng Long,
+
+3. Thời gian thực hiện để tài: 36 tháng, từ 8/2017 đến 7/2020
+
+4. Kế hoạch thực hiện đề tài:
+Nghiên cứu thiết kế hệ thông máy
+KUI63C-VN và các khối chức năng.
+Hoàn thiện thiết kế hệ thống ĐKT Hoàn thành 04 tài liệu chuyên đề Hoàn thiện nghiên cứu khôi LỤI, khỏi
+BM-OC, vi kết nối IIK4, khối nguồn
+BHM 512-01 Nội dung 1: Nghiên cứu thiết kế chế
+tạo máy KUI63C-VN của hệ thống
+'ĐKT 1241.8-VN (Nhánh 1) 
+'Các nội dung, công việc chủ yêu cần
+thực hiện. 10/2017-
+12/2017 9/2017-
+12/2017 Thời gian 
+Đỗ Xuân Ngọc
+Dương Mạnh Cường. 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+TH Dư nn Cán bộ thực hiện Tải liệu thiết kế
+hệ thông 
+Tài liệu chuyên
+đề Sản phẩm 
+21 1,6 14 - 
+Hoàn thành 58 module phần mềm
+(kèm mã nguồn chương trình và bộ
+mẫu để phục vụ thử nghiệm) Nghiên cứu, dịch làm chủ, xây
+các phần của máy điều
+trung tâm KUI63C-VN' vn dung 2: Nghiên cứu, dịch
+„ làm chủ, la ảmm \g các phần
+
+mầm cũa máy điều khiễn trung tâm
+
+KU163C-VN (Nhánh 2) Hoàn thành chê tạo ỦÌÏ tủ máy
+KUI63C-VN 
+Tông lắp, kiểm tra, hiệu chỉnh, hoàn
+thiện máy KU163C-VN Hoàn thành 01 bộ tài liệu thiết kế kỹ
+thuật (Bản vẽ sản phẩm, Điều kiện kỹ
+thuật. Hướng dẫn sò dưng) Thiết kế chế tạo tủ máy KUI63C-VN Hoàn thành 01 tài liệu chuyên đề; chế
+tạo 01 khối nguồn BIIM 512-01 
+Thiết kế, chế tạo khối nguồn BIIM
+12-01 Hoàn thành 01 tài liệu chuyên để; chế
+tạo 01 vị kết nổi IIK4 Thiết kế chế tạo vi kết nối IIK4 Nghiên cứu thiệt kê, chê tạo khôi BM-
+Œ 
+Hoàn thành 0ï tài liệu chuyên đề: 0ï
+module phần mềm; chế tạo 01 module
+J]-JITIL Nghiên cứu thiết kế, chế tạo module
+JEJTI Nghiên cứu thiết kế, chế tạo khối LỊT Hoàn thành 02 tài liệu thiết kế hệ
+thống 
+13/9/2018 9/2017-
+6/2019 15/6/2018 /2018-
+6/2018 
+15/6/2018 3/20186-
+6/2018 13/6/2018 Š/2018-
+6/2018 
+15/3/2018 02/2018-
+4/2018 02/2018-
+4/2018 13/3/2018 
+02/2018- -
+3/2018 12/2017-
+3/2018 13/12/2017 Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Vũ Hoàng Anh
+Dương Mạnh Cường Đồ Xuân Ngọc
+Dương Mạnh Cường 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Mạnh Cường | 
+'Vũ Hoàng Anh
+Đỗ Xuân Ngọc 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Mạnh Cường 'Vũ Hoàng Anh
+Dương Mạnh Cường Module phân.
+mềm (kèm mã.
+nguồn chương,
+trình). si
+trên hệ thống
+ĐKT 1241.8-
+VN 
+Tủ máy
+KUI6C-VN 'Bộ tài liệu thiết
+kế kỹ thuật ~ Vị kết nối IIK4 Khối BM-OC 
+~ Tài liệu.
+~ Module phần
+mềm
+
+~ Module JI-JIT1 
+43 42 41 IV 
+5 3.2 31 22 
+TY XÁC HHẾN DÍỀH \NĂN PỆ, nghiỆm,
+máy KUI63C-VN với hệ thẳng ĐKT
+1241.8-VN tại phòng thí nghiệm của Hoàn thành chế tạo 01 máy KUI63C-
+ỰN Nội dung 3: Nghiên cứu thiết kể chế
+tạo thiết bị tạo giả thông tin đầu vào
+hệ thống (Nhánh 3) Nội dung 3: Nghiên cứu thiết kế chế
+tạo thiết bị tạo giả thông tin đầu vào
+hệ thống (Nhánh 3) 
+Hoàn thành 01 tài liệu chuyên đề Phân tích, xây dựng các thuật toán
+điều khiển. Nghiên cứu thuật toán giải
+bài toán bắn được áp dụng trên hệ
+thống KACY 3P-60Y2-1241.8 Hoàn thành 09 module phân mêm
+(ièm mã nguồn chương trình và bộ
+mẫu để phục vụ thử nghiệm) Lắp ráp, thử nghiệm 01 máy KU163C-
+VN 
+Hoàn thành chê tạo 0l máy KB163P-
+VN Chế tạo 01 máy KB163P-VN Hoàn thành chê tạo 01 thiệt bị già đạn
+tên lửa IR-60VN Chế tạo 01 thiết bị giả đạn tên lửa IR-
+60VN 
+Nội dung 4: Lắp ráp, thử nghiệm,
+hiệu chỉnh hệ thông (Nhánh 4) Hoàn thành chê tạo 0] thiêt bị tạo giả
+thông tin đầu vào hệ thẳng “Thiết kế, chế tạo thiết bị. Kiểm tra thử.
+nghiệm, đánh giá các chỉ tiêu kỹ thuật
+của thiết bị Hoàn thành 01 tài liệu chuyên đê; xây
+dựng 07 module phần mềm 
+Nghiên cứu xây dựng thuật toán các
+phân mềm và thiết kế các card giao
+diện tạo giả thông tin đầu vào hệ thống. Nghiên cứu giao thức, định dạng của
+dữ liệu truyền từ thiết bị tạo giả thông,
+tin đến hệ thống ĐKT 1241.8-VN 13/9/2019 15/6/2019 
+4/2019-
+4/2020 13/9/2018 7/2018-
+10/2018 7/2018-
+10/2018 
+8/2018-
+§/2019 15/6/2019 7/2018-
+11/2018 13/9/2018 
+7/2018-
+10/2018 13/9/2018 7/2018-
+10/2018 13/9/2018 
+Phạm Hông Long
+'Vũ Hoàng Anh
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Dương Mạnh Cường "Vũ Hoàng Anh
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Dương Mạnh Cường "Vũ Hoàng Anh
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường 'Vũ Hoàng Anh
+Đào Văn Hưng 
+Vũ Hoàng Anh
+Đào Văn Hưng Vũ Hoàng Anh
+Đào Văn Hưng Phạm Hông Long
+Phạm Xuân Công
+Nguyễn Chí Đức
+ĐỂ Tuân: Ngọc ~ Thiết bị
+
+~ Biên bản thử
+nghiệm
+
+- Bộ chỉ tiêu kỹ:
+thuật 
+Thiết bị Thiết bị ~ Tài liệu
+chuyên để
+
+~ Module phần
+mềm Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề (Chỉ tiết trong phụ lục kèm theo)
+Kính đề nghị Viện trưởng xem xét và phê duyệt.
+
+ 
+
+Nơi nhận: CHỦ NHIỆM ĐÈ TÀI KT.TRƯỞNG PHÒNG
+~ Như trên; PHÓ TRƯỞNG PHÒNG
+- Ban Kế hoạch;
+
+~CNĐ
+
+- Lưu: VT, KTHT; N05, Z⁄ Ahự—
+
+Đại tá Phạm Hồng Long Thiếu tá Nguyễn Minh Thường
+vu ¬ vn Thử nghiệm tại đơn vị 
+Thử nghiệm tại Viện CNTT Nội dung 8: Kế hoạch thử nghiệm Hoàn thành tát cả các báo cáo kêt quả
+nghiên cứu đề tài, phục vụ nghiệm thu
+ác cẩu Nội dung 7: Báo cáo tổng hợp kết
+quả nghiên cứu đề tài 
+Hoàn thành xây dựng 06 bộ tài liệu
+thiết kế đóng dấu “A"” Hoàn thành xây dựng 03 bộ tài liệu
+thiết kế đóng dẫu “7T” Nụ dung 6: Hoàn thiện tài liệu thiết
+k Hoàn thành 01 bộ chỉ tiêu kỹ thuật cho
+hệ thống ĐKT 1241.8-VN 
+Lây xác nhận biên bản thử nghiệm hệ
+thống ĐKT 1241.8-VN tại phòng thí
+nghiệm của Viện CNTT. Hoàn thành chê tạo 0l hệ thông ĐKT
+1241.8-VN Nội dung 5: Tổng lắp, kiểm tra, thữ
+nghiệm hệ thống ĐKT 1241.8-VN lây xác nhận biên bản thử nghiệm
+máy KUI63C-VN với hệ thắng KACV
+.3P-60V2-1241.8 trên tàu tại đơn vị 
+Hoàn thành 01 bộ chỉ tiêu kỹ thuật cho.
+máy KUI63C-VN 01/2020-
+4/2020 13/9/2018-
+12/2019 /2018-
+4/2020 
+13/5/2020 4/2019-
+6/2020 13/5/2020 13/5/2020 
+4/2019-
+6/2020 15/12/2019 13/12/2019 13/12/2019 
+4/2019-
+12/2019 4/2019-
+12/2019 15/4/2020 13/9/2019 
+Phạm Hồng Long
+Đỗ Xuân Ngọc Phạm Hông Long
+Đỗ Xuân Ngọc
+Pham Xuân Công Phạm Hông Long.
+'Vũ Hoàng Anh
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Dương Mạnh Cường Tài liệu báo cáo. 
+Bộ tài liệu thiết
+kế kỹ thuật - Hệ thông
+
+- Biên bản thử
+nghiệm
+
+- Bộ chỉ tiêu kỹ
+thuật PHỤ LỤC
+(Kèm theo Tờ trình sốAk$/TTr-KTHT ngày 4 /40/2017)
+
+I. KÉ HOẠCH THỰC HIỆN CÁC NỘI DUNG NGHIÊN CỨU
+L6 181 15 143 
+142 141 14 14A 
+13 122 121 12 
+114 112 “Thiết kế chế tạo vỉ kết nối IIK4 Nghiên cứu, khảo sát hệ thông phân mềm trên
+thẻ nhớ, thiết kế bản vẽ cơ khí và chế tạo khối
+BM-OC 
+Nghiên cứu thiết kế, chế tạo khối BM-OC Thiết kế, chế tạo module JI-JIT1 Thiết kế phần mềm xử lý tín hiệu và thu dữ
+liệu đầu vào của module JE-JIF] Khảo sát module JI-JHI'l, Nghiên cứu các giao.
+thức giao tiếp giữa module JI-JIFI với CPU và
+vi máy thi đường: 
+Nghiên cứu thiết kế, chế tạo module JI-JIF1 Nghiên cứu, khảo sát hệ thông phân mềm trên
+thẻ nhớ, thiết kế bản vẽ cơ khí và chế tạo khối
+II Nghiên cứu thiết kế, chế tạo khối LỊT 'Hoàn thiện thiết kế hệ thống ĐKT 1241.8-VN 
+Nghiên cứu thiết kế hệ thông máy KUI63C-
+'VN và các khối chức năng. Nghiên cứu thiết kế hệ thông máy KUI63C-
+'VN và các khối chức năng. Hoàn thiện thiết kế
+hệ thống ĐKT 1241.8-VN Hoàn thiện khảo sát, phân tích nguyên lý hoạt
+động của khối nguồn BITM 512-01 Hoàn thiện khảo sát, phân tích nguyên lý hoạt
+động của vi IIK4 
+Hoàn thiện khảo sát, phân tích nguyên lý hoạt
+động của khối BM-OC và các module chức
+năng Hoàn thiện khảo sát, phân tích nguyên lý hoạt
+động của khối LỰI và các module chức năng. Hoàn thiện nghiên cứu khỏi LỰI, khỏi BM-OC,
+vi kết nếi IIK4, khối nguồn BIIM 512-01 Nội dung 1: Nghiên cứu thiết kê chế tạo máy
+KUI63C-VN của hệ thống ĐKT 1241.8-VN
+(Nhánh 1) 
+Các nội dung, công việc chủ yếu.
+cần thực hiện 02/2018-
+4/2018 15/3/2018 02/2018-
+4/2018 
+15/3/2018 15/3/2018 15/3/2018 02/2018-
+3/2018 
+15/3/2018 12/2017-
+3/2018 15/12/2017 15/12/2017 
+10/2017-
+12/2017 15/12/2017 15/12/2017 15/12/2017 
+15/12/2017 9/2017-
+12/2017 'Thơi gian 'Vũ Hoàng Anh
+Dương Mạnh Cường. 
+"Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường Cán bộ thực hiện 
+Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Mạnh Cường Vũ Hoàng Anh
+Đỗ Xuân Ngọc
+Dương Mạnh Cường. 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường 'Vũ Hoàng Anh
+Dương Mạnh Cường 
+Đồ Xuân Ngọc
+Dương Mạnh Cường Đỗ Xuân Ngọc
+Dương Mạnh Cường. Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Manh Cường Module JI-
+JII 
+Module phản
+mềm “Tài liệu thiết
+kế hệ thống. Tải liệu
+chuyên để
+
+ 
+
+Tải liệu Tài liệu
+chuyên đề 
+Tài liệu -
+chuyên để Khối LỤI Tài liệu thiết
+kế hệ thống 
+2.6 215 214 213 
+212 211 LÃI ụ 
+19 181 18 172 
+171 12 162 L6 
+Phân tíh, dịch ngược, viết lại phần mềm
+dp_ obrl Phân tích, dịch ngược, viết lại phẩn mềm
+dp mem3 Phân tích, dịch ngược, viết lại phần mềm
+dp_mem2 Nghiên cứu, xây dựng sơ đô chức năng hệ
+thẳng điện của thiết bị KUI63C-VN, sơ đề
+nguyên lý điện của [TK4 
+Phân tích, dịch ngược, viết lại phần mềm
+dp_kan201 Phân tích, dịch ngược, viết lại phần mềm
+dp_kan]01 Phân tích, dịch ngược, viết lại phần mểm
+đứp_centr Nghiên cứu, dịch ngược, làm chủ, xây dựng
+các phần mềm của máy điều khiển trung tâm
+KUI63C-VN 
+Nội dung 2: Nghiên cứu, dịch ngược, làm
+chủ, xây dựng các phần mềm của máy điều
+khiển trung tâm KU163C-VN (Nhánh 2) Lắp ráp các khôi chức năng, kiểm tra các khôi
+thành phẳn, hiệu chỉnh và hoàn thiện. "Tông lắp, kiêm tra, hiệu chỉnh, hoàn thiện máy
+KUI63C-VN Hoàn thiện tài liệu thiết kê kỹ thuật tủ máy
+KUI63C-VN (Bản vẽ sản phẩm, Điều kiện kỹ
+thuật, Hướng dẫn sử dụng) 
+“Thiết kế chế tạo tủ máy KU163C-VN Thiết kế bản vẽ cơ khí và chế tạo vỏ khối
+nguồn Thiết kế sơ đổ khối chức năng, sơ đổ nguyên.
+lý, sơ đồ mạch in Thiết kế, chế tạo khối nguồn BIIM $12-01 
+Thiết kế, chế tạo bảng đầu jack, chuyên mạch;
+“Thiết kế bản vẽ cơ khí và chế tạo vỏ hộp IIK4. 15/9/2018 15/3/2018 15/3/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 9/2017-
+6/2019 15/6/2018 5/2018-
+6/2018 
+15/6/2018 /2018-
+6/2018 15/6/2018 15/6/2018 
+15/6/2018 3/2018-
+6/2018 15/6/2018 Phạm Hông Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hồng Long
+Phạm Xuân Công.
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hông Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hông Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Đào Văn Hưng. 
+Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Vũ Hoàng Anh
+Dương Mạnh Cường Đỗ Xuân Ngọc
+Dương Mạnh Cường 'Vũ Hoàng Anh.
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường 
+Vũ Hoàng Anh
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường. 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc 'Vũ Hoàng Anh
+Đỗ Xuân Ngọc. Module phân
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module ph:
+mềm (kèm mã
+nguồn chương
+trình) Module phân.
+mềm (kèm mã
+nguồn chương.
+
+ 
+
+ 
+
+Module ph
+mềm (kèm mã
+nguồn chương
+ình)
+
+Module phần
+mềm (kèm mã
+nguồn chương,
+trình) Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) Tủ máy
+KUI63C-VN 
+'Bộ tài liệu
+thiết kế kỹ:
+thuật BIIM 5I2-01 Vị kết nồi
+K4 Tải liệu
+chuyên để =-...ưi
+2.119 2.118 2117 2116 
+2.115 2114 2113 2.112 
+211 2110 219 218 
+217 Phân tích, dịch ngược, viết lại phần mềm
+obmen_rlk Phân tích, dịch ngược, viết lại phần mểm
+obmen_kr Phân tích, dịch ngược, viết lại phẩn mềm
+dp_zagr 
+Phân tích, dịch ngược, viết lại phần mềm
+dp_obr3 Phân tích, dịch ngược, viết lại phẩn mểm
+dp_obr2 Phân tích, dịch ngược, viết lại phần mềm
+obmen_31 Phân tích, dịch ngược, viết lại phần mềm
+obmen_21 
+Phân tích, dịch ngược, viết lại phần mềm
+obmen_I3 Phân tích, dịch ngược, viết lại phần mềm
+obmen_!2 Phân tích, dịch ngược, viết lại phân mềm Nus Phân tích, dịch ngược, viết lại phần mềm
+nk,_ladoga 
+Phân tích, dịch ngược, viết lại phẩn mềm lap, Phân tích, dịch ngược, viết lại phần mềm ek 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. 
+Phạm Hông Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đảo Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hông Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hông Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Phạm Hồng Long,
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+âu Vi Hưng. Phạm Hồng Long,
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hỗng Long.
+Phạm Xuân Công.
+Đỗ Xuân Ngọc
+Đáp Vi@ HỨNG. Phạm Hông Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. 
+Module phản.
+mềm (kèm mà.
+nguồn chương
+trình) Module phản
+mềm (kèm mà
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) _
+
+ 
+
+Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phi
+mềm (kèm mã
+nguồn chương
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phí
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) _WE\VC # XI
+2142 2141 2.130 2129 
+2.128 2.121 2.126 2.125 
+2.124 2123 2122 2121 
+2.120 Phân tích, dịch ngược, viết lại phần mềm
+mov. irq Phân tích, dịch ngược, viết lại phần mềm llgtex Phân tích, dịch ngược, viết lại phần mềm
+write_re 
+Phân tích, dịch ngược, viết lại phần mềm Rs Phân tích, dịch ngược, viết lại phần mềm Rlk Phân tích, dịch ngược, viết lại phần mềm pz_e Phân tích, dịch ngược, viết lại phần mềm
+PrintMsg 
+Phân tích, dịch ngược, viết lại phần mềm pp_p Phân tích, dịch ngược, viết lại phần mềm pp_c Phân tích, dịch ngược, viết lại phần mềm Line Phân tích, dịch ngược, viết lại phần mềm Inps 
+Phân tích, dịch ngược, viết lại phần mềm Inp. Phân tích, dịch ngược, viết lại phần mềm Zm 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hôỗng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đảo Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công.
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hông Long,
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đảo Văn Hưng. Phạm Hồng Long,
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. 
+Phạm Hông Long.
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Đảo Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Module
+mềm (kèm mã
+nguồn chương.
+trình) Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+
+nguồn chương.
+trình) Module phản.
+mềm (kèm mã
+
+chương,
+trình). 
+Module phần.
+mềm (kèm mã
+nguồn chương.
+trình) Module phân.
+mềm (kèm mã
+nguồn chương.
+trình). Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân.
+mềm (kèm mã
+nguồn chương,
+trình) 
+2145 2144 2143 2142 
+2141 2.140 2149 2.148 
+2.137 2.146 21435 2144 
+21433 Phân tích, dịch ngược, viết lại phần mềm tsz Phân tích, dịch ngược, viết lại phẩn mềm
+Tsoop Nghiên cứu phân tích thiết kế, viết phần mềm
+te video 
+Nghiên cứu phân tích thiết kế, viết phần mềm
+ts print Phân tích, dịch ngược, viết lại phần mềm
+fomit Phân tích, dịch ngược, viết lại phần mềm czr Phân tích, dịch ngược, viết lại phần mềm.
+tÌ obmen 
+Phân tích, dịch ngược, viết lại phần mềm vkl Phân tích, dịch ngược, viết lại phần mềm tsu Phân tích, dịch ngược, viết lại phần mềm rs_wr Phân tích, dịch ngược, viết lại phần mềm
+rs_read 
+Phân tích, dịch ngược, viết lại phần mềm
+
+xead_oop Phân tích, dịch ngược, viết lại phần mềm Outp. 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 Phạm Hông Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. 
+Phạm Hồng Long.
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đảo Văn Hưng Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đảo Văn Hưng. 
+Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đảo Văn Hưng 
+Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đán Văn Hàng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. Phạm Hồng Long.
+Phạm Xuân Công,
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Module phân.
+mềm (kèm mã
+nguồn chương.
+ình)
+Module phần
+mềm (kèm mã
+nguồn chương.
+trìh) — _
+Module phí
+mềm (kèm mã
+nguồn chương.
+trình) Module phân.
+mềm (kèm mã
+nguồn chương
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phí
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương
+trình) Module phân
+mềm (kèm mã
+nguồn chương
+trình). 
+Module phân
+mềm (kèm mã
+nguồn chương.
+trình) l
+Module phí
+mềm (kèm mã
+nguồn chương
+trình) e2 +
+2.158 2.157 2.156 2.155 
+2.1.5 2153 2.152 2151 
+2.150 2149 2148 2.147 
+2.146 Nghiên cứu phân tích thiết kế, viết phẩn mềm.
+te ist Nghiên cứu phân tích thiết kế, viết phần mẻm
+3 Nghiên cứu phân tích thiết kể, viết phần mềm
+ø 
+Nghiên cứu phân tích thiết kế, viết phần mẻm
+ts_cther Nghiên cứu phân tích thiết kế, viết phần mềm
+test_et Nghiên cứu phân tích thiết kế, viết phần mềm
+t5 nmp Nghiên cứu phân tích thiết kế, viết phần mềm.
+ts net 
+Nghiên cứu phân tích thiết kế, viết phần mềm.
+tp Nghiên cứu phân tích thiết kế, viết phần mềm.
+te ll8 rs Nghiên cứu phân tích thiết kế, viết phần mềm
+4s llg_readm Nghiên cứu phân tích thiết kế, viết phần mềm.
+tị txs 
+Nghiên cứu phân tích thiết kế, viết phần mềm.
+ts Dm, Nghiên cứu phân tích thiết kế, viết phần mềm.
+ti 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 Phạm Hỗng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hỗng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+ăn Văy lừng Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đảo Văn Hưng. Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. 
+Phạm Hồng Long
+Phạm Xuân Công.
+Đỗ Xuân Ngọc
+Đo Văe Hưng Phạm Hồng Long
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Đầu Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công.
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hông Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Điều Văn Hưng Phạm Hồng Long
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) Modulc phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phí
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phân.
+mềm (kèm mã
+nguồn chương
+trình) —
+Module phản
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mà
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phản
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phản.
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) Module phân
+mềm (kèm mã
+nguồn chương.
+trình) 'Module phân.
+mềm (kèm mã
+nguồn chương
+trình) z2
+34 m 22.1 22 
+2.167 2.166 2.165 2.16 
+2.163 2.162 2161 2.160 
+2159 Nghiên cứu giao thức, định dạng của dữ liệu
+truyền từ hệ thống hàng hải quản tính Jlanora - Nghiên cứu giao thức, định dạng của dữ liệu
+truyền từ máy tính đường JIFT-] đến hệ thống
+ĐKT 1241.8-VN Nghiên cứu giao thức, định dạng của dữ liệu
+truyền từ thiết bị tạo giả thông tin đến hệ thống.
+ĐKT 1241.8-VN 
+Nội dung 3: Nghiên cứu thiết kế chế tạo
+thiết bị tạo giả thông tin đầu vào hệ thống
+(Nhánh 3) Nghiên cứu thuật toán tính góc lượn của tên
+lửa; Nghiên cứu thuật toán tính xác suất phát
+hiện mục tiêu của đầu tự dẫn; Nghiên cứu.
+thuật toán phân phối tên lửa theo xác suất tiêu.
+điệt mục cho trước Phân tích, xây dựng các thuật toán điều khiến.
+Nghiên cứu thuật toán giải bài toán bắn được
+ip dụng trên hệ thống KACY 3P-60V23-]241.8 Nghiên cứu phân tích thiết kế. viết phần mềm.
+ts key 
+Nghiên cứu phân tích thiết kế, viết phần mêm.
+dok Nghiên cứu phân tích thiết kế, viết phần mềm
+teph Nghiên cứu phân tích thiết kế, viết phần mềm
+pls Nghiên cứu phân tích thiết kế, viết phần mềm
+uran_ek 
+Nghiên cứu phân tích thiết kế, viết phần mềm.
+phí em Nghiên cứu phân tích thiết kế, viết phần mềm.
+movcur Phân tích, dịch ngược, viết lại phần mềm Balr. Phân tích, dịch ngược, viết lại phẳn mềm Bai 
+15/6/2019 15/6/2019 15/6/2019 15/6/2019. 
+15/6/2019. 15/9/2018 15/9/2018 7/2018-
+10/2018 
+15/6/2019 8/2018-
+$/2019 15/6/2019 15/6/2019 
+15/6/2019 15/6/2019 Phạm Hồng Long.
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng 
+Vũ Hoàng Anh
+Đào Văn Hưng 'Vũ Hoàng Anh
+Đào Văn Hưng Phạm Hồng Long
+Phạm Xuân Công,
+'Nguyễn Chí Đức
+Đỗ Xuân Ngọc Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Đào Văn Hưng. 
+Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. Phạm Hông Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng. Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Đào Văn Hưng 
+Phạm Hồng Long.
+Phạm Xuân Công.
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Phạm Hồng Long.
+Phạm Xuân Công.
+Đỗ Xuân Ngọc.
+Đào Văn Hưng Module phản
+mềm (kèm mã
+nguồn chương.
+trình). Module phân.
+mềm (kèm mã
+nguồn chương.
+trình) ——
+Module phần
+mềm (kèm mã
+nguồn chương.
+trình) 
+Module phân
+mềm (kèm mã
+nguồn chương.
+trình) ——
+Module phần
+mềm (kèm mã
+nguồn chương.
+trình) -
+
+Module phần.
+mềm (kèm mã
+nguồn chương.
+
+ 
+
+mềm (kèm mã
+nguồn chương
+
+cưình) _
+Module phản
+mềm (kèm mã
+nguồn chương.
+trình) Tải liệu
+chuyên Tài liệu
+chuyên đề ˆ//®*⁄298888.SSS 52,
+432 43.1 43 421 
+42 41 3341 33 
+328 327 326 325 
+324 3⁄24 3⁄22 321 
+32 314 Nội dung 4: Lắp ráp, thử nghiệm, hiệu
+chỉnh hệ thống (Nhánh 4) “Thiết kẻ, lăp ráp thiết bị, Kiêm tra, thử nghiệm,
+hiệu chỉnh các phần mềm; Đánh giá chỉ tiêu kỹ:
+thuật của thiết bị 
+“Thiết kế, chế tạo thiết bị, Kiêm tra thử nghiệm,
+đánh giá các chỉ tiêu kỹ thuật của thiết bị Xây dựng phần mềm giao tiếp với card chuyên
+dụng phát tin hiệu vận tốc của tàu LUG-T Xây đựng pân mềm giao tiếp với Card RS-MP-
+C của thiết bị tạo giả thông tin đầu vào. Xây dựng phân mềm giao tiếp với Card TXI-
+'MP-DB của thiết bị tạo giả thông tin đầu vào. 
+Xây dựng phần mềm điều khiển trung tâm thiết
+bị tạo giả thông tìn đầu vào. Xây dựng phần mêm giả lập ra-đa chỉ thị mục.
+tiêu Xây dựng phân mêm giả lập hệ thông hàng hải
+suấn Thể: Xây dựng phần mềm giả lập máy tính đường, 
+Nghiên cứu, phân tích, thiết kể các thuật toán
+tạo giả tín hiệu máy tính đường, tạo giả tín
+hiệu hệ thống hàng hải quán tính, tạo giả tín
+chỉ thị mục tiêu Nghiên cứu xây dựng thuật toán các phần mềm.
+và thiết kế các card giao diện tạo giả thông tin
+đầu vào hệ thống Nghiên cứu giao thức, định dạng của đữ liệu
+truyền từ hệ thống chỉ thị mục tiêu ra-đã 3I1-
+253 đến hệ thống ĐKT 1241.8-VN Lây xác nhận biên bản thử nghiệm máy
+KỦÙI63C-VN với hệ thống ĐKT 1241.8-VN
+tai phòng thí nghiêm của Viên CNTT 
+Kiểm tra, thử nghiệm máy KUI63C-VN độc
+lập bằng bộ phần mềm gốc; Kiểm tra, thử
+nghiệm máy KU163C-VN độc lập bằng bộ
+phần mềm dịch ngược của để tài, Hoàn thiện.
+cảo nhân mẫm Lắp ráp, thử nghiệm 01 máy KUI63C-VN Lắp ráp, hiệu chỉnh, hoàn thiện 01 khối BMI;
+Lắp ráp, kiểm tra, hiệu chỉnh và thử nghiệm
+máy KBI63P-VN Chế tạo 01 máy KBI63P-VN 
+Chẻ tạo đầu ni, cáp giữa thiết bị giả đạn IR-
+60VN với hệ thống ĐKT 1241.8-VN; Lắp ráp,
+kiểm tra, hiệu chỉnh thiết bị IR-60VN với hệ
+thống ĐKT I241.8-VN Chế tạo 01 thiết bị giả đạn tên lửa IR-60VN' 15/9/2018 15/9/2018 
+15/9/2018 15/9/2018 15/9/2018 15/9/2018 
+15/9/2018 7/2018-
+10/2018 15/9/2018 1/2019-
+4/2020 
+15/9/2018 7/2018-
+11/2018 15/9/2018 7/2018-
+10/2018 
+15/9/2018 7/2018-
+10/2018 15/9/2018 15/9/2019 
+15/6/2019 Vũ Hoàng Anh
+Đào Văn Hưng. 'Vũ Hoàng Anh
+Đào Văn Hưng. 'Vũ Hoàng Anh
+Đào Văn Hưng 
+Vũ Hoàng Anh
+Đào Văn Hưng 'Vũ Hoàng Anh
+Đào Văn Hưng, 'Vũ Hoàng Anh
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+ương Mạnh Cướng 'Vũ Hoàng Anh
+Đào Văn Hưng 
+'Vũ Hoàng Anh
+Đào Văn Hưng Vũ Hoàng Anh
+Đào Văn Hưng Vũ Hoảng Anh
+Đào Văn Hưng Vũ Hoàng Anh
+Đào Văn Hưng 
+Tổ đề tải Phạm Hồng Long.
+'Vũ Hoàng Anh
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường. 'Vũ Hoàng Anh
+Phạm Xuân Công
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường Module phân.
+m
+
+mễi 
+Module phân.
+mềm —
+Mai phẩn
+
+mềm Module phân.
+mềm Module phân.
+mềm Moduie phân
+
+mềm. cản
+Module phẩn.
+mềm 
+Tải liệu
+chuyên đề Thiết bị Thiết bị Thiết bị 
+Biên bản thử
+
+nghiệm Thiết bị Z9 SỰ
+626 62.5 624 623 
+622 62.1 6.143 6.12 
+611 s4 52 s1 
+434 433 Nội dung 5: Tổng lắp, kiểm tra, thử nghiệm
+hệ thống ĐKT 1241.8-VN Lây xác nhận biển bản thử nghiệm máy
+KUI63C-VN với hệ thống KACY 3P-60V3-
+1241.8 trên tàu tại đơn vị 
+Hoàn thiện bộ chỉ tiêu kỹ thuật cho máy
+KUI63C-VN Hoàn thiện Bộ tài liệu thiết kế Thiết bị giả đạn
+tên lửa IR-60VN. Hoàn thiện Bộ tài liệu thiết kế khối MBII-28,5-
+35 Hoàn thiện Bộ tài liệu thiết kế khối LỊC 
+Hoàn thiện Bộ tải liệu thiết kế khối BA. Hoàn thiện Bộ tài liệu thiết kế khối BMI Hoàn thiện Bộ tài liệu thiết kế máy KB163P-
+VN Hoàn 
+Xây dựng Bộ tài liệu thiết kế Thiết bị tạo giả
+thông tin đầu vào. Xây dựng Bộ tài liệu thiết kế Máy KU163C-
+VN Xây dựng Bộ tài liệu thiết kế Hệ thống ĐKT
+1241.8-VN Nội dung 6: Hoàn thiện tài liệu thiết kế 
+Hoàn thiện bộ chỉ tiêu kỹ thuật cho hệ thống.
+ĐKT 1241.8-VN Lây xác nhận biên bản thử nghiệm hệ thông
+ĐKT 1241.8-VN tại phòng thí nghiệm của
+Viện CNTT Tổng lấp, kiểm tra, thử nghiệm ghép nói máy
+tư VN với máy KBI63P-VN, thiết bị
+thông tin đầu vào hệ thống, thiết bị giả.
+vn IR-60VN; Kiểm tra, thử nghiệm hệ thông,
+'ĐKT 1241.8-VN trong phòng thí nghiệm, đánh
+siá các chỉ tiêu kỹ thuật 15/5/2020 
+15/5/2020 15/5/2020 15/5/2020 15/5/2020 
+15/5/2020 15/5/2020 15/5/2020 15/5/2020 
+4/2019
+6/2020 15/12/2019 15/12/2019 15/12/2019 
+4/2019-
+122019 15/4/2020 15/9/2019 Phạm Hồng Long,
+Đỗ Xuân Ngọc
+Phạm Xuân Công 
+Phạm Hồng Long.
+Đỗ Xuân Ngọc.
+Phạm Xuân Công Phạm Hồng Long.
+Đễ Xuân Ngọc.
+Phạm Xuân Công Phạm Hông Long.
+Đỗ Xuân Ngọc.
+Phạm Xuân Công Phạm Hồng Long
+Đỗ Xuân Ngọc
+Pham Xuân Công 
+Phạm Hồng Long.
+Đỗ Xuân Ngọc.
+Pham Xuân Công Phạm Hồng Long.
+Đỗ Xuân Ngọc
+Pham Xuân Công Phạm Hồng Long.
+Đỗ Xuân Ngọc
+Phạm Xuân Công Phạm Hồng Long
+Đỗ Xuân Ngọc
+Phạm Xuân Công 
+Phạm Hồng Long.
+'Vũ Hoàng Anh
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Dương Mạnh Cường. 'Tổ để tài Phạm Hồng Long
+Vũ Hoàng Ảnh
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường Phạm Hồng Long
+Vũ Hoàng Ảnh
+Phạm Xuân Công,
+Đỗ Xuân Ngọc.
+Dương Mạnh Cường 
+Tổ để tài Phạm Hồng Long
+Phạm Xuân Công
+Đỗ Xuân Ngọc
+Dương Minh Cường 'Bộ tài liệu
+thiết kế kỹ:
+thuật thiết kế kỹ:
+thuật 
+'Bộ tài liệu
+thiết kế kỳ.
+thuật Bộ tài liệu.
+thiết kế kỹ
+thuật Bộ tải liệu
+thiết kế kỹ.
+thuật Biên bản thử
+nghiệm 
+Hệ thống, Biển bản thứ
+nghiệm Bộ chỉ tiêu kỳ
+thuật 
+IL] 71 vu Hội thảo báo cáo kết quả thực hiện đề tài
+(1 buổi) 
+Hội thảo xây dụng bộ thanh SỐ, cÀÍ tiêu
+kỹ thuật (1 buổi) Nội dung ©É HOẠCH TỎ CHỨC HỘI THẢO Việt báo cáo tông hợp để tài, các báo cáo
+chuyên để, hoàn tất các hồ sơ pháp lý để phục.
+vụ nghiệm thu các cấp 
+Nội dung 7: Báo cáo tổng hợp kết quả
+nghiên cứu để tài 3/2020-
+4/2020 8/2019 15/5/2020 
+4/2019-
+6/2020 Phạm Hồng Long.
+Đỗ Xuân Ngọc Phạm Hồng Long
+Đỗ Xuân Ngọc Phạm Hồng Long.
+Đỗ Xuân Ngọc 
+Kế hoạch tổ chức
+Biên bản hội tháo Kê hoạch tô chức
+Biên bản hồi thảo Sản phẩm ~ Tài liệu báo.
+cáo,
++ Hỗ sơ đề tài 

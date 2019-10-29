@@ -1,0 +1,1086 @@
+VIÊN CÔNG NGHỆ THÔNG TIN CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+PHÒNG KỸ THUẬT HỆ THÓNG 'Độc lập - Tự do - Hạnh phúc
+Số: đ2 /TTr-KTHT Hà Nội, ngàyA6 tháng 3 năm 2018
+PHÊ DUYỆT
+
+Ngày 46tháng 3 năm 2018
+
+'TỜ TRÌNH
+Về việc phê duyệt kế hoạch thực hiện đề tài
+“4 phiên cứu thiết kế chế tạo hệ thống tự động
+kiểm tra tên lửa Kh-35E dựa theo nguyên lý
+hoạt động của hệ thống ACK6.3”
+1.2 Hệ thông ASK6.3. Hệ thống AKPA6.3 Nội dung 1: X®ai thác làm chủ kỹ
+thuật các hệ thống ẫn mẫu và
+làm chủ chủ trình kiểm tre đạn tên
+lửa Kh-35E theo bộ thông số kỹ thuật
+kiểm tra 
+Các nội dung, công việc chủ yêu cần
+thực hiện Thời gian 02/2018- 12/2017-
+03/2018 
+Cán bộ thực hiện Dương Phú Tuân Dương Phú Tuân
+Nguyễn Tuấn Anh
+'Đào Văn Hưng
+Nguyễn Minh Thường,
+Nguyễn Chí Đức
+CTV Sản phẩm. 
+Tài liệu
+chuyên đề 
+32 31 26 25 
+24 23 22 21 
+13 Nội dung 2: Nghiên cứu thiết kể chế
+tạo thiết bị phân tích đữ liệu “Chu trình kiểm tra đạn tên lửa. Hoàn thành ! tài liệu chuyên đề 
+Xây dựng sơ đồ khối chức năng Thiết kê khung vỏ cơ khí gá lắp thiết
+bị Lập trình chương trình điều khiển. Lập trình phần mềm trên PC 
+Xây dựng sơ đồ nguyên lý và chế tạo.
+các khối chức năng. XXây dựng sơ đồ khối chức năng Xây dựng sơ đồ nguyên lý các khối
+chức năng. Nội dung 3: Nghiên cứu thiết kế chế
+tạo thiết bị mô phỏng tên lửa Kh-
+35E, 
+“Thử nghiệm tại đơn vị 12/2017-
+06/2018 06/2018 6/2018-
+12/2018 
+6/2018-
+12/2018 6/2018-
+9/2018 6/2018 6/2018-
+12/2018 
+13/06/2018 8/2018-
+12/2018 13/12/2018 8/2018 
+8/2018-
+2/2019 11/2018-
+12/2018 12/2018 Đào Văn Hưng
+Nguyễn Minh Thường 
+Dương Phú Tuân
+VCNTT Cơ sở2 Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh Nguy, Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh
+'Vũ Hoàng Anh
+CTV 
+Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh Nai: Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+VCNTT Cơ sở2 Tài liệu chuyên đề 
+Tài liệu
+chuyên đề Tài liệu
+chuyên đề Tài liệu
+chuyên đề - Tài liệu
+chuyên để 
+Tài liệu
+chuyên để Biên bản +
+Thiết bị 
+45 44 43 42 
+41 3.5 34 k 
+Hoàn thành 1 tài liệu chuyên đề lết
+th
+rấp
+
+vỏ cơ khí lắp
+
+iết kế khung.
+
+Thi
+
+bị Hoàn thành I tài liệu chuyên đề Hoàn thành l tài liệu chuyên để 
+Lập trình chương trình giao diện Lập trình chương trình điều khiển. Hoàn thành Ì tài liệu chuyên đề Xây dựng sơ đồ nguyên lý các khối
+chức năng 
+Xây dựng sơ đồ khối chức năng Nội dung 4: Nghiên cứu thiết kế chế
+tạo hệ tin ASK-V thành l thiết bị Thử nghiệm sản phẩm 
+Thiết kế khung vỏ cơ khí lắp ráp thiết
+bị Lập trình chương trình điều khiển 13/03/2020 7/2018-
+3/2020 
+6/2018-
+6/2020 4/2019-
+6/2020 3/2019-
+12/2019 02/2019 
+2/2019-
+10/2020 03/2019 8/2018-
+3/2019 8/2018-
+3/2019 
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh Đào Văn Hưng
+Nguyễn Tuấn Anh
+CTV Phú Tuân
+Nguyễn Thái Hòa
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+Phạm Xuân Công
+CTV Minh Thường
+Nguyễn Tuần Anh 
+Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh
+Nguyễn Trong Thể. Dương Phú Tuân
+
+Mạnh Cường,
+Nguyễn Tuần Anh
+'Vũ Hoàng Anh 'Nguyễn Thái Hòa
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh ~ Tài liệu.
+v) 
+~ Tài liệu.
+đề ~ Tài liệu
+chuyên để Biên bản +
+Thiết bị ~ Tài liệu
+chuyên đề 
+-NNH (Chỉ tiết trong phụ lục kèm theo)
+Kính đề nghị Viện trưởng xem xét và phê duyệt.
+
+Nơi nhận: CHỦ NHIỆM ĐÈ TÀI TRƯỞNG PHÒNG
+Bạn KếU
+
+- Ban Kế hoạch;
+- CNĐT,
+- Lm: VT, KTHT; T05. ⁄
+
+Đại úy Dương Phú Tuấn Đại tá Phạm Hồng Long
+47 46 Hoàn thành 3 bộ tài liệu thiết kế kế đóng dấu “J° 
+NỘI dụng 6 Hoàn thiện tài liệu thiết Hoàn thành ¡ thiết bị “Thử nghiệm tại đơn vị và
+Thử nghiệm tại phòng thí nghiệm
+hiệu chính 
+Hoàn thành tất cả các bảo cáo kết quả.
+nghiên cứu đề tài, phục vụ nghiệm thu.
+các cắp Nội dung 7: Báo cáo hợp kết
+quả nghiên cứu đề tài cưng 4/2019-
+10/2020 10/2020 
+4/2020-
+6/2020 12/2020 10/2020-
+12/2020 'Nguyễn Thái Hòa
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+Đào Văn Hưng.
+Phạm Xuân Công, 
+Vũ Hoàng Anh
+Nguyễn Tuần Anh
+CTV Phú Tuân
+Nị Tuấn Anh
+Dương Mạnh Cường
+Đỗ Xuân Ngọc Phú Tuân
+Nguyễn Minh Thường.
+'Vũ Hoàng Anh
+Nguyễn Thái Hòa
+Nguyễn Tuấn Anh.
+Đào Văn Hưng
+
+Dương Mạnh Cường
+Căn Cứ 696/Vùng 2 Biên bản +
+Thiết bị 
+Tài liệu báo š
+lâg Biên bản +
+Thiết bị PHỤ LỤC
+(Kềm theo Tờ trình số 3.) /TTY-KTHT ngày /6 /3 /2018)
+
+1. KẾ HOẠCH THỰC HIỆN CÁC NỌI DUNG NGHIÊN CỨU
+
+Các nội dung, công việc
+chủ yếu cẦn được thực hiện; Thời gan| Cán bộ thực hiện Sản phẩm
+l các mốc đánh giá chủ yếu
+
+rÌn
+
+ 
+
+ 
+
+lội dung nghiên cứu 1 122017. [_
+Ấiai thác làm chủ Kỹ thuật các hệ|6/2018
+thỐng nguyễn mẫu và làm chủ chụ
+lrình kiểm tra đạn tên lửu Kh-35E theo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|bộ thông số kỹ thuật kiểm tra
+11 |Hệ hỗng 4KP463
+h |Khảo sát, thu thập tài liệu hệ thống. 12/2017 | — ĐươngPhú Tuấn Tài liệu chuyên
+Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+1.12 |Khai thác phân tích làm chủ hệ chương| 12/2017. Dương PhúTuấn  ÍTàilệuchuyên|
+lrình điều khiển trong chế độ K7§T 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+| NgwễnChÐœ |
+1.13 [Khai thác phân tích làm chù hệ chương| 12/2017- Dương PhúTuẩn —ÏTàiliệuchuyên
+|rình điều khiển trong chế độ K78 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức
+J-14 |Khai thác phân tích làm chủ hệ chương| 12/2017-| — Dương Phú Tuấn "Tài liệu chuyên
+lình điều khiển trong chế độ kiểm tra| 3/2018 Nguyễn Minh Thường. đề
+Jđộc lập đầu tự dẫn Nguyễn Tuấn Anh.
+Nguyễn Chí Đức
+1.15 [Xây dựng bộ sơ đồ các luỗng trao đổi| 122017. Dương Phú Tuần Tài liệu chuyên
+|thông tin theo hệ thống giác kết nối với| 3/2018 Nguyễn Minh Thường đề
+liên lửa trong chế độ K78T. Nguyễn Tuấn Anh
+CTV
+T16 Tay dựng bộ sơ đỗ các luỗng trao đổi| 12/2017- Dương Phú Tuấn ÍTàiliện chuyên
+thông tỉn theo hệ thống giác kết nổi với| 3/2018 | Nguyễn Minh Thường để
+tên lửa trong chế độ K78 Nguyễn Tuấn Anh
+CTV
+1.17 |Xây dựng bộ sơ đồ các luồng trao đổi| 122017 [ Dương Phú Tuấn — ÍTàiliện chuyên
+thông tin theo hệ thống giắc kết nối với| 3/2018 Nguyễn Minh Thường đề
+liên lửa trong chế độ kiểm tra độc lập Nguyễn Tuấn Anh
+Jđầu tự dẫn CTV
+
+ 
+
+118 [Xây dựng bộ sơ đồ các hồng no đãi T22017--} Dương Phú Tuấn —ÏTailiệnchuyên
+thông tỉn theo bộ 168 thông số kỹ thuật| 3/2018 |_ Nguyễn Minh Thường để
+|kiểm tra đạn tên lửa Nguyễn Tuấn Anh
+
+CTV
+12_|H§ hỗng 4SKö.3. }—
+chủy
+
+các
+1 |Nộidungr
+[Khai thác
+
+thống ngu
+lrình kiểm.
+
+|bộ shông số
+11 |Hệ thống Ai
+111
+
+|Khảo sát, th
+
+1.12 |Khai thác p
+ltrình điều kt
+
+1.13 [Khai thác pi
+trình điều kh
+
+ 
+
+ 
+
+ 
+
+12 lRạn
+
+1.14 |Khai thác pì
+lrình điều ki
+độc lập đầu t
+
+115 |Xây dựng b
+thông tin the
+liên lửa trong
+
+E= ——-
+
+1.16 [Xây dựng bộ
+thông tin the
+tên lửa trong
+
+1.17 |Xây dựng bộ
+
+thông tin theo
+lên lửa trong
+
+=....n
+
+1.18 |Xây dựng bộ
+thông tin theo
+|kiểm tra đạn tí
+
+'A©K( 117 1.16 115 
+1.14 1.13 112 111 
++1 g việc
+
+Fe hiện; Thời gan| Cán bộ thực hiện Sản phẩm
+lũ yí
+
+ 
+
+122017. [_
+huật các hệ|6/2018
+m chủ chu'
+Ki-35E theo
+n
+
+ 
+
+ 
+
+` thống, 12/2017 | — ĐươngPhú Tuấn Tài liệu chuyên
+đề
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+¡ hệ chương| 12/2017- |  DươngPhúTuấn  |Tàliệuchuyên
+'K7§T 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức.
+' hệ chương| 12/2017- | — Dương PhúTuấn- Inniusapm
+K78 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức
+'hệ chương| 12/2017- Dương PhúTuẩn ÏTàiệuchuyên
+lộ kiểm tra| 3/2018 Nguyễn Minh Thường. đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức
+ng trao đỗi| 12/2017- Dương Phú Tuấn ÍTàiliệu chuyên)
+kết nối với| 3/2018 Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+CTV
+\g trao đổi| 12/2017- Dương Phú Tuấn ÍTàiliện chuyên
+kết nối với| 3/2018 | Nguyễn Minh Thường để
+Nguyễn Tuấn Anh
+CTV
+ø trao đổi| T2/2017- Dương Phú Tuấn — ÍTàiliện chuyên
+cết nối với| 3/2018 Nguyễn Minh Thường đề
+a độc lập) Nguyễn Tuấn Anh
+| CTV
+ø trao đổi| 12/2017- Dương Phú Tuấn — ÏTàiliệnchuyên
+ð kỹ thuật| 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+CTV
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+———___S__.. 7ñ ực hiện; Thời gan| Cán bộ thực hiện Sản phẩm
+
+ 
+
+122017. [_
+huật các hệ|6/2018
+
+ 
+
+ 
+
+` thống, 12/2017 | — ĐươngPhú Tuấn Tài liệu chuyên
+đề
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+¡ hệ chương| 12/2017- |  DươngPhúTuấn  |Tàliệuchuyên
+'K7§T 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức.
+' hệ chương| 12/2017- | — Dương PhúTuấn- Inniusapm
+K78 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức
+'hệ chương| 12/2017- Dương PhúTuẩn ÏTàiệuchuyên
+lộ kiểm tra| 3/2018 Nguyễn Minh Thường. đề
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức
+ng trao đỗi| 12/2017- Dương Phú Tuấn ÍTàiliệu chuyên)
+kết nối với| 3/2018 Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+CTV
+\g trao đổi| 12/2017- Dương Phú Tuấn ÍTàiliện chuyên
+kết nối với| 3/2018 | Nguyễn Minh Thường để
+Nguyễn Tuấn Anh
+CTV
+ø trao đổi| T2/2017- Dương Phú Tuấn — ÍTàiliện chuyên
+cết nối với| 3/2018 Nguyễn Minh Thường đề
+a độc lập) Nguyễn Tuấn Anh
+| CTV
+ø trao đổi| 12/2017- Dương Phú Tuấn — ÏTàiliệnchuyên
+ð kỹ thuật| 3/2018 | Nguyễn Minh Thường đề
+Nguyễn Tuấn Anh
+CTV
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+———___S__.. 7ñ 12/2017-
+3/2018 
+12/2017-
+3/2018 _12/2017-
+3/2018 12/2017.
+3/2018 12/2017-
+3/2018 
+12/2017.
+3/2018 12/2017-
+3/2018 12/2017.
+6/2018 Thời gian 
+*‡ 'Tài liệu chuyên
+) Tài liệu chuyên
+đề 'Tài liệu chuyên 
+|Tải liệu chuyên
+đề 'Tài liệu chuyên
+đề Tài liệu chuyên
+
+® 
+1.2/15 1.2/14 12.13 1/212 
+1211 1.210 12.9 1.2.8 
+1.27 12.5 123 122 
+121 Khảo sát chương trình giao diện điêu
+khiển với trắc thủ trong hệ thống
+ASK6.3 ở chế độ tự kiểm tra Khảo sát, phân tích các giao diện kết nỗi
+giữa các phân hệ trong hệ thống ASK6.3
+và giữa ASK6.3 với đạn tên lửa trong
+các chế độ kiểm tra K78 Khảo sát, phân tích các giao diện kết nôi
+giữa các phân hệ trong hệ thống ASK6.3
+và giữa ASK6.3 với đạn tên lửa trong
+các chế độ kiểm tra K78T 
+Khảo sát, phân tích giao diện kết nỏi
+giữa các mô đun trong tủ 3047E-1 Khảo sát, phân tích giao diện kết nỏi
+giữa các mô đun trong tủ 3I1159E-1 Khảo sát, phân tích giao diện kết nỏi
+giữa các mô đun trong tủ 3I1161E. Khảo sát, thu thập tài liệu hệ thông
+ASK6.3. 
+Khảo sát dạng phiêu in kết quả của hệ
+thống ASK6.3 trong chế độ K78T Khảo sát chương trình giao diện điêu
+khiển với trắc thủ trong hệ thống
+ASK6.3 ở chế độ tìm kiếm và xử lý
+hỏng hóc Khảo sát chương trình giao diện điểu
+khiển với trắc thủ trong hệ thống
+ASK6.3 ở chế độ kiểm tra độc lập đầu
+tự dẫn Khảo sát chương trình giao diện điêu
+khiển với trắc thủ trong hệ thống
+ASK6.3 ở chế độ K78 
+Khảo sát chương trình giao diện điểu
+khiển với trắc thủ trong hệ thống
+ASK6.3 ở chế độ K78T Phân tích nguyên lý làm việc các phân
+hệ trong hệ thống ASK6.3 Phân tích sơ đô khôi chức năng các phân
+hệ có trong hệ thống ASK6.3 Khảo sát, phân tích các giao diện kết nôi
+giữa các phân hệ trong hệ thống ASK6.3
+và giữa ASK6.3 với đạn tên lửa trong
+các chế độ kiểm tra độc lập đầu tự dẫn. 
+/2018-
+5/2018 2/2018-
+3/2018 2/2018-
+3/2018 /2018-
+5/2018 
+2/2018-
+5/2018 2/2018-
+3/2018 /2018-
+5/2018 /2018-
+5/2018 
+2/2018-
+5/2018 2/2018-
+5/2018 2/2018-
+5/2018 Dương Phú Tuân
+Nguyễn Tuấn Anh 
+Đương Phú Tuân
+Nguyễn Tuần Anh Dương Phú Tuân
+Nguyễn Tuần Anh Dương Phú Tuân
+Nguyễn Tuần Anh Dương Phú Tuần
+Nguyễn Tuấn Anh 
+Dương Phú Tuân
+Nguyễn Tuấn Anh. Dương Phú Tuân
+Nguyễn Minh Thường.
+Nguyễn Tuấn Anh Dương Phú Tuân
+Nguyễn Tuần Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng 
+Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Tuần Anh
+Đào Văn Hưng 
+Dương Phú Tuân
+Nguyễn Tuấn Anh Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+#Z +4 +3 22 
+21 143.3 143.2 13.1 
+1.2.18 1.2.17 12.16 Khảo sát dạng phiêu in kết quả của hệ
+thống ASK6.3 trong chế độ K78 
+Xác định các mức và dạng tín hiệu của Xác định các mức tín hiệu đáp ứng từ
+quả đạn đựa trên bộ 168 thông số kỹ
+thuật được kiểm tra. Xác định các mức tín hiệu kích thích
+được đưa ra từ hệ thống kiểm tra
+AKPA6.3 và ASKõ.3. Xác định bộ thông số kỹ thuật kiểm tra
+đạn tên lửa Kh-35E, phân loại theo định
+dạng thông số, theo khối chức năng
+được kiểm tra trên tên lửa và tiến trình
+thời gian thông số được kiểm tra trong
+chế độ kiểm tra tên lửa ngoài ống phóng. 
+Xác định bộ thông số kỹ thuật kiểm tra
+đạn tên lửa Kh-35E, phân loại theo định
+dạng thông số, theo khối chức năng
+được kiểm tra trên tên lửa và tiến trình
+thời gian thông số được kiểm tra trong
+chế độ kiểm tra tên lửa trong ống phóng Chu trình kiêm tra đạn tên lửa Khảo sát dạng phiêu in kết quả của hệ
+thống ASK6.3 trong chế độ tự kiểm tra Khảo sát dạng phiểu in kết quả của hệ
+thống ASK6.3 trong chế độ kiểm tra đầu
+tự dẫn 
+Xây dựng bộ sơ đô đâu nôi giắc căm
+giữa hệ thống AKPA6.3 và ASK6.3 với
+đạn tên lửa trong hai chế độ trong Ống
+phóng và ngoài ống phóng. Xây dựng sơ đô khôi, nguyên lý thiết bị
+phân tích dữ liệu. Nội dung nghiên cứu 2
+Nghiên cứu thiết kế chế tạo thiết bị
+phân tích dữ liệu Xác định bộ thông số kỹ thuật kiểm tra
+đạn tên lừa Kh-35E, phân loại theo định
+dạng thông số, theo khối chức năng
+được kiểm tra trên tên lửa và tiến trình
+thời gian thông số được kiểm tra trong
+chế độ kiểm tra độc lập đầu tự dẫn 
+5/2018 /2018-
+3/2018 /2018-
+5/2018 06/2018 
+06/2018 06/2018 06/2018-
+07/2018 06/201: 
+)6/2018-
+12/2018 4/2018-
+6/2018 6/2018 4/2018-
+6/2018 
+Dương Phú Tuân Dương Phú Tuân
+Nguyễn Minh Thường.
+Nguyễn Tuấn Anh Đương Phú Tuân
+Nguyễn Minh Thường.
+Nguyễn Tuấn Anh Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh 
+Đương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh Dương Phú Tuân
+Nguyễn Minh Thường.
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+Nguyễn Chí Đức Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng 
+Dương Phú Tuân
+Nguyễn Tuần Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng Dương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+'Nguyễn Chí Đức Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề 
+2l +22 2H 210 
+29 +8 +27 26 
+Xây dựng thuật toán, lập trình chương
+trình điều khiển mô đun thu bắt dữ liệu
+dạng chuyên biệt Xây dựng thuật toán, lập trình chương
+trình điều khiển mô đun thu bắt dữ liệu
+dạng lệnh đơn Xây dựng thuật toán, lập trình chương
+trình điều khiển mô đưn thu bắt dữ liệu
+dạng tương tự Xây dựng thuật toán, lập trình chương
+trình điều khiển mô đun thu bắt dữ liệu
+dạng mã nối tiếp 
+Thiết kế chê tạo mô đụn thu bắt dữ liệu
+dạng chuyên biệt trong phiên làm việc
+giữa hệ thống kiểm tra và đạn tên lửa. Thiêt kê chê tạo mô đun thu bắt dữ liệu
+dạng lệnh đơn trong phiên làm việc giữa
+hệ thống kiểm tra và đạn tên lửa. Thiêt kê chê tạo mô đun thu băt dữ liệu
+dạng tương tự trong phiên làm việc giữa
+hệ thống kiểm tra và đạn tên lửa. Thiêt kê chê tạo mô đun thu bắt dữ liệu
+dạng mã nối tiếp trong phiên làm việc
+giữa hệ thống kiểm tra và đạn tên lửa. 
+luông trao đôi thông tin giữa hệ thông
+kiểm tra và đạn tên lửa trong các chế độ
+K78T, K78 và chế độ kiểm tra độc lập
+đầu tự dẫn bằng các thiết bị đo chuyên
+dụng: Osscilloscope, Analogie Thiêt kê chế tạo mô đun nguôn chuyên
+dụng cho thiết bị Thiết kê chê tạo mô đun động bộ phôi
+ghép việc thu bắt dữ liệu trong phiên
+làm việc giữa hệ thống kiểm tra và đạn
+tên lửa. )6/2018-
+12/2018 
+06/2018-
+12/2018 06/2018-
+12/2018 06/2018-
+12/2018 06/2018-
+10/2018 
+06/2018-
+10/2018 06/2018-
+10/2018 06/2018-
+10/2018 06/2018-
+10/2018 
+Dương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh Dương Phú Tuân
+'Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+'VCNTT CS2 Dương Phú Tuân.
+Nguyễn Minh Thường.
+Nguyễn Tuần Anh
+'VCNTT CS2 Đương Phú Tuân.
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+'Nguyễn Thái Hòa
+'Vũ Hoàng Anh 
+Đương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+VCNTT CS2 Dương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+VCNTT CS2 Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh
+'VCNTT CS2 Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+'VCNTT CS2 
+Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Tuần Anh
+'VCNTT CS2 Dương Phú Tuân
+Nguyễn Tuần Anh
+Vũ Hoàng Anh
+CTV Nguyễn Minh Thường
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề Tài liệu chuyên
+đề+Mô đun 
+Tài liệu chuyên
+đỀ+Mô đun Tài liệu chuyên
+đề+Mô đun Tài liệu chuyên
+đề+Mô dun Tài liệu chuyên
+đềtMô đun 
+Tài liệu chuyên
+đề+Mô đun VCNTT C2 T—
+216: |Xây đựng thuật toán, lập trình chương| 06018- Dương Phú Tuấn ÏTài lệu chuyên,
+trình điều khiển mô đụn phối ghép thư| 12/2018 Nguyễn Minh Thường đề
+|bắt đữ liệu Nguyễn Tuấn Anh.
+VCNTT CS2
+217 |Xây dựng thuật toán, thiết Kế phần môm 06/2018- Dương Phú Tuấn  ÏTàiiệu chuyên
+(chương trình PC thu thập phân tích đữ| 12/2018 Nguyễn Minh Thường để
+liêu, vẽ giản đỗ thời gian luằng dữ liệu Nguyễn Tuần Anh
+thu được VCNTT CS2
+3 _ |Nội dung nghiên cứu3 8/2018-
+INghiên cứu thiết kế chế tạo thiết bị| 02/2019
+mô phông tên lửa Kh-35E.
+3.1. |Xây đựng sơ đỗ khối, nguyên ]ÿ thiết bị | 92018 Dương Phú Tuấn  ÍTài liệu chuyên
+|Pô phỏng tên lửa Kh-35E trong phiên Nguyễn Minh Thường đề
+làm việc của hệ thống AKPA6.3 và Nguyễn Tuấn Anh
+|4SKớ.3.
+32 |ThiỄ: kế chế tạo giắc đấu nổi với hệ| 8/2018 Dương Phú Tuần. Tài liệu chuyên.
+|thống kiểm tra. Nguyễn Minh Thường. đề
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+CTV
+3⁄3. |Thii lễ chỗ Tạo mô đm đáp ứng tín| 8/2018 [- m Tài liệu chuyên
+hiệu kích thích dạng tương tự. 12/2018 đề+Mô đun
+3.4. [ft lỂ chế tạo mồ đụm đập ứng Thị 8/2018- m Tài liệu chuyên.
+hiệu kích thích dạng mã nồi. tiếp. 12/2018 đề+Mô đun
+33 [Tất kế chế tạo mô đìm đập ứng tị 8/2018. Ln Tài liệu chuyên
+|hiệu kích thích dạng lệnh đơn 12/2018 để+Mô đun
+3.6 |Thiết kễ chế Tạo mô đầm đáp ứng tín| 8/2018- m 'Tài liệu chuyên.
+|hiệu kích thích dạng chuyên biệt 12/2018 đề+Mô đun
+3.7 |Thil kế chế Tạo mô đụm phổi ghép tín| 8/2018 m 'Tài liệu chuyên
+|hiệu 12/2018 đẻ+Mô đun
+3.8 |Thiễt kể chế tạo mô đun nguồn chuyên|8/2018- m Tài liệu chuyên
+_|dung 12/2018 __ | đề*:Mô đun
+39. [Xây đựng thuật toán, Tập trình chương|_ 8/2018- Dương Phú Tuấn  ÏTạïiện chuyện
+trình điều khiẫn mô đụn đáp ứng tín hiệu|_ 2/2019 Nguyễn Tuấn Anh đề
+ích thích dạng mã nồi tiệp Vũ Hoàng Anh
+Nguyễn Thái Hòa
+CTV
+}.10 |X4y đựng thuật toán, lập trình chương|_ 8/2018- Dương Phú Tuấn ÏTàïTiệ chuyên
+lrình điểu khiển mô đụn đáp ứng tín hiệu|_ 2/2019 Nguyễn Tuấn Anh đề
+|kích thích dạng tương tự 'Vũ Hoàng Anh
+Nguyễn Thái Hòa
+_ CTV
+3.11 |Xây đụng thuật toán, lập tình chương|' 8/2018- Dương Phú Tuần _- ÍTàiliệu chuyện,
+trình điều khiển mô đun đáp ứng tín hiệu|_ 2/2019 Nguyễn Tuấn Anh II.
+47 46 45 44 
+43 42 41 343 
+312 Thiết kê chế tạo phân hệ tạo và xử lý tín
+hiệu lệnh, tín hiệu tương tự và tín hiệu
+chuyên dụng Thiêt kê chê tạo phân hệ nguôn nuôi. Xây dựng sơ đô khôi, nguyên lý hệ thông
+ASK-V. 
+Nội dung nghiên cứu 4
+Nghiên cứu thiết kế chế tạo hệ thống
+ASK-V Thừ nghiệm làm việc với hệ thông
+AKPA6.3 và ASK6.3 nguyên mẫu và
+chỉnh sửa hoàn thiện Xây dựng thuật toán, lập trình chương
+trình điều khiến mô đun đáp ứng tín hiệu
+kích thích dạng chuyên biệt kích thích dạng lệnh đơn 
+Thiêt kê chê tạo phân hệ giám sát và xử
+lý sự cố Thiêt kế chế tạo phân hệ giao điện
+tương tác trắc thủ và chỉ thị kết quả. Thiêt kê chê tạo phân hệ phôi ghép Thiêt kê chê tạo phân hệ máy tính trung
+tâm 
+66/2019-
+06/2020 01/2020-
+07/2020 04/2019-
+04/2020 08/2019-
+06/2020 
+04/20192-
+04/2020 /2019-
+04/2020 2/2019-
+11/2019 2/2019-
+10/2020 
+02/2019 Dương Phú Tuân
+Nguyễn Tuấn Anh
+Nguyễn Minh Thường.
+Vũ Hoàng Anh Dương Phú Tuân
+Nguyễn Tuần Anh
+Nguyễn Minh Thường.
+'Vũ Hoàng Anh
+CTV Dương Phú Tuân
+Nguyễn Tuấn Anh
+Đào Văn Hưng.
+CTV 
+uyên Phú Tuân
+Nguyễn Minh Thường.
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+CTV Dương Phú Tuần
+Phạm Hồng Long
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh Dương Phú Tuân
+Nguyễn Tuần Anh
+Nguyễn Minh Thường,
+Nguyễn Trọng Thể Dương Phú Tuần
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+Nguyễn Thái Hòa
+CTV 
+'Vũ Hoàng Anh
+Nguyễn Thái Hòa
+CTV Dương Phú Tuân
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+Nguyễn Minh Thường,
+CTV Đương Phú Tuân
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+Đào Văn Hưng
+'Vũ Hoàng Anh
+CTV Tài liệu chuyên
+đề 
+Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề+Phân hệ 
+Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề Biên bản+
+Thiết bị 
+3.21 J2 3.1.6 3.1.5 
+3.1.4 3.143 3.1.2 311 
+3l 411 410 49 
+4ø Thiết kê chế tạo chỉ tiết cơ khí cho cụm
+giắc đấu nối Thiết kê chê tạo cụm chỉ tiêt cơ khí cho
+thiết bị mô phỏng tên lửa Kh-35E' Thiệt kế chê tạo giá gá lắp mô đun 
+Thiết kê chê tạo giá gá lắp mô đun thu.
+dữ liệu dạng lệnh đơn Thiệt kê chê tạo giá gá lắp mô đun thu
+dữ liệu dạng chuyên biệt Thiết kê chế tạo giá gá lắp mô đun thu.
+dữ liệu dạng tương tự Nội dung nghiên cứu 5
+Thiết kế chế tạo các chỉ tiết và hệ cơ
+khí 
+Thiêt kê chê tạo phân hệ đông bộ hiệu
+chỉnh và phối hợp hệ thống Thiết kê chê tạo nguôn tín hiệu "+27W'
+Mạch 1” và “+27V Mạch 2” Thiết kê chê tạo bộ biên đôi AD I và 4D
+1 Thiêt kê chê tạo phân hệ trao đôi thông
+tin chuẩn ARINC-429 
+Thiết kê chế tạo giá gá lắp mô đun thu
+dữ liệu dạng mã nối tiếp. Thiết kê chế tạo vỏ cơ khí thiết bị Thiêt kê chê tạo cụm chỉ tiết cơ khí cho
+thiết bị thu bắt phân tích đữ liệu §/2018-
+11/2018 
+11/2018 7/2018-
+11/2018 11/2018 11/2018 
+11/2018 11/2018 7/2018-
+11/2018 //2018-
+9/2020 
+06/2019-
+06/2020 06/2019-
+06/2020 06/2019-
+06/2020 „r 
+Dương Phú Tuân
+Nguyễn Tuấn Anh
+Nguyễn Minh Thường.
+Dương Mạnh Cường Dương Phú Tuân
+Nguyễn Tuấn Anh
+Nguyễn Minh Thường,
+'Vũ Hoàng Anh
+CTV Dương Phú Tuân
+Nguyễn Tuần Anh
+Nguyễn Minh Thường
+'Vũ Hoàng Anh „r 
+"„r mr mr 'Nguyễn Tuấn Anh
+Nguyễn Minh Thường,
+Dương Mạnh Cường,
+'VCNTT CS2 
+Dương Phú Tuân
+'Nguyễn Tuần Anh
+Nguyễn Minh Thường,
+'Vũ Hoàng Anh
+CTV Dương Phú Tuân
+Nguyễn Tuấn Anh
+Nguyễn Minh Thường,
+'Vũ Hoàng Anh
+CTV Chỉ tiệt cơ khí Tài liệu chuyên
+đết bị 
+Tài liệu chuyên
+đềtPhân hệ Tài liệu chuyên
+đề+Phân hệ Tài liệu chuyên
+đề+Phân hệ nr 
+nr nf „ “Chỉ tiết cơ khí 
+Tài liệu chuyên
+đÈ+Thiết bị Tài liệu chuyên
+đề+Phân hệ 
+33.13 3.3.12 33.11 3.3.10 
+339 3.3.8 3.3.7 33.6 
+335 3.3.4 3.3.3 33.2 
+33.1 3.3 3.2.8 3.27 
+3.2.6 3.2.5 324 323 
+3.2.2 Thiết kê chế tạo khung gá lắp máy in. Thiết kê chế tạo khung gá lắp màn hình -
+quan sát và màn hình tương tác trắc thủ Thiệt kê chế tạo bàn làm việc của trắc.
+
+thủ 
+Thiết kế chế tạo giá gá lắp mô đun.
+
+nguồn chuyên dụng Thiết kế chế tạo giá gá lắp mô đun phối
+ghép tín hiệu Thiết kê chê tạo giá gá lắp mô đun đáp
+ứng tín hiệu dạng lệnh đơn Thiết kế chê tạo giá gá lắp mô đun đáp
+ứng tín hiệu dạng chuyên biệt 
+Thiết kê chế tạo giá gá lắp mô đun đáp
+
+ứng tín hiệu dạng tương tự. Thiết kế chê tạo giá gá lắp mô đun đáp
+ứng tín hiệu dạng mã nối tiếp Thiết kế chê tạo vỏ cơ khí thiết bị Thiệt kê chế tạo hệ thông máng cáp, đèn. 
+Thiệt kê chế tạo hệ thông hộp đâu nỗi kỹ
+thuật Thiết kê chế tạo giá gá lắp bảng đầu dây
+liên kết giữa các phân hệ Thiết kê chế tạo các tủ cơ khí chứa các
+phân hệ Thiết kê chế tạo hệ thông thông thoại
+nội bộ 
+Thiết kê chế tạo hệ thông điêu hòa,
+thông gió báo cháy báo khói Thiết kê chế tạo chân để và kích thủy
+lực Thiết kê chế tạo hệ thông cửa chính, cửa.
+ngách và cửa số công te nơ Thiệt kê chế tạo lớp bảo ôn công te nơ 
+Thiệt kê chế tạo công te nơ Thiết kê chê tạo cụm chỉ tiết cơ khí cho.
+hệ thắng ASK-V' 7/2019-
+9/2020 //2019-
+9/2020 
+7/2018-
+9/2019 9/2020 9/2020 7/2018-
+9/2019 
+9/2019 9/2019 9/2019 9/2019 
+9/2019 //2018-
+9/2020 8/2018-
+11/2018 8/2018-
+11/2018 
+8/2018-
+11/2018 8/2018-
+11/2018 mr nr 
+'H "r Dương Phú Tuân
+Nguyễn Tuấn Anh
+"Nguyễn Minh Thường.
+Dương Mạnh Cường Thiết bị 
+Tài liệu chuyên
+đề+Thiếtbị n"r nr L2 
+nr “Chỉ tiết cơ khí "nr "r 
+“Chỉ tiệt cơ khí 
+6.3.1.3 6.3.1.2 6.3.1.1 6.3.1 
+6.3 6.243 622 6.2.1 
+6.2 6.1.3 6.1.2 6.1.1 
+6.I 3.3.17 3.3.6 3.3.15 
+3.3.14 Kiêm tra ngoài ông phóng; Kiêm tra ngoài ông phóng; Kiêm tra trong ông phóng; 
+Thử nghiệm hệ thông ASK-V với thiết bị
+mô phỏng ở các chế độ: Thử nghiệm hệ thông ASK-V: Kiêm tra độc lập đâu tự dẫn. Kiêm tra ngoài ông phóng; 
+Kiêm tra trong ông phóng; Thử nghiệm thiết bị mô phỏng tên lửa
+Kh-35E Kiêm tra độc lập đâu tự dân. Kiêm tra ngoài ông phóng. 
+Kiểm tra trong ông phóng. Thử nghiệm thiết bị phân tích dữ liệu Thử nghiệm, nghiệm thu và việt
+liệu báo cáo tổng kết, thuyết minh kỹ
+thuật và hướng dẫn sử dụng Thiệt kê chê tạo chỉ tiết cơ khí gia cô
+các giắc đấu nối giữa các phân hệ trong.
+hệ thống và giữa hệ thống với đạn tên
+lửa 
+Thiết kê chế tạo bộ giác đầu nôi ra tên
+lửa và các thiết bị ngoại vi Thiệt kê chê tạo hộp kỹ thuật đầu nôi.
+nguồn điện vào hệ thống Thiết kê chế tạo giá đê dụng cụ vật tư 4/2020- 
+1/2020-
+6/2020 6/2020 6/2020 02/2019 
+02/2019 02/2019 02/2019 11/2018-
+12/2018 
+11/2018-
+12/2018 11/2018-
+12/2018 11/2018-
+12/2018 10/2018-
+12/2020 
+7/2018-
+9/2020 9/2020 //2019-
+9/2020 7/2018-
+9/2019 
+TI nt n"r nL 
+Dương Phú Tuân
+Nguyễn Minh Thường
+Nguyễn Thái Hòa
+Nguyễn Tuần Anh
+'Vũ Hoàng Anh
+Đào Văn Hưng
+Phạm Xuân Công
+Dương Mạnh Cường,
+CTV n+ nt nt 
+Dương Phú Tuân
+Nguyễn Tuần Anh
+Nguyễn Minh Thường
+Nguyễn Trọng Thể nt TH TH 
+Dương Phú Tuân
+Nguyễn Tuấn Anh
+Nguyễn Minh Thường,
+'VCNTT CS2 TnỈ nL Lộ 
+nt Biên bản thử
+nghiệm nt nt 
+nt Biên bản thử.
+nghiệm nL nL 
+Biên bản thử.
+nghiệm 
+6.4 6.3.3.3 6.3.3.2 6.3.3.1 
+6.3.3 6.3.2.3 6.3.2.2 6.3.2.1 
+6.3.2 Kiêm tra độc lập đầu tự dân. Kiêm tra ngoài ông phóng, Kiêm tra trong ông phóng; 
+Thử nghiệm hệ thông ASK-W với đạn tên
+lửa tắt Viễt tài liệu báo cáo, thuyết mình kỹ
+thuật, HDSD và tài liệu quy trình bảo
+trì bảo dưỡng sữu chữa kỹ thuật hệ
+thống Kiêm tra độc lập đâu tự dân. Kiểm tra ngoài ông phóng; 
+Kiêm tra trong ông phóng; Thứ nghiệm hệ thông ASK-W với đạn
+đạn tên lửa lỗi 6/2020 6/2020-
+10/2020 
+6/2020-
+10/2020 6/2020-
+10/2020 6/2020-
+10/2020 /2019-
+12/2020 
+6/2020-
+10/2020 6/2020-
+10/2020 6/2020-
+10/2020 L 
+Dương Phú Tuân
+Nguyễn Minh Thường,
+'Vũ Hoàng Anh
+Nguyễn Thái Hòa
+Nguyễn Tuấn Anh
+Đào Văn Hưng
+Dương Mạnh Cường,
+Căn Cứ 696/Vùng 2 Dương Phú Tuân.
+Nguyễn Minh Thường,
+Nguyễn Tuấn Anh
+'Vũ Hoàng Anh
+Dương Mạnh Cường
+Đỗ Xuân Ngọc
+CTV nt nt 
+nt Dương Phú Tuân
+Nguyễn Minh Thường,
+'Vũ Hoàng Anh
+Nguyễn Thái Hòa.
+Nguyễn Tuấn Anh
+Đào Văn Hưng,
+Dương Mạnh Cường
+Căn Cứ 696/Vùng 2 Lộ Là 
+nL 'Bộ tài liệu. n† nt 
+nL nE IL KÉ HOẠCH TỎ CHỨC HỘI THẢO.
+Hội thảo lần 3: Xây dựng bộ chỉ tiêu kỹ
+thuật của hệ thống ASK-V Hội thảo lần 2: Xây dựng quy trình kiểm.
+tra hệ thống ASK-V' Hội thảo lần 1: Giải pháp xây dựng hệ
+thống ASK-V' Nội dung 
+4/2020-
+6/2020 5/2019-
+7/2019 9/2018-
+11/2018 Phạm Hồng Long
+Dương Phú Tuần
+Nguyễn Tuần Anh.
+"Nguyễn Minh Thường
+Xuân Ngọc
+'Vũ Hoàng Anh
+Mạnh Cường, 
+Phạm Hồng Long,
+Dương Phú Tuần Phạm Hồng Long
+Dương Phú Tuần.
+N Tuần Anh
+yễn Minh Thường.
+bẹ Xuân Ngọc
+'Vũ Hoàng Ảnh
+Mạnh Cường, Kế hoạch tổ chức
+Biên bản hội thảo Kế hoạch tổ chức
+Biên bản hội thảo. 
+Kế hoạch tổ chức.
+Biên bản hội thảo. 

@@ -1,0 +1,98 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN lập - Tự do - Hạnh phúc
+Số: 383/QĐ-VCNTT Hà Nội, ngày 14 tháng 9 năm 2018
+QUYÉT ĐỊNH
+
+V/v phê duyệt Kế hoạch lựa chọn nhà thầu xây dựng cơ sở dữ liệu của đề
+tài “Nghiên cứu hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thống hỗ
+trợ chuẩn bị bay cấp Trung đoàn không quân”
+
+VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ Luật đầu thầu số 43/2013/QH13 của Quốc hội nước CHXHCN Việt
+Nam; Nghị định số 63/2014/NĐ-CP của Chính phủ quy định chỉ tiết thi hành
+một số điều của Luật đấu thầu về lựa chọn nhà thầu;
+
+Căn cứ thông tư số 88/2017/TT-BQP ngày 17/4/2017 của Bộ Quốc phòng
+Quy định một số nội dung về đầu thầu lựa chọn nhà thầu trong Bộ Quốc phòng;
+
+Căn cứ Quyết định số 778/QĐ-VKHCNQS ngày 21/6/2018 của Giám đốc
+'Viện KHCNQS về việc phê duyệt kế hoạch mua sắm thiết bị, xây dựng cơ sở dữ
+liệu cho để tài cắp Viện KHCNQS “Nghiên cứu hoàn thiện, nâng cấp và đưa vào.
+áp dụng thử hệ thống hỗ trợ chuẩn bị bay cấp Trung đoàn không quân"
+
+Xét đề nghị của Trưởng ban Kế hoạch và đề nghị của phòng Hệ thông tin
+địa lý tại Tờ trình số 07/TTr-HTTĐL ngày 11/9/2018,
+
+ 
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt Kế hoạch lựa chọn nhà thầu xây dựng cơ sở dữ liệu của
+đề tài “Nghiên cứu hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ thống hỗ trợ
+chuẩn bị bay cấp Trung đoàn không quân”. Bao gồm 01 gói thầu với với những.
+nội dung như sau :
+
+- Gói thầu: Xây dựng cơ sở dữ liệu thử nghiệm.
+
+- Giá gói thầu: 107.164.000 đồng (Một trăm linh bảy triệu một trăm sáu
+mươi tư nghìn đồng)
+
+- Nguồn vốn: Ngân sách sự nghiệp khoa học.
+
+~ Hình thức lựa chọn nhà thầu: Chỉ định thầu rút gọn.
+
+~ Thời gian bắt đầu tổ chức lựa chọn nhà thầu: Tháng 9/2018
+
+~ Loại hợp đồng: Trọn gói
+
+~ Thời gian thực hiện hợp đồng: 30 ngày kể từ ngày ký hợp đồng.
+
+(Danh mục và chỉ tiết hàng hóa các gói thầu trong phụ lục kèm theo)Điều 2. Giao phòng Hệ thông tin địa lý căn cứ nội dung phê duyệt tại Điều
+1 tổ chức thực hiện kế hoạch lựa chọn nhà thầu theo đúng quy định của Nhà
+nước và Bộ Quốc phòng về Quản lý đấu thầu; Báo cáo kết quả lựa chọn nhà
+thầu, trình Viện trưởng 'Viện Công nghệ thông tin phê duyệt.
+
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+Đồng chí chủ nhiệm đề tài, Phòng Hệ thông tin địa lý và các Phòng, Ban
+liên quan chịu trách nhiệm thi hành Quyết định này,Juý_~
+
+Nơi nhận: ý TRƯỞNG
+~ CNĐT (4/ Nguyễn Duy Nam);
+- Phòng HTTĐL:
+
+- Ban TC:
+
+~ Lưu: VT, KH: H05
+
+  
+
+Ế tá Đỗ Việt BìnhZ8
+
+(Bằng chữ: Một trăm linh bảy triệu một trăm sáu mươi tư nghìn đồng)
+(Chỉ phí trên đã bao gôm các loại thuế và phí)
+Nội dung CSDL Máy bay CSDL Sân bay,
+đường bay CSDL Hô sơ phi
+công 
+CSDL Dây bay CSDL bài bay
+Su3MK2, — Su-
+27SK2, Mi-8, Mi-
+17, An-2, An-26 Thông số kỹ thuật - _ Số hóa dữ liệu dây bay phục vụ thử nghiệm
+- _ Cập nhật thông tin dây bay các loại máy bay theo giáo trình huấn
+luyện bay 
+- Số hóa khoảng I.000 trang tài liệu bài bay các loại máy bay
+Su30MK2, Su-27SK2, Mi-8, Mi-17, An-2, An-26
+- _ Khoảng 500 bản ghỉ thông tin thuộc tính mỗi bài bay -_ Cập nhật dữ liệu máy bay phục vụ thử nghiệm, dữ liệu khoảng.
+40 máy bay các loại - "
+-_ Cấu trúc thông tin máy bay dựa trên cấu trúc CSDL đã thiết kế ~_ Cập nhật dữ liệu sân bay phục vụ thử nghiệm
+- _ Câu trúc thông tin Sân bay, đường bay dựa trên cấu trúc CSDL
+đã thiết kế -_ Cập nhật dữ liệu hỗ sơ phi công phục vụ thử nghiệm, khoảng,
+200 phi công (50 phi công cho mỗi đơn vị)
+~_ Cấu trúc hồ sơ phi công dựa trên cấu trúc CSDL đã thiết kế 
+CSDL CSDL CSDL CSDL 
+CSDL ĐVT 7,164 25 
+50 Đơn
+giá 107,164 7,164 
+3 50 Thành 

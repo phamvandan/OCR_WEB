@@ -1,0 +1,236 @@
+'VIỆN KH-CN QUÂN SỰ CỌNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 317/H-VCNTT Hà Nội, ngày 5 tháng 9 năm 2016
+KÉ HOẠCH
+
+Triển khai nhiệm vụ đảm bảo kỹ thuật phục vụ tham quan tại
+fBB390/Quân đoàn 1 của Bộ Tổng Tham mưu.
+
+Kính gửi:
+- Thủ trưởng Bộ Tổng tham mưu;
+~ Thủ trưởng Cục Quân huấn.
+
+Căn cứ Kế hoạch số 484/KH-TM ngày 28/3/2016 của BTTM đã được Tổng
+Tham mưu trưởng phê duyệt về việc tổ chức Hội nghị Tổng kết Chỉ thị số
+48/CT-QP, Chỉ thị số 06/CT-QP và Quyết định số 3991/QĐ-BQP của Bộ trưởng
+Bộ Quốc phòng;
+
+Căn cứ Kế hoạch dự kiến của Bộ Tổng, Tham mưu về việc Tham quan
+fBB390/Quân đoàn 1 và Tổ chức Hội nghị Tổng kết Chỉ thị số 48/CT-QP, Chỉ
+thị số 06/CT-QP, Quyết định 3391/QĐ-BQP;
+
+Căn cứ vào nội dung giao nhiệm vụ trực tiếp của. thủ trưởng Cục quân huấn
+tại fBB390/Quân đoàn 1 ngày 17/8/2016 và kết luận về công tác chuẩn bị của
+Phó Tổng Tham mưu trưởng Nguyễn Quốc Khánh tại fBB390/ Quân đoàn 1
+ngày 29/8/2016, theo đó:
+
+- Viện Công nghệ thông tin _chịu trách nhiệm phối hợp với Bộ tư lệnh thông
+tin liên lạc và Tập đoàn Viễn thông Quân đội (Vieel) triên khai hệ thống truyền
+hình ảnh trực tiếp bắn đạn thật từ bắn của fBB390/Quân đoàn 1 về khu
+vực khán đài phục vụ tham quan tại đôi truyền thống sư đoàn. Trong đó nội
+dung Viện CNTT/Viện KHCNQS đảm nhiệm là cung cấp thiết bị camera
+chuyên dụng, Máy chủ lưu trữ, xử lý và phát hình ảnh độ nét cao cho các màn
+hình hiển thị, cung cấp con người và phương tiện để triển khai, vận hành thiết
+bị- Địa điểm: fBB390/Quân đoàn 1.
+
+~ Thời gian chuẩn bị: từ ngày 5/9 đến ngày 7/9/2016.
+
+~ Thời gian tổng duyệt: ngày 8/9/2016
+
+~ Thời gian chính thức phục vụ tham quan (dự kiến): ngày 13/9/2016.
+
+Để đảm bảo thực hiện nhiệm vụ trên Viện KHCNQS đề xuất kế hoạch triển
+khai như sau:
+
+1. Trang thiết bị kỹ thuật đảm bảo phục vụ nhiệm vụ:
+
+1.1. Thuê trang thiết bị chuyên dụng:Do Viện CNTT/Viện KHCNQS không có các loại thiết bị chuyên dụng đáp
+
+ứ đụ yêt cầu nhiệm vụ nêu trên và thời gian rất gấp nên phải đi thuê các trang
+j sau:
+
+- 01 Bộ Server lưu trữ và xử lý dữ liệu và phát hình ảnh độ nét cao đáp ứng 6
+camera chuyên dụng.
+
+- 06 camera IP chuyên dụng độ nét cao của hãng Avigilon (05 Camera PTZ
+Full HD, 01 Camera cố định Full HD).
+
+~ 01 bộ điều khiển camera chuyên dụng của hãng Avigilon.
+
+- 01 bộ phần mềm quản lý ghỉ hình và phát hình ảnh camera độ nét cao.
+
+- 01 UPS IKVA cho máy chủ và 06 UPS 500VA cho các Camera.
+
+1.2. Mua vật tư, phụ kiện lắp đặt:
+
+~ Vật tư, phụ kiện lắp đặt hệ thống camera.
+
+2. Cán bộ tham gia triển khai nhiệm vụ:
+
+- 05 cán bộ thuộc Viện CNTT/Viện KHCNQS (01 Thủ trưởng Viện, 01 cán
+bộ Ban Kế hoạch và 03 cán bộ kỹ thuật).
+
+- Thuê 04 chuyên gia của đơn vị cho thuê thiết bị phục vụ hỗ trợ triển khai,
+cài đặt, cầu hình và vận hành thiết bị chuyên dụng.
+
+3. Thời gian thực hiện: từ ngày 5/9 đến hết ngày 14/9/2016.
+
+4. Phương tiện di chuyển: Viện CNTT/Viện KHCNQS đảm bảo phương
+tiện di chuyển cho người của Viện; Thuê 01 xe bán tải để chở thiết bị và chuyên
+gia hãng cung cấp thiết bị trong suốt quá trình triển khai.
+
+$. Kinh phí: Đề nghị Cục Quân huắn/Bộ Tổng Tham mưu bảo đảm kinh
+phí, bao gồm:
+
+- Kinh phí thuê thiết bị chuyên dụng, chuyên gia, phương tiện của nhà cung
+
+cấp: 197,033,060 đồng
+
+- Kinh phí mua vật tư phụ kiện phục vụ triển khai hệ thống: 25,160,000
+
+đà
+
+lông
+- Thuế VAT: 22,219,306
+Tổng chỉ phí: 244,412,366.
+(Hai trăm bốn mươi bốn triệu bốn trăm mười hai ngàn ba trăm sảu mươi
+sáu đông) (chỉ tiết dự toán kinh phí trong phụ lục 1 kèm theo)
+6. Yêu cầu phối hợp thực hiện:
+Để thực hiện nhiệm vụ trên, theo phân công Viện CNTT phối hợp với Bộ tư
+lệnh Thông tin liên lạc và Tập đoàn Viễn thông quân đội, theo đó:
+- Bộ tư lệnh Thông tin liên lạc:
++ Cung cắp, lắp đặt 2 màn hình ghép lớn hai bên khu vực khán đài để hiển
+thị hình ảnh từ các camera và máy phát CD.
++ Cung cấp, lắp đặt thiết bị chia hình phục vụ phát hình ảnh từ máy tính
+lên 5 màn hình (3 màn hình 60" và 2 màn hình 20 m2).
+~ Tập đoàn viễn thông quân đội:+ Cung cấp đường truyền cáp quang, media converter, Switch để truyền
+hình ảnh độ nét cao từ các camera kéo về Server hỉ hình.
++ Cung cấp nguồn điện cho Converter và camera.
++ Cung cấp 3 màn hình hiển thị 60" và 3 máy tính điều khiển hiễn thị.
++ Cung cấp tủ 6 tủ Rack 6U lắp đặt thiết bị tại vị trí lắp camera và 1 tủ
+Rack 27U tại vị trí trung tâm.
+(Chỉ tiết các nội dung yêu cầu đơn vị phối hợp thực hiện trong phụ lục 2
+kèm theo).
+Kính đề nghị thủ trưởng Bộ Tổng tham mưu, Thủ trưởng Cục Quân huấn
+phê duyệt.
+
+Nơi nhận: KT. VIỆN TRƯỞNG
+~ng PHÓ VIỆN TRƯỞNG
+~ Phòng TMKH/Viện KHCNQS;
+
+   
+
+- Lưu: VT, KH; S05.
+
+Trung tá Đặng Thanh QuyềnPHỤ LỤC 1
+Dự toán kinh phí bảo đảm thực hiện nhiệm vụ đảm bảo kỹ thuật phục vụ tham quan tại fBB390/Quân đoàn 1 của Bộ
+_ Tổng Tham mưu
+(Kèm theo kế hoạch số: 317/KH-VCNTT ngày 5 /9/2016 của Viện CNTT)
+2.0W-H3PTZ-
+DP20
+
+MNT-PEND. ˆ
+
+ 
+
+ACC-USB-JOY.
+
+  
+
+ 
+
+MUA VẶT TƯ PH
+
+CAT6 ˆ Xuất xứ
+
+ 
+
+Canada.
+
+ 
+
+— Camda —
+
+ 
+
+Avigilon
+Canada/aly Thu 15,025,600
+657,800
+
+3,698,860
+
+ 
+
+2,373,800
+
+ 
+
+ 
+
+600000
+
+60,000,000.
+
+ 
+
+__ 1,800,000. 
+Thành tiền
+90,153,600.
+
+3,946,800.
+
+ 
+
+3,698,860
+
+ 
+
+2,373,800
+
+ 
+
+_ 600,000.
+
+60,000,000.
+
+ 
+
+_10,800,000.
+
+ 
+
+ 
+
+2,000,000
+
+ 
+
+222,193,060.
+22219306.
+244.4124366 PHỤ LỤC2
+Nội dung do các đơn vị phối hợp đảm bảo
+
+(Kèm theo kế hoạch số: 317/KH-VCNTT ngày 5/9/2016 của Viện CNTT)
+Cột thép lắp camera đường kính 10 cm, cao 5m 'Bộ trộn và chia hình. Màn hình ghép 20m2 + Giá lắp + Cáp HDMI nối với bộ chia hình +
+nguồn điện 3 pha. Màn hình Full HD hoặc 4K 60"-63" + Giá lắp + Cáp HDMI nối với bộ
+chia hình+ dây nguồn điện. 
+Máy tính Laptop core ¡7 + Display Card Full HD hoặc 4K (Bao gồm cả.
+chuột và bản phím) Tủ Rack 27U tại phòng Server (Chứa ODF, Converter, Switch, UPS, Ô
+cắm điện, Server). Tủ Rack 6U tại cột Camera (Chứa ODF, Converter, UPS, Ô cắm điện). Dây điện kéo từ nguồn điện tại trường bắn tới các chân cột lắp camera
+loại 2x2.5 (cadivi hoặc tương đương), ổ cắm điện 2 chấu (cấp cho.
+'Converter và Camera). 
+Switch Giga l6 port Cisco 10/100/1000 'Bộ chuyển đổi tín hiệu quang điện 10/100 (hoặc Gigabit). Cáp quang kết nối từ vị trí chân cột Camera về vị trí máy chủ đặt tại
+khán đài trung tât 'Tên thiết bị - Thông số. 
+LG, SAMSUNG
+hoặc tương đương, Dell hoặc tương,
+đương 'VietRack hoặc
+Tương đương VietRack hoặc.
+Tương đương 
+Cisco Xuất xứ Cột Chiếc 
+Chiếc Chiếc Vị lượng 
+Sư 390 cung
+cấp, lắp đặt. BTLTT Cung
+cấp, lắp đặt. Viettel cung.
+cấp, lắp đặt. Thời gian
+lắp đặt 

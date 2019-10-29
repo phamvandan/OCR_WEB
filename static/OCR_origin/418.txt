@@ -1,0 +1,40 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập — Tự do - Hạnh phúc
+Số:2I?/VCNTT-KH Hà Nội, ngày19 tháng 11 năm 2016
+'V/ thấm định tính năng chiến — kỹ
+thuật phương tiện bay không người lái.
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ công văn số 2908/QL-TB ngày 15 tháng 11 năm 2016 của Cục Quân
+lực về việc thẩm định tính năng chiến — kỹ thuật 03 Tổ hợp phương tiện bay
+không người lái do Tập đoàn VTQĐ nghiên cứu, sản xuất,
+
+'Viện Công nghệ thông tin báo cáo một số ý kiến như sau:
+
+- Sử dụng động cơ xăng nên việc tính toán cân bằng bay và trọng tâm thiết bị
+phải được theo dõi liên tục
+
+~ Dài tần số hoạt động tín hiệu trong 5GHz, với dải này thì hoạt động hiệu.
+quả chỉ trong bán kính trên dưới 10-15 km.
+
+~ Mã hóa dữ liệu cho thiết bị bay không người lái cho quân đội, đặc biệt là
+chỉ đạo pháo binh nên để mã hóa tối mật AES192 hay 256.
+
+- Bản đồ nên sử dụng đồng bộ với lực lượng vũ trang (bản đồ quân sự).
+
+- Khi mất động cơ, thiết bị bay không có phương án dự phòng dù, trong khi
+lưới được triển khai ở vị trí thu hồi không có khả năng đảm bảo an toàn cao,
+
+- Ở thiết bị bay không người lái có động cơ phát để duy trì nguồn điện thì cần
+chú ý các khả năng nhiễu, rung, lắc và ổn định nguồn.
+
+Cần các thông số đảm bảo an toàn cho thiết bị bay trong tác chiến điện tử.
+
+Kính chuyển Phòng Tham mưu — Kế hoạch xem xét.
+
+Nơi nhận:
+
+~nH,
+- Lưu: VT, KH; H03.

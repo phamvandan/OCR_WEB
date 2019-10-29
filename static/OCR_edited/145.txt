@@ -1,0 +1,153 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 6/VCNTT-KH NN .
+Wif6 de El loan dnEieĂEi Hà Nội, ngày 16 tháng 5 năm 2016
+
+lượng, ngân sách thường xuyên ngành
+TC-ĐL-CL năm 2017
+
+Kính gửi:
+~ _ Thủ trưởng Viện KHCNQS;
+- _ Thủ trưởng Phòng Kỹ thuật /Viện KHCNQS.
+
+Căn cứ công văn số 45/KT-TĐC ngày 5/05/2016 của Phòng Kỹ thuật
+Viện KHCNQS về việc xây dựng Kế hoạch chỉ tiêu sản lượng, ngân sách
+thường xuyên ngành Tiêu chuẩn - Đo lường - Chất lượng năm 2017,
+
+Trên cơ sở hướng dẫn, Viện Công nghệ thông tin đã lập Kế hoạch chỉ tiêu
+sản lượng, ngân sách kỹ thuật ngành Tiêu chuẩn - Đo lường - Chất lượng năm
+2017 (như phụ lục kèm theo).
+
+Viện Công nghệ thông tin kính trình Thủ trưởng Viện KHCNQS, Thủ
+trưởng Phòng Kỹ thuật Viện KHCNQS xét duyệt chỉ tiêu cho Viện Công nghệ
+thông tin.Tên VKTBKT
+
+Ký hiện
+(nước
+sản
+
+xuất)
+
+lượng
+
+ 
+
+"Tính năng kỹ thuật
+
+ 
+
+|Máy chủ DELL Power
+|Edge R630
+
+TW
+
+— | DuaiHorpug |
+Redundant Power
+Supply (1+1), 750W,
+PERC H730 RAID
+Controller, IGB NV
+Cache,1 x Intel®
+
+1.90 GHz), 2 x 8GB
+PC4-17000 ECC 2133
+MHz Registered
+IDIMM§, 2 x Intel® SSD
+535 Series (240GB,
+2.5in SATA 6Gb/s,
+
+Mục đích sử dụng
+
+Xeon® Processor E5- | Sử dụng trong nghiên cứu, thử
+1 | 70,000,000 70,000,000 | 2609 v3 (15M Cache, | nghiệm các phần mềm phục vụ
+
+trong quân đội
+
+ 
+
+ 
+
+Thiết bị lưu trữ mạng,
+'NAS EX4100
+
+ĐNÁ
+
+Cái
+
+ 
+
+1 35,000,000 35,000,000
+
+lónm _—
+EX4100
+'WDBWZE0160KBK
+dòng nas 4 bay HDD
+
+Red). Bộ xử lý Marvell
+
+dual-core, Ram 2GB
+DDR3
+
+: Sử dụng trong nghiên cứu và lưu
+(kèm 4 ô cứng 41B WD Ly tị liệu nghiên cứu dùng
+
+|ARMADA 388 1.6 GHz|°Dunẽ
+
+¬
+
+ 
+
+ 
+
+ 
+
+TỎNG
+
+ 
+
+ 
+
+ 
+
+ 
+
+105,000,000
+Thiết bị lưu trữ mạng
+NAS EX4100 Máy chủ DELL Power
+Edge R630 Tên VKTBKT ĐNÁ 
+TW Ký hiệu
+(nước
+sản
+xuất) Cái tính 
+35,000,000 70,000,000 .. 35,000,000 
+70,000,000 "Thành tiên EX4100
+'WDBWZE0160KBK
+dòng nas 4 bay HDD
+
+(kèm 4 ổ cứng 4TB WD
+
+Red). Bộ xử lý Marvell
+
+ARMADA 388 1.6 GHz
+dual-core, Ram 2GB
+
+DDR3 ual, Fiot-plug,
+Redundant Power
+Supply (1+1), 750W,
+PERC H730 RAID
+Controller, IGB NV
+Cache,1 x Intel®
+Xeon® Processor E5-
+2609 v3 (15M Cache,
+1.90 GHz), 2 x 8GB.
+PC4-17000 ECC 2133
+MHz Registered
+DIMM§, 2 x Intel® SSD
+535 Series (240GB,
+2.5in SATA 6Gb/s,
+lónm 
+'Tính năng kỹ thuật Mục đích sử dụng Sử dụng trong nghiên cứu và lưu
+trữ tài liệu nghiên cứu dùng.
+chung Sử dụng trong nghiên cứu, thử
+nghiệm các phần mềm phục vụ
+trong quân đội 

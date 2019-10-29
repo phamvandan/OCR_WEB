@@ -1,0 +1,742 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:2//VCNTT-KH Hà Nội, ngàyf6 tháng 8 năm 2018
+'V/v đề nghị phê duyệt các thông số kỹ
+thuật của một số mô đun phần mềm và
+
+phần cứng của đề tài KC.T-22
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ Hợp đồng khoa học và công nghệ số 1946/2017/HĐKHCN ngày
+17/8/2017 về việc thực hiện để tài cấp Bộ Quốc phòng, mã số: KC.T-22 “Nghiên
+cứu, thiết kế, chế tạo thiết bị kiểm tra tình trạng kĩ thuật khối BM1 của hệ thống
+điều khiển phóng tên lửa KACY 3P-60Y3-1241.8”;
+
+Căn cứ Quyết định số 1909/QĐ-VKHCNGQS ngày 08/12/2017 của Giám đốc
+'Viện KHCNQS về việc phê duyệt kế hoạch mua sắm hàng hóa để thực hiện đề tài
+“Nghiên cứu, thiết kế, chế tạo thiết bị kiểm tra tình trạng kĩ thuật khối BMI của hệ
+thống điều khiển phóng tên lửa KACY 3P-60Y2-1241.8”,
+
+Viện Công nghệ thông tin đang tổ chức thực hiện nội dung mua sắm “Mua
+vật tư công nghệ thông tỉn và điều khiển năm 2018” theo Quyết định số 1909/QĐ-
+'VKHCNG&. tổ đề tài đã xây dựng và đề xuất các thông số kỹ thuật của một số mô
+đun phần mềm và phần cứng (chi tiết trong phụ lục kèm theo) đề tễ chức lựa chọn
+nhà thầu.
+
+Kính đề nghị Phòng Tham mưu-Kế hoạch xem xét hướng dẫn Viện Công
+nghệ thông tin thực hiện các nội dung tiếp theo và báo cáo Ban Giám đốc Viện
+KHCNGS và Ban Chủ nhiệm đề án KC.T phê duyệt các thông số kỹ thuật để Viện
+xây dựng kế hoạch lựa chọn nhà thầu và tổ chức lựa chọn nhà thầu theo quy định
+đảm bảo tiến độ thực hiện của đề tài KC.T-22.// —
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; H03.(Kèm theo Công văn só:É43/VCNTT-KH ngày 6tháng Đnăm 2018 của Viện Công nghệ thông tin)
+
+PHỤ LỤC
+
+Đơn vị tính: Triệu đồng
+
+ 
+
+TT
+
+Tên Module
+
+'Thông số kỹ thuật
+
+ĐVT
+
+Số
+lượng
+
+Đơn
+giá
+
+T
+“Thành
+
+tiền
+
+Mục
+thuyết
+minh
+
+ 
+
+Module xử lý và
+điều khiển tín hiệu
+vào ra lệnh đơn
+
+Xử lý luông tín hiệu vào ra các lệnh đơn.
+
+Thời gian đáp ứng lệnh đơn đầu vào: T.res < 20 is
+Điện áp đầu vào yêu cầu được cách ly quang.
+
+Thị gian đáp ứng sườn lên khoảng 10s
+
+Thời gian đáp ứng sườn xuống khoảng: 14 us.
+Điện áp tương ứng với có lệnh: 27V + 10%.
+
+Điện áp tương ứng với không có lệnh: 0V + I.2V.
+Số lệnh xử lý tôi đa 8 lệnh đên đồng thời.
+
+Số lệnh đơn tạo ra đồng thời tối đa: 8 lệnh.
+
+Lệnh đơn tạo có điện áp: 27V + 10%.
+
+Dòng điện tạo lệnh tối thiểu: 500 mA.
+
+Độ rộng lệnh tối thiểu tạo được: 50ms.
+
+Nguôn nuôi: 27V.
+
+Dòng điện tiêu thụ không tải tối đa: < 200mA.
+
+ 
+
+Mô đun
+
+45,00
+
+360,00
+
+1.112
+
+ 
+
+ 
+
+ 
+
+Module - chuyển
+mức điện áp các
+
+lệnh đơn
+
+ 
+
+Biên đôi điện áp lệnh đơn từ +27V sang chuân tín hiệu TTL.
+
+Phối hợp đảm bảo biến đổi được chuẩn điện á áp tương thích
+giữa đầu vào và đầu ra.
+
+Không gây méo, sai lệch tín hiệu.
+
+Độ trễ tín hiệu cực đại: 100us. -
+Điện áp lệnh đầu vào biến đổi cho mức logic “1”: 12V đến
+36V
+
+Điện áp lệnh đầu vào biến đổi cho mức logic “0”: 0V đến
+
+ 
+
+Mô đun
+
+ 
+
+ 
+
+25,00
+
+ 
+
+200,00
+
+ 
+
+1.113
+
+ 
+
+V\
+Module - chuyển
+mức điện áp các
+
+lệnh đơn Module xử lý và
+điều khiển tín hiệu
+vào ra lệnh đơn Tên Module Biên đôi điện áp lệnh đơn từ +27V sang chuân tín hiệu TTL.
+Phối hợp đảm bảo biến đổi được chuẩn điện áp tương thích
+giữa đầu vào và đầu ra.
+
+Không gây méo, sai lệch tín hiệu.
+
+trễ tín hiệu cực đại: 100us. -
+
+áp lệnh đầu vào biến đôi cho mức logic “1°: 12V đến
+
+ 
+
+ 
+
+36V - %
+Điện áp lênh đầu vào biến đổi cho mức logic “
+
+V đến 
+Xử lý luông tín hiệu vào ra các lệnh đơn.
+
+Thời gian đáp ứng lệnh đơn đầu vào: T.res < 20 ns
+Điện áp đầu vào yêu cầu được cách ly quang.
+
+Thời gian đáp ứng sườn lên khoảng 10s
+
+Thời gian đáp ứng sườn xuống khoảng: 14 Js.
+Điện áp tương ứng với có lệnh: 27V + 10%.
+
+Điện áp tương, ứng với không có lệnh:
+Số lệnh xử lý tôi đa 8 lệnh đên đồng th
+Số lệnh đơn tạo ra đồng thời tối đa: 8 lệnh.
+Lệnh đơn tạo có điện ái
+
+  
+
+  
+ 
+
+ 
+
+thiểu: 500 mA.
+Độ rộng lệnh tối thiểu tạo được: 50ms.
+Nguồn nuôi: 27V.
+
+Dòng điện tiêu thụ không tải tối đa: < 200mA. 'Thông số kỹ thuật ĐVT Mô đun 
+Mô đun &
+
+Số
+lượng 45,00 25,00 
+Thành
+tiền 200,00 360,00 1.113 
+1.113 1.112 Mục
+thuyết
+minh Tên Module
+
+"Thông số kỹ thuật
+
+ĐVT
+
+£
+
+Số
+lượng
+
+Đơn
+giá
+
+Thành
+tiền
+
+Mục
+thuyết
+minh
+
+ 
+
+|
+
+12V
+Điện áp lệnh đầu ra tương ứng cho mức logic “1”: 5V+5%.
+Điện áp lệnh đầu vào tương ứng cho mức logic “0°: 0 + 0,8
+()
+
+Điện áp nguồn nuôi: 5V + 10%.
+
+Dòng điện tiêu thụ không tải tôi đa: <200mA.
+
+ 
+
+ 
+
+Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh MIL-
+STD-1553
+
+Lưu trữ dữ liệu số thu được của kênh truyền MIL-STD-1553
+Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền MIL-STD-
+1553.
+
+Tổng dung lượng bộ nhớ 128MB.
+
+'Vùng nhớ cho bộ thu dữ liệu từ: 0x00000000 đến 0x03FF
+FFFF
+
+'Vùng nhớ cho bộ phát dữ liệu từ: 0x0400 0000 đến 0x07FF
+FFFF
+
+Thời gian truy cập bộ nhớ: < 40ns
+
+Thời gian ghỉ bộ nhớ: < 80ns
+
+Bus dữ liệu 6 bit.
+
+Bus địa chỉ 13 bit
+
+Tần số nhịp tối đa 20Mhz.
+
+Điện áp nguồn nuôi: 5V + 10%.
+
+Dòng điện tiêu thụ: < 100mA.
+
+Mô đun
+
+18,00
+
+144,00
+
+113.1
+
+ 
+
+ 
+
+ 
+
+Module xử lý
+truyền nhận chuẩn
+MIL-STD-1553
+
+ 
+
+Xử lý, truyền, nhận luông dữ liệu theo chuẩn truyền dữ liệu
+MIL-STD-1553. - -
+Biến đổi chuẩn tín hiệu truyền dữ liệu từ chuẩn MIL-STD-
+
+ 
+
+Mô đun
+
+ 
+
+ 
+
+16,00
+
+ 
+
+128,00
+
+ 
+
+ 
+
+/⁄”®w%\
+Module xử lý
+truyền nhận chuẩn
+MIL-STD-1553 Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh MIL-
+STD-1553 Tên Module ~_ Xử lý, truyền, nhận luông dữ liệu theo chuân truyền dữ liệu
+MIL-STD-1553. . -
+~_ Biến đổi chuẩn tín hiệu truyền dữ liêu từ chuẩn MIL-STD- 
+Lưu trữ dữ liệu số thu được của kênh truyện MIL-STD-1553
+Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền MIL-STD-
+1553.
+
+Tổng dung lượng bộ nhớ 128MB.
+
+'Vùng nhớ cho bộ thu dữ liệu từ: 0x00000000 đến 0x03FF
+FFFF
+
+'Vùng nhớ cho bộ phát dữ liệu từ: 0x0400 0000 đến 0x07FF
+FFFF
+
+Thời gian truy cập bộ nhớ: < 40ns
+
+Thời gian ghỉ bộ nhớ: < 80ns
+
+'Bus dữ liệu 6 bit.
+
+Bus địa chỉ 13 bit
+
+Tân số nhịp tối đa 20Mhz.
+
+Điện áp nguồn nuôi: 5V + 10%.
+
+Dòng điện tiêu thụ: < 100mA. 12V
+Điện áp lệnh đầu ra tương ứng cho mức logic *1”'
+Điện áp lệnh đầu vào tương ứng cho mức logic
+()
+
+Điện áp nguôn nuôi: SV + 10%.
+
+Dòng điện tiêu thụ không tải "Thông số kỹ thuật ĐVT 
+Mô đun Mô đun Mô đun Ặ
+
+Số
+lượng 
+Đơn
+giá 16,00 18,00 128,00 
+144,00 Thành
+tiền Mục
+thuyết
+minh 1.132 
+1.132 113.1 Tên Module
+
+Thông số kỹ thuật
+
+ĐVT
+
+4£
+
+Số
+lượng
+
+giá
+
+Thành
+2À
+tiên
+
+Mục
+thuyết
+minh
+
+ 
+
+1553 sang dạng tín hiệu TTL/CMOS.
+-_ Thực hiện biến đổi các chế độ làm việc:
++ Chế độ điều khiển,
++ Chế độ truyền lệnh không có dữ liệu,
++ Chế độ truyền lệnh có dữ liệu,
++ Chế độ nhận lệnh có dữ liệu
+
+ 
+
+~_ Vùng dữ liệu tổ chức theo các trang, mỗi trang có dung lượng:
+
+512KB.
+
+- Tổ chức truy cập bộ nhớ: BUS dữ liệu 16bit, địa chỉ 32Bit
+Biên độ tín hiệu có điện áp: 27V + 30%.
+
+Nhịp chuẩn hệ thống: 20Mhz.
+
+Thực hiện truyền nhận xử lý gói dữ liệu tương thích với
+chuẩn dữ liệu MIL-STD-1553.
+
+ 
+
+ 
+
+Module xử lý
+truyền nhận chuẩn
+TOCT-18977-79
+(ARINC-429)
+
+ 
+
+ 
+
+Xử lý, truyền, nhận luỗng dữ liệu theo chuẫn truyền dữ liệu
+
+TOCT-18977-79 (ARINC-429).
+
+Thực hiện truyền nhận xử lý gói dữ liệu tương thích với
+
+chuẩn dữ liệu TOCT-18977-79 (ARINC-429).
+
+Điều khiển IC truyền nhận dữ liệu theo chuẩn hàng không
+
+ARINC-429.
+
+-_ Số kênh truyền: 2 kênh.
+
+-_ Số kênh nhận: 8 kênh
+
+-_ Phân mảnh, xắp xếp dữ liệu theo các trường: Địa chỉ, dầu
+hiệu, dữ liệu, dầu, kiểm tra.
+
+-_ Tổ chức cầu trúc bộ đệm cho mỗi kênh truyền, nhận: 256
+
+ 
+
+Mô đun
+
+ 
+
+ 
+
+40,00
+
+ 
+
+ 
+
+11343
+
+ 
+
+ISB?34- ')šI
+Module xử lý
+truyền nhận chuẩn
+TOCT-18977-79
+(ARINC-429) 'Tên Module Xử lý, truyền, nhận luông dữ liệu theo chuân truyên dữ liệu
+TOCT-18977-79 (ARINC-429).
+
+Thực hiện truyền nhận xử lý gói dữ liệu tương thích với
+chuẩn dữ liệu TOCT-18977-79 (ARINC-429).
+
+Điều khiển IC truyền nhận dữ liệu theo chuẩn hàng không
+ARINC-429.
+
+Số kênh truyền: 2 kênh.
+
+Số kênh nhận: 8 kênh
+
+Phân mảnh, xắp xếp dữ liệu theo các trường: Địa chỉ, dầu
+hiệu, dữ liệu, dầu, kiểm tra.
+
+'Tể chức câu trúc bộ đệm cho mỗi kênh truyền, nhận: 256 1553 sang dạng tín hiệu TTL/CMOS.
+- _ Thực hiện biến đổi các chế độ làm việc:
++ Chế độ điều khiên,
++ Chế độ truyền lệnh không có dữ liệu,
++ Chế độ truyền lệnh có dữ liệu,
++ Chế độ nhận lệnh có dữ liệu
+~_ Vùng dữ liệu tổ chức theo các trang, mỗi trang có dung lượng:
+512KB.
+- Tổ chức truy cập bộ nhớ: BUS dữ liệu 16bit, địa chỉ 32Bit
+- _ Biên độ tín hiệu có điện áp: 27V + 30%.
+~_ Nhịp chuẩn hệ thống: 20Mhz.
+~_ Thực hiện truyền nhận xử lý gói dữ liệu tương thích với
+chuẩn dữ liêu MIL-STD-1553. 
+Thông số kỹ thuật ĐVT ỐC Mô đun 
+£
+
+Số
+lượng giá 40,00 Thành
+2À
+tiên 
+160,00 11343 Mục
+thuyết
+minh "Tên Module
+
+Thông số kỹ thuật
+
+ĐVT
+
+lượng
+
+giá
+
+Thành
+tiền
+
+Mục
+thuyết
+minh
+
+ 
+
+Word.
+
+Tổ chức cấu trúc bộ đệm thanh ghi điều khiển BUFF, RI, RF,
+DI, RA, RKI RKO... đảm bảo đọc ghi phù hợp đảm bảo điều
+khiển
+
+Điều khiển dữ liệu tín hiệu truyền thông vỉ sai.
+
+Truyền, nhận dữ liệu theo các nhịp: 12.5Khz, 50Khz,
+100Khz.
+
+Địa chỉ card có thể điều chỉnh được trong quá trình hoạt
+động. ö sã
+
+Số lượng ngắt đầu vào: 4 đường.
+
+'Tẻ chức vùng nhớ RAM lưu dữ liệu tạm thời: 10x32KB.
+
+ 
+
+ 
+
+ 
+
+Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh TOCT-
+18977-19
+(ARINC-429)
+
+ 
+
+Lưu trữ dự liệu số thu được của kênh truyền TOCT-18977-
+79.
+
+Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền TOCT-
+18977-79.
+
+Dung lượng 32KB
+
+Bus dữ liệu hệ thống 16bit.
+
+Bus địa chỉ 14bit
+
+Tần số nhịp tối đa 20Mhz.
+
+Đóng gói, mã hóa tin tín hiệu ARINC429 đến đồng thời: 4
+gói.
+Độ dài một từ mã của gói tin: 32bit
+Mã địa chỉ gói tín đến: 8bit.
+
+Kiểm tra độ tin cậy của gói tin đến.
+
+ 
+
+ 
+
+ 
+
+ 
+
+30,00
+
+ 
+
+120,00
+
+ 
+
+1.134
+
+ 
+
+tà 1⁄⁄4/
+"Tên Module Module bộ nhớ lưu
+trữ dữ liệu truyền
+của kênh TOCT-
+18977-T9
+(ARINC-429) Thông số kỹ thuật Word.
+Tổ chức cấu trúc bộ đệm thanh ghi điều khiển BUFF, RI, RF,
+DI, RA, RKI RKO... đảm bảo đọc ghi phù hợp đảm bảo điều
+khiển
+
+Điều khiển dữ liệu tín hiệu truyền thông vi sai.
+
+Truyền, nhận dữ liệu theo các nhịp: 12.5Khz, 50Khz,
+100Khz.
+
+Địa chỉ card có thể điều chỉnh được trong quá trình hoạt
+động. ö sã
+
+Số lượng ngắt đầu vào: 4 đường.
+
+'Tổ chức vùng nhớ RAM lưu dữ
+
+ 
+
+tạm thời: 10x32KB 
+Lưu trữ dự liệu sô thu được của kênh truyền IOCT-18977-
+79.
+
+Lưu trữ toàn bộ dữ liệu truyền nhận kênh truyền TOCT-
+18977-79.
+
+Dung lượng 32KB
+
+Bus dữ liệu hệ thống 16bit.
+
+Bus địa chỉ 14bit
+
+Tần số nhịp tối đa 20Mhz.
+
+Đóng gói, mã hóa tin tín hiệu ARINC429 đến đồng thời: 4
+gói.
+
+Độ dài một từ mã của gói tin: 32bit
+Mã địa chỉ gói tín đến: 8bit.
+
+Kiểm tra độ tin cậy của gói tin đến. ĐVT lượng giá 
+30,00 Thành
+tiền 120,00 Mục
+thuyết
+minh 
+1.134 £
+
+Số
+
+Đơn
+
+Thành
+
+Mục
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+đìnx0
+
+4 Ea sÃ ky Vu Ạ
+TT Tên Module Thông số kỹ thuật ĐVT Lượng | giá | tin “ cất
+Bộ nhớ lưu trữ đữ liệu đến: 2MB |
+Bộ xử lý sử dụng: ARM cotex M4. ị
+Điện áp nguồn nuôi: 5V + 10%.
+Dòng điện tiêu thụ: < 100mA. "¬
+Phối hợp trở kháng kênh truyền nhận dữ liệu theo chuẩn
+TOCT-18977-79 (ARINC-429).
+Module phối hợp Phối hợp trở kháng kênh kênh truyền FOCT-18977-79
+kênh truyền chuẩn | (ARINC-429).
+7 |tuyền _ TOCT-| - Trở kháng đầu vào tại tần số nhịp tín hiệu 100Khz là: 100. ¡ Môđun| 4 | 35,00 | 14000 | 1135
+18977-79 Không gây nhiễu, méo tín hiệu đường truyền dữ liệu. |
+(ARINC-429) Tần số nhịp tối đa 20Mhz.
+Điện áp nguồn nuôi: 5V + 10%.
+Dòng điện tiêu thụ: < 100mA.
+_ CỘNG 1.252,00
+6
+Module phối hợp
+kênh truyền chuẩn
+truyền  TOCT-
+18977-79
+(ARINC-429) Tên Module Phôi hợp trở kháng kênh truyền nhận dữ liệu theo chuân.
+TOCT-18977-79 (ARINC-429).
+
+Phối hợp trở kháng kênh kênh truyền TOCT-18977-79
+(ARINC-429).
+
+Trở kháng đầu vào tại tần số nhịp tín hiệu. 100Khz là: 100.
+Không gây nhiễu, méo tín hiệu đường truyền dữ liệu.
+
+Tân số nhịp tối đa 20Mhz.
+
+Điện áp nguồn nuôi: 5V + 10%.
+
+Dòng điện tiêu thụ: < I00mA. Bộ nhớ lưu trữ dữ liệu đên: 2MB
+Bộ xử lý sử dụng: ARM cotex M4.
+Điện áp nguồn nuôi: 5V + 10%.
+Dòng điện tiêu thụ: < 100mA. 
+“Thông số kỹ thuật Mô đun ĐVT p.-...<< 
+&
+
+Số
+lượng 35,00 Đơn
+giá 140,00 
+" Thành
+tiền 1.13.5 Mục
+thuyết
+Tĩnh. 

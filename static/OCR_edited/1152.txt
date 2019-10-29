@@ -1,0 +1,87 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự đo - Hạnh
+Số: 33 /VCNTT-KH Hà Nội, ngày 46 tháng 3 năm 2018
+
+'V/w đề xuất nội dung triển khai thực
+hiện về Chiến lược bảo vệ Tổ quốc trên
+không gian mạng
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ công văn số 202/BTL-ATM ngày 01/3/2018 của Bộ Tư lệnh 86 về
+việc tham mưu, đề xuất nội dung triển khai thực hiện của Bộ Quốc phòng và của
+cơ quan đơn vị về Chiến lược bảo vệ Tổ quốc trên không gian mạng,
+
+Trong bối cảnh của chiến lược bảo vệ tổ quốc trong không gian mạng do
+'Bộ tư lệnh 86 soạn thảo, Viện Công nghệ thông tin đề xuất một số nội dung triển
+khai như sau:
+
+1. Xây dựng, triển khai các phần mềm, tài liệu, phong trào, chương trình
+truyền hình nhằm tuyên truyền về các thủ đoạn tắn công mạng.
+
+Trong rất nhiều báo cáo của các tổ chức an toàn thông tin trong và ngoài
+nước, một trong các lỗ hồng bảo mật lớn và khó khắc phục chính là nhận thức
+của bản thân người dùng. Việc nâng cao nhận thức của người dùng trước các
+mối nguy hại, thủ đoạn lừa đảo của kẻ xấu trên không gian mạng là vô cùng cấp
+thiết và có vai trò quyết định. Trong nhiều trường hợp tấn công mạng, kẻ xấu
+không nhất thiết phải đột nhập vào hệ thống mà có thể thông qua khai thác sự
+bắt En tính cả tin, thiếu cảnh giác của người dùng để đạt được mục đích (như
+cài đặt phần mềm độc hại, đánh cắp thông tỉn,.. :). Chính vì vậy, công tác giáo
+dục nâng cao nhận thức, tính cảnh giác trong việc sử dụng máy tính và mạng,
+máy tính cần được triển khai đại trà, thường, xuyên liên tục và có kiểm tra đánh
+giá định kỳ hàng năm. Các nội dung giáo dục cần triển khai bao gồm:
+
+- Giáo dục nâng cao trình độ sử dụng máy tính và mạng máy tính một
+cách an toàn và tác hại của việc để mắt an toàn thông tin
+
+~ Giáo dục về các thủ đoạn lừa đảo, dụ dỗ thường được tiến hành trên
+không gian mạng,
+
+~ Việc kiểm tra nhận thức về an toàn thông tin cần được tổ chức cả định
+ký và không báo trước.
+
+2. Xây dựng, triển khai hạ tầng giám sát và định hướng tư tưởng trên
+mạng xã hội.
+
+Các mạng xã hội hiện nay đã ngày càng len lỏi vào mọi ngõ ngách trong
+đời sống sinh hoạt của đại đa cố người dân Việt Nam. Các hiệu ứng cộng đồng
+xuất phát từ mạng xã hội (như các đoạn clip, hình ảnh, nội dụng gây tranh cãi,
+gợi mở) ngày một trở nên phổ biến và có thể được thực hiện dễ dàng. Chính vì
+vậy, việc thể lực thù địch lợi dụng các mạng xã hội để tuyên truyên, lôi kéo,xuyên tạc hay cô xúy cho các hoạt động Diễn biến hòa bình là điều đã và đang,
+diễn ra trên không gian mạng. Nhằm không để bị động, thiếu thông tin trước
+những hoạt động diễn biến hòa bình trên không gian mạng thì việc xây dựng
+triển khai một hệ thống giám sát các mạng xã hội là cấp thiết. Hệ thống khi đi
+vào hoạt động cần cung cấp các khả năng sau:
+
+- Có thể chỉ ra các phong trào, xu thế, thông tin đang được lan truyền chủ
+yếu trên các mạng xã hội
+
+- Cung cấp thông tin về nhóm người (hoặc người) giữ vai trò khởi xướng,
+chủ đạo trong các phong trào diễn biển hòa bình trên mạng xã hội
+
+- Có khả năng tạo ra một cộng đồng ảo có khả năng đưa ra những đánh
+giá, bình luận tích cực nhằm định hướng dư luận, tạo hiếu ứng số đông chồng lại
+các luận điểm xuyên tạc.
+
+3. Xây dựng và triển khai hệ thống thu thập dữ liệu tấn công (Honey Pot)
+tại nhiều đầu mi trong và ngoài quân đội.
+
+Xác định quá trình do thám, thăm dò mạng là hoạt động mà tất cả các
+cường quốc về an toàn thông tin đều tiền hành thường xuyên liên tục. Thông tin
+thu thập được trong quá trình nảy là một ến đề quan trọng cho chiến tranh
+thông tin nếu nổ ra. Nhằm không để bị động, thiếu cảnh giác trước chiến tranh
+thông tin, việc triển khai một hệ thống thu thập, cảnh báo vẻ hoạt động tấn công,
+do thám mạng trên diện rộng là đòi hỏi cấp thiết. Hệ thống này cần được triền
+khai rộng khắp nhằm cảnh báo tức thời về các hoạt động dò la, tắn công mạng,
+diễn ra cơ quan đơn vị trong và ngoài quân đội.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét. Ni”
+
+ 
+
+Nới nhận: N TRƯỞNG
+~ Như trên; &
+~ Lưu: VT, KH; H03.
+
+g tá Đỗ Việt Bình

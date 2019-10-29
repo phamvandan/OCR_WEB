@@ -1,0 +1,129 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CỘNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số:.936/VCNTT-KH Hà Nội, ngày 12 tháng 6 năm 2018
+
+V/v đề nghị bảo vệ luận án cấp Viện
+
+Kính gửi: Giám đốc Viện KH-CN quân sự.
+
+Nghiên cứu sinh Lê Quang Huy được công nhận là nghiên cứu sinh hình
+thức đào tạo không tập trung theo quyết định số 1184/QĐ-VKHCNQS ngày 8
+tháng 10 năm 2012 của Giám đốc Viện KH-CN quân sự.
+
+Sau thời gian học tập theo quy định, nghiên cứu sinh đã hoàn thành chương,
+trình đào tạo và đã có đủ các chứng chỉ môn học theo quy định.
+
+Sau thời gian học tập và thực hiện để tài nghiên cứu, đến nay nghiên cứu
+sinh đã hoàn thành luận án về đề tài: “Nghiên cứu, phát triển một số thuật toán
+
+sinh khóa RSA chứa backdoor°.
+Thuộc chuyên ngành: Cơ sở toán học cho tin học.
+Mã số: 946 01 10.
+
+Đơn vị chuyên môn đã tổ chức đánh giá luận án ở Hội đồng Khoa học
+chuyên ngành và nhận định luận án đã đạt được các kết quả chính như sau:
+
+1. Luận án “Nghiên cứu, phát triển một số thuật toán sinh khóa RSA chứa
+backddoor” của nghiên cứu sinh Lê Quang Huy không trùng lặp các với công
+trình, luận án đã công bố trong và ngoài nước. Luận án có hàm lượng khoa
+học và ý nghĩa thực tiễn. Nội dung luận án phù hợp với chuyên ngành Cơ sở
+toán học cho tin học, mã số: 9 46 01 10,
+
+2. Các đóng góp mới của luận án:
+
+ĐỀ xuất cài đặt thuật toán backdoor sinh tham số cho hệ RSA theo chuẩn
+FIPS 186-4.
+
+*_ Phát triển 02 thuật toán sinh khóa RSA có chứa backdoor dựa trên hai thuật
+toán PAP và Hidden Prime Factor.3. Nội dung và hình thức luận án của nghiên cứu sinh Lê Quang Huy đáp ứng
+yêu cầu của một luận án tiến sĩ chuyên ngành Cơ sở toán học cho tin học
+theo quy định của Bộ Giáo dục và Đào tạo.
+
+Căn cứ kết quả đào tạo và đối chiếu với yêu cầu chất lượng luận án tiến sĩ,
+Viện Công nghệ thông tin đề nghị Giám đốc Viện KH-CN quân sự cho phép
+nghiên cứu sinh Lê Quang Huy được bảo vệ luận án trước Hội đồng đánh giá luận
+án cấp Viện. /ˆ_
+
+Nơi nhận: KT.VIỆN TRƯỞNG
+~ Như trên; PHÓ VIỆN TRƯỞNG
+~ Phòng đào tạo;
+
+~ Lưu: VT. KH; Đ04.
+
+ 
+
+Thượng tá Đặng Thanh Quyền'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập — Tự do - Hạnh phúc
+
+Hà Nội, ngày 12tháng 6 năm 2018
+
+GIỚI THIỆU DANH SÁCH
+HỌI ĐÒNG ĐÁNH GIÁ LUẬN ÁN TIẾN SĨ CÁP VIỆN
+
+ 
+
+Cho luận án của nghiên cứu sinh: Lê Quang Huy
+Tên luận án: “Nghiên cứu, phát triển một số thuật toán sinh khóa RSA chứa
+backdoor”.
+Chuyên ngành: Cơ sở toán học cho tin học
+Mã số: 9 46 01 10
+Người hướng dẫn: 1. PGS.TS Bạch Nhật Hồng
+2. TS Trần Duy Lai
+TS Lê Xuân Đức GS.TS Nguyễn Thanh Thủy HỌ VÀ TÊN GS.TS Nguyễn Bình 
+PGS.TS. Đỗ Trung Tuấn TS Lều Đức Tân PGS.TS. Nguyễn T. Hoàng.
+Lan PGS.TS Lê Mỹ Tú 
+TS Nguyễn Mạnh Hùng PGS.TS Huỳnh Quyết Thắng Toán học CHUYÊN
+NGÀNH 
+“Toán học Cơ sở Toán học
+cho Tin học Cơ sở Toán học
+cho Tin học Cơ sở Toán học
+cho Tin học 
+Cơ sở Toán học
+cho Tin học Cơ sở Toán học
+cho Tin học Điện tử Cơ sở Toán học.
+cho Tin học 
+ĐH QGHN
+0913531184 - 'ĐƠN VỊ CÔNG
+TÁC
+Số điện thoại HV CNBCVT
+0903438232 - Viện KHCNQS
+0915756565 
+HV KTMM
+0914364064 ĐH BKHN
+0903424186 - ĐH BKHN
+0913536752 ĐHQGHN
+0913318170 
+HV KTMM
+0903424186 HVKTQS
+0989146397 Chủ tịch Hội
+đồng TRÁCH
+
+NHIỆM
+
+'TRONG
+HỘI ĐÒNG 
+Phản biện 2 Phản biện 1 Thơ ký Hội
+đồng Phản biện 3 
+Ủy viên Ủy viên Ủy viên Ủy viên n£—
+THỦ TRƯỞNG ĐƠN VỊ CHUYÊN MÔN
+
+ 
+
+Thượng tá Đặng Thanh Quyền
+10. PGS.TS Đỗ Năng Toàn TS. Thái Trung Kiên TS Tống Minh Đức TS Nguyễn Mạnh Linh 
+PGS.TS Nguyễn Hiếu Minh TS. Lưu Hồng Dũng, Cơ sở Toán học
+cho Tin học Toán học 
+Cơ sở Toán học
+cho Tin học Cơ sở Toán học
+cho Tin học Cơ sở Toán học
+cho Tin học “Toán học 
+'Viện KHCNQS
+09047505098 Viện KHCNQS
+098 375 0801 HV KTMM
+0989193571 HVKTQS
+090600013 
+HVKTQS
+0989505717 ĐHQGHN
+0913583240 Ủy viên Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 

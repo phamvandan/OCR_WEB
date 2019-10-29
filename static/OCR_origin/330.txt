@@ -1,0 +1,223 @@
+VIÊN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+Số:313/VCNTT-HTTĐL Hà Nội, ngày 449 tháng 3 năm 2016
+'V/v xin phê duyệt tính năng,
+chiến-kỹ thuật sản phẩm của Nhiệm vụ cải
+tiến đài ra đa P37.
+
+Kính gửi: Cục Kỹ thuậ/BTL Phòng không-không quân.
+
+Căn cứ Hợp đồng số 675/2015/HĐ-CNTT ngày 29/05/2015giữa Viện
+KH-CNQS và Viện Công nghệ thông tin về việc *Thiết kế chế tạo thiết bị cho.
+'VKTBKT thế hệ mới”;
+
+Căn cứ nội dung yêu cầu thực hiện và chất lượng của sản phẩm trong
+thuyết minh Nhiệm vụ KHCN cắp Viện KHCNQS “Cải tiến hiện đại hóa đài ra
+đa P37: Thiết kế, chế tạo mới hệ thống chống nhiễu, hệ thống hiện sóng và tích
+hợp hệ thống tự động kiểm tra dự báo hỏng hóc cho đài ra đa P37”;
+
+Căn cứ vào công văn số 266/BTL-KT ngày 28/01/2015 của Quân chủng
+PK-KQ về việc phối hợp thực hiện nhiệm vụ cải tiến, hiện đại hóa đài Ra đa P37
+giữa Viện KHCNQS và Quân chủng PK-KQ.
+
+Căn cứ vào công văn số 46/CKT-RĐ ngày 02/6/2016 của Cục Kỹ
+thuậ/BTL Phòng không-Không quân về việc góp ý kiến vào tính năng chiến-kỹ
+thuật sản phẩm của nhiệm vụ cải tiến ra đa P37;
+
+Căn cứ vào kết quả làm việc giữa Nhóm thực hiện đề tài của Viện Công,
+nghệ thông tỉn và các chuyên gia thuộc Phòng Ra đa/Cục Kỹ thuật trong việc
+hoàn thiện bảng tính năng chiến-kỹ thuật các sản phẩm thuộc Nhiệm vụ.
+
+(Chỉ tiết bảng tính năng chiến-kỹ thuật như phụ lục kèm theo).
+
+Để các sản phẩm của Nhiệm vụ khi đưa vào sử dụng đáp ứng, tốt yêu cầu
+thực tế chiến đấu và làm cơ sơ đánh giá nghiệm thu nhiệm vụ, Viện Công nghệ
+thông tin kính đề nghị Thủ trưởng Cục Kỹ thuậƯ/QC PK-KQ xem xét và phê
+duyệt bảng tính năng chiến - kỹ thuật các sản phẩm thuộc Nhiệm vụ trên .//yy'
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT,KH.HTTĐL; S04.
+
+  
+
+Trung tá Đỗ Việt Bìnhủ PHỤLỤC -
+TÍNH NẴNG CHIẾN - KỸ THUẬT SẢN PHÁẢM CỦA ĐÈ TÀI CẢI TIÊN P37
+(Kèm theo công văn số: Ä3⁄2/VCNTT-HTTĐL ngày .|À./9/2016)
+
+1. Tính năng chiến - kỹ thuật của thiết bị chống nhiễu
+1.1. Tính năng chiến thuật
+- Thiết bị chống nhiễu thực hiện chức năng xử lý chống nhiễu tích cực cho
+
+ra đa P37 trực tiếp trên kênh biên độ sử dụng phương pháp bản đồ nhiễu kết hợp
+bù khử qua chu kỳ.
+
+- Hệ thống gồm 5 kênh ứng với 5 kênh thu theo góc tà ra đa P37. Trên mỗi
+kênh thực hiện nhiệm vụ tách mục tiêu di động và chế áp nhiễu tiêu cực trong một
+vùng không gian độc lập khác nhau về góc tà.
+
+- Mỗi kênh bao gồm: tuyến bản đồ địa vật, tuyến chế áp nhiễu, lọc mục tiêu
+di động và bộ chuyển mạch A/K (chuyển mạch biên độ, tương can, nghĩa là có và
+không chống nhiễu).
+
+1.2. Tính năng kỹ thuật
+23 22 21 Xung kích vào. 
+'Tín hiệu đầu vào Nguồn +5V Nguồn -12V' Nguồn +12V 
+Điện áp nguồn đầu vào khối Tham số nguồn "Tham số kỹ thuật chính Biên độ 
+Xung phương vị 5° vào Tần số lặp Độ rộng (t,) Biên độ 
+375Hz 1#0,3us >5V 5V+5%, Imax=5A 
+-12V+5%, Imax=lA 12V+5%, Imax=/ ~(190+250)V/50HZ ` >7V II, Tính năng chiến - kỹ thuật thiết bị hiện sóng
+2.1. Tỉnh năng chiến thuật
+
+Thiết bị hiện sóng thực hiện chức năng xử lý thông tỉn ra đa (cấp 1, cấp II) và
+hiển thị tín hiệu thị tần tương tự như màn hiện sóng IKO của đài với tính năng cụ
+thể như sau:
+
+~ Xử lý cấp I thông tin ra đa: Xử lý bài toán tích lũy, phát hiện phát hiện xung
+đơn, chùm tín hiệu lượng tử nhị phân phản xạ về từ mục tiêu và đo tâm chùm của tín
+hiệu phản xạ.
+
+~ Xử lý cấp II thông tin ra đa: Phát hiện quỹ đạo mục tiêu; Khởi tạo quỹ đạo; Xác
+
+định quỹ đạo, tham số động của mục tiêu (tọa độ, hướng bay, vận tốc,...); Lọc quỹ đạo;
+Ngoại suy quỹ đạo; Loại bỏ quỹ đạo (ngừng bám sát).
+
+- Hiển thị tín hiệu thị tần tương tự như màn hiện sóng IKO của đài rađa P37.
+- Tỷ lệ tương thích với đài.
+
+- Chế độ hoạt động: tự động hoặc bán tự động.
+
+2.2. Tỉnh năng kỹ thuật
+
+a. Phần cứng
+3.9 3.8 3.7 3.6 
+3.8 3.4 kh) S.ối 
+8] Tốc độ truyền dữ liệu tối thiểu Tín hiệu số đầu ra Hệ số chế áp nhiễu. 
+Số chu kỳ bù khử Sai số theo cự ly hướng tâm của bản đỗ nhiễu. Sai số theo cự ly hướng tâm của bản đồ nhiễu Sai số theo phương vị của bản đồ nhiễu 
+Cự ly hoạt động lớn nhất của bản đồ nhiễu. 'Ngưỡng phát hiện tín hiệu nhiễu tiêu cực địa vật Điêu kiện làm việc
+-_ Nhiệt độ
+-_ Độ âm môi trường ở 35°C Công suất tiêu thụ nguồn (với điện áp 220V+10%,
+5S0Hz) 
+'Tham số, tính năng xử lý 1Mbps >40dB #+0.36Km 
++0,50 180 Km Phát hiện có và
+không có tín hiệu 5+70°C
+95% 
+<350W Theo tỷ lệ hiện sóng. 
+STT Tốc độ truyền dữ liệu tối thiểu Giao thức truyện tin Số điểm dấu giả vượt ngưỡng trong một vòng.
+quan sát 
+Hệ số khuyếch đại tín hiệu Cự ly xử lý thông tin rađa (Dmax) Mức lượng tử Tần số lượng tử 
+Xung kích đồng bộ
+-_ Biên độ
+-_ Độ rộng Công suất tiêu thụ nguồn (với điện áp 220V-+10%,
+50Hz) Tham số kỹ thuật chính Biên độ tín hiệu xenxin góc quay
+
+Điện áp kích thích (50HZ)
+Điện áp pha I
+Điện áp pha 2
+Điện áp pha 3 
+Biên độ tín hiệu thị tần đầu vào. Điêu kiện làm việc
+~_ Nhiệt độ
+- _ Độ âm môi trường ở 35°C Điêu kiện làm việc
+-_ Nhiệt độ
+-_ Độ ẩm môi trường ở 35°C Công suất tiêu thụ nguồn (với điện áp
+220V+10%, 50Hz) 
+'Tham số kỹ thuật chính . Phần mềm hiển thị S+70°%C
+95% <‹350W 
+Giá trị Giá trị SMbps UDPIP 
+<100 <20 360km 256 mức 
+600KHz+5MHz 5+50V
+>lụs 110V+10%
+46V
+46V
+46V 5+24V 
+5+70°%C
+95% <350W Giá trị 
+STT vột vể
+
+hục hỏ
+
+: . Tính năng chiến kỹ thuật thiết bị dự đoá
+1. Tính năng chiến thuật
+
+Thu thập các dữ liệu về trạng thái và dự đoát
+t (xe số 1), cũng như các thành phần chức n
+thống phụ trợ khác.
+
+Hiển thị trạng thái hoạt động, xác định vị tr
+ng hóc.
+
+2. Tính năng chiến thuật Giao thức truyền nhận tin 
+Tốc độ truyện nhận dữ liệu Độ trễ hiển thị/1 vòng quét Chu kỳ cập nhật thông tin (giây) ~- Sai số theo phương vị (°)
+- Sai số theo cự ly (m). 
+Thang tỉ lệ cự ly Cự ly xử lý thông tin rađa (Dmax) +Thông báo tự động tủ đã sẵn
+sảng hoặc cảnh báo chưa có lệnh
+thực hiện nối Báo hiệu lệnh
+nối tắt phát đã lên tới tủ phát hay
+chưa Module dự đoán hỏng hóc tủ thu 
+Điêu kiện làm việc
+-_ Nhiệt độ
+- _ Độ âm môi trường ở
+35° Công suất tiêu thụ nguồn (với
+điện áp 220V+10%, S0Hz) Giao thức truyền tin Tryền nhận dữ liệu 
+Điện áp hoạt động toàn đài Các tham số chung 'Tham số kỹ thuật chính Giá trị 
+Hiển thị chữ/hình ảnh
+Xanh: Tốt
+Đỏ: Hỏng hóc phát 01 5+70°C
+95% 350W 
+UDP/P Số 220V 50Hz và 220V 400Hz hỏng hóc đài ra đa P37
+
+hỏng hóc cho các tủ khối thuộc
+ng trong hệ thống được cải tiễn
+
+í hỏng hóc và hỗ trợ chỉ dẫn kí 
+SMbps 5S00us 6 vòng/1 phút +0,25
++250 
+90,180, 360Km 360km 4“?
+Thông tin hoạt động của tủ
+chống nhiễu (đã cải tiến) ~ Nhiệt độ - Trạng thái kết nối ~ Tín hiệu giả Video 
+~ Tín hiệu điểm dấu ~ Tình trạng xung kích Tính năng tương tự tủ thu, phát 01 'Các module dự đoán hỏng hóc tủ 
+~ Dự báo hỏng hóc của tủ
+thu/phát ~ Trạng thái kết nói ~ Nhiệt độ + Báo hiệu điện áp nguồn -20V
+tủ thu 
++ Báo hiệu điện áp nguồn 20V tủ
+thu + Báo hiệu điện áp nguồn
++12,6V + Báo hiệu điện áp nguồn +27V. + Thông báo tự động trạng thái
+đèn trạng thái đèn Katốt 
++ Thông báo tự động trạng thái
+đèn Anốt cao cáp ~ Hiển thị theo
+- Cảnh báo quá độ âm - Hiển thị nhiệt độ hoạt động khối
+- Cảnh báo quá ngưỡng nhiệt độ Hiển thị trạng thái có kết nói/không có 
+Hiển thị trạng thái có tín hiệu/không có Hiển thị trạng thái có tín hiệu/không có Có/Không thu, phát khác (tủ 02, 03, 04, 05) 
+~ Hoạt động tốt/Không hoạt động - Hiển thị màu sắc trạng thái đường,
+truyền đữ liệu - Hiển thị theo độ âm
+- Cảnh báo quá độ ẩm - Hiển thị nhiệt độ hoạt động,
+~ Cảnh báo quá ngưỡng nhiệt độ 
+Sai số +5% Sai số #5% Sai số +5% Sai số +5%. 
+Hiển thị chữ/hình ảnh
+Xanh: Tốt
+Đỏ: Hỏng hóc Hiển thị chữ/hình ảnh
+Xanh: Tốt
+Đỏ: Hỏng hóc - Nguồn hoạt động
+
+12V
+
+ 
+
+- Trạng thái kết nối
+
+Hiển thị có kết nối/không có
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Nhiệt độ - Hiển thị nhiệt độ hoạt động khối
+- Cảnh báo quá ngưỡng nhiệt độ
+- Độ âm - Hiền thị theo độ âm của đài
+
+~ Cảnh báo quá độ âm

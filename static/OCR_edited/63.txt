@@ -1,0 +1,525 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CỘNG NGHỆ THÔNG TIN 9 Độc lập ` do - Hạnh phúc
+
+Số: 6T /VCNTT-KH Hà Nội, ngày 14 tháng 03 năm 2016
+VY giisn phẩm ng dạng trong nh
+vực y tế.
+
+Kính gửi:
+- Phòng Tham mưu - Kế hoạch;
+~ Phòng Hậu cần,
+
+Căn cứ vào công văn số: 234/VKHCNQS-HC ngày 09/03/2016 của Viện
+KHCNG§ về việc gửi sản phẩm ứng dụng trong lĩnh vực y tế,
+
+'Viện Công nghệ thông tin gửi bốn (04) sản phẩm trong lĩnh vực ytế.
+
+1. Hệ thống phần mềm Quản lý thông tin bệnh viện MiHIS
+
+2. Hệ thống phần mềm Quản lý phòng khám.
+
+3. Hệ thống Xếp hàng tại khoa khám bệnh.
+
+4. Hệ thống phần mềm Xếp hàng tại khoa xét nghiệm.
+
+Thông tin tóm tắt của các sản phẩm được gửi kèm theo. #
+Nơi nhận:
+
+~ Như trên;
+~ Lưu: VT, KH; H04.THÔNG TIN TÓM TẮT CUA CÁC SAN PHAM
+
+1. Hệ thống phần mềm Quản lý thông tin bệnh viện MiHIS:
+
+MiHIS là một giải pháp tổng thể, khả năng tùy biến cao và rất dễ sử dụng, được
+thiết kế để mang lại những hiệu quả thực tế trong quản lý chuyên môn và điều hành cho
+các bệnh viện. Với mục tiêu nâng cao năng lực điều hành và chất lượng khám chữa bệnh.
+tại bệnh viện MiHIS được thiết kế với những đặc điểm nỗi bật:
+
+~ Công nghệ tiên tiến, thiết kế chuyên nghiệp.
+
+- Hệ thống đồng bộ, chính xác.
+
+~ Hệ thống quản lý tổng thể, thống nhất
+
+- Hệ thống dễ dàng triển khai và thuận tiện trong việc quản trị
+
+~ Hệ thống sẵn sàng kết nối với các hệ thống khác.
+
+- Hệ thống thuận tiện cho việc nâng cắp và mở rộng trong tương lai
+
+MiHIS đã được áp dụng thành công và mang lại những kết quả hết sức khả quan tại
+các bệnh viện trong và ngoài quân đội: Bệnh viện 103, bệnh viện 354, bệnh viện 105,
+bệnh viện Đa khoa tỉnh Nam Định, bệnh viện Đa khoa huyện Can Lộc - Hà Tĩnh...
+
+MiHIS bao gồm các chức năng chính: Quản lý Khoa khám bệnh, quản lý dược,
+quản lý trang bị, quản lý cận lâm sàng, quản lý phòng mổ, quản lý bệnh nhân nội trú,
+quản lý viện phí và tổng hợp báo cáo.
+
++ Quản lý Khoa khám bệnh: Tiếp đón bệnh nhân, xếp hàng theo thứ tự, phân
+công bệnh nhân vào các buồng khám phù hợp, giúp bác sỹ khám bệnh, chuyển bệnh nhân.
+đi xét nghiệm, lưu các thông tin khám chữa bệnh cùng các chỉ phí trên máy tính và chuyển
+đi các bộ phận liên quan. Modul này có thể tích hợp với hệ thống cấp số tự động và gọi
+bệnh nhân ở khu vực tiếp đón cũng như tại các phòng khám.
+
++ Quản lý Dược: Quản lý công tác xuất nhập tồn thuốc, vật tư tiêu hao, hóa chất
+xét nghiệm ... tại khoa Dược. Thực hiện công tác duyệt thuốc cấp cho các khoa trên máy,
+cảnh báo thuốc hết hạn, đảm báo xuất thuốc cân đối giá đầu vào, đầu ra.
+
++ Quản lý Trang bị: Quản lý trang bị trong bệnh viện theo hồ sơ của trang bị.
+Quản lý chặt chế quá tình sử dụng, bảo hành, bảo trì, sửa chữa trang bị, dự báo thời gian
+bảo hành, bảo trì trang bị; quản lý vật tư, phụ tùng thay thế. Moduls này cũng tích hợp.
+tính năng quản lý vật tư tiêu hao.+ Quản lý Cận lâm sàng: Quản lý lượt khám cận lâm sàng, kết quả xét nghiệm,
+báo cáo thống kê theo lượt khám, loại xét nghiệm, thời gian. Cho phép in số Cận lâm
+sảng.
+
++ Quản lý Phòng mổ: Quản lý lịch phẫu thuật của các Khoa trong bệnh viện, kíp
+phẫu thuật, các chỉ phí sử dụng trong quá trình phẫu thuật, đưa ra các báo cáo thống kê
+phục vụ công tác quản lý của phòng mổ.
+
++ Quản lý bệnh nhân nội trú: Quản lý hồ sơ bệnh án của bệnh nhân nội trú, các
+chỉ phí phát sinh trong quá trình điều trị bao gồm thuốc, vật tư tiêu hao, giường bệnh, ...
+diều chuyển bệnh nhân trong viện và ra khỏi viện, chuyển bệnh nhân đi xét nghiệm, hỗ trợ
+lên dự trù thuốc đối với các bệnh nhân trong khoa.
+
++ Quản lý viện phí: Tính toán, áp giá các loại chỉ phí cho từng đối tượng bệnh
+nhân. Quản lý phiếu thanh toán ra viện, hỗ trợ các nghiệp vụ thanh toán cho bệnh nhân.
+thu tiền tạm ứng, thông báo hết tiền tạm ứng, điều chuyền bệnh nhân đi các tuyến (tuyến
+trên. tuyến dưới. chuyên khoa....).
+
++ Tổng hợp báo cáo: Tổng hợp và kết xuất các báo cáo theo yêu cầu của lãnh đạo.
+bệnh viện theo tiêu chuẩn của Cục Quân y và Bộ Y tế.
+
+2. Hệ thống phần mềm Quản lý phòng khám
+
+se Tiếp nhận bệnh nhân.
+
+Nhập các thông tin hành chính: Kiểm tra xem bệnh nhân đã khám ở phòng khám
+chưa, nếu có rồi, load các thông tin cũ ra và chỉnh sửa (nếu cần). Nếu chưa có thì nhập.
+mới.
+
+Chỉ định các dịch vụ y tế cho bệnh nhân: Chia thành 2 nhóm: (Dịch vụ khám và
+dịch vụ cận lâm sàng). Nếu là các dịch vụ khám, chọn địch vụ, chọn phòng thực hiện. Vấn
+đề chọn phòng gắn theo dịch vụ cần được định nghĩa sẵn trong quá trình định nghĩa danh
+mục dịch vụ. Nếu là các địch vụ CLS cách thức chỉ định cũng tương tự, chú ý ưu tiên các
+dịch vụ khám lên trên đầu danh sách.
+
+Quá trình nhập các chỉ định, người sử dụng nhập tuần tự nhau, chỉ khi Lưu lại, phần
+mềm sẽ tự động chia thành các phiếu chỉ định (Căn cứ danh mục dịch vụ - phiểu chỉ định)
+
+In phiếu chỉ định (Bao gồm cả phiếu khám và phiếu chỉ định các dịch vụ yế khác).
+Chức năng này có thể thực hiện hay không tùy phòng khám quy định, dữ liệ
+truyền trong nội bộ trên đường mạng tới các bộ phận thực hiện. Các phiếu chỉ định có thể
+in toàn bộ hoặc riêng lẻ.Thu phí tại bộ phận Tiếp đón: Chức năng này phải có do một số PK bố trí nhân
+viên tiếp đón đồng thời là nhân viên Thu phí hoặc không muốn gây phiền hà bệnh nhân
+phải đi qua nhiều bộ phận. Khi chỉ định xong dịch vụ nhân viên bấm nút thu phí, phần.
+mềm tự động chuyển sang chức năng thu phí, nội dung thu là các dịch vụ đã được chỉ định
+cho bệnh nhân mà chưa thu phí.
+
+Tra cứu thông tin bệnh nhân: Tra cứu theo một số thông tin cơ bản như: Mã số,Họ
+tên, năm sinh, số CMT. Kết quả trả về danh sách bệnh nhân phù hợp.
+
+Chú ý: Phần mềm có các nút Thêm, Sửa Xóa, Ghi, Không ghi, Tìm kiếm. Trong đó
+nút Thêm sử dụng trong trường hợp thêm mới bệnh nhân cho một lần khám mới. Nếu
+bệnh nhân đã đăng ký khám trước đây, người dung chỉ cần nhập thông tin Mã số bệnh
+nhân, hoặc CMT, hoặc số thẻ BHYT (nếu là đối tượng BHYT), các thông tin khác sẽ hiển
+thị. Người dùng chỉ cần chỉ định thêm các dịch vụ y tế. Nút Sửa dùng trong trường hợp
+sửa các thông tin hành chính.
+
+Khám bệnh.
+
+~ __ Gọi bệnh nhân vào khám: Gọi từ danh sách bệnh nhân trong ngày, danh sách.
+này được chia theo tình trạng hiện tại (Chờ khám, Chờ KL, Đã KL, Tắt cả) Trạng thái chờ
+kết luận phải thể hiện xem bệnh nhân chờ do làm các loại XN nào, đã làm XN chưa, đã có
+đủ KQ xét nghiệm chưa nhằm mục đích cho bác sĩ chủ động gọi bệnh nhân vào kết luận.
+Chức năng này phải tích hợp lời gọi ra loa của nội bộ phòng khám.
+
+- __. Nhập các thông tin chẩn đoán sơ bộ, Sinh hiệu bệnh nhân (Sinh hiệu phải được.
+nhập theo quá trình).
+
+-___ Chỉ định dịch vụ ŒN, CĐHA, PT, TT) + in phiếu chỉ định (nếu cần).
+
+- __. Kết luận bệnh (Bằng lời và bằng mã ICD).
+
+- _ Kêđơn thuốc.
+
+s Thu phí dịch vụ
+
+-__ Ấp dụng với đối tượng dịch vụ:.
+
+~ __. Giao diện thể hiện các dịch vụ đã thu phí theo biên lai thu.
+
+- _ Các dịch vụ chưa thu phí phải được load ngay khi gõ mã khám bệnh để sẵn
+
+- _ Việc hủy phiếu thu phải hủy toàn bộ phiếu sau đó làm lại phiếu mới.
+~ __ Cho phép in lại biên lai.
+Nút tua để xem từng biên lai của bệnh nhân, xem tổng tiền từng biên lai và
+Tổng đền tắt cả các biên lai.
+s Thanh toán BHYT
+
+-__ Nhập mã khám bệnh, load thong tin hành chính của BN, load các chỉ phí đã
+được chỉ định.
+
+- Tự động tính % cùng chỉ trả, tính chỉ phí BN, BHYT (Căn cứ vào: Tuyến
+khám, mã thẻ BHYT, mức trần theo lương cơ bản...)
+
+- __ In mẫu Bảng kê chỉ phí BHYT của bệnh nhân (01, 02)ĐN).
+
+-_. Phần thống kê báo cáo trình bày ở phần 8 (Báo cáo ~ thống kê).
+
++ Ghi sinh hiệu
+
+- ___ Ghi sinh hiệu nhiều lần.
+
+~ ___ Vẽ biểu đỗ diễn tiến sinh hiệu (mạch, nhiệt độ, huyết áp)
+
+-___ Hiển thị sinh hiệu gần nhất ở modul Khám bệnh.
+
+- ___ Tại modul Khám bệnh cũng có nút Nhập sinh hiệu gọi giao diện này.
+e Nhập kết quả Xét nghiệm.
+
+- __. Dùng chung 01 giao điện cho Sinh hóa, Huyết học, Vi sinh, Miễn dịch.
+- _.. Dùng riêng giao diện cho Giải phẫu bệnh lý (như CĐHA).
+
+- __. Có chức năng ghép nối nhận số liệu từ LIS.
+
+- _ In phiếu kết quả XN.
+
+~___ Thông báo kết quả qua SMS cho bệnh nhân khi có kết quả XN.
+
+s Nhập kết quả CĐHA - TDCN.
+
+Nhập theo các mẫu do bác sĩ CĐHA lập.
+Phần mềm cung cắp một số mẫu chuẩn của các bộ phận (XQ, CT, SA. NS, ĐT,
+
+Lưu kết quả trên thư mục.
+Truyền số liệu dung FTP.
+e Báo cáo ~ Thống kê.
+-__ Báo cáo Tiếp đón.
+- __. Báo cáo Khám bệnh.
+- __. Báo cáo thu phí (theo ca, kíp, theo Nhóm chỉ phí...)
+-__ Báo cáo BHYT (biểu 20,21, 79a, 80a, ...)
+- __. Báo cáo tình hình chỉ định(Theo nhóm dịch vụ, theo bác sĩ chỉ định)
+-_ Báo cáo XN.
+-__ Báo cáo CĐHA - TDCN
+- __ Báo cáo chỉ định thuốc,
+Chú ý: Các báo cáo này chia theo nhóm, mỗi nhóm lấy một số báo cáo điền
+
+hình, thông dụng đưa lên giao diện chính.j- Ti thong XCp hang Khoa Xham Đẹnh:
+s Sơ đồ bồ trị
+
+     
+
+Bản tiếp đón 02
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+443Ó°917 {442L
+
+Phòng thêm sót |ÚT” ° | Phòng khám số
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&-3Ö "|
+
+Phỏng khám số 14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Khu vực 2 ị
+
+ 
+
+ 
+ 
+
+ng xếp hàng phòng khám
+s$+ô 4U
+
+Phỏng khám số 81
+
+ 
+
+ 
+
+'rv
+
+Phỏng khám số 14 s$+ô 4U
+
+Phỏng khám số 81
+
+ 
+
+ 
+
+-@°
+
+Phỏng khám số 14 $2”
+
+Phỏng khám số 14 4ô (8)
+
+Phỏng khám só 01 
+&A
+nà
+<,⁄3
+
+Bàn tiếp đón 01
+
+    
+
+ 
+
+==
+
+Phỏng khám sở 02
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phỏng khám số 15 LÚA _&42
+
+Phỏng khám só 02 Hệ thông triển khai tại 0¿ Khu vực: tiếp đón (Khu vực !) và các phòng khám của
+các bác sỹ khoa Khám bệnh (Khu vực 2).
+
+Yêu câu:
+
+Có mạng máy tính đến kết nối giữa khu vực tiếp đón và các phòng khám.
+
+Các phân hệ phần mềm Quản lý bệnh viện HIS thuộc khu vực phòng khám đã đi
+vào sử dụng.
+
+Hoạt động:
+
+Bệnh nhân đến và nhận số thứ tự tại khu vực chờ (tầng 1). Tại khu vực này bố trí
+máy cấp số thứ tự cỏ 03 nút (Quân, Bảo hiểm, Dịch vụ) để bệnh nhân bắm và lấy số theo.
+đúng đối tượng. Riêng bệnh nhân cấp cứu tại Phòng khám cắp cứu lưu không phải lây số
+thứ tự và xếp hàng. Trên thực tế, thời gian đầu cần bố trí 01 nhân viên (y tá) của Khoa
+Khám bệnh đẻ hướng dẫn và cấp số thứ tự cho bệnh nhân. Việc cắp số có thể bắt đầu sớm
+hơn giờ tiếp đón bệnh nhân khám bệnh để giảm sự lộn xộn tại khu vực tiếp đón. Hình thức
+phiếu thứ tự sau khi bệnh nhân bắm lấy số như hình dưới đây:
+
+     
+  
+  
+
+BỆNH VIÊN.
+PHIẾU THỨ TỰ KHÁM BỆNH
+(BHYT)
+
+68
+
+07h30° ngày 20/06/2010
+
+Bệnh nhân lấy số thứ tự và chờ ở khu vực chờ đăng ký.
+
+Các bàn tiếp đón có thể phân chia theo đối tượng (03 bàn Quân, Bảo hiểm, Dịch
+vụ) đồng thời cũng có thể hỗ trợ tiếp đón đối tượng khác khi cần phân tải lượng bệnh
+nhân. Khi tiếp đón xong một bệnh nhân, nhân viên tiếp đón bắm nút F7 trên bàn phím đẻ
+soi bệnh nhân tiếp theo, số thứ tự của bệnh nhân sẽ được hiển thị trên đèn LED trước bàn,
+đồng thời hệ thống loa sẽ tự động gọi bệnh nhân vào bàn tương ứng. Lời gọi bệnh nhân.
+như sau: “Mời bệnh nhân Bảo hiểm y tế số xxx đến bàn số I. Lời gọi này có thê được.
+nhắc lại một số lần nếu bệnh nhân vẫn chưa có mặt bằng cách bằm phím F8. Bản số 2 nêu
+bắm gọi sẽ tự động chuyển gọi bệnh nhân ké tiếp. Lời gọi bệnh nhân như sau: *Mời bệnh
+nhân Dịch vụ số yyy đến bàn số 2” hoặc “Mời bệnh nhân Bảo hiểm y tế số xxx + 1
+đến bàn số 2".
+BỆNH VIÊN.
+PHIẾU THỨ TỰ KHÁM BỆNH
+(BHYT,
+
+68
+
+07h30° ngày 20/06/2010 BỆNH VIÊN.
+PHIẾU THỨ TỰ KHÁM BỆNH
+(BHYT,
+
+68
+
+07h30' ngày 20/06/2010 Bệnh nhân đến làm thủ tục, nhân viên y tế nhập các thông tin hành chính trên
+modul Tiếp đón của phần mềm Quản lý Phòng khám, sau khi bệnh nhân nêu yêu cầu
+khám, nhân viên sẽ phân bệnh nhân lên các phòng phù hợp, bệnh nhân nhận phiếu khám
+và lên các phòng khám theo hướng dẫn trên ghỉ phiếu khám. Trên phiếu khám (in ra từ
+máy in nhiệt khổ K80) đã có tên phòng khám và số thứ tự cho bệnh nhân tại phòng khám
+đó (hình sau).
+
+PHIÊU KHAM BỆNH
+
+8N: NGUYÊN THỊ NGỌC MINH
+Năm sinh: 1938 Giớitính: Nữ
+Phòng khám:PK Tai mũi họng
+(Tầng 3)
+Thứ tự khám: 32
+Ngày 01 tháng 10 nằm 2010
+
+ 
+
+Tại các phòng khám: Đã triển khai 01 máy tính phục vụ chức năng Khám bệnh của
+phần mềm quản lý Phòng khám và 01 đèn LED ngoài cửa mỗi phòng khám. Nhân viên y
+tế tại mỗi phòng khám (bác sỹ, y t4) sử dụng phần mềm quản lý Phòng khám để gọi bệnh
+nhân vào theo thứ tự từ bộ phận tiếp đón cung cắp bằng cách chọn tên bệnh nhân và bám
+phím F7. Sau khi khám xong sẽ tiếp tục gọi bệnh nhân tiếp theo. Số thứ tự của bệnh nhân
+đang khám được hiển thị trên đèn LED của mỗi phòng khám. Nếu trong các phòng khám
+có trang bị hệ thống âm thanh (loa máy tính), phần mềm cũng có thể gọi tự động bệnh.
+nhân vào phòng đồng thời với việc gọi bằng đèn LED thông báo trước cửa phòng.
+
+Ngoài ra, bệnh viện có thể trang bị thêm các màn hình LCD kích thước lớn dọc
+hành lang khu vực phòng khám để hiển thị thông tin về bệnh nhân đang xếp hàng của từng.
+phòng khám trong khoa Khám bệnh cũng như một số thông tin khác (video clip quảng cáo.
+thuốc, dịch vụ kỹ thuật cao, thông tin nội bộ...).
+PHIÊU KHAM BỆNH
+(BHYT)
+
+8N; NGUYÊN THỊ NGỌC MINH
+Năm sinh: 1938 Giớitính: Nữ
+Phòng khám:PK Tai mũi họng
+(Tâng 3)
+Thứ tự khám: 32
+Ngày 01 tháng 10 nằm 2010 PHIÊU KHÀM BỆNH
+(BHYT)
+
+8N: NGUYÊN THỊ NGỌC MINH
+Năm sinh: 1938 Giớitính: Nữ
+Phòng khám:PK Tai mũi họng
+(Tầng 3)
+Thứ tự khám: 32
+Ngày 01 tháng 10 nằm 2010 4. Hệ Thống phần mềm xếp hàng Khoa Xét nghiệm:
+
+« Sơ đồ bố trí:
+
+ 
+
+BẢN LÂY BỆNH PHẢ
+
+  
+
+BẢN LÂY BỆNH PHÀ
+
+  
+   
+
++ Mô tả hoạt động
+Bệnh nhân khi có phiếu chỉ định làm các xét nghiệm máu (từ phòng khám hoặc các
+khoa) đến khu vực lấy phiếu, bắm nút và nhận phiêu thứ tự như hình vẽ sau:
+
+BV...../KHOA XâT NGHIDMI
+PHI0U TH Tô NắT NGHIÊM MÁU
+
+68
+
+(09h30` ngày 20/05/2010.
+
+   
+    
+
+ 
+
+ 
+
+ 
+
+Phiếu này sẽ do hệ thống điều khiên in tự động ra máy in nhiệt
+Khi đã có phiếu thứ tự. bệnh nhân ngồi tại khu vực chờ gọi đến lượt vào lây bệnh
+
+phâm
+k.. |
+
+mm TÃNG ÂM
+
+ 
+
+hiếu chỉ định làm các xét nghiệm máu (từ phòng
+
+ 
+
+0u, bấm nút và nhận phiếu thứ tự như hình vẽ sau
+
+   
+    
+
+P KHO: NGHIBM
+PHI0U TH Tô NắT NGHIÊM MÁU
+
+68
+
+(09h30` ngày 20/05/2010. B KHOA HIUM
+PHI0U TH Tô NắT NGHIÊM MÁU
+
+68
+
+09h30" nøàv 20/05/2010 N LÂY BỆNH PHẢ
+
+xố
+
+\ LÂY BỆNH PHÀ
+
+—_ và —
+
+N LÂY BỆNH PHẢ
+
+xố
+
+\ LÂY BỆNH PHÀ
+
+mm Tại các bàn lấy bệnh phẩm, y tá bấm nút “Gọi bệnh nhân tiếp theo”, số thứ tự của
+bệnh nhân sẽ được hiển thị trên đèn LED cửa phòng, đồng thời hệ thông loa sẽ tự động.
+soi bệnh nhân vào bàn tương ứng. Lời gọi bệnh nhân như sau: “Mời bệnh nhân số xxx vào
+bản số 1”. Lời gọi này có thể được nhắc lại một số lần nếu bệnh nhân vẫn chưa có mặt.
+Bàn tiếp theo nếu bấm gọi sẽ tự động chuyển gọi bệnh nhân kế tiếp. Lời gọi bệnh nhân
+như sau: “Mời bệnh nhân số xxx +1 vào bàn số 2"
+
+ 
+
+ 
+
++ Chú ý:
+
++í Việc có cho phép gọi lại các số thứ tự đã gọi qua mà không có bệnh nhân hay
+không sẽ do quy định của khoa xét nghiệm. Hệ thống cho phép gọi một số thự tự cụ thể tạ
+các bản.
+
+ 
+
++/ Nên chỉ vận hành hệ thống tại thời điểm có lưu lượng lớn bệnh nhân.
++/ Y tá khoa có thể phát hiện trường hợp bệnh nhân lấy số phiểu thứ tự trước khi có
+chỉ định bằng cách so sánh thời gian trên phiểu thứ tự và thời gian chỉ định xét nghiệm in
+
+trên phiếu chỉ định.

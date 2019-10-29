@@ -1,0 +1,114 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+Số: 63/VCNTT-KH Hà Nội, ngày 28 tháng 02 năm 2018
+.V/w kế hoạch khảo sát hệ thống tự động,
+kiểm tra đạn Kh35 thực hiện đề tài
+KC.T-30
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ Quyết định số 4999/QĐ-BQP ngày 9/11/2017 của Bộ Quốc
+phòng về việc phê duyệt kết quả xét duyệt thuyết minh, thẩm định kinh phí đề
+tài thuộc Đề án KHCN mã số KC-T, giai đoạn 2 mở năm 2017;
+
+Căn cứ vào Hợp đồng khoa học và phát triển công nghệ số
+3253/2017/HĐKHCN ngày 29/12/2017 giữa Cục Khoa học quân sự/BQP, Ban
+Chủ nhiệm Đề án KC-T và Viện Khoa học và Công nghệ quân sự, Viện Công
+nghệ thông tin, Chủ nhiệm đề tài,
+
+“Thực hiện thuyết minh đã được phê duyệt của đề tài cắp BQP thuộc Đề án
+KC-T: “Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa Kh-35Š
+dựa theo nguyên lý hoạt động của hệ thông ACK6.3”; Mã số KC.T-30.
+
+Viện Công nghệ thông tin đề xuất kế hoạch khảo sát hệ thống tự động
+kiểm tra đạn tên lửa Kh-35 (AKHIA 6.3, 3M-PK-01-1 như sau:
+
+1. Thành phần tham gia (dự kiến):
+
+1. Đại úy Dương Phú Tuấn, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+
+2. Thiếu tá Nguyễn Thái Hòa, Phòng KTHT/Viện CNTT/Viện KH-CNQS
+
+3. Thiếu tá Nguyễn Minh Thường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+4. Thiếu tá Vũ Hoàng Anh, Phòng KTHT/Viện CNTT/Viện KH-CNQS.
+
+5. Thiếu tá Tạ Bá Dũng, Viện thiết kế Vũ Khí.
+
+6. Thượng úy Phạm Trung Kiên, Phòng SH&ĐK/Viện CNTT/Viện KH-
+CNQS
+
+7. Thiếu tá Phù Phước Huy, Phòng SH&ĐK/Viện CNTT/Viện KH-CNQS
+
+8. Đại úy Dương Xuân Trà, Phòng SH&ĐK/Viện CNTT/Viện KH-CNQS
+
+9. Thiếu tá Nguyễn Trọng Thể, Phòng CNM/Viện CNTT/Viện KH-CNQS10. Thiếu tá Huỳnh Huy Cường, Phòng SHĐK/Viện CNTT/Viện KH-
+CNQS
+
+11. Thiếu tá Nguyễn Thanh Linh, Phòng CNM/Viện CNTT/Viện KH-
+CNQS
+
+12. Đại úy Dương Mạnh Cường, Phòng KTHT/Viện CNTT/Viện KH-
+CNQS
+
+II. Địa điểm: Căn cứ 696/Vùng 2 — Hải quân.
+
+II. Thời gian (dự kiến):
+
+- Đợt Ï: từ 15/3/2018 đến 15/4/2018.
+
+- Đợt 2: từ 14/5/2018 đến 14/6/2018.
+
+- Đợt 3: từ 1/8/2018 đến 31/8/2018.
+
+- Đợt 4: từ 3/12/2018 đến 14/12/2018.
+
+(Nội dung khảo sát trong phục lục kèm theo công văn này).
+
+Kính đề nghị Phòng TM-KH xem xét và báo cáo Ban Giám đốc Viện
+KHCNG®S liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ đoàn
+công tác Viện Công nghệ thông tin hoàn thành nhiệm vụ. |ÑW# ”
+
+Nơi nhận:
+
+-nh
+~ Lưu: VT, KH; H03.
+
+  
+
+rung tá Đỗ Việt Bình(Kèm theo công
+Thu dữ liệu trao đổi giữa đạn tên lửa và hệ thống
+AKHIA 6.3 trong tất cả các chế độ kiểm tra và làm
+việc với đạn cho hai loại đạn: đạn học tập và đạn
+chiến đấu của lô đạn 2009, 2010 Thu dữ liệu trao đổi giữa đạn tên lửa và hệ thống
+AKHIA 6.3 trong tất cả các chế độ kiểm tra và làm
+việc với đạn cho hai loại đạn: đạn học tập và đạn
+chiến đấu của lô đạn 2009, 2010 Thu dữ liệu trao đổi giữa đạn tên lửa và hệ thống
+3M-PK-01-1 trong tất cả các chế độ kiểm tra và
+làm việc với đạn cho hai loại đạn: đạn học tập và
+đạn chiến đấu của lô đạn 2009, 2010 Khảo sát, đo đạc chỉ tiết cấu tạo và các thành
+phần trong hệ thống 3M-PK-01-1. 
+Khảo sát, đo đạc cơ khí toàn bộ các thành phần
+của hệ thống tự động kiểm tra, chuẩn đoán hỏng
+hóc (ACK) đạn tên lửa Kh-35 : 3H-PK-01-1 Nội dung khảo sát Căn cứ 696 thực hiện
+các quy trình kiểm tra
+đạn trong các chế độ.
+Tổ đề tài thực hiện thu
+dữ liệu
+
+Ghi nhật ký, thu thập
+dữ liệu Căn cứ 696 thực hiện
+các quy trình kiểm tra
+đạn trong các chế độ.
+Tổ đề tài thực hiện thu
+dữ liệu
+
+Ghi nhật ký, thu thập
+đữ liệu 
+Tổ để tài tiến hành đo
+đạc nguội các bảng
+mạch điện trong hệ
+thống 3M-PK-01-1. Tổ đề tài phối hợp với
+Căn cứ 696 Ghi chú 

@@ -1,0 +1,204 @@
+VIÊN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Số: 5# /VCNTT-KH tà Nội, ngàu2ftháng 9 năm 2016
+_V/ báo cáo tiến độ kết quả sử dụng
+kinh phí đề tài, nhiệm vụ năm 2016 và
+nhu cầu kinh phí NSQP. thường xuyên
+năm 2017,
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ vào công văn số 233/TMKH-KHCN&MT ngày 19/9/2016 của
+Phòng Tham mưu — Kế hoạch/Viện KHCNQS về việc báo cáo tiến độ kết quả sử
+đụng kinh phí đề tài, nhiệm vụ năm 2016 và nhu cầu kinh phí NSQP thường
+Xuyên năm 2017,
+
+'Viện Công nghệ thông tin xin báo cáo:
+
+1. Kết quả đạt được, những công việc chính của từng đề tài, nhiệm vụ
+chuyển tiếp năm 2016:
+
+Đề tài KC-T.11 “Nghiên cứu, thiết kế hệ thống tổ hợp thiết bị điều khiển
+phóng tên lửa KACV 3P-60V2-12418 và thiết kế, chế thử máy KB163TT°:
+
+~ Hoàn thiện chế tạo tủ KB163P-VN,
+
+~ Thử nghiệm sản phẩm tại Lữ 162/Vùng 4 HQ.
+
+- Dịch ngược các phần mềm đúng nội dung và đầy đủ.
+
+~ Hoàn thiện các tài liệu báo cáo, tài liệu kỹ thuật, bộ chỉ tiêu kỹ thuật.
+
+~ Tổ chức seminar tại Phòng họp tằng 10 Viện CNTT,
+
+~ Đã nộp hồ sơ, đang chờ nghiệm thu cấp cơ sở.
+
+Đề tài KC-T.09 “Nghiên cứu, thiết kế, chế thử giá kiểm tra hệ thống điều
+khiển quán tính (ICY) II-074 của đạn tên lửa Kh-35E”:
+
+~ Hoàn thành các nội dung nghiên cứu.
+
+~ Hoàn thiện bộ chỉ tiêu kỹ thuật.
+
+~ Tổ chức hội thảo Phòng họp tầng 10 Viện CNTT.
+
+- Hoàn thiện chế tạo thiết bị giá kiểm tra 1074.
+
+_ Đang thử nghiệm sản phẩm tại căn cứ 696/Vùng 2 HQ để hoàn thiện sản
+phẩm chuẩn bị nghiệm thu,
+
+2. Tóm tắt kết quả nghiên cứu các đề tài nghiên cứu cấp cơ sở (sử dụng
+ngân sách quốc phòng):
+
+Nhiệm vụ KHCN bảo vệ môi trường “Xây dựng chương trình cơ sở dữ
+liệu thông tin phục vụ quản lý môi trường trong Quân đội”:~ Nghiên cứu và liệt kê các loại dữ liệu báo cáo hiện trạng môi trường của
+các đơn vị đầu mối trong toàn quân và dữ liệu về đánh giá tác động môi trường,
+của các dự án đầu tư trong Quân đội;
+
+~ Nghiên cứu và liệt kê các thông tin trong báo cáo hiện trạng môi trường
+và thông tin trong báo cáo đánh giá tác động môi trường, lựa chọn các thông tin
+chính đưa vào quản lý trong nhiệm vụ;
+
+~ Thu thập dữ liệu, thông tin của các báo cáo về hiện trạng môi trường của.
+53 đơn vị đầu mối trong toàn quân;
+
+- Thu thập dữ liệu, thông tin của các báo cáo về đánh giá tác động môi
+trường của 180 dự án được đầu tư trong Quân đội.
+
+- Thiết kế, „xây dựng cơ sở dữ liệu thông tin về hiện trạng môi trường của
+53 đơn vị đầu mối trong toàn lữ liệu về đánh giá tác động môi trường của.
+180 dự án đầu tư trong Quân đội: Bộ cấu trúc dữ liệu về hiện trạng môi trường,
+Bộ cấu trúc dữ liệu về đánh giá tác động môi trường;
+
+~ Thiết kế, xây dựng, phần mềm quản lý cơ sở dữ liệu về hiện trạng môi
+trường của các đơn vị đầu mối trong toàn quân và dữ liệu về đánh giá tác động,
+môi trường của các dự án đầu tư trong Quân đội.
+
+3. Viện Công nghệ thông tin đề xuất 03 đề tài nghiên cứu khoa học cấp cơ
+sở năm 2017 sử dụng ngân sách đảm bảo quốc phòng:
+
+- Nghiên cứu khảo sát khối ổn định xung 468353.004 và khối nguồn
+MAA300-1C27CYH của đài dẫn bay gần 4N tại trung đoàn 923 Quân chủng
+PKKQ, phục vụ sửa chữa, thiết kế chế tạo.
+
+- Nghiên cứu bộ công cụ phát triển phần mềm của phần mềm phân tích
+mã IDA để xây dựng các plugin hỗ trợ phân tích, dịch ngược các phần mềm
+nhúng trên vũ khí, trang bị.
+
+- Nghiên cứu phương pháp tự động nhận dạng, phân tích các đoạn mã nhị
+phân thường gặp trong các phần mềm có sẵn trên vũ khí, trang bị.
+
+(Chi tiết trong phụ lục kèm theo)
+Kính chuyển Phòng Tham mưu — Kế hoạch xem xét. ,/Z'
+
+    
+
+      
+ 
+
+“IỆN TRƯỞNG
+
+Nơi nhận: xen
+
+~ Như trên;
+- Lưu: VT, KH; H03.
+
+ïñg tá Đỗ Việt Bình
+
+ 
+
+ 
+
+TM
+
+ÍPhụ lục I
+Kinh phí đề tài, nhiệm vụ, dự án KHCN và MT thực hiện năm 2017 sử dụng ngân sách bảo đảm quốc phòng
+(Kèm theo Công văn số 354/VCNTT-KH ngày J†tháng 9 năm 2016)
+
+Tông kinh phí thực hiện năm 2017:............
+Bằng chữ:
+"Tông cộng Đề tài, nhiệm vụ mở mới
+2017 Nghiên cứu, thiết kẻ, chế thị
+
+giá kiểm tra hệ thông điều
+khiển quán tính (CY) IỊ
+074 của đạn tên lửa Kh-35E Nghiên cứu, thiết kế hệ
+hi tổ hợp thiết bị điều
+khiển phóng tên lửa KACY
+3P-602-12418 và thiết kế,
+chế thử máy KB163II 
+Đê tài, nhiệm vụ chuyên
+tiếp 2016 ĐE TÀI, NHIỆM VỤ
+CÁP BỌP Nội dung 6.950.000.000 
+8.500.000.000 Tổng KP
+được duyệt 12/2013—
+12/2015 (đã
+gia hạn đến
+
+06/2016) 05/2016 
+Thời gian
+bắt đầu, kết
+thúc 2.150.000.000 KP chưa
+thực hiện
+2015 chuyển
+ca. 00.000.000. 
+KP cấp năm
+2016 2.150.000.000 1.696.000.000. Lũy kế cẤp
+đến 2016 
+2.150.000.000 696.000.000 Ước thực
+hiện năm
+2016 Dự kiên
+
+KP thực
+
+hiện năm
+2017 Phụ lục II
+Kết quả năm 2016 và đề xuất đề tài nghiên cứu khoa học cẤp cơ sở năm 2017 sử dụng ngân sách đảm bảo quốc phòng
+(Kèm theo Công văn số 35†/VCNTT-KH ngày J tháng 9 năm 2016)
+'Thực hiện năm 2016 Nội dung 'Thực hiện năm 2017 Xây dựng chương trình cơ sở dữ liệu thông tin.
+phục vụ quản lý môi trường trong Quân đội 
+Nghiên cứu phương pháp tự động nhận dạng, phân
+tích các đoạn mã nhị phân thường gặp trong các
+phần mềm có sẵn trên vũ khí, trang bị. Nghiên cứu bộ công cụ phát triển phân mêm của.
+
+mềm phân tích mã IDA để xây dựng các
+plugin hỗ trợ phân tích, dịch ngược các phần mềm.
+nhúng trên vũ khí, trang bị. Nghiên cứu khảo sát khôi ổn định xung
+468353.004 và khối nguồn MAA300-IC27CYH
+của đài dẫn bay gần 4N tại trung đoàn 923 Quân
+chủng PKKQ, phục vụ sửa chữa, thiết kế chế tạo. 30.000.000 
+Kinh phí thực
+hiện 60.000.000 60.000.000 60.000.000 
+12/2017 12/2016 Hoàn thành
+(tháng, năm) 12/2017 
+12/2017 Đang thực hiện theo tiên độ Kết quả nghiệm thu ~ Tài liệu chuyên để nghiên cứu phương pháp tự động
+nhận dạng, phân tích các đoạn mã nhị phân.
+
+qLC9 sở dữ iu các đoạn mã nhị phân thường gập trong
+thực tế.
+
+- Bộ module phần mềm hỗ trợ cập nhật, tra cứu, tìm kiếm
+cơ sở dữ liệu các đoạn mã nhị phân.
+
+- Module phần mềm tự động nhận dạng các đoạn mã nhị
+phân thường gặp. _
+
+~ Module phân mềm tích hợp cho công cụ IDA tự động
+nhận dạng và đánh dấu các đoạn mã nhị phân. 
+~ Tài liệu chuyên để nghiên cứu bộ công cụ phát triển
+phần mềm của IDA.
+
+~ Tài liệu chì vuên 6 đề nghiên cứu phương pháp xây dựng
+plugin cho phần mềm IDA..
+
+- Bộ module phần mềm hỗ trợ phân tích, dịch ngược phần
+mềm chuyên dụng. Hai khôi ôn định xung 468353.004 và khỏi nguôn
+MAA300-1C27CYH của đài dẫn bay gần 4N hoạt động
+tốt. Tỗng cộng
+
+170.000.000.
+
+ 
+
+'Tổng kinh phí thực hiện năm 2017: 170.000.000 VNĐ.
+Bằng chữ: Một trăm bảy mươi triệu đồng.

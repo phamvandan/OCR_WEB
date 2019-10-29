@@ -1,0 +1,673 @@
+VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN 'Độc lập - Tự do - Hạnh phúc
+Só:#H/BC-VCNTT Hà Nội, ngày 10 tháng 6 năm 2019
+BÁO CÁO
+
+'Kết quả công tác KHCN&MT 6 tháng đầu năm và phương hướng
+nhiệm vụ 6 tháng cuối năm 2019
+
+Phần I
+KÉT QUẢ CÔNG TÁC KHCN&MT 6 THÁNG ĐẦU NĂM
+
+I. CÔNG TÁC KHCN&MT.
+
+ 
+
+Viện đừng" thực hiện 24 đề tài, dự án nhiệm vụ KHCN các cấp gồm 02 cấp
+nhà nước; 08 cấp BQP 04 cấp Viện KHCNQS, 04 nhiệm vụ hoàn thiện sản phẩm
+nghiên cứu; 04 đề tài cấp Sở KHCN tỉnh, thành phố; 02 đề tài dành cho cán bộ trẻ.
+
+Triển khai thực hiện các đề tài thuộc các chương trình, đề án đảm bảo tiến độ,
+các kết quả chính như sau:
+
+- Dự CNC cắp Nhà nước (Mã số: CNC.M03.DAHT/2018): đã biên tập, chuẩn
+hóa bộ dữ liệu hải đồ số; Thiết kế hệ thống phần mềm hỗ trợ tác nghiệp, tính toán,
+thể hiện phương án tác chiến biển đảo trên nền hải đồ số và sa bàn số 3D.
+
+- Đề tài cấp Nhà Nước (Mã số: KC.01.18/16-20): xây dựng IPcore thực hiện
+chức năng xử lý thông tin gói tin Ethernet, xây dựng MAC table; Xây dựng IPcore
+xử lý gói tin Ethernet, Xây dựng IPCore các module Bus dữ liệu; Thiết kế, xây
+dựng module MAC address table processing, port processing.
+
+- Đề tài cấp BQP (Mã số: KC.BM.04): đã phối hợp với Trường Trung cắp Kỹ
+thuật Công binh kiểm thử các sản phẩm của Nhánh 1 và Nhánh 2 đề tài.
+
+- Các đề tài cắp BQP thuộc đề án KC.T giai đoạn 2:
+
++ Đề tài KC.T-27: Đã thực hiện khảo sát khối máy tính trên khoang BIIBM-
+20-701 tại Căn cứ 696/Vùng 2- Hải quân; Đã phê duyệt bộ chỉ tiêu chiến-kỹ thuật
+các sản phẩm của đề tài.
+
++ Đề tài KC.T-28: Đã tổ chức Hội thảo bộ chỉ tiêu chiến-kỹ thuật các sản
+phẩm của đề tài, đang xin ý kiến của Quân chủng Hải quân để hoàn thiện và xin
+phê duyệt bộ chỉ tiêu chiến-kỹ thuật.
+
++ Đề tài KC.T-30: Đã phê duyệt bộ chỉ tiêu chiến-kỹ thuật của thiết bị phân
+tích dữ liệu và thiết bị mô phỏng tên lửa Kh-35E. Đang triển khai thử nghiệm thiết
+bị phân tích dữ liệu, thiết bị mô phỏng tên lửa Kh-35E tại Căn cứ 696/Vùng 2- Hải
+quân.+ Đề tài KC.T-32: Đã phê duyệt bộ chỉ tiêu chiến-kỹ thuật của thiết bị tạo giả
+TG-S074. Đang triển khai thực hiện khảo sát khối S-074 của lô đạn 2010 tại Căn
+cứ 696/Vùng 2- Hải quân.
+
+Nghiệm thu cở sở 01 đề tài cấp BQP (Mã số: KC.T-22), đang hoàn thiện hồ
+sơ chuẩn bị nghiệm thu cấp quản lý.
+
+Xây dựng thuyết minh chuẩn bị bảo vệ thuyết minh 02 đề tài cấp BỌP thuộc
+Chương trình KC.KT (CNĐT: 4/ Nguyễn Tuấn Anh ngày 11/6/2019; 2// Đỉnh Văn
+Ngọc ngày 14/6/2019).
+
+Nghiệm thu cấp quản lý 03 đề tài cấp Viện KHCNQS (CNĐT: 2// Nguyễn
+Sinh Huy; 2// Nguyễn Thái Học; 4/ Nguyễn Duy Nam) trong đó 01 đề tài (CNĐT:
+2// Nguyễn Thái Học) nghiệm thu xuất sắc.
+
+Chuẩn bị nghiệm thu cơ sở 01 để tài cấp Sở KHCN tỉnh Long An (CNĐT: 1//
+Phù Phước Huy) dự kiến ngày 20/6/2019.
+
+Bảo vệ thuyết minh và kinh phí 01 đề tài cấp Sở KHCN tỉnh Đồng Nai
+(CNĐT: 1⁄ Hoàng Tuấn), chuẩn bị ký hợp đồng triển khai thực hiện.
+
+"Thẩm định hồ sơ thiết kế đóng “A” 02 nhiệm vụ hoàn thiện sản phẩm nghiên
+cứu (CNNV: 2// Nguyễn Thái Học; 1// Nguyễn Trọng Thể) và hoàn thiện hồ sơ sau
+thẩm định chuẩn bị đóng dấu “A”.
+
+Nghiệm thu cấp Viện CNTT 01 nhiệm vụ hoàn thiện sản phẩm nghiên cứu
+(CNNV: 4/ Nguyễn Tuấn Anh), hoàn thành hỗ sơ thiết kế chuẩn bị họp thẩm định
+hồ sơ thiết kế.
+
+Nhiệm vụ hoàn thiện sản phẩm nghiên cứu (CNNV: 4/ Đỗ Xuân Ngọc): Thử
+nghiệm khối BMI với tên lửa thật theo yêu cầu của Quân chủng Hải quan làm cơ
+sở để phê duyệt bộ chỉ tiêu chiến-kỹ thuật.
+
+Nghiệm thu 01 đề tài trẻ (CNĐT: 1⁄ Lê Phú Cường). Xét duyệt thuyết minh,
+triển khai thực hiện 01 đề tài dành cho cán bộ trẻ (1// Nguyễn Cảnh Hùng).
+
+Kiểm tra tiến độ dự án CNC cắp nhà nước (Mã số: CNC.M03.DAHT/2018)
+và đề tài cấp BQP (Mã số: KC.BM.04) theo kế hoạch của Cục Khoa học quân sự;
+04 đề tài cấp BQP thuộc đề án KC.T giai đoạn 2 theo kế hoạch của Ban Chủ nhiệm
+để án; các đề tài theo kế hoạch Viện KHCNQS kiểm tra tiến độ đợt 1 năm 2019.
+
+Tiếp tục đề xuất, mở mới các để tài: chương trình KC-4.0/19-25 đề xuất 02 đề
+tài, nhiệm vụ (CNĐT: 3// Nguyễn Nhật An; 4/ Đặng Hoàng Minh); Chương trình
+nghiên cứu nền 2020 của Viện KHCNQS đề xuất mở mới 02 đề tài (CNĐT: 3//
+Nguyễn Nhật An; 1⁄/ Phạm Văn Hậu).
+
+1.2. Nhiệm vụ
+
+Triển khai trưng bảy các sản phẩm tại Hội nghị Quân chính BQP và Hội nghị
+Quân chính Viện KHCNQS, tại Lễ Tổng kết và Trao giải thưởng TSTT trong
+Quân đội XIX theo kế hoạch của Viện KHCNQS.
+
+Thực hiện các nội dung kỷ niệm 45 năm ngày truyền thống của Viện CNTT
+
+315/4/1974-15/4/2019 (Hội thảo khoa học; Đón nhận Huân chương).
+
+Thực hiện nhiệm vụ Tổng điều tra dân số nhà ở BQP năm 2019: Đã nghiệm
+thu xong (hơn 600.000 phiếu) vào ngày 31/5/2019, trước 10 ngày so với quy định,
+đã tông hợp số liệu cho BQP và chờ bàn giao cho TCTK nhà nước.
+
+“Triển khai các nhiệm vụ theo kế hoạch, chỉ đạo của cơ quan cấp trên.
+
+2. Hoạt động KHCN, hợp tác QBC:
+
+Tổ chức khảo sát hệ thống BIUS-SIGMA tại Vùng 4 Hải quân. Hoàn thành
+sửa chữa tổ hợp chế áp điện tử MP-405 và thiết bị thông tin Oliva-2 trên hai tàu
+382 và 383.
+
+“Tập huấn phần mềm “phần mềm quản lý xăng dầu, phương tiện kỹ thuật — vật
+tư xăng dầu trong Quân đội” cho toàn quân.
+
+Triển khai xây dựng các phần mềm và tư vấn lập dự án, thiết kế thi công —
+tổng dự toán và giám sám thi công các dự án cho nhiều đơn vị trong và ngoài quân
+đội.
+
+“Tiếp tục bảo trì và hỗ trợ các đơn vị sử dụng các phần mềm đã triển khai.
+
+Chủ động làm việc với các đơn vị trong và ngoài quân đội xây dựng các hợp
+đồng.
+
+3. Hoạt động hợp tác về KHCN.
+
+Phối hợp với các cơ quan chức năng mở rộng và đây mạnh các hoạt động hợp
+tác KHCN với các đơn vị trong và ngoài quân đội nhằm đẩy mạnh các hoạt động
+nghiên cứu cũng như nhanh chóng nắm bắt, làm chủ các công nghệ mới.
+
+Hợp tác quốc tế về KHCN theo chỉ đạo của Viện KHCNQS.
+
+4. Về đầu tư phát triển tiềm lực KHCN.
+
+Đề xuất các trang thiết bị mua sắm năm 2019 phục vụ nghiên cứu của Viện.
+
+II. CÔNG TÁC ĐÀO TẠO
+
+Bảo vệ luận án cấp Viện KHCNQS cho 02 NCS; Bảo vệ cơ sở 01 NCS; Đề
+nghị bảo vệ cấp Viện KHCNQS cho 02 NCS; Đề nghị Hội thảo luận án 01 NCS;
+Tổ chức thì TUTT và CĐTS cho 03 NCS, chuẩn bị thi TLTT và CĐTS cho 01
+NGŒS.
+
+Tổ chức học và thi các học phần bắt buộc và tự chọn cho NCS khóa 2018.
+
+Tổ chức Hội đồng tuyển sinh chuyên ngành năm 2019.
+
+Đề nghị gia hạn học tập cho các NCS sắp hết hạn học tập đủ điều kiện gia
+hạn.
+
+IV. CÔNG TÁC THÔNG TIN KHQS VÀ TẠP CHÍ
+
+Phối hợp với Tạp chí của Viện KHCNQS triển khai xuất bản chuyên san của
+'Viện năm 2019 kỷ niệm 45 năm ngày truyền thống của Viện CNTT.
+
+Tổ chức tốt các buổi Hội thảo chuyên để theo yêu cầu của công tác nghiên
+cứu.
+
+Ð
+ó0 tụ,
+
+⁄‹V. CÔNG TÁC KỸ THUẬT
+
+'Tổ chức kiểm kê 0h00 ngày 01/01/2019.
+
+Triển khai thực hiện Cuộc vận động 50 theo hướng dẫn của cơ quan cấp trên,
+Hưởng ứng Tuần lễ AT-VS-PCCN.
+
+VI. QUÂN LỰC
+
+Thực hiện nâng lương, nâng bậc, chuyển ngạch, chuyển nhóm và phiên quân
+hàm cho cán bộ thuộc khối Quân lực quản lý theo quy định (06 đ/c nâng lương, 01
+đức chuyển ngạch).
+
+Phần I
+PHƯƠNG HƯỚNG NHIỆM VỤ 6 THÁNG CUÓI NĂM 2019
+
+I.CÔNG TÁC KHCN-MT.
+
+1. Đề tài, nhiệm vụ:
+
+1.1. Đề tài:
+
+Chủ động phối hợp với Quân chủng Hải quân đề nghị thử nghiệm một số kết
+quả nghiên cứu của dự án CNC cấp nhà nước (Mã số: CNC.M03.DAHT/2018)
+phục vụ diễn tập của QCHQ tháng 9/2019.
+
+Nghiệm thu cấp quản lý đề tài cấp BQP (Mã số: KC.T-22), tập trung phán đầu
+hoàn thành 02 đề tài cắp BQP (Mã số: KC.T-27 và KC.T-28) trong năm 2019.
+
+Hoàn thành các nội dung nhánh 1 và nhánh 2 của đề tài cấp BQP (Mã số:
+KC.BM.04).
+
+Thâm định kinh phí, ký hợp đồng và triển khai thực hiện 02 đề tài cấp BQP
+thuộc Chương trình KC.KT (CNĐT: 2// Đỉnh Văn Ngọc; 4/ Nguyễn Tuần Anh)
+
+Nghiệm thu cấp quản lý 01 đề tài cấp Sở KHCN tỉnh Đồng Nai (CNĐT: 1//
+Phù Phước Huy)
+
+Nghiệm thu các cấp 01 đề tài cấp Viện KHCNQS (CNĐT: 2// Nguyễn Văn
+Sơn) và 01 đề tài cắp Tp.HCM (CNĐT: 4/ Phạm Thị Hồng Thanh).
+
+Đóng dấu “A” hồ sơ thiết kế 02 nhiệm vụ hoàn thiện sản phẩm nghiên cứu
+(CNNV: 2// Nguyễn Thái Học; 1// Nguyễn Trọng Thể).
+
+Thẩm định và đóng dấu “A” hồ sơ thiết kế nhiệm vụ hoàn thiện sản phẩm
+nghiên cứu (CNNV: 4/ Nguyễn Tuần Anh),
+
+Phê duyệt chỉ tiêu chiến - kỹ thuật, nghiệm thu, thâm định và đóng dấu “A”
+hỗ sơ thiết kế nhiệm vụ hoàn thiện sản phẩm nghiên cứu (CNNV: 4/ Đỗ Xuân
+Ngọc)
+
+Ký hợp đồng và triển khai thực hiện 01 đề tài cấp Sở KHCN tỉnh Đồng Nai
+(CNĐT: 1⁄/ Hoàng Tuần).
+
+Bảo vệ đầu vào và triển khai thực hiện 01 đề tài cấp Tp.HCM “Nghiên cứu
+xây dựng bộ công cụ hỗ trợ công tác chuẩn bị bay huắn luyện cho trung đoàn SU-
+30MK2” (CNĐT: 1⁄/ Nguyễn Khắc Điệp)Triển khai đảm bảo tiến độ các đề tài đang thực hiện.
+
+1.2. Nhiệm vụ:
+
+Triển khai các nhiệm vụ theo kế hoạch, chỉ đạo của cơ quan cắp trên.
+
+2. Hoạt động KHCN, hợp tác QBC:
+
+Đảm bảo kế hoạch thực hiện các hợp đồng. đang triển khai.
+
+Chủ động tiếp cận, xây dựng các hợp đồng với các đơn vị trong và ngoài đơn
+vị.
+
+3. Hoạt động hợp tác về KHCN.
+
+Tiếp tục phối hợp với các cơ quan chức năng mở rộng và đây mạnh các hoạt
+động hợp tác KHCN với các đơn vị trong và ngoài quân đội cũng như với các đối
+tác nước ngoài nhằm thúc đẩy mạnh hơn nữa các hoạt động nghiên cứu cũng như
+nhanh chóng nắm bắt, làm chủ các công nghệ mới của thế giới.
+
+4. Về đầu tư phát triển tiềm lực KHCN.
+
+Tổ chức khai thác tốt trang thiết bị của Viện đáp ứng hiệu quả công tác
+nghiên cứu.
+
+Tổ chức mua sắm các trang thiết bị năm 2019 phục vụ nghiên cứu của Viện.
+
+II. CÔNG TÁC ĐÀO TẠO
+
+Đề nghị Hội thảo luận án cho 01 NCS, tổ chức Hội thảo 02 NCS.
+
+Đề nghị bảo vệ cơ sở cho 02 NCS.
+
+Kiểm tra tiến độ NCS đợt 2 năm 2019.
+
+Triển khai công tác đào tạo theo kế hoạch đã được phê duyệt.
+
+IV. CÔNG TÁC THÔNG TIN KHQS VÀ TẠP CHÍ
+
+Gửi đăng các bài báo trên Tạp chí của Viện KHCNQS công bố kết quả nghiên
+cứu của một số đề tài, nhiệm vụ.
+
+Tổ chức tốt các buổi hội thảo chuyên để theo yêu cầu của công tác nghiên cứu
+
+V. CÔNG TÁC KỸ THUẬT - QUÂN LỰC
+
+Tổ chức thực hiện tốt công tác đảm bảo trang bị, bảo đảm kỹ thuật.
+
+Tích cực, chủ động tạo nguồn vật tư, đồng bộ trang bị, đáp ứng kịp thời yêu
+cầu nhiệm vụ của Viện; tăng cường quản lý, khai thác sử dụng trang thiết bị đã và
+đang được đầu tư. øf—
+
+Nơi nhận:
+~ Phòng TM-KH/Viện KHCNQS;
+~Lưu: VT, KH; H03.
+
+ 
+
+fÿ/£. a `\&\PHỤ LỤC
+
+Danh mục đề tài, nhiệm vụ KHCN Viện Công nghệ thông tin
+
+ 
+
+Thời gian
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài |_ ,gp Km) ke Ho, tNn Ghi chú
+Cấp nhà nước
+Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính toán, Eo ng ——
+thể hiện phương án tác chiến biễn đảo trên nền hải đồ số và sa |_ ”” à¬ Bức th 95.950 nỶện =. HiệT thếØ
+bàn số 3D, Mã số: CNC.M03.DAHT/2018 : `
+Nghiên cứu thiết kế, chế tạo thiết bị chuyên mạch (Switch) có tớ. -
+tính năng an toàn, bảo mật thông t trên nền tàng FPGA và | 2// Thái Trung Kiên | 1o 2p .o 6.865 Triển khai thực hiện
+mã nguồn mở, Mã số: KC.01.18/16-20
+Đề tài, nhiệm vụ cấp BỌP.
+Chương trình KC-BM.
+Nghiên cứu, thiết kễ, xây dựng các hệ thống mô phòng huần m "Triển khai thực hiện theo.
+luyện, đào tạo phục vụ cho nhiệm vụ rà phá bom mìn, vật nổ, | _ 3⁄/ Đỗ Việt Bình 042000 52.900. ti: đ)
+Mã số: KC.BM.04.
+Theo ĐỀ án KC-T giai đoạn 1T
+Nghiên cứu thiết kế và chế tạo khổi chức năng IIIHI9, Xu l Triển khai thực hiện theo.
+IIBB34 trong máy tính trên khoang BHBM-20-701 của đạn |_ lNguyễn Minh TS h 7.160 tiến độ
+tên lửa 3M-242, Mã số: KC-T.27 Thường.
+Nghiên cứu ¡ tự động kiêm tra tình trạng 08/2017- Nghiệm thu cơ sở ngày
+kỹ thuật khối BMI của hệ thống tự động điều khiển phóng tên | 1 Phạm Xuân Công | _ g2/201ọ 4.400 02/04/2019. Kết quả đạt
+lửa trên tàu KACY 3P-60Y2-1241.8. Mã số: KC-T.22
+Nghiên cứu, thiết kế chế tạo và thử nghiệm máy KY16311 Triễn khai thực hiện theo
+thuộc hệ thống tự động điều khiển phóng tên lửa trên tàu dựa tiến độ
+trên nguyên mẫu KV1631| của tổ hợp KACV 3P-60V2- z 08/2017-
+12418. Lắp ráp hoàn chỉnh hệ thống KACY 12418-VN có | %/ Phạm Hồng Long | _ 07/2020 04600
+chức năng tương đương KACY 3P-60Y2-12418, Mã số: KC-
+T28
+Hoàn thiện thiết kế và qui trình công nghệ chế tạo thiết bị 122017- 1450 “Triển khai thực hiện theo.
+
+ 
+
+2/! Nguyễn Thái Hòa
+
+ 
+
+ 
+
+ 
+
+ 
+
+\â0 Z\ @
+Nghiên cứu, thiết kê chê tạo và thử nghiệm máy KY163I1
+thuộc hệ thống tự động điều khiển phóng tên lửa trên tàu dựa
+trên nguyên mẫu KV1631| của tổ hợp KACY 3P-60V2-
+12418. Lắp ráp hoàn chỉnh hệ thống KACY 12418-VN có
+chức năng tương đương KACY 3P-60Y2-12418, Mã số: KC-
+T28 "Nghiên cứu thiệt kế chẻ tạo thiết bị tự động kiêm tra tình trạng
+kỹ thuật khối BMI của hệ thống tự động điều khiển phóng tên
+lửa trên tàu KACY 3P-60V2-1241.8, Mã số: KC-T.22 Nghiên cứu thiệt kê và chế tạo khôi chức năng IIIITI9,
+IIBB34 trong máy tính trên khoang BIIBM-20-701 của đạn
+tên lửa 3M-242, Mã C.T27 Theo Đề án KC-T giai đoạn II 
+Nghiên cứu, thiết kê, xây dựng các hệ thông mô phỏng huân
+luyện, đào tạo phục vụ cho nhiệm vụ rà phá bom mìn, vật nỗ, Chương trình KC-BM. Đề tài, nhiệm vụ cập BỌP. Nghiên cứu thiết kê, chê tạo thiết bị chuyên mạch (Switch) có.
+tính năng an toàn, bảo mật thông tỉn trên nền tảng FPGA và
+mã nguồn mở, Mã số: KC.01.18/16-20 
+Nghiên cứu, thiết kê, xây dựng hệ thông tác nghiệp, tính toán,
+thể hiện phương án tác chiến biển đảo trên nẻn hải đồ số và sa
+bàn số 3D, Mã số: CNC.M03.DAHT/2018 'Tên đề tài, nhiệm vụ KHCN 2/! Nguyễn Thái Hòa 4// Phạm Hồng Long. 
+1⁄ Phạm Xuân Công 1// Nguyễn Minh
+Thường 3// Đỗ Việt Bình 2// Thái Trung Kiên 
+2// Thái Trung Kiên Chủ nhiệm đề tài 2// Nguyễn Đức
+Định 12/2017- 
+08/2017-
+07/2020 08/2017-
+02/2019 08/2017-
+02/2020 11/2017-
+04/2020 
+11/2018-
+10/2020 06/2018-
+06/2020 (BĐ-KT) 11/2018-
+10/2020 
+7.450 14.600 4.400 7.160 
+32.900 6.865 95.950 Kinh phí (triệu
+đồng) 
+Triên khai thực hiện theo. Triển khai thực hiện theo
+tiến độ Nghiệm thu cơ sở ngày
+02/04/2019. Kết quả đạt Triên khai thực hiện theo.
+tiến độ 
+“Triển khai thực hiện theo
+tiến độ Triển khai thực hiện Triển khai thực hiện theo
+tiến độ Ghi chú TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề tài Exei BE” ." Ghỉ chú
+
+Kiểm tra hệ thống điều khiến quán tính II-074 của tên lửa Kh- 12/2020 tiến độ
+
+35E
+
+Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa izĐfữ- Triển khai thực hiện theo
+6 | Kh-35E dựa theo nguyên lý hoạt động của thiết bị nguyên | 1/ Dương Phú Tuấn | 12/2020 33.400 tin độ
+
+mẫu. |
+
+Chương trình KC.KT
+
+Nghiên cứu khai thác làm chủ hệ thống điều khiển toàn tàu 2019-2020 11500 Chuẩn bị bảo vệ TMĐT.
+T_ | Paladi.M trên tàu ngầm Kilo 636 g z 4 Nguyễn Tuần Anh Ỷ (ngày 11/6/2019)
+
+Nghiên cứu khai thác làm chủ và thiết kế chế tạo tổ hợp - Xnanar 2 Chuẩn bị bảo vệ TMĐT.
+8ˆ Ì NKVS-27 của đài dẫn bay của Trung đoàn Không quân 2J/ Đỉnh Văn Ngọc '400 (ngày 14/6/2019)
+
+TH | Cấp Viện KHCNQS
+
+Nghiên cứu hoàn thiện, phát triển hệ thông phần mềm tính ma 07/2017 - Nghiệm thu cấp quản [ý
+1 | toán ứng dụng chiến đầu sử dụng phương tiện sát thương hàng | 21 Nguyễn Sinh Huy | _ 12/20yg 2.460 ngày 27/02/2019. Kết quả
+
+không tiêu diệt mục tiêu mặt đất, mặt nước. Đạt
+
+Nghiên cứu hoàn thiện hệ thông công nghệ thông tin ứng m= ipbii?s "Nghiệm thu cấp quản lý
+2. | dụng trong huần luyện diễn tập chỉ huy cơ quan cắp trung, sư | 2// Nguyễn Thái Học |_ 120g 1350 ngày 1008/2019. Kết quả
+
+đoàn trên bản đồ tại Sở chỉ huy và ngoài thực địa Xuất sắc
+
+"Nghiên cứu hoàn thiện, nâng cấp và đưa vào áp dụng thử hệ - nữ: Nghiệm thu cấp quản lý
+5 ng hỗ trợ chuẩn bị bay cấp trung đoàn không quân. 4/ Nguyễn Duy Nam | 0/2pio 1.490 ngày 03/06/2019. Kết quả
+
+Đạt
+
+Nghiên cứu thiết kế, chế tạo giá thử máy thu xử lý quang âm Ì 2// „vặn vị 112018- TT nặ
+Ắ_ | AOII của đài ra đa Kolchuga. 2/ Nguyễn Văn Sơn | ¡¡20ịo 24300 Triển khai thực hiện
+
+Nhiệm vụ hoàn thiện sản phẩm nghiên cứu
+
+Nhiệm vụ hoàn thiện công nghệ "Hoàn thiện và đưa vào sản tang. —
+1. | xuất loạt 0 giá kiểm tra, chuẩn đoán hỏng hóc các mảng chức | 2// Nguyễn Thái Học | _ 122 200 Ặ ni Âu] Kim yên ng mỹ
+
+năng ra đa Kasta-2E2” h ló
+
+Hoàn thiện và đưa vào sản xuất loạt "0° thiết bị giả đạn IR-60 l Tư Nghiệm thu cấp Viện CNTT
+2 4/ Nguyễn Tuấn Anh | _ ¡2/zpg 200 ngày 01/03/2019. Hoàn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thiện hồ sơ thiết kế chuẩn bị
+
+ 
+
+ữ
+TT Tên đề tài, nhiệm vụ KHCN
+Kiểm tra hệ thống điều khiến quán tính II-074 của tên lửa Kh-
+35E
+HQ HH Ý-=..x
+Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa
+Kh-35E dựa theo nguyên lý hoạt động của thiết bị nguyên
+mẫu Nghiên cứu khai thác làm chủ hệ thông điều khiển toàn tàu
+Paladi-M trên tàu ngầm Kilo 636.
+Nghiên cứu khai thác làm chủ và thiết kế chê tạo tô hợp
+
+NKVS-27 của đài dẫn bay của Trung đoàn Không quân
+Cấp Viện KHCNQS Nhiệm vụ hoàn thiện công nghệ “Hoàn thiện và đưa vào sản
+xuất loạt 0 giá kiểm tra, chuẩn đoán hỏng hóc các mảng chức
+năng ra đa Kasta-2E2”
+
+Hoàn thiện và đưa vào sản. loạt giả đạn IR-60. 
+Nghiên cứu thiệt kể, chê tạo giá thử máy thu xử lý quang âm
+AOII của đài ra đa Kolchuga Nghiên cứu hoàn thiện hệ thông công nghệ thông tin ứng
+dụng trong huấn luyện diễn tập chỉ huy cơ quan cấp trung, sư
+
+ 
+
+ 
+
+thông hỗ trợ chuẩn bị bay cấp trung đoàn không quân Chủ nhiệm đề tài 2// Đình Văn Ngọc 
+4/ Nguyễn Tuấn Anh 1⁄ Dương Phú Tuấn 4! Nguyễn Tuấn Anh. 2I/ Nguyễn Thái Học 
+2// Nguyễn Văn Sơn 4/ Nguyễn Duy Nam 2/! Nguyễn Thái Học 24/ Nguyễn Sinh Huy 
+12/2017-
+12/2018 12/2017-
+12/2018 11/2018-
+11/2019 01/2018-
+01/2019 
+12/2017-
+12/2018 07/2017 -
+12/2018 2019-2020 2019-2020 
+12/2017-
+12/2020 12/2020 Thời gian
+(BĐ-KT) 200 
+200 2300 1.490 1350 
+2460 7.400 7.400 11.500 
+33.400 Kinh phí (triệu
+đồng) __ Chuân bị bảo vệ TMĐT
+
+(ngày 14/6/2019)
+
+Nghiệm thu cấp quản ý
+ngày 27/02/2019. Kết quả
+Đạt
+
+Nghiệm thu cấp quản lý
+ngày 10/05/2019. Kết quả
+Xuất sắc
+Nghiệm thu cấp quản lý
+ngày 03/06/2019. Kết quả
+Đạt Chuẩn bị bảo vệ TMĐT.
+(ngày 11/6/2019)
+Chuẩn bị bảo vệ TMDT
+
+(ngày 14/6/2019)
+
+Nghiệm thu cấp quản ý
+ngày 27/02/2019. Kết quả
+í
+
+ 
+
+Đại
+Nghiệm thu cấp quản lý
+ngày 10/05/2019. Kết quả
+Xuất sắc
+Nghiệm thu cấp quản lý
+ngày 03/06/2019. Kết quả
+Đạt 
+Chuẩn bị bảo vệ TMĐT.
+(ngày 11/6/2019) Thời gian
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TT Tên đề tài, nhiệm vụ KHCN Chủ nhiệm đề ti | (nu ấm =. Ghi chú
+thấm định
++ _| Hoàn thiện và đưa vào sản xuất loại "0° thiết bị VIKO-VNDI | 1ýNguyễnTưọng | 122017- - Tiạp hội động thâm định hỗ
+Thể 12/2018 sơ thiết kế ngày 14/5/2019
+Hoàn thiện thiết kể, chế tạo khối tính toán BMĨ của hệ thống Đã thứ nghiệm theo yêu cầu
+điều khiển phóng tên lửa KACY 3P-60V2 l 12/2017- của QC HỌ. Đang hoàn
+4 4/Đã Xuân Ngọc | [20g a thành các hỗ sơ của nhiệm
+vụ
+THỊ | Đề tài, nhiệm vụ cấp Sở, Tổng cục
+Đề tài tỉnh Long An: Nghiên cứu chế tạo hệ thông bia tự động |_ 4/ Trịnh Văn Xa 1,640 Đang triển khai thực hiện
+¡_ | báo kết quả bắn đạn thật sử dụng nhiêu lần bằng súng bộ bình | Bộ CHQS tịnh Long |_ 03/2016~ (đã gia hạn đến 06/2019).
+Tu 11/2017 Chuẩn bị nghiệm thu cơ sở
+1// Phù Phước Huy dự kiến ngày 20/6/2019
+Đề tài TP.HCM: Nghiên cứu xây dựng hệ thống phần mềm hỗ kẽ — 850 —:
+2 | ợtính toán phần từ bắn và lượng sửa kỹ thuật phục vụ công |_%/Phen Thị Hồng | En tSệt Nà IiEg
+tác huấn luyện, diễn tập tại Lữ đoàn Pháo bình 75. Quân khu 7 Than
+Đề tài KHCN TP. Hồ Chí Minh “Nghiên cứu, thiết kế, chế tạo nDD0ïE 1.505 _—=—r
+3ˆ | thiết bị luyện tập kíp chiến đấu tổ hợp tên lửa S-75 trên cơ sở |_ 3//Lê Ngọc Bảo 082000. = NỚ hen
+bị TBLTS75”
+Đề tài KHCN tỉnh Đồng Nai “Nghiên cứu xây dựng bộ công, 820 S
+h ; : Ẹ Đã thắm định kinh phí, chờ
+cụ hỗ trợ công tác huần luyện kíp chiến đấu Sở Chỉ huy tại ⁄ 2019-2020 thơ đẳng h
+Ý | ấm vị phòng không cấp trung đoàn có khí tài hỏa lực” ứng | - l Hoảng Tuấn „am M Liểm .
+dụng cho e93/f367
+V | Đề tài định hướng trẻ
+Nghiên cứu ứng dụng học tăng cường trong xây dựng mô hình "na 0772018- Nghiệm tư ngây
+Ì_ | yọe máy tự tìm kiếm đối tượng 1⁄LêPhú Cường | so | M20) 22/03/2019. Kết quả: Đạt
+Ứng dụng trí tuệ nhân tạo nghiên cứu, thiết kế xây dựng công _. : Xết đhyệt thuyết mình tiền
+2_ | cụ ta cứu thông minh phục vụ công tác quản lý điều hành tại |_ Tấn Canï nang 120 khai thực hiện
+
+Viện Công nghệ thông tin
+
+ 
+
+N8
+Ưng dụng trí tuệ nhân tạo nghiên cứu, thiết kê xây dựng công
+cụ tra cứu thông minh phục vụ công tác quản lý điều hành tại
+'Viên Công nghệ thông tin Nghiên cứu ứng dụng học tăng cường trong xây dựng mô hình
+học máy tự tìm kiếm đối tượng Đề tài định hướng trẻ Đề tài KHCN tỉnh Đồng Nai “Nghiên cứu xây dựng bộ công.
+cụ hỗ trợ công tác huấn luyện kíp chiến đấu Sở Chỉ huy tại
+đơn vị phòng không cấp trung đoàn có khí tài hỏa lực” ứng
+dụng cho e93/f367 
+Đề tài KHCN tỉnh Đồng Nai “Nghiên cứu xây dựng bộ công,
+cụ hỗ trợ công tác huấn luyện kíp chiến đấu Sở Chỉ huy tại
+đơn vị phòng không cấp trung đoàn có khí tài hỏa lực” ứng
+dụng cho e93/f367 Đề tài KHCN TP. Hồ Chí Minh "Nghiên cứu, thiết kế, chế tạo.
+thiết bị luyện tập kíp chiến đấu tổ hợp tên lửa S-75 trên cơ sở
+thiết bị TBLTS75” Để tài TP.HCM: Nghiên cứu xây dựng hệ thống phần mềm hỗ
+trợ tính toán phần từ bắn và lượng sửa kỹ thuật phục vụ công
+tác huấn luyện, diễn tập tại Lữ đoàn Pháo binh 75, Quân khu 7 'Đề tài tỉnh Long An: Nghiên cứu chế tạo hệ thông bia tự động
+báo kết quả bắn đạn thật sử dụng nhiều lần bằng súng bộ binh 
+Đê tài, nhiệm vụ cấp Sở, Tông cục Hoàn thiện thiết kê, chê tạo khôi tính toán BMI của hệ thông,
+điều khiển phóng tên lửa KACY 3P-60V2 Hoàn thiện và đưa vào sản xuất loạt “0” thiết bị VIKO-VN0I 'Tên đề tài, nhiệm vụ KHCN. 
+1⁄ Nguyễn Cảnh
+Hùng 1// Lê Phú Cường 1⁄ Hoàng Tuấn 3⁄/ Lê Ngọc Bảo 
+4/ Phạm Thị Hồng
+Thanh 4// Trịnh Văn Xa
+Bộ CHQS tỉnh Long.
+An
+1⁄ Phù Phước Huy 4/ Đỗ Xuân Ngọc 1// Nguyễn Trọng,
+Thể 
+Chủ nhiệm đề tài 04/2019-
+03/2020 07/2018-
+03/2019 2019-2020 
+12/2018-
+06/2020 06/2018-
+12/2019 03/2016 ~
+11/2017 12/2017-
+12/2018 
+12/2017-
+12/2018 Thời gian
+(BĐ-KT 120 120 
+820 1.505 §50 1.640 
+200 150 Kinh . (triệu Xét duyệt thuyêt minh triên.
+khai thực hiện 
+"Nghiêm thu ngày
+22/03/2019. Kết gi Đã thâm định kinh phí, chờ
+ký hợp đẳng triển khai thực
+hiện Triễn khai thực hiện theo
+tiến độ Triển khai thực hiện theo
+tiến độ 
+(đã gia hạn đến 06/2019).
+Chuẩn bị nghiệm thu cơ sở
+dự kiến ngày 20/6/2019 'Đã thử nghiệm theo yêu câu
+của QC HQ. Đang hoàn
+thành các hô sơ của nhiệm
+tự “Họp hội động thâm định hô
+sơ thiết kế ngày 14/3/2019 thâm định 
+Ghi chú 

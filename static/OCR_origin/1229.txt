@@ -1,0 +1,568 @@
+VIỆN KH- CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ 
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 169/VCNTT-KH Hà Nội, ngày 24 tháng 4 năm 2018
+
+'V/v xây dựng kế hoạch và báo cáo kết
+quả thực hiện Chỉ thị 16/CT-TTg của
+Thủ tướng Chính phủ
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ vào Công văn số 84/TMKH-KHCNMT ngày 02 tháng 4 năm 2018
+của Phòng Tham mưu - Kế hoạch về việc xây dựng kế hoạch và báo cáo kết quả
+thực hiện Chỉ thị 16/CT-TTg của Thủ tướng Chính phủ,
+
+Viện Công nghệ thông tin xin báo cáo:
+
+I. Thuận lợi, khó khăn trong triển khai tiếp cận cuộc Cách mạng công
+nghiệp lần thứ 4 cũa Viện:
+
+Thuận lợi:
+
+~ Có nguồn nhân lực khoa học công nghệ chất lượng cao, được trang bị đầy
+đủ kiến thức và kỹ năng để tiếp cận và khai thác các công nghệ mới, trỉ thức mới
+phục vụ cho quá trình nghiên cứu, có kinh nghiệm trong công tác nghiên cứu, có
+sự kế thừa và phát triển về mọi mặt của nguồn nhân lực khoa học công nghệ. Đội
+ngũ quản lý chủ yếu từ hoạt động chuyên môn sang hoạt động quản lý nên có
+nhiều kinh nghiệm thực tế đối với các hoạt động nghiên cứu tạo thuận lợi trong
+quá trình quản lý.
+
+- Về thực hiện nhiệm vụ: Viện đã và đang thực hiện nhiều đề tài nghiên cứu
+các cấp, các đề tài ứng dụng thành tựu về khoa học công nghệ và được triển khai
+thử nghiệm tại các đơn vị sử dụng và được đánh giá cao. Đây là nền tảng vững,
+chắc cho đơn vị trong việc tiếp cận và tiếp tục triển khai công tác nghiên cứu khoa
+học, nhằm đưa các thành tựu của cách mạng công nghiệp lần thứ 4 vào ứng dụng,
+phục vụ quân đội trong thời gian tiếp theo.
+
+Khó khăn: ¬
+
+_ Về đội ngũ cán bộ: cán bộ nghiên cứu và cán bộ quản lý tuổi đời trung
+bình còn trẻ, cán bộ quản lý chủ yếu chuyển từ hoạt động chuyên môn sang, kinh
+
+iệm trong quản lý mang tính kiêm nhiệm. ĩ
+” Về susờ vài chất hạ tầng kỹ thuật, trang thiết bị: Còn thiếu các trang thiết
+bị đồng bộ phục vụ nghiên cứu, phần lớn các trang thiết bị đã đầu KT
+tầng kỹ thuật cho bố trí, đặt trang thiết bị, bố trí phòng thí nghiệm s Su quốc
+nhiều khó khăn trong quá trình triển khai thử nghiệm, sản it phục. VWphòng.
+~ Về nguồn thông tin: khó tiếp cận các nguồn thông tin về cách mạng công
+nghiệp trong lĩnh vực quân sự - quốc phòng của các nước trên thể giới.
+
+II. Kết quả thực hiện
+
+1. Phương hướng: Tiếp tục triển khai tốt các nhiệm vụ được giao; Bám sát
+định hướng KHCN của đơn vị, nắm bắt nhu cầu thực tiễn của các đơn vị trong và
+ngoài quân đội và cập nhật các trì thức mới nhằm nghiên cứu đề xuất các nhiệm vụ
+sát đúng; từng bước triển khai ứng dụng các sản phẩm nghiên cứu vào thực tiễn.
+
+2. Mục tiêu:
+
+Tăng cường năng lực nghiên cứu; Tăng cường năng lực quản lý; Tăng
+cường năng lực sản xuất.
+
+3. Kết quả thực hiện các nhiệm vụ cụ thể:
+
+Thực hiện các nhiệm vụ KHCN thường xuyên và trọng điểm theo định
+hướng KH-CN của đơn vị:
+uất, bảo vệ thuyết minh, kinh phí và chuẩn bị triển khai 01 dự án
+KHCN cấp nhà nước thuộc Chương trình nghiên cứu, đào tạo và xây dựng hạ tầng
+kỹ thuật công nghệ cao: Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính
+toán, mô phỏng phương án tác chiến khu vực quần đảo Trường Sa trên nền hải đồ
+điện tử và sa bàn số 3D. Thực hiện từ 06/2018 đến 06/2020
+
+- Đề xuất và bảo vệ thuyết minh, chuẩn bị bảo vệ kinh phí 01 đề tải cấp nhà
+nước thuộc chương trình KC.01: Nghiên cứu thiết kế, chế tạo thiết bị chuyển mạch
+(Switch) có tính năng ăn toàn, bảo mật thông tin trên nền tảng FPGA và mã nguồn
+mở.Thực hiện từ 2018 đến 2020. Ộ - -
+
+- Đề xuất, bảo vệ thuyết minh, kinh phí và triển khai 01 đề tài cấp BQP.
+thuộc Chương trình KHCN cấp BQP “Nghiên cứu phát triển hệ thống trang thiết
+bị, phương tiện dò tìm, xử lý và xây dựng hệ thống thông tin quản lý ô nhiễm bom
+mình, vật nỗ sau chiến tranh ở Việt Nam”: Nghiên cứu, thiết kế, xây dựng các hệ
+thống mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà phá bom mìn, vật
+nổ. Thực hiện từ 11/2017 đến 04/2020.
+
+„” Đã hoàn thành 02 đề tài cấp BQP thuộc đề án KC.T giai đoạn 1; Bảo vệ
+thuyết minh, kinh phí và bắt đầu triển khai 05 đề tài thuộc đề án KC.T giai đoạn 2
+từ năm 2018 đến năm 2020:
+
++ KC-T.27 “Nghiên cứu thiết kế và chế tạo khối chức năng IITIII9, IIBB34
+trong ¬ tính trên khoang, BIBM-20-70 L của đạn tên lửa 3M-242”.
+60V23-1241.8” \E lên phóng tên lửa trên tàu KACV 3P-+ KC-T.28 “Nghiên cứu thiết kế, chế tạo máy KU163C-VN dựa theo nguyên
+mẫu máy KY16311 và tích hợp thành hệ thống tự động điều khiển phóng tên lửa
+Kh-35E theo mẫu KACV 3P-60V2-1241.8”.
+
++ KC-T.30 “Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa
+Kh-35E dựa theo nguyên lý hoạt động của hệ thống ACK6.3 và AKPA6.3”.
+
++ KC-T.32 “Nghiên cứu thiết kế, chế tạo giá kiểm tra mở rộng, kiểm tra
+chuyên sâu hệ thống điều khiển quán tính LI-074 của tên lửa Kh-35E”.
+
+- Đã xây dựng đề cương thực hiện mục sản phẩm mục tiêu đến năm 2020:
+
++ Hệ thống tự động kiểm tra tên lửa 3M-24E (ASK-V)
+
++ Hệ thống điều khiển phóng tên lửa 3M-24E trên tàu ĐKT-1241.8
+
+- Thực hiện các để tài, nhiệm vụ KHCN thường xuyên: Viện đang quản lý
+và thực hiện 06 để tài và 04 nhiệm vụ hoàn thiện loạt 0 cấp Viện KHCNQS; 05 đề
+tài cấp Sở KHCN tỉnh, thành phố; 01 đề tài nghiên cứu cơ sở và 01 đề tài định
+hướng cán bộ trẻ.
+
+- Đầu tư trang thiết bị công nghệ phục vụ nghiên cứu, sản xuất hiện đại,
+đồng bộ theo từng giai đoạn: Viện đang đề xuất dự án đầu tư xây dựng Trung tâm
+chế thử, thử nghiệm của Viện Công nghệ thông tin tại Khu C Viện KHCNQS.
+
+II. Kế hoạch thực hiện
+
+Trên cơ sở kế hoạch đã xây dựng Viện CNTT đề xuất các nhiệm vụ như
+trong phụ lục kèm theo.
+
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét./. /// -
+
+Nơi nhận:
+~ Phòng TM-KH;
+~ Lưu: VT, KH; H03.
+
+  
+
+lế tá Đỗ Việt Bình*
+'Tên nhiệm vụ. 'Hệ thống cơ sở dữ liệu, phần
+mềm tự động nhận dạng mục
+tiêu quốc gia Hệ thống phần mềm tự động.
+hóa xử lý, tổng. thông tin
+và hỗ trợ ra quyết định tại
+các sở chỉ huy. Mục tiêu, sản phẩm 
+~ Các thuật toán học máy, trí tuệ nhân.
+tạo, khai phá dữ liệu
+- Các thuật toán phân tích xử lý tín
+hiệu âm thanh thủy âm.
+~ Các thuật toán phân tích nhận dạng
+xử lý ảnh
+~ Khảo sát đánh giá các loại mục tiêu
+và các phương pháp đánh giá - nhận
+dạng mục tiêu.
+~ Nghiên cứu xây dựng hệ thống đặc
+trưng của các dạng mục tiêu.
+~ Nghiên cứu các phương pháp, thuật
+toán trích xuất đặc trưng dữ liệu
+mục tiêu.
+~ Nghiên cứu các phương pháp, thuật
+toán học máy tự động nhận dạng
+mục tiêu.
+- Nghiên cứu xây dựng hệ thống tự
+động nhận dạng mục tiêu:
+
++ Hệ thống tự động nhận dạng
+mục tiêu dưới nước
+
++ Hệ thống nhận dạng mục
+tiêu mặt đất
+
++ Hệ thống nhận dạng mục
+tiêu trên không - Khảo sát, phân tích,tích hợp các
+nguồn dữ liệu nghiệp vụ, hình ảnh từ
+vệ tỉnh, từ các tàu, số liệu báo cáo
+nghiệp vụ hàng ngày, hệ thống nhận
+dạng tàu biển AIS, dữ liệu vùng trời.
+- Thiết kế, xây dựng các phần mềm
+tích hợp, xử lý và tổng hợp dữ liệu
+nghiệp vụ, phần mềm phân phối, trao
+đổi thông tin, truy xuất và hiển thị
+thông tỉn, xây dựng phương án tác
+chiến và trình chiếu giao ban tại các
+sở chỉ huy. 2020-2030 Thời gian 
+2020-2030. “Tên nhiệm vụ
+
+Mục tiêu, sản phẩm
+
+Thời gian
+
+Ghi chú
+
+ 
+
+chiếu giao ban
+tại các sở chỉ
+huy
+
+ 
+
+Nghiên cứu tổ hợp tên lửa
+URAN-E
+
+Nghiên cứu, làm chủ các hệ thốn;
+điều khiển, thiết kế và chế tạo một số
+vật tư thay thế phục vụ công tác bảo.
+đảm ký thuật
+
+2020-2030
+
+ 
+
+Nghiên cứu, thiết kế, xây
+dựng hệ thống phần mềm hỗ
+trợ lập kế hoạch tìm kiếm
+cứu nạn trên biển tại các Sở
+chỉ huy
+
+Phần mềm hỗ trợ lập kế hoạch, tính
+toán phương án tìm kiếm cứu hộ, cứu
+nạn trên biên tại SCH Bộ và các SCH.
+cấp chiến dịch, sử dụng hải đồ số:
++ Phần mềm hỗ trợ lập kế hoạch tìm
+kiếm cứu hộ, cứu nạn trên biển.
+
++ Phần mềm hỗ trợ xây dựng phương
+án, tính toán phương án tìm kiếm cứu
+hộ cứu nạn trên biển sử dụng nền hải
+
+số tại các SCH.
+
+ 
+
+2020-2030
+
+ 
+
+Nghiên cứu, thiết kế, chế tạo
+tổ hợp hệ thống quan sát,
+tình sát trên không cấp
+chiến thuật phục vụ các mục
+đích quốc phòng.
+
+Tổ hợp hệ thống quan sát, trình sát
+không người lái trên không cấp chiến
+thuật phục vụ cho các mục đích quốc
+phòng khác nhau.
+
+Hệ thống quan sát, trình sát trên
+không cấp chiến thuật gồm:
+
++ 02 chủng loại (cánh quạt, cánh
+bằng) thiết bị bay không người lái đáp
+ứng các yêu cầu cho quan sát, trinh sát
+cấp chiến thuật.
+
++ Trạm điều khiển mặt đất đảm
+bảo lập trình kế hoạch bay, điều khiển
+bay tự động, quản lý cắt, hạ cánh.
+
++ Hệ thống truyền dữ liệu hình
+ảnh, video thời gian thực từ thiết bị
+bay về trung tâm điều khiển và trung
+tâm chỉ huy.
+
++ Phần mềm tự động xây dựng bản
+đồ thời gian thực dựa trên dữ liệu
+truyền về từ thiết bị bay.
+
++ Các thành phần hỗ trợ khác (hộp
+đựng, dàn phóng, thiết bị thu hồi.
+
+ 
+
+2020-2030
+
+ 
+
+ 
+
+ 
+
+Nghiên cứu thiết kế, xây
+dựng hệ điều hành bảo mật
+chuyên dụng cho máy tỉnh
+chuyên dụng phục vụ mục
+đích tích hợp trao đổi thông
+tin nhằm hiện đại hóa các hệ
+thống vũ khí, khí tài hiện
+đại.
+
+ 
+
+~ Hệ điêu hành bảo mật chuyên dụng
+trên nền tảng hệ điều hành Android,
+có tính năng bảo mật các kết nối như
+data, thoại, video.
+
+- Các ứng dụng tích hợp trao đổi
+thông tin nhằm hiện đại hóa vũ khí,
+khí tài hiện đại được thực thi trên môi
+trường an toàn, loại bỏ hoàn toàn các
+nguy cơ thất thoát thông tin.
+
+~ Bảo mật luỗng dữ liệu truyền nhận.
+
+ 
+
+ 
+
+2020-2030
+Nghiên cứu thiết kế, xây
+dựng hệ điều hành bảo mật
+chuyên dụng cho máy tính
+chuyên dụng phục vụ mục
+đích tích hợp trao đổi thông
+tin nhằm hiện đại hóa các hệ
+thống vũ khí, khí tài hiện
+đại Nghiên cứu, thiết kế, Xây
+dựng hệ thống phần mềm hỗ
+trợ lập kế hoạch tìm kiếm
+cứu nạn trên biển tại các Sở
+chỉ huy Nghiên cứu tổ hợp tên lửa
+URAN-E MỢ/......... 
+MỢ/......... “Tên nhiệm vụ Nghiên cứu, thiết kế, chế tạo
+tổ hợp hệ thống quan sát,
+sát trên không cấp
+n thuật phục vụ các mục
+đích quốc phòng. ~ Hệ điêu hành bảo mật chuyên dụng
+trên nền tảng hệ điều hành Android,
+có tính năng bảo mật các kết nối như
+data, thoại, video. .
+- Các ứng dụng tích hợp trao đổi
+thông tin nhằm hiện đại hóa vũ khí,
+khí tài hiện đại được thực thi trên môi
+trường an toàn, loại bỏ hoàn toàn các 
+Tô hợp hệ thông quan sát, trinh sát
+không người lái trên không cấp chiến
+thuật phục vụ cho các mục đích quốc.
+phòng khác nhau.
+
+Hệ thông quan sát, trình sát trên
+không cấp chiến thuật gồm:
+
++ 02 chủng loại (cánh quạt, cánh
+bằng) thiết bị bay không người lái đáp
+ứng các yêu cầu cho quan sát, trinh sát
+cấp chiến thuật.
+
++ Trạm điều khiển mặt đất đảm
+bảo lập trình kế hoạch ng, điều khiển
+bay tự động, quản lý cắt, hạ cánh.
+
++ Hệ thống truyền đữ liệu hình
+ảnh, video thời gian thực từ thiết bị
+bay về trung tâm điều khiển và trung
+tâm chỉ huy.
+
++ Phần mềm tự động xây dựng bản
+đồ thời gian thực dựa trên dữ liệu
+truyền về từ thiết bị bay.
+
++ Các thành phần hỗ trợ khác hộp
+đựng, dàn phóng, thiết bị thu hỗ Phân mêm hỗ trợ lập kê hoạch, tính
+toán phương án tìm kiếm cứu hộ, cứu
+nạn trên biển tại SCH Bộ và các SCH
+cấp chiến dịch, sử dụng hải đồ số:
+
++ Phần mềm hỗ trợ lập kế hoạch tìm
+kiếm cứu hộ, cứu nạn trên biển.
+
++ Phần mềm hỗ trợ xây dựng phương
+án, tính toán phương án tìm kiếm cứu
+hộ cứu nạn trên biển sử dụng nền hải
+
+số tại các SCH. (phiên CẤU, LẺ CHỦ, DáC lệ th
+u khiển, thiết kế và chế tạo một số.
+vật tư thay thế phục vụ công tác bảo.
+
+đảm ký thuật Mục tiêu, sản phẩm 
+Thời gian 2020-2030 2020-2030 020-2030 
+2020-2030 Ghi chú
+
+chiếu giao ban
+tại các sở chỉ
+huy 
+Nghiên cứu mô phỏng hoạt Nghiên cứu, thiết kết, chế
+tạo modem vô tuyến
+dụng cho dịch vụ trao tà
+thông tìn quân sự. Nghiên cứu, thiết kế, xây
+dựng hệ thống phần mềm hỗ
+trợ diễn tập cụm lực lư
+Hải quân trên nền hải đổ số
+chuẩn §-57 túc cứu xây dựng hệ
+thống phần mềm dịch máy
+phục vụ công tác nghiên
+cứu, khai thác vũ khí trang.
+bị kỹ thuật ở các đơn vị. 
+'Tên nhiệm vụ Hệ phân mêm hỗ trợ diễn tập cập
+vùng-lữ đoàn trên nền hải đồ số chuẩn.
+S-57 tại Quân chủng Hải quân:
+
++ Hỗ trợ ban chỉ đạo diễn tập.
+
++ Hỗ trợ tác nghiệp sở chỉ huy.
+
++ Hỗ trợ tác nghiệp hải đồ số
+
++ Hỗ trợ tác nghiệp thời tiết
+
++ Hỗ trợ tác nghiệp tìm kiếm cứu nạn
++ Hỗ trợ tích hợp dữ liệu tác chiến
++ Hỗ trợ ra tình huống,
+
++CSDL tác chiến Hải quân Hệ thông (phân mêm) dịch tự động
+các tài liệu khoa học kỹ thuật quân sự
+giữa tiếng Việt và tiếng Nga được cài
+đặt trong mạng nội bộ cho các máy
+tính không kết nối Internet. Hệ thống
+tập trung vào các tài liệu trong lĩnh
+vực vũ khí trang bị kỹ thuật
+(VKTBKT) quân sự nhằm giúp cán bộ
+nghiên cứu và khai thác sử dụng
+'VKTBKT của Nga bằng cách dịch tài
+liệu từ tiếng Nga sang tiếng Việt và
+ngược lại gồm:
+
+~ Kho ngữ liệu đơn ngữ tiếng Nga
+
+- Kho ngữ liệu đơn ngữ tiếng Việt
+
+~ Các tài liệu song ngữ liên quan.
+
+- Bản mô tả đặc điểm dữ liệu
+
+- $0 nghìn cặp câu song ngữ Nga —
+Việt.
+
+- Bộ công cụ cần thiết cho xử lý tiếng
+Nga và tiếng Việt: tách câu, tách từ.
+
+~ Mô hình ngôn ngữ 2-gram, 3-gram
+cho tiếng Nga và tiếng Việt.
+
+~ Engine dịch của hệ thống.
+
+~ Từ điển KHKTQS Nga ~ Việt trích
+rút tự động từ kho ngữ liệu song ngữ.
+
+- Giao diện Web dùng cho dịch và
+phản hồi của. người dùn,
+
+Kết quả dịch của hệ tàn, được đánh
+giá bằng điểm BLEU, yêu cầu đạt
+được > 25 điểm. ~ Gia cường nhân hệ điêu hành.
+~ Cho phép ứng dụng thực thi trên mí
+trường sạch/an toàn. 
+Mục tiêu, sản phẩm 2020-2030 2020-2030 2020-2030 
+2020-2030 Thời gian 
+'Tên nhiệm vụ
+
+ 
+
+động của hệ thống thông tin
+rađa đảm bảo bay của Trung
+đoàn Không quân bằng hệ
+thống máy tính phục vụ cho
+công tác huấn luyện đào tạo.
+
+ 
+
+Nghiên cứu tích hợp thiết bị,
+xây dựng phần mềm và
+€SDL nhằm rút ngắn thời
+gian tìm và chọn vị trí trận
+địa cho TLPK S300 PMUI
+
+ 
+
+Nghiên cứu ứng dụng công
+nghệ GIS xây dựng hệ thống
+phần mềm huấn luyện chiến
+sĩ tiêu đồ 9x9 phục vụ công
+tác huấn luyện kíp chiến đấu
+Phòng không Không quân
+
+ 
+
+ 
+
+Nghiên cứu xây dựng hệ
+bếp báo động và tuyệt tin
+tác chiến qua mạng diện
+rộng (WAN) cho các sở chỉ
+huy cấp chiến dịch chiến
+[ thuật
+
+Nghiên cứu chế tạo hệ thông
+
+tích hợp thông tỉn phục vụ
+chỉ huy tác chiến và điều
+hành bay cho Sở Chỉ huy
+đơn vị không quân Nghiên cứu chê tạo hệ thông
+tích hợp thông tỉn phục vụ
+chỉ huy tác chiến và điều
+hành bay cho Sở Chỉ huy
+đơn vị không quân Nghiên cứu xây dựng Mi ĐỆ ¿
+thông báo động và truyền tin
+tác chiến qua mạng diện
+rộng (WAN) cho các sở chỉ
+huy cấp chiến dịch chiến
+thuật Nghiên cứu ứng dụng công
+nghệ GIS xây dựng hệ thống,
+phần mềm huấn luyện chiến
+sĩ tiêu đồ 9x9 phục vụ công,
+tác huấn luyện kíp chiến đấu
+Phòng không Không quân 
+Nghiên cứu tích hợp thiết bị,
+xây dựng phần mềm và
+€SDL nhằm rút ngắn thời
+gian tìm và chọn vị trí trận
+địa cho TLPK S300 PMUI động của hệ thông thông tin
+rađa đảm bảo bay của Trung,
+đoàn Không quân bằng hệ
+thống máy tính phục vụ cho
+công tác huấn luyện đào tạo 'Tên nhiệm vụ Hệ thông báo động và truyền tin tác
+chiến qua mạng diện rộng giữa SCH
+và 04 đơn vị đầu mỗi, có khả năng mở
+rộng đến các đơn vị còn lại với cấu
+hình như sau: Máy tính server, Thiết
+bị trung tâm, Thiết bị đầu cuối, Thiết
+bị Route/Gateway. 
+Hệ thông phân mêm huân luyện chiên
+sĩ tiêu đồ 9x9 nhằm nâng cao trình độ
+chiến sĩ trong công tác huấn luyện kíp
+chiến đấu tại các đơn vị PKKQ:
+
++ Phần mềm Bài tập huấn luyện 9x9:
+vẽ các tốp bay bài tập, mô phỏng bay
+các tốp bay trên nền bản đồ số, truyền
+bản tin tình báo 9x9 đến phần mềm
+Tiêu đồ 9x9,
+
++ Phần mềm Tiêu đồ 9x9: hiển thị bản
+đồ ngược và tọa độ 9x9 ngược; nhận
+và phát bản tin tình báo thành tín hiệu
+morse; tự động kiểm tra và hiển thị
+kết quả của nhân viên tiêu đồ 9x9. THUÊ HỢP THẾ DI DA DIH THANH. LỒp
+trên xe trắc địa của tổ hợp tên lửa
+S300 PMUI nhằm rút ngắn thời gian
+tìm và xác định vị trí:
+
+~ Thiết bị phân cứng tích hợp.
+
+~ Phần mềm hỗ trợ rút ngắn thời gian
+tìm và chọn vị trí cho TLPK S300
+PMUI đài RSBN-4N, đài GRM, đài DKRM.
++ Phần mềm mô phỏng hoạt động của
+các thiết bị tương ứng trên buồng lái
+SU-30MK2, và việc đồng bộ tín hiệu
+giữa đài RSBN-4N và máy bay-
+30MK2. Mục tiêu, sản phẩm 
+020-2030 020-2030 2020-2030 2020-2030 
+Thời gian 
+°¡ Tố N6 UCổG: `  .^Ẻ Oh. (Vẽ I0 .›ẽo n6 cố {ae (0 cu Nghiên cứu thiết kê chê tạo.
+hệ thống hỗ trợ chỉ huy tác
+chiến cho Sở chỉ huy sư
+đoàn phòng không 'Tên nhiệm vụ Hệ thông hồ trợ chỉ huy tác chiến cho
+Sở chỉ huy sư đoàn phòng không, cấu
+hình gồm:
+
+khối xử lí trung tâm, khối điều khiển,
+khối giao tiếp điện thoại và chuyển
+mạch, bộ chuyển mạch, khối nguồn &:
+UPS và phần mềm điều khiển thiết bị 
++ Bộ nguôn. Mục tiêu, sản phẩm 2020-2030 Thời gian 

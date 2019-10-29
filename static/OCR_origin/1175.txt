@@ -1,0 +1,1956 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 446 /VCNTT-KH Hà Nội, ngày 3D tháng 3 năm 2018
+Ví xây dựng chúc năng, nhiệm vụ và tổ
+chức biên chế.
+
+Kính gửi: Văn phòng/Viện KHCNQS.
+
+Thực hiện Chỉ thị số 153/CT-VKHCNQS ngày 31/01/2018 của Giám đốc
+Viện KHCNQS về việc xây dựng chức năng, nhiệm vụ, tổ chức biên chế
+(CNNV, TCBC) của các cơ quan, đơn vị trực thuộc Viện KHCNQS năm 2018;
+
+Căn cứ Công văn số 296/BCĐ-TST ngày 19/3/2018 của Ban Chỉ đạo xây
+dựng CNNV, TCBC của Viện KHCNQS về việc nội dung nguyên tắc trong xây
+dựng chức năng, nhiệm vụ, tổ chức biên chế,
+
+Viện Công nghệ thông tin đã tổ chức xây dựng và đề xuất chức năng,
+nhiệm vụ và phương án tổ chức biên chế của Viện (rong các phụ lục kèm theo).
+
+Kính đề nghị Văn phòng/Viện KHCNQS xem xét, báo cáo Ban Chỉ đạo
+xây dựng CNNV, TCBC của Viện KHCNQS./. /ïÑj& —
+
+Nơi nhận:
+~ Như trên;
+~ Lưu: VT, KH; H03.PHỤ LỤC 1
+Xây dựng CNNV, TCBC Viện Công nghệ thông tin
+(Kèm theo công văn số ,1J¿/VCNTT-KH ngày30tháng 3 năm 2018 của Viện CNTT)
+
+Thực hiện Chỉ thị số 153/CT-VKHCNQ§, Viện CNTT đã thành lập Ban chỉ
+đạo và Tổ soạn thảo xây dựng CNNV, TCBC của Viện CNTT. Viện đã quán
+triệt cho toàn bộ cán bộ, nhân viên và tổ chức xây dựng CNNV, TCBC của Viện
+theo chỉ thị và các nguyên tắc của Viện KHCNQS.
+
+1. Đặc điểm, tình hình Viện CNTT
+
+Viện CNTT là một đơn vị nghiên cứu trong đội hình của Viện KHCNQS.
+Bám sát định hướng và chỉ đạo của Viện KHCNQS, Viện luôn chủ động bám
+sát nhiệm vụ QS-QP và định hướng nghiên cứu của Viện tổ chức cán bộ đi thực
+tế khảo sát nhu cầu tại các đơn vị và phối hợp với các cơ quan, đơn vị để xây
+dựng, thực hiện các nhiệm vụ phục vụ cho khai thác làm chủ vũ khí trang bị kỹ
+thuật (VKTBKT), huấn luyện, diễn tập và sẵn sàng chiến đấu. Các sản phẩm
+nghiên cứu của Viện luôn được đánh giá cao và được đưa vào triển khai ứng
+dụng tại các đơn vị, tiêu biểu là:
+
+- Một số thiết bị, vật tư phục vụ khai thác làm chủ và đảm bảo kỹ thuật cho
+tàu ngầm Kilo 636 (thiết bị kiểm tra rơ le PYE-IT-4Y trong hệ thống kiểm tra
+và dự báo hỏng hóc CKJLAB đang chế tạo theo đặt hàng của Quân chủng Hải
+quân, thiết bị kiểm tra anten thủy âm của tổ hợp sôna MGK-400E); Thiết bị hỗ
+trợ chuẩn đoán, phát hiện hỏng hóc một số mảng chức năng của đài KASTA-
+2E2.
+
+~ Máy KB163I1 của tổ hợp thiết bị điều khiển phóng tên lửa KACY 3P-
+60Y23-12418; Giá kiểm tra hệ thống điều khiển quán tính (CV) LI-074 của đạn
+tên lửa Kh-35E; Thiết bị giả đạn tên lửa 3M-242; Khối tính toán BM-I hệ thống
+điều khiển phóng tên lửa KACV 3P-60Y2 12418; Hệ thống vào/ra thay thế phân
+hệ IIY-010 của hệ thống kiểm tra đạn 3M-242...
+
+- Hệ thống điều khiển trưng tâm của tổ hợp đối không mặt đất NKVS-27 làm
+việc đồng bộ với máy bay Su-27SK2 và Su-30MK2; Hệ thống truyền thông đa
+phương tiện hỗ trợ công tác chỉ huy, điều hành máy bay Su-30MK2.
+
+- Hệ thống mô phỏng tích hợp phục vụ huấn luyện diễn tập cấp Lữ đoàn dựa
+trên hệ thống mô phỏng huắn luyện bắn tổ hợp tên lửa bờ Bastion và kíp chiến
+đấu tổ hợp Radar Monolit-B; Hệ thống phần mềm hỗ trợ tính toán ứng dụng
+chiến đấu sử dụng các phương tiện sát thương hàng không tiêu diệt mục tiêu mặtđất, mặt nước; Hệ chương trình, cơ sở dữ liệu thông tin phục vụ quản lý môi
+trường trong quân đội.
+
+- Hệ thống phần mềm hỗ trợ đại hội các cấp phục vụ kiểm phiếu tại Đại hội
+Đảng toàn quốc lần thứ XII, đợt Bầu cử Đại biểu Quốc hội, Hội đồng nhân dân
+các cấp, kỳ họp thứ nhất Quốc hội khóa XIV (đã bàn giao cho Văn phòng Quốc
+hội để sử dụng trong các kỳ họp Quốc hội) được nhận bằng khen của Bộ Quốc
+phòng và Viện KHCNQS.
+
+- Phối hợp với các đơn vị, tham gia triển khai các dự án: Dự án nghiên cứu
+làm chủ phần mềm điều khiển các hệ thống khí tài điện tử trên các lớp tàu hải
+quân Gepard 3.9, Kilo 636; Dự án tích hợp các thông tin chỉ huy trên tàu...
+
+- Luôn hoàn thành tốt các nhiệm vụ đột xuất được giao: Tham gia đảm bảo
+kỹ thuật phục vụ Hội thao bắn súng quân dụng Quân đội, Dân quân tự vệ và Hội
+thi sáng kiến cải tiến mô hình, trang thiết bị huấn luyện toàn quân năm 2016
+(nhận bằng khen của Bộ Tổng Tham mưu), Nhiệm vụ Tổng điều tra kinh tế năm
+2017 trong Bộ Quốc phòng; Nhiệm vụ tham gia phục vụ diễn tập MB-I7 tại
+Miếu Môn: Triển khai cài đặt, tập huấn chuyên sâu PM “Hỗ trợ huấn luyện diễn
+tập chỉ huy tham mưu trên bản đồ số” và hỗ trợ kỹ thuật trong các đợt diễn tập...
+
+Hiện tại, Viện đang triển khai các nhiệm vụ KHCN phục vụ khai thác làm
+chú VKTBKT mới và xây dựng các hệ thống huấn luyện phục vụ sẵn sàng chiến
+đầu:
+
+~ Nghiên cứu, thiết kế, xây dựng hệ thống tác nghiệp, tính toán, mô phỏng,
+phương án tác chiến biển đảo trên nền hải đồ số và sa bàn số 3D; Hoàn thiện hệ
+thống CNTT ứng dụng trong huấn luyện diễn tập chỉ huy cơ quan cấp trung, sư
+đoàn trên bản đồ tại Sở chỉ huy và ngoài thực địa; Phần mềm hỗ trợ công tác
+huấn luyện các đài ra đa đảm bảo bay phục vụ cho máy bay SU-30MK2.
+
+~ Nghiên cứu, thiết kế chế tạo và thử nghiệm máy KV1631{ thuộc hệ thống
+tự động điều khiển phóng tên lửa trên tàu dựa trên nguyên mẫu KY16311 của tổ
+hợp KACY 3P-60V2-12418 và lắp ráp hoàn chỉnh hệ thống KACV 12418-VN
+có chức năng tương đương KACV 3P-60V2-12418; Hệ thống tự động kiểm tra
+tên lửa Kh-35E dựa theo nguyên lý hoạt động của thiết bị nguyên mẫu; Thiết bị
+kiểm tra hệ thống điều khiển quán tính LỊ-074 của tên lửa Kh-35E.
+
+~ Nghiên cứu, thiết kế, xây dựng các hệ thống mô phỏng huấn luyện, đào tạo.
+phục vụ cho nhiệm vụ rà phá bom mìn, vật nổ; Hoàn thiện, phát triển hệ thống
+phần mềm tính toán ứng dụng chiến đấu sử dụng phương tiện sát thương hàngkhông tiêu diệt mục tiêu mặt đất, mặt nước; Hệ thống hỗ trợ điều hành chỉ huy
+tác chiến cho đơn vị hải quân cắp vùng.
+
+- Hoàn thiện quy trình, công nghệ đưa vào sản xuất loạt “0” các thiết bị: Giá
+kiểm tra, chuẩn đoán hỏng hóc các mảng chức năng ra đa Kasta-2E2; Thiết bị
+giả đạn IR-60; Khối tính toán BMI của hệ thống điều khiển phóng tên lửa
+KACY 3P-60V3; thiết bị VIKO-VN0I.
+
+Trong thời gian tới, Viện tiếp tục tập trung nâng cao thế mạnh của mình và
+khẳng định vị thế, vai trò của Viện:
+
+- Tiếp tục thực hiện theo định hướng của Viện KHCNQS; Bám sát nhu cầu
+thực tiễn của các đơn vị trong Quân đội, tận dụng tối đa tiềm lực KHCN của đơn
+vị, tăng cường hợp tác với các đơn vị trong và ngoài Quân đội để gắn kết nghiên
+cứu với ứng dụng, tạo ra các sản phẩm thiết thực phục vụ Quân đội và dân sinh.
+
+- Tập trung tiềm lực đầu tư cho các hướng nghiên cứu Viện có thế mạnh để
+tạo ra các hệ thống hoàn chỉnh có qui mô tương đối lớn, hoàn thiện và đưa vào
+ứng dụng các sản phẩm của Viện phục vụ cho khai thác làm chủ VKTBKT,
+huấn luyện, diễn tập và sẵn sàng chiến đấu.
+
+1L Xây dựng CNNV Viện CNTT
+
+Từ kết quả các nhiệm vụ của Viện CNTT và các định hướng nghiên cứu,
+thực hiện các nhiệm vụ trong thời gian tới, Viện đã xác định các chức năng,
+nhiệm vụ chính của Viện:
+
+1. Nghiên cứu, làm chủ, thiết kế, chế thử, chế tạo, sản xuất, sửa chữa, cải
+tiến VKTBKT công nghệ cao, tập trung vào máy tính và phần mềm điều khiển.
+
+2. Xây dựng các hệ thống phục vụ huấn luyện sẵn sàng chiến đấu.
+
+3. Xây dựng các hệ thống thông tin hỗ trợ chỉ huy-tham mưu, quản lý điều hành.
+
+Trong đó, Viện tập trung vào nghiên cứu, khai thác, làm chủ VKTBKT công
+nghệ cao: nghiên cứu, làm chủ các hệ thống điều khiển, tự động hóa, máy tính
+chuyên dụng, hệ điều hành chuyên dụng, phần mềm chuyên dụng, hệ thống
+thông tin, giao thức truyền dữ liệu, xử lý tín hiệu... tiến tới chế thử, chế tạo các
+trang thiết bị và sản xuất vật tư kỹ thuật bảo đảm.
+
+Đồng thời Viện cũng nghiên cứu và xây dựng các hệ thống huấn luyện phục
+vụ sẵn sàng chiến đấu: các hệ thống mô phỏng, tích hợp các hệ thống mô phỏng,
+các hệ thống mô phỏng huấn luyện có kết nổi đến VKTBKT, các hệ thống phục
+vụ diễn tập, các giải pháp, mô hình diễn tập chỉ huy-tham mưu có ứng dụng
+CNTT và đảm bảo kỹ thuật phục vụ huấn luyện, diễn tập. Tiếp tục xây dựng các
+
+ 
+
+3
+
+l0 SN
+
+⁄+hệ thống phục vụ chỉ huy-tham mưu, quản lý điều hành, các phương pháp tích
+hợp hệ thống hỗ trợ chỉ huy và các mô hình quản trị hỗ trợ chỉ đạo, điều hành.
+
+Để bảo đảm thực hiện các yêu cầu đặt ra, Viện cẦn tổ chức nghiên cứu hệ
+thống chuyên dụng, hệ thống điều khiển, toán học ứng dụng, phương pháp tính
+toán, các ngành khoa học cơ bản có liên quan... và chủ động phối hợp, hợp tác
+với các đơn vị trong và ngoài Quân đội làm cơ sở cho việc phát triển các công,
+nghệ mới áp dụng vào các sản phẩm của Viện phục vụ Quốc phòng - An ninh và
+kinh tế quốc dân.
+
+Ngoài ra, Viện tiếp tục đào tạo nguồn nhân lực, chuyển giao công nghệ cho
+các cơ quan, đơn vị trong và ngoài Quân đội. Tiếp tục xây dựng và phát triển
+tiềm lực KHCN của Viện và tham gia các dịch vụ KHCN gắn với chức năng,
+nhiệm vụ của Viện KHCNQS, theo quy định của Nhà nước và Bộ quốc phòng.
+Thực hiện công tác đào tạo sau đại học theo chỉ đạo của Viện KHCNQS.
+
+Viện CNTT đã xây dựng chức năng nhiệm vụ của Viện (như trong Phụ lục
+2) để thực hiện các nội dung trên.
+
+II. Xây dựng tổ chức của Viện
+
+Trên cơ sở chức năng, nhiệm vụ Viện đã đề xuất ở trên và với đặc thù Cơ sở
+phía Nam của Viện có con dấu và tài khoản, Viện đã xây dựng tổ chức của Viện
+(như trong Phụ lục 3) đ thực hiện và hoàn thành tốt các nhiệm vụ gồm:
+
+- Lãnh đạo Viện (01 Viện trưởng, 01 Chính trị viên, 03 Phó viện trưởng).
+
+- Khối cơ quan (04 Ban tại phía Bắc, 01 Ban tại phía Nam).
+
+- Phòng nghiên cứu (10 Phòng tại phía Bắc, 02 Phòng tại phía Nam).
+
+* Cụ thể như sau:
+
+- Lãnh đạo Viện và Khối cơ quan giữ nguyên như hiện tại.
+
+~ Để đảm bảo thực hiện các chức năng, nhiệm vụ của Viện CNTT như đã đề
+xuất, Viện xây dựng chức năng nhiệm vụ của các phòng nghiên cứu như sau:
+
++ Các phòng Kỹ thuật hệ thống, phòng Phần mềm chuyên dụng, phòng Thiết
+bị chuyên dụng, phòng Phân tích và xử lý tín hiệu và phòng Số hóa điều khiển
+(phía Nam) thực hiện nghiên cứu, khai thác, làm chủ VKTBKT công nghệ cao;
+
++ Các phòng Hệ thông tin địa lý quân sự, phòng Tích hợp các hệ thống huấn
+luyện và phòng Hệ thông tin quân sự (phía Nam) thực hiện nghiên cứu, xây
+dựng các hệ thống huấn luyện phục vụ sẵn sàng chiến đấu và xây dựng các hệ
+thống mô phỏng huấn luyện có kết nối đến VKTBKT phục vụ khai thác
+'VKTBKT công nghệ cao;+ Các phòng Hệ thông tin chỉ huy tham mưu, phòng Hệ thông tin quản lý
+điều hành và phòng Hệ thông tin quân sự (phía Nam) thực hiện nghiên cứu, xây
+dựng các hệ thống thông tin hỗ trợ chỉ huy-tham mưu, quản lý điều hành;
+
++ Các phòng Bảo đảm toán học và phòng Công nghệ tri thức và nhận dạng.
+thực hiện nghiên cứu cơ bản ứng dụng phục vụ các hướng nghiên cứu của Viện.
+
+Tại Trụ sở chính phúa Bắc (10 phòng nghiên cứu)
+
+1. Phòng Kỹ thuật hệ thống:
+
+Chức năng:
+
+Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu
+trong phân tích hệ thống máy tính điều khiển, thiết kế, chế tạo, tích hợp các hệ
+thống chuyên dụng phục vụ quân sự quốc phòng.
+
+Nhiệm vụ:
+
+- Phân tích hệ thống và làm chủ hệ thống máy tính điều khiển vũ khí công.
+nghệ cao.
+
+~ Làm chủ, thiết kế, chế tạo hệ thống điều khiển trên khoang, hệ thống điều
+khiển khí tài, hệ thống kiểm tra VKTBKT công nghệ cao.
+
+~ Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+2. Phòng Phần mềm chuyên dụng:
+
+Chức năng:
+
+Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu
+trong làm chủ các hệ điều hành chuyên dụng, các phần mềm chuyên dụng cho.
+hệ thống máy tính điều khiển VKTBKT công nghệ cao phục vụ quân sự quốc
+phòng.
+
+Nhiệm vụ:
+
+- Nghiên cứu, làm chủ các hệ điều hành chuyên dụng trong hệ thống máy
+tính điều khiển vũ khí công nghệ cao.
+
+- Nghiên cứu, làm chủ, phát triển, tích hợp hệ thống phần mềm chuyên dụng,
+đảm bảo toán học cho hệ thống máy tính vũ khí công nghệ cao.
+
+~ Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+3. Phòng Thiết bị chuyên dụng:
+
+Chức năng:Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu
+trong làm chủ, thiết kế, tích hợp các loại thiết bị chuyên dụng phục vụ quân sự
+quốc phòng.
+
+Nhiệm vụ:
+
+- Nghiên cứu, thiêt kế, chế tạo, tích hợp các thiết bị chuyên dụng phục vụ
+
+ 
+
+- Nghiên cứu tích hợp các thiết bị chuyên dụng phục vụ huấn luyện diễn tập
+chỉ huy tham mưu và tự động hóa chỉ huy.
+
+- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+4. Phòng Phân tích và xử lý tín hiệu:
+
+Chức năng:
+
+Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu.
+trong phân tích các giao thức trao đổi thông tin của hệ thống máy tính, thiết kế,
+tích hợp các loại thiết bị trong hệ thống điều khiển phục vụ quân sự quốc phòng.
+
+Nhiệm vụ:
+
+- Phân tích hệ thống và làm chủ các giao thức kết nối, các công nghệ xử lý
+tín hiệu cho hệ thống máy tính điều khiển vũ khí công nghệ cao.
+
+~ Làm chủ, thiết kế, tích hợp các giao thức cho hệ thống máy tính vũ khí
+công nghệ cao.
+
+~ Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+$. Phòng Hệ thông tin địa lý quân sự:
+
+Chức năng:
+
+Nghiên cứu, ứng dụng công nghệ GIS trong xây dựng giải pháp, mô hình và
+ứng dụng phục vụ huấn luyện diễn tập chỉ huy tham mưu tác chiến trong quân
+đội.
+
+Nhiệm vụ:
+
+- Nghiên cứu, xây dựng giải pháp và mô hình diễn tập chỉ huy tham mưu có
+ứng dụng công nghệ thông tin trên nền bản đồ só.
+
+- Nghiên cứu, ứng dụng công nghệ GIS xây dựng các ứng dụng phục vụ
+huấn luyện diễn tập lấy bản đồ số làm trung tâm, tích hợp bản đồ số 3D và các
+hệ thống video, hình ảnh sẵn sàng kết nói với hệ thống huắn luyện thực binh.~ Tham gia xây dựng tiềm lực (đảo tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+6. Phòng Tích hợp các hệ thống huấn luyện:
+
+Chức năng:
+
+Nghiên cứu công nghệ mô phỏng và kỹ thuật truyền thông trong phát triển,
+chế tạo và tích hợp các hệ thống mô phỏng phục vụ huấn luyện, hỗ trợ khai thác
+'VKTBKT công nghệ cao phục vụ quốc phòng an ninh và kinh tế quốc dân.
+
+Nhiệm vụ:
+
+- Nghiên cứu, phát triển khoa học công nghệ, giải pháp xây dựng các hệ
+thống mô phỏng huấn luyện.
+
+- Xây dựng hệ thống và triển khai giải pháp cho các hệ thống mô phỏng.
+huấn luyện có kết nối đến vũ khí trang bị thật phục vụ cho công tác huấn luyện,
+khai thác VKTBKT công nghệ cao.
+
+- Xây dựng giải pháp hệ thống tích hợp các hệ thống mô phỏng phân tán
+phục vụ huấn luyện hiệp đồng chiến đấu.
+
+- Xây dựng các hệ thống tạo giả thông tin đầu vào cho các hệ thống hỗ trợ
+các đơn vị trong việc nghiên cứu khai thác làm chủ VKTBKT công nghệ cao
+đáp ứng yêu cầu hiện đại hoá quân đội trong tình hình mới.
+
+- Tham gia xây dựng tiểm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+7. Phòng Hệ thông tin chỉ huy tham mưu:
+
+Chức năng:
+
+Nghiên cứu, ứng dụng công nghệ thông tỉn trong các hệ thống thông tin
+phục vụ chỉ huy tham mưu và các giải pháp tích hợp hệ thống hỗ trợ chỉ huy
+tham mưu trong quân đội.
+
+Nhiệm vụ:
+
+- Nghiên cứu, thiết kế, xây dựng các hệ thống thông tin phục vụ chỉ huy-
+tham mưu.
+
+- Nghiên cứu, xây dựng các giải pháp tích hợp các hệ thống thông tin phục
+vụ chỉ huy - tham mưu.
+
+~ Nghiên cứu, đề xuất các mô hình tự động hóa chỉ huy.
+
+~ Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+8. Phòng Hệ thông tin quản lý điều hành:Chức năng.
+
+Nghiên cứu, ứng dụng công nghệ thông tin trong các hệ thống thông tin
+phục vụ quản lý điều hành trong quân đội. Nghiên cứu, đề xuất các mô hình
+quản trị hỗ trợ chỉ đạo, điều hành.
+
+Nhiệm vụ:
+
+~ Nghiên cứu các bài toán quản lý nghiệp vụ ngành trong quân đội.
+
+~ Tham mưu, đề xuất, xây dựng và triển khai các mô hình quản trị, giải pháp
+ứng dụng CNTT phục vụ quản lý, điều hành trong quân đội.
+
+- Nghiên cứu các công nghệ, giải pháp thu thập, lưu trữ, xử lý dữ liệu và xử
+lý thông tin.
+
+- Thực hiện nhiệm vụ tính toán và xử lý dữ liệu của Quân đội, Nhà nước.
+
+- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+9. Phòng Bảo đâm toán học
+
+Chức năng:
+
+'Nghiên cứu, làm chủ và bảo đảm toán học cho các hệ thống VKTBKT công,
+nghệ cao và các hệ thống tính toán trên cơ sở ứng dụng công nghệ thông tin.
+
+Nhiệm vụ.
+
+ 
+
+- Nghiên cứu chuyên sâu về toán học lý thuyết, toán học ứng dụng, các mô
+hình tính toán, phương pháp tính trong các hệ thống VKTBKT công nghệ cao.
+
+~ Nghiên cứu bảo đảm toán học cho các hệ thống thông tin, các hệ thống tính
+toán phục vụ công tác chỉ huy, tham mưu, tác chiến.
+
+- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+10. Phòng Công nghệ tri thức và nhận dạng:
+
+Chức năng:
+
+Nghiên cứu công nghệ tri thức, công nghệ xử lý dữ liệu lớn, thông minh hóa
+các hệ thống ứng dụng công nghệ thông tin phục vụ Quốc phòng-An ninh.
+
+Nhiệm vụ:
+
+- Nghiên cứu các công nghệ trong lĩnh vực khai thác dữ liệu, biểu diễn trị
+thức, học máy và suy luận, quản trị tri thức, ứng dụng trong xây dựng các hệ
+thông thông minh.
+
+- Nghiên cứu, ứng dụng các công nghệ phân tích, xử lý dữ liệu đa phương- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+Tại Cơ sở phía Nam (02 Phòng nghiên cứa)
+
+11. Phòng Số hóa điều khiển:
+
+Chức năng:
+
+Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu
+trong lĩnh vực xử lý số phục vụ nhiệm vụ khai thác làm chủ VKTBKT công
+nghệ cao.
+
+Nhiệm vụ:
+
+- Nghiên cứu, phát triển công nghệ, giải pháp xử lý số trong khai thác làm
+chủ các thiết bị điều khiển của các hệ thống VKTBKT công nghệ cao.
+
+- Nghiên cứu, thiết kế, chế tạo các mô hình VKTBKT phục vụ huấn luyện,
+diễn tập.
+
+~ Nghiên cứu, chế tạo vật tư thay thế và các Zip dự phòng tiến tới chế tạo các
+khối, module lớn cho các loại VKTBKT.
+
+- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+12. Phòng Hệ thông tin quân sự:
+
+Chức năng:
+
+Nghiên cứu, phát triển khoa học công nghệ và ứng dụng kết quả nghiên cứu
+trong lĩnh vực tích hợp các hệ thống và tự động hóa phục vụ quốc phòng an ninh.
+
+Nhiệm vụ:
+
+- Nghiên cứu, phát triển công nghệ, giải pháp tích hợp và điều khiển các hệ
+thống phục vụ cho tự động hóa chỉ huy và huấn luyện.
+
+- Xây dựng và triển khai các hệ thống phần mềm tích hợp và mô phỏng ứng.
+dụng cho chỉ huy-tham mưu, quản lý-điều hành phục vụ huấn luyện, diễn tập và
+sẵn sàng chiến đầu.
+
+- Tham gia xây dựng tiềm lực (đào tạo, chuyển giao... ), tham mưu, tư vấn
+và thực hiện các nhiệm vụ được giao trong lĩnh vực liên quan.
+
+Như vậy về tỗ chức của Viện bao gồm:
+
+- Trụ sở chính phía Bắc, Cơ sở phía Nam
+
+~ 05 Ban cơ quan (04 ở phía Bắc, 01 ở phía Nam)
+
+I# I ìnn nnhiên cứu; 10 phòng phía Bắc, 02 phòng phía Nam.So với tổ chức hiện tại (Theo quyết định só 810/QĐ-TM), Viện đã xây dựng
+tổ chức mới giảm 03 phòng nghiên cứu trong đó: 02 Phòng nghiên cứu tại Trụ
+sở chính phía Bắc và 01 Phòng nghiên cứu tại Cơ sở phía Nam.
+
+1V. Xây dựng biên chế Viện CNTT
+
+“Trên cơ sở chức năng, nhiệm vụ và tổ chức của Viện CNTT đã đề xuất và
+biên chế hiện tại (/heo Quyết định 810/QĐ-TM), Viện đã xây dựng và đề xuất
+các phương án biên chế (như trong Phụ lục 2).
+
+1W.1. Phương án biên chế theo Chỉ thị 153/CT-VKHCNOS
+
+So sánh với biên chế hiện tại (heo Quyết định 810/QĐ-TM) của Viện,
+
+phương án đã giảm quân số như sau:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'Vvšng Biên „ hiện P9 đề | Tỷ Ẫ =
+Viện CNTT. 145 103 28.97
+Lãnh đạo Viện 5 5 0
+Cơ quan 21 17 19,05
+Khối nghiên cứu 119 81 31,93
+Cơ sở phía Nam 35 18 48,57
+
+ 
+
+Khối cơ quan trong phương án biên chế bằng 16,5% so với tổng quân
+xuất do đặc thù Cơ sở phía Nam của Viện có con dấu và tài khoản nên có
+
+01 cơ quan (Ban BĐTH) ở phía Nam.
+1W.2. Phương án biên chế Viện đề xuất
+
+So với biên chế hiện tại (heo Quyết định 810/QĐ-TM) của Viện, phương án
+đã giảm quân số như sau:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VỆ xây Biên chế lện| Biênchếđề | Tỷ lệgiảm
+tại xuất (%)
+Viện CNTT 145 116 20
+Í Lãnh đạo Viện so 5 ọ
+Cơ quan 21 17 19,05
+Khối nghiên cứu | 119 94 2101
+Cơ sở phía Nam | 35 20 42,86
+
+ 
+
+Khôi cơ quan trong phương án biên chế băng 14,7% so với tông quân số đề
+
+xuất do đặc thù Cơ sở phía Nam của Viện có con dấu và tài khoản nên có bế trí
+'Vvšng Biên „ hiện P9 đề | Tỷ Ẫ =
+Viện CNTT. 145 103 28.97
+Lãnh đạo Viện 5 5 0
+Cơ quan 21 17 19,05
+Khối nghiên cứu 119 81 31,93
+Cơ sở phía Nam 35 18 48,57
+
+ 
+
+ 
+
+ 
+
+Khối cơ quan trong phương án biên chế bằng 16,5% so với tổng quân số đ
+t do đặc thù Cơ sở phía Nam của Viện có con dấu và tài khoản nên có bố t
+ơ quan (Ban BĐTH) ở phía Nam.
+
+IV.2. Phương án biên chế Viện đề xuất
+So với biên chế hiện tại (heo Quyết định 810/QĐ-TM) của Viện, phương ái
+
+iảm quân số như sau:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tổ chức Biên chế hiện| Biênchếđể | Tỷ lệgiảm
+tại xuất (%)
+Viện CNTT 145 116 20
+_Lãnh đạo Viện so 5 ọ
+Cơ quan 21 17 19,05
+Khối nghiên cứu 119 94 2101
+Cơ sở phía Nam 35 20 42,86 Cơ sở phía Nam Khối nghiên cứu. Cơ quan 
+Lãnh đạo Viện Viện CNTT Tổ chức Khối cơ quan trong phương
+- do đặc thù Cơ sở phía Nan
+ơ quan (Ban BĐTH) ở phía
+[V.2. Phương án biên chế )
+So với biên chế hiện tại (/£
+iảm quân số như sau: 
+Cơ sở phía Nam Khối nghiên cứu Cơ quan Lãnh đạo Viện 
+Viện CNTT Tổ chức 35 119 
+21 145 Biên chế hiện
+tại án biên chế bải
+của Viện có c
+Nam.
+
+lên đề xuất
+
+› Quyết định 8, 
+35 119 21 145 
+Biên chế hiện
+tại 20 94 116 
+Biên chế đề
+xuất g 16,5% so với t
+n dấu và tài kho:
+
+0⁄QÐ-TM) của V 'Biên chế đề
+xuất 81 
+17 103 42,86 21/01 
+19,05 20 Tỷ lệ giảm
+(%) ng quân số ‹
+n nên có bó t
+
+lên, phương í 
+48,57 31,93 19,05 28,97 
+Tỷ lệ giảm
+(%) 01 cơ quan (Ban BĐTH) ở phía Nam.
+
+'Viện CNTT là đơn vị nghiên cứu đầu ngành về Công nghệ thông tin phục vụ
+khai thác làm chủ VKTBKT cũng như chỉ huy-tham mưu, quản lý điều hành
+trong Quân đội. Từ nay đến năm 2020, Viện đang triển khai các nhiệm vụ trọng,
+điểm như: Dự án công nghệ cao, các nhiệm vụ thuộc đề án KC.T giai đoạn 2,
+chương trình KC.BM và sắp tới là chương trình KC.KT:
+
+- Dự án công nghệ cao cấp nhà nước “Nghiên cứu, thiết kế, xây dựng hệ
+thống tác nghiệp, tính toán, mô phỏng phương án tác chiến biển đảo trên nền hải
+đồ số và sa bàn số 3D”.
+
+- Đề tài cấp Bộ thuộc chương trình KC.BM “Nghiên cứu, thiết kế, xây dựng,
+các hệ thống mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà phá bom
+mìn, vật nỗ”.
+
+- Các đề tài cấp Bộ thuộc đề án KC.T giai đoạn 2:
+
++ Nghiên cứu, thiết kế chế tạo và thử nghiệm máy KY 16311 thuộc hệ thống,
+tự động điều khiển phóng tên lửa trên tàu dựa trên nguyên mẫu KV 16311 của tổ
+hợp KACY 3P-60V2-12418 và lắp ráp hoàn chỉnh hệ thống KACY 12418-VN
+có chức năng tương đương KACY 3P-60V3-12418;
+
++ Nghiên cứu thiết kế và chế tạo khối chức năng TITII9, IIBB34 trong máy
+tính trên khoang BLHBM-20-701 của đạn tên lửa 3M-242;
+
++ Hoàn thiện thiết kế và qui trình công nghệ chế tạo thiết bị kiểm tra hệ
+thống điều khiển quán tính LI-074 của tên lửa Kh-35E;
+
++ Nghiên cứu, thiết kế, chế tạo thiết bị tự động kiểm tra tình trạng kỹ thuật khối
+'BMI của hệ thống tự động điều khiển phóng tên lửa trên tàu KACY 3P-60V2-1241.8;
+
++ Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra tên lửa Kh-35E dựa
+theo nguyên lý hoạt động của thiết bị nguyên mẫu.
+
+Trong giai đoạn tiếp theo, Viện tiếp tục duy trì và tập trung nghiên cứu, làm
+chủ: hệ thống tự động điều khiển phóng tên lửa; hệ thống tự động kiểm tra tên
+lửa, các hệ thống đảm bảo bay, các hệ thống mô phỏng... Viện CNTT đề xuất
+phương án biên chế này vừa thực hiện đúng yêu cầu tính đủ, tỉnh gọn và đảm
+bảo hoàn thành xuất sắc các nhiệm vụ.
+
+'V. Kiến nghị
+
+'Viện CNTT đã xây dựng CNNV, TCBC theo chỉ đạo và hướng dẫn của Viện
+KHCNGđS. Kính đề nghị Ban chỉ đạo xây dựng CNNV, TCBC của Viện
+KHCNGS nghiên cứu, xem xét.
+
+"1PHỤ LỤC2
+Chức năng, nhiệm vụ Viện Công nghệ thông tin
+(Kèm theo công văn số l6 /VCNTT-KH ngày 30 tháng 3 năm 2018 của Viện CNTT)
+
+I. Chức năng
+
+Nghiên cứu ứng dụng Công nghệ thông tin trong nghiên cứu, làm chủ, thiết
+kế, chế thử, chế tạo, sản xuất, sửa chữa, cải tiến vũ khí trang bị kỹ thuật công
+nghệ cao, tập trung vào máy tính và phần mềm điều khiển; Xây dựng các hệ
+thống phục vụ huấn luyện sẵn sàng chiến đấu và các hệ thống thông tin hỗ trợ
+chỉ huy-tham mưu, quản lý điều hành phục vụ Quốc phòng-An ninh và kinh tế
+quốc dân.
+
+1. Nhiệm vụ
+
+1. Tổ chức nghiên cứu khoa học và công nghệ ngành Công nghệ thông tin,
+toán ứng dụng và tự động hóa chỉ huy theo định hướng của Nhà nước, Bộ Quốc
+phòng và Viện KHCNQS. Nghiên cứu những vấn đề thuộc lĩnh vực Công nghệ
+thông tin và các ngành có liên quan, làm cơ sở cho việc phát triển công nghệ
+mới phục vụ Quốc phòng - An ninh và kinh tế quốc dân.
+
+2. Ứng dụng thành tựu KHCN và kết quả nghiên cứu của Viện vào làm
+chủ, khai thác sử dụng, sửa chữa, cải tiến, đánh giá kiểm tra vũ khí trang bị kỹ
+thuật công nghệ cao và sản xuất vật tư kỹ thuật bảo đảm cho vũ khí trang bị kỹ
+thuật trong Quân đội, tập trung vào máy tính và phần mềm điều khiển. Tổ chức
+sản xuất, chế thử sản phẩm, xây dựng hoàn thiện quy trình công nghệ, huấn
+luyện đào tạo và chuyển giao công nghệ.
+
+3. Thiết kế chế tạo các sản phẩm Công nghệ thông tin cho công tác huấn
+luyện phục vụ sẵn sàng chiến đấu và tham gia đảm bảo kỹ thuật phục vụ huấn
+luyện, diễn tập trong Quân đội.
+
+4. Ứng dụng Công nghệ thông tin vào công tác chỉ huy - tham mưu, quản lý
+điều hành trong Quân đội. Thực hiện các nhiệm vụ tính toán và xử lý dữ liệu của
+Quân đội, Nhà nước và các cơ quan Đảng.
+
+5. Đào tạo nguồn nhân lực cho các cơ quan, đơn vị trong và ngoài Quân đội
+thuộc ngành Công nghệ thông tin. Tư vấn, giám sát, thẩm định các dự án thuộc
+lĩnh vực Công nghệ thông tin. Xây dựng và phát triển tiềm lực KHCN của Viện.
+Thực hiện công tác đào tạo sau đại học theo chỉ đạo của Viện KHCNQAS.
+
+6. Tổ chức hợp tác về KHCN, chuyền giao công nghệ với các cơ quan, đơn
+vị trong và ngoài nước; Tham gia các dịch vụ KHCN gắn với chức năng, nhiệm
+vụ của Viện KHCNQS, theo quy định của Nhà nước và Bộ quốc phòng.PHỤ LỤC 3
+'Tổ chức, biên chế Viện Công nghệ thông tin
+(Kèm theo công văn số ⁄tI6/VCNTT-KH ngày 4yháng 3 năm 2018 của Viện CNTT)
+
+1. Tổ chức
+Lãnh đạo
+Live
+Cơ sở
+phía Nam
+
+Ban Chính | || Ban HC- Ban Tài Ban Bảo đảm
+trị HC chính tổng hợp
+
+H Phòng Kỹ thuật hệ thống ] Phòng Số hóa điều khiển _]
+
+|| Phòng Phần mềm chuyên dụng | Phòng Hệ thông tin quân sự |
+
+Phòng Thiết bị chuyên dụng
+
+Phòng Phân tích và xử lý tín hiệu
+
+ 
+
+ 
+
+Ban Kế
+hoạch
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phòng Hệ thông tin địa lý quân sự
+Phòng Tích hợp các hệ thống huấn luyện
+Phòng Hệ thông tin chỉ huy tham mưu
+
+Phòng Hệ thông tin quản lý điều hành
+
+ 
+
+ 
+
+Phòng Bảo đảm toán học
+
+Phòng Công nghệ tri thức và nhận dạng
+
+ 
+
+ụ
+Cơ
+phía
+
+ 
+
+Ban Kế Ban Chính Ban HC- Ban Tài
+hoạch trị HC chính
+
+ 
+
+ 
+
+ 
+
+  
+
+Phòng Kỹ thuật hệ thống
+
+Phòng Số hóa điều khiển
+
+[4
+
+  
+
+ 
+
+|| Phòng Phần mềm chuyên dụng
+
+ 
+
+Phòng Thiết bị chuyên dụng
+
+Phòng Phân tích và xử lý tín hiệu
+
+Phòng Hệ thông tin địa lý quân sự
+Phòng Tích hợp các hệ thống huấn luyện
+Phòng Hệ thông tin chỉ huy tham mưu
+
+Phòng Hệ thông tin quản lý điều hành
+
+ 
+
+ 
+
+Phòng Bảo đảm toán học
+
+ 
+
+tự
+
+Phòng Công nghệ tri thức và nhận dạng
+
+Phòng Hệ thông tin quân Viện CNTT đã xây dựng phương án biên chế của Viện theo Chỉ thị
+153/CT-VKHCNQS trong mục II.1. Tuy nhiên, xuất phát từ yêu câu triển khai
+các nhiệm vụ của Viện trong những năm tới rất nặng, Viện xin đề xuất phương,
+án biên chế trong mục II.2.
+
+11.1. Phương án biên chế theo chỉ thị 153/CT-VKHCNOS:
+
+ 
+    
+ 
+
+Quân lực quản lý.
+
+HHHI1L
+
+ 
+     
+     
+
+ 
+
+TÔ CHỨC- CHỨC DANH 'Ghỉ chú
+
+Tổng số
+®
+sọ
++
+QNCN
+cụ
+HĐLĐ
+lóm chức vụ
+
+ 
+
+VIỆN CÔNG NGHỆ THỐNG
+
+TIN
+1. THỦ TRƯỞNG VIỆN.
+Viện trưởng
+
+“Chính trị viên
+
+Phó viện trường.
+
+1 KHÔI CƠ QUAN
+
+1- Bạn Kế hoạch
+
+“Trưởng bạn
+
+Trợ lý
+
+2- Ban Chính trị
+
+“Trưởng ban
+
+Trợ lý
+
+Nhân viên thông kế
+
+3- Ban Hành chính- Hậu cần
+"Trưởng bạn
+
+Trợ —
+
+"Nhân viên văn thư.
+
+Tái xe
+
+4- Ban Tài chính
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+16,50%.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—|—l#|»|=|«|=|+|—|—|| #
+>|
+
+ 
+
+ 
+
+  
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B
+
+ 
+
+ 
+
+"Nhân viên thủ quỹ.
+TH KHÔI NGHIÊN CỨU
+1- Phòng Kỹ thuật hệ thống
+Trường phòng.
+
+Phó trưởng phòng.
+
+Nghiên cửu viên
+
+Kỹ thuật viên —
+
+2- Phòng Phần mềm chuyên.
+dị
+
+ 
+
+$
+
+ 
+
+ 
+
+ 
+
+=|~|—|=
+=|—|—|=|&
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Trưởng phòng.
+
+Phó trưởng phòng,
+
+"Nghiên cứu viên
+
+Kỹ thuật viên
+
+3 Phòng Thiết bị chuyên dụng.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2|—|e|~|~| a |=|>|~|~|+|#|—|—|—|e|-|-|—-|-|>|—|-|~|#|*|=|=|s|=|-|—-|>
+'VIỆN CÔNG NGHỆ THÔNG
+TIN TÔ CHỨC- CHỨC DANH LÁI xe Nhân viên văn thư 
+“Trợ lý 3- Ban Hành chính- Hậu cần
+
+"Trưởng bạn. Nhân viên thông kê Nhân viên thông kê 
+Trợ lý “Trưởng ban 1- Ban Chính trị “Trợ lý 
+1- Ban Kê hoạch Phó viện trưởng. Chính trị viên 3- Phòng Thiệt bị chuyên dụng 
+Kỹ thuật viên Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 
+2- Phòng Phân mêm chuyên
+tu Kỹ thuật viên. Nghiên cửu viên Phó trưởng phòng 
+“Trưởng phòng 1- Phòng Kỹ thuật hệ thông Nhân viên thủ quỹ “Trợ lý 
+II. Biên chế
+
+Viện CNTT đã
+153/CT-VKHCNGS tr
+các nhiệm vụ của Viện
+án biên chế trong mục Ï
+
+11.1. Phương án b 103 œ3uạL 17T 
+8E Ây ‹
+ng !
+tron
+l8.
+
+ên ‹ Cá
+“ii 11 
+11 69 85 phụ
+II.1.
+ững
+
+heo. 
+lực quản lý 18 1 Tu)
+
+hỉ í 
+N2NÒ 12 nhị
+
+hị 1 dÒN2. 
+biế
+ên,
+rất
+
+53⁄( HSQ-BS °
+
+tặng
+
+T-] 12 
+ĐH-CĐ. 4
+lỂ c
+
+„ Vị HĐLĐ cầu
+` xu 
+"RA 2/02 (HỌNN Ghi chú hỉ thị
+ì khai
+tương TÔ CHỨC- CHỨC DANH
+
+  
+
+Quên lực quản lý.
+
+   
+
+ 
+
+QP
+HĐLĐ
+lhóm chức vụ
+
+CN
+
+ 
+
+Kỹ thuật viên
+
+ 
+
+.4- Phòng Phân tích và xử lý tín
+hiệu
+
+   
+
+ 
+
+Trưởng phòng.
+
+ 
+
+ 
+
+Phó trưởng phòng
+
+ 
+
+ 
+
+Nghiên cứu viên
+
+ 
+
+ 
+
+Kỹ thuật viên
+
+ 
+
+ 
+
+Phòng Hệ thông tì địa lý
+quân sự.
+
+  
+
+ 
+
+Trưởng phòng,
+
+ 
+
+ 
+
+Phó trưởng phòng,
+
+ 
+
+Nghiên cứu viên
+
+ 
+
+Kỹ thuật viên
+
+—|>|—|—
+
+ 
+
+'6-Phòng Tích hợp các hệ thống.
+huấn luyện
+
+ 
+
+Trưởng phòng.
+
+ 
+
+Phó trưởng phòng,
+
+ 
+
+"Nghiên cứu viên
+
+ 
+
+ 
+
+Kỹ thuật viên
+
+—|>~|—|—
+
+ 
+
+7- Phòng Hệ thông tìn chỉ huy.
+tham mưu
+
+ 
+
+Trưởng phòng.
+
+«|
+
+ 
+
+Phó trưởng phòng,
+
+ 
+
+Nghiên cứu viên.
+
+ 
+
+Kỹ thuật viên
+
+ 
+
+8- Phòng Hệ thông tìn quản lý
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"Nghiên cứu viên
+
+ 
+
+ 
+
+điều hành. T
+Trưởng phòng. 1 $8
+Phó trưởng phòng. 1Ị1I
+Nghiên cứu viên 4 4| 4
+Kỹ thuật viên ]
+9-Phòng Bảo đảm toán học 7 J6] 6
+Trưởng phòng. 1 1 1
+Phó trưởng phòng, 1 1 1
+4 4 4
+1
+
+Kỹ thuật viên.
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+10- Phòng Công nghệ trí thức
+và nhận dạng,
+
+ 
+
+Trưởng phòng,
+
+ 
+
+ 
+
+Phố trưởng phòng,
+
+ 
+
+ 
+
+"Nghiên cứu viên
+
+la.|rz|=
+
+ 
+
+  
+
+Kỹ thuật viên
+
+—|>|—|—
+
+ 
+
+IV. CƠ SỞ PHÍA NAM.
+
+ 
+
+ 
+
+“Chỉ huy trưởng (Viện phó kiếm)
+
+ 
+
+ 
+
+“Chỉ huy phó (Kiêm trưởng,
+tòng)
+
+  
+ 
+
+ 
+
+'5- Ban Bảo đâm tổng hợp phía
+sAm
+“Trưởng phòng 6-Phòng Tích hợp các hệ thông.
+huấn luyện Nghiên cứu viên Phó trưởng phòng 
+%- Ban Bảo đảm tông hợp phía
+Ï]—_. “Chỉ huy phó (Kiêm trưởng,
+những Chỉ huy trưởng (Viện phó kiêm) 1V, CƠ SƠ PHÍA NAM 
+Kỹ thuật Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 
+10- Phòng Công nghệ trí thức.
+và nhận dạng Kỹ thuật viên Nghiên cửu viên Phó trưởng phòng 
+“Trưởng phòng '9-Phòng Bảo đảm toán học Phó trưởng phòng #- Phòng Hệ thông tin quản lý
+điều hành. 
+Nghiên cứu viên Phó trưởng phòng "Trưởng phòng 7- Phòng Hệ thông tin chỉ huy
+tham mưu 
+Kỹ thuật vií "Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 
+'3-Phòng Hệ thông tin địa lý.
+quân sự Nghiên cứu viên phòng + Phòng Phân tích và xử lý tín
+hiệu 
+Kỹ thuật viên TÔ CHỨC- CHỨC DANH ga uQL 14 
+Cá
+."“ 14 ‹ NONÒ. 
+Ìn lự Ân lực quản lý
+
+Trình độ.
+CMKT:
+
+ 
+
+8
+8
+
+5
+
+E
+5
+
+CNQP
+
+HĐLĐ
+
+thóm chức vụ
+
+Ghi chú
+
+ 
+
+š
+Š
+1
+
+~| pH‹Cb
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+«| dÒN2 "¬ 
+HSQ-BS lý | dong 
+TC 1 0U HĐLĐ 
+RA 203 GHỌ(N | Ghi chú - Xg, Quân lực quân lý | Thy 49 Ề "
+TÔ CHỨC- CHỨC DANH | # #8 8| 8| Ghichú
+Ễ §lš § §
+LẮI: +
+8 giế Ỹ Ỷ PỊ» ỉ
+“Trưởng ban rII[T1 5
+Tryl rit[1
+Nhân viên văn thơ r1 rị1 i
+Tãixe LT—] INRI I
+1i-Phòng Sõhóa điukhin | 7 |6 .6 11 [1 ï
+“Trưởng phòng r1 :
+Phổ trưởng phông IIRRNI °
+Nghiên cứu viễn +†+T+4
+Kệ thuật viên I I i
+12-Phòng Hệ thông tn quânsg | 7 | 6| 6 |1 [1 r
+“Trưởng phòng T11 5
+Phó trưởng phông ï ï °
+3
+Viện đề xuất
+
+ 
+
+  
+
+TÔ CHỨC- CHỨC DANH Ghi chú.
+
+Tổng số.
+
+CNQP
+HSQ-BS
+CĐ
+TC
+sc
+HĐLĐ.
+Nhóm chức vụ.
+
+ 
+
+'VIỆN CÔNG NGHỆ THÔNG
+TIN
+
+1. THỦ TRƯỜNG VIỆN
+Viện trường
+Chính trị viên
+Phó viện trường
+1. KHÔI CƠ QUAN.
+1- Ban Kế hoạch. 3
+Trưởng ban I
+Trợ lý D
+2- Ban Chính trị 3
+“Trưởng bạn Ị
+Trợ lý '
+"Nhân viên thống kế Ị
+3- Ban Hành chính- Hậu cần 4
+Trưởng bạn Ï
+Trợ lý rỊrị1
+
+'
+
+'
+
+3
+
+'
+
+1
+
+1
+
+°
+
+| 98 |18
+
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
++|—|—|| #
+
+ 
+
+6]6 4+2 1466%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"Nhân viên văn thự
+Tái xe
+
+4- Bạn Tài chính
+
+“Thường bạn
+
+Trợ lý
+
+Nhân viên thủ quỹ
+
+TI KHÔI NGHIÊN CỨU
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+838 12112 2
+ÍÚH,. KHÔI NGHIÊN CUU Nhân viên thủ quỳ “Trợ lý 4- Ban Tài chính 
+LẢI xe hân viên văn thư "Trợ lý "Trưởng ban 
+Nhân viên thông kê “Trợ lý. “Trưởng ban “Trưởng ban 
+Phá vi
+
+ 
+
+trướng Chính trị viên "Viện trưởng 'VIỆN CÔNG NGHỆ THÔNG
+TIN 
+TÔ CHỨC- CHỨC DANH 1.2. Phương án Ì Kỹ thuật viêt Nghiên cứu viên 
+Phó trưởng phòng "Trưởng phòng 12-Phòng Hệ thông tin quân sự Kỹ thuật viên 
+Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 11-Phòng Sô hóa điêu khiến 
+LÀI xe Nhân viên văn thư “Trợ lý “Trưởng ban 
+TÔ CHỨC- CHỨC DANH 94 116 gs8uọL 
+lên. g5 Bọ. 82 "H 
+— 11 98 Lộ 
+Viện ¬" 12 eu 
+18 qu h 13 
+NONÒ. nlự QNCN h lự 
+đỒÒN2 quả CNQP quả 
+HSQ-BS lý lý 12 
+12 ĐH-CĐ. ĐH-CĐ. nh: 
+HĐLĐỀ đ1đH A 202 MỌNN. 'A 202 HIỌIN 
+14,66% Ghi chú. Ghi chú TÔ CHỨC- CHỨC DANH.
+
+Tổng số
+
+Cân Bộ
+quản lý.
+
+Quân lực quản lý.
+
+Trình độ.
+CMKT
+
+ 
+
+#
+QNCN
+IQP
+
+ISQ-BS
+
+TC
+sc
+HĐLĐ
+
+Nhóm chức vụ
+
+Ghỉ chú
+
+ 
+
+1- Phòng Kỹ thuật hệ thống.
+
+ 
+
+     
+
+Trưởng phòng,
+
+ 
+
+Phố trưởng phòng,
+
+   
+
+ 
+
+"Nghiên cứu viên
+
+ 
+
+l2|—|—l=
+la|~|—l=
+
+ 
+
+Kỹ thuật viên.
+
+—|a|—|—le
+
+ 
+   
+
+ 
+
+2- Phòng Phần mềm chuyên.
+dh
+
+ 
+
+ 
+
+ 
+
+“Trưởng phòng
+
+   
+
+ 
+
+Phố trướng phòng,
+
+ 
+
+ 
+
+   
+   
+
+"Nghiên cứu viên
+
+ 
+
+Kỹ thuật viên.
+
+   
+
+ 
+
+3- Phòng Thiết bị chuyên dụng.
+
+ 
+
+     
+
+Trưởng phòng.
+
+ 
+
+Phó trưởng phòng,
+
+   
+
+ 
+
+"Nghiên cứu viên
+
+   
+
+ 
+
+Kỹ thuật viên.
+
+—|>|—|—|¬|—|>|—|—
+
+ 
+
+   
+     
+
+4- Phòng Phân tích và xử lý tín
+hiệu
+
+ 
+
+"Trưởng phòng,
+
+ 
+
+ 
+
+Phó trưởng phòng,
+
+    
+
+ 
+
+Nghiên cứu viên.
+
+   
+
+ 
+
+Kỹ thuật viên
+
+   
+
+ 
+
+5-Phòng Hệ thông tin địa lý
+quân sự.
+
+     
+
+ 
+
+Trưởng phòng,
+
+   
+
+ 
+
+Phó trưởng phòng,
+
+   
+
+ 
+
+"Nghiên cứu viên.
+
+ 
+
+   
+   
+
+Kỹ thuật viên
+
+=|>|—|—
+
+ 
+
+6-Phòng Tích hợp các hệ thống
+huấn luyện
+
+    
+
+ 
+
+"Trưởng phòng,
+
+    
+
+ 
+
+"Phó trưởng phòng
+
+   
+
+ 
+
+Nghiên cứu viên.
+
+   
+
+ 
+
+Kỹ thuật viên
+
+ 
+
+       
+   
+
+ 
+
+7- Phòng Hệ thông tin chỉ huy.
+tham mưu
+
+ 
+
+Trưởng phòng,
+
+ 
+
+     
+
+Phó trưởng phòng,
+
+ 
+
+Nghiên cứu viên
+
+   
+
+ 
+
+Kỹ thuật viên
+
+ 
+
+®- Phòng Hệ thông tin quản lý
+điều hành.
+
+ 
+
+Trưởng phòng,
+
+ 
+
+Phó trưởng phòng.
+
+ 
+
+'Nghiền cứu viên
+
+ 
+
+Kỹ thuật viên.
+
+ 
+
+3-Phòng Bảo đảm toán học.
+
+ 
+
+ 
+
+“Trường phòng.
+
+ 
+
+=|x|¬|la|=|=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—..
+#- Phòng Hệ thông tin quản Ì|
+điều hành H.y Kỹ thuật viên Nghiên cứu viên Phó trưởng phòng 
+“Trưởng phòng T- Phòng Hệ thông tin chỉ huy
+tham mưu. Nghiên cứu viên Phó trưởng phòng. 
+Trưởng phòng 6-Phòng Tích hợp các hệ thông.
+huấn luyện Kỹ thuật viên Nghiên cứu viên 
+Phó trưởng phòng “Trưởng phòng '3-Phòng Hệ thông tin địa lý
+quân sự Kỹ thuật viên 
+Nghiên cứu viên Phó trưởng phòng “Trưởng phòng + Phòng Phân tích và xử lý tín
+hiệu 
+"Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 3- Phòng Thiết bị chuyên dụng 
+Kỹ thuật viên "Nghiên cứu viên Phó trưởng phòng 2- Phòng Phần mềm chuyên
+p “hen 
+"Nghiên cứu viên “Trưởng phòng TÔ CHỨC- CHỨC DANH. “Trưởng phòng 
+'9-Phòng Bảo đảm toán học Nghiên cứu viên Phó trưởng phòng “Trưởng phòng 
+Tổng số Cán Bộ
+quản Quân lực quản lý. „ Ï 
+QNCN CNQP HSQ-BS ĐH-CĐ 
+Trình độ
+CMKT " _—_ _= | 
+" âA 209 MIỌNN, .mmaEEFTT ElTTEs[T†T-EaTT-ksr
+
+l|-|[[ lJ©zl[[ léls| [| " 
+Ghỉ chú 
+Kỹ thuật viên "Nghiên cứu viên "Nghiên cứu viên Phỏ trưởng phòng. 
+“Trưởng phòng 12-Phòng Hệ thông tin quân sự "Nghiên cứu viên “Trưởng phòng. 
+11-Phòng Số hóa điêu khiến LÁi xe Nhân viên văn thư. Trợ lý 
+“Trưởng ban ® Ban Bảo đảm tông hợp phía.
+— Chỉ huy phó (Kiêm trưởng.
+nháng (Chỉ huy trưởng (Viện phó kiêm) 
+IV. CƠ SƠ PHÍA NAM Kỹ thuật viên Nghiên cửu viên Phó trưởng phòng 
+“Trưởng phòng. 10- Phòng Công nghệ tri thức
+và nhận dạng Kỹ thuật Nghiên cứu viên 
+Phỏ trưởng phòng TÔ CHỨC- CHỨC DANH $» 8uộL 16 
+Cán Bộ
+su 16 Quân lực quản lý QNCN 
+dỒN2 HSQ-BS “Trình độ
+CMKT s 
+mmDỘŨ bị Nhóm chức vụ Ghi chú 

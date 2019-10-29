@@ -1,0 +1,647 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 209/VCNTT-KH Hà Nội, ngày 29 tháng 5 năm 2018
+'V/v phê duyệt bộ chỉ tiêu kỹ thuật và kịch
+bản nghiệm thu của để tài cáp Viện
+KHCNQS
+
+Kính gửi: Phòng Tham mưu — Kế hoạch.
+
+Căn cứ công văn số 602/BTL-KT ngày 05 tháng 3 năm 2018 của Bộ Từ lệnh
+Vùng 2 Hải quân về việc góp ý bộ chỉ tiêu kỹ thuật và kịch bản thử nghiệm,
+nghiệm thu Hệ thông mô phỏng máy điều khiển bắn pháo MR-123-02 MOD 3 trên
+tàu 1241.8;
+
+Căn cứ Biên bản hội thảo Báo cáo kết quả thực hiện đề tài và Bộ chỉ tiêu kỹ
+thuật và kịch bản nghiệm thu của đề tài cấp Viện KHCNQS “Nghiên cứu thiết kế,
+chế tạo hệ thống mô phỏng máy điều khiển bắn pháo MR-123-02 MOD 3 trên tàu
+1241.8” ngày 26 tháng 4 năm 2018;
+
+Căn cứ công văn số 5948/BTL-KHQS ngày 23 tháng 5 năm 2018 của Bộ Tư
+lệnh Hải quân về việc góp ý kiến đối với bộ chỉ tiêu kỹ - chiến thuật của Hệ thông
+mô phỏng máy điều khiển bắn pháo MR-123-02 MOD 3 trên tàu 1241.8,
+
+Viện Công nghệ thông tin đã triển khai chỉnh sửa, hoàn thiện bộ chỉ tiêu kỹ
+
+ 
+
+thuật và kịch bản nghiệm thu theo kết luận của hội thảo. (Chỉ tiết trong phụ lục
+
+kèm theo)
+
+'Viện Công nghệ thông tin đề nghị Phòng Tham mưu-Kế hoạch xem xét báo
+cáo Giám đốc Viện KHCNQS phê duyệt bộ chỉ tiêu kỹ thuật và kịch bản nghiệm
+thu làm cơ sở để nghiệm thu đề tài nêu trên./.
+
+Nơi nhận: N TRƯỞNG/2_
+~ Như trên; À
+~ Lưu: VT, KH; H03.
+
+  
+
+Trung tá Đỗ Việt BìnhPhụ lục
+CHỈ TIÊU KỸ THUẬT VÀ KỊCH BẢN NGHIỆM THU
+(Kèm theo Công văn sốJ0/VCNTT-KH ngày 29/5/2018 của Viện Công nghệ thông tin)
+A. CHỈ TIÊU KỸ THUẬT
+2 CĐ - giấc —ả
+
+tở
+10 _Switch mạng Màn hình LCD cảm ứng của bộ tạo
+giả máy 3M-1 và 3M-2 Màn hình LCD máy giáo viên 
+Kevboard, Mouse Power Suply VGA Card CPU 
+Mainboard Hệ thống máy tính. thiết bị 'Hệ thống làm mát Độ ẩm tương đối không khí 
+Nhiệt độ môi trường làm việc Vật liệu chế tạo:
+- Khung xương chính
+- Cánh tủ vỏ bảo về Kích thước và trọng lượng:
+- Chiều ngang khối giữa lớn nhất
+- Tạo góc khối giữa lớn nhất
+
+- Chiều ngang khối giữa nhỏ nhất
+~ Tạo góc khối giữa nhỏ nhất
+
+~ Chiều ngang khối dưới
+
+~ Trong lượng chưa có thiết bị
+
+= Trong lượng có thiết bị "Tủ điều khiển 3M-I và 3M-2 
+'Tên hệ thống Không dây NVIDIA GeForce
+GTXI1070 hoặc tương đương S§SD, dung lượng > 200 GB 
+DDR4, dung lượng > 8GB Intel Core i7, socket 1151, tốc
+đô > 3.0 GHz §ocket 1151, chipset Z270/
+H270 hoặc tương đương 02 quạt thông gió 220V-50HZ. 
+%% đến 40% Mẫu vàng
+Tĩnh điên Thép hộp 20x20 mm
+"Théo lá. 1740x600x220 mm
+800 mm
+
+78,5
+
+320 mm
+
+tị
+
+340 mm
+
+<45 kg
+
+<60kg 
+> §cổng RJ45, tốc độ Kích cỡ 21,5 inch, độ phân giải
+Full HD 1920 1080, cảm ứng
+đa điểm, thời gian đáp ứng <
+100 ms 'Kích cỡ > 24 inch, độ phân giải
+Full HD 1920x1080 Ghi chú NTavvv9
+I.H "Tên hệ thống ' thống phần mềm Hệ điều hành 
+Điện áp đầu vào Các chuẩn giao tiếp ngoại vi Các chuẩn kết xuất hình ảnh Bảng đèn 
+Phần mềm soạn thảo kịch bản
+trên máy chủ Bàn đạp cò Tay quay (Joystick) Hệ thống đàm thoại đơn công 
+Hệ thống âm thanh ~ Xây dựng trên nền bản đồ 2D.
+đồng bộ với không gian sinh
+ảnh 3D. Giao điện trực quan.
+thao tác dễ sử dụng.
+
+~ Kịch bản huấn luyện đáp ứng
+được các tình huống tác chiến
+trong thực tế và có tính mở.
+
+~ Các chức năng chính:
+
++ Tạo kịch bản huấn luyện
+trên nên bản đồ số 2D,
+
++ Điều khiển chuyển động và
+quan sát các đối tượng.
+
++ Điều khiển các yếu tố thời
+tiết - môi trường.
+
++ Điều khiển kết nói - truyền
+thông với bộ tạo giả máy 3M-I,
+3M-2 và với hệ thống mô
+phỏng bắn pháo AK-630 bằng
+cột ngắm.
+
++ Quản lý tài khoản người
+dùng.
+
++ Thống kê, in ấn kết quả
+huấn luyện. "Tính năng kỹ thuật Microsoft Windows 10
+'Professional 64bit 
+USB, Com HDMI, DVI, Display Port Led Outdoor Nhôm, kích thước 82x170x38
+mm, sử dụng. tối thiểu 200.000
+lần 
+Điện áp 5V, điều khiển theo 4
+chiều, giá trị 2 biến trở 10KQ,
+momen kéo trục X,Y: 70gf -
+250gf (Ikg =
+101.972gf ), tuổi thọ 500.000
+vòng quay 2 kênh có thể tăng lên 4 kênh Hệ thống âm thanh 5.I, jack
+3.5mm và RCA. Ghi chú 
+..........
+1 NYesmxv/
+Phần mềm sinh ảnh 3D cho khối
+Ti của bộ tạo giả máy
+3M-I Phần mềm mô phỏng mặt máy
+của bộ tạo giả máy 3M-1 Phần mềm sinh ảnh 3D trên máy
+chủ Phần mềm mô phỏng mặt máy
+của bộ tạo giả máy 3M-2 
+- Xây dựng giao diện tương tác
+người-máy trên các màn hình
+cảm ứng của bộ tạo giả 3M-2.
+- Giao diện đồ họa trực quan,
+sinh động, có tính thẩm mỹ cao.
+và giống với máy thật.
+~ Quy trình khai thác, sử dụng.
+sát với thực tế, phù hợp với
+giáo trình huấn luyện của Quân
+chủng Hải Quân.
+- Các chức năng chính:
+
++ Chọn phương pháp và chế
+độ bắn.
+
++ Điều khiển bắn các bệ pháo. ~ Thể hiện sinh động trực quan.
+địa hình và các đối tượng tác
+chiến trong không gian 3D
+dưới các điều kiện thời tiết -
+môi trường khác nhau.
+
+- Thể hiện sinh động các hiệu
+ứng chiến trường. - Xây dựng giao diện tương tác
+người-máy trên các màn hình
+cảm ứng của bộ tạo giả 3M-1.
+- Giao điện đồ họa trực quan,
+sinh động, có tính thẩm mỹ cao
+và giống với máy thật.
+~ Quy trình khai thác, sử dụng,
+sát với thực tế, phù hợp với
+giáo trình huấn luyện của Quân
+chủng Hải quân.
+- Các chức năng chính:
+
++ Chức năng các chế độ làm.
+việc của đài ra đa.
+
++ Chức năng các chế độ quan
+sát và bám sát mục tiêu.
+
++ Thực hành sục xạo, bám
+
+sát mục tiêu theo 2 chế độ: tự
+động và bằng tay. - Thể hiện sinh động trực quan
+địa hình và các đối tượng tác
+trong không gian 3D.
+dưới các điều kiện thời tiết -
+môi trường khác nhau.
+
+- Thể hiện sinh động các hiệu
+ứng chiến trường. -  ...
+Phần mềm sinh ảnh 3D cho khối
+Ti của bộ tạo giả máy
+3M-2 Hệ thống cơ sở dữ liệu Các modul điều khiển - truyền
+thông - Hệ thông cơ sở dữ liệu địa
+hình biển đảo 3D khu vực tác
+chiến, kích thước 25x25 km
+
+- Hệ thống cơ sở dữ liệu đối
+tượng tác chiến 3D theo chuẩn
+Open Flight với tổng số hơn
+100 đối tượng thuộc các phân
+lớp chính sau:
+
++ Tàu thuyền: tàu pháo, tàu tên
+lửa, tàu hộ vệ, khinh hạm, khu
+trục, tuần đương, tàu sân bay,
+tàu ngầm, tàu tuần tra, tàu vận
+tải, tàu cứu hộ, tàu dân sự.
+
++ Máy bay: máy bay tiêm kích, 
+- Modul tạo giả các thành phần
+liên kết ngoài của máy MR-
+123-02 MOD 3.
+
+- Modul điều khiển tương tác
+người - máy cho các bộ tạo giả
+máy 3M-] và 3M-2.
+
+~ Modul kết nối với các thiết bị
+ngoại vi.
+
+~ Modul đồng bộ dữ liệu giữa
+các máy sinh ảnh.
+
+~ Modul tạo các hiệu ứng thời
+tiết - môi trường: mây, mưa,
+ngày. đêm: các hiệu
+trường: khói, lửa,
+cháy, nô; hiệu ứng âm thanh
+được mô phỏng sống động, trực
+quan.
+
+~ Modul điều khiển, kết nối hệ
+thống trong chế độ huấn luyện
+hiệp đồng giữa phòng mô
+phỏng máy MR-123-02 MOD 3
+và phòng mô phỏng bắn pháo
+AK-630 bằng cột ngẫm. - Thể hiện sinh động trực quan
+địa hình và các đối tượng tác
+chiến trong không gian 3D
+dưới các điều kiện thời tiết -
+môi trường khác nhau.
+
+- Thẻ hiện sinh động các hiệu
+ứng chiến trường. + Lắp các giá trị hiệu chỉnh
+tầm hướng. B. KỊCH BẢN NGHIỆM THU
+1. CÔNG TÁC CHUẨN BỊ :
+
+-_ Kịch bản nghiệm thu hệ thông mô phỏng máy điều khiển bắn pháo MR-
+
+123-02 MOD 3 trong 2 chế độ: chế độ huấn luyện Độc lập và chế độ huấn
+
+luyện Hiệp đồng với hệ thống mô phỏng bắn pháo AK-630 bằng cột ngăm
+
+đã được xây dựng.
+- _ Thành phần tham gia:
+
++ Nhóm đề tài và các cán bộ có liên quan.
++ Kíp chiến đấu tham gia huần luyện: đầy đủ lực lượng tại các vị trí, sát với
+
+thực tế huấn luyện của Lữ đoàn.
+II. THỰC HÀNH NGHIỆM THU
+1. Chế độ Độc lập
+
+Trong chế độ Độc lập có sự tham gia của các thành phần sau:
+-_ Giáo viên hệ thống MR-123-02 MOD 3.
+~_ Trắc thủ rađa pháo MR-123-02 MOD 3.
+~_ Trắc thủ pháo MR-123-02 MOD 3.
+
+Chỉ tiết các bước thực hiện như sau:
+
+ 
+
+STT Nội dung thực hành
+
+Chỉ tiết thực hành,
+yêu cầu đảm bảo.
+
+=†
+Ghi chú ,
+
+ 
+
+1 | Bật máy tính giáo viên MR-123-02
+MOD 3 và các máy tính của tủ
+3M-1,3M-2
+
+- Bật máy giáo viên MR123.
+- Bật nút nguồn khởi động máy
+tính ở hông tủ 3M-I và 3M-2.
+
+- Các máy tính hoạt động bình
+thường, các dịch vụ ngầm của
+phần mềm trên máy tính của tủ
+3M-1, 3M-2 đều được khởi
+chạy xong.
+
+ 
+
+2 | Chạy phần mềm soạn thảo kịch
+
+bản MR-123 trên máy giáo viên
+MR-123-02 MOD 3; phần mềm
+mô phỏng mặt máy, quang truyền
+hình của tủ 3M-1 và 3M-2
+
+- Chạy Shorteut của chương |
+trình soạn thảo kịch bản |
+MR123 trên Desktop của máy
+giáo viên MR-123-02 MOD 3.
+
+~ Đăng nhập hệ thống trên máy
+giáo viên MR-123, sau khi
+đăng nhập thành công phần
+mềm trên máy giáo viên sẽ kích
+hoạt tắt cả các chương trình mô
+phỏng mặt máy và quang
+truyền hình của tủ 3M-l và tủ
+3M-2.
+
+- Kiểm tra lại tất cả các máy
+trạm đã kết nối vào hệ thống để
+tiếp tục thực hiện các bước tiếp
+theo.
+
+ 
+
+ 
+
+ 
+
+3 |Tạo kịch bản huấn luyện trên
+
+ 
+
+ 
+
+- Từ phần mềm soạn thảo kịch
+
+ 
+
+h4 Xe AI
+STT
+
+ 
+
+Bật máy (
+MOD 3
+3M-1,3N
+
+ 
+
+Chạy ph
+bản MR
+MR-123.
+mô phỏn
+hình của
+
+ 
+
+ 
+
+ 
+
+Tạo kị STT \-123-02
+
+ì của tủ
+
+ 
+
+hảo kịch
+iáo viên
+n mềm
+
+ 
+
+Ch
+|_x
+- Bật má
+~ Bật nút
+tính ở hề
+~ Các m
+thường,
+phần mi
+3M-I, .
+
+chạy xoi
+- Chạy
+trình +
+MRI123
+
+"g truyền | giáo viê
+2
+
+~ Đăng,
+giáo v
+đăng n
+mềm tr
+hoạt tắt
+phỏng
+truyền
+3M-2.
+- Kiểm
+trạm đi
+tiếp tục
+theo. nh, Ghi chú
+lo
+
+R123.
+ông máy
+3M-2.
+ông bình
+\gầm của
+nh của tủ
+rợc khởi
+
+ 
+
+- chương |
+ịch bản|
+của máy
+MOD 3.
+trên máy
+sau khi
+ông phần
+ên sẽ kích
+› trình mô
+/à quang
+M-I và tủ
+
+ 
+
+Ì các máy Uy 1 + 2AVN
+Huấn luyện theo chức năng máy giáo viên và điều khiến các
+tình huống tác chiến trong suốt
+quá trình thực hành huấn luyện - Các chế độ làm việc của đài
+ra đã:
+
++ Chế độ sục sạo (IIOMCK)
+
++ Chế độ bắt (3AXBAT)
+
++ Chế độ “PYHHOE”
+
++ Chế độ “ABTOMAT”
+
+- Các chế độ làm việc của màn
+hình ra đã:
+
++ Làm việc của màn hình
+M©®H-68KP ở chế độ quan sát
+hình tròn
+
++ Làm việc của mản hình
+M®H-68KP ở chế độ sục sạo
+mặt quạt
+
++ Làm việc của màn hình
+M©®W-68KP ở chế độ hiển thị
+“Màn hình dạng A bản, mở bài tập sẵn có hoặc tạo
+kịch bản mới từ các công cụ
+đối tượng và công cụ đi chuyển
+trên menu, kết hợp với các thao
+m tương tác trực tiếp trên bản
+
+~ Một kịch bản bài tập tạo ra có
+thể gồm: các đối tượng tĩnh
+như trực thăng treo, tàu chiến
+địch đang đứng yên; các đối
+tượng ở trạng thái chuyển
+động: máy bay trực thăng, máy
+bay phản lực, tàu chiến; các
+đường di chuyển có thể cập
+nhật, chỉnh sửa các tham số
+như tọa độ, độ cao, vận tốc và
+gán cho các đối tượng.
+
+- Điều khiển các tình huồng tác
+chiến: Điều khiển các trạng thái
+của đối tượng:khởi tạo, chuyển
+động, tạm dừng, ẩn/hiện đối
+tượng thay đổi đườngdi
+chuyển.
+
+- Điều khiển thay đổi các yếu
+tố thời tiếmôi trường: mây,
+mưa, sóng, gió, ngày đêm ..
+
+- Chọn đối tượng để quan sát,
+thay đổi góc tầm, góc hướng,
+khoảng cách quan sát .. 2. Chế độ Hiệp đồng
+
+Trong chế độ Hiệp đồng có sự tham gia của các thành phần sau:
+
+- _ Giáo viên hệ thống MR-123-02 MOD 3.
+~ _ Trắc thủ rađa pháo MR-123-02 MOD 3.
+
+`... .L
+Kết thúc thực hành Huấn luyện điều khiển bắn pháo Huấn luyện thao tác tại vị trí
+chiến đấu - Sau khi đã thực hành sục xạo,
+bám bắt, điều khiển bắn pháo
+tiêu diệt mục tiêu theo các bước
+ở trên chương trình sẽ kết thúc
+thực hành, đưa ra các thống kê
+kết quả bắn và tùy chọn in ấn. 
+~ Kiểm tra mạch bắn.
+
+- Bắn pháo AK-176 và AK-630
+trong chế độ bắn tự động bằng.
+ra đa.
+
+- Bắn pháo AK-176 và AK-630
+trong chế độ bắn bằng quang
+truyền hình. Trong chế độ này,
+kíp chiến đấu dùng Joystick kết
+hợp với quan sát trực tiếp bằng,
+mắt thường trên khối quang
+truyền hình để thực hiện sục
+xạo, bám bắt, tiêu diệt mục
+
+iêu. - Sục sạo và bắt mục tiêu khi
+hệ thống làm việc độc lập.
+
+~ Sục sạo và bắt mục tiêu khi hệ
+thống làm việc kết hợp với ra
+đa “TIO3HTMB-M21”
+
+~ Bám sát mục tiêu và xác định
+phần tử bắn ở chế độ tự động.
+
+~ Bám sát mục tiêu bằng tay.
+
+- Hiệu chỉnh chính xác quá
+trình bám sát khi đứt bám. + Làm việc của màn hình
+M©®-68KP ở chế độ “JIVIIA”
++ Màn hình thông tin đa chức
+năng M®M-68KH
+
+- Các chế độ bám sắt mục tiêu:
++ Bám sát mục tiêu tự động
+
++ Bám sát mục tiêu bằng tay
+
++ Chế độ quét
+
++ Chế độ độ cao thiết lập
+
+- Thực hành tạo giả mục tiêu
+và hiệu chỉnh lượng sửa của
+trắc thủ pháo tại tủ 3M-2. SỐ - _ Trắc thủ pháo MR-123-02 MOD 3.
+-_ Trắc thủ pháo AK-630.
+Trong chế độ Hiệp đồng, chương trình soạn thảo kịch bản MR-123 trong chế
+độ Độc lập đóng vai trò là chương trình soạn thảo kịch bản chung cho cả 2 hệ
+thống mô phỏng. Chỉ tiết các bước thực hiện như sau:
+
+“=4
+Nội dung thực hành Thực hành sục xạo, tìm kiếm,
+bám bắt, tiêu diệt mục tiêu trong
+chế độ bắn tự động bằng ra đa
+cho cả 2 pháo AK-176 và AK-630 Kích hoạt phần mềm sinh ảnh các
+kênh của hệ thống mô phỏng bắn
+pháo AK-630 từ phần mềm soạn
+thảo kịch bản MR-123 trên máy
+giáo viên MR-123-02 MOD 3 Chạy phần mềm soạn thảo kịch
+bản MR-123 trên máy giáo viên
+MR-123-02 MOD 3; phần mềm
+mô phỏng mặt máy, quang truyền
+hình của tủ 3M-1 và 3M-2 
+Bật máy tính giáo viên MR-123-02
+MOD 3, máy tính của tủ 3M-I,
+3M-2 và các máy tính của các
+kênh sinh ảnh hệ thống mô phỏng.
+bắn pháo AK-630 bằng cột ngắm. Chỉ tiết thực hành,
+vêu cầu đảm bảo - Trong chế độ tự động này,
+rađa sẽ điều khiển dẫn động
+cho cả 2 pháo AK-176 và AK-
+630. - Mở Form “Điều khiển kết
+nối” của phần mềm soạn thảo
+kịch bản MR-123.
+
+- Bật các kênh sinh ảnh của hệ
+thống mô phỏng bắn pháo AK-
+630 từ menu ngữ cảnh.
+
+- Kiểm tra lại tất cả các máy
+trạm đã kết nối vào hệ thống để
+tiếp tục thực hiện các bước tiếp
+theo. 
+- Chạy Shortcut của chương
+trình soạn thảo kịch bản
+MR123 trên Desktop của máy
+giáo viên MR-123-02 MOD 3.
+
+~ Đăng nhập hệ thống trên máy
+giáo viên MR-123, sau khi
+đăng nhập thành công phần
+mềm trên máy giáo viên sẽ kích
+hoạt tắt cả các chương trình mô
+phỏng mặt máy và quang
+truyền hình của tủ 3M-1 và tủ
+3M-2. - Bật máy giáo viên MR123.
+- Bật nút nguồn khởi động máy
+tính ở hông tủ 3M-1 và 3M-2.
+
+- Bật máy tính của các kênh
+sinh ảnh AK-630.
+
+- Các máy tính hoạt động bình
+thường, các dịch vụ ngầm của
+phần mềm trên máy tính của tủ
+3M-1, 3M-2, các kênh sinh ảnh
+AK-630 đều được khởi chạy
+xong, Ghi chú 
+Kết thúc thực hành Thực hành bắn pháo AK-630
+trong chế độ dự phòng bắn bằng
+cột ngắm (BK) - Kết thúc thực hành, chươn;
+trình đưa ra các thống kê kết
+qưả bản và tùy choniin ấn. ~ Tại vị trí của trắc thủ pháo ở
+tủ 3M-2, đưa pháo AK-630 về
+chế độ dự phòng BK..
+
+- Trắc thủ pháo AK-630 thực
+hành điều khiển bắn pháo AK-
+630 bằng cột ngắm đê tiêu diệt
+mục tiêu. Trong chế độ này vẫn
+có thể điều khiển bắn pháo AK-
+176 bằng ra đa hoặc quang
+truyền hình.
+
+- Các thông số về mục tiêu, góc
+pháo, các tham số khác của tàu
+và kết quả tiêu điệt mục tiêu
+được đồng bộ trong toàn hệ
+thống. 
+~ Các thông số về mục tiêu, góc.
+pháo, các tham số khác của tàu
+và kết quả tiêu diệt mục tiêu
+được đồng bộ trong toàn hệ
+thống. 

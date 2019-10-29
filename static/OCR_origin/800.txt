@@ -1,0 +1,232 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+Số:?3 # /VCNTT-KH Hà Nội, ngày 26 tháng 7 năm 2017
+V/v khảo sát tổ hợp NKVS-27, xin ý.
+kiến chỉ tiêu kỹ thuật, kịch bản thử
+nghiệm, nghiệm thu và kế hoạch thử.
+nghiệm hệ thống điều khiển trung tâm
+của tổ hợp đối không mặt đất NKVS-27
+
+Kính gửi: Phòng TM-KH/Viện KHCNQS.
+
+Căn cứ công văn số 3828/BTL-TM ngày 18/10/2016 của Bộ tư lệnh Phòng
+Không - Không Quân gửi Viện Khoa học và Công nghệ quân sự về việc bảo đảm
+kỹ thuật hệ thống thông tin bảo đảm bay của Quân chủng PK-KQ;
+
+Căn cứ Quyết định số 1414/QĐ-VKHCNQS ngày 04/10/2016 của Giám đốc
+'Viện KH-CN quân sự về việc giao nhiệm vụ thực hiện đề tài nghiên cứu khoa học
+và phát triển công nghệ cấp Viện KHCNQS năm 2016;
+
+Căn cứ theo thuyết minh đề tài: “Nghiên cứu thiết kế, chế tạo hệ thống điều
+khiển trung tâm của Tổ hợp đối không mặt đắt NKVS-27 làm việc đồng bộ với
+máy bay Su-27SK]I và Su-30MKII” đã được phê duyệt,
+
+Để thực hiện các bước tiếp theo của đề tài, 'Viện Công nghệ thông tin đề xuất
+kế hoạch tổ chức khảo sát tổ hợp NKVS-27 tại Trung đoàn 935 và xin ý kiến chỉ
+tiêu kỹ thuật /ohự /e 1), kịch bản thử nghiệm, nghiệm thu các sản phẩm của đề tài
+theo các đợt như sau:
+
+IL ĐợtI,
+
+1. Nội dung:
+
+- Khảo sát tổ hợp NKVS tại Trung đoàn 935 Biên Hòa.
+
+2. Thành phần: Nhóm thực hiện đề tài của Viện Công nghệ thông tin/ Viện
+
+KHCNG® đại diện là đồng chí chủ nhiệm đề tài, thiếu tá Đinh Văn Ngọc và
+
+06 đồng chí bao gồm:
+
+- Trung tá Vũ Sơn Hà, Viện CNTT/Viện KHCNQS.
+
+~ Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Phạm Văn Hậu, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Trần Thức Trung, Viện CNTT/Viện KHCNGQS.
+
+- Đại úy Trần Hiếu Minh, Viện CNTT/Viện KHCNGS.
+
+- Đại úy Nguyễn Hoàng Bách, Viện CNTT/Viện KHCNGS.
+
+3. Thời gian: Dự kiến khoảng 10 ngày (01/8/2017 đến 10/8/2017).
+
+4. Địa điểm: Trung đoàn 935.I. Đợt2.
+
+1. Nội dung:
+
+- Thử nghiệm hệ thống điều khiển trung tâm của Tổ hợp đối không mặt đất
+NKVS-27 do tổ đề tài chế tạo.
+
+2. Thành phần: Tổ thực nhiệm đề tài của Viện Công nghệ thông tin/Viện
+KH&CNG®S đại diện là đồng chí chủ nhiệm đề tài, Thiếu tá Đỉnh Văn Ngọc và 05
+đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Phạm Văn Hậu, Viện CNTT/Viện KHCNQ8S.
+
+~ Thiếu tá Trần Thức Trung, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Trần Hiếu Minh, Viện CNTT/Viện KHCNQS.
+
+3. Thời gian: Dự kiến khoảng 10 ngày (15/8/2017 đến 25/8/2017).
+
+4. Địa điểm: Trung đoàn 927.
+
+5. Quy trình thử nghiệm (phụ lục 2 kèm theo).
+
+II. Đợt 3.
+
+1. Nội dung: À
+
+- Thử nghiệm hệ thống điều khiển trung tâm của Tổ hợp đối không mặt đất `Š*
+'NKVS-27 do tổ đề tài chế tạo.
+
+2. Thành phần: Tổ thực nhiệm để tài của Viện Công nghệ thông tin/Viện
+KH&CNGQS đại diện là đồng chí chủ nhiệm đề tài, Thiếu tá Đinh Văn Ngọc và 06
+đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Vũ Sơn Hà, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Phạm Văn Hậu, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Trần Thức Trung, Viện CNTT/Viện KHCNQS.
+
+~ Đại úy Trần Hiếu Minh, Viện CNTT/Viện KHCNQS.
+
+3. Thời gian: Dự kiến khoảng 10 ngày (15/9/2017 đến 25/9/2017).
+
+4. Địa điểm: Trung đoàn 923.
+
+5. Quy trình thử nghiệm (øhự lục 2 kèm theo).
+
+IV. Đợt4.
+
+1.Nội dung:
+
+- Thử nghiệm, nghiệm thu hệ thống điều khiển trung tâm của Tổ hợp đối
+không mặt đất NKVS-27 do tổ đề tài chế tạo.2. Thành phần: Tổ thực nhiệm để tài của Viện Công nghệ thông tin/Viện
+KH&CNGS đại diện là đồng chí chủ nhiệm đề tài, Thiếu tá Đinh Văn Ngọc và 06
+đồng chí bao gồm:
+
+- Trung tá Nguyễn Đức Thảo, Phòng TM-KH/Viện KHCNQS.
+
+- Trung tá Vũ Sơn Hà, Viện CNTT/Viện KHCNQS.
+
+~ Thiếu tá Nguyễn Văn Thanh, Viện CNTT/Viện KHCNQS.
+
+~ Thiếu tá Phạm Văn Hậu, Viện CNTT/Viện KHCNQS.
+
+- Thiếu tá Trần Thức Trung, Viện CNTT/Viện KHCNQS.
+
+- Đại úy Trần Hiếu Minh, Viện CNTT/Viện KHCNQS.
+
+3. Thời gian: Dự kiến khoảng 10 ngày (25/10/2017 đến 05/11/2017).
+
+4. Địa điểm: Trung đoàn 927.
+
+5. Quy trình thử nghiệm nghiệm thu (phụ lục 2 kèm theo).
+
+Kính đề nghị Phòng TM-KH xem xét vào báo cáo ban Giám đốc Viện
+KHCNGS liên hệ các đơn vị liên quan tạo điều kiện phối hợp, giúp đỡ đoàn công,
+tác Viện Công nghệ thông tin hoàn thành nhiệm vụ. WWứ——
+
+Nơi nhận:
+¬ng
+- Lưu: VT, KH; H03.
+
+tyChỉ tiêu kỹ thuật chủ yếu hệ thống điều khiển trung tâm của Tổ hợp đối không
+mặt đất NKVS-27:
+
+- _ Bộ xử lý Intel E8500 hoặc tương đương.
+
+- _ Bộ nhớ RAM 2GB hoặc lớn hơn.
+
+- _ Ô cứng HDD 500GB hoặc lớn hơn.
+
+-_ Giao tiếp: USB, Ethernet, COM, LPT, PS/2,
+
+_ _ Giao tiếp tín hiệu Arinc429; 16 kênh thu, 8 kênh phát,
+
+~_ Giao tiếp tín hiệu rời rạc; 32 kênh vào, 32 kênh ra,
+
+~ _ Giao tiếp tín hiệu thoại tương tự: 4 đến 16 kênh,
+
+~_ Điện áp đầu vào; 220V...
+
+~_ Công suất nguồn ATX 600W hoặc lớn hơn.
+
+~ _ Nhiệt độ làm việc: -10°C đến +55,
+
+~_ Độâm: 98% tại 355C, ¬
+
+~ _ Hệ điều hành Fedora, tà
+
+~ _ Thời gian sẵn sàng sau khi cấp nguồn môi: không lớn hơn 2 phút,
+
+- hơn 2 phục ảnh kiến tr ng tể cá nh phân ca Là lợp không lớ
+hơn 2 phút.
+
+~ _ Số lượng các hướng liện lạc trao đổi TSL khi sử dụng thiết bị liên lạc mã P-
+098-3H: đến 2,
+
+-_ Số lượng các hướng thu thông báo sự cổ khi sử dụng các thiết bị liên lạc mã
+P-098-3H: đến 2,
+
+- Số lượng các tuyến 4 dây để nối vào các đầu vào/ra thoại cho các đài vô
+
+&
+
+tuyến: đến 6,PHỤ LỤC 2.
+Kịch bản thử nghiệm, nghiệm thu hệ thống điều khiển trung tâm của Tổ hợp
+
+đối không mặt đất NKVS-27.
+(Kèm theo công văn số: 3 1 Y. /VCNTT-KH ngày 2 6 /7/2017 của Viện Công nghệ
+thông tin)
+
+1. Kịch bản thử nghiệm hệ thống điều khiển trung tâm của TỔ hợp đối
+không mặt đất NKVS-27 do nhóm đề tài ch tạo:
+Bước 1: Bật nguồn cho Tổ hợp NKVS-27, kiểm tra hiện trạng tổ hợp.
+Bước 2: Ngắt nguồn tổ hợp NKVS-27.
+Bước 3: Tháo hệ thống điều khiển trung tâm nguyên bản của tổ hợp đối
+không mặt đất NKVS-27.
+Bước 4: Lắp hệ thống điều khiển trung tâm của tổ hợp đối không mặt đất
+NKVS-27 do nhóm dễ tài chế tạo.
+lật nguồn cho tổ hợp NKVS-27.
+iểm tra tình trạng hoạt động của tổ hợp.
+Igắt nguồn tổ hợp NKVS-27.
+Bước 8: Lắp lại hệ thống điều khiển trung tâm nguyên bản của tổ hợp.
+'Bước 9: Bật nguồn và kiểm tra tình trạng hoạt động của tổ hợp.
+'Bước 10: Lặp lại từ bước 2 đến bước 6 nếu muốn thử nghiệm lần tiếp theo.
+Bước 11: Đánh giá kết quả, lập biên bản.
+
+ 
+ 
+
+2. Kịch bản nghiệm thu hệ thống điều khiển trung tâm của Tổ hợp đối
+không mặt đất NKVS-27 do nhóm đề tài chế tạo:
+Bước 1: Bật nguồn cho Tổ hợp NKVS-27, kiểm tra hiện trạng tổ hợp.
+Bước 2: Ngắt nguồn tổ hợp NKVS-27.
+Bước 3: Tháo hệ thống điều khiển trung tâm nguyên bản của tổ hợp đối
+không mặt đất NKVS-27.
+Bước 4: Lắp hệ thống điều khiển trung tâm của tổ hợp đối không mặt đất
+NKVS-27 do nhóm bên chế tạo.
+Bước 5: Bật nguồn cho tổ hợp NKV§-27.
+Bước 6: Kiểm tra tình trạng hoạt động của tổ hợp.
+Bước 7: Ngắt nguồn tổ hợp NKVS-27.
+Bước 8: Lắp lại hệ thống điều khiển trung tâm nguyên bản của tổ hợp.
+Bước 9: Bật nguồn và kiểm tra tình trạng hoạt động của tổ hợp.
+Bước 10: Đánh giá kết quả, lập biên bản.
+
+ 
+
+Chú ý: Các thao tác thực hiện đều tuân theo hướng dẫn của tài liệu và sự.
+điều hành của đơn vị.

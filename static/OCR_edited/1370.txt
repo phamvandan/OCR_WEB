@@ -1,0 +1,206 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIÊN CỘNG NGHỆ TRÔNG HUY Độc lập - Tự do - Hạnh phúc
+Số: 322/VCNTT-KTHT Hà Nội, ngày 34 tháng {năm 2018
+V/v xin phê đuyệt giá sản phẩm quốc
+
+phòng sản xuất năm 2018
+
+Kính gửi:
+~ Phòng Tài chính/BTL Phòng không- Không quân;
+- Cục Phòng không Lục quân/ BTL PK-KQ.
+
+Căn cứ Thông tư số 199/2014/TT-BQP ngày 31/12/2014 của Bộ trưởng
+Bộ Quốc phòng về Quy định chỉ tiết và hướng dẫn công tác quản lý giá trong,
+lĩnh vực quốc phòng;
+
+Căn cứ Hướng dẫn số 4035/BQP-TC ngày 19/4/2018 về việc hướng dẫn
+công tác quản lý giá trong quốc phòng năm 2018;
+
+Căn cứ Công văn số: 02/PKLQ-KHTH ngày 28/02/2018 về việc sản xuất
+máy phát RMORSE-2018 của Cục Phòng không Lục quân/Quân chủng Phòng
+không- Không quân.
+
+'Viện Công nghệ thông tin xây dựng giá thành chế tạo Máy phát R-Morse
+năm 2018 chỉ tiết phụ lục kèm theo Công văn;
+
+Kính đề nghị Phòng Tài chính/BTL Phòng không —- Không quân, Cục
+Phòng không Lục quân/ BTL Phòng không — Không quân thẩm định, báo cáo
+cấp có thẩm quyền phê duyệt ./. ⁄VIÊN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập- Tự do- Hạnh phúc
+
+Hà Nội, ngày tháng _ năm 2018
+BẢNG TỎNG HỢP TÍNH GIÁ SẢN PHẢM QUÓC PHÒNG NĂM 2018
+(Kèm theo công văn số: /VCNTT-KTHT ngày tháng - năm 2018 của Viện Công nghệ thông tin)
+
+NGƯỜI LẬP BIẾU 'VIỆN TRƯỞNG 9%“
+
+,
+
+Đại tá Phạm Hồng Long EutÐnigsế Đỗ Việt Bình
+
+  
+
+#32A2Seac-
+Máy phát RMORSE-2018 Tên sản phẩm Sản
+
+lượng dự
+kiến Giá đang thực
+hiện 
+13.987.000 Giá đơn Viện CNTT đề nghị
+năm 2018 4=3/2 So sánh (%) 
+Đơn giá sản phẩm Giá đơn vị trực thuộc Bộ đề nghị So sánh (%) 'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập- Tự do- Hạnh phúc
+Hà Nội, ngày tháng - năm 2018
+
+BẢNG GIẢI TRÌNH CHI TIẾT TÍNH GIÁ SÂN PHẢM.
+(Kèm theo Công văn số:  /VCNTT-KTHTngày tháng năm 2018 của Viện Công nghệ thông tỉn)
+“Tên sản phẩm: RMORSE-2018
+Số lượng sản phẩm: 01
+
+S4 4s ..
+IC ôn áp nguôn 7805 _
+Bộ cầu Diode 3A. Mạch in 2 lớp phủ lắc
+IC MAX232
+Thẻ nhớ 4GB Giắc căm và cáp RS232C - RS485
+STM 32F103VCT6 Bo mạch hiên thị LCD 20 ký tự x4.
+Bàn phím PC + chống nhiễu 
+Chí phí nguyên vật liệu trực tiếp
+Nguyên vật liệu chính Khoản mục và các chỉ phí sản phẩm Đơn vị
+tính Cái 
+Cái Số Giá đang thực hiện "NI 
+¬ Thành Giá Viện Công nghệ thông tin để nghị năm 2018 Đơn giá 
+50.000
+
+30.000 150.000 30.000 18.000 
+25.000 800.000 _
+
+300.000
+60.000
+150.000. 300.000 Thành tiền 
+20.000 - 50.000 So sánh
+(%} l|Z#%*$*+.. -
+123 1,18 1.16 Tụ chông nhiễu 104, 33PE.
+Cáp 40 sợi 
+Thiết kế sơ đồ nguyên lý bo mạch chủ Vỏ máy, sơn tĩnh điện, in chữ Tip 122 Đèn led màu xanh 
+Loa trong 8 ohm 3W- Quạt thông gió. Tụ hóa 1000 uF Transistor D468 
+Khoản mục và các chỉ phí sản phẩm Giờ § Con 
+Con Con Con Con 
+Con tính SỐ Số 
+Giá đang thực hiện | __ ——'| Đơn giá 
+Thành Số Giá Viện Công nghệ thông tin đề nghị năm 2018 sš 
+Đơn giá 25.000 2.500 30.000 
+15.000 3.000 19.938 200
+
+15.000 
+28.000 7.200
+
+30.000 80.700 -
+
+10.500 - 25.000 
+40.000 159.504 So sánh
+(%) l” “NV z..,
+“Lập tình Moduli
+ào thiết bị
+2 1¡ | Lập trình Modul đ
+LÊ | nang dì
+___ |máy thông tin
+2.12 | Hiệu chỉnh toàn b;
+Soạn thảo và nạp l
+28 lệ
+2.14 | Lập trình Modul b
+2.¡s | Biên tập, tài liệu,
+ˆ_” |hướng dẫn sử dụng
+
+   
+   
+ 
+ 
+   
+  
+
+2.10
+
+  
+
+-2.18 | Lắp ráp, đấu dây k Lập trình Modul nhận dữ liệu từ máy
+tính vào thiết bị Lập trình Modul chế độ phát trực tiếp Lập trình Modul chuyên đôi mã ASCII
+thành mã Morse 
+_Lập trình điều khiên hệ thông Morse
+Lập trình Modul nhận dữ liệu từ bàn __
+
+phím PC vào thiết bị phát Morse “Thiệt kê sơ đô mạch ¡in khôi nguồn. Thiết kệ sơ đô nguyên lý khôi nguồn,
+mạch điều khiển kích phát, khuyếch đại,
+
+ôn suất âm. tân
+Thiết kế sơ đồ mạch in bo mạch chủ hệ.
+
+thống phát Morse. Khoản mục và các chỉ phí sân phẩm 
+Lập trình Modul điều khiên kích phát ra
+áy thông tin
+
+Hiệu chỉnh toàn bộ các kh
+
+Soạn thảo và nạp ROM các v
+
+nẫu.
+
+Lập trình Modul bản tin tình báo rada.
+Biên tập, tài liệu, thuyết minh kỹ thuật,
+
+xướng dẫn xữ dưng
+
+   
+  
+
+ 
+
+n bản Giờ Giờ
+Giờ
+Giờ
+
+ 
+
+Giờ Giờ 
+Giờ Giờ Giờ Giá 
+Giờ Giờ Giờ Đơn vị
+tính 
+S Số
+lượng Giá Đơn giá 
+đang thị Thành
+tiền c hiện Giá V 
+48 48 48 48 
+48 12 Số 48 
+19.938 19.938 Đơn giá lện Công nghệ tỉ 
+19.938 19.938 19.938 19.938 
+239.256 159.504. Thành tiền ông tin đề nghị n 
+957.024 957.024 957024 957.024 
+199.380 -
+199.380
+996,900
+319.008 957.024 So sánh
+(%} ăm 2018 "Băng chữ: Mười ba triệu, chín trăm tám mươi bảy nghìn đồng
+
+Gihỉ chú: Căn cứ Nghị định 2005/NĐ-CP ngày 14/12/2005 của Chính phủ. Tiền lương tiền công được tính theo bảng lương AI ngành 6 nhóm
+ngành l1, bậc V, hệ số 3,19 (bảng lương 7 bậc). Ngày công = 3,19 x 1.300.000 đồng : 26 ngày:8 giờ = 19.937,50 đồng/giờ làm tròn 19.938
+đồng /giờ
+
+NGƯỜI LẬP BIẾU
+
+/&~
+
+Đại tá Phạm Hồng Long
+Giá thành toàn bộ các sản phẩm (1+2)
+Lợi nhuận dự kiến 15%
+n phẩm quốc phòng (3+4) _
+
+Giá thanh toán sản phẩm quốc phòng.
+làm tròn (5) Khoản mục và các chỉ phí sản phẩm. Đơn vị
+tính Số 
+Giá Đơn giá đang thụ Thành
+tiền 
+c hiện Số Giá Ý Đơn giá 
+lện Công nghệ tỉ 13.987.000 13.987.402 13.780.692 
+Thành tiền ông tin đề nghị n So sánh
+(%) šm 2018 

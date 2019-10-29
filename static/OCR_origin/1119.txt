@@ -1,0 +1,1455 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Công nghệ mạng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Công,
+nghệ mạng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Công nghệ mạng;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công.tác năm
+2018 cho Phòng Công nghệ mạng, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu triển khai xây dựng hệ thống phục vụ cho nhu cầu quản lý,
+giám sát trong quân đội dựa trên nền tảng IoT.
+
+- Nghiên cứu đề xuất xây dựng các hệ thống mô phỏng phục vụ huấn luyện
+và chỉ huy điều hành.
+
+~ Nghiên cứu khai thác, làm chủ thiết bị, công nghệ phục vụ đảm bảo kỹ
+thuật cho các đơn vị trong quân đội.
+
+- Phát triển thị trường để ứng dụng thiết bị bay không người lái vào phục vụ
+cho diễn tập, chỉ thị mục tiêu.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện và nghiệm thu đề tài Sở KHCN TP.HCM “Nghiên cứu, xây
+dựng phần mềm hỗ trợ công tác huấn luyện các đài ra đa đảm bảo bay phục vụ
+cho máy bay SU-30MK2”.
+
+„ - Bảo vệ đầu vào và triển khai thực hiện các đề tài mở mới cấp tỉnh thành
+phố.
+
+- Tư vấn xây dựng và thực hiện các hợp đồng triển khai ứng dụng CNTT
+cho các cơ quan, đơn vị trong và ngoài quân đội (03 hợp đồng).3. Nhiệm vụ khác:
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm vẻ tiến độ, kết quả thực hiện kế hoạch này.
+
+- Bảo đảm kỹ thuật về công nghệ thông tin cho Cơ sở phía Nam.
+- Có ít nhất 04 bài báo đăng trên tạp chí chuyên ngành.
+~ Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị quyết thắng.
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+___ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng phòng Công nghệ mạng và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. /ú& —
+
+Nơi nhận: m TRƯỞNG
+~ Phòng CNM;
+~ Lưu: VT, KH; H03.
+
+  
+
+ YNñg tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Toán ứng dụng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Toán
+ứng dụng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Toán ứng dụng;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Toán ứng dụng, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu về trí tuệ nhân tạo, các công nghệ mô phỏng.
+
+- Nghiên cứu phát triển xây dựng các core phần mềm trên nền winform và
+'webform.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện và nghiệm thu đề tài dành cho cán bộ trẻ “Nghiên cứu ứng
+dụng Deep learning trong nhận dạng một số loại máy bay chiến đấu”.
+
+- Tham gia thực hiện để tài cấp Bộ Quốc phòng “Nghiên cứu, thiết kế, xây
+dựng các hệ thông mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà phá
+bom mìn, vật nở”
+
+- Chủ động, tích cực xây dựng đề xuất, bảo vệ và thực hiện đề tài, nhiệm
+vụ KHCN các cấp.
+
+- Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội (có ít nhất 02 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+- Tham gia công tác đào tạo sau đại học, đại học.- Xây dựng và triển khai phần mềm quản lý tiến độ đề tài tại Viện. Hỗ trợ
+và đảm bảo phần mềm vận hành bình thường.
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm vẻ tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+___ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Toán ứng dụng và các cán bộ, nhân viên
+trong phòng chịu trách nhiệm thi hành quyết định này. Wlle
+
+Nơi nhận:
+- Phòng TƯD;
+~ Lưu: VT, KH; H03
+
+  
+
+tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Tích hợp các hệ thông tin chỉ huy
+
+ 
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Tích
+hợp các hệ thông tin chỉ huy;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng, “Tích hợp các hệ thông tin chỉ
+huy;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Tích hợp các hệ thông tin chỉ huy, gồm các nội dung sau:
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+~ Nghiên cứu các giải pháp tích hợp các hệ thống thông tin phục vụ chỉ huy,
+điều hành (tập trung hoàn thiện các phân hệ cho chuyên ngành vũ khí).
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Chủ động, tích cực xây dựng đề xuất, bảo vệ và thực hiện đề tài, nhiệm vụ
+KHCN các cấp.
+~ Tiếp tục xây dựng, thực hiện các hợp đồng với các đơn vị trong và ngoài
+quân đội (có ít nhất 01 hợp đồng).
+3. Nhiệm vụ khác:
+~ Tham gia đào tạo đại học (hướng dẫn, thực tập).
+~ Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiền độ, kết quả thực hiện kế hoạch này.
+- Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành.
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.. Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng phòng Tích hợp các hệ thông tin chỉ huy và các
+cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. —
+
+Nơi nhận:
+- Phòng THCHTCH;
+~ Lưu: VT, KH; H03.
+
+ 
+
+Trung tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Thiết bị chuyên dụng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Thiết
+bị chuyên dụng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Thiết bị chuyên dụng;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Thiết bị chuyên dụng, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Tiếp tục nghiên cứu các giải pháp tích hợp với thiết bị chuyên dụng (đo
+lường, điều khiển, xử lý tín hiệu (sonar, tiếng nói)..
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+“Bảo vệ và thực hiện đề tài cấp Nhà nước “Nghiên cứu thiết kế, chế tạo
+thiết bị chuyển mạch (Switch) có tính năng an toàn, bảo mật thông tin trên nền
+tảng FPGA và mã nguồn mở”.
+
+- Tham gia bảo vệ và triển khai dự án KHCN cấp Nhà nước “Nghiên cứu,
+thiết kế, xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến
+biển đảo trên nền hải đồ số và sa bàn số 3D”.
+
+~ Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội (có ít nhất 01 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+~ Tham gia đào tạo đại học và sau đại học (tư vấn, hướng dẫn, giảng
+dạy...), hợp tác và chuyển giao công nghệ.
+
+ˆ Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng, Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiền độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành.- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng phòng Thiết bị chuyên dụng và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. le -
+
+Nơi nhận:
+~ Phòng TBCD,
+~ Lưu: VT, KH; H03.'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Quản trị cơ sở dữ liệu
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Quản
+trị cơ sở dữ liệu;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Quản trị cơ sở dữ liệu;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Quản trị cơ sở dữ liệu, gồm các nội dụng sau:
+
+,Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứa KHCN:
+
+- Tiếp tục nghiên cứu, làm chủ các kỹ thuật chuyên sâu về hệ quản trị
+CSDL SQL Server theo các hướng tối ưu cơ sở dữ liệu có kích thước lớn sử
+dụng kỹ thuật phân đoạn, tiền xử lý trong SQL Server ứng dụng trong các bài
+toán đa ngành.
+
+- Nghiên cứu, làm chủ kỹ thuật khai phá dữ liệu văn bản trên kho ngữ liệu
+văn bản tiếng Việt lớn sử dụng các mô hình học máy (machine learning) như
+giải thuật di truyền - GA, ACO, DBSCAN....
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Thực hiện và nghiệm thu đề tài cấp Viện KHCNQS “Nghiên cứu, xây
+dựng hệ thống tự động thu thập, phân tích, tổng hợp thông tỉn, hỗ trợ công tác
+theo đối, điều hành chỉ huy, ra quyết định trong lĩnh vực thông tin tình báo”.
+
+~ Xây dựng thuyết minh và triển khai thực hiện đề tài nghiên cứu cơ sở
+“Nghiên cứu một số kỹ thuật phân tích, thiết kế và xử lý dữ liệu có kích thước
+lớn ứng dụng trong tối ưu bài toán truy vấn dữ liệu không gian”.- Phối hợp với Cục Kế hoạch- Đầu tư/BQP chuẩn bị kế hoạch, xây dựng
+phương pháp thực hiện khoa học nhiệm vụ Tổng điều tra dân số và nhà ở trong
+Bộ Quốc phòng năm 2019
+
+- Xây dựng và triển khai đúng tiến độ và hiệu quả các hợp đồng dịch vụ
+khoa học với các đơn vị trong ngoài quân đội (có ít nhất 03 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+_ - Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giảng dạy...)
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong.
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 01 bài báo đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiền.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng phòng Quản trị cơ sở dữ liệu và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. | -
+
+Nơi nhận:
+~ Phòng QTCSDL;
+~ Lưu: VT, KH; H03.'VIỆN KH-CN QUÂN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội. ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Kỹ thuật truyền thông và tác chiến mạng
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Kỹ
+thuật truyền thông và tác chiến mạng;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Kỹ thuật truyền thông và tác
+chiến mạng;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm.
+2018 cho Phòng Kỹ thuật truyền thông và tác chiến mạng, gồm các nội dung,
+sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+._~ Nghiên cứu xây dựng các hệ thống mô phỏng phục vụ công tác đào tạo,
+
+huấn luyện cho các đơn vị trong và ngoài quân đội.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+~ Thực hiện và nghiệm thu đề tài cấp Viện KHCNGS “Nghiên cứu thiết
+kế, chế tạo hệ thông mô phỏng máy điều khiển bắn pháo MR-123-02 MOD 3
+trên tàu 1241.8”.
+
+- Tham gia thực hiện để tài cấp Bộ Quốc phòng “Nghiên cứu, thiết kế,
+xây dựng các hệ thông mô phỏng huắn luyện, đào tạo phục vụ cho nhiệm vụ rà
+phá bom mìn, vật nế”.
+
+- Xây dựng và triển khai đúng tiến độ và hiệu quả các hợp đồng dịch vụ
+khoa học với các đơn vị trong ngoài quân đội (có ít nhất 02 hợp đông).
+
+3. Nhiệm vụ khác:
+
+~ Tham gia đào tạo đại học và sau đại học, hợp tác và chuyển giao công,
+nghệ.- Chủ động nghiên cứu công nghệ mới, áp dụng công nghệ tiên tiến trong
+việc nghiên cứu và thực hiện đề tài.
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiêm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành. „
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị quyết thắng.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kẻ từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Kỹ thuật truyền thông và tác chiến mạng
+và các cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. ta -
+
+ 
+
+Nơi nhận: Ý RƯỞNG
+~ Phòng KTTT&TCM; / “
+~ Lưu: VT, KH; H03.
+
+  
+
+Ếế Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Kỹ thuật hệ thống
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Kỹ
+thuật hệ thống;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Kỹ thuật hệ thống;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Kỹ thuật hệ thống, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Nghiên cứu khai thác làm chủ và bảo đảm kỹ thuật cho các hệ thống chỉ
+huy, điều khiển, kiểm tra sửa chữa vũ khí trang bị kỹ thuật thể hệ mới.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+Triển khai thực hiện đúng tiến độ 05 đề tài cấp Bộ Quốc phòng KC-T
+giai đoạn 2:
+
+- Đề tài KC.T-28 “Nghiên cứu thiết kế, chế tạo máy KU163C-VN dựa
+theo nguyên mẫu máy KY1631 và tích hợp thành hệ thống tự động điều khiên
+phóng tên lửa Kh-35E theo mẫu KACV 3P-60V2-1241.8”.
+
+- Đề tài KC.T-22 “Nghiên cứu thiết kế chế tạo thiết bị kiểm tra tình trạng
+kỹ thuật khối BMI1 của hệ thống tự động điều khiển phóng tên lửa trên tàu
+KACYV 3P-60V2-1241.8”.
+
+~ Đề tài KC.T-27 “Nghiên cứu thiết kế và chế tạo khối chức năng IIIITI9,
+IIBB34 trong máy tính trên khoang BLHBM-20-701 của đạn tên lửa 3M-242”.
+
+- Đề tài KC.T-32 “Hoàn thiện thiết kế, chế tạo thiết bị kiểm tra hệ thống
+điều khiển quán tính IỊ-074 của tên lửa Kh-35E”.- Đề tài KC.T-30 “Nghiên cứu thiết kế chế tạo hệ thống tự động kiểm tra
+tên lửa Kh-35E dựa theo nguyên lý hoạt động của hệ thông ACK6.3”.
+
+Thực hiện 03 nhiệm vụ hoàn thiên sản xuất loạt “0”
+
+~ Hoàn thiện và đưa vào sản xuất loạt “0” thiết bị giả đạn IR-60.
+
+~ Hoàn thiện và đưa vào sản xuất loạt “0” thiết bị VIKO-VNOI.
+
+- Hoàn thiện thiết kế, chế tạo khối tính toán BMI của hệ thống điều khiển
+phóng tên lửa KACY 3P-60Y2.
+
+- Tiếp tục xây dựng, thực hiện các hợp đồng với các đơn vị trong và ngoài
+quân đội (có ít nhất 02 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong,
+Phòng. Trưởng phòng, Phó Trưởng Thùg kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Có ít nhất 01 bài báo đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị quyết thắng.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+._ Điều 2. Quyết định có hiệu lực kẻ từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Kỹ thuật hệ thống và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. jgj,
+
+Nơi nhận:
+~ Phòng KTHT,
+- Lưu: VT, KH; H03.'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Hệ thông tin quản lý
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin quản lý;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tin quản lý;
+
+'Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Hệ thông tin quản lý, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+~ Nghiên cứu công nghệ xây dựng sa bàn số 3D: công nghệ xây dựng mô
+hình 3D, địa hình, thể hiện lực lượng, các giai đoạn của quá trình tác chiến,....
+
+- Tiếp tục nghiên cứu chuẩn công nghệ DIS/HLA, ứng dụng trong các bài
+toán mô phỏng huấn luyện kỹ, chiến thuật.
+
+- Tiếp tục nghiên cứu xây dựng giải pháp framework để phục vụ xây dựng,
+các hệ thông tin phục vụ quản lý điều hành.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Bảo vệ và triển khai dự án KHCN cấp Nhà nước “Nghiên cứu, thiết kế,
+xây dựng hệ thống tác nghiệp, tính toán, thể hiện phương án tác chiến biển đảo
+trên nên hải đồ số và sa bàn số 3D”.
+
+~ Tiếp tục xây dựng, thực hiện các hợp đồng với các đơn vị trong và ngoài
+quân đội (có ít nhất 03 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+~ Tham gia đào tạo đại học (thực tập, hướng dẫn tốt nghỉ:- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm vẻ tiến độ, kết quả thực hiện kế hoạch này.
+
+- Có ít nhất 01 bài báo đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiền.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho đến
+khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Hệ thông tin quản lý và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. —
+
+Nơi nhận:
+~ Phòng HTTQL;
+- Lưu: VT, KH; H03.
+
+  
+
+Trung tá Đỗ Việt Bình'VIỆN KH-CN QUẦN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Đào tạo và chuyến giao công nghệ
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kà luận buổi làm việc giữa Thủ trưởng Viện và Phòng Đào
+tạo và chuyển giao công nghệ;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Đào tạo và chuyển giao công,
+nghệ:
+
+Ệ;
+Xét đề nghị của Trưởng ban Kế hoạch,
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Đào tạo và chuyên giao công nghệ, gồm các nội dung sau:
+,Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thê sau:
+1. Về nghiên cứu KHCN:
+~ Tiếp tục nghiên cứu công nghệ xây dựng các ứng dụng trên nền tảng web,
+phát triển hoàn thiện phần mêm quản lý điều hành ứng dụng cho các đơn vị
+trong và ngoài Quân đội.
+2. Dự án, đề tài, hợp đồng QBC:
+- Chủ động, tích cực xây dựng đề xuất, bảo vệ và thực hiện đề tài, nhiệm vụ
+KHCN các cấp.
+~ Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội (có ít nhất 01 hợp đồng).
+3. Nhiệm vụ khác:
+- Đảm bảo, duy trì hệ thống phần mềm quản lý, điều hành cho Viện CNTT,
+'Viện KH&CN Quân sự.
+~ Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giảng dạy...)- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiêm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 01 bài báo đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+.___ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng phòng Đào tạo và chuyển giao công nghệ và các
+cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. wie_
+
+Nơi nhận:
+~ Phòng ĐT&CGCN:
+- Lưu: VT, KH; H03.
+
+  
+
+Trunệ tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội. ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Công nghệ tri thức và tính toán mềm
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Công,
+nghệ tri thức và tính toán mềm;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Công nghệ tri thức và tính
+toán mềm;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công, tác năm
+2018 cho Phòng. Công nghệ tri thức và tính toán mềm, gồm các nội dung sau:
+
+,Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào.
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Đẩy mạnh nghiên cứu về xử lý ngôn ngữ tự nhiên, vào xử lý, phân tích,
+khai phá trì thức từ văn bản tiếng Việt.
+
+- Tiếp tục nghiên cứu về lĩnh vực xử lý ảnh và nhận dạng.
+
+- Nghiên cứu các cơ sở khoa học để làm chủ, phân tích các phần mềm
+chuyên dụng tích hợp trên các loại vũ khí trang bị.
+
+~ Nghiên cứu các cơ sở khoa học về phân tích mã nhị phân đễ xây dựng các
+công cụ hỗ trợ làm chủ, phân tích các phần mềm chuyên dụng tích hợp trên các
+loại vũ khí trang bị.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện và nghiệm thu đề tài cấp Viện KHCN quân sự: “Nghiên cứu
+hoàn thiện, phát triển hệ thống phần mềm tính toán ứng, dụng chiến đầu sử dụng
+phương tiện sát thương hàng, không tiêu diệt mục tiêu mặt đất, mặt nước”.
+
+- Tham gia thực hiện đề tài cấp Bộ Quốc phòng “Nghiên cứu, thiết kế, xây
+dựng các hệ thống mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà phá
+bom mìn. vật nổ"~ Tiếp tục hỗ trợ các đơn vị trong và ngoài quân đội trong việc sử dụng các
+phần mềm Quản lý đảng viên và Quản lý thẻ đảng viên, phân mềm hỗ trợ đại
+hội các cấp.
+
+- Xây dựng và thực hiện tốt các hợp đồng dịch vụ KHCN với các đơn vị
+trong và ngoài quân đội (có ít nhất 02 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+- Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng
+dẫn. giảng dạy...)
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong.
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+~ Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- §ẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+ 
+
+__ Điều 2. Quyết định có hiệu lực kẻ từ ngày ký. Thời gian thực hiện cho
+
+đến khi có Quyết định mới
+Điều 3. Đồng chí Trưởng phòng Công nghệ tri thức và tính toán mềm và
+
+các cán bộ, nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. J8 -
+
+ 
+
+Nơi nhận:
+~ Phòng CNTT&TTM:
+~ Lưu: VT, KH: H03.'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Công nghệ phần mềm
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Công
+nghệ phần mềm;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Công nghệ phần mềm;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Công nghệ phân mềm, ồm các nội dung sau:
+
+,Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+~ Tập trung nghiên cứu về các giải pháp, sản phẩm khoa học công nghệ áp
+dụng cho ngành may (May 10,TNG). —_
+
+- Nghiên cứu một số giải pháp, thiết bị giúp tự động hóa công tác thu
+thập, xử lý và hiển thị thông tin dữ liệu nhằm nâng cao hiệu quả của hệ thông,
+ERP.
+
+- Nghiên cứu tích hợp các thiết bị thông minh vào các hệ thống quản lý,
+giám sát điều.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Chủ động, tích cực xây dựng đề xuất, bảo vệ và thực hiện đề tài, nhiệm
+vụ KHCN các cấp. - .
+
+- Triển khai hệ thống quản trị doanh nghiệp cho Tổng công ty may 10,
+nhà máy may TNG. -
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội (có ít nhát 02 hợp đồng).
+
+- Tập trung thực hiện đúng kế hoạch các hợp đồng đã ký.3. Nhiệm vụ khác:
+
+- Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giảng dạy...).
+
+~ Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong,
+Phòng. Trưởng phòng, Phó Trưởng phòng, kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm vẻ tiền độ, kết quả thực hiện kế hoạch này.
+
+- Có ít nhất 02 bài báo trên tạp chí chuyên ngành.
+
+~ Phòng đạt danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+ 
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Công nghệ phần mềm và các cán bộ,
+nhân viên trong phòng chịu trách nhiệm thi hành quyết định này. Wle —
+
+Nơi nhận: ⁄GVHRJJRƯỞNG
+- Phòng CNPM; ` \
+- Lưu; VT, KH; H03
+
+  
+
+Trung tá Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Bảo đảm kỹ thuật
+
+ 
+
+VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Bảo
+đảm kỹ thuật;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Bảo đảm kỹ thuật;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+. QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Bảo đảm kỹ thuật, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. VỀ nghiên cứu KHCN:
+
+- Tham gia khảo sát, nghiên cứu trang thiết bị các hệ thống bảo đảm kỹ
+thuật cho các đơn vị trong quân đội. Trên cơ sở đó đề xuất các đề tài, nhiệm vụ
+và dịch vụ KHCN.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Tham gia thực hiện đề tài cấp Bộ Quốc phòng “Nghiên cứu, thiết kế,
+xây dựng các hệ thống mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà
+phá bom mìn, vật nổ”.
+
+- Nghiệm thu cắp quản lý và hoàn thiện hồ sơ đề tài cấp Viện KHCNQS
+“Nghiên cứu thiết kế chế tạo hệ thống điều khiển trung tâm của tổ hợp đối
+không mặt đất NKVS-27 làm việc đồng bộ với máy bay Su27-SK2 và Su30-
+MK2”.
+
+~ Chủ động, tích cực xây dựng đề xuất, bảo vệ và thực hiện đề tài, nhiệm
+vụ KHCN các cấp.
+
+~ Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội (có ít nhất 02 hợp đồng).
+
+3. Nhiệm vụ khác:- Đảm bảo kỹ thuật cho hệ thống mạng tại Trụ sở chính phía Bắc hoạt
+động ôn định.
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiêm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+_- Tham gia các mặt công tác đào tạo sau đại học, đại học (tư vấn, hướng,
+dẫn, giảng dạy...)
+
+- Có ít nhất 02 bài báo đăng trên tạp chí chuyên ngành
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+___ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Bảo đảm kỹ thuật và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. |4, ~
+
+Nơi nhận:
+- Phòng BĐKT:
+~ Lưu: VT, KH; H03.
+
+  
+
+Trung tá Đỗ Việt BìnhVIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Đị - Tự do - Hạnh phúc
+
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+
+QUYÉT ĐỊNH
+'Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Hệ thông tin địa lý
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin địa lý;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tin địa lý;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Hệ thông tin địa lý, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Tiếp tục đẩy mạnh công tác nghiên cứu, phát triển giải pháp và xây
+dựng các ứng dụng trên công nghệ GIS.
+
+2. Dự án, đề tài, hợp đồng OBC:
+
+- Triển khai thực hiện đảm bảo tiến độ 02 đề tài cấp Viện KHCNQS
+“Nghiên cứu hoàn thiện hệ thống công nghệ thông tin ứng dụng trong huấn
+luyện diễn tập chỉ huy cơ quan cấp trung, sư đoàn trên bản đồ tại Sở chỉ huy và
+ngoài thực địa” và “Nghiên cứu hoàn thiện, nâng, cấp và đưa vào áp dụng thử hệ
+thống hỗ trợ chuẩn bị bay cấp trung đoàn không quân”.
+
+~ Tham gia thực hiện đề tài cấp Bộ Quốc phòng “Nghiên cứu, thiết kế,
+xây dựng các hệ thống mô phỏng huấn luyện, đào tạo phục vụ cho nhiệm vụ rà
+phá bom mìn, vật nỗ”.
+
+- Triển khai thực hiện, hoàn thành nhiệm vụ hoàn thiện công nghệ “Hoàn
+thiện và đưa vào sản xuất loạt 0 giá kiểm tra, chuẩn đoán hỏng hóc các mảng
+chức năng ra đa Kasta-2E2”.
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội (có ít nhất 02 hợp đồng).3. Nhiệm vụ khác:
+
+- Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Có ít nhất 01 bài báo đăng ở các tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Hệ thông tin địa lý và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. Jílk -
+
+Nơi nhận:
+~ Phòng HTTĐL;
+~ Lưu: VT, KH; H03,
+
+  
+
+Trang tú Đỗ Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Đ
+
+'VIỆN CÔNG NGHỆ THÔNG TIN lộc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ và kế hoạch
+công tác năm 2018 của Ban Kế hoạch
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+Căn cứ vào chức năng, nhiệm vụ của Ban Kế hoạch;
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2018 cho Ban Kế
+hoạch, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Tiếp tục nghiên cứu đề xuất, hoàn thiện các quy trình, quy chế quản lý
+khoa học công nghệ cho việc thực hiện đề tài, dự án và các nhiệm vụ KHCN áp
+dụng cho Viện CNTT theo các quy định của Viện KHCNQS, Bộ Quốc phòng và
+Nhà nước.
+
+- Tham mưu và tham gia nghiên cứu, xây dựng các sản phẩm ứng dụng
+trong và ngoài quân đội.
+
+- Thực hiện tốt các nội dung công tác tham mưu kế hoạch về khoa học
+công nghệ, quân lực, kỹ thuật, thông tin khoa học theo quy định.
+
+~ Quản lý tốt việc đào tạo sau đại học của Viện theo nhiệm vụ được giao.
+Tiếp tục nâng cao chất lượng quản lý NCS, đặc biệt nâng cao sự gắn kết giữa
+NCS và Viện chuyên ngành.
+
+- Thực hiện tốt các nội dung để xuất bản chuyên san Viện CNTT năm
+2018.
+
+- Xây dựng chương trình, kế hoạch tổ chức thực hiện các hội thảo cũng,
+như hoạt động KHCN khác.
+
+~ Tiếp tục nghiên cứu đề xuất hướng giới thiệu sản phẩm của Viện cho
+các khách hàng và đối tác nhằm nâng cao uy tín, quảng bá, phát triển hình ảnh
+của Viện.~ Tham gia tổ chức thực hiện, quản lý các nhiệm vụ KHCN được giao.
+
+- Ban đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng ban Kế hoạch và các cán bộ, nhân viên trong,
+Ban chịu trách nhiệm thi hành quyết định này. Wl# —
+
+Nơi nhận:
+~ Ban KH;
+~ Lưu: VT; H03.'VIỆN KH-CN QUÂN SỰ. CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ, THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+Về việc giao nhiệm vụ và kế hoạch
+công tác năm 2018 của Ban Hành chính-Hậu cần
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+Căn cứ vào chức năng, nhiệm vụ của Ban Hành chính - Hậu cần;
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2018 cho Ban Hành
+chính - Hậu cần, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+Công tác Hành chính:
+
+- Tổ chức thực hiện tốt công tác văn thư lưu trữ, bảo mật.
+
+~ Thực hiện tốt công tác xây dựng nể nếp chính quy và quản lý kỷ luật tốt.
+
+- Duy trì nghiêm các chế độ công tác, trực ban, SSCĐ.
+
+- Phối hợp với các bộ phận liên quan duy trì, quản lý mạng nội bộ, bảng,
+tin điện tử của Viện.
+
+- Tổ chức tốt đợt huấn luyện quân sự, hoạt động, thể thao.
+
+- Chuẩn bị tốt cho các đợt kiểm tra xây dựng đơn vị vững mạnh, toàn
+diện.
+
+Công tác Hậu cần:
+
+- Đảm bảo duy trì các mặt công tác ngành (Quân nhu, Quân ý, Doanh trại,
+Xăng dầu) theo quy định của Viện KHCNQS.
+
+- Tổ chức khám, theo dõi sức khoẻ cho toàn thể cán bộ trong Viện.
+
+- Tổ chức cấp phát quân trang theo tiêu chuẩn quy định.- Thực hiện tốt các thủ tục về hợp đồng Quân Binh chủng, báo cáo về
+hoạt động dịch vụ KHCN với Ban Kinh tê.
+
+~ Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng Ban Hành chính - Hậu cần và các cán bộ, nhân
+viên trong Ban chịu trách nhiệm thi hành quyết định này. j4 —
+
+Nơi nhận:
+- Ban HC-HC;
+- Lưu: VT, KH; H03.VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỌI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+'Về việc giao nhiệm vụ và kế hoạch
+công tác năm 2018 của Ban Bảo đảm tổng hợp
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+..._ Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Ban Bảo đảm
+tông hợp; :
+Căn cứ vào chức năng, nhiệm vụ của Ban Bảo đảm tổng hợp;
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYẾT ĐỊNH:
+
+_.. Điều I. Giao nhiệm vụ và kế hoạch công tác năm 2018 cho Ban Bảo đảm
+tổng hợp, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Giúp Thủ trưởng Viện xây dựng kế hoạch công tác, quản lý và báo cáo
+việc thực hiện các nhiệm vụ được giao của Cơ sở phía Nam trong các lĩnh vực
+Kế hoạch, Chính trị, Hành chính-Hậu cần, Tài chính.
+
+- Tham mưu cho lãnh đạo, chỉ huy Viện về xây dựng và tổ chức thực hiện
+các hoạt động nghiên cứu và dịch vụ khoa học công nghệ tại địa bàn phía Nam.
+
+- Tham mưu, lập kế hoạch giúp chỉ huy Viện thực hiện các nội dung CTĐ,
+CTCT ở Cơ sở phía Nam.
+
+- Thực hiện tốt công tác văn thư lưu trữ, bảo mật, công tác hậu cần và tài
+chính.
+
+- Duy trì và bảo đảm thời gian, chế độ làm việc của Thủ trưởng và đơn vị.
+
+- Tổ chức thực hiện công tác huấn luyện, duy trì điều lệnh, lễ tiết tác
+phong của Cơ sở phía Nam.
+
+- Quản lý tốt và sử dụng có hiệu quả trang thiết bị, tài sản của đơn vị hiện
+có. Chấp hành tốt các quy định về an toàn tiết kiệm, giữ tốt dùng bên trang bị kỹ
+2n xã mm kiến suy tướng- Phổ biến, quán triệt, nghiên cứu và thực hiện nghiêm túc các chỉ thị, quy
+định, hướng dẫn của cấp trên; tăng cường công tác quản lý cán bộ.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+- Ban đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+__ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng ban Bảo đảm tổng hợp và các cán bộ, nhân viên
+trong Ban chịu trách nhiệm thi hành quyết định này. /gz —
+
+ắNơi nhận:
+- Ban BĐTH;
+~ Lưu: VT, KH, H03.
+
+  
+
+V'Ấế Đỗ Việt Bình'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+Về việc giao nhiệm vụ và kế hoạch
+công tác năm 2018 của Ban Chính trị
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+
+Căn cứ vào chức năng, nhiệm vụ của Ban Chính trị;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2018 cho Ban Chính
+trị, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào.
+một số nội dung cụ thể sau:
+
+- Quán triệt và triển khai thực hiện đầy đủ Chỉ thị, Nghị quyết của các cấp
+ủy đảng trọng tâm là nghị quyết của Đảng ủy Viện CNTT về nhiệm vụ quân sự
+quốc phòng năm 2018; Nghị quyết Đại hội Đảng bộ Viện CNTT nhiệm kỳ 2015
+- 2020. Xây dựng tập thể Ban gắn với chỉ bộ Cơ quan theo tiêu chuẩn “Đoàn
+kết, thống nhất, ôn định, phát triển”, giúp đảng ủy, chỉ huy Viện nhất là đồng chí
+Chính trị viên lãnh đạo đơn vị hoàn thành tốt mọi nhiệm vụ được giao.Tô chức
+tuyên truyền, kỷ niệm những ngày lễ lớn của dân tộc và ngày truyền thống của
+Viện
+
+- Tổ chức tốt việc tuyên truyền các hoạt động KHCN của Viện trên các
+phương tiện thông tin, nhằm quảng bá năng lực NCKH của Viện. -
+
+~ Triển khai thực hiện các nghị quyết, chỉ thị, hướng dẫn của cấp trên về
+công tác xây dựng đảng. Xây dựng chương trình kế hoạch thực hiện Nghị quyết
+của Đảng ủy lãnh đạo thực hiện nhiệm vụ Quân sự - Quốc phòng năm 2018.
+
+- Tăng cường công tác kiểm tra, theo dõi cán bộ, đảng viên chấp hành và
+thực hiện NQTW 4 (khóa XII) gắn với thực hiện Chỉ thị 05 của Bộ Chính trị;
+Chỉ thị 87 của Thường vụ QUTW vẻ học tập và làm theo tư tưởng, đạo đức,
+phong cách Hồ Chí Minh.
+
+- Thường xuyên đổi mới nội dung, hình thức, phương pháp tiến hành
+CTĐ. CTCT nhủ hơo. bám sát vêu cầu nhiêm vu của đơn vị.- Tham mưu giúp đảng ủy, chỉ huy Viện nắm chắc, dự báo đúng và giải
+quyết tình hình tư tưởng của cán bộ, nhân viên.
+
+- Thực hiện công tác chính sách cán bộ, công tác hậu phương quân đội.
+Triển khai mua BHYT cho thân nhân sỹ quan. Rà soát chế độ nặng nhọc, độc
+h
+
+ 
+
+- Tổ chức hoạt động nhân các ngày lễ của phụ nữ. Thực hiện kế hoạch
+hành động VSTBPN. Tuyên truyền Luật Bình đẳng giới, Luật Phòng chống bạo.
+lực gia đình.
+
+- Tăng cường công tác chỉ đạo đối với các tổ chức quần chúng hoạt động,
+có hiệu quả, thực chất đi vào chiều sâu, tránh hình thức chung chung.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng ban Chính trị và các cán bộ, nhân viên trong
+Ban chịu trách nhiệm thi hành quyết định này. jgj¿ “
+
+Nơi nhận: z RƯỞNG
+- Ban CT:
+~ Lưu: VT, KH; H03.
+
+  
+
+Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYẾT ĐỊNH
+
+Về việc giao nhiệm vụ nghiên cứu KHCN và kế hoạch
+công tác năm 2018 của Phòng Hệ thông tin quân sự
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Hệ
+thông tin quân sự;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Hệ thông tin quân sự;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm 2018
+cho Phòng Hệ thông tin quân sự, gồm các nội dung sau:
+
+_Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu ứng dụng các công nghệ để xây dựng hệ thông tin trên nền
+bản đồ số phục vụ trong công tác quản lý điều hành, chỉ huy tham mưu, huấn
+luyện diễn tập.
+
+~ Nghiên cứu thiết kế, chế tạo thiết bị mô phỏng VKTBKT phục vụ huấn
+luyện, diễn tập tại các đơn vị.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+- Thực hiện và nghiệm thu đề tài KHCN TP. HCM “Nghiên cứu và xây
+dựng phần mềm tích hợp dữ liệu bản đồ để nâng cao hiệu quả công tác quản lý
+và khai thác Mạng thông tin chỉ huy điều hành Quân khu 7 tại Sở Chỉ huy
+thường xuyên”. -
+
+- Thực hiện và nghiệm thu đề tài KHCN TP. HCM " Nghiên cứu tích hợp
+thiết bị, xây dung phần mềm và cơ sở dữ liệu nhằm rút ngắn thời gian tìm và
+chọn vị trí trận địa cho tổ hợp tên lửa S-300PMU1” -
+
+- Xây dựng, bảo vệ mở mới đề tài KHCN TP.HCM 2018 “Nghiên cứu xây
+dựng hệ thống phần mềm hỗ trợ tính toán phần tử bắn và lượng sửa kỹ thuật
+phục vụ công tác huấn luyện, diễn tập tại Lữ đoàn Pháo binh 75, Quân khu 7”.- Xây dựng, bảo vệ mở mới đề tài KHCN TP.FICM 2018 “Nghiên cứu xây
+dựng bộ công cụ hỗ trợ công tác huần luyện kíp chiến đấu Sở Chỉ huy tại đơn vị
+phòng không cấp trung đoàn có khí tài hỏa lực”.
+
+- Tập trung thực hiện đúng kế hoạch các hợp đồng QBC và dịch vụ KHKT
+đã ký.
+
+- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cho các đơn vị,
+trong và ngoài quân đội (01 hợp đồng).
+
+3. Nhiệm vụ khác:
+
+~ Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của từng cán bộ trong
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+ 
+
+- Tham gia đào tạo công nghệ thông tin theo yêu cầu.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+- Phòng đăng ký danh hiệu thi đua năm 2018: đơn vị tiên tiến.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho đến
+khi có Quyết định mới.
+
+Điều 3. Đồng chí Trưởng phòng Hệ thông tin quân sự và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. /0—
+
+Nơi nhận: RƯỞNG
+~ Phòng HTTQS; x
+- Lưu: VT, KH: H03
+
+  
+
+TrũNg tá Đã Việt Bình'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ nghiên cứu KHCN vài kế hoạch
+công tác năm 2018 của Phòng Số hóa và điều khiến
+
+'VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và Phòng Số hóa
+và điều khiển;
+
+Căn cứ vào chức năng, nhiệm vụ của Phòng Số hóa và điều khiển;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ nghiên cứu KHCN và kế hoạch công tác năm
+2018 cho Phòng Số hóa và điều khiển, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+1. Về nghiên cứu KHCN:
+
+- Nghiên cứu, phát triển công nghệ, giải pháp trong lĩnh vực kỹ thuật số
+và điều khiển cho các hệ thống chỉ huy, điều khiển; các hệ thống phục vụ huấn
+luyện.
+
+- Thiết kế, xây dựng các hệ thống trang bị kỹ thuật cho các sở chỉ huy,
+trung tâm điều khiển; Thiết kế, chế tạo các hệ thống, thiết bị phục vụ huấn luyện
+sát thực tế.
+
+2. Dự án, đề tài, hợp đồng QBC:
+
+._ ~ Thực hiện và nghiệm thu đề tài KHCN cắp tỉnh Long An "Nghiên cứu
+chế tạo hệ thống bia tự động báo kết quả bắn đạn thật sử dụng nhiều lần bằng
+súng bộ binh".
+
+- Thực hiện và nghiệm thu đề tài KHCN cấp TP HCM "Nghiên cứu thiết
+kế chế tạo hệ thống hỗ trợ điều hành chỉ huy tác chiến cho đơn vị hải quân cấp
+vùng",
+
+~ Tập trung tổ chức thực hiện xong các hợp đồng QBC và dịch vụ KHKT
+đã ký.- Tiếp tục xây dựng và triển khai thực hiện các hợp đồng cung cấp và triển
+khai các thiết bị SCH cho các đơn vị, chú trọng Cần Thơ, Vĩnh Long, Đồng
+Tháp.
+
+3. Nhiệm vụ khác:
+
+~ Xây dựng kế hoạch thực hiện nhiệm vụ năm 2018 của. từng cán bộ trong.
+Phòng. Trưởng phòng, Phó Trưởng phòng kiểm tra, đôn đốc các cán bộ thực
+hiện và chịu trách nhiệm về tiến độ, kết quả thực hiện kế hoạch này.
+
+- Có ít nhất 01 bài báo gửi đề nghị đăng trên tạp chí chuyên ngành.
+
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+
+._ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+
+  
+
+Điều 3. Đồng chí Trưởng phòng Số hóa và điều khiển và các cán bộ, nhân
+viên trong phòng chịu trách nhiệm thi hành quyết định này. jWlr-
+
+Nơi nhận:
+- Phòng SH&ĐK:
+~ Lưu: VT, KH; H03.'VIỆN KH-CN QUÂN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 60/QĐ-VCNTT Hà Nội, ngày 28 tháng 02 năm 2018
+QUYÉT ĐỊNH
+
+'Về việc giao nhiệm vụ và kế hoạch
+công tác năm 2018 của Ban Tài chính
+
+VIỆN TRƯỞNG VIỆN CÔNG NGHỆ THÔNG TIN
+
+Căn cứ vào quyền hạn của Viện trưởng Viện Công nghệ thông tin;
+
+Căn cứ vào kết luận buổi làm việc giữa Thủ trưởng Viện và các Ban cơ
+quan;
+
+Căn cứ vào chức năng, nhiệm vụ của Ban Tài chính;
+
+Xét đề nghị của Trưởng ban Kế hoạch,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Giao nhiệm vụ và kế hoạch công tác năm 2018 cho Ban Tài
+chính, gồm các nội dung sau:
+
+Hoàn thành tốt các công việc theo chức năng nhiệm vụ. Tập trung vào
+một số nội dung cụ thể sau:
+
+- Quán triệt và thực hiện nghiêm dự toán năm 2018 đã được giao. Lập dự
+toán, kế hoạch và theo dõi chỉ tiêu các nguồn ngân sách, thực hiện cấp phát, đảm
+bảo, thanh quyết toán kịp thời, đúng quy định, hiệu quả. Chủ động xây dựng dự
+toán điều chỉnh, bổ sung năm 2018 đáp ứng đủ theo yêu cầu của đơn vị.
+
+- Tiến hành phân cấp, quản lý và điều hành chặt chẽ mọi nguồn ngân sách;
+tăng cường kiểm tra, kiểm soát trước, trong và sau khi chỉ tiêu; thực hiện công
+khai tài chính, thực hành tiết kiệm, chống lãng phí, tiêu cực.
+
+- Đẩy mạnh công tác quyết toán tháng, quý, năm và nộp báo cáo. quyết toán
+thuế đúng quy định.
+
+- Bảo đảm các chế độ, tiêu chuẩn thường xuyên cho bộ đội.
+
+- Đôn đốc thanh toán các khoản phải thu, tạm ứng, phải trả theo đúng quy
+định. Chú trọng các khoản liên quan đến hoạt động dịch vụ KHKT có thu.
+
+~ Thực hiện tốt việc quyết toán ngân sách năm 2017 với Viện KHCNQS.
+
+~ Phối hợp với các Ban xây dựng dự toán ngân sách năm 2019 đảm bảo cho
+các nhiệm vụ trọng tâm của Viện.- Tham mưu các mặt của công tác tài chính cho Thủ trưởng Viện. Chỉ đạo,
+
+hỗ trợ và kiểm tra công tác tài chính của Cơ sở phía Nam.
+- Ban đăng ký danh hiệu thi đua năm 2018: đơn vị quyết thắng.
+- Sẵn sàng nhận các nhiệm vụ khác khi được phân công.
+___ Điều 2. Quyết định có hiệu lực kể từ ngày ký. Thời gian thực hiện cho
+đến khi có Quyết định mới.
+Điều 3. Đồng chí Trưởng ban Tài chính và các cán bộ, nhân viên trong
+Ban chịu trách nhiệm thi hành quyết định này. Jm; —
+
+  
+
+Nơi nhận:
+- Ban TC:
+~ Lưu: VT, KH; H03,

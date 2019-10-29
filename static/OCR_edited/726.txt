@@ -1,0 +1,269 @@
+'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+
+Số: 2ó /VCNTT-KH Hà Nội, ngày 20tháng 6 năm 2017
+'V/v đề nghị bảo vệ luận án cắp Viện
+
+Kính gửi: Thủ trưởng Viện KH-CN quân sự.
+
+Thạc sỹ Phan Thanh Toàn được công nhận là nghiên cứu sinh hình thức
+đào tạo không tập trung theo Quyết định số 1184/QĐ-VKHCNQS ngày
+18/10/2012 của Giám đốc Viện KH-CN quân sự và đã được gia hạn đến ngày
+18/4/2017 theo Quyết định số 1482/QĐ-VKHCNQS ngày 18/10/2016 của Giám
+đốc Viện KH-CN quân sự .
+
+Sau thời gian học tập theo quy định, nghiên cứu sinh đã hoàn thành
+chương trình đào tạo và đã có đủ các chứng, chỉ môn học theo quy định.
+
+Quá trình công tác và nghiên cứu tiếp theo, nghiên cứu sinh Phan Thanh
+Toàn đã hoàn thành luận án với đề tài “Các phương pháp gần đúng giải bài toán
+lập lịch luằng công việc trong môi trường điện toán đám mây”; thuộc chuyên
+ngành: Cơ sở toán học cho tin học; mã số 62.46.01.10.
+
+Đơn vị chuyên môn Viện Công nghệ thông tin đã tổ chức đánh giá luận án
+ở Hội đồng Khoa học chuyên ngành và nhận định luận án đã đạt được các kết
+quả đủ điều kiện để bảo vệ cấp Viện KH-CN quân sự.
+
+Căn cứ kết quả đào tạo và đối chiều với yêu cầu chất lượng luận án tiến sĩ,
+'Viện Công nghệ thông tin đề nghị Giám đốc Viện KH-CN quân sự cho phép
+nghiên cứu sinh Phan Thanh Toàn được bảo vệ luận án trước Hội đồng đánh giá
+luận án cấp Viện KH-CN quân sự. l#f——
+
+Nơi nhận:
+
+~ Như trên,
+
+- Phòng đào tạo;
+
+- Lư VT, KH; Đ04.'VIỆN KH-CN QUÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập ~ Tự do - Hạnh phúc
+
+Hà Nội, ngày 20 tháng & năm 2017
+
+GIỚI THIỆU DANH SÁCH
+HỘI ĐÔNG CHÁM LUẬN ÁN TIỀN SĨ CÁP VIỆN
+
+ 
+
+Cho luận án của nghiên cứu sinh: Phan Thanh Toàn
+
+Tên luận án: Các phương pháp gân đúng dựa trên tối ưu bày đần và tiến
+hóa vi phân giải bài toán lập lịch luông công việc trong môi trường điện toán
+đám mây.
+
+Chuyên ngành: Cơ sở toán cho tin học
+
+Mã số: 62.46.01.10
+
+Người hướng dẫn: 1. TS. Nguyễn Thế Lộc
+
+2. TS. Nguyễn Doãn Cường
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐƠN VỊ TRÁCH
+Tr FH CHUYÊN | CÔNGTÁC NHIỆM
+HỌ VÀ TÊN NGÀNH Số điện thoại | TRONG HỌI
+(NR, CQ, di động | ĐỒNG
+¡. |@§.TS. Nguyễn Thanh | Cơ sởtoán cho 0825.118 Nôi Í Chủ teh Hội
+° | Thủy tin học đồng
+PGS.TS. Nguyễn Đức Cơ sở toán cho |_ ĐHBK Hà Nội s
+2: | Nghĩa tin học 0903210111 Phân biện 1
+PGS.TS. Huỳnh Thị Thanh | Cơ sở toán cho | ĐHBK Hà Nội A
+Ÿ- | Bình tin học 0903226786, Ehản Điện/2
+ặ Cơ sở toán cho |_ ĐH§PHàNội 5
+4. |PGS.TS. Hồ Cảm Hà tín học 0903209524 Phản biện 3
+l ĐH SP Hà Nội .
+5.. |PG§.TS. Trần Đăng Hưng Tin học 0904687282 | Phảnbiện4
+. Cơ sở toán cho |_ ĐH ĐiệnLực .
+6.. | TS. Nguyễn Thị Thu Hà lần học 0906113373 | Phẩnbiện$
+Cơ sở toán cho | Viện KH&CNQS | Thư ký Hội
+7. |TS. Nguyễn Chí Thành tin học 0983943010, đồng
+CHỨC D/
+HỌC, |
+HỌ V
+
+ 
+
+GS. TS. Ngu
+Thủy
+
+ 
+
+PGS.TS. Ngụ
+Nghĩa
+
+ 
+
+PGS.TS. Huỷ
+Bình
+
+ 
+
+PGS.TS. Hồ ‹
+
+ 
+
+PGS.TS. Trầr
+
+ 
+
+TS. Nguyễn 1
+
+ 
+
+ 
+
+ 
+
+TS. Nguyễn C ÂN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+HÔNG TIN Độc lập ~ Tự do - Hạnh phúc
+
+Hà Nội, ngày 20 tháng & năm 2017
+
+GIỚI THIỆU DANH SÁCH
+I ĐỒNG CHÁM LUẬN ÁN TIẾN SĨ CÁP VIỆN
+
+ 
+
+\ của nghiên cứu sinh: Phan Thanh Toàn
+
+: Các phương, pháp gân đúng dựa trên tối tru bày đàn và tiến
+ài toán lập lịch luông công việc trong môi trường điện toán
+
+nh: Cơ sở toán cho tin học
+6.01.10
+
+g dẫn: 1. TS. Nguyễn Thế Lộc
+2. TS. Nguyễn Doãn Cường
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐƠN TRÁCH
+ỌCVỊ ^ | CHUYÊN | CÔNG TÁC NHIỆM
+NGÀNH Số điện thoại | TRONG HỘI
+TÊN
+(NR,CQ, di động] — ĐỒNG
+nThah - | Cơsởtoáncho [oi CO HàNội | cụ trụ Hội
+Ũ 0913531184 Ỉ
+tin học đồng
+ễn Đức Cơ sở toán cho | ĐHBKHàNội „
+tin học 0903210iả, | Phẩnbiện!
+h Thị Thanh | Cơ sở toán cho |_ ĐHBK HàNội Si
+tin học 0903226786 _ | Phảnbiện2
+Cơ sở toán cho |_ ĐHSP HàNội 5
+.- tin học 0903209524 | Phẩnbiện3
+: ĐH SP Hà Nội .
+Đăng Hưng | Tinhọc 09046872. | Phảnbiện4
+Cơ sở toán cho |_ ĐH Điện Lực .
+CHih Hà tin học: 0906113373 | Phẩnbiện5
+[Thành — | CƠ3ởtoáncho | ViênKH&CNQS |_ Thư ký Hội
+tin học 0983943010, đồng Cơ sở toán cho
+tin học Tin học
+
+_Cơ sở toán cho.
+tin học 
+Cơ sở toán cho.
+tin học Cơ sở toán cho
+tin học Cơ sở toán cho.
+tin học Cơ sở toán cho
+tin học 
+CHUYÊN
+NGÀNH ĐHBK Hà Nội
+0903210111
+ĐHBK Hà Nội
+0903226786.
+ĐHSP Hà Nội
+0903209524
+
+ 
+
+ 
+
+ĐH SP Hà Nội
+0904687282
+ĐH Điện Lực
+0906113373
+
+Viện KH&CNQS
+0983943010, ĐHBK Hà Nội
+0903226786 ĐHBK Hà Nội
+0903210111 
+tư ký Hội
+m đồng Phản biện 5 Phản biện 4 Phản biện 3 
+Phản biện 2 Phản biện 1 Chủ tịch Hội
+đồng TRÁCH
+NHIỆM
+TRONG HỘI.
+—— ĐỒNG ke
+'THỦ TRƯỞNG ĐƠN VỊ CHUYÊN MÔN
+ghỉ rõ họ tên)
+
+  
+
+'Trung tá Đặng Thanh Quyền
+TS. Nguyễn Mạnh Linh TS. Nguyễn Mạnh Hùng, TS. Nguyễn Trường Thắng TS. Thái Trung Kiên 
+TS. Đỗ Trung Kiên PGS.TS. Đỗ Trung Tuấn PGS.TS. Nguyễn Xuân
+Hoài PGS. TS. Phạm Ngọc
+Hùng 
+CHỨC DANH KHOA.
+
+HỌC, HỌC VỊ,
+HỌ VÀ TÊN Toán học Cơ sở toán cho.
+tin học Cơ sở toán cho
+tin học 
+Cơ sở toán cho.
+tin học Tin học Cơ sở toán cho
+tin học Cơ sở toán cho
+tin học 
+Cơ sở toán cho
+tin học CHUYÊN
+NGÀNH Viện KH&CNQS
+0983543622 HVKTQS
+0989146397 
+Viện HLKH&CN
+Việt Nam
+0927009172 Viện KH&CNQS
+0986753131 ĐHQG Hà Nội
+0904218247 ĐH Hà Nội
+0982626900 
+ĐHQG Hà Nội
+(0948810242 CÔNG TÁC
+Số điện thoại
+NR. CO. di đông) Ủy viên Ủy viên 
+Ủy viên Ủy viên Ủy viên Ủy viên 
+Ủy viên Ủy viên TRÁCH
+NHIỆM
+TRONG HỘI.
+
+ĐÔI 

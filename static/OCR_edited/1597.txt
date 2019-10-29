@@ -1,0 +1,3106 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+Số: 536/VCNTT-KH Hà Nội, ngàp 2 3 tháng 11 năm 2018
+
+V/v đề xuất nội dung tham gia chương,
+trình KC-4.0/19-25
+
+ 
+
+Kính gửi: Phòng Tham mưu - Kế hoạch.
+
+Căn cứ Công văn số 414/TMKH-KHCNMT ngày 31/10/2018 của Phòng
+Tham mưu - Kế hoạch về việc đề xuất nội dung tham gia chương trình KC-4.0/19-
+25,
+
+Viện Công nghệ thông tin đề xuất 04 nội dung tham gia chương trình KC-
+4.0/19-25 như sau:
+
+~ Nghiên cứu ứng dụng công nghệ trí tuệ nhân tạo và tích hợp thông tin trong
+xây dựng hệ thống mô phỏng huấn luyện diễn tập cấp trung, sư đoàn.
+
+~ Nghiên cứu, xây dựng hệ thống tính toán thông minh hỗ trợ lập kế hoạch và
+đánh giá phương án tác chiến cấp chiến dịch, chiến lược
+
+ 
+
+ïển robot lặn thông minh phục vụ nhiệm vụ đảm
+
+ 
+
+~ Nghiên cứu, thiết
+bảo chiến đầu của lực lượng Hải quân
+
+~ Nghiên cứu, xây dựng hệ thống tự động thu thập, phân tích, tổng hợp thông. |
+tỉn dựa trên công nghệ internet vạn vật, dữ liệu lớn và trí tuệ nhân tạo phục vụ chỉ
+
+„ phát
+
+huy điều hành trong lĩnh vực thông tỉn tình báo
+Kính chuyển Phòng Tham mưu - Kế hoạch xem xét;
+
+ANơi nhận: _KT. VIỆN TRƯỚNG
+- Như trên; 'PHÓ.VIÊN TRƯỞNG
+~ Lưu: VT, KH; H03.Đơn vị: Viện Công nghệ thông tin
+
+ĐÈ XUẤT NỌI DUNG THAM GIA CHƯƠNG TRÌNH KC-4.0/19-25
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+    
+
+s Thời gian thực. T
+Chủ nhiêm đề tân nôi tên cổ 3o shẾ mm sa: sấ: âu ký thuậ Tà ữ
+¬—-. —- Mục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật hiện Ghỉ
+TT | Tên để tài KH&CN | tài cơ quan Ghính chính Bất | Kết triệu | chú
+| chà đầu | thúc | đồng)
+1 |Nghiên cứu ứng| 2/ThS |1.Muetiêu: 1/2020 | 12/2022 | 25.000
+Í đụng công nghệ trí Nguyễn Thái | Nghiên cứu ứng dụng công nghệ
+tuệ nhân tạo và tích, Học Viện _ | trí tuệ nhân tạo và tích hợp thông
+hợp thông tin trong| Côngnghệ | tửn trong xây dựng hệ thông mô luyện trên thể giới.
+xây dựng hệ thống | thông tỉm/ Viện | phỏng huấn luyện diễn tập cấp | - Tài liệu đề xuất mô hình hệ thống
+mô phòng ˆhì KH-CNQS | trung, sư đoàn có các mục tiêu | mô phỏng huấn luyện cho cấp trung,
+luyện diễn tập sau: sự đoàn.
+trung, sư đoàn - Mô phỏng các vị trí chiến đấu |+ Chuyên đề nghiên cứu đánh giá
+
+ 
+
+ 
+
+trong khung tập bằng các công
+nghệ trí tuệ nhân tạo (dư hình
+thức các engine) để có khả năng
+tương tác với nhau và với người
+tập theo quy trình công tác tham.
+mưu. Theo đó, có thê tô chức tập
+luyện với quy mô linh hoạt, từ
+một cá nhân, một khung tập của
+cơ quan binh chủng, ngành hoặc
+đầy đủ các thành phần ở bất kỳ
+thời gian nào. Người tập được
+thục luyện quy trình công tác
+tham mưu và kỹ năng xử trí các
+tình huống chiến đấu trong một
+môi trường tương tác tự động.
+
+| ~ Trợ giúp cho người tập các công,
+|eu tính toán thông mình, các
+phương tiện tương tác hiện đại
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thực trạng các điều kiện đảm bảo để
+ứng dụng thành công hệ thống mô
+phòng huẩn luyện ở cấp trung, sư
+đoàn. -
+
++ Chuyên đề nghiên cứu xây dựng
+quy trình công tác tham mưu trong
+tác chiến phù hợp với hệ thống mô
+phỏng huấn luyện diễn tập cấp trung,
+sư đoàn.
+
++ Chuyên đề nghiên cứu ứng dụng
+các công nghệ mô phỏng, trí tuệ
+nhân tạo, truyền thông kết nối, bảo
+mật thông tỉn, khai thác CSDL địa
+hình, biên chế tổ chức, vũ khí trang
+bị để hỗ trợ xây dựng các phương án,
+kế hoạch tác chiến cho các quân binh
+chủng, ngành.
+
++ Chuyên đề nghiên cứu ứng dụn
+Nghiên cứu ứng
+dụng công nghệ trí
+tuệ nhân tạo và tích.
+hợp thông tỉn trong
+xây dựng hệ thống
+mô phỏng bì
+luyện diễn tập cấp
+trung, sư đoàn Chủ nhiêm đề
+tài, cơ quan.
+chủ trì 2// Ths
+Nguyễn Thái
+Học, Viện
+Công nghệ
+thông ti/ Viện
+KH-CNQS Mục tiêu, nội dung nghiên cứu
+chính 
+1. Mục tiêu:
+
+Nghiên cứu ứng dụng công nghệ
+trí tuệ nhân tạo và tích hợp thông
+tỉn trong xây dựng hệ thông mô
+phỏng huấn luyện diễn tập cá
+trung, sư đoàn có các mục tiêu
+sau:
+
+- Mô phỏng các vị trí chiến đấu
+trong khung tập bằng các công
+nghệ trí tuệ nhân tạo (dưới hình
+thức các engine) để có khả năng,
+tương tác với nhau và với người
+tập theo quy trình công tác tham
+mưu. Theo đó, có thê tô chức tập
+luyện với quy mô linh hoạt, từ
+một cá nhân, một khung tập của
+cơ quan binh chủng, ngành hoặc
+đầy đủ các thành phần ở bất kỳ
+thời gian nào. Người tập được
+thục luyện quy trình công tác
+tham mưu và kỹ năng xử trí các
+tình huống chiến đấu trong một
+môi trường tương tác tự động.
+
+- Trợ giúp cho người tập các công
+cụ tính ái
+phương tiên tương tác hiện đại để Sản phẩm và các chỉ
+chính
+
+liêu kỹ thuật khảo sát, đánh giá các hệ
+phỏng huấn luyện trên thể giới.
+- Tài liệu đề xuất mô hình hệ thống,
+mô phỏng huấn luyện cho cấp trung,
+sử đoàn.
+
++ Chuyên để nghiên cứu đánh giá
+thực trạng các điều kiện đảm bảo để
+ứng dụng thành công hệ thống mô
+phòng huẩn luyện ở cấp trung, sư
+đoàn.
+
++ Chuyên đề nghiên cứu xây dựng
+quy trình công tác tham mưu trong
+
+ 
+
+ 
+
+   
+
+phỏng huấn luyện
+sư đoàn.
+
++ Chuyên đề nghiên cứu ứng dụng
+các công nghệ mô phỏng, trí
+nhân tạo, truyền thông kết nối,
+mật thông tin, khai thác CSDL địa
+hình, biên chế tổ chức, vũ Khí trang
+bị để hỗ trợ xây dựng các phương án,
+kế hoạch tác chiến cho các quân binh
+
+ 
+
+ 
+
+cứu ứng dụng Bắt
+đầu 
+1/2020 Kết
+thúc
+12/2022 an thực. đồng) TT
+
+Tên đề tài KH&CN.
+
+Chủ nhiêm đề
+tài, cơ quan
+chủ trì
+
+|
+
+Mục tiêu, nội dung nghiên cứu
+chính
+
+Sản phẩm và các chỉ tiêu kỹ thuật
+
+Thời gian thực
+
+ 
+
+chính
+
+ 
+
+ 
+
+Ghi
+chú
+
+ 
+
+ 
+
+ 
+
+ 
+
+xây dựng các phương án tác chiến.
+nhanh chóng, chính xác và hiệu
+quả trên nền tảng tích hợp đầy đủ
+các cơ sở dữ liệu GIS, nghệ thuật
+quân sự, biên chế tổ chức, tính
+năng vũ khí trang bị...
+
+- Trợ giúp cho ban chỉ đạo, đạo
+diễn khả năng quan sát toàn bộ
+thông tin cuộc diễn tập nhờ
+dụng công cụ tích hợp tại SCH để
+theo đối, chỉ huy, điều hành.
+
+ội dung nghiên cứu chính:
+
+ 
+ 
+  
+ 
+
+phòng huấn lu)
+đang được triển khai trên tÌ
+phân tích chỉ ra được các yếu tố
+căn bản của các mô hình và phạm
+vi triển khai đối với quy mô cấp
+trung, sư đoàn. ¿
+
+- Khảo sát yêu cầu huấn luyện
+diễn tập ở cấp trung, sư đoàn
+trong tình hình mới trên cơ sở đó
+chỉ ra các điều kiện đảm bảo để
+xây dựng hệ thống mô phỏng
+huần luyện diễn tập phù hợp.
+
+- Nghiên cứu xây dựng mô hình
+hệ thống mô, phỏng huấn luyện
+diễn tập và để xuất giải pháp kết
+hợp các yếu tố công nghệ được sử.
+
+ 
+
+ 
+
+ 
+
+cho người tập.
++ Chuyên đề nghiên cứu xây dựng và
+hướng dẫn các phương án triển khai
+ứng dụng mô bình mô phỏng huấn
+luyện điễn tập ở cấp trung, sư đoàn.
+2. Cơ sở dữ liệu:
++ C§DL địa hình chỉ tiết tỷ lệ <=
+lare.
+
++ CSDL các lớp dữ liệu GIS đầy đủ
+thông tin theo yêu cầu tác chiến của
+các quân binh, chủng, ngành.
+
++ CSDL biên chế tô chức, tính năng
+trang bị vũ khí phương tiện của ta và
+địch. .
+
++ CSDL số hóa nguyên tắc nghệ
+thuật quân sự và sử dụng lực lượng
+của các quân bình chủng trong các
+hình thức tác chiến điển hình (tiến
+công, phòng thủ) và trong các điều
+kiện môi trường địa lý (đô thị, rừng
+núi, biển đảo,...).
+
++ CSDL các kịch bản diễn tập.
+
++ C§DL văn kiện và đữ liệu quản lý
+điều hành diễn tập.
+
+3. Hệ thống phần mí
+
++ Phần mềm hỗ trợ tổ chức điều |
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+hành diễn tập và quản lý các CSDL,
++ Phần mềm mô phỏng, giả lập các
+Tên đề tài KH&CN. Chũ nhiêm đề
+tài, cơ quan
+chủ trì Mục tiêu, nị xây dựng các phương án tác chiến.
+nhanh. „ chính xác và hiệu
+quả trên nền tảng tích hợp đầy đủ
+các cơ sở dữ liệu GIS, nghệ thuật
+quân sự, biên chế tổ chức, tính
+năng vũ khí trang bị,.
+
+- Trợ giúp cho ban chỉ đạo, đạo
+diễn khả năng quan sát toàn bộ
+thông tin cuộc diễn tập nhờ st
+dụng công cụ tích hợp tại SCH đề
+theo dõi, chỉ huy, điều hành.
+
+2. Nội dung nghiên cứu chính:
+
+- Nghiên cứu các mô hình mô
+phỏng huấn luyện tác chiến đã và
+đang được triển khai trên thế gi:
+phân tích chỉ ra được các yếu tí
+của các mô hình và phạm
+n khai đối với quy mô cấp
+trung, sư đoàn.
+
+- Khảo sát yêu cầu huấn luyện
+điễn tập ở cấp trung, sư đoàn
+trong tình hình mới trên cơ sở đó
+chỉ ra các điều kiện đảm bảo
+dựng hệ thống mô phỏng
+huần luyện diễn tập phù hợp.
+
+- Nghiên cứu xây dựng mô hình
+hệ thống mô phỏng huấn luyện
+ậ xuất giải pháp kết
+hợp các yếu tố công nghệ được sử 
+Sản phẩm và các chỉ tiêu kỹ thuật
+chính công cụ, phương tiện hiện đại hô trợ
+cho người tập.
+
++ Chuyên đề nghiên cứu xây dựng và
+hướng dẫn các phương án triển khai
+ứng dụng mô hình mô phỏng huấn
+luyện diễn tập ở cấp trung, sư đoàn.
+2. Cơ sở dữ liệu:
+
++ CSDL địa hình chỉ tiết tỷ lệ <=
+lare.
+
++ CSDL các lớp dữ liệu GIS đầy đủ
+thông tin theo yêu cầu tác chiến của
+các quân binh, chủng, ngành.
+
++ CSDL biên chế tô chức, tính năng
+trang bị vũ khí phương tiện của ta và
+địch. .
+
++ CSDL số hóa nguyên tắc nghệ
+thuật quân sự và sử dụng lực lượng
+của các quân bình chủng trong các
+hình thức tác chiến điển hình (tiến
+công, phòng thủ) và trong các điều
+kiện môi trường địa lý (đô thị, rừng
+núi, biển đảo,...).
+
++ CSDL các kịch bản diễn tập.
+
++ CSDL văn kiện và đữ liệu quản lý
+điều hành diễn tập.
+
+3. Hệ thống phần mềm: `
++ Phần mềm hỗ trợ tổ chức điều
+hành diễn tập và quản lý các CSDL,
++ Phần mềm mô phỏng, siả lập các Thời g Kêt
+thúc 
+an thực đồng) Ghi T
+
+ 
+
+ 
+
+Chủ nhiên đề - Thờigianthực | Kinh
+Sơ đã di Mục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật ˆ hiện phí | Ghỉ
+Tên để tài KH&CN chính chính Bắt Kết | (triệu | chú
+¡ đầu thúc | đồng)
+đụng trong mô hình. Vị trí điển tập đưới dạng các cngine | [
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Nghiên cứu ứng dụng các công
+
+gia, mạng nơ-ron, logic mờ, giải
+thuật đi truyền,...), truyền thông,
+(giao thức, mã hóa thông tỉn...),
+tích hợp thông tìn (GIS 2D - 3D,
+biên chế tổ chức, tính năng
+'VKTBKT, nguyên tắc nghệ thuật
+quân sự,..) dễ mô phòng hành
+động tính toán phương án bố trí,
+sử dụng lực lượng của các các
+khung tập.
+
+- Nghiên cứu ứng dụng các công
+cụ và phương tiện tương tác hiện
+đại như nhận dạng tiếng nói, cảm
+ứng, hỗ trợ người tập tác
+nghiệp xây dựng phương án
+| nhanh chóng, chính xác.
+
+- Nghiên cứu xây dựng SCH cấp
+
+trên được tích hợp thông tin đầy
+đủ, có khả năng theo dõi, chỉ huy,
+điều hành, bỗ sung tình huồng cho
+các khung tập.
+- Nghiên cứu để xuất quy trình
+công tác tham mưu tác chiến phù
+hợp với mô hình hệ thống mô
+phòng huần luyện diễn tập ở cấp
+trung, sư đoàn.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nghệ trí tuệ nhân tạo (Hệ chuyên |
+
+ 
+
+tự động có ứng dụng trí tuệ nhân tạo, | |
+
+các thuật toán tôi ưu để tính toán,
+phản ứng tùy theo điễn biến chung
+và tương tác với phương án của
+
+ 
+
+Í người tập, có thể được điều khiển
+
+ 
+
+thông qua các tham số theo các kịch
+bản khác nhau từ phần mềm SCH
+tích hợp thông tin chỉ huy, điều hành.
++ Phần mềm tác nghiệp trên bản đồ
+2D và 3D được hỗ trợ tác nghiệ
+thông mình bằng giọng nói, tương
+tác trực tiếp qua cảm ứng, hỗ trợ tính.
+
+toán thông mình trong bố trí lực
+lômg có công cụ đánh giá phương
+án bố trí lực lượng, có khả năng |
+tương tác với các cngine mô phòng
+các vị trí diễn tập khác và với trung
+
+ 
+
+| tâm chỉ huy điều hành.
+
++ Phần mềm tích hợp thông tin chỉ
+huy, điều hành tại SCH có khả năng.
+quan sất theo đối toàn bộ thông tin
+điễn biến tác chiến của các lực lượng.
+và ra các chỉ thị mệnh lệnh tới các
+engine mô phỏng và người tập.
+
+4. Hệ thống phần cứng:
+
++ Trang bị CNTT tạo dựng cơ sở hạ
+tầng truyền thông hữu tuyến và vô
+tuyến có sử dụng các phương án bảo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+——— | Chânhiêm đề
+
+KH&CN | tài,cơ quan
+chủ trì
+
+ 
+
+ 
+
+ 
+
+Mục tiêu, n
+
+đụng trong m
+
+- Nghiên cứ
+nghệ trí tuệ
+gia, mạng n
+thuật đi tru)
+(giao thức, :
+tích hợp thô
+biên chế +
+VKTBKT, :
+quân sự,
+động tính t
+sử dụng lự
+khung tập.
+
+~ Nghiên cí
+cụ và phươ
+đại như nhệ
+ứng,.. để
+
+nghiệp xâ
+
+ 
+
+ 
+
+ 
+
+- Nghiên c
+trên được !
+đủ, có khả
+điều hành,
+các khung
+~ Nghiên ‹
+công tác
+
+ 
+
+ 
+
+%Ó............ ————
+cứu | Sản phẩm và
+
+vị trí điễn tập
+công | tự động có ứn:
+huyện | các thuật toái
+¡ | phản ứng tùy
+và tương tác
+người tập, cứ
+thông qua các
+ăng | bản khác nh:
+tích hợp.
++ Phần mềm
+2D và 3D đ
+thông mình
+tác trực tiếp c
+c công | toán thông ›
+: lượng, có cô
+án bố trí lụ
+tương tác vớ
+các vị trí diễ
+| tâm chỉ huy ‹
++ Phần mễm
+huy, điều hà
+quan sát the
+diễn biến tác
+và ra các cỉ
+engine mô p
+4. Hệ thống
++ Trang bị ( Thời gian thực | Kinh
+ÿ thuật | hiện phí | Ghỉ
+Bắt Kết } (triệu | chú
+¡ đầu thúc | đồng)
+
+ 
+
+e engine | Ỉ
+nhân tạo, |
+ính toán,
+ễn chung
+án của
+èu khiển
+các kịch.
+àm SCH
+liều hành. |
+bản đồ
+nghiệp
+ói, tương
+)ỗ trợ tính.
+ố trí lực
+á phương,
+khả năng
+mô phỏng
+_ với trung,
+
+   
+
+ 
+
+ng tin chỉ
+› khả năng,
+thông tin
+lực lượng,
+tới các
+tập.
+
+ 
+
+ 
+
+g cơ sở hạ
+yến và vô
+ơng án bảo. l hiện
+| Bắt | Kết
+đâu thúc thuật quân sự và thông tin tác |
+chiến nhằm đẩy mạnh hiện đại |
+hóa, nâng cao hiệu quả công tác
+
+chỉ huy tham mưu sẵn sàng chiến.
+
+đấu cũng như hoạt động huấn
+
+luyện, đào tạo chỉ huy tham mưu
+
+cấp chiến địch, chiến lược.
+
+dung nghiên cứu:
+
+- Nghiên cứu, phân tích và mô
+
+hình hóa kế hoạch tác chiến, tri
+
+thức nghệ thuật quân sự và thông.
+
+tin tác chiến cấp chiến dịch, chiến
+
+lược, ".--
+
+~ Nghiên cứu, thiết kế, chuân hóa |
+cơ sở dữ liệu tri thức nghệ thuật
+quân sự dạng luật và thông tin tác
+chiến (tình hình địch, ta, địa hình,
+
+ 
+
+ 
+
+ 
+
+¡ thời tiết, vũ khí trang bị).
+
+ 
+
+ 
+
++ Phân hệ mô hình hóa và lập kế
+hoạch tác chiến;
++ Phân hệ hỗ trợ tính toán các
+phương án tác chiến (tính toán chiến
+đấu, tính toán bảo đâm);
++ Phân hệ thể hiện phương án tác
+chiến;
++ Phân hệ hỗ trợ kiểm tra (so với các
+quy tắc nghệ thuật quân sự), đánh giá
+phương án tác chiến (so với phương
+án mẫu, cho điểm);
+
+hỗ trợ lựa chọn phương án
+
+  
+
+ 
+
+ 
+
+ 
+
++ Phân hệ cung cấp tỉ thức
+thuật quân sự và thông tìn tác chỉ:
+~ Các tính năng chủ yêu:
+
++ Đáp ứng các yêu cầu về công tác
+chỉ huy tham mưu tác chiến cấp
+chiến địch, chiến lược;
+
+hệ
+
+     
+
+ 
+
+ 
+
+ 
+
+Chủnhiêm đề | mucgg - Thồi gian thực | Kinh em
+lân đề rài - lục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật phí thì
+TT | Tên đểtài KH&CN | đi, nn TC , chính BÍt | Kết Ì triệu | chú
+—— sứ. đầu | thúc | đồng)
+ị - Xây dựng hệ thống mô phòng | mật. - |
+huấn luyện và triển khai ứng đụng | + Trang bị CNTT phục vụ triển khai
+tại cơ sở đào tạo và đơn vị chiến phân mềm, hỗ trợ tác nghiệp, trình
+- đấu, —__ | chiếu, mô phỏng. `
+Nghiên xây Ì 2// Ths. Hoàng | I. Mục tiêu: - Ắ - Hệ phân mềm tính đoán. tông 7/2020 | 12/2022 | 25.000
+dựng hệ thống tí Văn Toàn, | Nghiên cứu, thiết kế, xây dựng hệ | mình hỗ trợ lập kế hoạch và đánh
+toán thông minh hỗ Viện Công _ thông tính toán thông minh hỗ trợ ¡ giá phương án tác chiến cấp chiến Ị
+trợ lập kế hoạch và | nghệ thông ti. | lập kế hoạch tác chiến và kiểm | dịch, chiến lược: Ộ
+| đánh giá Viện KH-CN | tra, đánh giá các phương án tác |- Các phân hệ chính của hệ phần |
+tác cÌ quân sự, chiến trên cơ sở ứng dụng trí tuệ | mềm gỗm:
+địch, chỉ nhân tạo kết hợp trì thức nghệ
+TT Tên đề tài KH&CN. toán thông minh hỗ
+tợ lập kế hoạch và Chủ nhiêm đề
+tài, cơ quan
+chủ trì 
+2// Ths. Hoàng
+"Văn Toàn,
+Viện Công
+
+nghệ thông tin/
+
+Viện KH-CN
+quân sự tại cơ sở đào tạo và đơn vị chiến
+đâu, Mục tiêu, nội dung nghiên cứu
+chính 1. Mục tiêu: .
+
+Nghiên cứu, thiết kế, xây dựng hệ
+thông tính toán thông mình hỗ trợ
+lập kế hoạch tác chiến và kiểm.
+lánh giá các phương án tác
+n trên cơ sở ứng dụng trí tuệ
+nhân tạo kết hợp trì thức nghệ
+thuật quân sự và thông tin tác
+chiến nhằm đẩy mạnh hiện đại
+quả công tác
+chỉ huy tham mưu sẵn sàng c]
+đấu cũng như hoạt động huấn
+luyện, đào tạo chỉ huy tham mưu
+cấp chiến địch, chiến lược.
+
+2. Nội dung nghiên cứu:
+
+Nghiên cứu, phân tích và mô
+hình hóa kế hoạch tác chiến, tri
+thức nghệ thuật quân sự và thông
+tin tác chiến cấp chiến dịch, chiến
+lược.
+
+~ Nghiên cứu, thiết kế, chuẩn hóa
+cơ sở dữ liệu tri thức nghệ thuật
+quân sự dạng luật và thông tỉn tác
+chiến (tình hình địch, ta, địa hình,
+thời tiết, vũ khí trang bí). 
+Sản phẩm và các chỉ tiêu kỹ thuật
+chính mật,
++ Trang bị CNTT phục vụ triển khai
+mềm, hỗ trợ tác nghiệp, trình
+bạ mỗ phỏng, 1. Hệ phân mêm tính toán thông
+minh hỗ trợ lập kế hoạch và đánh
+giá phương án tác chiên cấp chiến
+dịch, chiến lược:
+
+ác phân hệ chính của hệ phần
+mềm gỗi
++ Phân hệ mô hình hóa và lập kế
+hoạch tác chiến:
+
++ Phân hệ hỗ trợ tính toán các
+phương án tác chiến (tính toán chiến
+đấu, tính toán bảo đảm);
+
++ Phân hệ thể hiện phương án tác
+chiến;
+
++ Phân hệ hỗ trợ kiểm tra (so với các
+quy tắc nghệ thuật quân sự), đánh giá
+phương án tác chiến (so với phương
+án mẫu, cho điểm);
+
++ Phân hệ hỗ trợ lựa chọn phương án
+tác chiến;
++ Phân hệ cung cấp trì thức nghệ
+thuật quân sự và thông tin tác chiến.
+~ Các tính năng chủ yêu:
+
++ Đáp ứng các yêu cầu về công tác
+chỉ huy tham mưu tác chiến cấp
+chiến địch, chiến lược: Thời g 
+Kêt
+thức 12/2022 Kinh
+phí
+(triệu
+đồng) 25.000 
+Ghỉ
+chú Ị Chủ nhiềm đề . Thời gian thực j Kinh
+to đã GỸ ài Mục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật | hiện phí | Ghỉ
+| TT | Tên đề tài KH&CN | tài, cm quan Shưng: Thính Tế Kế | đớn | |
+: ` đầu thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Nghiên cứu, xây dựng giải pháp
+ứng dụng trí tuệ nhân tạo kết hợp
+trí thức nghệ thuật quân sự và
+thông tỉn tác chiến trong lập kế
+hoạch, tính toán các phương án vài
+m tra, đánh giá phương án tác
+
+  
+
+chỉ
+~ Thiết kế, xây dựng hệ phần mềm
+tính toán thông minh hỗ trợ lập kế
+hoạch và đánh giá phương án tác
+' chiến cấp chiến dịch, chiến lược:
+
+( + Thiết kế hệ phản mềm tính toán
+thông minh;
+
++ Xây dựng hệ phần mềm tính
+toán thông minh gồm: Mô hình
+hóa và lập kế hoạch tác chiến; Hỗ
+trợ tính toán các phương án tác
+chiến (tính toán chiến đấu, tính
+toán bảo đảm); Thể hiện phương
+án tác chiến; Kiểm tra (so với các
+
+  
+
+ 
+
+quy tắc nghệ thuật quân sự), đánh.
+giá phương án tác chiến (so với
+phương án mẫu, cho điểm); Hỗ
+trợ lựa chọn phương án tác chiến;
+Cung cấp trí thức nghệ thuật quân
+
+ 
+
+ 
+
+ 
+
++ Đáp ứng xây dựng kế hoạch, thời
+gian ra phương án nhanh, tính toán
+chính xác: -
+
++ Cung cấp được thông tin đầy đủ,
+phù hợp cho người chỉ huy và cơ
+quan tham mưu khi lập kế hoạch và
+lựa chọn phương án;
+
++ Phần mềm phải được bảo mật,
+phân quyền chặt chế;
+
++ Phần mềm được xây dựng trên nền
+tảng Net Framework, ArcEngine,
+mô hình clienserver, có thể chạy
+trên môi trường mạng;
+
++ Phần mềm có tốc độ thực thi
+
+nhanh, giao điện hoàn toàn tiếng
+Việt, để sử dụng, đồ họa đẹp, phù
+hợp với đơn vị sử dụng;
+
++ Phần mềm có tính mờ.
+
+2. Cơ sở dữ liệu về tri thức nghệ
+thuật quân sự và thông tỉn tác
+chiến phục vụ tính toán, lập kế
+
+ 
+
+ 
+
+- Cơ sở dữ liệu gồm:
++ Dữ liệu về trì thức nghệ thuật quân
+
+ 
+
+sự đạng luật
++ Dữ liệu về thông tin tác chiến gồi
+tình hình địch, ta, địa hình. thời tí
+vũ khí trang bị trong phạm vi chỉ
+trường được xác định.
+Tên đề tài KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì Mục tiêu, nội dung nghiên cứu
+chính ~ Nghiên cứu, xây dựng giải pháp
+ứng dụng trí tuệ nhân tạo kết hợp
+trí thức nghệ thuật quân sự và
+thông tỉn tác chiến trong lập kế
+hoạch, tính toán các phương án vài
+kiểm tra, đánh giá phương án tác
+di
+
+ 
+  
+
+ 
+
+~ Thiết kế, xây dựng hệ phần mềm
+tính toán thông minh hỗ trợ lập kế
+hoạch và đánh giá phương án tác
+chiến cấp chiến địch, chiến lược:
++ Thiết kế hệ phản mềm tính toán
+thông minh; ¬
+
++ Xây dựng hệ phần mềm tính
+toán thông minh gồm: Mô hình
+hóa và lập kế hoạch tác chiến; Hỗ
+trợ tính toán các phương án tác
+chiến (nh toán chiến đấu, tính
+toán bảo đảm); Thể hiện phương.
+chiến; Kiểm tra (so với các
+quy tắc nghệ thuật quân sự), đánh.
+giá phương án tác chiến (so với
+phương án mẫu, cho điểm); Hỗ
+trợ lựa chọn phương án tác chiến;
+Cung cấp trí thức nghệ thuật quân
+sự và thông tin tác chiến.
+- Triển khai thử nghỉ
+thiện, chuyển giao sản phẩm.
+
+ 
+
+  
+
+ 
+
+hoàn 
+Sân phẩm và các chỉ tiêu kỹ thuật
+chính + Đáp ứng xây dựng kê hoạch, thời
+gian ra phương án nhanh, tính toán
+chính xác; `
+
++ Cung cấp được thông tin đầy đủ,
+phù hợp cho người chỉ huy và cơ
+quan tham mưu khi lập kế hoạch và
+lựa chọn phương án;
+
++ Phần mềm phải được bảo mật,
+phân quyền chặt chế;
+
++ Phần mềm được xây dựng trên nền
+tảng Net Framework, ArcEngine,
+mô hình clienserver, có thể chạy
+trên môi trường mạng;
++ Phần mềm có tốc độ thực thi
+nhanh, giao điện hoàn toàn tiếng
+Việt, để sử dụng, đồ họa đẹp, phù
+hợp với đơn vị sử dụng;
++ Phần mềm có tính mờ.
+
+2. Cơ sở dữ liệu về tri thức nghệ
+thuật quân sự và thông tỉn tác
+chiến phục vụ tính toán, lập kế
+hoạch và đánh giá phương án:
+
+~ Cơ sở dữ liệu gồm:
+
++ Dữ liệu về tri thức nghệ thuật quân
+sự đạng luậ
+
+ 
+
+  
+
+  
+
+ 
+  
+
+tình hình địch, ta, địa hình, thời tiết,
+vũ khí trang bị trong phạm ví chiến
+trường được xác định. an thực Kinh
+phí
+(triệu
+đồng) 
+Ghỉ
+chú anthực | Kinh Ï
+£n_ phí | Ghỉ
+Kết | (triệu | chú
+thúc | đồng)
+
+ 
+
+ 
+
+06/2023 | 50.000
+TT Tên đề tài KH&CN Nghiên cứu, thiệt
+phát triển robot lặn
+thông minh phục vụ
+nhiệm vụ đâm bảo
+chiến đấu của lực
+lượng Hải quân Chủ nhiêm đề
+tài, cơ quan
+chủ trì 
+Viện Công
+nghệ thông tỉn 'Mục tiêu, nội dung nghiên cứu
+chính Sản phẩm và các chỉ
+chính - Tính năng chủ yêu:
++ Cung cắp được các thông tỉn về tri
+thức nghệ thuật quân sự và thông tin
+tác chiến phục vụ lập kế hoạch và
+tính toán phương án:
+
++ Dữ liệu được chuẩn hóa, lưu trữ
+trong hệ quản trị cơ sở dữ liệu SQL
+Server, chuẩn Unicode, và được bảo
+
+ 
+
+ 
+
+- Phù hợp với khả năng biên chế của.
+ta và địch.
+
+  
+
++ Các tài liệu chuyên đề;
+
++ Các tài liệu kỹ thuật;
+
++ Các bài báo, báo cáo đăng trên tạp
+chí và hội thảo khoa học;
+
++ Báo cáo tổng hợp kết quả.
+
+- Tính năng chủ yêu:
+
++ Đầy đủ nội dung khoa học;
+
++ Được trình bày khoa học, rõ ràng,
+phù hợp với quy định
+
+ 
+
++ Cho phép lặn ở độ sâu đối đa 100
+m
+
++ Cho phép gấp, kéo đối tượng có
+đường kính từ 5cm — I5em, trọng 
+Thời gì 06/2020 Kêt
+thúc an thực. 
+06/2023 Kinh
+phí
+(triệu
+đồng) 50.000 T Thời gian thực | Kinh
+si g0 „ | Chủ nhiêm đề | + tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật hiện phí | Ghỉ
+Tên đề tài KH&CN [ tải, cơ quan chính chính Bắ | Kế chú
+châm đầu | thúc
+theo02chữdộ  —” Tượng không quá 10kg.
+| - Chế độ điều khiển bằng tay: cho | + Cho phép người đùng quan sát trực
+
+ 
+
+ 
+
+phép bộ đội trực tiếp điều khiển
+robot thăm đỏ dưới nước thông
+qua màn hình
+
+~ Chế độ tự hành: cho phép robot
+tự đi chuyển, tuần tra và phát
+hiện, nhận dạng các bất thường
+trên mạn tẩu, tự động thăm đò đáy
+biển trong độ sâu cho phép.
+
+2. Nội dung chính:
+
+- Khảo sát nghiên cứu các loại
+robot ROV trong và ngoài nước.
+
+- Khảo sát, nghiên cứu các hệ
+thống dẫn đường dưới nước.
+
+~ Thiết kế, phát triển, làm chủ
+robot lặn với chức năng:
+
++ Cho phép lặn ở độ sâu đối đa
+100 m.
+
++ Cho phép gấp, kéo đối tượng
+có đường kính từ 5cm = 15cm,
+trọng lượng không quá [0kg.
+
++ Cho phép người dùng quan sát
+trực tiếp biện trường qua camera
+độ phân giải cao đặt trên robot.
+phát triển hệ thống
+robot từ xa (rong
+ạ đa 130m). Hệ thống
+này cho phép người dùng điều
+
+ 
+
+ 
+
+ 
+
+ 
+
+tiếp hiện trường qua camera độ phân
+giải cao đặt trên robot.
+
+2. Hệ thống điều khiển robot:
+
++ Cho phép điều khiển robot từ xa
+
++ Cho phép trực tiếp quan sát hiện
+trường thông qua các camera găn
+trên robot.
+
+3. Hệ thống phần mềm sử dụng trí
+Í tuệ nhân tạo cho phép rob:
+
+ 
+
++ Tự động đi chuyển tìm kiếm, phát
+hiện các đấu hiệu bất thường trên
++ Tự động thăm dò, tìm kiếm đối
+tượng cho trước.
+
++ Tự động tuần tra, theo đối, khu
+
+Chịu được áp suất ở độ sâu 100m
+dưới mặt nước, chịu được nhiệt độ
+lạnh, chịu được va đập, quan sát
+được trong điều kiện thiếu ánh sáng
+dưới mặt nước.
+- Hệ thông điều khiễn trực quan, sinh
+động, để sử dụng. độ
+thống điều khiển có tính cơ động
+Tên đề tài KH&CN Chủ nhiêm đề
+tài, cơ quan
+chủ trì Mục tiêu, nị ộ 1 y: cho
+phép bộ đội trực tiếp điều khiển
+robor thăm đò dưới nước thông
+qua màn hình.
+
+- Chế độ tự hành: cho phép robot.
+tự đi chuyển, tuần tra và phát
+hiện, nhận đạng các bất thường
+trên mạn tầu, tự động thăm dò đáy
+biển trong độ sâu cho phép.
+
+ 
+
+ 
+
+cứu các loại
+robot ROV trong và ngoài nước.
+
+- Khảo sát, nghiên cứu các hệ
+thống dẫn đường dưới nước.
+
+~ Thiết kế, phát triển, làm chủ
+robot lặn với chức năng:
+
++ Cho phép lặn ở độ sâu đối đa
+100 m.
+
++ Cho phép gấp, kéo đối tượng
+có đường kính từ 5em - 15cm,
+trọng lượng không quá [0kg.
+
++ Cho phép người dùng quan sát
+trực tiếp hiện trường qua camera
+độ phân giải cao đặt trên robot.
+
+- Thiết kế, phát triển hệ thống
+điều khiển robot từ xa (trong
+phạm vi tối da 130m). Hệ thố
+này cho phép người dùng 
+Sản phẩm và các chỉ tiêu kỹ thuật
+chính lượng không quá 10kg.
+
++ Cho phép người dùng quan sát trực
+tiếp hiện trường qua camera độ phân
+giải cao đặt trên robot.
+
+2. Hệ thống điều khiển robot:
+
++ Cho phép điều khiển robot từ xa
+
++ Cho phép trực tiếp quan sát hiện
+trường thông qua các camera găn
+trên robot.
+
+3. Hệ thống phần mềm sử dụng trí
+tuệ nhân tạo cho phép rob.
++ Tự động đi chuyển tìm kiếm, phát
+hiện các đấu hiệu bất thường trên
+mạn tâu.
+
++ Tự động thăm dò, tìm kiếm đối
+tượng cho trước.
+
++ Tự động tuần tra, theo dõi, khu
+vực được yêu cầu.
+
+* Chỉ tiêu kỹ thuật chủ yếu: .
+- Robot bền chắc, các chỉ tiết cấu
+thành để tìm kiếm, thay thế, lắp đặt.
+Chịu được áp suất ở độ sâu 100 m
+dưới mặt nước, chịu được nhiệt độ
+lạnh, chịu được va đập, quan sát
+được trong điều kiện thiếu ánh sáng
+dưới mặt nước.
+
+- Hệ thông điều khiễn trực quan, sinh
+động, để sử dụn: trễ thấp. Hệ
+thống điều khiển có tính cơ động Thời gì Kết
+thúc 
+an thực Kinh
+phí
+triệu
+đồng) Ghi
+chú pc +
+| Chủ nhiêm đề
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+_ Thời gian thực | Kinh
+Ị ằ ài Mục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật | hí | Ghi
+TT ( Tên để tài KH&CN | tải, cơ quan chính , chính KẾ | (hiệu | chỉ
+chủ trì ác |
+L ~ thúc | đồng)
+khiễn và quan sát hiện trường qua | cao, để đàng cải đặt, tháo lắp trên [ Ỉ
+camera gắn trên robot. | tầu. Màn hình quan sát sáng rõ; |
+- Thiết kế, xây dựng hệ thống khiển có đầy đủ
+Ị phần mềm sử dụng trí tuệ nhân lêm tra robot;
+tạo cho phép robot: iao diện tiếng Việt, thân thiện,
+| + Tự động di chuyển tìm kiếm, | dễ Š dụng
+| | phát hiện các đấu hiệu bất thường
+Ì | trên mạn tàu. -
++ Tự động thăm đò, tìm kiếm
+| đối tượng cho trước. |
+Ị + Tự động tuần tra, theo dõi,
+| khu vực được yêu cầu, phát hiện |
+| ¡ bắt thường và cảnh báo tới người |
+chỉ huy. |
+4 |Nghin cứu xây | | 3//TS Nguyễn | 1. Mục tiêu 1. Bộ tài liệu chuyên đề 2023 15.000
+dựng hệ thống tự, Nhật An, Viện Nghiên cứu, ứng dụng các kỹ | z) Bộ rài liệu bao gồm:
+động thu thập, phân cNTT | trong Cách mạng
+
+ích, tổng hợp thông
+[in dựa trên công
+
+nghệ intemet vạn
+vật, dữ liệu lớn và trí
+tuệ nhân tạo phục vụ
+chỉ huy điều hành
+trong lĩnh vực thông
+tin tình báo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.0 để thiết kế, xây
+dựng hệ thông phần mềm tự động.
+thu phân tích, tổng hợp và
+á n tức tình báo cho cơ
+quan tình báo quân đội. Cụ thể:
++ Nghiên cứu, ứng dụng các kỹ
+thuật về thu thập tin tức, xử lý đữ
+liệu lớn, trí tuệ nhân tạo để qua đó
+Ì xây dựng được hệ thống robot thu
+thập dữ liệu thông tin từ nguồn tin
+công khai, nguồn tin quân báo,
+nguồn tỉn hình ảnh video, nguồn
+
+  
+
+ 
+
++ Tài liệu nghiên cứu về về Internet
+of Things trong lĩnh vực thông tỉn
+tình báo. (các kỹ thuật xây dựng
+robot thu thập các tin tức trên
+
+nhan).
+
++ Tài liệu nghiên cứu về Bigdata
+(các phương pháp thiết kế đữ liệu
+lớn, các kỹ thuật xử lý dữ liệu lớn)
+
++ Tài liệu nghiên cứu về Nghiên cứu.
+cơ bản về Trí tuệ nhân tạo (Học máy:
+machine learing,  deep-leaming
+
+ 
+
+ 
+
+internet trên nhiều định đạng khác Ì
+“Tên đề tài KH&CN Nghiên cứu xây
+dựng hệ thống tự
+động thu thập, phân
+tích, tổng hợp thông
+tin dựa trên công
+nghệ internet vạn
+vật, dữ liệu lớn và trí
+tuệ nhân tạo phục vụ.
+chỉ huy điều hành
+trong lĩnh vực thông
+tín tình báo Nghiên cứu xây
+dựng hệ thống tự
+động thu thập, phân
+tích, tổng hợp thông
+tin dựa trên công
+nghệ internet vạn
+vật, dữ liệu lớn và trí
+tuệ nhân tạo phục vụ.
+chỉ huy điều hành
+trong lĩnh vực thông
+tín tình báo Chủ nhiêm đề
+tài, cơ quan
+chủ trì 
+3// TS Nguyễn
+Nhật An, Viện
+CNTT Mục tiêu, nội dung nghiên cứu
+chính khiên và quan sát hiện trường qua
+camera gắn trên robot.
+
+T ây dựng hệ thống
+phân mềm sử dụng trí tuệ nhân
+tạo cho phép robot:
+
++ Tự động di chuyển tìm kiếm,
+phát hiện các dấu hiệu bắt thường
+trên mạn tâu.
+
++ Tự động thăm đò, tìm kiếm
+đối tượng cho trước.
+
++ Tự động tuần tra, theo dõi,
+khu vực được yêu cầu, phát hiện
+bắt thường và cảnh báo tới người
+chỉ huy. 1, Mục tiêu
+Nghiên cứu, ứng dụng các kỹ
+thuật cốt lõi
+Công nghỉ.
+dựng hệ thông phần mềm tự động.
+thu thập, phân tích, tổng hợp và
+báo cáo tin tức tình báo cho cơ
+quan tình báo quân đội. Cụ thể:
++ Nghiên cứu, ứng dụng các kỹ
+thu thập tin tức, xử lý đữ
+ớn, trí tuệ nhân tạo đẻ qua đó
+xây dựng được hệ thống robot thu
+thập dữ liệu thông tỉn từ nguồn tin
+công khai, nguồn tin quân báo,
+nguồn rỉn hình ảnh video. nguồn 
+cao, dễ dàng cài đặt, tháo lấp trên
+tầu. Mân hình quan sát sáng rõ;
+
+- Phần mềm điều khiển có đầy đủ
+chức năng điều khiễn, kiểm tra robot;
+có giao diện tiếng Việt, thân thiện,
+dễ sử dụng. a) Bộ tài liệu bao gồm:
+
++ Tài liệu nghiên cứu về về Internet
+of Things trong lĩnh vực thông tin
+tình báo. (các kỹ thuật xây đựng
+roboL thu thập các tin tức trên
+internet trên nhiều định dạng khác
+nhau).
+
++ Tài liệu nghiên cứ
+(các phương pháp
+lớn, các kỹ thuật xử lý dữ liệ
++ Tài liệu nghiên cứu về Nghiên cứu
+cơ bản về Trí tuệ nhân tạo (Học m¿
+machine leaming,  đeep-leaming
+
+ 
+
+   
+ 
+
+ 
+
+Bigdata 2020 thúc 
+an thực. 2023 Kinh
+phí
+(triệu
+đồng) Ghi
+chú Ị Chủ nhiêm đề „ Thời gian thực Kinh
+Sx đỗ vất " Mục tiêu, nội dung nghiên cứu | Săn phẩm và các chỉ tiêu kỹ thuật hiện phí | Ghỉ
+Tên đề tài KH&CN tù cư quan TH các Đã Km —| dâu | Hư
+— đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tỉn về vị trí tọa độ... hình thành
+một kho dữ liệu lớn (big data)
++ Nghiên cứu, áp dụng các kỹ
+thuật trí tuệ nhân tạo nhằm tự
+động phân tích, tổng hợp, xây
+dựng báo cáo đa dạng phục vụ
+cho công tác tình báo việt nam.
+2. Nội dung nghiên cứu chính
+- Nghiên cứu các phương pháp
+xây dựng công cụ thiết kế robot tự.
+động thu thập tin tức (crawler) từ
+các nguồn tin khác nhau như báo
+| chí, mạng xã hội, quân báo, tọa độ
+vị trí... với đầy đủ các tính năng,
+chuyên nghiệp.
+- Nghiên cứu các giải pháp thiết
+kế, xử lý dữ liệu lớn (Bigdata).
+~ Nghiên cứu cơ bản về lĩnh vực
+xử lý ngôn ngữ tự nhiên sử dụng,
+trí tuệ nhân tạo giải quyết các bài
+toán phân tích thông tin văn bản:
+Phân loại, phân cụm văn bản,
+Tóm tắt văn bản, phân tích sắc
+thái tâm lý nhằm hỗ trợ đánh giá,
+dự báo xu hướng, phân tích các
+hệ giữa các đối tượng,...
+- Nghiên cứu các phương pháp xử
+
+ 
+
+ 
+
+ 
+
+Ílý, phân tích dữ liệu dưới dạng |
+
+trong xử lý ngôn ngữ tự nhiên, xử lý
+hình ảnh, video,....
++ Tài liệu nghiên cứu về xây dựng
+kho ngữ liệu trì thức phục vụ cho các
+bài toán trí tuệ nhân tạo.
+
+0) Chỉ tiêu kỹ thuật chủ yễu của sản
+phẩm:
+
+- Các tài liệu có được lập theo mẫu
+
+ 
+
+trình bày rõ rằng và khoa học.
+
+phân tích-tông hợp thông tin:
+
+a) Sản phẩm bao gồm:
+
+~ Kho ngữ liệu tri thức văn bản, hình.
+
+ảnh phục vụ cho các bài toán khai
+
+phá dữ liệu sử dụng trí tuệ nhân tạo.
+
+- Thiết kế, xây dựng và vận hành hệ
+
+cơ sở dữ liệu lưu trữ dựa trên nền
+tảng công nghệ Bigdata.
+
+|- Phân hệ phần mềm phần mềm tự
+
+Í động thu thập thông tin dựa trên nền
+
+ 
+
+Thỉngs):
+
++ Thiết kế và xây dựng hệ thống
+Robot thư thập thông từn từ các
+nguận khác nhau như: báo chí, mạng
+xã hội, quân báo, hình ảnh, video, vị
+
+ 
+
+| quy định, có nội dung đây đủ, được ,
+
+2. Hệ thống phần mềm thu thập- |
+
+(tảng công nghệ loT (Internet of.
+Tên đề tài KH&CN Chũ nhiêm đề
+tài, cơ quan
+chủ trì Mực tiêu, nội dung nghiên cứu
+chính tin về vị trí tọa độ... hình thành
+
+ 
+
+một kho dữ liệu lớn (big data)
++ Nghiên cứu, áp dụng các kỹ
+thuật trí tuệ nhân tạo nhằm tự
+động phân tích, tổng hợp, xây
+dựng báo cáo đa dạng phục vụ
+cho công tác tình báo việt nam.
+
+ 
+
+- Nghiên cứu các phương pháp
+xây dựng công cụ thiết kế robot tự.
+động thu thập tin tức (crawler) từ
+các nguồn tin khác nhau như báo
+chí, mạng xã hội, quân báo, tọa độ
+vị trí... với đầy đủ các tính năng,
+chuyên nghiệp.
+- Nghiên cứu các giải pháp thiết
+kế, xử lý dữ liệu lớn (Bigdata).
+
+~ Nghiên cứu cơ bản về lĩnh vực
+xử lý ngôn ngữ tự nhiên sử dụng
+trí tuệ nhân tạo giải quyết các bài
+toán phân tích thông tin văn bản:
+Phân loại, phân cụm văn bản,
+Tóm tắt văn bản, phân tích sắc
+thái tâm lý nhằm hỗ trợ đánh giá,
+dự báo xu hướng, phân tích cá
+mối liên hệ giữa các đối tượng,
+- Nghiên cứu các phương pháp xử
+lý, phân tích dữ liệu dưới dạng 
+Sản phẩm và các chỉ tiêu kỹ thuật
+chính trong xử lý ngôn ngữ tự nhiên, xử lý
+hình ảnh, video,....)
+
++ Tài liệu nghiên cứu về xây dựng
+kho ngữ liệu trỉ thức phục vụ cho các
+bài toán trí tuệ nhân tạo.
+
+Ð) Chỉ tiêu kỹ thuật chủ yễu của sâm
+phẩm:
+
+- Các tài liệu có được lập theo mẫu
+quy định, có nội dung đầy đủ, được
+trình bày rõ rằng và khoa học.
+
+2. Hệ thống phần mềm thu thập-
+phân tích-tông hợp thông tin:
+
+a) Sản phẩm bao gồm:
+
+- Kho ngữ liệu tri thức văn bản, hình
+
+ 
+
+nhân tạo.
+kế, xây dựng và vận hành hệ
+cơ sở dữ liệu lưu trữ dựa trên nền
+
+ 
+
+ 
+
+~ Phân hệ phần mềm phần mềm tự
+động thu thập thông tin dựa trên nền
+tầng công nghệ IoT (Internet of
+Thíng:
++ Thiết kế và xây dựng hệ thống
+Robot thu thập thông tìn từ các
+nguận khác nhau như: báo chỉ. mạng
+xã hội, quân báo, hình ảnh, video, vị Bắt
+đầu Thời g 
+Kêt
+thúc an thực Kinh
+phí
+(triệu
+đồng) Ghi
+chú 'Chữ nhiệm đề ma - - - Thời gian thực | Kinh
+¡KH&CN | tải cơquan |  lựetiêu nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật hiện phí | Ghỉ
+thà chính chính Bắt Kết | (triệu | chú
+
+đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+¡hình ảnh, video sử dụng trí tuệ
+nhân tạo.
+
+- Nghiên cứu các phương pháp xử
+lý phân tích dữ liệu dưới dạng vị
+trí, tọa độ,... sử dụng trí tuệ nhân
+tạo.
+
+~ Nghiên cứu các phương pháp
+xây dựng kho ngữ liệu trì thức
+tình báo (ntelligence knowledge
+base) phục vụ các bài toán sử
+dụng trí tuệ nhân tạo.
+- Nghiên cứu, thiết kế xây dựng
+giải pháp ứng dụng các kỹ thuật
+xử lý dữ liệu lớn (Bigdata) và Trí
+tuệ nhân tạo phục vụ công tác
+theo đối, điều hành chỉ huy, ra
+quyết định trong lĩnh vực thông
+tin tình báo.
+
+ 
+
+ 
+
+ 
+
+ 
+
+trí tọa độ... đựa vào robot thự thập tin
+tức, kết nối thiết bị camera, gps...
+
++ Aodules tự động điều khiển robot
+thự thập dựa trên trí tiệ nhân tạo
+(học thói quen đăng tin của nguồn
+tin).
+
+- Phân hệ phần mềm tự động phân
+tích, tông hợp. thông tỉn phục vụ công
+tác theo đối, điều hành chỉ huy, ra
+quyết định trong lĩnh vực thông tin
+tình báo dựa trên nền tảng công nghệ
+Trí tuệ nhân tạo (A])
+
+~ Phân tích, tổng hợp thông tin văn
+bản dựa trên những kỹ thuật chuyên
+sâu về Xử lý ngôn ngữ tự nhiên ứng
+đụng AI.
+
++ ——- Xây đựng hệ thống dịch máy
+từ nhiều ngôn ngữ ra tiếng Việt đề
+ứng dụng trong các bài toán xử lý
+ngôn ngữ tự nhiên tiếng Việt.
+
+* Theo dõi và báo cáo các vẫn
+đề bức xúc trong xã hội (tự động thu
+thập thông tin, kịp thời phát hiện các
+sự kiện quan trọng vừa xây ra thông
+qua việc đánh giá số lượng người
+đọc và số lượng commen!... thông
+qua các kÿ thuật phân cựm, xử lý
+ngôn ngữ Iự nhiên)
+Tên đề tài KH&CN Chũ nhiêm đề
+tài, cơ quan
+chữ trì Mục tiêu, nội dung nghiên cứu
+chính hình ảnh, video sử dụng trí tuệ
+nhân tạo.
+
+- Nghiên cứu các phương pháp xử
+lý phân tích dữ liệu đưới dạng vị
+trí, tọa độ,... sử dụng trí tuệ nhân
+tạo.
+
+- Nghiên cứu các phương pháp
+xây dựng kho ngữ liệu trí thức
+tình báo (intelligence knowledge
+base) phục vụ các bài toán sử
+đụng trí tuệ nhân tạo.
+
+- Nghiên cứu, thiết kế xây dựng
+giải pháp ứng dụng các kỹ thuật
+xử lý dữ liệu lớn (Bigdata) và Trí
+tuệ nhân tạo phục vụ công tác
+theo dõi, điều bành chỉ huy, ra
+quyết định trong lĩnh vực thông
+tin tình báo. 
+Sản phẩm và các chỉ tiêu kỹ thuật
+chính trí tọa độ...đựa vào robot thụ thập tin
+tức, kết nối thiết bị camera, gps...
+
++ Modules tự động điều khiến robot
+thu thập dựa trên trí tuệ nhân tạo
+(học thói quen đăng tin của nguồn
+tin).
+
+- Phân hệ phần mềm tự động phân
+tích, tổng hợp thông tỉn phục vụ công.
+tác theo dõi, điều hành chỉ huy, ra
+quyết định trong lĩnh vực thông tin
+tình báo dựa trên nền tảng công nghệ
+Trí tuệ nhân tạo (A])
+
+~ Phân tích, tổng hợp thông tin văn
+bản dựa trên những kỹ thuật chuyên
+sâu về Xử lý ngôn ngữ tự nhiên ứng
+đụng AIL
+
+Xây đụng hệ thống địch máy
+từ nhiều ngôn ngữ ra tiếng Việt để
+ứng dụng trong các bài toán xử lý
+ngôn ngữ tự nhiên tiếng Việt.
+
+* Theo dõi và báo cáo các vấn
+đề bức xúc trong xã hội (tự động thu
+thập thông tin, kịp thời phát hiện các
+sự kiện quan trọng vừa xây ra (hông
+qua việc đánh giá số lượng người
+đọc và số lượng commenl... thông
+qua các kÿ thuật phân cụm, xử lý Bắt
+đầu Thời gì 
+Kêt
+thúc Kinh
+phí
+(triệu
+đồng) Ghỉ
+chú Ị
+
+Tên đề tài KH&CN
+
+Chủ nhiêm đề
+tài, cơ quan
+chữ trì
+
+Mục tiêu, nội dung nghiên cứu
+chính
+
+T T
+
+chính
+
+Thời gian thực
+
+ 
+
+Sản phẩm và các chỉ tiêu kỹ thuật __
+
+Bắt
+đầu
+
+ 
+
+Ghi
+chú
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++ — Đánh giá dự luận và dự báo
+xu hướng diễn biến của vấn đề (dưa |
+vào phân tích Sắc thái tâm lý của |
+văn bản, của thực thể: cá nhân
+người, tô chức, quốc gia công t9.
+thành phố.... ngữ nghĩa từ khóa và
+nội dung commet)
+
+„. Dự báo và cảnh báo các điểm
+nóng có thê xảy ra bất ôn chính trị
+xã hội. (dựa vào phân tích nội dung
+văn bản, nội dung comment và thông
+qua việc ứng dụng otologies lọc và
+xếp hạng các mỗi quan hệ dựa (rên
+danh sách quan hệ với tài khoản cá
+nhân và số lượng comment giữa các
+cá nhân với nhau (commeml càng
+nhiều thì quan hệ càng thân thiếp )
+
+„+ Dự báo các xu hướng tên
+mạng xã hội trực tuyến. Phương
+pháp này dựa vào ngữ nghĩa từ khóa.
+và nội dụng commet. Ví đụ: Có thể
+| đánh giá giới trẻ quan tâm aì thông
+qua nội dụng comment (ý định, ước
+nguyện) bằng việc phân tích thông
+tin cá nhân (lứa tuôi) và nội dưng
+commet bằng phân tích ngôn ngữ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mạng (hình ảnh. viết tắt. viết theo
+| ngôn ngữ riêng. tẳng nước ngoài...)_ |
+L__ Chủ nhiêm đề . s 2n nhấn và s Thời gian thực [ Kimh |
+Tên để ti KH&CN | dải cơ quan | MtĂ tiêu,nội dung nghiên cứu | Sản phẩm và các chỉiêu kỹ thuật „_ hiện phí | Ghỉ
+TH N chính chính Bất | KếC | triệu | chú
+đầu | thúc | đồng)
++ Khai phá quan điên của cộng
+
+ 
+
+ 
+
+ 
+
+ 
+
+đồng trên mạng xã hội: Tự động thu
+thập, đánh giá quan điểm của các
+group trong mạng xã hội
+
+- Phân tích thông tin hình ảnh đựa.
+trên những kỹ thuật chuyên sâu về
+Thị giác máy tính (Compler vision)
+ứng dụng AI. Giải quyết các bài toán
+về nhận dạng đối tượng xuất hiện
+trong video, ảnh.
+
+- Phân tích. tổng hợp, dự thông
+tin dựa trên tích hợp từ nhiều nguồn
+thông tin văn bản, hình ảnh, quân
+báo, tọa độ vị trí.. dựa trên nền tảng
+công nghệ AIL
+
+- Phân hệ phần mềm kết xuất, tổng
+hợp các báo cáo.
+
++ Chúc năng Tông hợp báo cáo: Từ
+các văn bản báo cáo của các cá
+nhân, hệ thông sẽ tự động tổng hợp
+thành một văn bản ý kiến chung
+(ngắn gọn, đẩy đủ và không trùng ý)
++ Chức năng kết xuất báo cáo bằng
+văn bản, hình ảnh, biêu đỗ.
+
++ Chức năng bảo cáo thông qua dữ
+liệu thống kê.
+
+b) Chỉ tiêu lợ thuật chủ yếu của sản
+phẩm:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12
+- Chủ nhiêm đề
+| Tên đề tài KH&CN |_ tài, cơ quan
+chủ trì
+
+ 
+
+Mục tiêu, nội dung nghiên cứu
+
+chính TT 'Tên đề tài KH&CN. Chủ nhiêm đề
+tài, cơ quan
+chủ trì 
+Mục tiêu, nội dung nghiên cứu
+chính Sản phẩm và các chỉ tiêu kỹ thuật
+chính
+* Khai phá quan điềm của cộng
+động trên mạng xã hội: Từ động thu
+thập, đánh giá quan điểm của các
+grop trong mạng xã hội
+- Phân tích thông tin hình ảnh đựa
+trên những kỹ thuật chuyên sâu về
+Thị giác máy tính (Compter vision)
+ứng đụng AI. Giải quyết các bài toán
+về nhận dạng đối tượng xuất hiện
+trong video, ảnh.
+- Phân tích, tổng hợp, dự báo thông
+tin dựa trên tích hợp từ nhiều nguôn
+thông tin văn bản, hình ảnh, quân
+báo, tọa độ vị trí... dựa trên nên tảng
+công nghệ AIL
+- Phân hệ phần mềm kết xuất, tổng
+hợp các báo cáo.
++ Chúc năng Tổng hợp báo cáo: Tì
+các văn bản báo cáo của các œ
+nhân, hệ thông sẽ tự động tổng hợ
+thành một văn bản ý kiến chum
+(ngắn gọn, đẩy đủ và không trừng ý)
++ Chức năng kết xuất báo cáo bằng
+văn bản, hình ảnh, biêu đỗ.
++ Chức năng bảo cáo thông qua di
+liệu thống kê.
+Đ) Chỉ tiêu kỹ thuật chủ
+phẩm:
+
+ 
+
+ 
+
+ 
+
+của sả! quan điêm của cộng
+tự động thu
+quan điểm của các
+s xã hội
+
+\g tin hình ảnh dựa.
+huật chuyên sâu về
+h (Computer vision)
+ii quyết các bài toán
+lối tượng xuất hiện
+
+ 
+
+ 
+
+g hợp, dự báo thông
+hợp từ nhiều nguôn
+án, hình ảnh, quân
+(.. dựa trên nên tảng
+
+ 
+
+mềm kết xuất, tổng,
+
+ 
+
+ng hợp báo cáo: Từ
+áo cáo của các cá
+sẽ tự động tổng hợp
+bản ý kiến chung
+†ủ và không trùng ý)
+ết xuất báo cáo bằng
+
+ 
+
+th, biểu đề.
+
+áo cáo thông qua dữ
+
+huật chủ yếu của sản Bắt
+đầu 
+Thời gì an thực.
+Đ Kinh
+phí
+(triệu
+đồng) Chữ nhiêm đề : Thời gian thực | Kinh
+
+mm hũ Mục tiêu, nội dung nghiên cứu | Sản phẩm và các chỉ tiêu kỹ thuật hiện phí | Ghỉ
+
+TT | Tên để tài KH&CN nh chính chính Bắt | KẾC | (triệu | chú
+kisei đầu | thúc | đồng)
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Hệ thông phần mềm được thiết kế
+chạy trên môi trường mạng, được
+xây dựng dựa trên các công nghệ
+mới, có tốc độ thực thỉ nhanh, giao
+lên thân thiện, đồ họa đẹp. Chạy ồn
+ịnh đáp ứng đúng và đủ theo yêu
+câu nghiệp vụ của cán bộ khai thác ,
+thông tin.
+
+3. Bộ tài liệu khoa học
+
+4) Sản phẩm bao gồm:
+
++ Các báo cáo: Báo cáo khoa học
+tổng kết đề tài, báo cáo tóm tắt đề tài
++ Các tài liệu kỹ thuật: Tài liệu phân
+| tích thiết kế hệ thống, tài liệu hướng
+dẫn cài đặt, tài liệu hướng dẫn sử |
+dụng.
+
+5) Chỉ tiêu kỹ thuật chủ yếu của sản
+phẩm:
+
+Các báo cáo được lập theo mẫu quy
+định, có nội dung đây đủ, được trình
+bày rõ ràng và khoa học. Các tài liệu
+kỹ thuật có có nội dung đầy đủ, được.
+trình bày rõ ràng và khoa học
+Tên đề tài KH&CN Chủ nhiêm đề
+tài, cơ quan
+chữ trì Mục tiêu, nội dung nghiên cứu
+chính Sản phẩm và các chỉ tiêu kỹ thuật
+chính 
+- Hệ thông phần mềm được thiết kế
+chay trên môi trường mạng, được
+xây dựng dựa trên các công nghệ
+mới, có tốc độ thực thỉ nhanh, giao
+diện thân thiện, đồ họa đẹp. Chạy ồn
+định đáp ứng đúng và đủ theo yêu
+câu nghiệp vụ của cán bộ khai thác
+thông tín.
+
+3. Bộ tài liệu khoa học
+
+4) Sản phẩm bao gôm:
+
++ Các báo cáo: Báo cáo khoa học
+tổng kết đề tài, báo cáo tóm tắt đề tài
++ Các tài liệu kỹ thuật: Tài liệu phân
+tích thiết kế hệ thống, tài liệu hướng
+dẩn cài đặt, tài liệu hướng dẫn sử
+dụng.
+
+8) Chỉ tiêu kỹ thuật chủ yếu của sản
+phẩm:
+
+Các báo cáo được lập theo mẫu quy
+định, có nội dung đây đủ, được trình
+bày rõ ràng và khoa học. Các tài liệu
+kỹ thuật có có nội dung đầy đủ, được.
+trình bảy rũ ràng và khoa hop Bắt
+đầu Thời g Kệt
+thúc 
+an thực chú 'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+  
+
+PHIẾU ĐẺ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔ! GHẸ
+
+ 
+
+1. Tên nhiệm vụ KH&CN: Nghiên cứu, thiết kế, phát triển robot lặn
+thông minh phục vụ nhiệm vụ đảm bảo chiến đấu của lực lượng Hải quân.
+
+2. Hình thức thực hiện: Đề tài khoa học và công nghệ.
+
+3. Mục tiêu:
+
+Nghiên cứu, thiết kế, phát triển robot lặn thông minh (ROV) hỗ trợ công.
+tác đảm bảo chiến đấu của lực lượng hải quân. Robot khi được xây dựng sẽ hoạt
+động theo 02 chế độ
+
+- Chế độ điều khiển bằng tay: cho phép bộ đội trực tiếp điều khiển robot
+thăm dò dưới nước thông qua màn hình.
+
+- Chế độ tự hành: cho phép robot tự di chuyển, tuần tra và phát hiện, nhận
+dạng các bất thường trên mạn tầu, tự động thăm dò đáy biển trong độ sâu cho
+phép.
+
+4. Tính cấp thiết của nhiệm vụ KH&CN:
+
+Việt Nam là quốc gia biển, có vùng biển và thềm lục địa rộng trên một
+triệu ki-lô-mét vuông (gấp hơn ba lần diện tích đất liền), mở ra trên cả ba hướng:
+đông, nam và tây - nam, với trên 3.260 km bờ biển; 48 vũng, vịnh; khoảng 3.000.
+hòn đảo lớn, nhỏ. Với vị trí địa - chiến lược đó, xây dựng Quân chủng Hải quân
+hiện đại, thực sự là lực lượng nòng cốt cho toàn dân và toàn quân bảo vệ vững,
+chắc chủ quyền các vùng biển, đảo và thềm lục địa của Tổ quốc là yêu cầu tất
+yếu, phù hợp với xu thế phát triển hải quân của các nước có biển nhằm đối phó
+với những thách thức an ninh phi truyền thống đang nổi lên trên Biển Đông, vì
+mục tiêu hòa bình, Ổn định và phát triển trong khu vực. Chính vì vậy, Đảng ta đã
+ra nhiều chủ trương trong đó xác định lực lượng Hải quân nhân dân Việt Nam
+(HQNDVN) tiến thẳng lên hiện đại là một yêu cầu cấp thiết.
+
+Hiện nay, đứng trước cuộc cách mạng công nghiệp 4.0, trí tuệ nhân tạo và
+robot đang nổi lên là một trong các công nghệ giữ vai trò then chốt thúc đẩy và
+thay đổi toàn diện mọi mặt đời sống xã hội. Không nằm ngoài sự phát triển đó,
+công tác đảm bảo chiến đâu cho lực lượng hải quân hoàn toàn có thể được nâng,
+cao và thay thế một phần bằng những robot lặn thông minh (ROV).
+
+ROV (Remotely operated underwater vehicle) là robot dưới nước được
+điều khiển và cung cấp năng lượng từ trung tâm điều khiển (trên bờ, trên tàu mẹ)
+thông qua cáp dẫn. ROV đã được nhiều nước nghiên cứu phát triển để hỗ trợ và
+thay thế con người làm việc ở những vùng nước sâu (dưới đáy đại dương),
+những vùng nước ô nhiễm hoặc khi làm việc trong thời gian dài dưới nước. Hiệnnay trên thể giới, robot dưới nước được sử dụng nhiều trong quân sự, tìm kiếm
+cứu nạn cứu hộ, nghiên cứu biển và các ngành kỹ thuật. Robot dưới nước còn là
+các thiết bị quan trọng khi cứu hộ các tàu thuyền bị đắm dưới đáy biển. Trong,
+thám hiểm và nghiên cứu biển, robot dưới nước được sử dụng để khảo sát địa
+hình dưới đáy biển, thu thập dữ liệu về độ phóng xạ, độ rò rỉ của các nguồn khí
+dưới đáy biển.
+
+Trong quân sự, robot dưới nước được sử dụng để gài hoặc tìm kiếm và
+tháo gỡ thủy lôi, mìn hoặc phối hợp cùng con người trong việc tác chiến dưới
+nước. Các ROV có thể được sử dụng trong công tác thăm dò các vùng nước
+nhiễm độc, nguy hiểm, cung cấp thông tin quan trọng cho người chỉ huy trên
+tầu. Bên cạnh đó, các ROV cũng có thể được sử dụng để thường xuyên di
+chuyển, tuần tra phát hiện các bắt thường xung quành tầu cũng như trên mạn tầu
+(như các vết rạn, nứt, các vật lạ bị gắn vào tàu,...). Do được cung cấp nguồn từ
+tàu mẹ thông qua cáp dẫn, các ROV có thể hoạt động liên tục, bền bỉ, kịp thời
+cung cấp thông tin cảnh báo tới người chỉ huy. Ngoài ra, các ROV có thể được
+thiết kế, phát triển thêm các loại tay máy đặc chủng để mang vác, kéo các vật
+nặng, cắt các loại lưới, dây thép, lắp đặt mìn, thủy lôi.... Trong huấn luyện, tác
+chiến dưới nước, các ROV có thể được ứng dụng để mạng vác trang bị, vật tư,
+hỗ trợ thợ lặn.
+
+Có thể thấy, ROV là một thiết bị quan trọng không thể thiếu đối với một
+lực lượng Hải quân hiện đại do những lợi ích mà nó đem lại. Do đó, việc nghiên
+cứu thiết kế, chế tạo các ROV thông mỉnh phù hợp với yêu cầu, nhiệm vụ của
+lực lượng Hải quân ta là một đòi hỏi vô cùng cấp thiết.
+
+5. Các nội dung chính và kết quả dự kiến:
+
+- Khảo sát nghiên cứu các loại robot ROV trong và ngoài nước.
+
+- Khảo sát, nghiên cứu các hệ thống dẫn đường dưới nước.
+
+~ Thiết kế, phát triển, làm chủ robot lặn với chức năng:
+
+o_ Cho phép lặn ở độ sâu đối đa 100 m.
+
+o_ Cho phép gắp, kéo đối tượng có đường kính từ 5cm — 15cm, trọng.
+lượng không quá 10kg.
+
+o_ Cho phép người dùng quan sát trực tiếp hiện trường qua camera độ
+phân giải cao đặt trên robot.
+
+~ Thiết kế, phát triển hệ thống điều khiển robot từ xa (trong phạm vi tối đa
+130m). Hệ thống này cho phép người dùng điểu khiển và quan sát hiện trường,
+qua camera gắn trên robot.
+
+- Thiết kế, xây dựng hệ thống phần mềm sử dụng trí tuệ nhân tạo cho
+phép robot:
+
+o _ Tự động di chuyển tìm kiếm, phát hiện các dấu hiệu bắt thường trên
+mạn tâu.o©_ Tự động thăm dò, tìm kiếm đối tượng cho trước.
+© Tự động tuần tra, theo dõi, khu vực được yêu cầu, phát hiện bất
+thường và cảnh báo tới người chỉ huy.
+6. Khả năng và địa chỉ áp dụng:
+'Vùng 2 — Hải quân và các đơn vị chiếu đấu thuộc quân chủng Hải quân.
+“. Dự kiến hiệu quả mang lại:
+Thực hiện thành công đề tài “Nghiên cứu, thiết kế, phát triển robot lặn
+thông minh phục vụ nhiệm vụ đảm bảo chiến đấu của lực lượng Hải quân” mang
+lại nhiều lợi ích to lớn về cả chính trị-xã hội và khoa học kỹ thuật trên một số
+
+ 
+
+ 
+
+ 
+
+mặt sau:
+
+- Hiện đại hóa về phương tiện, đổi mới phương pháp kỹ thuật đảm bảo
+chiến dấu của lực lượng Hải quân, kịp thời cung cấp thông tin hỗ trợ chiến dấu.
+
+~ Góp phần tối ưu hóa, nâng cao chất lượng, năng suất công tác thăm dò
+mặt nước, đảm báo chiến đấu của lực lượng Hải quân.
+
+- Góp phần đây mạnh các hoạt động nghiên cứu, ứng dụng khoa học-công,
+nghệ trong hoạt động rà phá bom mìn kết hợp với tiếp thu kinh nghiệm, phương,
+tiện kỹ thuật tiên tiến của nước ngoài nhằm nâng cao chất lượng việc ứng dụng,
+công nghệ cao, đặc biệt công nghệ 4.0 vào quân đội ta.
+
+8. Dự kiến thời gian thực hiện: 36 tháng, bắt đầu từ tháng 06/2020 kết
+thúc tháng 06/2023
+
+ 
+
+Hà Nội, ngày 26 thắng l1 năm 2018
+'TỎ CHỨC ĐÈ XUẤT
+KT. VIỆN TRƯỞNG
+HỘI VIỆN TRƯỞNG,2
+vs'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập — Tự do - Hạnh phúc
+
+PHIẾU ĐÈ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ
+
+1. Tên nhiệm vụ KH&CN:
+
+Nghiên cứu, xây dựng hệ thống tự động thu thập, phân tích, tổng hợp
+thông tin dựa trên công nghệ internet vạn vật, dữ liệu lớn và trí tuệ nhân tạo
+phục vụ chỉ huy điều hành trong lĩnh vực thông tin tình báo.
+
+2. Hình thức thực hiện: Đề tài Khoa học và Công nghệ
+
+3. Mục tiêu:
+
+Nghiên cứu, ứng dụng các kỹ thuật cốt lõi trong Cách mạng Công, nghiệp
+4.0 để thiết kế, xây dựng hệ thống, phần mềm tự động thu thập, phân tích, tổng
+hợp và báo cáo tỉn tức tình báo cho cơ quan tình báo quân đội. Cụ thể:
+
+~ Nghiên cứu, ứng dụng các kỹ thuật về thu thập tin tức, xử lý dữ liệu lớn,
+trí tuệ nhân tạo để qua đó xây dựng được hệ thống robot thu thập dữ liệu thông
+tin nguồn tin công khai, nguồn tin quân báo, nguồn tin hình ảnh video, nguồn
+tin về vị trí tọa độ... hình thành một kho dữ liệu lớn (big data).
+
+- Nghiên cứu, áp dụng các kỹ thuật trí tuệ nhân tạo nhằm tự động phân
+tích, tổng hợp, xây dựng báo cáo đa dạng phục vụ cho công tác tình báo Việt
+Nam.
+
+4. Tính cấp thiết của nhiệm vụ KH&CN:
+
+Trong thời đại bùng nô thông tin, các cá nhâi tổ chức và quốc gia đều
+triệt để sử dụng mọi phương tỉ truyền thông, để triển khai thực các ý đồ, chủ
+tr ương, kế hoạch của mình. Trước thực tế này, các cơ quan tình báo ở nhiều
+quốc gia đã đầu tư nghiên cứu xây dựng các mô hình, giải pháp chuyên nghiệp
+kết hợp giữa con người và phương tiện kỹ thuật nhằm nghiên cứu, phân tích tin
+tức từ các nguồn tin tình báo để thu thập tỉn tình báo (OSINT). OSINT là cụm từ
+viết tất tiếng Anh (open-souroe intelligence), dùng để chỉ một chuyên ngành thu
+thập, phân tích, xử lý tin tức tình báo từ các nguồn tin khác nhau. Thuật ngữ
+OSINT xuất hiện từ những năm 1940 khi các cơ quan tình báo phương, Tây triển
+khai lực lượng, phương, tiện để thu thập, phân tích tin tức từ các hãng thông, tấn,
+báo chí của nước ngoài, đặc biệt là của các quốc gia, các đối tượng, nhằm phục
+vụ các lãnh đạo quân Sự/chính trị trong quá trình ra quyết định. Ở các nước có
+cộng đồng tình báo phát triển như Mỹ, Nga, Trung Quốc, I-xra-en, Ô-xtrây-li-
+a,... OSINT được xem là một chuyên ngành tình báo tương đương như Điệp báo
+(HUMINT) hay Trinh sát kỹ thuật (SIGINT). .
+
+Qua nghiên cứu khảo sát các giải pháp công nghệ OSINT, có thể thấy mô
+hình thiết kế hệ thống OSINT cơ bản đều gồm 3 khối chức năng: Thu thập —
+Phân tích - Báo cáo. Điểm khác nhau là mức độ tự động hóa ở các khâu, khả
+năng xử lý, quy mô và phương thức triển khai, nền tảng công nghệ sử dụng.
+
+Đối với phân hệ Thu thập, các giải pháp OSINT đều ứng dụng kỹ thuật
+đò tìm tự động (web crawling) để tự động hóa công việc thu thập tin tức.
+Trong đó, giải pháp Kofax Kapow Katalyst (Mỹ) là chuyên nghiệp, hiện đại vàđa chức năng nhất; cung cấp công cụ cho phép người dùng thiết kế, vận hành và
+quản lý các robot thu thập tỉn tức; có khả năng thu thập tin tức từ nhiều loại
+nguồn tin như các website tin tức, mạng xã hội, blog, diễn dàn, công cụ tìm
+kiếm, cơ sở dữ liệu, hệ thống le,... Trên thực tế, Kapow là một chương trình
+máy tính cho phép người sử dụng thiết kế các quy trình tự động hóa thu thập
+thông tin. Chương trình này cũng được tích hợp trong các giải pháp OSINT khác
+như Elbit WïT Osint (I-xra-en) và Golden Spear (Xin-ga-po). Trong khi đó, giải
+pháp IBM Watson Analytics (Mỹ) sử dụng dịch vụ dữ liệu từ một hãng thứ ba
+thay thế cho phân hệ Thu thập tín tức. Vì vậy, IBM không cung cấp giải pháp
+phẩn mềm cài đặt, mà chỉ cung cắp các dịch vụ phân tích dữ liệu trực tuyến.
+
+Đối với phân hệ Phân tích, các giải pháp OSINT nêu trên đều ứng dụng
+các kỹ thuật xử lý dữ liệu khối lượng lớn (big dafa), ứng dụng các kỹ thuật Trí
+tuệ nhân tạo (AI: Artificial Intelligence) để khai phá dữ liệu (data mining)
+trong các lĩnh vực nghiên cứu như xử lý ngôn ngữ tự nhiên (natural language
+proeessing), thị giác máy tính (computer vision) tìm kiếm ngữ nghĩa (semantie
+search), kỹ thuật học máy (machine learning) hỗ trợ người phân tích nhanh
+chóng phát hiện những thông tin quan trọng hoặc mối liên hệ giữa các đối
+tượng, sự kiện được đề cập trong tin tức. Các bài toán cơ bản trong, phân hệ này
+như: Theo dõi và báo cáo các vân đề bức xúc trong xã hội; Đánh giá dư luận và
+dự báo xu hướng diễn của vấn đề; Dự báo và cảnh báo các điểm nóng có
+thể xây ra bắt ôn chính trị, xã hội; Theo dõi, phân tích các hoạt động của đối
+tượng phản động...
+
+Công doạn Báo cáo Kết quả sẽ ứng dụng các kỹ thuật mô hình hóa
+(modeling), trình diễn (visualization), tự động hóa (automation) để kết xuất các
+báo cáo kết quả nghiên cứu có sử dụng bảng biểu, biểu đồ, đồ họa, hình ảnh.
+Tùy theo nhiệm vụ nghiên cứu cụ thể, công đoạn Báo cáo Kết quả có thể sử
+dụng trí tuệ nhân tạo (AI: Artificial Intelligenee) để thực hiện tự động hoàn
+toàn hoặc phải có sự can thiệp chủ yếu từ cán bộ nghiên cứu.
+
+Như phân tích ở trên, các giải pháp công nghệ OSINT chuyên nghiệp
+thường tích hợp nhiều hệ thống con, ứng dụng nhiều kỹ thuật tiến tiến, phức tạp
+trong khoa học máy tính và trí tuệ nhân tạo. Trong đó, thành phân cốt lõi (core)
+của một giải pháp OSINT thông mình (smart) là phân hệ xử lý - phân tích tin
+tức, đồi hỏi phải ứng dụng kỹ thuật xử lý ngôn ngữ tự nhiên (NLP) nhằm giúp
+máy tính có thể hiểu được tin tức viết bằng ngôn ngữ tự nhiên của con người.
+Đây là bài toán khó và phức tạp trong lĩnh vực khoa học máy tính và trí tuệ nhân
+tạo nói chung, đặc biệt khó trong lĩnh vực xử lý ngôn ngữ tiếng Việt nói riêng do
+nhiều yếu tố như đặc điểm ngôn ngữ, trình độ kỹ thuật, mức độ quan tâm dầu tư
+của Nhà nước cũng như doanh nghiệp. Về cơ bản, thành phần core của một giải
+pháp OSINT thông mình gồm 2 lớp: lớp xử lý cơ sở; và lớp xử lý cấp cao theo
+nhụ cầu nghiệp vụ cụ thể của từng cơ quan, đơn vị. Trong đó, lớp xử lý cơ sở
+giải quyết các bài toán như: tách câu, tách từ, gán nhãn từ loại, bóc tách thực
+thể, phân tích cú pháp,... Lớp xử lý cấp cao sử dụng kết quả xử lý của lớp cơ sở
+và ứng dụng các kỹ thuật học máy (machine learning) để giải quyết các bài toán
+như: tóm tắt văn bản (đơn, đa văn bản), phân loại văn bản, phân cụm văn bản, so
+
+2sánh văn bản, sửa lỗi chính tả, xâu chuỗi sự kiện, phân tích mối liên hệ giữa các
+thực thể, phân tích mối liên hệ giữa thực thể với sự kiện và ngược lại, phân tích
+sắc thái tâm lý, dự báo xu hướng,... tùy theo nhu cầu nghiệp vụ của từng cơ
+quan, đơn vị
+Về lớp bài toán cơ sở, hiện nay lĩnh vực xử lý ngôn ngữ tiếng Việt đã
+nhận được, nhiều sự quan tâm của các nhà nghiên cứu. Tuy nhiên, các nghiên
+cứu chủ yếu đang tập trung vào những, vấn đề cơ bản của tiếng Việt như: xây
+dựng, kho ngữ liệu và công cụ tách từ tiếng Việt, xây dựng kho ngữ liệu và công
+cụ gán nhãn tiếng Việt,... Bắt đầu từ năm 2006, nhánh đề tài “Xử lí xăn bản” là
+một phần của đề tài KCOI. 01/06-10 “Nghiên cứu phát triển một số sản phẩm
+thiết yếu về xử lí tiếng nói và văn bản tiếng Việt” đã được triển khai. Cho đến
+nay, nhánh đề tài này đã thu được một số kết quả bao gồm kho ngữ liệu: từ điển,
+kho ngữ liệu tách từ, kho ngữ liệu gán nhãn, song. ngữ Anh - Việt; và các bộ
+công cụ phục vụ cho xử lý văn bản: công cụ tách từ, gán nhãn từ loại, phân tích
+cú pháp... Năm 2012., đề tài KC.01.20/11-15 “Nghiên cứu, xây dựng và phát
+triển số tài nguyên và công, cụ thiết yếu cho xử lí văn bản tiếng Việt” [6]
+được triển khai và tập trung xây dựng Wordnet tiếng Việt. Tuy nhiên, đến hiện
+nay các công bố về Wordnet tiếng Việt mới. chỉ ở mức thử nghiệm. Ngoài ra,
+còn có các nghiên cứu của các tác giả khác vẻ tách từ, gán nhãn từ loại, trích rút
+thông, tin, tóm tắt văn bản tiếng Việt đã được công, bố và thử nghiệm trên kho
+ngữ liệu do cá nhân xây dựng. Tuy nhiên, rất Ít các công cụ được công bố cho
+cộng đồng thử nghiệm, đánh giá.
+
+Về lớp bài toán cấp cao, hiện nay Ở Việt Nam đã có một số công trình,
+luận án thạc sỹ, tiến sỹ CNTT hướng đến giải quyết các bài toán này. Tuy nhiên,
+mỗi công trình nghiên cứu chỉ tập trung giải quyết một bài toán cụ thê, ví dụ như
+tóm tắt văn bản hoặc phân loại văn bản... Các công trình nghiên cứu này thường
+sử dụng các giải thuật xử lý và nền tảng công, nghệ khác nhau. Do đó, việc tích
+hợp kết quả nghiên cứu đã có để xây dựng một giải pháp OSINT toàn điện nhằm
+giải quyết tắt cả các bài toán cấp cao như nêu ở trên là không khả thi
+
+Hiện nay, ở Việt Nam chưa có công trình nghiên cứu nào, trên thị trường,
+cũng chưa có doanh nghiệp nào, đưa ra một giải pháp OSINT toàn diện như mô
+hình của nước ngoài.
+
+Trong bồi cảnh tình bình quốc tế, khu vực diễn biến hết sức nhanh chóng
+và phức tạp, các thể lực thù địch gia tăng hoạt động chống phá thông qua lợi
+dụng các phương tiện báo chí truyền thông, do đó việc khai thác hiệu quả các
+nguôn để thu t tin tức tình báo phục vụ nhiệm vụ tin tức của TBQPVN là yêu
+cầu hết sức cấp bách.
+
+Từ các phân tích nêu trên cho thấy, để xây dựng một hệ thống OSINT cho
+quân đội cần đầu tư nghiên cứu các kỹ thuật trong Cách mạng công nghiệp 4.0
+bao gồm hệ thống thu thập (Internet of Things), xử lý dữ liệu lớn (Bigdata), Trí
+tuệ nhân tạo (AI: Artificial Intelligenee). Với yêu cầu, đòi hỏi của nhiệm vụ
+trong thời kỳ bùng nổ thông tin, việc nghiên cứu, xây dựng hệ thống tự động thu
+thập, phân tích, tông hợp thông tỉn, hỗ trợ công tác theo đối, điều hành chỉ huy,
+ra quyết định trong lĩnh vực thông tỉn tình báo dựa trên nền tảng công nghệ của
+
+3cuộc cách mạng công nghiệp 4.0 là một công việc mang tính cắp thiết, góp phần
+hiện đại hóa phương pháp, nâng cao chất lượng phân tích thông tin tình báo
+trong tình hình mới.
+
+5. Các nội dung chính và kết quả dự kiến:
+
+5.1. Nội dung nghiên cứu chính
+
+- Nghiên cứu các phương pháp xây dựng công cụ thiết kế robot tự động,
+thu thập tin tức (crawler) từ các nguôn tin khác nhau như báo chí, mạng xã hội,
+quân báo, tọa độ vị trí... với đầy đủ các tính năng chuyên nghiệp.
+
+- Nghiên cứu các giải pháp thiết kế, xử lý dữ liệu lớn (Bigdata).
+
+~ Nghiên cứu cơ bản về lĩnh vực xử lý ngôn ngữ tự nhiên sử dụng trí tuệ
+nhân tạo giải quyết các bài toán phân tích thông tỉn văn bản: Phân loại, phân
+cụm văn bản, Tóm tắt văn bản, phân tích sắc thái tâm lý nhằm hỗ trợ đánh giá,
+dự báo xu hướng, phân tích các mồi liên hệ giữa các đôi tượng,...
+
+- Nghiên cứu các phương pháp xử lý, phân tích dữ liệu dưới dạng hình
+ảnh, video sử dụng trí tuệ nhân tạo.
+
+~ Nghiên cứu các phương pháp xử lý phân tích dữ liệu dưới dạng vị trí,
+tọa độ,... sử dụng trí tuệ nhân tạo.
+
+- Nghiên cứu các phương pháp xây dựng kho ngữ liệu tri thức tình báo
+(intelligenee knowledge base) phục vụ các bài toán sử dụng trí tuệ nhân tạo.
+
+~ Nghiên cứu, thiết kế xây dựng giải pháp ứng dụng các kỹ thuật xử lý dữ
+liệu lớn (Bigdata) và Trí tuệ nhân tạo phục vụ công tác theo dõi, điều hành chỉ
+huy, ra quyết định trong lĩnh vực thông tin tình báo.
+
+5.2. Kết quả dự kiến
+
+5.2.1. Bộ tài liệu chuyên đề
+
+a) Bộ tài liệu bao gồm:
+
++ Tài liệu nghiên cứu về về Internet of Things trong lĩnh vực thông tỉn
+tình báo. (các kỹ thuật xây dựng robot thu thập các tin tức trên intemet trên
+nhiều định dạng khác nhau).
+
++ Tài liệu nghiên cứu về Bigdata (các phương pháp thiết kế dữ liệu lớn,
+các kỹ thuật xử lý dữ liệu lớn)
+
++ Tài liệu nghiên cứu về Nghiên cứu cơ bản về Trí tuệ nhân tạo (Học
+máy: machine learning, deep-learning trong xử lý ngôn ngữ tự nhiên, xử lý hình
+ảnh, video,.....)
+
++ Tài liệu nghiên cứu về xây dựng kho ngữ liệu tri thức phục vụ cho các
+bài toán trí tuệ nhân tạo
+
+b) Chỉ tiêu kỹ thuật chủ yếu của sản phẩm:
+
+~ Các tài liệu có được lập theo mẫu quy định, có nội dung đầy đủ, được
+trình bày rõ rằng và khoa học.
+
+5.2.2. Hệ thống phần mềm thu thập-phân tích-tng lợp thông tin:
+
+a) Sản phẩm bao gôm:
+
+- Kho ngữ liệu trì thức văn bản, hình ảnh phục vụ cho các bài toán khai
+phá dữ liệu sử dụng trí tuệ nhân tạo.
+
+- Thiết kế, xây dựng và vận hành hệ cơ sở dữ liệu lưu trữ dựa trên nền
+tảng công nghệ Bigdata.- Phân hệ phần mềm phần mềm tự động thu thập thông tin dựa trên nền
+tảng công nghệ IoT (Internet of Thỉngs):
++ Thiết kế và xây dựng hệ thống Robot thu thập thông tin từ các nguồn
+khác nhau như: báo chí, mạng xã hội, quân báo, hình ảnh, video, vị trí tọa độ...
+dựa vào robot thu thập tìn tức, kết nối thiết bị camera, 8ps
++ Modules tự động điều khiển robot thu thập dựa trên trí tuệ nhân tạo
+(học thói quen đăng tin của nguồn tin).
+- Phân hệ phần mềm tự động phân tích, tổng hợp thông tin phục vụ công
+tác theo dõi, điều hành chỉ huy, ra quyết định trong lĩnh vực thông tỉn tình báo
+dựa trên nền tảng công nghệ Trí tuệ nhân tạo (Al):
++ Phân tích, tổng hợp thông tin văn bản dựa trên những kỹ thuật chuyên
+sâu về Xử lý ngôn ngữt tự nhiên ứng dụng AI. Cụ thể giải quyết các bài toái
+©- Xây dựng hệ thống dịch máy từ nhiều ngôn ngữ: ra tiếng Việt để ứng
+dụng trong các bài toán xử: Ụ ngôn ngữ tự nhiên tiếng Vì
+
+© Theo đõi và báo cáo các vấn đề bức xúc trong xã hội (tự động thu
+thập thông tin, kịp thời phát hiện các sự kiện quan trọng vừa xảy ra
+thông qua việc đánh giá số lượng 'rgười đọc và số lượng comment...
+thông qua các kỹ thuật phân cụm, xử lý ngôn ngữ tự nhiên)
+
+©_ Đánh giá dự luận và dự báo xu hướng diễn biến của vấn đề (dựa vào
+
+phân tích Sắc thái tâm lý của văn bản, của thực th : cá nhân người, tổ
+chức, quốc gia, công ty, thành phó,... ngữ nghĩa từ khóa và nội dung
+commet)
+
+©_ Dự báo và cảnh báo các điển nóng có thể xảy ra bắt ổn chính trị, xã
+
+hội. (dựa vào phân tích nội dung văn bản, nội đưng comment và thông
+qua việc ứng dụng otologies lọc và xếp hạng các mói quan hệ dựa
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+trên danh sách quan hệ với tài khoản cá nhân và số lượng comment
+giữa các cá nhân với nhau (comment càng nhiều thì quan hệ càng
+thân thiết) )
+
+©_ Dự báo các xu hướng trên mạng xã hội trực tuyến. Phương pháp này
+dựa vào ngữ nghĩa từ khóa và nội dung commet. Ví dụ: Có thê đánh
+giá giới trẻ quan tâm gì thông qua nội dung conument (ý định, ước
+
+nguyện) bằng việc phân tích thông tin cá nhân (lứa tuổi) và nội dung
+commet bằng phân tích ngôn ngữ mạng (hình ảnh, viết tắt, viết theo
+ngôn ngữ riêng, tiếng nước ngoài...)
+
++ Khai phá quan điểm của cộng đồng trên mạng xã hội: Tự động thu
+
+thập, đánh giá quan điểm của các group trong mạng xã hội.
+
++ Phân tích thông tìn hình ảnh dựa trên những kỹ thuật chuyên sâu về Thị
+giác máy tính (Compwter vision) ứng dụng AI. Giải quyất các bài toán về nhận
+dạng đổi tượng xuất hiện trong video, ảnh.
+
++ Phân tích, tổng hợp, dự báo thông tin dựa trên tích hợp từ nhiều nguồn
+thông tin văn bản, hình ảnh, quân báo, tọa độ vị trí,.. dựa trên nằn tảng công
+nghệ AIL
+
+- Phân hệ phần mềm kết xuất, tổng hợp các báo cáo.+ Chức năng Tổng hợp báo cáo: Từ các văn bản báo cáo của các cá
+nhân, hệ thống sẽ tự động tổng hợp thành một văn bản ý kiến chung (ngắn gọn,
+đu địi và không trùng ý).
+
++ Chức năng kết xuất báo cáo bằng văn bản, hình ảnh, biểu đà.
+
++ Chức năng báo cáo thông qua dữ liệu thống kê.
+
+3.2.3. Hạ tẰng phần cứng cài đặt kết quả nghiên cúu:
+
+~ Nghiên cứu, thiết kế hạ tầng máy chủ, mạng cho bài toán dữ liệu lớn
+(Bigdata).
+
+6. Khả năng và địa chỉ áp dụng:
+
+Các cơ quan phân tích thông tỉn tình báo quân đội như Cục 70, Trung tâm
+75, Trung tâm 78...
+
+7. Dự kiến hiệu quả mang l:
+
+Nội dung nghiên cứu của đề tài là tập trung vào các nền tảng công nghệ
+của Cách mạng công nghiệp 4.0, đây là một lĩnh vục nghiên cứu mới mẻ ở Việt
+Nam, có một vị trí vai trò vô cùng quan trọng trong việc nâng cao. hiệu quả thu
+phân tích, xử lý thông tn tình báo từ các nguồn tỉn. Do vậy kết quả của đề
+tài không những mang lại những hiệu quả tích cực đối với đội ngũ nghiên cứu,
+với các cơ sở ứng dụng kết quả mà còn có tác động tích cực cho sự phát triển
+của các lĩnh vực nghiên cứu khác.
+
+Sản phẩm tạo ra sẽ phục vụ trực tiếp cho việc xử lý thông tỉn tình báo
+trong các cơ quan tình báo quân đội. Việc ú ụng sản phẩm sẽ giúp cho cán
+bộ phân tích thông tin nhanh chóng nắm bắt vấn đề, xử lý phân tích thông tỉn,
+đánh giá tình hình một cách nhanh chóng, hiệu quả và tin cậy. Trên cơ sở đó tạo
+ra các loại báo cáo phục vụ kịp thời, hiệu quả và tham mưu đắc lực cho các cấp
+Lãnh đạo trong việc xử lý các vấn đề, đặc biệt đối với các vấn đề mang tính
+chiến lược của Quốc gia, quân đội.
+
+Đề tài vừa mang lại hiệu quả tích cực về mặt chuyên môn nhưng cũng góp
+phần nn thiểu L kinh phí đầu tư.
+
+Dự kiến thời gian thực hiện: 03 năm (36 tháng, bất đầu từ năm
+
+ 
+
+  
+
+ 
+   
+
+  
+
+l/2tsi)
+
+Hà Nội, ngày 26 tháng 11 năm 2018
+TỔ CHỨC ĐÈ XUẤT
+KT. VIỆN TRƯ ỨỞNG
+⁄ NÓ VIÊN TRƯỚNG,¿2_VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự đo - Hạnh phúc
+
+ 
+
+PHIẾU ĐÈ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ
+
+1. Tên nhiệm vụ KH&CN: Nghiên cứu ứng dụng công nghệ trí tuệ nhân
+tạo và tích hợp thông tín trong xây dựng hệ thống mô phỏng huấn luyện diễn tập
+cấp trung, sư đoàn.
+
+2. Hình thức thực hiện: Đề tài khoa học và công nghệ.
+
+3. Mục tiê
+
+Nghiên cứu ứng dụng công nghệ trí tuệ nhân tạo và tích hợp thông tỉn
+trong xây dựng hệ thống mô phỏng huấn luyện diễn tập cấp trung, sư đoàn có
+các mục tiêu sau:
+
+- Mô phỏng các vị trí chiến đấu trong khung tập bằng các công nghệ trí
+tuệ nhân tạo (dưới hình thức các engine) để có khả năng tương tác với nhau và
+với người tập theo quy trình công tác tham mưu. Theo đó, có thể tổ chức tập
+luyện với quy mô linh hoạt, từ một cá nhân, một khung tập của cơ quan binh
+chủng, ngành hoặc đầy đủ các thành phần ở bất kỳ thời gian nào. Người tập
+được thục luyện quy trình công tác tham mưu và kỹ năng xử trí các tỉnh huống
+chiến đấu trong một môi trường tương tác tự động.
+
+~ Trợ giúp cho người tập các công cụ tính toán thông mình, các phương
+tiện tương tác hiện đại để xây dựng các phương án tác chiến nhanh chóng, chính
+xác và hiệu quả trên nền tảng tích hợp đầy đủ các cơ sở dữ liệu GIS, nghệ thuật
+quân sự, biên chế tổ chức, tính năng vũ khí trang bị.....
+
+- Trợ giúp cho ban chỉ đạo, đạo diễn khả năng quan sát toàn bộ thông tỉn
+cuộc diễn tập nhờ sử dụng công cụ tích hợp tại SCH để theo dõi, chỉ huy, điều
+hành.
+
+4. Tính cấp thiết của nhiệm vụ KH&CN:
+
+Diễn tập là hình thức huấn luyện có tính tổng hợp cao nhất và quan trọng,
+nhất của các đơn vị trong Quân đội. Tham gia diễn tập là nhiệm vụ bắt buộc đối
+với toàn thể cán bộ, chiến sĩ nhằm nâng cao khả năng, sẵn sàng chiến đấu. Do
+đó, càng được tham gia diễn tập nhiều, cán b: ắn sĩ càng có cơ hội được trải
+nghiệm các tình huống sát với thực tế chiến đấu, rèn luyện được tác phong và
+khả năng tư duy ứng phó với các tình huống.
+
+Trong chương trình huấn luyện hiện nay, ở cấp trung, sư đoàn hàng năm
+chỉ có thể tổ chức được từ một đến hai cuộc diễn tập do công tác chuẩn bị mắt
+nhiều thời gian và chỉ phí cho các diều kiện đảm bảo hậu cần-kỹ thuật. Vì vậy,
+vấn đề nghiên cứu ứng dụng các giải pháp công nghệ tiên tiến để giúp cán bộchiến sĩ có nhiều cơ hội tiếp xúc với môi trường sát với thực tế chiến đấu có ý
+nghĩa rất quan trọng.
+
+Do vậy việc “Nghiên cứu ứng dụng công nghệ trí tuệ nhân tạo và tích hợp
+thông tin xây dựng hệ thống mô phỏng huấn luyện diễn tập cấp trung, sư đoàn”
+là một hướng đi đúng đắn, tận dụng được những thành tựu công nghệ của thế giới để
+nâng cao hiệu quả công tác huấn luyện bộ đội, tiết kiệm thời gian và chỉ phí tổ chức
+diễn tập.
+
+5. Các nội dung chính và kết quã dự kiến:
+
+Nội dung nghiên cứu:
+
+- Nghiên cứu các mô hình mô phỏng huấn luyện tác chiến đã và đang
+được triển khai trên thế giới, phân tích chỉ ra được các yếu tố căn bản của các
+mô hình và phạm vi triển khai đối với quy mô cấp trung, sư đoàn.
+
+- Khảo sát yêu cầu huấn luyện diễn tập ở cấp trung, sư đoàn trong tình
+hình mới trên cơ sở đó chỉ ra các điều kiện đảm bảo để xây dựng hệ thống mô
+phỏng huấn luyện diễn tập phù hợp.
+
+- Nghiên cứu xây dựng mô hình hệ thống mô phỏng huấn luyện diễn tập
+và đề xuất giải pháp kết hợp các yếu tố công nghệ được sử dụng trong mô hình.
+
+- Nghiên cứu ứng dụng các công nghệ trí tuệ nhân tạo (Hệ chuyên gia,
+mạng nơ-ron, logic mờ, giải thuật di truyền,....), truyền thông (giao thức, mã hóa
+thông tin,...), tích hợp thông tỉn (GIS 2D - 3D, biên chế tổ chức, tính năng,
+VKTBKT, nguyên tắc nghệ thuật quân sự,...) để mô phỏng hành động tính toán
+phương án bế trí, sử dụng lực lượng của các các khung tập.
+
+~ Nghiên cứu ứng dụng các công cụ và phương tiện tương tác hiện đại như
+nhận dạng tiếng nói, cảm ứng,.. để hỗ trợ người tập tác nghiệp xây dựng
+phương án nhanh chóng, chính xác.
+
+~ Nghiên cứu xây dựng SCH cấp trên được tích hợp thông tin đầy đủ, có
+khả năng theo dõi, chỉ huy, điều hành, bỗ sung tình huồng cho các khung tập.
+
+- Nghiên cứu đề xuất quy trình công tác tham mưu tác chiến phù hợp với
+mô hình hệ thống mô phỏng huấn luyện diễn tập ở cấp trung, sư đoàn.
+
+- Xây dựng hệ thống mô phỏng huấn luyện và triển khai ứng dụng tại cơ
+sở đào tạo và đơn vị chiến đầu.
+
+Kết quả dự kiến:
+
+ 
+
+ 
+
+~ Tài liệu chuyên đề. nghiên cứu, khảo sát, đánh giá các hệ thống mô
+phỏng huấn luyện trên thế giới.
+
+- Tài liệu đề xuất mô hình hệ thống mô phỏng huấn luyện cho cấp trung,
+sư đoàn.
+
++ Chuyên đề nghiên cứu đánh giá thực trạng các
+ứng dụng thành công hệ thống mô phòng huấn luyện ở cấp trung, sư đoàn.
+
+ều kiện đảm bảo để+ Chuyên đề nghiên cứu xây dựng quy trình công tác tham mưu trong tác
+chiến phù hợp với hệ thống mô phỏng huấn luyện diễn tập cấp trung, sư đoàn.
+
++ Chuyên đề nghiên cứu ứng dụng các công nghệ mô phỏng, trí tuệ nhân
+tạo, truyền thông kết nối, bảo mật thông tin, khai thác CSDL địa hình, biên chế
+tổ chức, vũ khí trang bị để hỗ trợ xây dựng các phương án, kế hoạch tác chiến
+cho các quân binh chủng, ngành.
+
++ Chuyên đề nghiên cứu ứng dụng công cụ, phương tiện hiện đại hỗ trợ
+cho người tập.
+
++ Chuyên đề nghiên cứu xây dựng và hướng dẫn các phương án triển khai
+ứng dụng mô hình mô phỏng huấn luyện diễn tập ở cấp trung, sư đoàn.
+
+Về CSDL:
+
++ CSDL địa hình chỉ tiết tỷ lệ <= larc.
+
++ CSDL, các lớp dữ liệu GIS đầy đủ thông tin theo yêu cầu tác chiến của
+các quân binh, chủng, ngành.
+
++ CS§DL biên chế tổ chức, tính năng trang bị vũ khí phương tiện của ta và
+địch.
+
++ C§DL số hóa nguyên tắc nghệ thuật quân sự và sử dụng lực lượng của
+các quân bình chủng trong các hình thức tác chiến điển hình (tiến công, phòng
+thủ) và trong các điều kiện môi trường địa lý (đô thị, rừng núi, biển đảo,...).
+
++ C§DL các kịch bản diễn tập.
+
++ CSDL văn kiện và dữ liệu quản lý điều hành diễn tập.
+
+ 
+
+ 
+
+ 
+
+ 
+     
+
++ Phần mềm hỗ trợ tổ chức điều hành diễn tập và quản lý các CSDLL.
+
++ Phần mềm mô phỏng, giả lập các vị trí diễn tập dưới dạng các engine tự
+động có ứng dụng trí tuệ nhân tạo, các thuật toán tối ưu để tính toán, phản ứng
+tùy theo diễn biến chung và tương tác với phương án của người tập, có thể được
+điều khiển thông qua các tham số theo các kịch bản khác nhau từ phần mềm
+SCH tích hợp thông tỉn chỉ huy, điều hành.
+
++ Phần mềm tác nghiệp trên bản đồ 2D và 3D được hỗ trợ tác nghiệp
+thông mình bằng giọng nói, tương tác trực tiếp qua cảm ứng, hỗ trợ tính toán
+thông minh trong bố trí lực lượng, có công cụ đánh giá phương án bố trí lực
+lượng, có khả năng tương tác với các engine mô phỏng các vị trí diễn tập khác
+và với trung tâm chỉ huy điều hành.
+
+chỉ huy, điều hành tại SCH có khả năng
+ến tác chiến của các lực lượng và ra
+
++ Phần mềm tích hợp thông tin
+
+quan sát theo dõi toàn bộ thông tin diễn biế
+
+các chỉ thị mệnh lệnh tới các engine mô phỏng và người tập.
+tê
+
++ Trang bị CNTT tạo dựng cơ sở hạ tằng truyền thông hữu tuyến và vô
+
+ 
+
+ 
+
+ 
+
+3tuyến có sử dụng các phương án bảo mật.
+
++ Trang bị CNTT phục vụ triển khai phần mềm, hỗ trợ tác nghiệp, trình
+chiếu, mô phỏng.
+
+6. Khả năng và địa chỉ áp dụng:
+
+- Triển khai áp dụng trong các Học viện, Nhà trường đào tạo cán bộ chỉ
+huy tham mưu cấp trung, sư đoàn để giúp cán bộ có điều kiện thục luyện các kỹ
+năng theo yêu cầu nhiệm vụ học tập của mình (Học viện Lục quân Đà LạU.
+
+- Triển khai ứng dụng tại các sư đoàn để giúp các chỉ huy đơn vị, các cơ
+quan tập luyện thành thục quy trì ình công tác tham mưu, rèn luyện tác phong, tư
+duy phản ứng với các tình huống trước khi thực hành diễn tập trên thực địa.
+
+7. Dự kiến hiệu quả mang
+
+- Người tập có thể tập luyện quy trình công tác tham mưu và kỹ năng, xử
+trí tình huống trong môi trường diễn tập sát thực tế chiến đấu mà không cần tổ
+chức các cuộc diễn tập tốn kém thời gian và chỉ phí.
+
+~ Có thể dễ dàng thay đổi các bài tập, bỗ sung các tỉnh huống chiến đấu,
+đánh giá hiệu quả các phương án xử lý của người tập.
+
+~ Có thể tổ chức tập luyện với quy mô linh hoạt, từ một cá nhân, một
+khung tập của cơ quan binh chủng, ngành hoặc đầy đủ các thành phần.
+
+8. Dự kiến thời gian thực hiện: 36 tháng bắt đầu từ 1/2020.
+
+ 
+
+ 
+
+ 
+
+Hà Nội, ngày 26 tháng l1 năm 2018
+TỔ CHỨC ĐÈ XUẤT
+KT, VIỆN TRƯỞNG
+TÊN TRƯỞNG ¿/£-
+Q
+
+   
+
+Yrừng tế Nđuyễn Đức Định'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+
+PHIẾU ĐÈ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ
+
+1. Tên nhiệm vụ KH&CN:
+
+Nghiên cứu, xây dựng hệ thống tính toán thông minh hỗ trợ lập kế hoạch
+và đánh giá phương án tác chiến cấp chiến dịch, chiến lược.
+
+2. Hình thức thực hiện:
+
+Đề tài khoa học và công nghệ.
+
+3. Mục tiêu:
+
+Nghiên cứu, thiết kế, xây dựng hệ thống tính toán thông minh hỗ trợ lập kế
+hoạch tác chiến và kiểm tra, đánh giá các phương án tác chiến trên cơ sở ứng
+dụng trí tuệ nhân tạo kết hợp tr thức nghệ thuật quân sự và thông tỉn tác cl
+nhằm đẩy mạnh hiện đại hóa, nâng cao hiệu quả công tác chỉ huy tham mưu sẵn
+sàng chiến đấu cũng như hoạt động huấn luyện, đào tạo chỉ huy tham mưu cấp
+chiến dịch, chiến lược.
+
+4. Tính cấp thiết của nhiệm vụ KH&CN:
+
+Hiện nay, việc ứng dụng công nghệ thông tỉn (CNTT) phục vụ công tác chỉ
+huy tham mưu trong hoạt động tác chiến của quân đội ta đã đem lại hiệu quả
+thiết thực, nâng cao trình độ sẵn sàng chiến đấu. Có khá nhiều sản phẩm CNTT
+chất lượng, đặc biệt là các phần mềm phục vụ chỉ huy tham mưu, do chúng ta tự
+sản xuất dựa trên các nền tảng công nghệ hiện đại đã hỗ trợ mạnh mẽ cho người
+chỉ huy và cơ quan tham mưu trong các giai đoạn của quá trình tác chiến: giai
+đoạn tổ chức chuẩn bị tác chiến và giai đoạn thực hành tác chiến. Từ đặc điểm
+về khả năng quản lý nội dung, tính toán nhanh, chính xác, các sản phẩm CNTT.
+giúp cho người chỉ huy và cơ quan rút ngắn được thời gian tác chiến, nâng cao
+hơn chất lượng nội dung công tác. Các nội dung hỗ trợ chủ yếu là tác nghiệp bản
+đồ, tính toán bảo đảm, biểu diễn, mô phỏng, tổ chức dữ liệu phục vụ cho người
+chỉ huy và cơ quan xây dựng quyết tâm, kế hoạch tác chiến.
+
+Quá trình ứng dụng CNTT phục vụ chỉ huy tham mưu dựa trên nguyên tắc:
+Người chỉ huy và cơ quan nắm vững nguyên tắc tác chiến của nghệ thuật quân
+sự (NTQ§) Việt Nam để đưa ra các yêu cầu, tra, đánh giá và sử dụng các
+sản phẩm CNTT để tác nghiệp, tính toán, biểu diễn, mô phỏng, đánh giá, kiểm
+tra các nội dung do người chỉ huy và cơ quan suy luận. Nói cách khác, các sản
+phẩm CNTT chủ yếu là công cụ tác nghiệp, tính toán, biểu diễn, mô phỏng dựa
+trên những yêu cầu trực tiếp của người chỉ huy và cơ quan. Người chỉ huy và cơ
+quan sẽ sử dụng các kết quả tác nghiệp, tính toán, biểu diễn, mô phỏng đó để lựachọn phương án, kế hoạch phù hợp. Như vậy, có thể thấy các sản phẩm CNTT,
+nhất là phần mềm, mới chỉ dừng lại là công cụ hỗ trợ tác nghiệp, tính toán, biểu
+diễn, mô phỏng, còn nội dung tri thức, cơ chế suy luận vẫn nằm trong tác nhân
+người chỉ huy và cơ quan. Tức là sản phẩm CNTT chưa đạt đến mức độ “thông
+minh” để phục vụ hiệu quả hơn hoạt động chỉ huy tham mưu và hỗ trợ tốt hơn
+cho người chỉ huy ra quyết định.
+
+Đối với công tác chỉ huy tham mưu các cấp chiến lược, chiến dịch, chiến
+thuật thì càng tác chiến ở cấp cao hơn thì mức độ tổng quát cảng cao và mức độ
+cụ thể càng ít hơn. Do đó, với cắp chiến dịch, chiến lược, để lập kế hoạch và
+đánh giá phương án tác chiến đòi hỏi sự vận dụng về kinh nghiệm và tri thức
+cảng nhiều hơn. Để các sản phẩm CNTT ở lên thông mình để hỗ trợ lập kế
+hoạch và kiểm tra, đánh giá phương án tác chiến cấp chiến dịch, chiến lược,
+tương tự như chuyên gia quân sự, đòi hỏi một số yếu tố sau:
+
+- Thứ nhất, khả năng mô hình hóa tri thức nghệ thuật quân sự thành các
+quan hệ có tính logic, dưới dạng các mệnh để quan hệ, dạng luật.
+
+- Thứ hai, cần phải có đầy đủ dữ liệu, thông tỉn tác chiến như tình hình
+địch, ta, địa hình, thời tiết, vũ khí trang bị.
+
+~ Thứ ba, sản phẩm CNTT cần phải có khả năng tính toán thông minh, cơ
+chế suy luận phỏng theo suy luận con người dựa trên cơ sở dữ liệu trỉ thức đã
+được mô hình hóa kết hợp với thông tin tác chiến số hóa, đặc biệt là khả năng,
+học máy, học sâu.
+
+- Thứ tư, sản phẩm CNTT phải dựa trên nền tảng công nghệ tiên tiến, phải
+có đủ các tính năng để trợ giúp nhiều khâu, nhiều giai đoạn trong hoạt động chỉ
+huy tham mưu, giảm bớt sự tham gia của con người. Phải xác định rõ nguyên tắc
+vai trò của người chỉ huy và cơ quan là không có sản phẩm CNTT nào có thể
+thay thế mà chỉ là hỗ trợ tốt hơn, thông minh hơn cho người chỉ huy và cơ quan
+để nâng cao hiệu quả, chất lượng, rút ngắn thời gian, công sức trong hoạt động,
+chỉ huy tham mưu.
+
+Cách mạng công nghiệp lần thứ tư (CMCN 4.0) gắn liền với những đột phá
+trong lĩnh vực kỹ thuật số, được đánh dấu bởi các công nghệ tiêu biểu như: Trí
+tuệ nhân tạo (AI - Artifñicial Intelligence); Internet vạn vật (ToT - Internet of
+Things); Điện toán đám mây (Cloud Computing); Công nghệ in 3D; Công nghệ
+cảm biến; Mô phỏng thực tại ảo (Virtual Reality); Dữ liệu lớn (Big Data); Robot
+tự động (Autonomous Robots)... Quân đội các nước có trình độ phát triển cao
+hiện đang tích cực ứng dụng các thành tựu của CMCN 4.0 vào hoạt động quân
+sự để nâng cao khả năng tác chiến. Trong bối cảnh như vậy, Đảng, Nhà nước và
+Quân đội ta đã chủ trương đón đầu, triển khai ứng dụng các thành tựu củaCMCN 4.0 để hiện đại hóa phương tiện và phương pháp chỉ huy tham mưu, góp
+phần nâng cao sức mạnh chiến đấu của quân đội.
+
+Trong các công nghệ tiêu biểu của CMCN 4.0 có trí tuệ nhân tạo, dữ liệu
+lớn, mô phỏng là các yếu tố nỗi bật giúp tạo ra các sản phẩm CNTT thông minh
+để hỗ trợ cho tự động hóa chỉ huy. Việc ứng, dụng trí tuệ nhân tạo kết hợp với trì
+thức nghệ thuật quân sự và thông tin tác chiến số hóa sẽ tác động hình thành lên
+các sản phẩm CNTT thông minh nhằm trợ giúp hiệu quả hơn cho hoạt động chỉ
+huy tham mưu, trong đó có sản phẩm phần mềm tính toán thông mỉnh lập kế
+hoạch và đánh giá phương án tác chiến cấp chiến dịch, chiến lược.
+
+Cơ sở tri thức về NTQS Việt Nam được cấu thành bởi Chiến lược quân sự,
+Nghệ thuật chiến dịch và Chiến thuật là nguồn tri thức vô cùng quý báu được
+đúc kết từ kinh nghiệm chiến tranh bảo vệ Tổ quốc của các thế hệ cha ông ta và
+của các chuyên gia quân sự Việt Nam. Trỉ thức NTQS Việt Nam cùng với thông,
+tin tác chiến cụ thể (tình hình địch, ta, địa hình, thời tiết, vũ khí trang bị... ) được
+mô hình hóa, số hóa kết hợp với trí tuệ nhân tạo, tính toán thông minh, hệ thống
+suy luận sẽ giúp nâng cao chất lượng, rút ngắn thời gian lập kế hoạch tác chiến.
+Đây là thời điểm thích hợp của sự hội tụ CMCN 4.0 với khối tài nguyên trí thức
+'NTQS và thông tin tác chiến.
+
+Ngày nay, trong bối cảnh chiến tranh hiện đại đòi hỏi người chỉ huy và cơ
+quan phải đưa ra được các phương án, lựa chọn phương án tối ưu và hoàn thiện
+kế hoạch tác chiến một cách nhanh chóng và chính xác nhất. Các cuộc chiến
+trong chiến tranh hiện đại diễn ra với tốc độ cao, diễn biến tình hình thường thay
+đổi rất nhanh, đòi hỏi phải có sự đánh giá, nhận định và đưa ra phương án ngay
+khi có tình huống xảy ra trong khi việc đưa ra phương án cần phải xử lý khối
+lượng thông tin tác chiến lớn kết hợp kinh nghiệm tác chiến, tri thức NTQ§. Do
+đó, việc đòi hỏi hệ thống tính toán thông minh lập kế hoạch và đánh giá phương
+án tác chiến, đặc biệt tác chiến cấp chiến dịch, chiến lược, là một nhu cầu cấp
+thiết.
+
+Từ những vấn đề nêu trên, nhiệm vụ KHCN “Nghiên cứu, xây dựng hệ
+thống tính toán thông minh lập kế hoạch và đánh giá phương án tác chiến cấp
+chiến dịch, chiến lược” có tính thực tiễn cao và ý nghĩa lớn, đáp ứng yêu cầu
+ngày càng cao của nhiệm vụ bảo vệ Tổ quốc trong thời kỳ mới.
+
+5. Các nội dung chính và kết quá dự kiến:
+
+$.1. Các nội dung nghiên cứu chính
+
+~ Nghiên cứu, phân tích và mô hình hóa kế hoạch tác chiến, trì thức nghệ
+thuật quân sự và thông tỉn tác chiến cấp chiến dịch, chiến lược.- Nghiên cứu, thiết kế, chuẩn hóa cơ sở dữ liệu trỉ thức nghệ thuật quân sự
+đạng luật và thông tỉn tác chiến (tình hình địch, ta, địa hình, thời tiết, vũ khí
+trang bị).
+
+- Nghiên cứu, xây dựng giải pháp ứng dụng trí tuệ nhân tạo kết hợp trí thức
+nghệ thuật quân sự và thông tỉn tác chiến trong lập kế hoạch, tính toán các
+phương án và kiểm tra, đánh giá phương án tác chiến.
+
+~ Thiết kế, xây dựng hệ phần mềm tính toán thông minh hỗ trợ lập kế hoạch
+và đánh giá phương án tác chiến cấp chiến dịch, chiến lược:
+
++ Thiết kế hệ phần mềm tính toán thông minh;
+
++ Xây dựng hệ phần mềm tính toán thông minh gồm: Mô hình hóa và lập
+oạch tác chiến; Hỗ trợ tính toán các phương án tác chiến (tính toán chiến
+đấu, tính toán bảo đảm); Thể hiện phương án tác chiến; Kiểm tra (so với các quy
+tắc nghệ thuật quân sự), đánh giá phương án tác chiến (so với phương án mẫu,
+cho điểm); Hỗ trợ lựa chọn phương án tác chiến; Cung cấp tri thức nghệ thuật
+quân sự và thông tỉn tác chiến.
+
+~ Triển khai thử nghiệm, hoàn thiện, chuyển giao sản phẩm.
+
+3.2. Kết quả dự kiến
+
+a) Hệ phân mềm tính toán thông mình hỗ trợ lập kế hoạch và đánh giá
+phương án tác chiến cấp chiến dịch, chiến lược:
+
+~ Các phân hệ chính của hệ phần mềm gồm:
+
++ Phân hệ mô hình hóa và lập kế hoạch tác chiến;
+
++ Phân hệ hỗ trợ tính toán các phương án tác chiến (tính toán chiến đấu,
+
+ 
+
+   
+
+ 
+
+tính toán bảo đảm);
+
++ Phân hệ thể hiện phương án tác chiến;
+
++ Phân hệ hỗ trợ kiểm tra (so với các quy tắc nghệ thuật quân sự), đánh giá
+phương án tác chiến (so với phương án mẫu, cho điểm);
+
++ Phân hệ hỗ trợ lựa chọn phương án tác chiến;
+
++ Phân hệ cung cấp tri thức nghệ thuật quân sự và thông tỉn tác chiến.
+
+~ Các tính năng chủ yếu:
+
++ Đáp ứng các yêu cầu về công tác chỉ huy tham mưu tác chiến cấp chiến
+dịch, chiến lược;
+
++ Đáp ứng xây dựng kế hoạch, thời gian ra phương án nhanh, tính toán
+
+ 
+
+chính xác;
+
++ Cung cấp được thông tin đầy đủ, phù hợp cho người chỉ huy và cơ quan
+tham mưu khi lập kế hoạch và lựa chọn phương án;
+
++ Phần mềm phải được bảo mật, phân quyền chặt chẽ;
+
++ Phần mềm được xây dựng trên nền tảng .Net Framework, ArcEngine, mô
+hình client/server, có thể chạy trên môi trường mạng;+ Phần mềm có tốc độ thực thì nhanh, giao diện hoàn toàn tiếng. Việt, dễ sử
+dụng, đồ họa đẹp, phù hợp với đơn vị sử dụng;
+
++ Phần mềm có tính mở.
+
+b) Cơ sở dữ liệu về trì thức nghệ thuật quân sự và thông tin tác chiến phục
+vụ tính toán, lập kế hoạch và đánh giá phương án:
+
+- Cơ sở dữ liệu gồm:
+
++ Dữ liệu về trì thức nghệ thuật quân sự dạng luật,
+
++ Dữ liệu về thông tin tác chiến gồm tình hình địch, ta, địa hình, thời tiết,
+vũ khí trang bị trong phạm vi chiến trường được xác định.
+
+~ Tính năng chủ yếu:
+
++ Cung cấp được các thông tỉn về tri thức nghệ thuật quân sự và thông tin
+tác chiến phục vụ lập kế hoạch và tính toán phương án;
+
++ Dữ liệu được chuẩn hóa, lưu trữ trong hệ quản trị cơ sở dữ liệu SQL
+Server, chuẩn Unicode, và được bảo mật;
+
++ Cơ sở dữ liệu có tính mở.
+
+- Phù hợp với khả năng biên chế của ta và địch.
+
+©) Bộ tài liệu khoa học:
+
+- Bộ tài liệu gồm:
+
++ Các tài liệu chuyên đề;
+
++ Các tài liệu kỹ thuật;
+
++ Các bài báo, báo cáo đăng trên tạp chí và hội thảo khoa học;
+
++ Báo cáo tổng hợp kết quả.
+
+~ Tính năng chủ yếu:
+
++ Đầy đủ nội dung khoa học;
+
++ Được trình bày khoa học, rõ ràng, phù hợp với quy định.
+
+6. Khả năng và địa chỉ áp dụng:
+
+~ Địa chỉ áp dụng:
+
++ Cục Tác chiến/
+
++ Học viện Quốc phòng.
+
+~ Phạm vi áp dụng: Sản phẩm sẽ được sử dụng phục vụ công tác chỉ huy
+tham mưu cấp chiến dịch, chiến lược tại Cục Tác chiến cũng như hoạt động,
+huấn luyện đào tạo chỉ huy tham mưu cấp chiến dịch, chiến lược tại Học viện
+Quốc phòng.
+
+7. Dự kiến hiệu quả mang lại:
+
+- Xây dựng giải pháp ứng dụng trí tuệ nhân tạo kết hợp trỉ thức nghệ thuật
+quân sự và số hóa thông tỉn tác chiến để tạo ra sản phẩm thông mỉnh hỗ trợ hiệu
+quả hơn hoạt động chỉ huy tham mưu, nâng cao chất lượng kế hoạch, rút ngắn
+thời gian tác chiến, hướng tới tự động hóa phương tiện và phương pháp công tác
+
+ 
+
+  
+
+ống Tham mưu;
+
+ 
+
+Rchỉ huy tham mưu tác chiến, đáp ứng yêu cầu nhiệm vụ sẵn sàng chiến đấu trong
+bối cảnh chiến tranh hiện đại ngày nay đang bị tác động bởi CMCN 4.0.
+
+~ Chuyển dịch mô hình ứng dụng CNTT trong các hoạt động chỉ huy tham
+mưu tác chiến hiện nay sang mô hình ứng dụng CNTT thông minh hơn, hiệu quả
+hơn: Từ vai trò CNTT là công cụ, phương tiện hỗ trợ cho người chỉ huy và cơ
+quan sang mô hình trọng tâm là sự kết hợp giữa hệ thống tính toán thông minh
+có khả năng suy luận với cơ sở dữ liệu tri thức nghệ thuật quân sự và thông tin
+tác chiến được mô hình hóa, được số hóa. Đó là sự hội tụ, kết hợp giữa trí tuệ
+nhân tạo với kho tàng tri thức nghệ thuật quân sự trong công tác chỉ huy tham
+mưu, nhất là cấp chiến dịch, chiến lược.
+
+~ Nâng cao nhận thức, thúc đấy phát triển công nghệ và ứng dụng thành tựu
+CMCN 4.0 vào tổ chức tác chiến, góp phần nâng cao trình độ tác chiến của
+người chỉ huy và sĩ quan tham mưu.
+
+8. Dự kiến thời gian thực hiện:
+
+30 tháng, từ tháng 7/2020 đến 12/2022.
+
+Hà Nội, ngày 26 tháng 11 năm 2018
+TÔ CHỨC ĐÈ XUẤT
+KT, VIÊN TRƯỞNG
+
+N TRƯỞNG j£—

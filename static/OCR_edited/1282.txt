@@ -1,0 +1,331 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Số: 2 VCNTT-QTCSDL Hà Nội, ngày “| tháng 6 năm 2018
+
+V/v xin ý kiến về kịch bản nghiệm thu
+đề tài
+
+Kính gửi: Viện 70/ Tổng cục II;
+
+Căn cứ công văn số 1184/V70-P12 ngày 26/09/2016 của Viện 70/TCII gửi
+Viện Khoa học và Công nghệ quân sự về việc đề nghị nghiên cứu phát triển phần
+mềm hỗ trợ công tác chuyên môn nghiệp vụ;
+
+Căn cứ Quyết định số 1404/QĐ-VKHCNQS ngày 04/10/2016 của Giám đốc
+'Viện KH-CN quân sự về việc giao nhiệm vụ thực hiện đề tài nghiên cứu khoa học
+và phát triển công nghệ cấp Viện KHCNQS năm 2017 cho Viện CNTT;
+
+Căn cứ theo thuyết minh đề tài: “Nghiên cứu, thiết kế, xây dựng hệ thống,
+phần mềm tự động thu thập, phân tích, tổng hợp thông tin công khai, hỗ trợ công.
+tác theo dõi, điều hành chỉ huy, ra quyết định trong lĩnh vực thông tin tình báo” đã
+được phê duyệt;
+
+Căn cứ nội dung buổi Hội thảo báo cáo kết quả thực hiện đề tài tại Viện
+70/Tổng cục II ngày 30/5/2018,
+
+Để thực hiện các bước tiếp theo của đẻ tài, Viện Công nghệ thông tin đã xây
+dựng kịch bản nghiệm thu hệ thống phần mềm tự động thu thập, phân tích, tổng
+hợp thông tin công khai (có phụ lục kèm theo).
+
+Kính đề nghị Viện 70 xem xét cho ý kiến về kịch bản nghiệm thu hệ thống,
+phần mềm tự động thu thập, phân tích, tổng hợp thông tin công khai do Viện
+CNTT nghiên cứu và triển khai. 2;
+
+Nơi nhận:
+
+~ Như trên;
+
+- Ban Kế hoạch;
+
+~ Lưu: VT, QTCSDL; H04.
+
+  
+
+Tế tá Đỗ Việt BìnhPhụ lục
+(Kèm theo công văn số: 2#>- /VCNTT-QTCSDL ngày⁄tháng 6 năm 2018 của Viện
+Công nghệ thông tin).
+
+KỊCH BẢN NGHIỆM THU.
+
+Kết quả đề tài “Nghiên cứu, thiết kế, xây dựng hệ thống phần mềm tự động
+thu thập, phân tích, tổng hợp thông tin công khai, hỗ trợ công tác theo dõi, điều
+hành chỉ huy, ra quyết định trong lĩnh vực thông tin tình báo”.
+
+Nghiệm thu theo từng nội dung và đảm bảo các yêu cầu sau:
+
+1. Nghiệm thu cơ sở dữ liệu và tài liệu
+
+ 
+
+TT | Tên cơ sở dữ liệu, tài 'Yêu cầu đáp ứng
+liệu
+
+Kho ngữ liệu tiếng | Số lượng: Khoảng 10.000 tài liệu được phân loại
+
+Việt Tiêu chuẩn:
+
+- _ Cấu trúc theo chuẩn XML
+
+- __. Chuẩn hóa theo font Unicode
+
+- — Chuẩn hóa chính tả
+
+-_ Chú giải về từ vựng (tách từ)
+
+- _ Chú giải về từ loại (gán nhãn)
+
+- Chú giải về thực thể có tên (gán nhãn)
+
+-. Chú giải về câu (tách câu)
+
+- —_ Chú giải về đoạn (tách paragraph)
+
+Số lượng: Khoảng 10.000 tài liệu được phân loại
+
+Tiêu chuẩn:
+
+-_ Cấu trúc từng file theo chuân XML
+~_ Chuẩn hóa theo font Unicode
+
+ 
+
+ 
+
+ 
+
+Kho ngữ liệu tiếng `
+Anh - _ Chú giải về từ loại (gán nhãn)
+-_ Chú giải về thực thể có tên (gán nhãn).
+-_ Chú giải về câu (tách câu)
+
+Chú giải về đoạn (tách paragraph),
+
+Số lượng: Khoảng 40.000 từ vựng
+Tiêu chuẩn:
+
+ 
+
+3. | Từ điển tiếng Việt ~ Được xây dựng theo câu trúc:
+
+« Từ
+
+ 
+
+ 
+
+ 
+
+ 
+
+« Từ loại
+TT | Tên cơ sở dữ liệu, tài "
+liệu
+
+ 
+
+Kho ngữ liệu tiếng | Số lượng: Khoảr
+Việt Tiêu chuẩn:
+- Cấu trúc t
+- — Chuẩnhớ
+- — Chuẩnhố
+- — Chú giải v
+- — Chú giải\
+- — Chúgiải\
+- — Chúgiải\
+Chú giải
+
+ 
+
+Số lượng: Khoải
+Tiêu chuẩn:
+
+-_ Cấu trúc từni
+Kho ngữ liệu tiếng Chiếu NộNH
+Anh -_ Chú giải vềt
+- Chú giải về
+-_ Chú giải về
+
+Chú giải về ‹
+
+ 
+
+ 
+
+Số lượng: Khoả
+Tiêu chuẩn:
+
+3. |Từđiểntiếng Việc  |~ ĐưƠcxâydi
+« Từ
+
+ 
+
+ 
+
+« Từ loại Tên cơ sở dữ liệu, tài
+liệu Kho ngữ liệu tiếng
+Việt Kho ngữ liệu tiếng,
+Anh 
+Từ điển tiếng Việt ứng
+
+liệu được phân loại
+4L
+
+licode
+
+ch từ)
+nhãn)
+
+tên (gán nhãn)
+âu)
+
+paragraph)
+liệu được phân loại
+
+ẫn XML
+ode
+
+tấn)
+
+n (gán nhãn).
+'
+
+ragraph)
+
+vựng
+
+TÚC: Tên phần mềm
+
+Yêu cầu đáp ứng
+
+NA
+
+th
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phân hệ phần mềm tự
+
+- Cập nhật, hiệu chỉnh các nguồn tin vào hệ thông
+
+ 
+
+3
+'Tên cơ sở dữ liệu, tài Danh mục nguồn tin
+tiếng Việt, tiếng Anh Từ điển tiếng Anh L Nghiệm thu phần màn 
+Tài liệu tập huấn,
+hướng dẫn sử dụng cho
+đơn vị Tài liệu thiết kế hệ
+thống, Thiết kế CSDL. Định nghĩa
+
+Ví dụ sử dụng.
+
+Từ đồng nghĩa
+
+Từ đối nghĩa
+
+Có khả năng mở rộng từ mới 'Yêu câu đáp ứng 
+' dựa trên chức năng của phần mềm Chỉ tiết, đầy đủ Chỉ tiết, đây đủ: .
+
+- Tài liệu có hình minh họa và phải được trình bày
+rõ ràng, theo từng bước đúng quy trình cài đặt và
+khai thác sử dụng phần mi Đây đủ, chỉ tiết:
+
+~ Mô tả các hệ thống thông tin cả về cấu trúc cũng,
+
+như hoạt động thông qua ngôn ngữ mô hình hóa
+g nhất (tiếng Anh: Unified Modeling
+
+Language, viết tắt thành UML).
+
+~ Trình bày dưới dạng Biểu đồ Use case (Use
+
+Case Diagram) và dưới dạng Biểu đồ lớp (Class
+
+Diagram).
+
+- Phân tích, thiết kế CSDL mức logic, mức vật lý. 
+Khối lượng: Danh mục 200 trang tỉn tiếng Việt
+và 50 trang tin tiếng Anh Số lượng: Khoảng 187.000 từ vựng.
+Tiêu chuẩn:
+
+Được xây dựng theo cầu trúc:
+Từ
+
+Từ loại
+
+Thống kê
+
+Có khả năng mở rộng từ mới 82%
+động thu thập "Tên phân mềm Phân hệ báo cáo. Phân hệ phần mềm
+phân tích thông tin 
+'Yêu câu đáp ứng đề tự động theo dõi và download tin tức.
+
+- Tự động Tum hiện những, tin tức mới cập nhật
+từ các nguôn tin cụ thể do người dùng chỉ định
+cần theo dõi. „
+
+- Tự động download, trích xuất nội dung tin lưu
+vào C§DL: tiêu để, nội dung, tác giả, ngày đăng.
+tin, bình luận của độc giả,...
+
+- Thu thập tin tức dưới nhiều định dạng: text,
+hình ảnh, âm thanh, video.
+
+~ Có cơ chế thu thập tin tức tự động 24/7, hoặc có
+thể do người dùng đặt lịch tùy biến.
+
+- Có cơ chế cảnh báo cho người dùng những,
+nguồn tin bị lỗi không download được tin để kịp
+thời hiệu chỉnh cấu hình.
+
+- Có khả năng mở rộng hệ thống khi số lượng,
+nguồn tin cần theo dõi tăng. ~ Module báo cáo định kỳ: Có chức năng hỗ trợ
+sản xuất các báo cáo tin tức định kỳ theo ngày,
+tuần, tháng. ~ Tự động phân loại tin tức theo các chủ đề do.
+người sử dụng xác định. Ví dụ các chủ đề cần
+theo dõi như: Biển Đông, TPP, Trung Quốc,
+Mỹ,... Mỗi chủ đề được xác định bằng một tập từ
+khóa liên quan.
+
+- Tự động tổng hợp (tóm tắt) và xắp xếp tin tức
+liên quan đến trong các chủ đề theo các tiêu chí:
+Mức độ liên quan đến chủ để, ngày đăng tin,
+alphabet tiêu đề bài viết, tác giả... để qua đó
+người phân tích phát hiện được những thông tin
+quan trọng cẦn quan tâm.
+
+- Hỗ trợ trích xuất các thông tin thực thể của các
+sự kiện trong tin tức: tên người, tên tổ chức, tên
+địa điểm, ngày tháng, số lượng,...để người dùng
+có thể nhận ra mối liên hệ giữa các thực thể trong,
+sự kiện, hiện tượng đã, đang diễn ra.
+
+- Tự động phân cụm theo chủ đề trong một
+khoảng thời gian nhất định nhằm phát hiện chủ
+đề nóng, được dư luận quan tâm.
+
+~ Cung cấp công cụ tìm kiếm (full-textsearch) để
+hỗ trợ cho người dùng tìm các thông tin được thu
+thập.
+
+- Đáp ứng nhu cầu xử lý tin tức số lượng lớn, thời
+gian xử lý thông tin < 1 phút. 
+Cổng thông tin OSINT Tên phân mềm Có chức năng cung cập kêt quả nghiên cứu xử lý
+do bộ phận nghiên cứu tin công khai thực hiện
+nhằm phục vụ các bộ phận nghiên cứu chuyên
+sâu soạn thảo các loại báo cáo tình báo và làm
+công tác nghiên cứu chiến lược; đồng thời nhận
+phản hồi và yêu cầu điều tra thu thập, xử lý tin
+tức từ các các bộ phận nghiên cứu chuyên sâu. ~ Module báo cáo đột xuất: Có chức năng hỗ trợ
+làm các báo cáo tình báo từ nguồn công khai theo
+các nhiệm vụ nghiên cứu đột xuất. Sản phẩm báo
+cáo có thể được thể hiện dưới dạng văn bản, hình
+ảnh, video, biểu đỗ, sơ đồ, bảng số liêu. 
+'Yêu câu đáp ứng 
