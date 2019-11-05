@@ -41,7 +41,7 @@ class detectTable(object):
         if choose == 1:
             # cv2.imwrite("mask.jpg", mask_img)
             return mask_img
-        boxes = []
+        # boxes = []
         h_dilate_img_autofill = self.autofillimg_horizon(h_dilate_img, v_dilate_img)
         v_dilate_img_autofill = self.autofillimg_vertical(h_dilate_img, v_dilate_img)
         h_dilate_img_autofill = self.remove_single_horizon(h_dilate_img_autofill, v_dilate_img_autofill)
