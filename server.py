@@ -1,17 +1,24 @@
 import flask
-from flask import Flask, flash, request, redirect, render_template, url_for
+from flask import Flask, flash, request, redirect, render_template, url_for, send_file, abort, send_from_directory
 import urllib.request
 from werkzeug.utils import secure_filename
 import os
 from utils.supportFunc import preprocessFile
 import requests
 from pathlib import Path
+from utils.detai import ocrFile
 
 app = flask.Flask(__name__)
 
 staticPath = '/home/trandat/project/OCR_WEB/static'
 projectPath = '/home/trandat/project/OCR_WEB'
+app.secret_key = "tranmanhdat"
 app.config["DEBUG"] = True
+app.config['UPLOAD_FOLDER'] = '/home/trandat/project/OCR_WEB/static/ontest'
+app.config['MAX_CONTENT_LENGTH'] = 50 * 1024 * 1024
+ALLOWED_EXTENSIONS = set(['PDF', 'pdf', 'png', 'jpg', 'jpeg', 'PNG', 'JPG' , 'JPEG'])
+def allowed_file(filename):
+	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 currentFile = ''
 
@@ -41,7 +48,7 @@ def saveFile():
 	with open(os.path.join(projectPath,"historyEdit.txt"),"a+") as fin:
 		fin.write(persionName+"\t"+currentFile+"\n")
 	return redirect(url_for('home'))
-@app.route	('/editFile/<filename>', methods = ['POST', 'GET'])
+@app.route('/editFile/<filename>', methods = ['POST', 'GET'])
 def editFile(filename):
 	global currentFile
 	currentFile =filename
@@ -53,6 +60,34 @@ def editFile(filename):
 		text_edit = f.read()
 	print(os.path.join(staticPath,'OCR_edited', fileName))
 	return render_template('index.html', file_name=filename, text_ocr=text_ocr, text_edit=text_edit)
+@app.route('/uploadFile')
+def uploadFile():
+	return render_template('upload.html')
+@app.route('/', methods=['POST'])
+def upload_file():
+	if request.method == 'POST':
+        # check if the post request has the file part
+		if 'file' not in request.files:
+			flash('No file part')
+			return redirect('uploadFile')
+		file = request.files['file']
+		if file.filename == '':
+			flash('No file selected for uploading')
+			return redirect(request.url)
+		if file and allowed_file(file.filename):
+			filename = secure_filename(file.filename)
+			filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+			file.save(filepath)
+			flash('File successfully uploaded')
+			name = os.path.splitext(filepath)[0]
+			if os.path.exists(name+'.docx'):
+				os.remove(name+'.docx')
+			ocrFile(filepath,True,True, True, True, False)
+			print(os.path.splitext(filename)[0]+'docx')
+			return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=os.path.splitext(filename)[0]+'.docx',as_attachment=True)
+		else:
+			flash('Allowed file types are PDF, pdf, png, jpg, jpeg, PNG, JPG, JPEG')
+			return redirect('uploadFile')
 if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
 	app.run()

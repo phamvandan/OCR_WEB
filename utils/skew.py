@@ -5,6 +5,7 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image as im
+import imutils
 from scipy.ndimage import interpolation as inter
 import re
 import pytesseract
@@ -23,18 +24,8 @@ def skewImage1(image):
 	gray = cv2.bitwise_not(gray)
 	thresh = cv2.threshold(gray, 0, 255,
 	cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
-	# kernel = np.ones((5,5), np.uint8)
-	# thresh = cv2.dilate(thresh, kernel, iterations=5)
-	# printImage(thresh)
-	# are greater than zero, then use these coordinates to
-	# compute a rotated bounding box that contains all
-	# coordinates
 	coords = np.column_stack(np.where(thresh > 0))
 	angle = cv2.minAreaRect(coords)[-1]
-	# the `cv2.minAreaRect` function returns values in the
-	# range [-90, 0); as the rectangle rotates clockwise the
-	# returned angle trends to 0 -- in this special case we
-	# need to add 90 degrees to the angle
 	if angle < -45:
 		angle = -(90 + angle)
 	
@@ -93,9 +84,13 @@ def skewImage2(image):
 	return rotated
 
 def skewImage3(image):
-	newdata=pytesseract.image_to_osd(image)
-	angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
-	angle = int(angle)
+	try:
+		newdata=pytesseract.image_to_osd(image)
+		# newdata=pytesseract.image_to_string(image)
+		angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
+		angle = int(angle)
+	except:
+		angle=0
 	if angle==0:
 		return image,angle
 	return rotationImage(image,angle),angle

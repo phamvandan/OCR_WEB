@@ -41,6 +41,7 @@ def handleFile(fileName,deblur=False,handleTableBasic=True,handleTableAdvance=Fa
             img[y:(y + h - 1), x:(x + w - 1)] = 255
         # out, result = handleTable.process_par(img, origin, listBigBox) ## use for layout
     # skew.printImage(img)
+    # resultNotTable = pytesseract.image_to_string(img,lang="vie")
     resultNotTable = pytesseract.image_to_string(img,lang="vie")
     return resultNotTable,resultTable
 
@@ -60,6 +61,7 @@ def getFileName(fileType,folder):
         for filename in os.listdir(folder):
             if "pdf" in filename:
                 filename = os.path.join(folder,filename)
+                print(filename)
                 count = pdfToImage(filename,folder) ## convert to image
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
@@ -82,7 +84,7 @@ def preprocessFile(fileType,folder,saveFileName):
         for filename in names:
             filename = os.path.join(folder,filename)
             if ".jpg" in filename:
-                resultNotTable,resultTable = handleFile(filename,deblur=False,handleTableBasic=False,handleTableAdvance=False)
+                resultNotTable,resultTable = handleFile(filename,deblur=False,handleTableBasic=False,handleTableAdvance=True)
                 result= result + (str(resultNotTable))
                 k = 0
                 for rs in resultTable:
@@ -103,9 +105,14 @@ def preprocessFile(fileType,folder,saveFileName):
     return result
 def processPdfFile(folder_in, folder_out, folder_out_1):
     fileType = "pdf"
+    iD= 1
     for r, d, f in os.walk(folder_in):
         for file in f:
             if file.__contains__(fileType):
+                if(os.path.exists(os.path.join(folder_in,"state"+Path(file).stem+".txt"))):
+                    continue
+                print(str(iD)+"--"+file)
+                iD = iD +1
                 names = []
                 count = 0
                 result = ""
@@ -116,17 +123,40 @@ def processPdfFile(folder_in, folder_out, folder_out_1):
                 for filename in names:
                     filename = os.path.join(folder_in, filename)
                     if ".jpg" in filename:
-                        resultNotTable,resultTable = handleFile(filename,deblur=False,handleTableBasic=False,handleTableAdvance=False)
+                        
                         result= result + (str(resultNotTable))
-                        k = 0
-                        for rs in resultTable:
-                            if k %4 == 0:
-                                result = result + "\n"
-                            result= result + (str(rs))+" "
-                            k = k+ 1
+                        
                     if fileType == "pdf":
                         os.remove(filename)
                 if result != "":
                     saveResult(folder_out, Path(file).stem+".txt",result)
                     saveResult(folder_out_1, Path(file).stem+".txt",result)
                     saveResult(folder_in, "state"+Path(file).stem+".txt", "None")
+
+def tesseractPdf(folder_in, folder_out):
+    fileType = "pdf"
+    iD= 1
+    for r, d, f in os.walk(folder_in):
+        for file in f:
+            if file.__contains__(fileType):
+                if(os.path.exists(os.path.join(folder_out,Path(file).stem+".txt"))):
+                    continue
+                print(str(iD)+"--"+file)
+                iD = iD +1
+                names = []
+                count = 0
+                result = ""
+                filename = os.path.join(r, file)
+                count = pdfToImage(filename, folder_in) ## convert to image
+                for k in range(1,count+1):
+                    names.append(str(k)+".jpg")
+                for filename in names:
+                    filename = os.path.join(folder_in, filename)
+                    if ".jpg" in filename:
+                        img = cv2.imread(filename)
+                        rs = pytesseract.image_to_string(img,lang="vie")
+                        result= result + rs
+                    if fileType == "pdf":
+                        os.remove(filename)
+                if result != "":
+                    saveResult(folder_out, Path(file).stem+".txt",result)

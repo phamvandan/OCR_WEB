@@ -1,7 +1,7 @@
 import functools
 import os
 import cv2
-import imutils
+# import imutils
 import numpy as np
 
 class detectTable(object):
@@ -49,7 +49,7 @@ class detectTable(object):
         ## mask auto fill
         mask_img_autofill = h_dilate_img_autofill + v_dilate_img_autofill
         if choose == 2:
-            #cv2.imwrite("mask.jpg", mask_img_autofill)
+            cv2.imwrite("mask.jpg", mask_img_autofill)
             return mask_img_autofill
 
     def autofillimg_horizon(self, _h_dilate_img, _v_dilate_img):
