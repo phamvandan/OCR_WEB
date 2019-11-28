@@ -60,7 +60,7 @@ def getFileName(fileType,folder):
         count = 0
         for filename in os.listdir(folder):
             if "pdf" in filename:
-                filename = os.path.join(str(folder0,filename)
+                filename = os.path.join(str(folder),filename)
                 print(filename)
                 count = pdfToImage(filename,folder) ## convert to image
         for k in range(1,count+1):
