@@ -52,7 +52,7 @@ def handleFile(fileName,pdfFileName,pdf,docx = False,skew = False,deblur=False,h
     return resultTable
 import datetime
 def saveResult(folder,saveFileName,result):
-    file  = os.path.join(folder,saveFileName)
+    file  = os.path.join(str(folder),saveFileName)
     if os.path.exists(file):
         f = open(file,"a+")
     else:
@@ -68,7 +68,7 @@ def getFileName(fileType,folder):
         for filename in os.listdir(folder):
             print(filename)
             if "pdf" in filename:
-                filename = os.path.join(folder,filename)
+                filename = os.path.join(str(folder),filename)
                 count = pdfToImage(filename,folder) ## convert to image
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
@@ -120,7 +120,7 @@ def preprocessFile(fileType,folder,saveFileName,skew,blur,basic,advance):
                     os.remove(filename)
     elif fileType=="text":
         for filename in names:
-            filename = os.path.join(folder,filename)
+            filename = os.path.join(str(folder),filename)
             f = open(filename,"r")
             result = result + str(f.read())
             f.close()
@@ -144,7 +144,7 @@ def ocrFile(filepath,docx,skew_mode,deblur_mode,basicTable,advanceTable):
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
         for image in names:
-            imagepath = os.path.join(currentFolder, image)
+            imagepath = os.path.join(str(currentFolder), image)
             resultTable = handleFile(imagepath,filepath,True,docx=docx,skew = skew_mode,deblur=deblur_mode,handleTableBasic=basicTable,handleTableAdvance=advanceTable)
         # k = 0
             for rs in resultTable:

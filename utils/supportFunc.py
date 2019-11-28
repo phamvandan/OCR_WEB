@@ -46,7 +46,7 @@ def handleFile(fileName,deblur=False,handleTableBasic=True,handleTableAdvance=Fa
     return resultNotTable,resultTable
 
 def saveResult(folder,saveFileName,result):
-    file  = os.path.join(folder,saveFileName)
+    file  = os.path.join(str(folder),saveFileName)
     if os.path.exists(file):
         f = open(file,"a+")
     else:
@@ -60,7 +60,7 @@ def getFileName(fileType,folder):
         count = 0
         for filename in os.listdir(folder):
             if "pdf" in filename:
-                filename = os.path.join(folder,filename)
+                filename = os.path.join(str(folder0,filename)
                 print(filename)
                 count = pdfToImage(filename,folder) ## convert to image
         for k in range(1,count+1):
