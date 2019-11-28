@@ -41,7 +41,7 @@ class detectTable(object):
         if choose == 1:
             # cv2.imwrite("mask.jpg", mask_img)
             return mask_img
-        boxes = []
+        # boxes = []
         h_dilate_img_autofill = self.autofillimg_horizon(h_dilate_img, v_dilate_img)
         v_dilate_img_autofill = self.autofillimg_vertical(h_dilate_img, v_dilate_img)
         h_dilate_img_autofill = self.remove_single_horizon(h_dilate_img_autofill, v_dilate_img_autofill)
@@ -58,39 +58,42 @@ class detectTable(object):
         array = _h_dilate_img.copy()
         for i in range(0, height):
             for j in range(0, width):
-                if _h_dilate_img[i, j] != 0 and _h_dilate_img[i, j - 1] == 0 and _h_dilate_img[
-                    i, j - 10] != 0 and j > 10:
-                    point = -1
-                    for k in range(j, 0, -1):
-                        for l in range(i, 0, -1):
-                            if _v_dilate_img[l, k] != 0:
-                                point = k
-                                break
-                        for l in range(i, height):
-                            if _v_dilate_img[l, k] != 0 and l > point:
-                                point = k
-                                break
-                        if point != -1: break
-                    if point != -1:
-                        for l in range(j, point - 2, -1):
-                            array[i, l] = 255
-                if _h_dilate_img[i, j] == 0 and _h_dilate_img[i, j - 1] != 0 and _h_dilate_img[
-                    i, j + 10] and j > 0 and j < width - 10:
-                    point = -1
-                    for k in range(j, width):
-                        for l in range(i, 0, -1):
-                            if _v_dilate_img[l, k] != 0:
-                                point = k
-                                break
-                        for l in range(i, height):
-                            if _v_dilate_img[l, k] != 0 and l > point:
-                                point = k
-                                break
-                        if point != -1: break
-                    if point != -1:
-                        for l in range(j, point + 2):
-                            array[i, l] = 255
-                        j = point
+                if j > 10:
+                    if _h_dilate_img[i, j] != 0 and _h_dilate_img[i, j - 1] == 0 and _h_dilate_img[
+                    i, j - 10] != 0 :
+                        point = -1
+                        for k in range(j, 0, -1):
+                            for l in range(i, 0, -1):
+                                if _v_dilate_img[l, k] != 0:
+                                    point = k
+                                    break
+                            for l in range(i, height):
+                                if _v_dilate_img[l, k] != 0 and l > point:
+                                    point = k
+                                    break
+                            if point != -1: break
+                        if point != -1:
+                            for l in range(j, point - 2, -1):
+                                array[i, l] = 255
+                if j > 0 and j < width - 10:
+                    if _h_dilate_img[i, j] == 0 and _h_dilate_img[i, j - 1] != 0 and _h_dilate_img[
+                    i, j + 10] :
+                        point = -1
+                        for k in range(j, width):
+                            for l in range(i, 0, -1):
+                                if _v_dilate_img[l, k] != 0:
+                                    point = k
+                                    break
+                            for l in range(i, height):
+                                if _v_dilate_img[l, k] != 0 and l > point:
+                                    point = k
+                                    break
+                            if point != -1: break
+                        if point != -1:
+                            for l in range(j, point + 2):
+                                if i<height-1 and l<width-1:
+                                    array[i, l] = 255
+                            j = point
         return array
 
     def autofillimg_vertical(self, _h_dilate_img, _v_dilate_img):
@@ -130,7 +133,8 @@ class detectTable(object):
                         if point != -1: break
                     if point != -1:
                         for l in range(j, point + 2):
-                            array[l, i] = 255
+                            if l < height-1 and i<width-1 :
+                                array[l, i] = 255   
                         j = point
         return array
 
@@ -152,12 +156,14 @@ class detectTable(object):
                             if _h_dilate_img[k, l] != 0 and k > point:
                                 point = k
                                 break
-                        if point != -1 and _h_dilate_img[point, i - 5] != 0 and _h_dilate_img[
-                            point, i + 5] != 0 and i > 5 and i < width - 5:
-                            break
+                        if i > 5 and i < width - 5:
+                            if point != -1 and _h_dilate_img[point, i - 5] != 0 and _h_dilate_img[
+                            point, i + 5] != 0:
+                                break
                     if point != -1:
                         for l in range(j, point - 2, -1):
-                            array[l, i] = 255
+                            if l<height-1 and i<width-1:
+                                array[l, i] = 255
                 if _v_dilate_img[j, i] == 0 and _v_dilate_img[j - 1, i] != 0 and i > 0:
                     point = -1
                     for k in range(j, height):
@@ -172,7 +178,8 @@ class detectTable(object):
                         if point != -1: break
                     if point != -1:
                         for l in range(j, point + 2):
-                            array[l, i] = 255
+                            if l<height-1 and i<width-1 :
+                                array[l, i] = 255
                         j = point
         return array
 
@@ -187,5 +194,6 @@ class detectTable(object):
                     break
             if point:
                 for j in range(0, width):
-                    array[i, j] = 0
+                    if i<height-1 and j<width-1:
+                        array[i, j] = 0
         return array
