@@ -10,11 +10,11 @@ from utils.detai import ocrFile
 
 app = flask.Flask(__name__)
 
-staticPath = '/home/trandat/project/OCR_WEB/static'
-projectPath = '/home/trandat/project/OCR_WEB'
+staticPath = '/home/anm/OCR_WEB/static'
+projectPath = '/home/anm/OCR_WEB'
 app.secret_key = "tranmanhdat"
 app.config["DEBUG"] = True
-app.config['UPLOAD_FOLDER'] = '/home/trandat/project/OCR_WEB/static/ontest'
+app.config['UPLOAD_FOLDER'] = '/home/anm/OCR_WEB/static/ontest'
 app.config['MAX_CONTENT_LENGTH'] = 50 * 1024 * 1024
 ALLOWED_EXTENSIONS = set(['PDF', 'pdf', 'png', 'jpg', 'jpeg', 'PNG', 'JPG' , 'JPEG'])
 def allowed_file(filename):
