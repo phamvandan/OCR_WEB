@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import flask
 from flask import Flask, flash, request, redirect, render_template, url_for, send_file, abort, send_from_directory
 import urllib.request
