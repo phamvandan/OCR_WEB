@@ -24,7 +24,7 @@ def checkIOUwithAboveCell(cell1,cell2):
 def getStringFromImage(box,image):
     (x,y,w,h) = box
     crop = image[y:y+h,x:x+w]
-    string = pytesseract.image_to_string(crop,lang='vie',config='--osm 2')
+    string = pytesseract.image_to_string(crop,lang='vie')
     cv2.rectangle(image, (x, y), (x + w, y + h), 255, 1)
     return string
 
@@ -129,7 +129,7 @@ def GetTextLayout(listResult,listBigBox,img,docName):
     if len(listBigBox)==0:
         layoutDocument(img,document)
         document.save(docName)
-        result.append(pytesseract.image_to_string(img,lang='vie',config='--osm 2')+"\n")
+        result.append(pytesseract.image_to_string(img,lang='vie')+"\n")
         return result
     bigBoxTemp = []
     listYCoord = []
@@ -169,12 +169,12 @@ def GetTextLayout(listResult,listBigBox,img,docName):
                         temp = sum(idx[:])
                         if temp <2:
                             continue
-                        string  = pytesseract.image_to_string(crop,lang='vie',config='--osm 2')
+                        string  = pytesseract.image_to_string(crop,lang='vie')
                         if len(string) == 0:
                             kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3,3))
                             crop = cv2.erode(crop, kernel, iterations=1)
                             while size<=200:
-                                string  = pytesseract.image_to_string(crop,lang='eng',config='--psm 10 --osm 2')
+                                string  = pytesseract.image_to_string(crop,lang='eng',config='--psm 10')
                                 if ("l" in string or "I" in string ) and len(string)<3:
                                     string = "1"
                                 if string.isdigit() or (len(string)>=2 and "," not in string and "'" not in string):
@@ -198,7 +198,7 @@ def GetText(listResult,listBigBox,img):
     result = []
     (height,_) = img.shape[:2]
     if len(listBigBox)==0:
-        result.append(pytesseract.image_to_string(img,lang='vie',config='--osm 2')+"\n")
+        result.append(pytesseract.image_to_string(img,lang='vie')+"\n")
         return result
     bigBoxTemp = []
     listYCoord = []
@@ -218,7 +218,7 @@ def GetText(listResult,listBigBox,img):
             temp = sum(idx[:])
             if temp <2:
                 continue
-            result.append(pytesseract.image_to_string(crop,lang='vie',config='--osm 2')+"\n")
+            result.append(pytesseract.image_to_string(crop,lang='vie')+"\n")
         else:
             index = 0
             box = listBigBox.pop(0)
@@ -236,12 +236,12 @@ def GetText(listResult,listBigBox,img):
                         temp = sum(idx[:])
                         if temp <2:
                             continue
-                        string  = pytesseract.image_to_string(crop,lang='vie',config='--osm 2')
+                        string  = pytesseract.image_to_string(crop,lang='vie')
                         if len(string) == 0:
                             kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3,3))
                             crop = cv2.erode(crop, kernel, iterations=1)
                             while size<=200:
-                                string  = pytesseract.image_to_string(crop,lang='eng',config='--psm 10 --osm 2')
+                                string  = pytesseract.image_to_string(crop,lang='eng',config='--psm 10')
                                 if ("l" in string or "I" in string ) and len(string)<3:
                                     string = "1"
                                 if string.isdigit() or (len(string)>=2 and "," not in string and "'" not in string):

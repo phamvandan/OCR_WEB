@@ -7,6 +7,6 @@ from utils.supportFunc import preprocessFile
 from utils.detai import ocrFile
 import requests
 
-text_ocr = ocrFile("/home/anm/OCR_WEB/13.jpg",False,True,True,True,False)
+text_ocr = ocrFile("/home/trandat/project/OCR_WEB/13.jpg",False,True,True,True,False)
 
 print(text_ocr)
