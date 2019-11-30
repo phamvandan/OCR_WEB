@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+        <script src="/static/js/jquery-3.4.1.min.js"></script>
+        <!-- <link href="/static/css/bootstrap.css" rel="stylesheet"> -->
+        <!-- <link href="/static/css/bootstrap.min.css" rel="stylesheet"> -->
+	</head>
+	<body>
+        <p>Search : </p>
+        <div>
+            <form action="/searchfile" method="POST">
+                <input type="text" id='text' name='text'/>
+                <button id='button' type="submit">Find Document</button>
+            </form>
+        </div>
+        <div>
+            <table id='table'>
+                <thead>
+                    <th></th>
+                    <th>File Name</th>
+                    <th>Contents</th>
+                </thead>
+            </table>
+        </div>
+    </body>
+</html>

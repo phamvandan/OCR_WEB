@@ -150,7 +150,7 @@ def GetTextLayout(listResult,listBigBox,img,docName):
             if temp <2:
                 continue
             layoutDocument(crop,document)
-            # result.append(pytesseract.image_to_string(crop,lang='vie')+"\n")
+            result.append(pytesseract.image_to_string(crop,lang='vie')+"\n")  # for get text
         else:
             index = 0
             box = listBigBox.pop(0)
@@ -186,13 +186,13 @@ def GetTextLayout(listResult,listBigBox,img,docName):
                         row_cells = table.rows[0].cells
                         p = row_cells[i].add_paragraph(string)
                         p.alignment = WD_TABLE_ALIGNMENT.CENTER
-                        # result.append(string)
-                    # result.append("\n")
+                        result.append(string) #for get text
+                    result.append("\n") #for get text
                 else:
                     break
             listResult = listResult[index:]
     document.save(docName)
-
+    return result
     
 def GetText(listResult,listBigBox,img):
     result = []

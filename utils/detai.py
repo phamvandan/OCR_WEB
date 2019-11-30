@@ -45,10 +45,10 @@ def handleFile(fileName,pdfFileName,pdf,docx = False,skew = False,deblur=False,h
         else:
             if not pdf:
                 fileNamewithoutExtension = os.path.splitext(fileName)[0]
-                GetTextLayout(listResult,listBigBox,img,fileNamewithoutExtension+".docx")
+                resultTable = GetTextLayout(listResult,listBigBox,img,fileNamewithoutExtension+".docx")
             else:
                 fileNamewithoutExtension = os.path.splitext(pdfFileName)[0]
-                GetTextLayout(listResult,listBigBox,img,fileNamewithoutExtension+".docx")
+                resultTable = GetTextLayout(listResult,listBigBox,img,fileNamewithoutExtension+".docx")
     return resultTable
 import datetime
 def saveResult(folder,saveFileName,result):
@@ -160,4 +160,9 @@ def ocrFile(filepath,docx,skew_mode,deblur_mode,basicTable,advanceTable):
                 #     result = result + "\n"
                 result= result + (str(rs))
                 # k = k+ 1
+    txtPath = str(os.path.splitext(filepath)[0])+'.txt'
+    if os.path.exists(txtPath):
+        os.remove(txtPath)
+    with open(txtPath,'w+') as f:
+        f.write(result)
     return result

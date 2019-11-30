@@ -1,0 +1,13 @@
+<!doctype html>
+<title>Upload File </title>
+<h2>Select files to upload</h2>
+<form method="post" action="/uploadFiles" enctype="multipart/form-data">
+    <dl>
+		<p>
+			<input type="file" name="file" autocomplete="off" required multiple >
+		</p>
+    </dl>
+    <p>
+		<input type="submit" value="Upload">
+	</p>
+</form>

@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <link href="/static/css/bootstrap.css" rel="stylesheet">
+        <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+		<style>
+		html, 
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 22px;
+		}
+		.boxed {
+			border: 1px solid green ;
+			padding: 4px;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 22px;
+            white-space: pre-wrap;
+		}
+		</style>
+	</head>
+	<body>
+		<script>
+			$.url().param();
+		</script>
+        {%  for i in range(0,count)  %}
+        <div class="row" style="margin: 50px;">
+            <div class="col-11">
+                <p class="row">
+                    {{file_names[i]}}
+                </p>
+                <div class="row">
+                    <div  style="width: 50%; float:left; height:600px; background:gray" he>
+                        <embed src= {{ url_for('static', filename='demo/'+ file_names[i] ) }} type="application/pdf" width="100%" height="800px" />
+                    </div>
+                    <div class="boxed" style="overflow: auto; width: 50%; float:left; height:790px; background:rgb(255, 255, 255)">
+                                    {{text_ocr[i]}}
+					</div>
+                </div>
+            </div>
+            <div class="container col-1" >
+                <a href="/downloadFile/{{file_name}}" target="blank"><input type="button" value="Downdload docx file"/></a>
+                <a href="/"><input type="button" value="Back to Homepage" /></a>
+            </div>
+        </div>
+		
+        {% endfor %}
+		<!-- <form action="/saveFile/" method="post">
+			<textarea class="boxed" type="text" name="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
+				{{text_edit}}
+			</textarea>
+			<br>
+			<input class="text" type="text" name="uploadPersonName">
+			<input class="btn-summit" type="submit" value="Save to Database"/>
+		</form> -->
+    </body>
+</html>

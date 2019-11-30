@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	</head>
+	<body>
+        <button name="button" value="OK" type="button" onclick="tai1tailieu()">Tải lên một tài liệu</button> 
+        <button name="button" value="OK" type="button" onclick="tainhieutailieu()">Tải lên nhiều tài liệu</button>
+        <button name="button" value="OK" type="button" onclick="timkiem()">Tìm kiếm</button>
+	</body>
+    <script>  
+        function tai1tailieu(){
+            window.location.href = "/UploadFile";
+        }
+        function tainhieutailieu(){  
+          window.location.href = "/UploadFiles"; 
+        }
+        function timkiem(){ 
+          window.location.href = "/search";
+        }
+    </script>
+	
+</html>
