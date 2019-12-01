@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -26,28 +25,26 @@
 		<script>
 			$.url().param();
 		</script>
-        {%  for i in range(0,count)  %}
-        <div class="row" style="margin: 50px;">
+		<div class="row" style="margin: 50px;">
             <div class="col-11">
                 <p class="row">
-                    {{file_names[i]}}
+                    {{file_name}}
                 </p>
                 <div class="row">
-                    <div  style="width: 50%; float:left; height:600px; background:gray" he>
-                        <embed src= {{ url_for('static', filename='demo/'+ file_names[i] ) }} type="application/pdf" width="100%" height="800px" />
+                    <div  style="width: 50%; float:left; height:600px; background:gray" >
+                        <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px" />
                     </div>
                     <div class="boxed" style="overflow: auto; width: 50%; float:left; height:790px; background:rgb(255, 255, 255)">
-                                    {{text_ocr[i]}}
-					</div>
+                                    {{text_ocr}}
+                    </div>
                 </div>
             </div>
             <div class="container col-1" >
-                <a href="/downloadFile/{{file_name}}" target="blank"><input type="button" value="Downdload docx file"/></a>
+				<a href="/downloadFileOrigin/{{file_name}}" target="blank"><input type="button" value="Downdload Origin File"/></a>
+                <a href="/downloadFile/{{file_name}}" target="blank"><input type="button" value="Downdload Docx File"/></a>
                 <a href="/"><input type="button" value="Back to Homepage" /></a>
             </div>
         </div>
-		
-        {% endfor %}
 		<!-- <form action="/saveFile/" method="post">
 			<textarea class="boxed" type="text" name="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
 				{{text_edit}}
@@ -57,4 +54,6 @@
 			<input class="btn-summit" type="submit" value="Save to Database"/>
 		</form> -->
     </body>
+    <script>  
+    </script>
 </html>

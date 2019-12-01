@@ -14,7 +14,7 @@ app = flask.Flask(__name__)
 app.secret_key = "tranmanhdat"
 app.config["DEBUG"] = True
 app.config['UPLOAD_FOLDER'] = '/home/trandat/project/OCR_WEB/static/demo'
-app.config['MAX_CONTENT_LENGTH'] = 50 * 1024 * 1024
+app.config['MAX_CONTENT_LENGTH'] = 200 * 1024 * 1024
 ALLOWED_EXTENSIONS = set(['PDF', 'pdf', 'png', 'jpg', 'jpeg', 'PNG', 'JPG' , 'JPEG'])
 def allowed_file(filename):
 	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
@@ -131,6 +131,10 @@ def downloadFile(filename):
     # global currentFile
     # print("download "+str(currentFile))
     return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=os.path.splitext(filename)[0]+'.docx',as_attachment=True)
+@app.route('/downloadFileOrigin/<filename>')
+def downloadFileOrigin(filename):
+    print(filename)
+    return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=filename,as_attachment=True)
 @app.route('/search')
 def search():
     return render_template('search.html')
@@ -156,7 +160,7 @@ def searchfile():
         'Connection': "keep-alive",
         'cache-control': "no-cache"
     }
-    response = requests.request("POST", url_search, data=payload, headers=headers, params=querystring)
+    response = requests.request("POST", url_search, data=payload.encode('utf-8'), headers=headers, params=querystring)
     jsondata = response.json()
     # print(response.json())
     sources = jsondata['hits']['hits']
@@ -175,7 +179,7 @@ def searchfile():
     return render_template('resultSearch.html',filenames = filenames, contents = contents , count = len(filenames))
 @app.route('/viewOrigin/<filename>')
 def viewOrigin(filename):
-    filepath = str(app.config['UPLOAD_FOLDER']) + filename 
+    filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename) 
     txtPath = str(os.path.splitext(filepath)[0])+'.txt'
     with open(txtPath,'r+') as f:
         text = f.read()
