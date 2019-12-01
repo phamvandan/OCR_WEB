@@ -11,3 +11,8 @@ sudo apt-get install python-pypdf2
 sudo pip3 install imutils pdf2image python-docx PyPDF2
 sudo pip3 install matplotlib
 sudo pip3 install  numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+# install ElasticSearch : 
+https://stackjava.com/elasticsearch/huong-dan-cai-dat-elasticsearch-tren-ubuntu-16-04.html  
+make sure elastic search run on port 9200
+
