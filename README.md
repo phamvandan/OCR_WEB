@@ -10,7 +10,7 @@ sudo pip3 install pytesseract
 sudo apt-get install python-pypdf2  
 sudo pip3 install imutils pdf2image python-docx PyPDF2
 sudo pip3 install matplotlib
-sudo pip3 install  numpy scipy matplotlib ipython jupyter pandas sympy nose
+sudo pip3 install  numpy scipy matplotlib ipython jupyter pandas sympy nose poppler-utils
 
 # install ElasticSearch : 
 https://stackjava.com/elasticsearch/huong-dan-cai-dat-elasticsearch-tren-ubuntu-16-04.html  

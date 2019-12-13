@@ -83,11 +83,12 @@ def upload_file():
 			if os.path.exists(name+'.docx'):
 				os.remove(name+'.docx')
 			ocrFile(filepath,True,True, True, True, False)
-			print(os.path.splitext(filename)[0]+'docx')
+			# print(os.path.splitext(filename)[0]+'docx')
 			return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=os.path.splitext(filename)[0]+'.docx',as_attachment=True)
 		else:
 			flash('Allowed file types are PDF, pdf, png, jpg, jpeg, PNG, JPG, JPEG')
 			return redirect('uploadFile')
 if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
-	app.run(host='10.42.49.111',port=80)
+	# app.run(host='10.42.49.111',port=80)
+	app.run()
