@@ -1,13 +1,89 @@
-<!doctype html>
-<title>Upload File </title>
-<h2>Select a file to upload</h2>
-<form method="post" action="/uploadFile" enctype="multipart/form-data">
-    <dl>
-		<p>
-			<input type="file" name="file" autocomplete="off" required >
-		</p>
-    </dl>
-    <p>
-		<input type="submit" value="Upload">
-	</p>
-</form>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Upload File </title>
+      <link href="../static/css/Content/all.css" rel="stylesheet">
+      <script type="text/javascript" src="../static/js/Scripts/jquery-1.12.4.js"></script>
+      <script src="../static/js/Scripts/bootstrap.min.js"></script>
+      <script type="text/javascript" src="../static/js/Scripts/jquery.dataTables.min.js"></script>
+      <script type="text/javascript" src="../static/js/Scripts/dataTables.bootstrap.min.js"></script>
+      <script type="text/javascript" src="../static/js/Scripts/dropzone.js"></script>
+      <script type="text/javascript" src="../static/js/Scripts/docmanager.js"></script>
+      <script src="../static/js/Scripts/select2.js"></script>
+      <link href="../static/css/Content/select2.css" rel="stylesheet">
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     
+  
+      <link href="../static/css/Content/bootstrap.css" rel="stylesheet">
+      <link href="../static/css/Content/style_manager.css" rel="stylesheet">
+      <link href="../static/css/Content/site.css" rel="stylesheet">
+      <link href="../static/css/Content/loader.css" rel="stylesheet">
+      <link href="../static/css/Content/dropzone.css" rel="stylesheet">
+  
+	</head>
+	<body>
+    <div id="mainContent" class="container" style="font-size:2em; color: white;width:100%;background-color:#2196f3;margin-left: -0px;">
+        <div class="row" style="width:100%  ;background-color:#2196f3;margin-left: -0px;">
+            <div class="col-12" style="font-size: 3em;" onclick="home()">eDocMan-Hệ thống quản lý tài liệu điện tử</div> 
+          </div>
+      <div class="row" style="width:100%  ;background-color:#2196f3;margin-left: -0px;">
+        <div class="col-3"></div>
+        <div class="col-6" style="display: flex; justify-content: space-between;">
+            <span style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;" onclick="tai1tailieu()">Tải lên một tài liệu</span>
+            <span style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;" onclick="tainhieutailieu()" >Tải lên nhiều tài liệu</span>
+            <span style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;" onclick="timkiem()">Tìm kiếm</span>
+        </div>
+        <div class="col-3"></div>
+      </div>
+
+      <!-- thay doi noi dung -->
+		  <div class="row" style="width:100%;height: 705px;margin-left: -0px; background-color: rgb(92, 214, 214);">
+			<div class="col-4"></div>
+			<div class="col-4">
+				<div style="border-style: double;margin-top: 150px;">
+					<h2 style="font:bold; background-color: rgb(57, 185, 224); text-align: center; margin-top: 0;">Select a file to upload</h2>
+					<form method="post" action="/uploadFile" enctype="multipart/form-data">
+						<dl>
+							<p>
+								<input type="file" name="file" autocomplete="off" required  style="margin: auto;text-align: center;">
+							</p>
+						</dl>
+						<p>
+							<input type="submit" value="Upload" style="width:100%">
+						</p>
+					</form>
+				</div>
+				
+
+			</div>
+			<div class="col-4"></div>
+			
+    	</div>
+        
+    </div>
+
+  </div>
+
+  <script>  
+        function tai1tailieu(){
+            window.location.href = "/UploadFile";
+        }
+        function tainhieutailieu(){  
+          window.location.href = "/UploadFiles"; 
+        }
+        function timkiem(){ 
+          window.location.href = "/search";
+		}
+		function home(){ 
+          window.location.href = "/";
+        }
+    </script>
+       
+        
+
+	</body>
+
+</html>
+

@@ -10,23 +10,26 @@
                 width: 90%;
                 height: 300px;
             }
+            table,th,td {
+                border: 1px solid black;
+            }
         </style>
 	</head>
 	<body>
-        <p>Result : </p>
-        <div >
-            <table id='table' align="center">
+        <!-- <p>Result : </p> -->
+        <div style="margin: 30px;">
+            <table id='table' style="margin: auto;background-color:hotpink;">
                 <thead>
-                    <th>STT</th>
-                    <th>File Name</th>
-                    <th>Contents</th>
+                    <th style="width: 10%; text-align: center;">STT</th>
+                    <th style="width: 10%; text-align: center;">File Name</th>
+                    <th style="width: 80%; text-align: center;">Contents</th>
                 </thead>
                 <tbody style="overflow-x: scroll;">
                     {% for i in range(0,count) %}
                     <tr>
-                        <td>{{i}}</td>
-                        <td>{{filenames[i]}}</td>
-                        <td>{{contents[i]}}</td>
+                        <td style="text-align: center;">{{i+1}}</td>
+                        <td style="text-align: center;">{{filenames[i]}}</td>
+                        <td style="padding-left: 10px;text-align: justify;padding-right: 10px;">{{contents[i]}}</td>
                         <td><a href="/viewOrigin/{{filenames[i]}}"><input type="button" value="View Origin File" /></a></td>
                     </tr>
                     {% endfor %}
