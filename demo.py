@@ -184,7 +184,12 @@ def viewOrigin(filename):
     with open(txtPath,'r+') as f:
         text = f.read()
     return render_template('viewOrigin.html', file_name=filename, text_ocr=text)
+
+def init():
+    if not os.path.exists(str(app.config['UPLOAD_FOLDER'])):
+        os.makedirs(str(app.config['UPLOAD_FOLDER']))
 if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
+    init()
     app.run()
 
