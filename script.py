@@ -5,9 +5,9 @@ document = 'document'
 ip = "http://localhost:9200"
 url = ip+"/"+mac+"/"+document+"/"
 
-for r, _, f in os.walk('/home/trandat/project/static/OCR_origin/'):
+for r, _, f in os.walk('/home/trandat/project/OCR_WEB/static/demo'):
     for file in f:
-        if file.__contains__('.txt'):
+        if file.__contains__('.txt') :
             with open(os.path.join(str(r),file)) as f:
                 text = f.read()
             text = re.sub('"','',text).strip()

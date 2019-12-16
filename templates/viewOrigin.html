@@ -1,59 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <link href="/static/css/bootstrap.css" rel="stylesheet">
-        <link href="/static/css/bootstrap.min.css" rel="stylesheet">
-		<style>
-		html, 
-		body {
-			margin: 0;
-			padding: 0;
-			font-family: 'Ubuntu', sans-serif;
-			font-size: 22px;
-		}
-		.boxed {
+
+<head>
+  <title>eDocMan-Hệ thống quản lý tài liệu điện tử</title>
+  <link href="../static/css/Content/all.css" rel="stylesheet">
+  <script type="text/javascript" src="../static/js/Scripts/jquery-1.12.4.js"></script>
+  <script src="../static/js/Scripts/bootstrap.min.js"></script>
+  <script type="text/javascript" src="../static/js/Scripts/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="../static/js/Scripts/dataTables.bootstrap.min.js"></script>
+  <script type="text/javascript" src="../static/js/Scripts/dropzone.js"></script>
+  <script type="text/javascript" src="../static/js/Scripts/docmanager.js"></script>
+  <script src="../static/js/Scripts/select2.js"></script>
+  <link href="../static/css/Content/select2.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="../static/css/Content/bootstrap.css" rel="stylesheet">
+  <link href="../static/css/Content/style_manager.css" rel="stylesheet">
+  <link href="../static/css/Content/site.css" rel="stylesheet">
+  <link href="../static/css/Content/loader.css" rel="stylesheet">
+  <link href="../static/css/Content/dropzone.css" rel="stylesheet">
+	<style>
+	.boxed {
 			border: 1px solid green ;
 			padding: 4px;
 			font-family: 'Ubuntu', sans-serif;
 			font-size: 22px;
             white-space: pre-wrap;
 		}
-		</style>
-	</head>
-	<body>
-		<script>
-			$.url().param();
-		</script>
-		<div class="row" style="margin: 50px;">
-            <div class="col-11">
-                <p class="row">
-                    {{file_name}}
-                </p>
-                <div class="row">
-                    <div  style="width: 50%; float:left; height:600px; background:gray" >
-                        <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px" />
-                    </div>
-                    <div class="boxed" style="overflow: auto; width: 50%; float:left; height:790px; background:rgb(255, 255, 255)">
-                                    {{text_ocr}}
-                    </div>
-                </div>
-            </div>
-            <div class="container col-1" >
-				<a href="/downloadFileOrigin/{{file_name}}" target="blank"><input type="button" value="Downdload Origin File"/></a>
-                <a href="/downloadFile/{{file_name}}" target="blank"><input type="button" value="Downdload Docx File"/></a>
-                <a href="/"><input type="button" value="Back to Homepage" /></a>
-            </div>
-        </div>
-		<!-- <form action="/saveFile/" method="post">
-			<textarea class="boxed" type="text" name="text_edit" style="overflow: auto;width: 30%; float:left	; height:590px; background:rgb(255, 255, 255); margin:10px" contenteditable="true" >
-				{{text_edit}}
-			</textarea>
-			<br>
-			<input class="text" type="text" name="uploadPersonName">
-			<input class="btn-summit" type="submit" value="Save to Database"/>
-		</form> -->
-    </body>
-    <script>  
-    </script>
+	</style>
+</head>
+
+<body>
+  <div id="mainContent" class="container"
+    style="font-size:2em; color: white;width:100%;background-color:#2196f3;margin-left: -0px;">
+    <div class="row" style="width:100%  ;background-color:#2196f3;margin-left: -0px;">
+      <div class="col-12" style="font-size: 3em;" onclick="home()">eDocMan-Hệ thống quản lý tài liệu điện tử</div>
+    </div>
+    <div class="row" style="width:100%  ;background-color:#2196f3;margin-left: -0px;">
+      <div class="col-3"></div>
+      <div class="col-6" style="display: flex; justify-content: space-between;">
+        <span
+          style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;"
+          onclick="tai1tailieu()">Tải lên một tài liệu</span>
+        <span
+          style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;"
+          onclick="tainhieutailieu()">Tải lên nhiều tài liệu</span>
+        <span
+          style="margin-left: 20px;padding-left: 6px;padding-right: 6px; border-style: groove; background-color: #1b4dd4;"
+          onclick="timkiem()">Tìm kiếm</span>
+      </div>
+      <div class="col-3"></div>
+    </div>
+
+	<!-- thay doi noi dung -->
+	<div class="row" style="width:100%;height: 100%;margin-left: -0px;">
+		<p style="padding-left: 20px;">
+			{{file_name}}
+		</p>
+		<a href="/downloadFileOrigin/{{file_name}}" target="blank" style="padding-left: 20px;">
+			<input type="button" value="Downdload Origin File"/>
+		</a>
+		<a href="/downloadFile/{{file_name}}" target="blank" style="padding-left: 20px;">
+			<input type="button" value="Downdload docx file"/>
+		</a>
+	</div>
+    <div class="row" style="width:100%;height: 100%;margin-left: -0px;">
+      <div class="col-6" style="width:100%;height: 800px;background-color: rgb(92, 214, 214);padding-left: 0px;padding-right: 0px;padding-bottom: 0px;">
+        {% if pdf  %}
+        <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px"  />
+        {% else %}
+        <img src= {{ url_for('static', filename='demo/'+ file_name ) }} width="100%" height="800px" >
+        {% endif %}
+      </div>
+      <div class="col-6" style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
+		<div class="boxed" style="overflow: auto; width: 100%; float:left; height:800px; background:rgb(49, 157, 230)">
+			{{text_ocr}}
+		</div>
+	  </div>
+    </div>
+  </div>
+  </div>
+</body>
+<script>
+  function tai1tailieu() {
+    window.location.href = "/UploadFile";
+  }
+  function tainhieutailieu() {
+    window.location.href = "/UploadFiles";
+  }
+  function timkiem() {
+    window.location.href = "/search";
+  }
+  function home() {
+    window.location.href = "/";
+  }
+</script>
 </html>

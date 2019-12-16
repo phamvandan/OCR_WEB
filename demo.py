@@ -75,7 +75,7 @@ def uploadFile():
                 }
             response = requests.request("POST", url, data=payload.encode('utf-8'), headers=headers)
             # print(response.text)
-            return render_template('showFile.html', file_name=filename, text_ocr=text_ocr)
+            return render_template('showFile.html', file_name=filename, text_ocr=text_ocr, pdf = PdfType(filename))
 @app.route('/uploadFiles', methods=['POST'])
 def uploadFiles():
     if request.method == 'POST':
@@ -124,7 +124,7 @@ def uploadFiles():
                     texts.append(text_ocr)
             # text.replace("\n","\n\n")
             # print(text)
-            return render_template('showFiles.html', file_names=filenames, text_ocr=texts, count=len(filenames))
+            return render_template('showFiles.html', file_names=filenames, text_ocr=texts, count=len(filenames), pdf=PdfTypes(filenames))
 @app.route('/downloadFile/<filename>')
 def downloadFile(filename):
     print(filename)
@@ -183,11 +183,19 @@ def viewOrigin(filename):
     txtPath = str(os.path.splitext(filepath)[0])+'.txt'
     with open(txtPath,'r+') as f:
         text = f.read()
-    return render_template('viewOrigin.html', file_name=filename, text_ocr=text)
+    print(text)
+    return render_template('viewOrigin.html', file_name=filename, text_ocr=text, pdf =PdfType(filename))
 
 def init():
     if not os.path.exists(str(app.config['UPLOAD_FOLDER'])):
         os.makedirs(str(app.config['UPLOAD_FOLDER']))
+def PdfType(filename):
+    return (os.path.splitext(filename)[-1].lower() == '.pdf')
+def PdfTypes(filenames):
+    pdf = []
+    for i in range(0,len(filenames)):
+        pdf.append(os.path.splitext(filenames[i])[-1].lower() == '.pdf')
+    return pdf
 if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
     init()

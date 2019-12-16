@@ -63,7 +63,11 @@
 	</div>
     <div class="row" style="width:100%;height: 100%;margin-left: -0px;">
       <div class="col-6" style="width:100%;height: 800px;background-color: rgb(92, 214, 214);padding-left: 0px;padding-right: 0px;padding-bottom: 0px;">
+        {% if pdf  %}
         <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px"  />
+        {% else %}
+        <img src= {{ url_for('static', filename='demo/'+ file_name ) }} width="100%" height="800px" >
+        {% endif %}
       </div>
       <div class="col-6" style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
         <!-- <img src="../static/image/System_Architectures1.jpg" style="width: 100%;height: 50%;">
@@ -72,9 +76,6 @@
 			{{text_ocr}}
 		</div>
 	  </div>
-	  <div class="col-2" >
-		<!-- <a href="/"><input type="button" value="Back to Homepage" /></a> -->
-		</div>
     </div>
   </div>
   </div>
