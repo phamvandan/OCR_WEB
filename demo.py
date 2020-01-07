@@ -146,7 +146,7 @@ def searchfile():
     global url
     url_search = url+'_search'
     querystring = {"filter_path":"hits.hits._source"}
-    payload = "{\n\t\"from\":0,\n\t\"size\":5,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{\n\t\t\t\t\"query\":\""+text+"\",\n\t\t\t\t\"fuzziness\":2\n\t\t\t}\n\t\t}\n\t}\n}"
+    payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{\n\t\t\t\t\"query\":\""+text+"\",\n\t\t\t\t\"fuzziness\":2\n\t\t\t}\n\t\t}\n\t}\n}"
     print(payload)
     headers = {
         'Content-Type': "application/json",
@@ -170,7 +170,7 @@ def searchfile():
     for i,source in enumerate(sources):
         file = source['_source']
         filenames.append(file['id'])
-        contents.append(file['content'][150:300])
+        contents.append(file['content'][100:300])
     print(filenames)
     print(contents)
     searchResult = {}
