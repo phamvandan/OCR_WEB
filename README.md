@@ -16,3 +16,4 @@ sudo pip3 install  numpy scipy matplotlib ipython jupyter pandas sympy nose popp
 https://stackjava.com/elasticsearch/huong-dan-cai-dat-elasticsearch-tren-ubuntu-16-04.html  
 make sure elastic search run on port 9200
 
+oke done
