@@ -197,6 +197,6 @@ def PdfTypes(filenames):
         pdf.append(os.path.splitext(filenames[i])[-1].lower() == '.pdf')
     return pdf
 if __name__ == "__main__":
-    # app.run(host='172.16.1.27',port=80)
     init()
-    app.run()
+    app.run(host='10.42.49.111',port=80)
+    # app.run()
