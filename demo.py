@@ -7,13 +7,13 @@ from pathlib import Path
 from utils.detai import ocrFile
 import os, re
 import json
-
+import os
 app = flask.Flask(__name__)
 
 
 app.secret_key = "tranmanhdat"
 app.config["DEBUG"] = True
-app.config['UPLOAD_FOLDER'] = '/home/trandat/project/OCR_WEB/static/demo'
+app.config['UPLOAD_FOLDER'] = os.getcwd() + '/static/demo'
 app.config['MAX_CONTENT_LENGTH'] = 200 * 1024 * 1024
 ALLOWED_EXTENSIONS = set(['PDF', 'pdf', 'png', 'jpg', 'jpeg', 'PNG', 'JPG' , 'JPEG'])
 def allowed_file(filename):
@@ -30,7 +30,7 @@ def home():
     return render_template('demoHome.html')
 @app.route('/UploadFile')
 def upload():
-    # print("aaaa")
+    # #print("aaaa")
     return render_template('demoUpload.html')
 @app.route('/UploadFiles')
 def uploads():
@@ -47,7 +47,7 @@ def uploadFile():
             filename = secure_filename(file.filename)
             filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
             file.save(filepath)
-            print('upload success : '+filename)
+            #print('upload success : '+filename)
             global currentFile
             currentFile = filename
             name = os.path.splitext(filepath)[0]
@@ -56,7 +56,7 @@ def uploadFile():
             text = ocrFile(filepath,True,True, True, True, False)
             text_ocr = text
             global url
-            print(url)
+            #print(url)
             text = re.sub('"','',text).strip()
             text = re.sub('\'','',text).strip()
             text = re.sub(r'\\', '',text).strip()
@@ -66,7 +66,7 @@ def uploadFile():
             text = re.sub(r'\t', ' ', text).strip()
             text = re.sub('$','',text).strip()
             # text = json.dumps(text)
-            print(text)
+            #print(text)
             payload = "{\n\t\"id\":\""+filename+"\",\n\t\"content\":\""+text+"\"\n}"
             headers = {
                 'content-type': "application/json",
@@ -74,14 +74,14 @@ def uploadFile():
                 'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
                 }
             response = requests.request("POST", url, data=payload.encode('utf-8'), headers=headers)
-            # print(response.text)
+            # #print(response.text)
             return render_template('showFile.html', file_name=filename, text_ocr=text_ocr, pdf = PdfType(filename))
 @app.route('/uploadFiles', methods=['POST'])
 def uploadFiles():
     if request.method == 'POST':
         # check if the post request has the file part
         files = request.files.getlist('file')
-        print(files)
+        #print(files)
         if files.count == 0:
             flash('No file selected for uploading')
             return redirect(request.url)
@@ -94,7 +94,7 @@ def uploadFiles():
                     filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
                     file.save(filepath)
                     filenames.append(filename)
-                    print('upload success : '+filename)
+                    #print('upload success : '+filename)
                     global currentFile
                     currentFile = filename
                     name = os.path.splitext(filepath)[0]
@@ -103,7 +103,7 @@ def uploadFiles():
                     text = ocrFile(filepath,True,True, True, True, False)
                     text_ocr = text
                     global url
-                    print(url)
+                    #print(url)
                     text = re.sub('"','',text).strip()
                     text = re.sub('\'','',text).strip()
                     text = re.sub(r'\\', '',text).strip()
@@ -113,7 +113,7 @@ def uploadFiles():
                     text = re.sub(r'\t', ' ', text).strip()
                     text = re.sub('$','',text).strip()
                     # text = json.dumps(text)
-                    print(text)
+                    #print(text)
                     payload = "{\n\t\"id\":\""+filename+"\",\n\t\"content\":\""+text+"\"\n}"
                     headers = {
                         'content-type': "application/json",
@@ -123,17 +123,17 @@ def uploadFiles():
                     response = requests.request("POST", url, data=payload.encode('utf-8'), headers=headers)
                     texts.append(text_ocr)
             # text.replace("\n","\n\n")
-            # print(text)
+            # #print(text)
             return render_template('showFiles.html', file_names=filenames, text_ocr=texts, count=len(filenames), pdf=PdfTypes(filenames))
 @app.route('/downloadFile/<filename>')
 def downloadFile(filename):
-    print(filename)
+    #print(filename)
     # global currentFile
-    # print("download "+str(currentFile))
+    # #print("download "+str(currentFile))
     return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=os.path.splitext(filename)[0]+'.docx',as_attachment=True)
 @app.route('/downloadFileOrigin/<filename>')
 def downloadFileOrigin(filename):
-    print(filename)
+    #print(filename)
     return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=filename,as_attachment=True)
 @app.route('/search')
 def search():
@@ -142,12 +142,12 @@ def search():
 def searchfile():
     #do something
     text = request.form['text']
-    print("text : "+text)
+    #print("text : "+text)
     global url
     url_search = url+'_search'
     querystring = {"filter_path":"hits.hits._source"}
     payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{\n\t\t\t\t\"query\":\""+text+"\",\n\t\t\t\t\"fuzziness\":2\n\t\t\t}\n\t\t}\n\t}\n}"
-    print(payload)
+    #print(payload)
     headers = {
         'Content-Type': "application/json",
         'User-Agent': "PostmanRuntime/7.19.0",
@@ -162,17 +162,17 @@ def searchfile():
     }
     response = requests.request("POST", url_search, data=payload.encode('utf-8'), headers=headers, params=querystring)
     jsondata = response.json()
-    # print(response.json())
+    # #print(response.json())
     sources = jsondata['hits']['hits']
-    print(len(sources))
+    #print(len(sources))
     filenames =[]
     contents =[]
     for i,source in enumerate(sources):
         file = source['_source']
         filenames.append(file['id'])
         contents.append(file['content'][100:300])
-    print(filenames)
-    print(contents)
+    #print(filenames)
+    #print(contents)
     searchResult = {}
     for i in range(0,len(filenames)):
         searchResult[filenames[i]] = contents[i]
@@ -183,7 +183,7 @@ def viewOrigin(filename):
     txtPath = str(os.path.splitext(filepath)[0])+'.txt'
     with open(txtPath,'r+') as f:
         text = f.read()
-    print(text)
+    #print(text)
     return render_template('viewOrigin.html', file_name=filename, text_ocr=text, pdf =PdfType(filename))
 
 def init():
@@ -200,4 +200,3 @@ if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
     init()
     app.run()
-
