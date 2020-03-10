@@ -1,6 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
-    "python.pythonPath": "/usr/bin/python3",
+    "python.pythonPath": "C:\\Users\\tranmanhdat\\Anaconda3\\envs\\ocr\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }

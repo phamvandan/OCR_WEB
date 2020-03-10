@@ -8,7 +8,7 @@ from utils.skew import skewImage
 from utils.DetectTable import detectTable
 from utils.handleTable import getTableCoordinate,retreiveTextFromTable,getInput
 from utils.ScanText import GetText,GetTextLayout
-import os
+import os, time
 # import imutils
 import cv2
 # from docx import Document
@@ -143,10 +143,14 @@ def ocrFile(filepath,docx,skew_mode,deblur_mode,basicTable,advanceTable):
         count = pdfToImage(path, currentFolder) ## convert to image
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
+        print('Start OCR')
         for image in names:
             imagepath = os.path.join(str(currentFolder), image)
+            start = time.time()
             resultTable = handleFile(imagepath,filepath,True,docx=docx,skew = skew_mode,deblur=deblur_mode,handleTableBasic=basicTable,handleTableAdvance=advanceTable)
         # k = 0
+            end = time.time()
+            print('Total time OCR '+str(image) +' : ' +str(start-end))
             for rs in resultTable:
                 # if k %4 == 0:
                 #     result = result + "\n"
