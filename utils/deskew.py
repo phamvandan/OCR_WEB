@@ -10,7 +10,7 @@ from skimage import io
 from utils.rotation import rotateAndScale
 
 import pytesseract
-import re
+import re,imutils
 
 class Deskew:
 
@@ -21,7 +21,12 @@ class Deskew:
 
     def deskew(self):
         
-        img = self.image
+        img = self.image.copy()
+        (h,w) = img.shape[:2]
+        if w > 500:
+            img = imutils.resize(img,width=500)
+        (h,w) = img.shape[:2]
+        img = img[h//4:3*h//4,w//4:3*w//4]
         res = self.skew_obj.process_single_file(img)
         angle = res['Estimated Angle']
 
@@ -37,9 +42,8 @@ class Deskew:
         newdata=pytesseract.image_to_osd(rotated)
         angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
         angle = float(angle)
-        rotated = rotateAndScale(rotated, angle)
-
         rot_angle = rot_angle + angle
+        rotated = rotateAndScale(self.image, rot_angle)
         return rotated,rot_angle
 
     def run(self):

@@ -1,4 +1,5 @@
 from utils.deskew import Deskew
+import imutils
 
 def skewImage(image):
 	d = Deskew(image)
