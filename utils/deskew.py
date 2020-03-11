@@ -37,10 +37,12 @@ class Deskew:
             rot_angle = 90 + angle + self.r_angle
 
         rotated = rotateAndScale(img, rot_angle)
-
-        newdata=pytesseract.image_to_osd(rotated)
-        angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
-        angle = float(angle)
+        try:
+            newdata=pytesseract.image_to_osd(rotated)
+            angle =  re.search('(?<=Rotate: )\d+', newdata).group(0)
+            angle = float(angle)
+        except:
+            angle = 0
         rot_angle = rot_angle + angle
         rotated = rotateAndScale(self.image, rot_angle)
         return rotated,rot_angle
