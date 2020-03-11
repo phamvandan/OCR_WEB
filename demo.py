@@ -172,6 +172,12 @@ def searchfile():
         file = source['_source']
         filenames.append(file['id'])
         content = add_tag(words,file['content'])
+        content = content.split(".")
+        rs = []
+        for t in content:
+            if "<b>" in t:
+                rs.append(t)
+        content = listToString(rs)
         contents.append(content)
     #print(filenames)
     #print(contents)
