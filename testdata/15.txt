@@ -1,0 +1,493 @@
+'VIỆN KH-CN QUẦN SỰ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+'VIỆN CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc.
+Số: 46 /VCNTT-HTTQL Hà Nội, ngày -I' tháng o4 năm 2016
+'V/v Báo cáo kết quả thẩm tra thiết kế kỹ
+thuật và tổng dự toán dự án “Xây dựng.
+mạng thông tin chỉ thị mục tiêu qua vệ tỉnh
+cho các tô hợp vũ khí trên tàu và trên bờ.
+trong Quân chủng Hải quân - giai đoạn 1”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kính gửi: Bộ Tư lệnh Hải quân.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Căn cứ Hợp đồng số 1301/HĐ/BTLHQ-VCNTT ký ngày 13 tháng I năm
+2016 giữa Cục Kỹ thuậtBộ Tư lệnh Hải quân và Viện Công nghệ thông tin về
+việc thực hiện tư vấn Thẩm tra thiết kế và dự toán của dự án “Xây dựng mạng,
+thông tin chỉ thị mục tiêu qua vệ tỉnh cho các tổ hợp vũ khí trên tàu và trên bờ
+trong Quân chủng Hải quân - giai đoạn 1”.
+
+Sau khi nhận được Hồ sơ Thiết kế kỹ thuật-Tổng dự toán (TKKT-TDT)
+dự án “Xây dựng mạng thông tin chỉ thị mục tiêu qua vệ tỉnh cho các tổ hợp vũ
+khí trên tàu và trên bờ trong Quân chủng Hải quân - giai đoạn 1” do Viện Tích
+hợp hệ thống/HVKTQS lập cùng các tài liệu kèm theo, Viện Công nghệ thông,
+tin đã tiến hành thẩm tra các nội dung của hồ sơ TKKT-TDT. Kết quả thẩm tra
+cụ thể như sau:
+
+1. Các căn cứ thẪm tra
+
+~ Luật Đầu tư công số 49/2014/QH13 ngày 18/6/2014 của Quốc hội;
+
+- Luật Xây dựng số 50/2014/QH13 ngày 18/06/2014 của Quốc hội;
+
+- Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006 của Quốc
+
+ 
+
+ 
+
+ 
+
+- Nghị định số 60/2003/NĐ-CP ngày 06/6/2003 của Chính phủ quy định
+chỉ tiết và hướng dẫn thi hành Luật Ngân sách nhà nước;
+
+- Nghị định số 59/2015/NĐ-CP ngày 18/06/2015 của Chính phủ về quản
+lý dự án đầu tư xây dựng;
+
+- Nghị định số 32/2015/NĐ-CP, ngày 25/03/2015 của Chính phủ về quản
+lý chỉ phí đầu tư xây dựng;
+
+- Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 về việc Ứng dụng Công.
+nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+- Nghỉ định số 102/2009/NĐ-CP ngày 06/11/2009 của Chính phủ về việc
+Quản lý đầu tư ứng dụng Công nghệ thông tin sử dụng nguồn vốn ngân sách nhà
+nước;
+
+- Thông tư số 75/2010/TT-BQP ngày 12/6/2010 hướng dẫn chỉ tiết một số
+nội dung về quản lý đấu thầu trong BQP; số 140/2010/TT-BQP ngày 08/8/2011
+quy định giảm trừ chỉ phí đối với các gói thầu áp dụng hình thức chỉ định thầu
+hoặc tự thực hiện trong BQP;
+- Quy chế quản lý và sử dụng ngân sách đặc biệt ban hành kèm theo
+Quyết định số 2131/1999/QĐ-BQP ngày 04/10/1999 của Bộ trưởng BQP;
+
+- Quyết định số 3073/QĐ-BQP ngày 118/2014 của Bộ trưởng BQP về
+việc điều chỉnh kế hoạch sử dụng ngân sách đặc biệt giai đoạn 2006-2010, 201 1-
+2020 và giao chỉ tiêu kế hoạch sử dụng ngân sách đặc biệt năm 2014;
+
+- Quyết định số 3842/QĐ-BQP của Bộ Quốc phòng ngày 21/09/2015 về
+việc phê duyệt dự án “Xây dựng mạng thông tỉn chỉ thị mục tiêu qua vệ tỉnh cho.
+các tô hợp vũ khí trên tàu và trên bờ trong Quân chủng Hải quân - giai đoạn 1”;
+
+- Hồ sơ TKTC-TDT dự án “Xây dựng mạng thông tin chỉ thị mục tiêu qua
+vệ tỉnh cho các tổ hợp vũ khí trên tàu và trên bờ trong Quân chủng Hải quân -
+giai đoạn I” và các tài liệu kèm theo.
+
+1. Tóm tắt dự án
+
+_ 1. Tên dự án: Xây dựng mạng thông tin chỉ thị mục tiêu qua vệ tỉnh cho
+các tổ hợp vũ khí trên tàu và trên bờ trong Quân chủng Hải quân - giai đoạn 1.
+
+2. Cơ quan chủ quân đầu tr: Bộ Quốc phòng.
+
+3. Chủ đâu t«: Bộ Tư lệnh Hải quân.
+
+4. Cơ quan tư vấn thiết kế - dự toán: Viện Tích hợp Hệ thống/HVKTQS.
+
+3. Chủ trì thiết kế: PGS. TS Lê Anh Dũng.
+
+6. Mục tiêu đầu tre:
+
+Xây dựng mạng thông tin chỉ thị mục tiêu qua vệ tỉnh cho các tàu tên lửa
+và đơn vị tên lửa bờ của Quân chủng Hải quân, nhằm:
+
+- Đảm bảo tiếp nhận và phân phối bức tranh tình huống từ mạng rađa bờ,
+mạng thu AIS, tàu cá giả danh và các nguồn tin khác.
+
+- Hỗ trợ hoạt động chỉ huy điều hành tác chiến với các khả năng quản lý,
+phân tích, đánh giá tình huống; nhận biết mục tiêu cần tiêu diệt, xác định và
+truyền chỉ thị mục tiêu cùng các mệnh lệnh, thông tin, hình ảnh, thông báo khác
+đến từng tàu hay đơn vị tên lửa bờ được giao nhiệm vụ, nhằm rút ngắn thời gian
+và nâng cao xác suất tiêu diệt mục tiêu.
+
+- Hỗ trợ tổ chức và triển khai công tác huấn luyện chiến đấu; hỗ trợ thực
+hiện các nhiệm vụ thường xuyên khác.
+
+ 
+
+7. Quy mô và nội dung đầu tr:
+
+7.1. Xây dựng mạng thông tin vệ tỉnh chỉ thị mục tiêu trên băng tần Ku
+mở rộng, modem iDireet tương thích, có khả năng truyền thoại, dữ liệu, hình
+ảnh và video, bao gồm 04 trạm VSAT trên tàu và trên bờ:
+
+a) Nhập khẩu thiết bị VSAT; vật tư dự phòng; hệ thống quang phục vụ
+triển khai; dịch vụ vận chuyển, lắp đặt, tích hợp và kiểm thử thiết bị. Đảo tạo
+chuyển giao công nghệ nước ngoài:
+
+- 01 trạm VSAT tại SCH Vùng 4: Sử dụng anten đường kính 3,8m; 01 bộ
+khuếch đại công suất BUC >16W.
+- 02 trạm VSAT tàu Gepard 3.9 và tàu cá giả danh: sử dụng anten C2SAT.
+đường kính 1,2m; 01 bộ khuếch đại công suất BUC >16W.
+
+- 01 trạm VSAT tại Lữ đoàn tên lửa bờ Bastion: sử dụng xe VSAT cơ
+động Cobham 7100, 01 bộ khuếch đại công suất BUC >I6W. Xe VSAT kết nói
+với xe chỉ huy bằng cáp quang.
+
+b) Trang bị các thiết bị bảo mật cơ yếu và tích hợp mạng này vào mạng
+thông tin vệ tỉnh của Binh chủng Thông tin liên lạc.
+
+7.2. Cung cấp, lắp đặt thiết bị phần cứng, phần mềm; đảo tạo, huấn luyện
+sử dụng các trang thiết bị hệ thống chỉ thị mục tiêu và kết nối qua mạng VSAT:
+
+- Tại SCH Vùng 4: Trang bị hệ thống C2 (chỉ huy, kiểm soát và chỉ thị
+mục tiêu) hỗ trợ đánh giá tình huống và giải bài toán phân phối, chỉ thị mục tiêu.
+
+- Trên tàu cá giả danh (TK-1482C): Trang bị hệ thống quan sát tích hợp
+gồm 01 bộ quang điện tử (nhập khẩu), 01 máy thu AIS, tích hợp với kênh VSAT
+cùng các thiết bị liên quan khác sẵn có trên tàu (ra đa hàng hải, GPS, máy tính
+đường, la bàn, ...) thực hiện chức năng phát hiện, bám sát và chỉ thị mục tiêu.
+
+- Trên tàu tên lửa Gepard 3.9 và tại Lữ đoàn tên lửa bờ Bastion: Trang bị
+trạm đầu cuối chỉ thị mục tiêu, tích hợp với kênh VSAT và hệ thống điều khiển
+bắn tên lửa.
+
+8. Địa điểm đầu tư:
+
+Trang thiết bị được đầu tư theo dự án phục vụ nhiệm vụ chỉ thị mục tiêu
+được thiết kế chỉ tiết và bố trí như sau:
+
+8.1. SCH Vùng 4:
+
+- Trạm VSAT trên bờ gồm thiết bị VSAT, truyền hình hội nghị, video
+streaming (theo hợp đồng ngoại);
+
+- Hệ thống C2 (chỉ huy, kiểm soát và chỉ thị mục tiêu).
+
+8.2. Tàu cá TK-1482C:
+
+- Trạm VSAT trên tàu gồm thiết bị VSAT, truyền hình hội nghị, video
+streaming, hệ thống quang điện tử (theo hợp đồng ngoại);
+
+- Trạm đầu cuối chỉ thị mục tiêu và trạm quan sát tích hợp.
+
+8.3. Lữ đoàn tên lửa bờ 681:
+
+- Trạm VSAT trên xe cơ động gồm xe và thiết bị VSAT lắp trên xe, bộ
+cáp quang kết nối kéo dài, thiết bị truyền hình hội nghị, video streaming (theo.
+hợp đồng ngoại);
+
+- Trạm đầu cuối chỉ thị mục tiêu và thiết bị tích hợp với hệ thống điều
+khiển tên lửa.
+
+8.4. Tàu Gepard 3.9:
+
+- Trạm VSAT trên tàu gồm thiết bị VSAT, truyền hình hội nghị, video
+streaming (theo hợp đồng ngoại);
+- Thiết bị tích hợp với hệ thống điều khiển tên lửa (đã bao gồm chức năng
+trạm đầu cuối chỉ thị mục tiêu).
+
+. # Tổng dự foán: 3.500.000 USD tương đương 78.890.000.000 đồng
+(Bằng chữ: Ba triệu năm trăm nghìn đô la Mỹ tương đương Bảy mươi tám gỷ,
+tám trăm chín mươi triệu đồng, với tỷ giá ngoại tệ tạm tính là 1 USD = 22.540
+đồng).
+
+Trong đó:
+- Thiết bị, dịch vụ nhập khẩu chưa bao gồm các loại thuế, phí: 2.543.590.
+USD tương đương 57.332.518.825 đ
+- Thiết bị trong nước:
++ Hệ thống C2 tại SCH Vùng 4: 8.020.940.000 đ
++ Trạm đầu cuối chỉ thị mục tiêu: 3.205.040.000 đ
++ Trạm quan sát tích hợp trên tàu cá: 1.228.800.000 đ
++ Thiết bị tích hợp cho tổ hợp Bastion: 1.685.392.000 đ
++ Thiết bị tích hợp cho tàu Gepard 3.9: 2.587.200.000 đ
++ Thiết bị bảo mật cơ yếu: 1.233.000.000 đ
+- Chỉ phí quản lý dự án: 520.152.000 đ
+~ Chỉ phí tư vấn đầu tư: 665.903.000 đ
+- Chỉ phí khác: 1.496.118.632 đ
+- Chỉ phí dự phòng: 914.935.543 đ
+10. Nguồn vốn:
+
+Ngân sách đặc biệt (3.500.000 USD) được phân bổ tại Quyết định số
+3073/QĐ-BQP ngày 11/08/2014 của Bộ trưởng Bộ quốc phòng về việc điều
+chỉnh kế hoạch sử dụng ngân sách đặc biệt giai đoạn 2006-2010, 2011-2020 và
+giao chỉ tiêu kế hoạch sử dụng ngân sách đặc biệt năm 2014.
+
+11. Thời gian, tiến độ thực hiện: Năm 2015-2016.
+
+12. Hình thức quản lý dự án: Chủ đầu tư trực tiếp quản lý dự án.
+
+13. Hình thức đầu tư: Mua sắm, lắp đặt và huấn luyện sử dụng thiết bị
+
+14. Phương thức thực hiện mẻ án:
+
+- Thiết bị, dịch vụ nhập khẩu: Thông, qua đàm phán trực tiếp với đối tác
+và ký kết hợp đồng nhập khâu, thực hiện theo Quy chế xuất khẩu, nhập khẩu và
+mua sắm hàng hóa quốc phòng ban hành kèm theo Quyết định số 84/2007/QĐ-
+BQP ngày 18/5/2007 của Bộ trưởng Bộ Quốc phòng.
+
+- Hệ thống bảo mật cơ yếu mạng VSAT: Giao Cục Cơ yếu/BTTM chủ trì
+phối hợp với BTL Hải quân triển khai thực hiện.
+
+~ Các nội dung khác: Đấu thầu theo quy định.
+
+II. Các nội dung thẩm tra
+
+1. Thẩm tra Thiết kế kỹ thuật
+Thuyết mình thuyết kế kỹ thuật các nội dung phần mềm và thiết bị công,
+nghệ được trình bảy với các nội dung chính sau:
+TT — Nội dung Thiết kê kỹ thuật Ghi chú 
+1 Tổng quan Chương 1, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+" Thiết kê chung mạng chỉ thị mục tiêu Chương 2, Hồ sơ Thiêt kế kỹ thuật - Tổng dự toán dự án 
+H.I1 Các tiền đề xây dựng hệ thống Mục 2.], Hồ sơ Thiêt kê kỹ thuật - Tông dự toán dự án 
+H.2 Xây dựng mạng thông tin chỉ thị mục tiêu Mục 2.2, Hồ sơ Thiệt kê kỹ thuật - Tông dự toán dự án 
+IL3 Xây dựng mạng thông tin vệ tính VSAT Mục 2.3, Hồ sơ Thiêt kê kỹ thuật - Tông dự toản dự án 
+I.4 Cấu hình và phương thức hoạt động Mục 2.4, Hồ sơ Thiệt kê kỹ thuật - Tông dự toán dự án 
+li Thiết kế mạng thông tin VSAT Chương 3, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+HH1 Thiết kế chung Mục 3.1, Hỗ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+M2 Các trạm VSAT Mục 3.2, Hỗ sơ Thiệt kê kỹ thuật - Tổng dự toán dự án 
+IH.3 Modem vệ tỉnh Mục 3.3, Hồ sơ Thiêt kê kỹ thuật - Tông dự toán dự án 
+IH.4 Tôi ưu hóa kênh truyền vệ tỉnh và bảo mật kênh Mục 3.4, Hô sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+II.S Phân tích nhu câu băng thông vệ tỉnh Mục 3.5, Hồ sơ Thiết kê kỹ thuật ~ Tổng dự toán dự án 
+I6 Giải pháp màn hình lớn BARCO OL521 Mục 3.6, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+IIL7 Hệ thống Video Streaming Extron Mục 3.7, Hồ sơ Thiệt kê kỹ thuật - - Tổng dự toán dự án 
+II.8 Hệ thông truyền hình hội nghị VCS §X20 Mục 3.8, Hỗ sơ Thiết kề kỹ thuật - Tổng dự toán dự án 
+I9 Hệ thống quang điện tử Mục 3.9, Hồ sơ Thiết kê kỹ thuật - ~ Tổng dự toán dự án 
+HI.10 Danh mục thiết bị VSAT Mục 3.10, Hỗ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+IV Thiết kế hệ thống C2 Chương 4, Hồ sơ Thiệt kê kỹ thuật - Tổng dự toán dự án 
+IV.I Nhiệm vụ, thành phần Mục 4.1, Hồ sơ Thiết kế kỹ thuật ~ Tông dự toán dự án 
+Ly. Thiệt kê chức năng hệ thông Mục 4.2, Hồ sơ Thiết kế kỹ thuật ˆ 
+
+—” mm - 1 „+ 15. Ƒ - Tông dự toản dự án 
+eee 
+Mục 4.3, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+IV.3 Công nghệ phần mềm 
+Mục 4.4, Hồ sơ Thiệt kê kỹ thuật - Tổng dự toán dự án 
+IV.4 Cấu hình và tham số kỹ thuật 
+`*S#£..- AE TI2 =x'Th:ấv TÚ Mục 4.5, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+IV.5 Thiết kế phần mềm C2 
+“1... - PP, TXWES „ Chương 5, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+Vv HN VÂU ĐÃ ơn Z Thiết kế trạm đã  mục tiêu  u cuôi chỉ thị 
+Mục 5.1, Hỗ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+V.I Nhiệm vụ, thành phần 
+V2 Thiết kế chức năng phần mềm Mục 5.2, Hô sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+V43 Đặc điểm công nghệ Mục 5.3, Hô sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+V.4 Thiết kế phần mềm trạm đầu cuối Mục 5.4, Hồ sơ Thiệt kê kỹ thuật - Tổng dự toán dự án 
+V5 Danh mục và tham số thiết bị Mục 5.5, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+1 Thiệt kê trạm đầu cuồi chỉ thị mục tiêu Chương 6, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dư án 
+VILLI Thiết kế chung Mục 6.1, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+VI.2 Thiết kế kết nối các thiết bị trên tàu Mục 6.2, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+VI3 Sơ đồ lắp đặt thiết bị trên tàu Mục 6.3, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+VỊ.4 Danh mục thiết bị Mục 6.4, Hồ sơ Thiệt kê kỹ thuật - Tổng dự toán dự án 
+VI Thiệt kế thiệt bị tích hợp cho tàu Gepard 3.9 Chương 7, Hồ sơ Thiết kế kỹ thuật - Tổng dự toán dự án 
+VH.1 Phân tích thiết kế hệ thống Mục 7.1, Hồ sơ Thiết kê kỹ thuật - Tông dự toán dự án 
+VH.2 Thiết kế thiết bị tích hợp Mục 7.2, Hỗ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+VỊI.3 Danh mục thiết bị Mục 7.3, Hô sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+0 Thiết kề thiết bị tích hợp cho tô hợp Bastion Chương 8, Hồ sơ Thiêt kế kỹ thuật - Tổng dự toán dự án 
+VHI.I Phân tích thiết kế hệ thống Mục 8.1, Hỗ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+VIII.2 Thiết kề phương án đặt thiết bị tích Mục 8.2, Hỗ sơ Thiết kê kỹ thuật 
+
+TT Nội dung Thiết kề kỹ thuật Ghi chủ 
+- Tông dự toán dự ản 
+hợp trên xe điều khiên MBY 
+VHII.3 Thiêt kê phương án đặt thiết bị tích hợp trên xe ra đa [IPJIK Mục 8.3, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+IX Các sơ đồ thiết kế chung Chương 9, Hồ sơ Thiết kê kỹ thuật - Tổng dự toán dự án 
+*® ° Z4,
+2. ThÂm tra Dự toán
+Dự toán các nội dung phần mềm và thiết bị công nghệ được trình bày với
+các nội dung chính sau:
+TT Núi dung Dư toán Ghi chú 
+1 Tổng dự toán Mục 10.1, Hồ sơ Thiết kề kỹ thuật - Tổng dư toán dự án 
+H Bảng giải trình hạng mục Mục 10.2, Hồ sơ Thiệt kê kỹ thuật - Tông dư toán dự án 
+„I Dự toán chỉ tiết Mục 10.3, Hồ sơ Thiết kê kỹ thuật - Tổng dư toán dư án 
+HI.I Chỉ phí thiệt bị, dịch vụ nhập khâu chưa bao gỗm các loại thuê, phí Mục 10.3.1, Hỗ sơ Thiết kê kỹ thuật - Tông dự toán dự án 
+I2 Chỉ phí thiết bị trong nước Mục 10.3.2, Hỗ sơ Thiệt kê kỹ thuật - Tông dự toán dự án 
+Tổng hợp Đự toán toàn bộ dự án và các nội dung phần mềm, thiết bị công
+nghệ như sau:
+TT Nội dung, hạng mục đầu tư Š  hi  s12  u Kinh phí (USD) Tương đương (đồng) 
+A CHI PHÍ THIẾT BỊ TH 3.340.412 15.292.890.825 
+1 THIẾT BỊ, DỊCH VỤ NHẬP KHẨU Rrra 2.343.590 37.332.518.825 
+L1 Thiết bị VSAT 2.162.051 48.732.037.654 
+1.2 Dịch vụ lắp đặt, tích hợp và kiêm thử 381.539 8.599.881.171 
+H THIẾT BỊ TRONG NƯỚC TH? 796.822 17.960.372.000 
+Il.1 Hệ thông C2 tại SCH Vùng 4 355.854 8.020.940.000 
+IL.2 Trạm đâu cuôi chỉ thị mục tiêu (01 trạm cho tàu cá và 01 trạm cho tô hợp Bastion) 142.193 3.205.040.000 
+11.3 Trạm quan sát tích hợp trên tàu cá 34.516 1.228.800.000 
+I.4 Thiết bị tích hợp cho tô hợp Bastion (phù hợp với cả 2 phương án: lắp trên xe rađa hoặc trên xe MBY) 74.773 1.685.392.000 
+[1.5 Thiết bị tích hợp cho tàu Gepard 114.783 2.587.200.000 
+
+Tương đương (đồng) 
+TT Nội dung, hạng mục đầu tư Ký hiệu Kinh phí (USD) 
+
+3.9 (đã bao gôm chức năng trạm đầu cuối) 
+[L6 Thiết bị bảo mật cơ yêu 54.703 1.233.000.000 
+54 CHI PHÍ QUẢN LÝ DỰ ÁN GniDA 23.077 520.152.000 
+Cc CHI PHÍ TƯ VẬN ĐẢU TƯ Grv 29.543 665.903.000 
+Db CHI PHÍ KHÁC Gx 66.376 1.496.118.632 
+E CHI PHÍ DỰ PHÒNG Gpp 40.592 914.935.543 
+TỎNG CỘNG (A~+F) 3.500.000 78.890.000.000 
+kở
+IV. Kết quả thẩm tra
+
+1. Nhận xét chung
+
+- Hồ sơ thiết kế kỹ thuật tổng dự toán được lập phù hợp với các quy định
+về đầu tư, quy định về thiết kế hiện hành. Hỗ sơ thiết kế kỹ thuật-tổng dự toán
+đã thể hiện rõ giải pháp kỹ thuật công nghệ trang thiết bị cũng như giải pháp
+phần mềm; các tính năng kỹ thuật đã được thẻ hiện đầy đủ trong tài liệu; các bản
+vẽ thiết kế kỹ thuật được thê hiện đầy đủ và chỉ tiết.
+
+- Hồ sơ thiết kế kỹ thuật được trình bày khoa học, đầy đủ các mục nội
+dung, cấu trúc chặt chẽ, thẻ hiện được các vấn đề cơ bản của nội dung thiết kế
+và tông dự toán (heo quy định nêu trong Nghị định số 59/2015/NĐ-CP; Nghị
+định số 32/2015/NĐ-CP; Nghị định số 102/2009/NĐ-CP và phù hợp với thiết ké
+cơ sở đã được phê duyệt tại Quyết định số 3842/QĐ-BQP của Bộ Quốc phòng.
+
+- Viện Tích hợp Hệ thống/HVKTQS được Chủ đầu tư chọn làm đơn vị tư
+vấn thiết kế có đủ chức năng, kinh nghiệm và điều kiện cần thiết theo quy định.
+Cá nhân người chủ trì thiết kế kỹ thuật có đủ kinh nghiệm và điều kiện cần thiết
+theo quy định.
+
+2. Kết quả thẩm tra thiết kế kỹ thuật
+
+- Các nội dung của thiết kế kỹ thuật cơ bản tuân thủ theo thiết kế cơ sở
+của dự án đã được phê duyệt. Nội dung thiết kế cũng đã tuân thủ các quy chuân,
+tiêu chuẩn kỹ thuật theo quy định của Nhà nước và Bộ Quốc phòng. Các giải
+pháp kỹ thuật công nghệ thiết bị, phần mềm là hợp lý.
+
+- Về giải pháp công nghệ: Hồ sơ thiết kế đã thuyết mình đầy đủ các nội
+dung về giải pháp trang thiết bị VSAT, Trạm đầu cuối, Hệ thống C2, thiết bị tích
+hợp, giải pháp phần mềm C2 và giải pháp mạng VSAT chỉ thị mục tiêu.
+
+- Về các yêu cầu kỹ thuật cần đáp ứng: Hồ sơ thiết kế đã nêu rõ các yêu
+cầu kỹ thuật hạ tầng, các tiêu chuẩn thi công hệ thống thiết bị công nghệ, phần
+mềm đầu tư chỉ tiết theo các hạng mục.
+
+- Về nội dung thiết kế các hệ thống thành phần: Đã thuyết minh thiết kế
+chỉ tiết các nội dung hệ thống thành phần để làm cơ sở thi công các hệ thống sau
+này.
+~ Về nội dung đào tạo chuyển giao: Lưu ý phải tính toán đủ về số lượng
+người học, nội dung đào tạo để đảm bảo chất lượng, đặc biệt chú trọng bồi
+dưỡng đội ngũ quản trị vận hành hệ thống trang thiết bị và phần mềm.
+
+~ Về bảo mật an toàn: Lưu ý tuân thủ các quy định về bảo mật, an toàn hệ
+thống.
+
+3. Kắt quả thẳm định dự toán
+
+'Tổng dự toán dự án là: 3.500.000 USD tương đương 78.890.000.000 đồng,
+(Bằng chữ: Ba triệu năm trăm nghìn đô la Mỹ tương đương Bảy mươi tám pÿ,
+tám trăm chín mươi triệu đồng theo tỷ giá ngoại tệ tạm tính là 1 USD = 22.540
+đồng). Tổng dự toán bằng đúng tổng mức đầu tư được Bộ Quốc phòng phê
+duyệt tại văn bản Quyết định số 3842/QĐ-BQP ngày 21/09/2015 của Bộ trưởng,
+Bộ Quốc phòng là 3.500.000 USD. Về cơ bản là phù hợp giữa khối lượng thiết
+kế thi công và khối lượng dự toán.
+
+3) 'Về căn cứ để lập dự toán: Khi lập dự toán, Chủ đầu tư và cơ quan tư
+vấn thiết kế đã áp dụng đúng các định mức kinh tế - kỹ thuật, mức chỉ phí, đơn
+giá theo quy định, tuân thủ theo quyết định phê duyệt của Bộ Quốc phòng. Cụ
+thể như sau:
+
+- Về dự toán thiết bị, dịch vụ nhập khẩu: Căn cứ theo báo giá và kết quả
+đàm phán cụ thể với đối tác nước ngoài để xây dựng nội dung, giá trị hợp đồng
+ngoại nhập khẩu theo đúng qui định.
+
+- Về dự toán thiết bị trong nước: Căn cứ theo đơn giá đã được phê duyệt
+tại Quyết định phê duyệt dự án số 3842/QĐ-BQP ngày 21/09/2015 trên cơ sở
+kiểm tra báo giá trang thiết bị, phần mềm của các nhà cung cấp tại thời điểm dự
+toán.
+
+~ Về dự toán chỉ phí quản lý dự án, chỉ phí tư vấn đầu tư: Căn cứ Quyết
+định số 3842/QĐ-BQP ngày 21/09/2015 của Bộ Quốc phòng; Quyết định
+957/2009/QĐ-BXD của Bộ Xây dựng;
+
+- Về dự toán các chỉ phí khác: Căn cứ Quyết định 3842/QĐ-BQP ngày
+21/09/2015;Thông tư số 176/2011/TT-BTC ngày 06/12/2011 và Thông tư số
+19/2011/TT-BTC ngày 14/2/2011 của Bộ Tài chính; Thông tư số 22/2010/TT-
+BKH của Bộ KH&ĐT.
+
+- Về quy mô đầu tư: Tuân thủ Quyết định số 3842/QĐ-BQP ngày
+21/09/2015 của Bộ Quốc phòng.
+
+b) Dự toán của một số nội dung có sự thay đổi so với phê duyệt của Bộ
+Quốc phòng, cụ thể như sau:
+
+- Về chỉ phí thiết bị, địch vụ nhập khẩu: tăng 23.687 USD. Lý do:
+
++ Giá trị hạng mục thiết bị VSAT giảm đi 73.044 USD; Không mua sắm
+hạng mục hệ thống quang phục vụ triển khai (giảm 27.246 USD) theo kết quả
+đàm phán với đối tác nước ngoài.
+
++ Giá trị hạng mục dịch vụ, lắp đặt và kiểm thử tăng lên 123.978 USD.
+theo kết quả đàm phán với đối tác nước ngoài.
+- Về ch phí thiết bị trong nước: giảm 10.310 USD. Lý do:
+
++ Dự toán các hạng mục Hệ thống C2, Trạm đầu cuối CTMT, Trạm quan
+sát trên tàu cá, Thiết bị tích hợp cho Bastion, Thiết bị tích hợp cho tàu Gepard
+3.9: giảm 29.688 USD do cập nhật, tính toán theo tỷ giá tại thời điểm dự toán là
+1 USD = 22.540 VNĐ trên cơ sở lấy giá trị VNĐ tương đương tại Quyết định
+3842/QĐ-BQP ngày 21/09/2015 để tính toán.
+
++ Dự toán hạng mục thiết bị bảo mật cơ yếu tăng 19.738 USD theo dự
+của Cục cơ yếu/BTTM tại thời điểm dự toán.
+
+~ Về chỉ phí quản lý dự án, chỉ phí tư vấn đầu tư: giảm 2.105 USD do cập
+nhật, tính toán theo tỷ giá tại thời điểm dự toán là 1 USD = 22.540 VNĐ. trên cơ
+sở lấy giá trị VNĐ tương đương tại Quyết định 3842/QĐ-BQP ngày 21/09/2015
+để tính toán.
+
+- Về chỉ ¡ phí khác: tăng, 2.976 USD do điều chỉnh phí nhập khẩu ủy thác
+theo giá trị thiết bị nhập khâu và bổ sung chỉ phí kiểm tra an ninh toàn bộ thiết
+bị của dự án nhằm đảm bảo tính bảo mật của hệ thống,
+
+- Về chỉ phí dự phòng: giảm 14.249 USD theo tỷ lệ các hạng mục chỉ phí.
+
+V. Đề nghị chung
+
+Trên cơ sở kết quả thâm tra ở trên, đề nghị chủ đầu tư và cơ quan tư vấn
+thiết kế chỉnh sửa hoàn thiện hò sơ, tính toán điều chỉnh nội dung và kinh phí
+phù hợp với quy định, đảm bảo tổng dự toán không vượt tổng mức đầu tư.
+
+ 
+
+Trên đây là kết quả thẩm tra của Viện Công nghệ thông tin/Viện KH-
+CNQS về các nội dung Hồ sơ TKKT-TDT dự án “Xây dựng mạng thông tin chỉ
+thị mục tiêu qua vệ tỉnh cho các tổ hợp vũ khí trên tàu và trên bờ trong Quân
+chủng Hải quân - giai đoạn 1”.  „/_
+
+ 
+
+ 
+
+ 
+
+ 
+
+VIỆN TRƯỞNG
+
+ 
+
+   
+
+Nơi nhận:
+
+~ Như trên;
+
+~ Viện Tích hợp hệ thống/HVKTQS;
+~ Lưu: HTTQL; Ð03.
+
+ 
+
+ 
+
+ 
+
+Đại tá Lê Quang Đức

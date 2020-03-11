@@ -7,6 +7,6 @@ from utils.supportFunc import preprocessFile
 from utils.detai import ocrFile
 import requests
 
-text_ocr = ocrFile("/home/trandat/project/OCR_WEB/1938.pdf",True,True,True,True,False)
+text_ocr = ocrFile("./testdata/15.pdf",True,True,True,True,False)
 
-print(text_ocr)
+# print(text_ocr)

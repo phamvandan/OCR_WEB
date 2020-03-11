@@ -26,20 +26,30 @@ def handleFile(fileName,pdfFileName,pdf,docx = False,skew = False,deblur=False,h
     
     # handle skew
     if skew:
+        start = time.time()
         img = skewImage(img)
+        end = time.time()
+        print('deskew take : '+"{0:.2f}".format(end-start))
     # skew.printImage(img)
     # handle table with not auto fill
     if handleTableBasic or handleTableAdvance:
+        start = time.time()
         if handleTableBasic:
             mask = detectTable(img).run(1)
         else:
             mask = detectTable(img).run(2)
+        end = time.time()
+        print('table handle take '+"{0:.2f}".format(end-start))
         mask_img = mask
         ## resize
+        start = time.time()
         listResult, listBigBox = getTableCoordinate(mask_img)
+        end = time.time()
+        print('getTableCoordinate take '+"{0:.2f}".format(end-start))
         # resize image ?
         img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
         resultTable = ""
+        start = time.time()
         if not docx:
             resultTable = GetText(listResult,listBigBox,img)
         else:
@@ -49,6 +59,8 @@ def handleFile(fileName,pdfFileName,pdf,docx = False,skew = False,deblur=False,h
             else:
                 fileNamewithoutExtension = os.path.splitext(pdfFileName)[0]
                 resultTable = GetTextLayout(listResult,listBigBox,img,fileNamewithoutExtension+".docx")
+        end = time.time()
+        print('docx take '+"{0:.2f}".format(end-start))
     return resultTable
 import datetime
 def saveResult(folder,saveFileName,result):
@@ -143,14 +155,14 @@ def ocrFile(filepath,docx,skew_mode,deblur_mode,basicTable,advanceTable):
         count = pdfToImage(path, currentFolder) ## convert to image
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
-        print('Start OCR')
         for image in names:
+            print('Start OCR'+str(image)+'-------------------------------')
             imagepath = os.path.join(str(currentFolder), image)
             start = time.time()
             resultTable = handleFile(imagepath,filepath,True,docx=docx,skew = skew_mode,deblur=deblur_mode,handleTableBasic=basicTable,handleTableAdvance=advanceTable)
         # k = 0
             end = time.time()
-            print('Total time OCR '+str(image) +' : ' +str(start-end))
+            print('Total time OCR '+str(image) +' : ' +"{0:.2f}".format(end-start))
             for rs in resultTable:
                 # if k %4 == 0:
                 #     result = result + "\n"
