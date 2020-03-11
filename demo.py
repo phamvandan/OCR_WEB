@@ -8,10 +8,11 @@ from utils.detai import ocrFile
 import os, re
 import json
 import os
+from support import listToString,add_tag
 app = flask.Flask(__name__)
 
 
-app.secret_key = "tranmanhdat"
+app.secret_key = "phamvanda"
 app.config["DEBUG"] = True
 app.config['UPLOAD_FOLDER'] = os.getcwd() + '/static/demo'
 app.config['MAX_CONTENT_LENGTH'] = 200 * 1024 * 1024
@@ -20,7 +21,7 @@ def allowed_file(filename):
 	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 currentFile = ''
-mac = 'tranmanhdat'
+mac = 'phamvanda'
 document = 'document'
 ip = "http://localhost:9200"
 url = ip+"/"+mac+"/"+document+"/"
@@ -142,11 +143,11 @@ def search():
 def searchfile():
     #do something
     text = request.form['text']
-    #print("text : "+text)
+    words = text.split(" ")
     global url
     url_search = url+'_search'
-    querystring = {"filter_path":"hits.hits._source"}
-    payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{\n\t\t\t\t\"query\":\""+text+"\",\n\t\t\t\t\"fuzziness\":2\n\t\t\t}\n\t\t}\n\t}\n}"
+    querystring = {"filter_path":"hits.hits"}
+    payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{\n\t\t\t\t\"query\":\""+text+"\",\n\t\t\t\t\"fuzziness\":5\n\t\t\t}\n\t\t}\n\t}\n}"
     #print(payload)
     headers = {
         'Content-Type': "application/json",
@@ -162,7 +163,7 @@ def searchfile():
     }
     response = requests.request("POST", url_search, data=payload.encode('utf-8'), headers=headers, params=querystring)
     jsondata = response.json()
-    # #print(response.json())
+    # print(response.json())
     sources = jsondata['hits']['hits']
     #print(len(sources))
     filenames =[]
@@ -170,7 +171,8 @@ def searchfile():
     for i,source in enumerate(sources):
         file = source['_source']
         filenames.append(file['id'])
-        contents.append(file['content'][100:300])
+        content = add_tag(words,file['content'])
+        contents.append(content)
     #print(filenames)
     #print(contents)
     searchResult = {}
@@ -198,5 +200,5 @@ def PdfTypes(filenames):
     return pdf
 if __name__ == "__main__":
     init()
-    app.run(host='10.42.49.111',port=80)
-    # app.run()
+    # app.run(host='10.42.49.111',port=80)
+    app.run()
