@@ -23,8 +23,8 @@ class Deskew:
         ### change here
         img = self.image.copy()
         (h,w) = img.shape[:2]
-        if w > 500:
-            img = imutils.resize(img,width=500)
+        if w > 800:
+            img = imutils.resize(img,width=800)
         (h,w) = img.shape[:2]
         res = self.skew_obj.process_single_file(img)
         angle = res['Estimated Angle']
