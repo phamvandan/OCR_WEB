@@ -20,7 +20,7 @@ class Deskew:
         self.skew_obj = SkewDetect(input_file=self.image)
 
     def deskew(self):
-        
+        ### change here
         img = self.image.copy()
         (h,w) = img.shape[:2]
         if w > 500:
