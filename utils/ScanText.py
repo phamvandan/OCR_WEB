@@ -47,7 +47,7 @@ def layoutDocument(image,document):
         for i in range(len(conts)):
             (x, y, w, h) = cv2.boundingRect(conts[i])
             if w<25 or h <25 or abs(image.shape[1]-w-x)<=10 or x<=5 or (w <50 and h < 50):
-                print("over")
+                # print("over")
                 continue
             skip = False
             for index,temp in enumerate(listResult):
