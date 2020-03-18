@@ -1,8 +1,12 @@
 # OCR_WEB
-upload file and OCR then save to local
+In this project, we build a demo web base on Flask for eDocument with some features:  
+- OCR for pdf file
+- Convert to docx file
+- Searching documents with Elastic Search
 
-# some require libraries and how to install
-1. tesseract and pytesseract  
+# Some require libraries and how to install
+
+## tesseract and pytesseract  
 sudo apt install tesseract-ocr 
 -- need sudo apt install tesseract-ocr-<language options> example vie for vietnamese,use all for get all language
 sudo apt install libtesseract-dev  

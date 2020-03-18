@@ -1,8 +1,4 @@
-import functools
-import os
 import cv2
-# import imutils
-import numpy as np
 
 class detectTable(object):
     def __init__(self, src_img):

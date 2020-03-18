@@ -1,14 +1,12 @@
 """ Calculates skew angle """
-import os
 import imghdr
 import optparse
+import os
 
-import numpy as np
 import matplotlib.pyplot as plt
-from skimage import io
+import numpy as np
 from skimage.color import rgb2gray
 from skimage.feature import canny
-from skimage.color import rgb2gray
 from skimage.transform import hough_line, hough_line_peaks
 
 

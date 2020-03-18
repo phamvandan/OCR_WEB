@@ -1,28 +1,20 @@
-""" Deskews file after getting skew angle """
-import optparse
-import numpy as np
-import matplotlib.pyplot as plt
-import sys
-import os
-
-from utils.skew_detect import SkewDetect
-# from skimage import io
-# from skimage.transform import rotate
-from utils.rotation import rotateAndScale
-
-import pytesseract
 import re
+
 import imutils
+import pytesseract
+
+from utils.rotation import rotateAndScale
+from utils.skew_detect import SkewDetect
 
 
 class Deskew:
 
-    def __init__(self, image, r_angle=0):
-        self.image = image
-        self.r_angle = r_angle
-        self.skew_obj = SkewDetect(input_file=self.image)
+	def __init__(self, image, r_angle=0):
+		self.image = image
+		self.r_angle = r_angle
+		self.skew_obj = SkewDetect(input_file=self.image)
 
-    def deskew(self):
+	def deskew(self):
         ### change here
         img = self.image.copy()
         (h, w) = img.shape[:2]

@@ -6,8 +6,8 @@ import requests
 from flask import flash, request, redirect, render_template, send_from_directory
 from werkzeug.utils import secure_filename
 
-from support import listToString, add_tag
 from utils.detai import ocr_file
+from utils.support import list_to_string, add_tag
 
 app = flask.Flask(__name__)
 
@@ -53,14 +53,14 @@ def upload_file():
             return redirect(request.url)
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
-            filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
-            file.save(filepath)
+            path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
+            file.save(path_to_file)
             global currentFile
             currentFile = filename
-            name = os.path.splitext(filepath)[0]
+            name = os.path.splitext(path_to_file)[0]
             if os.path.exists(name + '.docx'):
                 os.remove(name + '.docx')
-            text = ocr_file(filepath, True, True, True, False)
+            text = ocr_file(path_to_file, True, True, True, False)
             text_ocr = text
             global url
             text = re.sub('"', '', text).strip()
@@ -88,20 +88,20 @@ def upload_files():
             flash('No file selected for uploading')
             return redirect(request.url)
         else:
-            filenames = []
+            file_names = []
             texts = []
             for file in files:
                 if file and allowed_file(file.filename):
                     filename = secure_filename(file.filename)
-                    filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
-                    file.save(filepath)
-                    filenames.append(filename)
+                    path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
+                    file.save(path_to_file)
+                    file_names.append(filename)
                     global currentFile
                     currentFile = filename
-                    name = os.path.splitext(filepath)[0]
+                    name = os.path.splitext(path_to_file)[0]
                     if os.path.exists(name + '.docx'):
                         os.remove(name + '.docx')
-                    text = ocr_file(filepath, True, True, True, False)
+                    text = ocr_file(path_to_file, True, True, True, False)
                     text_ocr = text
                     global url
                     text = re.sub('"', '', text).strip()
@@ -120,8 +120,8 @@ def upload_files():
                     }
                     response = requests.request("POST", url, data=payload.encode('utf-8'), headers=headers)
                     texts.append(text_ocr)
-            return render_template('showFiles.html', file_names=filenames, text_ocr=texts, count=len(filenames),
-                                   pdf=pdf_types(filenames))
+            return render_template('showFiles.html', file_names=file_names, text_ocr=texts, count=len(file_names),
+                                   pdf=pdf_types(file_names))
 
 
 @app.route('/download_file/<filename>')
@@ -166,37 +166,37 @@ def search_file():
         'cache-control': "no-cache"
     }
     response = requests.request("POST", url_search, data=payload.encode('utf-8'), headers=headers, params=querystring)
-    jsondata = response.json()
-    sources = jsondata['hits']['hits']
-    filenames = []
+    json_data = response.json()
+    sources = json_data['hits']['hits']
+    file_names = []
     contents = []
     for i, source in enumerate(sources):
         file = source['_source']
-        filenames.append(file['id'])
+        file_names.append(file['id'])
         content = add_tag(words, file['content'])
         content = content.split(".")
         rs = []
         for t in content:
             if "<b>" in t:
                 rs.append(t)
-        content = listToString(rs)
+        content = list_to_string(rs)
         contents.append(content)
     search_result = {}
-    for i in range(0, len(filenames)):
-        search_result[filenames[i]] = contents[i]
-    return render_template('resultSearch.html', filenames=filenames, contents=contents, count=len(filenames))
+    for i in range(0, len(file_names)):
+        search_result[file_names[i]] = contents[i]
+    return render_template('resultSearch.html', filenames=file_names, contents=contents, count=len(file_names))
 
 
 @app.route('/view_origin/<filename>')
 def view_origin(filename):
-    filepath = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
-    txt_path = str(os.path.splitext(filepath)[0]) + '.txt'
+    path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
+    txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
     with open(txt_path, 'r+') as f:
         text = f.read()
     return render_template('view_origin.html', file_name=filename, text_ocr=text, pdf=pdf_type(filename))
 
 
-def init():
+def create_upload_folder():
     if not os.path.exists(str(app.config['UPLOAD_FOLDER'])):
         os.makedirs(str(app.config['UPLOAD_FOLDER']))
 
@@ -205,14 +205,14 @@ def pdf_type(filename):
     return os.path.splitext(filename)[-1].lower() == '.pdf'
 
 
-def pdf_types(filenames):
+def pdf_types(file_names):
     pdf = []
-    for i in range(0, len(filenames)):
-        pdf.append(os.path.splitext(filenames[i])[-1].lower() == '.pdf')
+    for i in range(0, len(file_names)):
+        pdf.append(os.path.splitext(file_names[i])[-1].lower() == '.pdf')
     return pdf
 
 
 if __name__ == "__main__":
-    init()
+    create_upload_folder()
     # app.run(host='10.42.49.111',port=80)
     app.run()

@@ -1,19 +1,18 @@
 import argparse
-import pytesseract
-from PIL import Image
-# from PyPDF2 import PdfFileReader
-import imutils
-from imutils import contours
-# from pdf2image import convert_from_path
-import cv2
-import numpy as np
 import time
+
+import cv2
+import imutils
+import numpy as np
+import pytesseract
+from imutils import contours
+
 
 # get image coordinate
 
 
 def get_boxes_coordinate(image):
-    image = cv2.resize(image, (361, 500))
+	image = cv2.resize(image, (361, 500))
 
 
 def printImage(image):
