@@ -5,7 +5,7 @@ In this project, we build a demo web base on Flask for eDocument with some featu
 - Convert from pdf,image to docx file
 - Save and Search documents with Elastic Search  
 
-###Project build base on Ubuntu 18.04 LTS
+### Project build base on Ubuntu 18.04 LTS
 
 ## Some require libraries and how to install
 
