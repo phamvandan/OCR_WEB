@@ -1,23 +1,32 @@
-# OCR_WEB
+# eDOCUMENT
+
 In this project, we build a demo web base on Flask for eDocument with some features:  
-- OCR for pdf file
-- Convert to docx file
-- Searching documents with Elastic Search
+- OCR for pdf,image files with tesseract
+- Convert from pdf,image to docx file
+- Save and Search documents with Elastic Search  
 
-# Some require libraries and how to install
+###Project build base on Ubuntu 18.04 LTS
 
-## tesseract and pytesseract  
-sudo apt install tesseract-ocr 
--- need sudo apt install tesseract-ocr-<language options> example vie for vietnamese,use all for get all language
-sudo apt install libtesseract-dev  
-sudo pip3 install pytesseract  
-sudo apt-get install python-pypdf2  
-sudo pip3 install imutils pdf2image python-docx PyPDF2
-sudo pip3 install matplotlib
-sudo pip3 install  numpy scipy matplotlib ipython jupyter pandas sympy nose poppler-utils
+## Some require libraries and how to install
 
-# install ElasticSearch : 
-https://stackjava.com/elasticsearch/huong-dan-cai-dat-elasticsearch-tren-ubuntu-16-04.html  
-make sure elastic search run on port 9200
+1. Tesseract:  
 
-oke done
+    - sudo apt install tesseract-ocr 
+    - sudo apt install tesseract-ocr-<language options>  
+       Example for Vietnamese : sudo apt install tesseract-ocr-vie  
+  or for all language : sudo apt install tesseract-ocr-all  
+  
+2. ElasticSearch :  
+    - Install ElasticSearch :[Vietnamese Tutorial](https://stackjava.com/elasticsearch/huong-dan-cai-dat-elasticsearch-tren-ubuntu-16-04.html)
+or [ElasticSearch install guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html)  
+    - After install <b>make sure elastic search run on port 9200</b>
+
+3. Install some requirement packages :  
+    - We recommend use a virtual environment  
+    - Then : pip install -r requirements  
+    
+# Run demo
+* Down load or clone this project : git clone https://github.com/tranmanhdat/OCR_WEB
+* cd OCR_WEB
+* python demo.py
+* then go a browser (chrome, firefox..), go to http://localhost:5000/
