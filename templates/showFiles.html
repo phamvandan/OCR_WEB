@@ -70,11 +70,13 @@
         <img src= {{ url_for('static', filename='demo/'+ file_names[i] ) }} width="100%" height="800px" >
         {% endif %}
       </div>
-      <div class="col-6" style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
-		<div class="boxed" style="overflow: auto; width: 100%; float:left; height:800px; background:rgb(255, 255, 255)">
-			{{text_ocr[i]}}
-		</div>
-	  </div>
+      <div class="col-6"
+           style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
+        <div class="boxed"
+             style="overflow: auto; width: 100%; float:left; height:800px; background:rgb(255, 255, 255); color:rgb(0, 0, 0)">
+          {{text_ocr[i]}}
+        </div>
+      </div>
 	</div>
 	{% endfor %}
   </div>

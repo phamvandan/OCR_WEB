@@ -166,25 +166,35 @@ def search_file():
         'cache-control': "no-cache"
     }
     response = requests.request("POST", url_search, data=payload.encode('utf-8'), headers=headers, params=querystring)
-    json_data = response.json()
-    sources = json_data['hits']['hits']
-    file_names = []
-    contents = []
-    for i, source in enumerate(sources):
-        file = source['_source']
-        file_names.append(file['id'])
-        content = add_tag(words, file['content'])
-        content = content.split(".")
-        rs = []
-        for t in content:
-            if "<b>" in t:
-                rs.append(t)
-        content = list_to_string(rs)
-        contents.append(content)
-    search_result = {}
-    for i in range(0, len(file_names)):
-        search_result[file_names[i]] = contents[i]
-    return render_template('resultSearch.html', filenames=file_names, contents=contents, count=len(file_names))
+    if response.status_code == 404:
+        file_names = None
+        contents = None
+        count = 0
+    elif response.status_code == 200:
+        json_data = response.json()
+        sources = json_data['hits']['hits']
+        file_names = []
+        contents = []
+        # print(sources)
+        for i, source in enumerate(sources):
+            file = source['_source']
+            file_names.append(file['id'])
+            # content = file['content'][100:500]
+            content = add_tag(words, file['content'])
+            content = content.split(".")
+            rs = []
+            for t in content:
+                if "<b>" in t:
+                    rs.append(t)
+            content = list_to_string(rs)
+            contents.append(content)
+        search_result = {}
+        count = len(file_names)
+        for i in range(0, count):
+            search_result[file_names[i]] = contents[i]
+        # print(contents)
+        # print(count)
+    return render_template('resultSearch.html', filenames=file_names, contents=contents, count=count)
 
 
 @app.route('/view_origin/<filename>')
@@ -215,4 +225,4 @@ def pdf_types(file_names):
 if __name__ == "__main__":
     create_upload_folder()
     # app.run(host='10.42.49.111',port=80)
-    app.run()
+    app.run(debug=app.config['DEBUG'])

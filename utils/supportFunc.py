@@ -1,8 +1,7 @@
 import cv2, pytesseract, pdf2image, os
 from utils.DetectTable import detectTable
-from utils.skew import skewImage
 from utils.handleTable import getTableCoordinate, retreiveTextFromTable
-from utils.PdfToImages import pdfToImage
+from utils.PdfToImages import pdf_to_images
 from pathlib import Path
 
 def handleFile(fileName,deblur=False,handleTableBasic=True,handleTableAdvance=False):
@@ -62,7 +61,7 @@ def getFileName(fileType,folder):
             if "pdf" in filename:
                 filename = os.path.join(str(folder),filename)
                 print(filename)
-                count = pdfToImage(filename,folder) ## convert to image
+                count = pdf_to_images(filename, folder)  ## convert to image
         for k in range(1,count+1):
             names.append(str(k)+".jpg")
     else:
@@ -117,7 +116,7 @@ def processPdfFile(folder_in, folder_out, folder_out_1):
                 count = 0
                 result = ""
                 filename = os.path.join(r, file)
-                count = pdfToImage(filename, folder_in) ## convert to image
+                count = pdf_to_images(filename, folder_in)  ## convert to image
                 for k in range(1,count+1):
                     names.append(str(k)+".jpg")
                 for filename in names:
@@ -147,7 +146,7 @@ def tesseractPdf(folder_in, folder_out):
                 count = 0
                 result = ""
                 filename = os.path.join(r, file)
-                count = pdfToImage(filename, folder_in) ## convert to image
+                count = pdf_to_images(filename, folder_in)  ## convert to image
                 for k in range(1,count+1):
                     names.append(str(k)+".jpg")
                 for filename in names:

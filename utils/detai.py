@@ -7,13 +7,13 @@ import os
 import time
 import cv2
 
-from utils.PdfToImages import pdfToImage
+from utils.PdfToImages import pdf_to_images
 from pathlib import Path
 
 
-def handle_file(file_name, pdf_file_name, pdf, docx=False, skew=False, handle_table_basic=True,
+def handle_file(path_to_file, pdf_file_name, pdf, docx=False, skew=False, handle_table_basic=True,
                 handle_table_advance=False):
-    img = cv2.imread(file_name)
+    img = cv2.imread(path_to_file)
 
     # handle skew
     if skew:
@@ -33,23 +33,23 @@ def handle_file(file_name, pdf_file_name, pdf, docx=False, skew=False, handle_ta
         print('table handle take ' + "{0:.2f}".format(end - start))
         mask_img = mask
         start = time.time()
-        listResult, listBigBox = getTableCoordinate(mask_img)
+        list_result, list_big_box = getTableCoordinate(mask_img)
         end = time.time()
         print('getTableCoordinate take ' + "{0:.2f}".format(end - start))
         img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
         result_table = ""
         start = time.time()
         if not docx:
-            result_table = GetText(listResult, listBigBox, img)
+            result_table = GetText(list_result, list_big_box, img)
         else:
             if not pdf:
-                file_namewithout_extension = os.path.splitext(file_name)[0]
+                file_name_without_extension = os.path.splitext(path_to_file)[0]
                 result_table = GetTextLayout(
-                        listResult, listBigBox, img, file_namewithout_extension + ".docx")
+                        list_result, list_big_box, img, file_name_without_extension + ".docx")
             else:
-                file_namewithout_extension = os.path.splitext(pdf_file_name)[0]
+                file_name_without_extension = os.path.splitext(pdf_file_name)[0]
                 result_table = GetTextLayout(
-                        listResult, listBigBox, img, file_namewithout_extension + ".docx")
+                        list_result, list_big_box, img, file_name_without_extension + ".docx")
         end = time.time()
         print('docx take ' + "{0:.2f}".format(end - start))
     return result_table
@@ -63,7 +63,7 @@ def get_file_name(file_type, folder):
             print(filename)
             if "pdf" in filename:
                 filename = os.path.join(str(folder), filename)
-                count = pdfToImage(filename, folder)  # convert to image
+                count = pdf_to_images(filename, folder)  # convert to image
         for k in range(1, count + 1):
             names.append(str(k) + ".jpg")
     else:
@@ -81,7 +81,7 @@ def get_file_name(file_type, folder):
 
 pdfExtension = [".pdf", ".PDF"]
 imageExtension = [".jpg", ".JPG", ".png", ".PNG"]
-
+debug = True
 
 def ocr_file(filepath, docx, skew_mode, basic_table, advance_table):
     path = Path(filepath)
@@ -93,7 +93,7 @@ def ocr_file(filepath, docx, skew_mode, basic_table, advance_table):
         names = []
         count = 0
         # print(current_folder)
-        count = pdfToImage(path, current_folder)  # convert to image
+        count = pdf_to_images(path, current_folder)  # convert to image
         for k in range(1, count + 1):
             names.append(str(k) + ".jpg")
         for image in names:
@@ -101,8 +101,7 @@ def ocr_file(filepath, docx, skew_mode, basic_table, advance_table):
             image_path = os.path.join(str(current_folder), image)
             start = time.time()
             result_table = handle_file(image_path, filepath, True, docx=docx, skew=skew_mode,
-                                       handle_table_basic=basic_table,
-                                       handle_table_advance=advance_table)
+                                       handle_table_basic=basic_table, handle_table_advance=advance_table)
             # k = 0
             end = time.time()
             print('Total time OCR ' + str(image) +
@@ -112,10 +111,11 @@ def ocr_file(filepath, docx, skew_mode, basic_table, advance_table):
                 #     result = result + "\n"
                 result = result + (str(rs))
                 # k = k+ 1
-            os.remove(image_path)
+            if not debug:
+                os.remove(image_path)
     elif extension in imageExtension:
-        result_table = handle_file(filepath, '', False, docx=docx, skew=skew_mode,
-                                   handle_table_basic=basic_table, handle_table_advance=advance_table)
+        result_table = handle_file(filepath, '', False, docx=docx, skew=skew_mode, handle_table_basic=basic_table,
+                                   handle_table_advance=advance_table)
         for rs in result_table:
             # if k %4 == 0:
             #     result = result + "\n"
