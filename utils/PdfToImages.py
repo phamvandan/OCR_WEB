@@ -1,17 +1,19 @@
-from sys import argv
 from pdf2image import convert_from_path
-from PyPDF2 import PdfFileReader
 import os
-def pdfToImage(pdf_file,output_folder):
-        """"
-        
-        """"
-        print("Converting PDF to Images......")
-        i=1
-        try:
-                pdf = PdfFileReader(open(str(pdf_file),'rb'))
-        except:
-                print(OE)
+
+from PyPDF2 import PdfFileReader
+from pdf2image import convert_from_path
+
+
+def pdfToImage(pdf_file, output_folder):
+	"""
+
+	"""
+	print("Converting PDF to Images......")
+	i = 1
+	try:
+		pdf = PdfFileReader(open(str(pdf_file), 'rb'))
+	except:
                 return None
         maxPages = pdf.getNumPages()
         for page in range(1,maxPages+1,10) : 

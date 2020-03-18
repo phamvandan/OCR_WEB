@@ -1,32 +1,19 @@
-import datetime
-import argparse
-import pytesseract
-from PIL import Image
-# from PyPDF2 import PdfFileReader
-# from imutils import contours
-# from pdf2image import convert_from_path
+
 from utils.deskew import Deskew
 from utils.DetectTable import detectTable
-from utils.handleTable import getTableCoordinate, retreiveTextFromTable, getInput
+from utils.handleTable import getTableCoordinate
 from utils.ScanText import GetText, GetTextLayout
 import os
 import time
-# import imutils
 import cv2
-# from docx import Document
+
 from utils.PdfToImages import pdfToImage
 from pathlib import Path
 
 
-def handleFile(fileName, pdfFileName, pdf, docx=False, skew=False, deblur=False, handleTableBasic=True, handleTableAdvance=False):
-    """
-    :param str fileName: name of image to be converted
-    :param str outputName: name of doc file to be saved
-    :return:
-
-    detect table and layout-analyzing
-    """
-    img = cv2.imread(fileName)
+def handle_file(file_name, pdf_file_name, pdf, docx=False, skew=False, handle_table_basic=True,
+                handle_table_advance=False):
+    img = cv2.imread(file_name)
 
     # handle skew
     if skew:
@@ -34,169 +21,109 @@ def handleFile(fileName, pdfFileName, pdf, docx=False, skew=False, deblur=False,
         d = Deskew(img)
         img, angle = d.run()
         end = time.time()
-        print('deskew take : '+"{0:.2f}".format(end-start))
-    # skew.printImage(img)
+        print('deskew take : ' + "{0:.2f}".format(end - start))
     # handle table with not auto fill
-    if handleTableBasic or handleTableAdvance:
+    if handle_table_basic or handle_table_advance:
         start = time.time()
-        if handleTableBasic:
+        if handle_table_basic:
             mask = detectTable(img).run(1)
         else:
             mask = detectTable(img).run(2)
         end = time.time()
-        print('table handle take '+"{0:.2f}".format(end-start))
+        print('table handle take ' + "{0:.2f}".format(end - start))
         mask_img = mask
-        ## resize
         start = time.time()
         listResult, listBigBox = getTableCoordinate(mask_img)
         end = time.time()
-        print('getTableCoordinate take '+"{0:.2f}".format(end-start))
-        # resize image ?
+        print('getTableCoordinate take ' + "{0:.2f}".format(end - start))
         img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
-        resultTable = ""
+        result_table = ""
         start = time.time()
         if not docx:
-            resultTable = GetText(listResult, listBigBox, img)
+            result_table = GetText(listResult, listBigBox, img)
         else:
             if not pdf:
-                fileNamewithoutExtension = os.path.splitext(fileName)[0]
-                resultTable = GetTextLayout(
-                    listResult, listBigBox, img, fileNamewithoutExtension+".docx")
+                file_namewithout_extension = os.path.splitext(file_name)[0]
+                result_table = GetTextLayout(
+                        listResult, listBigBox, img, file_namewithout_extension + ".docx")
             else:
-                fileNamewithoutExtension = os.path.splitext(pdfFileName)[0]
-                resultTable = GetTextLayout(
-                    listResult, listBigBox, img, fileNamewithoutExtension+".docx")
+                file_namewithout_extension = os.path.splitext(pdf_file_name)[0]
+                result_table = GetTextLayout(
+                        listResult, listBigBox, img, file_namewithout_extension + ".docx")
         end = time.time()
-        print('docx take '+"{0:.2f}".format(end-start))
-    return resultTable
+        print('docx take ' + "{0:.2f}".format(end - start))
+    return result_table
 
 
-def saveResult(folder, saveFileName, result):
-    file = os.path.join(str(folder), saveFileName)
-    if os.path.exists(file):
-        f = open(file, "a+")
-    else:
-        f = open(file, "w+")
-    f.write(result)
-    f.close()
-    print(str(datetime.datetime.now()) + " Scan successed")
-
-
-def getFileName(fileType, folder):
+def get_file_name(file_type, folder):
     names = []
-    if fileType == "pdf":
+    if file_type == "pdf":
         count = 0
         for filename in os.listdir(folder):
             print(filename)
             if "pdf" in filename:
                 filename = os.path.join(str(folder), filename)
                 count = pdfToImage(filename, folder)  # convert to image
-        for k in range(1, count+1):
-            names.append(str(k)+".jpg")
+        for k in range(1, count + 1):
+            names.append(str(k) + ".jpg")
     else:
         listname = os.listdir(folder)
-        if fileType == "image":
+        if file_type == "image":
             for name in listname:
                 if name.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp')):
                     names.append(name)
-        elif fileType == "text":
+        elif file_type == "text":
             for name in listname:
                 if name.lower().endswith(('.txt', '.doc', '.docx')):
                     names.append(name)
     return names
 
 
-def preprocessFile(fileType, folder, saveFileName, skew, blur, basic, advance):
-    if skew.lower() == "true":
-        skew = True
-    else:
-        skew = False
-    if blur.lower() == "true":
-        blur = True
-    else:
-        blur = False
-    if basic.lower() == "true":
-        basic = True
-    else:
-        basic = False
-    if advance.lower() == "true":
-        advance = True
-    else:
-        advance = False
-
-    names = getFileName(fileType, folder)
-    result = ""
-
-    if "pdf" in fileType or "image" in fileType:
-        for filename in names:
-            filename = os.path.join(folder, filename)
-            if ".jpg" in filename:
-                resultTable = handleFile(
-                    filename, skew=skew, deblur=blur, handleTableBasic=basic, handleTableAdvance=advance)
-                # k = 0
-                for rs in resultTable:
-                    # if k %4 == 0:
-                    #     result = result + "\n"
-                    result = result + (str(rs))
-                    # k = k+ 1
-                if fileType == "pdf":
-                    os.remove(filename)
-    elif fileType == "text":
-        for filename in names:
-            filename = os.path.join(str(folder), filename)
-            f = open(filename, "r")
-            result = result + str(f.read())
-            f.close()
-    if result != "":
-        result = result.replace("'", "")
-        result = result.replace("\"", "")
-        saveResult(folder, saveFileName, result)
-
-
 pdfExtension = [".pdf", ".PDF"]
 imageExtension = [".jpg", ".JPG", ".png", ".PNG"]
 
 
-def ocrFile(filepath, docx, skew_mode, deblur_mode, basicTable, advanceTable):
+def ocr_file(filepath, docx, skew_mode, basic_table, advance_table):
     path = Path(filepath)
     filename = path.stem
     extension = path.suffix
-    currentFolder = path.parent
+    current_folder = path.parent
     result = ""
     if extension in pdfExtension:
         names = []
         count = 0
-        # print(currentFolder)
-        count = pdfToImage(path, currentFolder)  # convert to image
-        for k in range(1, count+1):
-            names.append(str(k)+".jpg")
+        # print(current_folder)
+        count = pdfToImage(path, current_folder)  # convert to image
+        for k in range(1, count + 1):
+            names.append(str(k) + ".jpg")
         for image in names:
-            print('Start OCR'+str(image)+'-------------------------------')
-            imagepath = os.path.join(str(currentFolder), image)
+            print('Start OCR' + str(image) + '-------------------------------')
+            image_path = os.path.join(str(current_folder), image)
             start = time.time()
-            resultTable = handleFile(imagepath, filepath, True, docx=docx, skew=skew_mode,
-                                     deblur=deblur_mode, handleTableBasic=basicTable, handleTableAdvance=advanceTable)
-        # k = 0
+            result_table = handle_file(image_path, filepath, True, docx=docx, skew=skew_mode,
+                                       handle_table_basic=basic_table,
+                                       handle_table_advance=advance_table)
+            # k = 0
             end = time.time()
-            print('Total time OCR '+str(image) +
-                  ' : ' + "{0:.2f}".format(end-start))
-            for rs in resultTable:
+            print('Total time OCR ' + str(image) +
+                  ' : ' + "{0:.2f}".format(end - start))
+            for rs in result_table:
                 # if k %4 == 0:
                 #     result = result + "\n"
                 result = result + (str(rs))
                 # k = k+ 1
-            os.remove(imagepath)
+            os.remove(image_path)
     elif extension in imageExtension:
-        resultTable = handleFile(filepath, '', False, docx=docx, skew=skew_mode,
-                                 deblur=deblur_mode, handleTableBasic=basicTable, handleTableAdvance=advanceTable)
-        for rs in resultTable:
-                # if k %4 == 0:
-                #     result = result + "\n"
-                result = result + (str(rs))
-                # k = k+ 1
-    txtPath = str(os.path.splitext(filepath)[0])+'.txt'
-    if os.path.exists(txtPath):
-        os.remove(txtPath)
-    with open(txtPath, 'w+') as f:
+        result_table = handle_file(filepath, '', False, docx=docx, skew=skew_mode,
+                                   handle_table_basic=basic_table, handle_table_advance=advance_table)
+        for rs in result_table:
+            # if k %4 == 0:
+            #     result = result + "\n"
+            result = result + (str(rs))
+            # k = k+ 1
+    txt_path = str(os.path.splitext(filepath)[0]) + '.txt'
+    if os.path.exists(txt_path):
+        os.remove(txt_path)
+    with open(txt_path, 'w+') as f:
         f.write(result)
     return result

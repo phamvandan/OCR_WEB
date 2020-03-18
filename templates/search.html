@@ -86,7 +86,7 @@
         $('#btn_check').off('click').on('click', function () {
             $.ajax({
                 type: "POST",
-                url: '/searchfile',
+                url: '/search_file',
                 data: { text: $('#namesearch').val() },
             }).done(function (result) {
                 $('#load_result').empty();

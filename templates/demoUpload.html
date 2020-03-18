@@ -43,18 +43,20 @@
 			<div class="col-4"></div>
 			<div class="col-4">
 				<div style="border-style: double;margin-top: 150px;">
-					<h2 style="font:bold; background-color: rgb(57, 185, 224); text-align: center; margin-top: 0;">Select a file to upload</h2>
-					<form method="post" action="/uploadFile" enctype="multipart/form-data">
-						<dl>
-							<p>
-								<input type="file" name="file" autocomplete="off" required  style="margin: auto;text-align: center;">
-							</p>
-						</dl>
-						<p>
-							<input type="submit" value="Upload" style="width:100%">
-						</p>
-					</form>
-				</div>
+                    <h2 style="font:bold; background-color: rgb(57, 185, 224); text-align: center; margin-top: 0;">
+                        Select a file to upload</h2>
+                    <form method="post" action="/upload_file" enctype="multipart/form-data">
+                        <dl>
+                            <p>
+                                <input type="file" name="file" autocomplete="off" required
+                                       style="margin: auto;text-align: center;">
+                            </p>
+                        </dl>
+                        <p>
+                            <input type="submit" value="Upload" style="width:100%">
+                        </p>
+                    </form>
+                </div>
 				
 
 			</div>

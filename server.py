@@ -6,7 +6,7 @@ import os
 from utils.supportFunc import preprocessFile
 import requests
 from pathlib import Path
-from utils.detai import ocrFile
+from utils.detai import ocr_file
 
 app = flask.Flask(__name__)
 
@@ -60,7 +60,9 @@ def editFile(filename):
 		text_edit = f.read()
 	print(os.path.join(staticPath,'OCR_edited', fileName))
 	return render_template('index.html', file_name=filename, text_ocr=text_ocr, text_edit=text_edit)
-@app.route('/uploadFile')
+
+
+@app.route('/upload_file')
 def uploadFile():
 	return render_template('upload.html')
 @app.route('/', methods=['POST'])
@@ -69,7 +71,7 @@ def upload_file():
         # check if the post request has the file part
 		if 'file' not in request.files:
 			flash('No file part')
-			return redirect('uploadFile')
+			return redirect('upload_file')
 		file = request.files['file']
 		if file.filename == '':
 			flash('No file selected for uploading')
@@ -80,14 +82,15 @@ def upload_file():
 			file.save(filepath)
 			flash('File successfully uploaded')
 			name = os.path.splitext(filepath)[0]
-			if os.path.exists(name+'.docx'):
-				os.remove(name+'.docx')
-			ocrFile(filepath,True,True, True, True, False)
+			if os.path.exists(name + '.docx'):
+				os.remove(name + '.docx')
+			ocr_file(filepath, True, True, True, False)
 			# print(os.path.splitext(filename)[0]+'docx')
-			return send_from_directory(directory=app.config['UPLOAD_FOLDER'],filename=os.path.splitext(filename)[0]+'.docx',as_attachment=True)
+			return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+			                           filename=os.path.splitext(filename)[0] + '.docx', as_attachment=True)
 		else:
 			flash('Allowed file types are PDF, pdf, png, jpg, jpeg, PNG, JPG, JPEG')
-			return redirect('uploadFile')
+			return redirect('upload_file')
 if __name__ == "__main__":
     # app.run(host='172.16.1.27',port=80)
 	# app.run(host='10.42.49.111',port=80)
