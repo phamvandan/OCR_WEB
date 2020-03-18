@@ -4,7 +4,7 @@ def list_to_string(s):
 	str1 = " "
 
 	# return string
-	return (str1.join(s))
+	return str1.join(s)
 
 
 def using_comprehension(word, sentence):
@@ -16,7 +16,7 @@ def add_tag(words, string):
 
 	for word in words:
 		len_word = len(word)
-		index = using_comprehension(word, string)
+		index = using_comprehension(word.lower(), string.lower())
 		for value in index:
 			indexs.append(value)
 			indexs.append(value + len_word)

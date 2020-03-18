@@ -62,6 +62,7 @@ def upload_file():
                 os.remove(name + '.docx')
             text = ocr_file(path_to_file, True, True, True, False)
             text_ocr = text
+            text = text.lower()
             global url
             text = re.sub('"', '', text).strip()
             text = re.sub('\'', '', text).strip()
@@ -103,6 +104,7 @@ def upload_files():
                         os.remove(name + '.docx')
                     text = ocr_file(path_to_file, True, True, True, False)
                     text_ocr = text
+                    text = text.lower()
                     global url
                     text = re.sub('"', '', text).strip()
                     text = re.sub('\'', '', text).strip()
@@ -152,7 +154,7 @@ def search_file():
     url_search = url + '_search'
     querystring = {"filter_path": "hits.hits"}
     payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{" \
-              "\n\t\t\t\t\"query\":\"" + text + "\",\n\t\t\t\t\"fuzziness\":5\n\t\t\t}\n\t\t}\n\t}\n} "
+              "\n\t\t\t\t\"query\":\"" + text.lower() + "\",\n\t\t\t\t\"fuzziness\":5\n\t\t\t}\n\t\t}\n\t}\n} "
     headers = {
         'Content-Type': "application/json",
         'User-Agent': "PostmanRuntime/7.19.0",
@@ -179,8 +181,12 @@ def search_file():
         for i, source in enumerate(sources):
             file = source['_source']
             file_names.append(file['id'])
-            # content = file['content'][100:500]
-            content = add_tag(words, file['content'])
+            path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), file['id'])
+            txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
+            with open(txt_path, 'r+') as f:
+                text = f.read()
+
+            content = add_tag(words, text)
             content = content.split(".")
             rs = []
             for t in content:
@@ -192,8 +198,6 @@ def search_file():
         count = len(file_names)
         for i in range(0, count):
             search_result[file_names[i]] = contents[i]
-        # print(contents)
-        # print(count)
     return render_template('resultSearch.html', filenames=file_names, contents=contents, count=count)
 
 
