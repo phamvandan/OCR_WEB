@@ -7,7 +7,7 @@ from flask import flash, request, redirect, render_template, send_from_directory
 from werkzeug.utils import secure_filename
 
 from utils.detai import ocr_file
-from utils.support import list_to_string, add_tag
+from utils.support import add_tag
 
 app = flask.Flask(__name__)
 
@@ -60,7 +60,7 @@ def upload_file():
             name = os.path.splitext(path_to_file)[0]
             if os.path.exists(name + '.docx'):
                 os.remove(name + '.docx')
-            text = ocr_file(path_to_file, True, True, True, False)
+            text = ocr_file(path_to_file, True, True, 0, True)
             text_ocr = text
             text = text.lower()
             global url
@@ -102,7 +102,7 @@ def upload_files():
                     name = os.path.splitext(path_to_file)[0]
                     if os.path.exists(name + '.docx'):
                         os.remove(name + '.docx')
-                    text = ocr_file(path_to_file, True, True, True, False)
+                    text = ocr_file(path_to_file, True, True, 0, True)
                     text_ocr = text
                     text = text.lower()
                     global url
@@ -184,15 +184,16 @@ def search_file():
             path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), file['id'])
             txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
             with open(txt_path, 'r+') as f:
-                text = f.read()
+	            text = f.read()
 
             content = add_tag(words, text)
             content = content.split(".")
             rs = []
             for t in content:
-                if "<b>" in t:
-                    rs.append(t)
-            content = list_to_string(rs)
+	            if "<b>" in t:
+		            rs.append(t)
+            # content = list_to_string(rs)
+            content = ' '.join(rs)
             contents.append(content)
         search_result = {}
         count = len(file_names)

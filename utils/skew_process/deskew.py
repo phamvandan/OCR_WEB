@@ -3,8 +3,8 @@ import re
 import imutils
 import pytesseract
 
-from utils.rotation import rotateAndScale
-from utils.skew_detect import SkewDetect
+from utils.skew_process.rotation import rotateAndScale
+from utils.skew_process.skew_detect import SkewDetect
 
 
 class Deskew:
