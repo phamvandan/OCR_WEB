@@ -23,7 +23,7 @@ class OcrFile:
 	             table_mode=0, auto_correct_mode=False):
 		self.file_path = Path(file_path)
 		self.file_name = self.file_path.stem
-		self.images = None
+		self.images = []
 		self.mask_images = []
 		self.list_result = []
 		self.list_big_box = []
@@ -73,15 +73,19 @@ class OcrFile:
 	def convert_to_images(self, save_image=False):
 		t = time.time()
 		if self.type == 'pdf':
-			self.number_images, self.images = pdf_to_images(self.file_path,
-			                                                self.debug_directory,
-			                                                save_image)
+			self.images = pdf_to_images(self.file_path,
+			                            self.debug_directory,
+			                            save_image)
+			self.number_images = len(self.images)
 		# for k in range(1, self.number_images + 1):
 		# 	path_to_image = os.path.join(self.debug_directory,
 		# 	                             self.file_name + str(k) + '.jpg')
 		# 	self.path_to_images.append(path_to_image)
 		elif self.type == 'image':
-			self.images = cv2.imread(self.file_path)
+			# print(self.file_path)
+			img = cv2.imread(str(self.file_path))
+			self.images.append(img)
+			self.number_images = 1
 		elif self.type == 'docx':
 			doc = Document(self.file_path)
 			full_text = []
@@ -98,7 +102,9 @@ class OcrFile:
 		if self.type == 'docx':
 			return
 		else:
+			print(self.number_images, len(self.images))
 			for i in range(0, self.number_images):
+				print(i)
 				image = numpy.array(self.images[i])
 				image_after_deskew, _ = Deskew(image).run()
 				self.images[i] = image_after_deskew

@@ -1,11 +1,3 @@
-# Function to convert   
-def list_to_string(s):
-	# initialize an empty string
-	str1 = " "
-
-	# return string
-	return str1.join(s)
-
 
 def using_comprehension(word, sentence):
 	return [n for n in range(len(sentence)) if sentence.find(word, n) == n]

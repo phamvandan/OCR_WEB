@@ -1,2 +1,2 @@
-save_image = False
+save_image = True
 calculate_time = False
