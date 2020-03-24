@@ -16,6 +16,7 @@ def handle_file(path_to_file, pdf_file_name, pdf, docx=False, skew=False,
                 table_mode=0):
 	img = cv2.imread(path_to_file)
 	print(type(img))
+	rule_base = RuleBase()
 	# handle skew
 	if skew:
 		start = time.time()
@@ -36,7 +37,7 @@ def handle_file(path_to_file, pdf_file_name, pdf, docx=False, skew=False,
 	img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
 	start = time.time()
 	if not docx:
-		result_table = get_text(list_result, list_big_box, img)
+		result_table = get_text(list_result, list_big_box, img, rule_base)
 	else:
 		if not pdf:
 			file_name_without_extension = os.path.splitext(path_to_file)[0]

@@ -62,7 +62,7 @@ def upload_file():
 			name = os.path.splitext(path_to_file)[0]
 			if os.path.exists(name + '.docx'):
 				os.remove(name + '.docx')
-			ocr = OcrFile(path_to_file, True, True, 0, True)
+			ocr = OcrFile(path_to_file, True, 0, True, True, True)
 			text = ocr.run()
 			# text = ocr_file(path_to_file, True, True, 0, True)
 			text_ocr = text
@@ -111,7 +111,7 @@ def upload_files():
 					if os.path.exists(name + '.docx'):
 						os.remove(name + '.docx')
 					# print(path_to_file)
-					ocr = OcrFile(path_to_file, True, True, 0, True)
+					ocr = OcrFile(path_to_file, True, 0, True, True, True)
 					text = ocr.run()
 					# text = ocr_file(path_to_file, True, True, 0, True)
 					text_ocr = text

@@ -19,8 +19,8 @@ imageExtension = [".jpg", ".JPG", ".png", ".PNG"]
 
 
 class OcrFile:
-	def __init__(self, file_path, make_docx_file=False, skew_mode=False,
-	             table_mode=0, auto_correct_mode=False):
+	def __init__(self, file_path, skew_mode=False, table_mode=0,
+	             auto_correct_mode=False, make_docx_file=False, make_txt=False):
 		self.file_path = Path(file_path)
 		self.file_name = self.file_path.stem
 		self.images = []
@@ -32,6 +32,7 @@ class OcrFile:
 		self.skew_mode = skew_mode
 		self.table_mode = table_mode
 		self.auto_correct_mode = auto_correct_mode
+		self.make_txt = make_txt
 		self.number_images = 0
 		self.debug_directory = "utils/save_image/"
 		if not os.path.isdir(self.debug_directory):
@@ -60,9 +61,9 @@ class OcrFile:
 					self.deskew()
 				self.process_table()
 				self.get_text_and_make_docx()
-				if self.auto_correct_mode:
-					rule_base = RuleBase()
-					self.text = rule_base.correct(self.text)
+			# if self.auto_correct_mode:
+			# 	rule_base = RuleBase()
+			# 	self.text = rule_base.correct(self.text)
 			else:
 				# process dpf
 				return
@@ -129,16 +130,20 @@ class OcrFile:
 
 	def get_text_and_make_docx(self):
 		t = time.time()
+		rule_base = RuleBase()
 		for i in range(0, self.number_images):
 			if not self.make_docx_file:
 				result_table = get_text(self.list_result[i],
-				                        self.list_big_box[i], self.images[i])
+				                        self.list_big_box[i],
+				                        self.images[i], rule_base,
+				                        self.auto_correct_mode)
 			else:
 				file_docx = os.path.splitext(self.file_path)[0]
 				result_table = get_text_layout(self.list_result[i],
 				                               self.list_big_box[i],
 				                               self.images[i],
-				                               file_docx + '.docx')
+				                               file_docx + '.docx', rule_base,
+				                               self.auto_correct_mode)
 			for slice_text in result_table:
 				self.text = self.text + str(slice_text)
 		if cf.calculate_time:
