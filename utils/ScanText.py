@@ -147,7 +147,7 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
 	result = []
 	(height, _) = img.shape[:2]
 	if len(list_big_box) == 0:
-		layout_document(img, document)
+		layout_document(img, document, rule_base, auto_correct)
 		document.save(doc_name)
 		string = pytesseract.image_to_string(img, lang='vie')
 		if auto_correct:

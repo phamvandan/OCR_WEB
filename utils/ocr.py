@@ -21,6 +21,20 @@ imageExtension = [".jpg", ".JPG", ".png", ".PNG"]
 class OcrFile:
 	def __init__(self, file_path, skew_mode=False, table_mode=0,
 	             auto_correct_mode=False, make_docx_file=False, make_txt=False):
+		"""
+		:param file_path: path to file ocr
+		:type file_path: str
+		:param skew_mode: True for using deskew
+		:type skew_mode: bool
+		:param table_mode:0 without auto fill talbe, 1 with auto fill table
+		:type table_mode: int
+		:param auto_correct_mode: True for auto correct text
+		:type auto_correct_mode: bool
+		:param make_docx_file: True for generate docx file
+		:type make_docx_file: bool
+		:param make_txt: True for generate txt file
+		:type make_txt: bool
+		"""
 		self.file_path = Path(file_path)
 		self.file_name = self.file_path.stem
 		self.images = []
@@ -61,9 +75,15 @@ class OcrFile:
 					self.deskew()
 				self.process_table()
 				self.get_text_and_make_docx()
-			# if self.auto_correct_mode:
-			# 	rule_base = RuleBase()
-			# 	self.text = rule_base.correct(self.text)
+				# if self.auto_correct_mode:
+				# 	rule_base = RuleBase()
+				# 	self.text = rule_base.correct(self.text)
+				if self.make_txt:
+					path_to_txt = os.path.splitext(self.file_path)[0] + '.txt'
+					if os.path.isfile(str(path_to_txt)):
+						os.remove(path_to_txt)
+					with open(path_to_txt, 'w+') as f:
+						f.write(self.text)
 			else:
 				# process dpf
 				return

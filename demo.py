@@ -84,6 +84,7 @@ def upload_file():
 			response = requests.request("POST", url,
 			                            data=payload.encode('utf-8'),
 			                            headers=headers)
+			print(filename, pdf_type(filename))
 			return render_template('showFile.html', file_name=filename,
 			                       text_ocr=text_ocr, pdf=pdf_type(filename))
 
@@ -140,15 +141,22 @@ def upload_files():
 			                       pdf=pdf_types(file_names))
 
 
-@app.route('/download_file/<filename>')
-def download_file(filename):
+@app.route('/download_file/<filename>/<file_type>')
+def download_file(filename, file_type):
 	# print(filename)
 	# global currentFile
 	# #print("download "+str(currentFile))
-	return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
-	                           filename=os.path.splitext(filename)[0] + '.docx',
-	                           as_attachment=True)
-
+	if file_type == 'docx':
+		print('docx')
+		return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+		                           filename=os.path.splitext(filename)[
+			                                    0] + '.docx',
+		                           as_attachment=True)
+	elif file_type == 'txt':
+		return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+		                           filename=os.path.splitext(filename)[
+			                                    0] + '.txt',
+		                           as_attachment=True)
 
 @app.route('/download_file_origin/<filename>')
 def download_file_origin(filename):
@@ -238,6 +246,7 @@ def create_upload_folder():
 
 
 def pdf_type(filename):
+	# return filename.lower().endswith('.pdf')
 	return os.path.splitext(filename)[-1].lower() == '.pdf'
 
 
