@@ -75,13 +75,14 @@ def upload_file():
 			text = re.sub(r'\r', ' ', text).strip()
 			text = re.sub(r'\t', ' ', text).strip()
 			text = re.sub('$', '', text).strip()
-			payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+			# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+			payload = "{\n\t\"content\":\"" + text + "\"\n}"
 			headers = {
 				'content-type': "application/json",
 				'cache-control': "no-cache",
 				'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
 			}
-			response = requests.request("POST", url,
+			response = requests.request("POST", url + filename,
 			                            data=payload.encode('utf-8'),
 			                            headers=headers)
 			print(filename, pdf_type(filename))
@@ -126,13 +127,14 @@ def upload_files():
 					text = re.sub(r'\r', ' ', text).strip()
 					text = re.sub(r'\t', ' ', text).strip()
 					text = re.sub('$', '', text).strip()
-					payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+					# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+					payload = "{\n\t\"content\":\"" + text + "\"\n}"
 					headers = {
 						'content-type': "application/json",
 						'cache-control': "no-cache",
 						'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
 					}
-					response = requests.request("POST", url,
+					response = requests.request("POST", url + filename,
 					                            data=payload.encode('utf-8'),
 					                            headers=headers)
 					texts.append(text_ocr)
@@ -205,23 +207,26 @@ def search_file():
 		contents = []
 		# print(sources)
 		for i, source in enumerate(sources):
-			file = source['_source']
-			file_names.append(file['id'])
-			path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']),
-			                            file['id'])
-			txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
-			with open(txt_path, 'r+') as f:
-				text = f.read()
-
-			content = add_tag(words, text)
-			content = content.split(".")
-			rs = []
-			for t in content:
-				if "<b>" in t:
-					rs.append(t)
-			# content = list_to_string(rs)
-			content = ' '.join(rs)
-			contents.append(content)
+			print(source['_score'])
+			print(source['_id'])
+			if source['_score'] > 0:
+				# file = source['_source']
+				file_name = source['_id']
+				file_names.append(file_name)
+				path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']),
+				                            file_name)
+				txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
+				with open(txt_path, 'r+') as f:
+					text = f.read()
+				content = add_tag(words, text)
+				content = content.split(".")
+				rs = []
+				for t in content:
+					if "<b>" in t:
+						rs.append(t)
+				# content = list_to_string(rs)
+				content = ' '.join(rs)
+				contents.append(content)
 		search_result = {}
 		count = len(file_names)
 		for i in range(0, count):
