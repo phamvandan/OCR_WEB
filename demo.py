@@ -14,7 +14,7 @@ app = flask.Flask(__name__)
 app.secret_key = "eDocument"
 app.config["DEBUG"] = True
 app.config['UPLOAD_FOLDER'] = os.getcwd() + '/static/demo'
-app.config['MAX_CONTENT_LENGTH'] = 200 * 1024 * 1024
+app.config['MAX_CONTENT_LENGTH'] = 20000 * 1024 * 1024
 ALLOWED_EXTENSIONS = {'PDF', 'pdf', 'png', 'jpg', 'jpeg', 'PNG', 'JPG', 'JPEG'}
 
 

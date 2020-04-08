@@ -1,6 +1,5 @@
 import re
 
-import imutils
 import pytesseract
 
 from utils.skew_process.rotation import rotateAndScale
@@ -17,8 +16,10 @@ class Deskew:
 	def deskew(self):
 		img = self.image.copy()
 		(h, w) = img.shape[:2]
-		if w > 800:
-			img = imutils.resize(img, width=800)
+		print(h, w)
+		# if w > 800:
+		# 	img = cv2.resize(img, (int(w/2),int(h/2)))
+		# print(img.shape)
 		res = self.skew_obj.process_single_file(img)
 		angle = res['Estimated Angle']
 
