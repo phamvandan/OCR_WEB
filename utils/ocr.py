@@ -83,6 +83,13 @@ class OcrFile:
 					if os.path.isfile(str(path_to_txt)):
 						os.remove(path_to_txt)
 					with open(path_to_txt, 'w+') as f:
+						while True:
+							text1 = self.text
+							self.text = self.text.replace("\n\n", "\n")
+							self.text = self.text.replace("\n \n", "\n")
+							if self.text.endswith(text1):
+								break
+						print(self.text)
 						f.write(self.text)
 			else:
 				# process dpf

@@ -78,7 +78,6 @@ class SkewDetect:
             print (i + ": " + str(data[i]))
 
     def calculate_deviation(self, angle):
-
         angle_in_degrees = np.abs(angle)
         deviation = np.abs(SkewDetect.piby4 - angle_in_degrees)
 
