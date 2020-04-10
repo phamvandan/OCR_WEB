@@ -157,9 +157,9 @@ class SkewDetect:
         edges = canny(img, sigma=self.sigma)
         h, a, d = hough_line(edges)
         _, ap, _ = hough_line_peaks(h, a, d, num_peaks=self.num_peaks)
-
+        ## error here
         if len(ap) == 0:
-            return {"Image File": img_file, "Message": "Bad Quality"}
+            return {"Image File": img_file, "Message": "Bad Quality","Estimated Angle":0}
 
         absolute_deviations = [self.calculate_deviation(k) for k in ap]
         average_deviation = np.mean(np.rad2deg(absolute_deviations))
