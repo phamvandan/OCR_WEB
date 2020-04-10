@@ -157,7 +157,7 @@ class SkewDetect:
         edges = canny(img, sigma=self.sigma)
         h, a, d = hough_line(edges)
         _, ap, _ = hough_line_peaks(h, a, d, num_peaks=self.num_peaks)
-
+        ## error here
         if len(ap) == 0:
             return {"Image File": img_file, "Message": "Bad Quality","Estimated Angle":0}
 
