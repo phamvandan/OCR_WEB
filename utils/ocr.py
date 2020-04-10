@@ -89,7 +89,7 @@ class OcrFile:
 							self.text = self.text.replace("\n \n", "\n")
 							if self.text.endswith(text1):
 								break
-						print(self.text)
+						# print(self.text)
 						f.write(self.text)
 			else:
 				# process dpf
