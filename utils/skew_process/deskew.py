@@ -71,6 +71,8 @@ class Deskew:
 			rot_angle = 90 + angle + self.r_angle
 
 		rotated = rotateAndScale(img, rot_angle)
+		if rotated.shape[1]<1000:
+			rotated = imutils.resize(rotated,width=1000)
 		try:
 			new_data = pytesseract.image_to_osd(rotated)
 			angle = re.search('(?<=Rotate: )\d+', new_data).group(0)
