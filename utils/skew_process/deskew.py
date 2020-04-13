@@ -18,12 +18,12 @@ def h_v_detect(image):
     h_size = int(h_img.shape[1] / scale)
 
     h_structure = cv2.getStructuringElement(cv2.MORPH_RECT,
-                                            (h_size, 1))  # 形态学因子
+                                            (h_size, 1))
     h_erode_img = cv2.erode(h_img, h_structure, 1)
     h_dilate_img = cv2.dilate(h_erode_img, h_structure, 1)
     v_size = int(v_img.shape[0] / scale)
     v_structure = cv2.getStructuringElement(cv2.MORPH_RECT,
-                                            (1, v_size))  # 形态学因子
+                                            (1, v_size))
     v_erode_img = cv2.erode(v_img, v_structure, 1)
     v_dilate_img = cv2.dilate(v_erode_img, v_structure, 1)
     mask_img = h_dilate_img + v_dilate_img
@@ -71,6 +71,7 @@ class Deskew:
 			rot_angle = 90 + angle + self.r_angle
 
 		rotated = rotateAndScale(img, rot_angle)
+		rotated = remove_line(rotated)
 		if rotated.shape[1]<1000:
 			rotated = imutils.resize(rotated,width=1000)
 		try:
