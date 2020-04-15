@@ -18,7 +18,7 @@ def IOU(old_box, new_box):
 	return False
 
 
-def get_table_coordinate(image):
+def get_table_coordinate(image,scale=2):
 	"""
 
 	:param image:
@@ -74,7 +74,13 @@ def get_table_coordinate(image):
 		list_result[index] = sorted(list_result[index], key=lambda x: x[0])
 	list_result = sorted(list_result, key=lambda x: x[0][1])
 	list_big_box = sorted(list_big_box, key=lambda x: x[1])
-	# for temp in list_result:
+	for index,temp in enumerate(list_result):
+		for index2,_ in enumerate(temp):
+			(x,y,w,h) = list_result[index][index2]
+			list_result[index][index2] = (x*scale,y*scale,w*scale,h*scale)
+	for index,_ in enumerate(list_big_box):
+		(x,y,w,h) = list_big_box[index]
+		list_big_box[index] = (x*scale,y*scale,w*scale,h*scale)
 	#     for (x,y,w,h) in temp:
 	#         cv2.rectangle(newimage, (x, y), (x + w, y + h), 255, 1)
 	# for (x,y,w,h) in list_big_box:

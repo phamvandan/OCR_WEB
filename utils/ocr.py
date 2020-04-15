@@ -150,8 +150,8 @@ class OcrFile:
 					self.mask_images[i])
 			self.list_result.append(list_result)
 			self.list_big_box.append(list_big_box)
-			self.images[i] = cv2.resize(self.images[i], (
-				self.mask_images[i].shape[1], self.mask_images[i].shape[0]))
+			# self.images[i] = cv2.resize(self.images[i], (
+			# 	self.mask_images[i].shape[1], self.mask_images[i].shape[0]))
 		if cf.calculate_time:
 			print('Process table take ' + '{0.2f}'.format(time.time() - t))
 

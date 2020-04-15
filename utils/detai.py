@@ -25,8 +25,9 @@ def handle_file(path_to_file, pdf_file_name, pdf, docx=False, skew=False,
 		end = time.time()
 		print('skew_process take : ' + "{0:.2f}".format(end - start))
 	# handle table with not auto fill
+	cv2.imwrite("after_skew.jpg",img)
 	start = time.time()
-	mask = DetectTable(img).run(table_mode)
+	mask = DetectTable(img.copy()).run(table_mode)
 	end = time.time()
 	print('table handle take ' + "{0:.2f}".format(end - start))
 	mask_img = mask
@@ -34,7 +35,7 @@ def handle_file(path_to_file, pdf_file_name, pdf, docx=False, skew=False,
 	list_result, list_big_box = get_table_coordinate(mask_img)
 	end = time.time()
 	print('get_table_coordinate take ' + "{0:.2f}".format(end - start))
-	img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
+	# img = cv2.resize(img, (mask_img.shape[1], mask_img.shape[0]))
 	start = time.time()
 	if not docx:
 		result_table = get_text(list_result, list_big_box, img, rule_base)

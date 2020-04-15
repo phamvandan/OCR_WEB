@@ -1,0 +1,49 @@
+import glob
+import cv2
+import  pytesseract
+from pytesseract import Output
+import imutils
+from utils.document_layout import iou,printImage,layout_processing
+from utils.to_word import to_word
+import sys
+import numpy as np
+from random import randint
+
+def entry_dla(img,document, rule_base, auto_correct):
+    d = pytesseract.image_to_data(img, output_type=Output.DICT)
+    (height, width) = img.shape[:2]
+    n_boxes = len(d['text'])
+    boxes = []
+    for i in range(n_boxes):
+        if int(d['conf'][i]) < 0:
+            # print(int(d['conf'][i]))
+            (x, y, w, h) = (d['left'][i], d['top'][i], d['width'][i], d['height'][i])
+            newbox = (x, y, w, h)
+            if w == width or h == height or w < h / 2:
+                continue
+            if len(boxes) > 0 and iou(boxes[-1], newbox):
+                # bigBoxes.append(boxes[-1])
+                del boxes[-1]
+            boxes.append(newbox)
+    arr = np.array([box[3] for box in boxes])
+    mean = np.mean(arr)
+    dec = 0
+    temp = boxes
+    for index, box in enumerate(temp):
+        if box[3] > 2 * mean:
+            del boxes[index - dec]
+            dec = dec - 1
+    start = time.time()
+    all_text = to_word(boxes, img,document,rule_base,auto_correct)
+    end = time.time()
+    print(end - start)
+    return all_text
+
+import time
+if __name__ == "__main__":
+    filenames = glob.glob("./temp/*")
+    for filename in filenames:
+        if sys.argv[1] not in filename:
+            continue
+        img = cv2.imread(filename)
+        entry_dla(img)
