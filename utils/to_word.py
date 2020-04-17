@@ -68,4 +68,5 @@ def to_word(boxes, image, document, rule_base, auto_correct=True):
             else:
                 p = row_cells[i+1].add_paragraph(string)
             p.alignment = align
+
     return all_text
