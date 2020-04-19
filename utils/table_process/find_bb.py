@@ -61,7 +61,7 @@ def get_table_coordinate(image,scale=2):
 					if not over:
 						list_result.append([(x, y, w, h)])
 				# printImage(newimage)
-			if w > 10 and h > 10 and w > 0.7 * w1:
+			if w > 10 and h > 50 and w > 0.7 * w1:
 				skip = False
 				for box in list_big_box:
 					if IOU((x, y, w, h), box):

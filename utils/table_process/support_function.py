@@ -113,7 +113,11 @@ def add_table_text(table,rows,img,cell_infos):
                     else:
                         string = pytesseract.image_to_string(crop,config='--oem 3 --psm 6 outputbase digits')
                 else:
-                    string = pytesseract.image_to_string(crop, lang='vie')
+                    string2 = pytesseract.image_to_string(crop, lang='vie')
+                    if len(string2.strip())==0:
+                        string2 = pytesseract.image_to_string(crop, config='--oem 3 --psm 6 outputbase digits')
+                    string = string2
+
                 row_cells = table.rows[row].cells
                 p = row_cells[col].add_paragraph(string)
                 p.alignment = WD_TABLE_ALIGNMENT.CENTER
