@@ -28,11 +28,14 @@ def check_iou_with_above_cell(cell1, cell2):
 
 def get_string_from_image(box, image, rule_base, auto_correct=True):
     (x, y, w, h) = box
-    crop = image[y:y + h, x:x + w]
-    string = pytesseract.image_to_string(crop, lang='vie')
-    if auto_correct:
-        string = rule_base.correct(string)
-    cv2.rectangle(image, (x, y), (x + w, y + h), 255, 1)
+    if (x+w)<=image.shape[1] and (y+h)<=image.shape[0]:
+        crop = image[y:y + h, x:x + w]
+        string = pytesseract.image_to_string(crop, lang='vie')
+        if auto_correct:
+            string = rule_base.correct(string)
+        # cv2.rectangle(image, (x, y), (x + w, y + h), 255, 1)
+    else:
+        string = ""
     return string
 
 
@@ -52,7 +55,7 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
         # string = pytesseract.image_to_string(img, lang='vie')
         # if auto_correct:
         # 	string = rule_base.correct(string)
-        result.append(string + "\n")
+        result = result + string + "\n"
         return result
 	## if have table
     big_box_temp = []

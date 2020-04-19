@@ -7,15 +7,18 @@ import os
 
 def get_string_from_image(box, image, rule_base, auto_correct=True,scale=2):
     (x, y, w, h) = box
-    x = max(0,x-scale)
-    y = max(0,y-scale)
-    w = w + scale
-    h = h + scale
-    crop = image[y:y + h, x:x + w]
-    text = pytesseract.image_to_string(crop, lang='vie',config='--psm 7')
-    text = text.replace("\n", " ").strip()
-    if auto_correct:
-        text = rule_base.correct(text)
+    if (x + w) <= image.shape[1] and (y + h) <= image.shape[0]:
+        x = max(0,x-scale)
+        y = max(0,y-scale)
+        w = w + scale
+        h = h + scale
+        crop = image[y:y + h, x:x + w]
+        text = pytesseract.image_to_string(crop, lang='vie',config='--psm 7')
+        text = text.replace("\n", " ").strip()
+        if auto_correct:
+            text = rule_base.correct(text)
+    else:
+        text = ""
     return text
     # cv2.rectangle(image, (x, y), (x + w, y + h), 255, 1)
 
