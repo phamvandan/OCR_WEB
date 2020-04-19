@@ -90,57 +90,57 @@ def upload_file():
 			                       text_ocr=text_ocr, pdf=pdf_type(filename))
 
 
-@app.route('/upload_files', methods=['POST'])
-def upload_files():
-	if request.method == 'POST':
-		files = request.files.getlist('file')
-		if files.count == 0:
-			flash('No file selected for uploading')
-			return redirect(request.url)
-		else:
-			file_names = []
-			texts = []
-			for file in files:
-				if file and allowed_file(file.filename):
-					filename = secure_filename(file.filename)
-					path_to_file = os.path.join(
-							str(app.config['UPLOAD_FOLDER']), filename)
-					file.save(path_to_file)
-					file_names.append(filename)
-					global currentFile
-					currentFile = filename
-					name = os.path.splitext(path_to_file)[0]
-					if os.path.exists(name + '.docx'):
-						os.remove(name + '.docx')
-					# print(path_to_file)
-					ocr = OcrFile(path_to_file, True, 0, True, True, True)
-					text = ocr.run()
-					# text = ocr_file(path_to_file, True, True, 0, True)
-					text_ocr = text
-					text = text.lower()
-					global url
-					text = re.sub('"', '', text).strip()
-					text = re.sub('\'', '', text).strip()
-					text = re.sub(r'\\', '', text).strip()
-					# text = re.sub('\\','',text).strip()
-					text = re.sub(r'\n', ' ', text).strip()
-					text = re.sub(r'\r', ' ', text).strip()
-					text = re.sub(r'\t', ' ', text).strip()
-					text = re.sub('$', '', text).strip()
-					# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
-					payload = "{\n\t\"content\":\"" + text + "\"\n}"
-					headers = {
-						'content-type': "application/json",
-						'cache-control': "no-cache",
-						'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
-					}
-					response = requests.request("POST", url + filename,
-					                            data=payload.encode('utf-8'),
-					                            headers=headers)
-					texts.append(text_ocr)
-			return render_template('showFiles.html', file_names=file_names,
-			                       text_ocr=texts, count=len(file_names),
-			                       pdf=pdf_types(file_names))
+# @app.route('/upload_files', methods=['POST'])
+# def upload_files():
+# 	if request.method == 'POST':
+# 		files = request.files.getlist('file')
+# 		if files.count == 0:
+# 			flash('No file selected for uploading')
+# 			return redirect(request.url)
+# 		else:
+# 			file_names = []
+# 			texts = []
+# 			for file in files:
+# 				if file and allowed_file(file.filename):
+# 					filename = secure_filename(file.filename)
+# 					path_to_file = os.path.join(
+# 							str(app.config['UPLOAD_FOLDER']), filename)
+# 					file.save(path_to_file)
+# 					file_names.append(filename)
+# 					global currentFile
+# 					currentFile = filename
+# 					name = os.path.splitext(path_to_file)[0]
+# 					if os.path.exists(name + '.docx'):
+# 						os.remove(name + '.docx')
+# 					# print(path_to_file)
+# 					ocr = OcrFile(path_to_file, True, 0, True, True, True)
+# 					text = ocr.run()
+# 					# text = ocr_file(path_to_file, True, True, 0, True)
+# 					text_ocr = text
+# 					text = text.lower()
+# 					global url
+# 					text = re.sub('"', '', text).strip()
+# 					text = re.sub('\'', '', text).strip()
+# 					text = re.sub(r'\\', '', text).strip()
+# 					# text = re.sub('\\','',text).strip()
+# 					text = re.sub(r'\n', ' ', text).strip()
+# 					text = re.sub(r'\r', ' ', text).strip()
+# 					text = re.sub(r'\t', ' ', text).strip()
+# 					text = re.sub('$', '', text).strip()
+# 					# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+# 					payload = "{\n\t\"content\":\"" + text + "\"\n}"
+# 					headers = {
+# 						'content-type': "application/json",
+# 						'cache-control': "no-cache",
+# 						'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
+# 					}
+# 					response = requests.request("POST", url + filename,
+# 					                            data=payload.encode('utf-8'),
+# 					                            headers=headers)
+# 					texts.append(text_ocr)
+# 			return render_template('showFiles.html', file_names=file_names,
+# 			                       text_ocr=texts, count=len(file_names),
+# 			                       pdf=pdf_types(file_names))
 
 
 @app.route('/download_file/<filename>/<file_type>')

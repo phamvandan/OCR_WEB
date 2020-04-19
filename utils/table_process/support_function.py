@@ -103,20 +103,24 @@ def add_table_text(table,rows,img,cell_infos):
             (x,y,w,h) = cell
             crop = img[y + 1:y + h - 1, x + 1:x + w - 1]
             string = ""
-            if len(cell_infos[index1][index2])<2:
-                continue
-            (row,col) = cell_infos[index1][index2][:2]
-            if col == 0:
-                if row==0:
-                    string = pytesseract.image_to_string(crop,config='--psm 8')
+            try:
+                if len(cell_infos[index1][index2])<2:
+                    continue
+                (row,col) = cell_infos[index1][index2][:2]
+                if col == 0:
+                    if row==0:
+                        string = pytesseract.image_to_string(crop,config='--psm 8')
+                    else:
+                        string = pytesseract.image_to_string(crop,config='--oem 3 --psm 6 outputbase digits')
                 else:
-                    string = pytesseract.image_to_string(crop,config='--oem 3 --psm 6 outputbase digits')
-            else:
-                string = pytesseract.image_to_string(crop, lang='vie')
-            row_cells = table.rows[row].cells
-            p = row_cells[col].add_paragraph(string)
-            p.alignment = WD_TABLE_ALIGNMENT.CENTER
-            all_text = all_text + string + " "
+                    string = pytesseract.image_to_string(crop, lang='vie')
+                row_cells = table.rows[row].cells
+                p = row_cells[col].add_paragraph(string)
+                p.alignment = WD_TABLE_ALIGNMENT.CENTER
+                all_text = all_text + string + " "
+            except:
+                print("-----")
+                continue
     return all_text
 
 def get_table_text(rows,img,cell_infos):
