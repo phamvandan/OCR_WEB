@@ -109,6 +109,7 @@ def upload_files():
 					file_names.append(filename)
 					global currentFile
 					currentFile = filename
+					print(currentFile)
 					name = os.path.splitext(path_to_file)[0]
 					if os.path.exists(name + '.docx'):
 						os.remove(name + '.docx')

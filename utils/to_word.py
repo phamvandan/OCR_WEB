@@ -9,7 +9,7 @@ def get_string_from_image(box, image, rule_base, auto_correct=True,scale=2):
     (x, y, w, h) = box
     # print(box)
     # print(image.shape[:2])
-    if (x + w) <= image.shape[1] and (y + h) <= image.shape[0] and w>5 and h>5:
+    if (x + w) <= image.shape[1] and (y + h) <= image.shape[0] :
         x = max(0,x-scale)
         y = max(0,y-scale)
         w = w + scale

@@ -167,18 +167,21 @@ def add_box_info(original_box, box, box_info):
 ## region grouping
 def region_grouping(boxes):
     boxes_fully = []
-    stop = len(boxes) - 2
-    for index, box in enumerate(boxes):
-        box_info = []
-        if index == stop:
+    if len(boxes)>2:
+        stop = len(boxes) - 2
+        for index, box in enumerate(boxes):
+            box_info = []
+            if index == stop:
+                add_box_info(box, boxes[index + 1], box_info)
+                box_info.append(0)
+                boxes_fully.append(box_info)
+                boxes_fully.append((0, 0))
+                break
             add_box_info(box, boxes[index + 1], box_info)
-            box_info.append(0)
+            add_box_info(box, boxes[index + 2], box_info)
             boxes_fully.append(box_info)
-            boxes_fully.append((0, 0))
-            break
-        add_box_info(box, boxes[index + 1], box_info)
-        add_box_info(box, boxes[index + 2], box_info)
-        boxes_fully.append(box_info)
+    else:
+        boxes_fully.append((0, 0))
     return boxes_fully
 
 
@@ -268,8 +271,12 @@ def layout_processing(boxes, img, debug=False):
     for box in boxes:
         boxs = split_using_cv(box, img, split_thresh=1.5)
         for temp in boxs:
+            if temp[2]<5 or temp[3]<5:
+                continue
             newboxes.append(temp)
+    print("newboxes ",newboxes,"\n\n")
     boxes_info = region_grouping(newboxes)
+    print("boxes_info",boxes_info)
     # for index,box in enumerate(newboxes):
     #     (x, y, w, h) = box
     #     cv2.putText(img,str(boxes_info[index]),(x,y),cv2.FONT_HERSHEY_SIMPLEX,1,color=(0,0,255),thickness=2)
