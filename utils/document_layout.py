@@ -121,10 +121,9 @@ def region_iou(original_box, box, scale=0.9):
     center_y = y
     if (center_x > ori_x and center_x < ori_x + ori_w) or (ori_center_x > x and ori_center_x < x + w) or (
             x > ori_x and x < ori_x + ori_w) or (ori_x > x and ori_x < x + w):
-        if abs(center_x - ori_center_x) <= min(ori_h, h) * 0.5 and abs(center_y - ori_center_y) <= min(ori_h,
-                                                                                                       h):  # (ori_h + h)*scale:
+        if abs(center_x - ori_center_x) <= min(ori_h, h) * 0.5 and abs(center_y - ori_center_y) <= min(ori_h,h)*scale:  # (ori_h + h)*scale:
             return True
-        if abs(center_y - ori_center_y) <= min(ori_h, h):  # (ori_h + h)*scale:
+        if abs(center_y - ori_center_y) <= min(ori_h, h)*scale:  # (ori_h + h)*scale:
             # indent
             if x - ori_x <= 0:
                 return True
@@ -158,7 +157,7 @@ def add_box_info(original_box, box, box_info):
     # if line_iou(original_box,box):
     #     box_info.append(1)
     #     return 0
-    if region_iou(original_box, box, scale=1):
+    if region_iou(original_box, box):
         box_info.append(1)
         return 0
     box_info.append(0)
@@ -244,6 +243,8 @@ def append_and_group(region, line):
 
 def add_lines(layout):
     lines = []
+    if len(layout)==0:
+        return lines
     lines.append([layout[0]])
     for region in layout[1:]:
         skip = False

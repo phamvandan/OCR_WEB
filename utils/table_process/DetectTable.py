@@ -35,6 +35,7 @@ class DetectTable(object):
         v_dilate_img = cv2.dilate(v_erode_img, v_structure, 1)
         ## mask chua auto fill
         mask_img = h_dilate_img + v_dilate_img
+        # cv2.imwrite("mask.jpg",mask_img)
         if choose == 0:
             # cv2.imshow("mask.jpg", mask_img)
             return mask_img

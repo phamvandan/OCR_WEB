@@ -78,15 +78,11 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
             string = entry_dla(crop, document, rule_base, auto_correct)
             result = result + string # for get text
         else:
-            index = 0
             box = list_big_box.pop(0)
             rows = []
             for temp in list_result:
                 if IOU(temp[0], box):
-                    index = index + 1
                     rows.append(temp)
-                else:
-                    break
             row_coords, col_coords, thresh = determine_table_position(rows)
             cell_infos = create_cell_info(rows, row_coords, col_coords, thresh)
             row = len(row_coords) - 1
@@ -96,7 +92,6 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
             table = create_table_docx(cell_infos, row, col, document)
             string = add_table_text(table, rows, img, cell_infos)
             result = result + string
-            list_result = list_result[index:]
     document.save(doc_name)
     result = normalize_text(result)
     return result
