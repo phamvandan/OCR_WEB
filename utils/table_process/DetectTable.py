@@ -4,14 +4,13 @@ class DetectTable(object):
     def __init__(self, src_img):
         self.src_img = src_img
 
-    def run(self, choose):
+    def run(self, choose,scale_percent=50,scale=30):
         if len(self.src_img.shape) == 2:
             gray_img = self.src_img
         elif len(self.src_img.shape) == 3:
             gray_img = cv2.cvtColor(self.src_img, cv2.COLOR_BGR2GRAY)
         # print(gray_img.shape)
 
-        scale_percent = 50  # percent of original size
         width = int(gray_img.shape[1] * scale_percent / 100)
         height = int(gray_img.shape[0] * scale_percent / 100)
         dim = (width, height)
@@ -22,7 +21,7 @@ class DetectTable(object):
         # cv2.imwrite('thresh_img.jpg',thresh_img)
         h_img = thresh_img.copy()
         v_img = thresh_img.copy()
-        scale = 15
+        
         h_size = int(h_img.shape[1] / scale)
 
         h_structure = cv2.getStructuringElement(cv2.MORPH_RECT,

@@ -1,3 +1,5 @@
+import enum
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -57,7 +59,7 @@ def determine_threshold(x_val, mean, devide=4):
     return arr
 
 
-def do_split(box, arr, split_thresh=1.5):
+def do_split(box, arr, split_thresh=1):
     (x, y, w, h) = box
     split_indexes = []
     temp = x
@@ -74,7 +76,7 @@ def do_split(box, arr, split_thresh=1.5):
 
 
 ## split using opencv
-def split_using_cv(box, image, show=False, scale=4):
+def split_using_cv(box, image, show=False, scale=2, split_thresh=1):
     (x, y, w, h) = box
     # image = image[max(0, y - 1):y + h + 1, x:x + w].copy()
     image = image[y + h // 5:y + 4 * h // 5, x:x + w]
@@ -100,7 +102,7 @@ def split_using_cv(box, image, show=False, scale=4):
     for index, _ in enumerate(arr):
         arr[index][0] = arr[index][0] * scale
         arr[index][1] = arr[index][1] * scale
-    boxes = do_split(box, arr)
+    boxes = do_split(box, arr, split_thresh=split_thresh)
     if show:
         print(arr)
         cv2.imshow("crop", image)
@@ -110,18 +112,19 @@ def split_using_cv(box, image, show=False, scale=4):
 
 
 ## region IOU
-def region_iou(original_box, box):
+def region_iou(original_box, box, scale=0.9):
     (ori_x, ori_y, ori_w, ori_h) = original_box
     ori_center_x = ori_x + ori_w / 2
-    ori_center_y = ori_y + ori_h / 2
+    ori_center_y = ori_y + ori_h
     (x, y, w, h) = box
     center_x = x + w / 2
-    center_y = y + h / 2
+    center_y = y
     if (center_x > ori_x and center_x < ori_x + ori_w) or (ori_center_x > x and ori_center_x < x + w) or (
             x > ori_x and x < ori_x + ori_w) or (ori_x > x and ori_x < x + w):
-        if abs(center_x - ori_center_x) <= min(ori_h, h) and abs(center_y - ori_center_y) <= (ori_h + h):
+        if abs(center_x - ori_center_x) <= min(ori_h, h) * 0.5 and abs(center_y - ori_center_y) <= min(ori_h,
+                                                                                                       h):  # (ori_h + h)*scale:
             return True
-        if abs(center_y - ori_center_y) <= ori_h + h:
+        if abs(center_y - ori_center_y) <= min(ori_h, h):  # (ori_h + h)*scale:
             # indent
             if x - ori_x <= 0:
                 return True
@@ -143,11 +146,19 @@ def line_iou(original_box, box):
     return False
 
 
+def box_iou(large_box, small_box):
+    (x, y, w, h) = large_box
+    (a, b, c, d) = small_box
+    if x <= a and y <= b and (x + w) >= (a + c) and (y + h) >= (b + d):
+        return True
+    return False
+
+
 def add_box_info(original_box, box, box_info):
     # if line_iou(original_box,box):
     #     box_info.append(1)
     #     return 0
-    if region_iou(original_box, box):
+    if region_iou(original_box, box, scale=1):
         box_info.append(1)
         return 0
     box_info.append(0)
@@ -168,7 +179,6 @@ def region_grouping(boxes):
             break
         add_box_info(box, boxes[index + 1], box_info)
         add_box_info(box, boxes[index + 2], box_info)
-        # print(box_info)
         boxes_fully.append(box_info)
     return boxes_fully
 
@@ -189,8 +199,12 @@ def merge_region(region):
 def layout_document(box_info, boxes):
     layout = []
     mark = [0] * len(boxes)
+    merged = None
     for index, box in enumerate(boxes):
         if mark[index] == 0:
+            if merged is not None and box_iou(merged, box):
+                mark[index] = 1
+                continue
             regions = []
             regions.append(box)
             mark[index] = 1
@@ -211,6 +225,23 @@ def layout_document(box_info, boxes):
     return layout
 
 
+## xu ly truong hop chua group het
+def append_and_group(region, line):
+    (ori_x, ori_y, ori_w, ori_h) = region[0]
+    ori_center_x = ori_x + ori_w / 2
+    for index, old_region in enumerate(line):
+        (x, y, w, h) = old_region[0]
+        center_x = x + w / 2
+        if (center_x > ori_x and center_x < ori_x + ori_w) or (ori_center_x > x and ori_center_x < x + w):
+            merged = merge_region([old_region[0], region[0]])
+            line[index][0] = tuple(merged)
+            for box in region[1:]:
+                line[index].append(box)
+            return True
+    line.append(region)
+    return False
+
+
 def add_lines(layout):
     lines = []
     lines.append([layout[0]])
@@ -219,24 +250,38 @@ def add_lines(layout):
         for index, item in enumerate(lines):
             for region_item in item:
                 if line_iou(region_item[0], region[0]):
-                    lines[index].append(region)
+                    append_and_group(region, lines[index])
                     skip = True
                     break
         if skip:
             continue
         lines.append([region])
+    for index, line in enumerate(lines):
+        if len(line) > 1:
+            lines[index].sort(key=lambda x: x[0])
     return lines
 
 
-def layout_processing(boxes, img):
+def layout_processing(boxes, img, debug=False):
     newboxes = []
     for box in boxes:
-        boxs = split_using_cv(box, img)
+        boxs = split_using_cv(box, img, split_thresh=1.5)
         for temp in boxs:
             newboxes.append(temp)
     boxes_info = region_grouping(newboxes)
+    # for index,box in enumerate(newboxes):
+    #     (x, y, w, h) = box
+    #     cv2.putText(img,str(boxes_info[index]),(x,y),cv2.FONT_HERSHEY_SIMPLEX,1,color=(0,0,255),thickness=2)
+    #     cv2.rectangle(img, (x, y), (x + w, y + h), 255, 1)
+    # printImage(img)
     layout = layout_document(boxes_info, newboxes)
     lines = add_lines(layout)
+    if debug:
+        for line in lines:
+            for region in line:
+                (x, y, w, h) = region[0]
+                cv2.rectangle(img, (x, y), (x + w, y + h), (0, 0, 255), 2)
+        printImage(img)
     return lines
 
 

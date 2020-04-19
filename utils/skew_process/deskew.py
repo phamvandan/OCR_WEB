@@ -53,12 +53,12 @@ class Deskew:
 		(h, w) = img.shape[:2]
 		print(h, w)
 		(h, w) = img.shape[:2]
-		if w > 1000:
+		if w > 1200:
 			if w > 2000:
-				img = imutils.resize(img, width=1200)
+				img = imutils.resize(img, width=1400)
 			else:
-				img = imutils.resize(img, width=1000)
-		# img = remove_line(img)
+				img = imutils.resize(img, width=1200)
+		img = remove_line(img)
 
 		res = self.skew_obj.process_single_file(img)
 		angle = res['Estimated Angle']
@@ -71,6 +71,7 @@ class Deskew:
 			rot_angle = 90 + angle + self.r_angle
 
 		rotated = rotateAndScale(img, rot_angle)
+		print("angle_predicted_before=", rot_angle)
 		rotated = remove_line(rotated)
 		if rotated.shape[1]<1000:
 			rotated = imutils.resize(rotated,width=1000)
@@ -81,6 +82,7 @@ class Deskew:
 		except:
 			angle = 0
 		rot_angle = rot_angle + angle
+		print("angle_predicted=",rot_angle)
 		rotated = rotateAndScale(self.image, rot_angle)
 		return rotated, rot_angle
 

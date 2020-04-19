@@ -1,12 +1,11 @@
 import os
 
 import cv2
-import imutils
-import numpy as np
+import re
 import pytesseract
 from docx import Document
-from docx.enum.table import WD_TABLE_ALIGNMENT
-
+from utils.table_process.support_function import get_table_text,determine_table_position,\
+    add_table_text,create_table_docx,create_cell_info
 from utils.table_process.find_bb import IOU
 from utils.main import entry_dla
 
@@ -44,7 +43,7 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
         dc = Document()
         dc.save(doc_name)
     document = Document(doc_name)
-    result = []
+    result = ""
     (height, _) = img.shape[:2]
 	# if not have table
     if len(list_big_box) == 0:
@@ -74,63 +73,47 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
             if temp < 2:
                 continue
             string = entry_dla(crop, document, rule_base, auto_correct)
-            result.append(string + "\n")  # for get text
+            result = result + string # for get text
         else:
             index = 0
             box = list_big_box.pop(0)
+            rows = []
             for temp in list_result:
                 if IOU(temp[0], box):
                     index = index + 1
-                    table = document.add_table(rows=1, cols=len(temp))
-                    for i, (x, y, w, h) in enumerate(temp):
-                        crop = img[y:y + h, x:x + w]
-                        size = int(crop.shape[0] * 1.5)
-                        if size < 100:
-                            size = 100
-                        crop = imutils.resize(crop, height=size)  ##
-                        crop = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
-                        idx = (crop.flatten() < 5)
-                        temp = sum(idx[:])
-                        if temp < 2:
-                            continue
-                        string = pytesseract.image_to_string(crop, lang='vie')
-                        if auto_correct:
-                            string = rule_base.correct(string)
-                        if len(string) == 0:
-                            kernel = cv2.getStructuringElement(cv2.MORPH_RECT,
-                                                               (3, 3))
-                            crop = cv2.erode(crop, kernel, iterations=1)
-                            while size <= 200:
-                                string = pytesseract.image_to_string(crop,
-                                                                     lang='eng',
-                                                                     config='--psm 10')
-                                if ("l" in string or "I" in string) and len(
-                                        string) < 3:
-                                    string = "1"
-                                if string.isdigit() or (len(
-                                        string) >= 2 and "," not in string and "'" not in string):
-                                    break
-                                size = size + 10
-                                crop = imutils.resize(crop, height=size)
-                        string = string + " "
-                        string = string.replace("\n", " ")
-                        row_cells = table.rows[0].cells
-                        p = row_cells[i].add_paragraph(string)
-                        p.alignment = WD_TABLE_ALIGNMENT.CENTER
-                        result.append(string)  # for get text
-                    result.append("\n")  # for get text
+                    rows.append(temp)
                 else:
                     break
+            row_coords, col_coords, thresh = determine_table_position(rows)
+            cell_infos = create_cell_info(rows, row_coords, col_coords, thresh)
+            row = len(row_coords) - 1
+            col = len(col_coords) - 1
+            print("row", len(row_coords) - 1)
+            print("col", len(col_coords) - 1)
+            table = create_table_docx(cell_infos, row, col, document)
+            string = add_table_text(table, rows, img, cell_infos)
+            result = result + string
             list_result = list_result[index:]
     document.save(doc_name)
+    result = normalize_text(result)
     return result
 
+def normalize_text(text):
+    text = re.sub('  ', '', text).strip()
+    text = re.sub('"', '', text).strip()
+    text = re.sub('\'', '', text).strip()
+    text = re.sub(r'\\', '', text).strip()
+    text = re.sub(r'\n', ' ', text).strip()
+    text = re.sub(r'\r', ' ', text).strip()
+    text = re.sub(r'\t', ' ', text).strip()
+    text = re.sub('$', '', text).strip()
+    return text
 
 def get_text(list_result, list_big_box, img, rule_base, auto_correct=True):
-    result = []
+    result = ""
     (height, _) = img.shape[:2]
     if len(list_big_box) == 0:
-        result.append(pytesseract.image_to_string(img, lang='vie') + "\n")
+        result = result + pytesseract.image_to_string(img, lang='vie')
         return result
     big_box_temp = []
     list_y_coord = [0]
@@ -149,46 +132,23 @@ def get_text(list_result, list_big_box, img, rule_base, auto_correct=True):
             temp = sum(idx[:])
             if temp < 2:
                 continue
-            result.append(pytesseract.image_to_string(crop, lang='vie') + "\n")
+            result = result + pytesseract.image_to_string(crop, lang='vie')
         else:
             index = 0
             box = list_big_box.pop(0)
+            rows = []
             for temp in list_result:
                 if IOU(temp[0], box):
                     index = index + 1
-                    for (x, y, w, h) in temp:
-                        crop = img[y:y + h, x:x + w]
-                        size = int(crop.shape[0] * 1.5)
-                        if size < 100:
-                            size = 100
-                        crop = imutils.resize(crop, height=size)  ##
-                        crop = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
-                        idx = (crop.flatten() < 5)
-                        temp = sum(idx[:])
-                        if temp < 2:
-                            continue
-                        string = pytesseract.image_to_string(crop, lang='vie')
-                        if len(string) == 0:
-                            kernel = cv2.getStructuringElement(cv2.MORPH_RECT,
-                                                               (3, 3))
-                            crop = cv2.erode(crop, kernel, iterations=1)
-                            while size <= 200:
-                                string = pytesseract.image_to_string(crop,
-                                                                     lang='eng',
-                                                                     config='--psm 10')
-                                if ("l" in string or "I" in string) and len(
-                                        string) < 3:
-                                    string = "1"
-                                if string.isdigit() or (len(
-                                        string) >= 2 and "," not in string and "'" not in string):
-                                    break
-                                size = size + 10
-                                crop = imutils.resize(crop, height=size)
-                        string = string + " "
-                        string = string.replace("\n", " ")
-                        result.append(string)
-                    result.append("\n")
+                    rows.append(temp)
                 else:
                     break
+            row_coords, col_coords, thresh = determine_table_position(rows)
+            cell_infos = create_cell_info(rows, row_coords, col_coords, thresh)
+            print("row", len(row_coords) - 1)
+            print("col", len(col_coords) - 1)
+            string = get_table_text(rows, img, cell_infos)
+            result= result + string
             list_result = list_result[index:]
+    result = normalize_text(result)
     return result

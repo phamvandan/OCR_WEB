@@ -28,22 +28,20 @@ def entry_dla(img,document, rule_base, auto_correct):
     arr = np.array([box[3] for box in boxes])
     mean = np.mean(arr)
     dec = 0
-    temp = boxes
+    temp = boxes.copy()
+    limit = 30
     for index, box in enumerate(temp):
-        if box[3] > 2 * mean:
+        if box[3] > 2 * mean or box[0]<=limit or box[1]<=limit or box[2]>=width-limit or box[3]>=height-limit:
             del boxes[index - dec]
-            dec = dec - 1
-    start = time.time()
+            dec = dec + 1
     all_text = to_word(boxes, img,document,rule_base,auto_correct)
-    end = time.time()
-    print(end - start)
     return all_text
 
-import time
-if __name__ == "__main__":
-    filenames = glob.glob("./temp/*")
-    for filename in filenames:
-        if sys.argv[1] not in filename:
-            continue
-        img = cv2.imread(filename)
-        entry_dla(img)
+# import time
+# if __name__ == "__main__":
+#     filenames = glob.glob("./temp/*")
+#     for filename in filenames:
+#         if sys.argv[1] not in filename:
+#             continue
+#         img = cv2.imread(filename)
+#         entry_dla(img)

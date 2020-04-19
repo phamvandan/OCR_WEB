@@ -30,7 +30,7 @@ def get_table_coordinate(image,scale=2):
 	kernel = np.ones((3, 3), np.uint8)
 	image = cv2.dilate(image, kernel, iterations=1)
 	(h1, w1) = image.shape
-	blured = cv2.GaussianBlur(image, (11, 11), 0)
+	blured = cv2.GaussianBlur(image, (3, 3), 0)
 	canny_image = cv2.Canny(blured, 100, 250)
 	if imutils.is_cv2() or imutils.is_cv4():
 		(conts, _) = cv2.findContours(canny_image.copy(),

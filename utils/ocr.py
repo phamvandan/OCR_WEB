@@ -160,19 +160,17 @@ class OcrFile:
 		rule_base = RuleBase()
 		for i in range(0, self.number_images):
 			if not self.make_docx_file:
-				result_table = get_text(self.list_result[i],
+				self.text = get_text(self.list_result[i],
 				                        self.list_big_box[i],
 				                        self.images[i], rule_base,
 				                        self.auto_correct_mode)
 			else:
 				file_docx = os.path.splitext(self.file_path)[0]
-				result_table = get_text_layout(self.list_result[i],
+				self.text = get_text_layout(self.list_result[i],
 				                               self.list_big_box[i],
 				                               self.images[i],
 				                               file_docx + '.docx', rule_base,
 				                               self.auto_correct_mode)
-			for slice_text in result_table:
-				self.text = self.text + str(slice_text)
 		if cf.calculate_time:
 			print('Get text and make docx take ' + '{0:.2f}'.format(
 					time.time() - t))

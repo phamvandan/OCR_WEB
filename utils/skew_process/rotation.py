@@ -11,6 +11,6 @@ def rotateAndScale(img, angle , scaleFactor = 1.0):
     (tx,ty) = ((newX-oldX)/2,(newY-oldY)/2)
     M[0,2] += tx 
     M[1,2] += ty
-    rotatedImg = cv2.warpAffine(img, M, dsize=(int(newX),int(newY)),flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
+    rotatedImg = cv2.warpAffine(img, M, dsize=(int(newX),int(newY)),flags=cv2.INTER_CUBIC, borderValue=(255,255,255))
     return rotatedImg
 

@@ -68,13 +68,13 @@ def upload_file():
 			text_ocr = text
 			text = text.lower()
 			global url
-			text = re.sub('"', '', text).strip()
-			text = re.sub('\'', '', text).strip()
-			text = re.sub(r'\\', '', text).strip()
-			text = re.sub(r'\n', ' ', text).strip()
-			text = re.sub(r'\r', ' ', text).strip()
-			text = re.sub(r'\t', ' ', text).strip()
-			text = re.sub('$', '', text).strip()
+			# text = re.sub('"', '', text).strip()
+			# text = re.sub('\'', '', text).strip()
+			# text = re.sub(r'\\', '', text).strip()
+			# text = re.sub(r'\n', ' ', text).strip()
+			# text = re.sub(r'\r', ' ', text).strip()
+			# text = re.sub(r'\t', ' ', text).strip()
+			# text = re.sub('$', '', text).strip()
 			# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
 			payload = "{\n\t\"content\":\"" + text + "\"\n}"
 			headers = {
