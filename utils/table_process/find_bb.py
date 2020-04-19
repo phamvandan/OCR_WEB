@@ -45,7 +45,7 @@ def get_table_coordinate(image,scale=2):
 		# conts = sorted(conts, key=lambda ctr: cv2.boundingRect(ctr)[0] + cv2.boundingRect(ctr)[1] * image.shape[1] )
 		for i in range(len(conts)):
 			(x, y, w, h) = cv2.boundingRect(conts[i])
-			if 10 < w < 0.7 * w1 and h > 10:
+			if 10 < w and  w < 0.7 * w1 and h > 10:
 				skip = False
 				for temp in list_result:
 					for box in temp:

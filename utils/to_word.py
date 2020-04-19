@@ -4,15 +4,17 @@ from docx import Document
 from docx.enum.table import WD_TABLE_ALIGNMENT
 import os
 
-
+import cv2
 def get_string_from_image(box, image, rule_base, auto_correct=True,scale=2):
     (x, y, w, h) = box
-    if (x + w) <= image.shape[1] and (y + h) <= image.shape[0]:
+    # print(box)
+    # print(image.shape[:2])
+    if (x + w) <= image.shape[1] and (y + h) <= image.shape[0] and w>5 and h>5:
         x = max(0,x-scale)
         y = max(0,y-scale)
         w = w + scale
         h = h + scale
-        crop = image[y:y + h, x:x + w]
+        crop = image[y:min(y + h,image.shape[0]), x:min(x + w,image.shape[1])]
         text = pytesseract.image_to_string(crop, lang='vie',config='--psm 7')
         text = text.replace("\n", " ").strip()
         if auto_correct:

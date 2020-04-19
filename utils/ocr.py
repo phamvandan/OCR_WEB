@@ -148,8 +148,8 @@ class OcrFile:
 			self.mask_images.append(mask_image)
 			list_result, list_big_box = get_table_coordinate(
 					self.mask_images[i])
-			# print("list result\n",list_result)
-			# print("list big box\n",list_big_box)
+			print("list result\n",list_result)
+			print("list big box\n",list_big_box)
 			self.list_result.append(list_result)
 			self.list_big_box.append(list_big_box)
 			# self.images[i] = cv2.resize(self.images[i], (

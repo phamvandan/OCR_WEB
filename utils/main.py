@@ -19,7 +19,7 @@ def entry_dla(img,document, rule_base, auto_correct):
             # print(int(d['conf'][i]))
             (x, y, w, h) = (d['left'][i], d['top'][i], d['width'][i], d['height'][i])
             newbox = (x, y, w, h)
-            if w == width or h == height or w < h / 2:
+            if w == width or h == height or w < h / 2 or w<10 or h <10:
                 continue
             if len(boxes) > 0 and iou(boxes[-1], newbox):
                 # bigBoxes.append(boxes[-1])
