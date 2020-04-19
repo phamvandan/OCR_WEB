@@ -180,7 +180,10 @@ def region_grouping(boxes):
             add_box_info(box, boxes[index + 1], box_info)
             add_box_info(box, boxes[index + 2], box_info)
             boxes_fully.append(box_info)
-    else:
+    elif len(boxes)==2:
+        boxes_fully.append((1, 0))
+        boxes_fully.append((0, 0))
+    elif len(boxes)==1:
         boxes_fully.append((0, 0))
     return boxes_fully
 
@@ -199,6 +202,8 @@ def merge_region(region):
 
 
 def layout_document(box_info, boxes):
+    print("boxes",boxes)
+    print("box_info",box_info)
     layout = []
     mark = [0] * len(boxes)
     merged = None
