@@ -68,14 +68,7 @@ def upload_file():
 			text_ocr = text
 			text = text.lower()
 			global url
-			# text = re.sub('"', '', text).strip()
-			# text = re.sub('\'', '', text).strip()
-			# text = re.sub(r'\\', '', text).strip()
-			# text = re.sub(r'\n', ' ', text).strip()
-			# text = re.sub(r'\r', ' ', text).strip()
-			# text = re.sub(r'\t', ' ', text).strip()
-			# text = re.sub('$', '', text).strip()
-			# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
+
 			payload = "{\n\t\"content\":\"" + text + "\"\n}"
 			headers = {
 				'content-type': "application/json",
@@ -120,24 +113,16 @@ def upload_files():
 					text_ocr = text
 					text = text.lower()
 					global url
-					text = re.sub('"', '', text).strip()
-					text = re.sub('\'', '', text).strip()
-					text = re.sub(r'\\', '', text).strip()
-					# text = re.sub('\\','',text).strip()
-					text = re.sub(r'\n', ' ', text).strip()
-					text = re.sub(r'\r', ' ', text).strip()
-					text = re.sub(r'\t', ' ', text).strip()
-					text = re.sub('$', '', text).strip()
-					# payload = "{\n\t\"id\":\"" + filename + "\",\n\t\"content\":\"" + text + "\"\n}"
-					payload = "{\n\t\"content\":\"" + text + "\"\n}"
-					headers = {
-						'content-type': "application/json",
-						'cache-control': "no-cache",
-						'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
-					}
-					response = requests.request("POST", url + filename,
-					                            data=payload.encode('utf-8'),
-					                            headers=headers)
+
+					# payload = "{\n\t\"content\":\"" + text + "\"\n}"
+					# headers = {
+					# 	'content-type': "application/json",
+					# 	'cache-control': "no-cache",
+					# 	'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
+					# }
+					# response = requests.request("POST", url + filename,
+					#                             data=payload.encode('utf-8'),
+					#                             headers=headers)
 					texts.append(text_ocr)
 			return render_template('showFiles.html', file_names=file_names,
 			                       text_ocr=texts, count=len(file_names),

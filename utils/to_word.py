@@ -91,6 +91,8 @@ def to_word(boxes, image, document, rule_base, auto_correct=True):
     print("minx", min_x)
     print("maxx", max_x)
     accept_distance = (max_x - min_x) // 20
+    if accept_distance<=0:
+        accept_distance = 15
     print("accept_distance ", accept_distance)
     all_text = ""
     for index, line in enumerate(lines):
