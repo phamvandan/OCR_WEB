@@ -101,7 +101,7 @@ def add_table_text(table,rows,img,cell_infos):
     for index1,row in enumerate(rows):
         for index2,cell in enumerate(row):
             (x,y,w,h) = cell
-            crop = img[y:y + h, x:x + w]
+            crop = img[y + 1:y + h - 1, x + 1:x + w - 1]
             string = ""
             if len(cell_infos[index1][index2])<2:
                 continue
@@ -124,7 +124,7 @@ def get_table_text(rows,img,cell_infos):
     for index1, row in enumerate(rows):
         for index2, cell in enumerate(row):
             (x, y, w, h) = cell
-            crop = img[y:y + h, x:x + w]
+            crop = img[y+1:y + h-1, x+1:x + w-1]
             string = ""
             (row, col) = cell_infos[index1][index2][:2]
             if col == 0:
