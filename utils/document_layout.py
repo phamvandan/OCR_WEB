@@ -202,8 +202,8 @@ def merge_region(region):
 
 
 def layout_document(box_info, boxes):
-    print("boxes",boxes)
-    print("box_info",box_info)
+    print("boxes", len(boxes))
+    print("box_info",len(box_info))
     layout = []
     mark = [0] * len(boxes)
     merged = None
