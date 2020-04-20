@@ -93,7 +93,10 @@ def create_table_docx(cell_infos,row,col,document):
             # print(cell_position)
             a = table.cell(cell_position[0],cell_position[1])
             b = table.cell(cell_position[2], cell_position[3])
-            a.merge(b)
+            try:
+                a.merge(b)
+            except:
+                print("no merge")
     return table
 
 def add_table_text(table,rows,img,cell_infos):
