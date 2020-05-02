@@ -114,15 +114,15 @@ def upload_files():
 					text = text.lower()
 					global url
 
-					# payload = "{\n\t\"content\":\"" + text + "\"\n}"
-					# headers = {
-					# 	'content-type': "application/json",
-					# 	'cache-control': "no-cache",
-					# 	'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
-					# }
-					# response = requests.request("POST", url + filename,
-					#                             data=payload.encode('utf-8'),
-					#                             headers=headers)
+					payload = "{\n\t\"content\":\"" + text + "\"\n}"
+					headers = {
+						'content-type': "application/json",
+						'cache-control': "no-cache",
+						'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
+					}
+					response = requests.request("POST", url + filename,
+					                            data=payload.encode('utf-8'),
+					                            headers=headers)
 					texts.append(text_ocr)
 			return render_template('showFiles.html', file_names=file_names,
 			                       text_ocr=texts, count=len(file_names),
