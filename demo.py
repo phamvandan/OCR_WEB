@@ -31,6 +31,28 @@ url = ip + "/" + mac + "/" + document + "/"
 
 
 @app.route('/')
+def login():
+	return render_template('login.html')
+@app.route('/signin', methods=['POST'])
+def signin():
+	url = "http://localhost:8080/v1/login"
+	username = request.form['username']
+	password = request.form['password']
+	querystring = {"username":username,"password":password}
+
+	headers = {
+		'content-type': "application/json",
+		'cache-control': "no-cache",
+		'postman-token': "aee63246-051b-e657-4386-33dfcb3c1f98"
+		}
+	response = requests.request("POST", url, headers=headers, params=querystring)
+	print(response.text)
+	result = json.loads(response.text)
+	if result["Displayname"]=="":
+		return render_template('error.html')
+	return render_template('demoHome.html')
+
+@app.route('/home')
 def home():
 	return render_template('demoHome.html')
 

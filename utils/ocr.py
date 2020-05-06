@@ -138,7 +138,7 @@ class OcrFile:
 				self.images[i] = image_after_deskew
 		if cf.calculate_time:
 			print('Deskew take ' + '{0:.2f}'.format(time.time() - t))
-
+	## khong co viec gi kho
 	def process_table(self):
 		t = time.time()
 		for i in range(0, self.number_images):
