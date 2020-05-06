@@ -29,7 +29,7 @@ mac = 'user_1'
 document = 'document'
 ip = "http://localhost:9200"
 url = ip + "/" + mac + "/" + document + "/"
-
+login = False
 
 @app.route('/')
 def login():
@@ -51,11 +51,15 @@ def signin():
 	result = json.loads(response.text)
 	if result["Displayname"]=="":
 		return render_template('error.html')
+	login = True
 	return render_template('demoHome.html')
 
 @app.route('/home')
 def home():
-	return render_template('demoHome.html')
+	if login:
+		return render_template('demoHome.html')
+	else:
+		return render_template('login.html')
 
 
 @app.route('/UploadFile')
