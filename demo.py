@@ -8,6 +8,7 @@ from werkzeug.utils import secure_filename
 
 from utils.ocr import OcrFile
 from utils.support import add_tag
+import json
 
 app = flask.Flask(__name__)
 
