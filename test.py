@@ -1,18 +1,19 @@
-# text_ocr = ocr_file("static/demo/1.pdf", False, True, 0, True)
-# if os.path.isfile('text.txt'):
-# 	os.remove('text.txt')
-# with open('text2.txt', 'a+') as file:
-# 	file.write(text_ocr)
-# print(text_ocr)
+import requests
 
-# ocr_file_ = OcrFile("static/demo/83.pdf", False, True, 0, True)
-# text_ocr = ocr_file_.run()
-# with open('text.txt', 'a+') as file:
-# 	file.write(text_ocr)
+mac = 'user_1'
+document = 'document'
+ip = "http://localhost:9200"
+url = ip + "/" + mac + "/" + document + "/"
+filename = "x.jpg"
+text = "không có việc gì khó"
 
-import cv2
+payload = "{\n\t\"content\":\"" + text + "\"\n}"
+headers = {
+	'content-type': "application/json",
+	'cache-control': "no-cache",
+	'postman-token': "f82016cd-6767-fef2-35e8-639268c3b5b0"
+}
+response = requests.request("POST", url + filename,
+							data=payload.encode('utf-8'),
+							headers=headers)
 
-img = cv2.imread(
-	'/home/trandat/project/eDocument/OCR_WEB/static/demo/72575621_1931909776955048_8231865659613511680_o_1.jpg')
-cv2.imshow('aaa', img)
-cv2.waitKey()

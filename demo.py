@@ -67,17 +67,19 @@ def upload_file():
 			# text = ocr_file(path_to_file, True, True, 0, True)
 			text_ocr = text
 			text = text.lower()
+			text = text.replace("\n"," ")
 			global url
 
 			payload = "{\n\t\"content\":\"" + text + "\"\n}"
 			headers = {
 				'content-type': "application/json",
 				'cache-control': "no-cache",
-				'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
+				'postman-token': "f82016cd-6767-fef2-35e8-639268c3b5b0"
 			}
 			response = requests.request("POST", url + filename,
 			                            data=payload.encode('utf-8'),
 			                            headers=headers)
+			print("here here here here here here ",filename,text,url)
 			print(filename, pdf_type(filename))
 			return render_template('showFile.html', file_name=filename,
 			                       text_ocr=text_ocr, pdf=pdf_type(filename))
@@ -166,7 +168,7 @@ def search_file():
 	url_search = url + '_search'
 	querystring = {"filter_path": "hits.hits"}
 	payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{" \
-	          "\n\t\t\t\t\"query\":\"" + text.lower() + "\",\n\t\t\t\t\"fuzziness\":5\n\t\t\t}\n\t\t}\n\t}\n} "
+	          "\n\t\t\t\t\"query\":\"" + text.lower() + "\",\n\t\t\t\t\"fuzziness\":1\n\t\t\t\t}\n    \t}\n\t},\n\t\"highlight\" : {\n\t\t\"pre_tags\" : [\"<b>\"],\n\t\t\"post_tags\" : [\"</b>\"],\n        \"fields\" : {\n            \"content\":{}\n        }\n    }\n}"
 	headers = {
 		'Content-Type': "application/json",
 		'User-Agent': "PostmanRuntime/7.19.0",
@@ -196,22 +198,10 @@ def search_file():
 			print(source['_score'])
 			print(source['_id'])
 			if source['_score'] > 0:
-				# file = source['_source']
+				file = source['_source']
 				file_name = source['_id']
 				file_names.append(file_name)
-				path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']),
-				                            file_name)
-				txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
-				with open(txt_path, 'r+') as f:
-					text = f.read()
-				content = add_tag(words, text)
-				content = content.split(".")
-				rs = []
-				for t in content:
-					if "<b>" in t:
-						rs.append(t)
-				# content = list_to_string(rs)
-				content = ' '.join(rs)
+				content =source['highlight']['content']
 				contents.append(content)
 		search_result = {}
 		count = len(file_names)
