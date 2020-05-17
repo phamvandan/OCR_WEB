@@ -203,7 +203,7 @@
 
 							<!-- text -->
 							<p>
-								Hệ thống sẽ làm gì đó
+								Hệ thống tự động trích xuất văn bản
 							</p>
 
 						</div> <!-- .step-item -->
@@ -241,22 +241,41 @@
 			<div class="container">
 		        <div class="row align-items-center justify-content-between">
 		        	<div class="col-sm-12 col-lg-6 col-xl-5">
-						<form method="post" action="/upload_file" enctype="multipart/form-data" class="dropzone needsclick dz-clickable" id="demo-upload">
+<!--						<form method="post" action="/upload_file" enctype="multipart/form-data" class="dropzone needsclick dz-clickable" id="demo-upload">-->
 
-						  <div class="dz-message needsclick">
-							<button type="button" class="dz-button"
-									name="file" autocomplete="off" required
-									>Drop
-								files here or click to upload.</button><br>
-<!--							<span class="note needsclick">(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</span>-->
-<!--						  	<input type="file" name="file" autocomplete="off" required-->
-<!--                                       style="margin: auto;text-align: center;">-->
+<!--						  <div class="dz-message needsclick">-->
+<!--							<button type="button" class="dz-button"-->
+<!--									name="file" autocomplete="off" required-->
+<!--									>Drop-->
+<!--								files here or click to upload.</button><br>-->
+<!--&lt;!&ndash;							<span class="note needsclick">(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</span>&ndash;&gt;-->
+<!--&lt;!&ndash;						  	<input type="file" name="file" autocomplete="off" required&ndash;&gt;-->
+<!--&lt;!&ndash;                                       style="margin: auto;text-align: center;">&ndash;&gt;-->
 
-						  </div>
-							<button type="submit" id="button-upload"
-									value="Upload"
-									class="btn btn-primary">Submit</button>
+<!--						  </div>-->
+<!--&lt;!&ndash;						<div id="uploadzone" class="dropzone">&ndash;&gt;-->
+<!--&lt;!&ndash;							<div class="dz-message">kéo tài liệu vào đây</div>&ndash;&gt;-->
+<!--&lt;!&ndash;						</div>&ndash;&gt;-->
+<!--							<button type="button" id="button-upload"-->
+<!--									value="Upload"-->
+<!--									class="btn btn-primary">Submit</button>-->
+<!--						</form>-->
+
+						<div class="dropzone">
+						<form method="post" action="/upload_file"
+							  enctype="multipart/form-data">
+							<dl>
+								<p>
+									<input type="file" name="file" autocomplete="off" required
+                                       style="margin: auto;text-align: center;" class="btn btn-primary">
+								</p>
+							</dl>
+							<p>
+								<input type="submit" value="Upload"
+									   style="width:100%" class="btn-primary">
+							</p>
 						</form>
+						</div>
 		        		<!-- image -->
 <!--		        		<img src="../static/assets/img/image_3.png" class="img-fluid" alt="...">-->
 
@@ -270,12 +289,14 @@
 		        		<p class="subtitle"># Upload one document</p>
 
 		        		<!-- description -->
-						<p>Miêu tả hoạt động tải</p>
-						<p>Ghi ra những yêu cầu của nó</p>
+						<p>Hỗ trợ các định dạng PNG, JPG, PDF</p>
+						<p>Kích thước file tối đa 200MB</p>
 
 
 		        	</div>
 		        </div> <!-- .row -->
+
+				<div id="load_upload"></div>
 			</div> <!-- .container -->
 
 	    </section> <!-- .section_about -->
@@ -286,28 +307,27 @@
 
 	    <!-- FEATURES
 		================================================== -->
-		<section class="section section_about border-bottom border-top id="section-features">
+		<section class="section section_about border-bottom border-top" id="section-features">
 			<div class="container">
 		        <div class="row align-items-center justify-content-between">
 		        	<div class="col-sm-12 col-lg-6 col-xl-5">
-						<form method="post" action="/upload_file"
-							  enctype="multipart/form-data"
-							  class="dropzone needsclick dz-clickable" id="demo-uploads">
-
-						  <div class="dz-message needsclick">
-							<button type="button" class="dz-button"
-									name="file" autocomplete="off" required
-									>Drop
-								files here or click to upload.</button><br>
-<!--							<span class="note needsclick">(This is just a demo dropzone. Selected files are <strong>not</strong> actually uploaded.)</span>-->
-<!--						  	<input type="file" name="file" autocomplete="off" required-->
-<!--                                       style="margin: auto;text-align: center;">-->
-
-						  </div>
-							<button type="submit" id="button-uploads"
-									value="Upload"
-									class="btn btn-primary">Submit</button>
+						<div class="dropzone">
+						<form method="post" action="/upload_files"
+							  enctype="multipart/form-data">
+							<dl>
+								<p>
+									<input type="file" name="file" autocomplete="off"
+										   required multiple
+										   style="margin: auto;text-align:
+										   center;" class="btn btn-primary">
+								</p>
+							</dl>
+							<p>
+								<input type="submit" value="Upload"
+									   style="width:100%" class="btn-primary">
+							</p>
 						</form>
+						</div>
 		        		<!-- image -->
 <!--		        		<img src="../static/assets/img/image_3.png" class="img-fluid" alt="...">-->
 
@@ -321,8 +341,8 @@
 		        		<p class="subtitle"># Upload many document</p>
 
 		        		<!-- description -->
-						<p>Miêu tả hoạt động tải</p>
-						<p>Ghi ra những yêu cầu của nó</p>
+<!--						<p>Tải lên nhiều tài liệu</p>-->
+						<p>Hỗ trợ các định dạng PNG, JPG, PDF</p>
 
 
 		        	</div>
@@ -407,18 +427,8 @@
 		  function home() {
 			window.location.href = "/";
 		  }
-		  Dropzone.autoDiscover = false;
 
-		  var myDropzone = new Dropzone(".dropzone", {
-			  autoProcessQueue: false,
-			  parallelUploads: 2// Number of files process at a time (default 2)
-		  });
-		  $("#button-upload").click(function (e) {
-			  e.preventDefault();
-			  myDropzone.processQueue();
-		  });
 		  $('#btn_check').off('click').on('click', function () {
-
             $.ajax({
                 type: "POST",
                 url: '/search_file',
@@ -428,7 +438,10 @@
                 $('#load_result').html(result);
                 // $('#table').DataTable();
             })
-        })
+        	});
+
+
+
 		</script>
 	</body>
 </html>

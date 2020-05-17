@@ -31,12 +31,14 @@
                 {% for i in range(0,count) %}
                 <tr>
                     <td style="text-align: center;">{{i+1}}</td>
-                    <td style="text-align: center;">{{filenames[i]}}</td>
+                    <td style="text-align: center;"><a style="color: #0b75c9"
+                            href="/view_origin/{{filenames[i]}}">{{filenames
+                        [i]}}</a></td>
                         <td style="padding-left: 10px;text-align: justify;padding-right: 10px;"><p
                                 style="color: black;">{{contents[i]|safe}}
                             <p></td>
-                        <td><a href="/view_origin/{{filenames[i]}}"><input type="button" value="View Origin File"/></a>
-                        </td>
+<!--                        <td><a href="/view_origin/{{filenames[i]}}"><input type="button" value="View Origin File"/></a>-->
+<!--                        </td>-->
                     </tr>
                     {% endfor %}
                 </tbody>
