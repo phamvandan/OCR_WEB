@@ -102,191 +102,191 @@
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<!-- Required meta tags -->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!-- Plugins CSS -->
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
-		<link rel="stylesheet" href="../static/assets/plugins/flickity/flickity.min.css">
-		<link rel="stylesheet" href="../static/assets/plugins/fullpagejs/dist/fullpage.min.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/assets/plugins/flickity/flickity.min.css">
+    <link rel="stylesheet" href="../static/assets/plugins/fullpagejs/dist/fullpage.min.css">
 
-		<!-- Theme CSS -->
-		<link rel="stylesheet" href="../static/assets/css/flexpack.min.css">
-		<link rel="stylesheet"
-			  href="../static/dropzone-5.7.0/dist/dropzone.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="../static/assets/css/flexpack.min.css">
+    <link rel="stylesheet"
+          href="../static/dropzone-5.7.0/dist/dropzone.css">
 
-		<title>eDocMan-Hệ thống quản lý tài liệu điện tử</title>
-	</head>
-	<body data-spy="scroll" data-target=".navbar">
+    <title>eDocMan-Hệ thống quản lý tài liệu điện tử</title>
+</head>
+<body data-spy="scroll" data-target=".navbar">
 
-		<!-- NAVBAR
-		================================================== -->
-		<!-- Navbar
-		================================================== -->
+<!-- NAVBAR
+================================================== -->
+<!-- Navbar
+================================================== -->
 
-		<nav class="navbar navbar-app navbar-expand-lg navbar-light fixed-top">
+<nav class="navbar navbar-app navbar-expand-lg navbar-light fixed-top">
 
-			<div class="container">
+    <div class="container">
 
-				<!-- Brand Logo -->
-				<a class="navbar-brand logo mr-5" href="#">
-					<i class="fas fa-caret-right"></i> eDocMan
-				</a>
+        <!-- Brand Logo -->
+        <a class="navbar-brand logo mr-5" href="#">
+            <i class="fas fa-caret-right"></i> eDocMan
+        </a>
 
-				<!-- Toggle -->
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
+        <!-- Toggle -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-				<!-- Links -->
-				<div class="collapse navbar-collapse" id="navbarNav">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item">
-							<a class="nav-link active" href="/home#">
-								<i class="fas fa-caret-right"></i> Trang chủ
-							</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/home#section-upload">
-								<i class="fas fa-caret-right"></i> Tải lên tài
-								liệu
-							</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="/home#section-features">
-								<i class="fas fa-caret-right"></i> Tải lên
-								nhiều tài liệu
-							</a>
-						</li>
-
-						<li class="nav-item">
-							<a class="nav-link" href="/home#section-pricing">
-								<i class="fas fa-caret-right"></i> Tìm kiếm
-							</a>
-						</li>
-
-					</ul>
-
-					<form class="form-inline mb-4 mb-md-0">
-
-						<!-- button -->
-						<button class="btn btn-default" type="button"> Đăng nhập
-						</button>
-
-					</form>
-
-				</div>
-			</div> <!-- .container -->
-
-		</nav>
-
-		<!-- PRELOADER
-		================================================== -->
-		<div id="preloader">
-			<div id="status">
-				<div class="sk-spinner sk-spinner-double-bounce">
-					<div class="sk-double-bounce1"></div>
-					<div class="sk-double-bounce2"></div>
-				</div>
-			</div>
-		</div>
-
-		<!-- BACK TO TOP BUTTON
-		================================================== -->
-		<a id="back-to-top" href="#page-top" class="link-social link-social-circle mb-0" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
-
-			<!-- icon -->
-			<i class="fas fa-arrow-up"></i>
-
-		</a>
-
-
-		<!-- HOME
-		================================================== -->
-		<section class="section section_home section-top section-full" id="page-top">
-
-			<!-- background image -->
-			<div class="bg-cover">
-				<img src="../static/assets/img/home_bg.svg" alt="...">
-			</div>
-			<div class="row" style="width:100%;height: 100%;margin-left: 20%;">
-                    <p style="padding-left: 20px;">
-                        {{file_name}}
-                    </p>
-                    <a href="/download_file_origin/{{file_name}}" target="blank" style="padding-left: 20px;">
-                        <input type="button" value="Downdload Origin File" class="btn btn-primary"/>
+        <!-- Links -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" href="/home#">
+                        <i class="fas fa-caret-right"></i> Trang chủ
                     </a>
-                    <a href="/download_file/{{file_name}}/docx" target="blank"
-					   style="padding-left: 20px;" >
-						<input type="button" value="Downdload docx file" class="btn btn-primary"/>
-					</a>
-					<a href="/download_file/{{file_name}}/txt" target="blank"
-					   style="padding-left: 20px;" >
-						<input type="button" value="Downdload txt file" class="btn btn-primary"/>
-					</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/home#section-upload">
+                        <i class="fas fa-caret-right"></i> Tải lên tài
+                        liệu
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/home#section-features">
+                        <i class="fas fa-caret-right"></i> Tải lên
+                        nhiều tài liệu
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/home#section-pricing">
+                        <i class="fas fa-caret-right"></i> Tìm kiếm
+                    </a>
+                </li>
+
+            </ul>
+
+            <form class="form-inline mb-4 mb-md-0">
+
+                <!-- button -->
+                <button class="btn btn-default" type="button"> Đăng nhập
+                </button>
+
+            </form>
+
+        </div>
+    </div> <!-- .container -->
+
+</nav>
+
+<!-- PRELOADER
+================================================== -->
+<div id="preloader">
+    <div id="status">
+        <div class="sk-spinner sk-spinner-double-bounce">
+            <div class="sk-double-bounce1"></div>
+            <div class="sk-double-bounce2"></div>
+        </div>
+    </div>
+</div>
+
+<!-- BACK TO TOP BUTTON
+================================================== -->
+<a id="back-to-top" href="#page-top" class="link-social link-social-circle mb-0" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
+
+    <!-- icon -->
+    <i class="fas fa-arrow-up"></i>
+
+</a>
+
+
+<!-- HOME
+================================================== -->
+<section class="section section_home section-top section-full" id="page-top">
+
+    <!-- background image -->
+    <div class="bg-cover">
+        <img src="../static/assets/img/home_bg.svg" alt="...">
+    </div>
+    <div class="row" style="width:100%;height: 100%;margin-left: 20%;">
+        <p style="padding-left: 20px;">
+            {{file_name}}
+        </p>
+        <a href="/download_file_origin/{{file_name}}" target="blank" style="padding-left: 20px;">
+            <input type="button" value="Downdload Origin File" class="btn btn-primary"/>
+        </a>
+        <a href="/download_file/{{file_name}}/docx" target="blank"
+           style="padding-left: 20px;" >
+            <input type="button" value="Downdload docx file" class="btn btn-primary"/>
+        </a>
+        <a href="/download_file/{{file_name}}/txt" target="blank"
+           style="padding-left: 20px;" >
+            <input type="button" value="Downdload txt file" class="btn btn-primary"/>
+        </a>
+    </div>
+    <div class="container">
+
+        <div class="row" style="width:100%;height: 100%;margin-left: -0px;">
+            <div class="col-6" style="width:100%;height: 800px;background-color: rgb(92, 214, 214);padding-left: 0px;padding-right: 0px;padding-bottom: 0px;">
+                {% if pdf  %}
+                <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px"  />
+                {% else %}
+                <img src= {{ url_for('static', filename='demo/'+ file_name ) }} width="100%" height="800px" >
+                {% endif %}
+            </div>
+            <div class="col-6"
+                 style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
+                <div class="boxed"
+                     style="overflow: auto; width: 100%; float:left; height:800px; background:rgb(255, 255, 255); color:rgb(0, 0, 0)">
+                    {{text_ocr}}
                 </div>
-			<div class="container">
+            </div>
+        </div>
 
-                <div class="row" style="width:100%;height: 100%;margin-left: -0px;">
-                  <div class="col-6" style="width:100%;height: 800px;background-color: rgb(92, 214, 214);padding-left: 0px;padding-right: 0px;padding-bottom: 0px;">
-                    {% if pdf  %}
-                    <embed src= {{ url_for('static', filename='demo/'+ file_name ) }} type="application/pdf" width="100%" height="800px"  />
-                    {% else %}
-                    <img src= {{ url_for('static', filename='demo/'+ file_name ) }} width="100%" height="800px" >
-                    {% endif %}
-                  </div>
-                  <div class="col-6"
-                       style="width:100%;height: 800px;background-color: rgb(117, 160, 241);padding-top: 0px;padding-left: 0px;padding-right: 0px;">
-                      <div class="boxed"
-                           style="overflow: auto; width: 100%; float:left; height:800px; background:rgb(255, 255, 255); color:rgb(0, 0, 0)">
-                          {{text_ocr}}
-                      </div>
-                  </div>
-                </div>
+    </div> <!-- .container -->
 
-			</div> <!-- .container -->
-
-	    </section> <!-- .section -->
+</section> <!-- .section -->
 
 
 
 
 
 
-		<!-- JAVASCRIPT
-		================================================== -->
-		<!-- Global JS -->
-		<script
-		  src="https://code.jquery.com/jquery-3.3.1.min.js"
-		  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-		  crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCfwXIv2vgXzFDZRzzRH2VpbvgSzhqCCuU"></script>
+<!-- JAVASCRIPT
+================================================== -->
+<!-- Global JS -->
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCfwXIv2vgXzFDZRzzRH2VpbvgSzhqCCuU"></script>
 
-		<!-- Plugins JS -->
-		<script src="../static/assets/plugins/waypoints/lib/jquery.waypoints.min.js"></script>
-		<script src="../static/assets/plugins/flickity/flickity.pkgd.min.js"></script>
-		<script src="../static/assets/plugins/feather/feather.min.js"></script>
-		<script src="../static/assets/plugins/contact/contact.js"></script>
-		<script src="../static/assets/plugins/countTo/jquery.countTo.js"></script>
-		<script src="../static/assets/plugins/countdown/jquery.countdown.min.js"></script>
-		<script src="../static/assets/plugins/parallax/parallax.min.js"></script>
-		<script src="../static/assets/plugins/fullpagejs/vendors/scrolloverflow.min.js"></script>
-		<script src="../static/assets/plugins/fullpagejs/dist/fullpage.min.js"></script>
-	    <script type="text/javascript"  src="../static/js/Scripts/jquery-1.12.4.js"></script>
-		<script src="../static/js/Scripts/bootstrap.min.js"></script>
-		<script type="text/javascript" src="../static/js/Scripts/jquery.dataTables.min.js"></script>
-		<script type="text/javascript" src="../static/js/Scripts/dataTables.bootstrap.min.js"></script>
-		<script type="text/javascript"
-				src="../static/dropzone-5.7.0/dist/dropzone.js"></script>
-		<script type="text/javascript" src="../static/js/Scripts/docmanager.js"></script>
-		<!-- Theme JS -->
-		<script src="../static/assets/js/theme.min.js"></script>
-		<script>
+<!-- Plugins JS -->
+<script src="../static/assets/plugins/waypoints/lib/jquery.waypoints.min.js"></script>
+<script src="../static/assets/plugins/flickity/flickity.pkgd.min.js"></script>
+<script src="../static/assets/plugins/feather/feather.min.js"></script>
+<script src="../static/assets/plugins/contact/contact.js"></script>
+<script src="../static/assets/plugins/countTo/jquery.countTo.js"></script>
+<script src="../static/assets/plugins/countdown/jquery.countdown.min.js"></script>
+<script src="../static/assets/plugins/parallax/parallax.min.js"></script>
+<script src="../static/assets/plugins/fullpagejs/vendors/scrolloverflow.min.js"></script>
+<script src="../static/assets/plugins/fullpagejs/dist/fullpage.min.js"></script>
+<script type="text/javascript"  src="../static/js/Scripts/jquery-1.12.4.js"></script>
+<script src="../static/js/Scripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="../static/js/Scripts/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="../static/js/Scripts/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript"
+        src="../static/dropzone-5.7.0/dist/dropzone.js"></script>
+<script type="text/javascript" src="../static/js/Scripts/docmanager.js"></script>
+<!-- Theme JS -->
+<script src="../static/assets/js/theme.min.js"></script>
+<script>
 
-		</script>
-	</body>
+</script>
+</body>
 </html>
