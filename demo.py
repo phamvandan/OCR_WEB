@@ -65,12 +65,12 @@ def home():
 
 @app.route('/UploadFile')
 def upload():
-	return render_template('demoUpload.html')
+    return render_template('demoUpload.html')
 
 
 @app.route('/UploadFiles')
 def uploads():
-	return render_template('demoUploadFiles.html')
+    return render_template('demoUploadFiles.html')
 
 
 @app.route('/upload_file', methods=['POST'])
@@ -92,21 +92,15 @@ def upload_file():
                 os.remove(name + '.docx')
             ocr = OcrFile(path_to_file, True, 0, True, True, True)
             text = ocr.run()
+            text = re.sub('"', '', text).strip()
+            text = re.sub('\'', '', text).strip()
+            text = re.sub(r'\\', '', text).strip()
+            text = re.sub(r'\n', ' ', text).strip()
+            text = re.sub(r'\r', ' ', text).strip()
+            text = re.sub(r'\t', ' ', text).strip()
+            text = re.sub('$', '', text).strip()
             # text = ocr_file(path_to_file, True, True, 0, True)
             text_ocr = text
-            text = text.lower()
-            global url
-
-            payload = "{\n\t\"content\":\"" + text + "\"\n}"
-            headers = {
-                'content-type': "application/json",
-                'cache-control': "no-cache",
-                'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
-            }
-            response = requests.request("POST", url + filename,
-                                        data=payload.encode('utf-8'),
-                                        headers=headers)
-            print('saa')
             print(filename, pdf_type(filename))
             return render_template('showFile.html', file_name=filename,
                                    text_ocr=text_ocr, pdf=pdf_type(filename))
@@ -138,21 +132,15 @@ def upload_files():
                     # print(path_to_file)
                     ocr = OcrFile(path_to_file, True, 0, True, True, True)
                     text = ocr.run()
+                    text = re.sub('"', '', text).strip()
+                    text = re.sub('\'', '', text).strip()
+                    text = re.sub(r'\\', '', text).strip()
+                    text = re.sub(r'\n', ' ', text).strip()
+                    text = re.sub(r'\r', ' ', text).strip()
+                    text = re.sub(r'\t', ' ', text).strip()
+                    text = re.sub('$', '', text).strip()
                     # text = ocr_file(path_to_file, True, True, 0, True)
-                    text_ocr = text
-                    text = text.lower()
-                    global url
-
-                    payload = "{\n\t\"content\":\"" + text + "\"\n}"
-                    headers = {
-                        'content-type': "application/json",
-                        'cache-control': "no-cache",
-                        'postman-token': "ff99f43e-4466-f28d-62dd-2a485be5ea3f"
-                    }
-                    response = requests.request("POST", url + filename,
-                                                data=payload.encode('utf-8'),
-                                                headers=headers)
-                    texts.append(text_ocr)
+                    texts.append(text)
             return render_template('showFiles.html', file_names=file_names,
                                    text_ocr=texts, count=len(file_names),
                                    pdf=pdf_types(file_names))
@@ -160,111 +148,112 @@ def upload_files():
 
 @app.route('/download_file/<filename>/<file_type>')
 def download_file(filename, file_type):
-	# print(filename)
-	# global currentFile
-	# #print("download "+str(currentFile))
-	if file_type == 'docx':
-		print('docx')
-		return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
-		                           filename=os.path.splitext(filename)[
-			                                    0] + '.docx',
-		                           as_attachment=True)
-	elif file_type == 'txt':
-		return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
-		                           filename=os.path.splitext(filename)[
-			                                    0] + '.txt',
-		                           as_attachment=True)
+    # print(filename)
+    # global currentFile
+    # #print("download "+str(currentFile))
+    if file_type == 'docx':
+        print('docx')
+        return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+                                   filename=os.path.splitext(filename)[
+                                                0] + '.docx',
+                                   as_attachment=True)
+    elif file_type == 'txt':
+        return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+                                   filename=os.path.splitext(filename)[
+                                                0] + '.txt',
+                                   as_attachment=True)
 
 @app.route('/download_file_origin/<filename>')
 def download_file_origin(filename):
-	# print(filename)
-	return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
-	                           filename=filename, as_attachment=True)
+    # print(filename)
+    return send_from_directory(directory=app.config['UPLOAD_FOLDER'],
+                               filename=filename, as_attachment=True)
 
 
 @app.route('/search')
 def search():
-	return render_template('search.html')
+    return render_template('search.html')
 
 
 @app.route('/search_file', methods=['POST'])
 def search_file():
-	text = request.form['text']
-	words = text.split(" ")
-	global url
-	url_search = url + '_search'
-	querystring = {"filter_path": "hits.hits"}
-	payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{" \
-	          "\n\t\t\t\t\"query\":\"" + text.lower() + "\",\n\t\t\t\t\"fuzziness\":1\n\t\t\t\t}\n    \t}\n\t},\n\t\"highlight\" : {\n\t\t\"pre_tags\" : [\"<b>\"],\n\t\t\"post_tags\" : [\"</b>\"],\n        \"fields\" : {\n            \"content\":{}\n        }\n    }\n}"
-	headers = {
-		'Content-Type': "application/json",
-		'User-Agent': "PostmanRuntime/7.19.0",
-		'Accept': "*/*",
-		'Cache-Control': "no-cache",
-		'Postman-Token': "957df7e3-745d-4525-be9b-db3dc88cbee5,6bd96736-35b1-4106-9dcb-c86e9dce5c31",
-		'Host': "localhost:9200",
-		'Accept-Encoding': "gzip, deflate",
-		'Content-Length': "112",
-		'Connection': "keep-alive",
-		'cache-control': "no-cache"
-	}
-	response = requests.request("POST", url_search,
-	                            data=payload.encode('utf-8'), headers=headers,
-	                            params=querystring)
-	if response.status_code == 404:
-		file_names = None
-		contents = None
-		count = 0
-	elif response.status_code == 200:
-		json_data = response.json()
-		sources = json_data['hits']['hits']
-		file_names = []
-		contents = []
-		# print(sources)
-		for i, source in enumerate(sources):
-			print(source['_score'])
-			print(source['_id'])
-			if source['_score'] > 0:
-				file = source['_source']
-				file_name = source['_id']
-				file_names.append(file_name)
-				content =source['highlight']['content']
-				contents.append(content)
-		search_result = {}
-		count = len(file_names)
-		for i in range(0, count):
-			search_result[file_names[i]] = contents[i]
-	return render_template('resultSearch.html', filenames=file_names,
-	                       contents=contents, count=count)
+    text = request.form['text']
+    words = text.split(" ")
+    global url
+    url_search = url + '_search'
+    querystring = {"filter_path": "hits.hits"}
+    payload = "{\n\t\"from\":0,\n\t\"size\":10,\n\t\"query\":{\n\t\t\"match\":{\n\t\t\t\"content\":{" \
+              "\n\t\t\t\t\"query\":\"" + text.lower() + "\",\n\t\t\t\t\"fuzziness\":1\n\t\t\t\t}\n    \t}\n\t},\n\t\"highlight\" : {\n\t\t\"pre_tags\" : [\"<b>\"],\n\t\t\"post_tags\" : [\"</b>\"],\n        \"fields\" : {\n            \"content\":{}\n        }\n    }\n}"
+    headers = {
+        'Content-Type': "application/json",
+        'User-Agent': "PostmanRuntime/7.19.0",
+        'Accept': "*/*",
+        'Cache-Control': "no-cache",
+        'Postman-Token': "957df7e3-745d-4525-be9b-db3dc88cbee5,6bd96736-35b1-4106-9dcb-c86e9dce5c31",
+        'Host': "localhost:9200",
+        'Accept-Encoding': "gzip, deflate",
+        'Content-Length': "112",
+        'Connection': "keep-alive",
+        'cache-control': "no-cache"
+    }
+    response = requests.request("POST", url_search,
+                                data=payload.encode('utf-8'), headers=headers,
+                                params=querystring)
+    if response.status_code == 404:
+        file_names = None
+        contents = None
+        count = 0
+    elif response.status_code == 200:
+        json_data = response.json()
+        sources = json_data['hits']['hits']
+        file_names = []
+        contents = []
+        # print(sources)
+        for i, source in enumerate(sources):
+            # print(source['_score'])
+            # print(source['_id'])
+            # print(source)
+            if source['_score'] > 0 and i<6:
+                file = source['_source']
+                file_name = file['filename']
+                file_names.append(file_name)
+                content =source['highlight']['content']
+                contents.append(content)
+        search_result = {}
+        count = len(file_names)
+        for i in range(0, count):
+            search_result[file_names[i]] = contents[i]
+    return render_template('resultSearch.html', filenames=file_names,
+                           contents=contents, count=count)
 
 @app.route('/view_origin/<filename>')
 def view_origin(filename):
-	path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
-	txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
-	with open(txt_path, 'r+') as f:
-		text = f.read()
-	return render_template('view_origin.html', file_name=filename,
-	                       text_ocr=text, pdf=pdf_type(filename))
+    path_to_file = os.path.join(str(app.config['UPLOAD_FOLDER']), filename)
+    txt_path = str(os.path.splitext(path_to_file)[0]) + '.txt'
+    with open(txt_path, 'r+') as f:
+        text = f.read()
+    return render_template('view_origin.html', file_name=filename,
+                           text_ocr=text, pdf=pdf_type(filename))
 
 
 def create_upload_folder():
-	if not os.path.exists(str(app.config['UPLOAD_FOLDER'])):
-		os.makedirs(str(app.config['UPLOAD_FOLDER']))
+    if not os.path.exists(str(app.config['UPLOAD_FOLDER'])):
+        os.makedirs(str(app.config['UPLOAD_FOLDER']))
 
 
 def pdf_type(filename):
-	# return filename.lower().endswith('.pdf')
-	return os.path.splitext(filename)[-1].lower() == '.pdf'
+    # return filename.lower().endswith('.pdf')
+    return os.path.splitext(filename)[-1].lower() == '.pdf'
 
 
 def pdf_types(file_names):
-	pdf = []
-	for i in range(0, len(file_names)):
-		pdf.append(os.path.splitext(file_names[i])[-1].lower() == '.pdf')
-	return pdf
+    pdf = []
+    for i in range(0, len(file_names)):
+        pdf.append(os.path.splitext(file_names[i])[-1].lower() == '.pdf')
+    return pdf
 
 
 if __name__ == "__main__":
-	create_upload_folder()
-	# app.run(host='10.42.49.111',port=80)
-	app.run(debug=app.config['DEBUG'])
+    create_upload_folder()
+    # app.run(host='10.42.49.111',port=80)
+    app.run(debug=app.config['DEBUG'])

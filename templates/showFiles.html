@@ -213,18 +213,25 @@
         src="../static/js/Scripts/docmanager.js"></script>
 <!-- Theme JS -->
 <script src="../static/assets/js/theme.min.js"></script>
+<script type="text/javascript" src="../static/js/sha256.js"></script>
 <script>
     function insert(file_name, text_ocr) {
         // var name = '#' + file_name;
         // alert($(name).text())
+        const shaObj = new jsSHA("SHA-256", "TEXT", { encoding: "UTF8"
+            	});
+				shaObj.update(file_name);
+				const hash = shaObj.getHash("B64");
+                const clean = hash.replace(/[^0-9A-Z]+/gi, "");
+                // alert(clean)
         var settings = {
-            "url": "http://127.0.0.1:9200/user_1/document/" + file_name,
+            "url": "http://127.0.0.1:9200/user_1/document/"+clean,
             "method": "POST",
             "timeout": 0,
             "headers": {
                 "Content-Type": "application/json"
             },
-            "data": JSON.stringify({"content": text_ocr}),
+            "data": JSON.stringify({"content": text_ocr,"filename":file_name}),
         };
         $.ajax(settings).done(function (response) {
             alert('đã thêm vào csdl!');
