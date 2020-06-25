@@ -87,8 +87,8 @@ def get_text_layout(list_result, list_big_box, img, doc_name, rule_base,
             cell_infos = create_cell_info(rows, row_coords, col_coords, thresh)
             row = len(row_coords) - 1
             col = len(col_coords) - 1
-            print("row", len(row_coords) - 1)
-            print("col", len(col_coords) - 1)
+            # print("row", len(row_coords) - 1)
+            # print("col", len(col_coords) - 1)
             table = create_table_docx(cell_infos, row, col, document)
             string = add_table_text(table, rows, img, cell_infos)
             result = result + string
@@ -143,8 +143,8 @@ def get_text(list_result, list_big_box, img, rule_base, auto_correct=True):
                     break
             row_coords, col_coords, thresh = determine_table_position(rows)
             cell_infos = create_cell_info(rows, row_coords, col_coords, thresh)
-            print("row", len(row_coords) - 1)
-            print("col", len(col_coords) - 1)
+            # print("row", len(row_coords) - 1)
+            # print("col", len(col_coords) - 1)
             string = get_table_text(rows, img, cell_infos)
             result= result + string
             list_result = list_result[index:]

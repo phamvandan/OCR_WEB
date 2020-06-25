@@ -1,18 +1,16 @@
-# text_ocr = ocr_file("static/demo/1.pdf", False, True, 0, True)
-# if os.path.isfile('text.txt'):
-# 	os.remove('text.txt')
-# with open('text2.txt', 'a+') as file:
-# 	file.write(text_ocr)
-# print(text_ocr)
+import numpy as np
 
-# ocr_file_ = OcrFile("static/demo/83.pdf", False, True, 0, True)
-# text_ocr = ocr_file_.run()
-# with open('text.txt', 'a+') as file:
-# 	file.write(text_ocr)
+y1_no_table = np.load('data/no_table/y1.npy')
+y2_no_table = np.load('data/no_table/y2.npy')
+y1_table = np.load('data/table/y1.npy')
+y2_table = np.load('data/table/y2.npy')
+y1_np = np.concatenate([y1_no_table, y2_no_table])
+y2_np = np.concatenate([y1_table, y2_table])
 
-import cv2
+y1_mean = round(np.mean(y1_np), 2)
+y2_mean = round(np.mean(y2_np),2)
+y1_error = round(np.std(y1_np, ddof=1),2)
+y2_error = round(np.std(y2_np, ddof=1),2)
 
-img = cv2.imread(
-	'/home/trandat/project/eDocument/OCR_WEB/static/demo/72575621_1931909776955048_8231865659613511680_o_1.jpg')
-cv2.imshow('aaa', img)
-cv2.waitKey()
+with open('data/result.txt','w+') as fw:
+	fw.write(str(y1_mean)+'\t'+str(y1_error) + '\t'+str(y2_mean)+'\t'+str(y2_error))

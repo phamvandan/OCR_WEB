@@ -1,6 +1,6 @@
 import os
 import re
-
+from waitress import serve
 import flask
 import requests
 from flask import flash, request, redirect, render_template, send_from_directory
@@ -36,31 +36,31 @@ def login():
     return render_template('login.html')
 @app.route('/signin', methods=['POST'])
 def signin():
-    url = "http://localhost:8080/v1/login"
-    username = request.form['username']
-    password = request.form['password']
-    querystring = {"username":username,"password":password}
-
-    headers = {
-        'content-type': "application/json",
-        'cache-control': "no-cache",
-        'postman-token': "aee63246-051b-e657-4386-33dfcb3c1f98"
-    }
-    response = requests.request("POST", url, headers=headers, params=querystring)
-    print(response.text)
-    result = json.loads(response.text)
-    if result["Displayname"]=="":
-        return render_template('error.html')
+    # url = "http://localhost:8080/v1/login"
+    # username = request.form['username']
+    # password = request.form['password']
+    # querystring = {"username":username,"password":password}
+    #
+    # headers = {
+    #     'content-type': "application/json",
+    #     'cache-control': "no-cache",
+    #     'postman-token': "aee63246-051b-e657-4386-33dfcb3c1f98"
+    # }
+    # response = requests.request("POST", url, headers=headers, params=querystring)
+    # print(response.text)
+    # result = json.loads(response.text)
+    # if result["Displayname"]=="":
+    #     return render_template('error.html')
     login = True
     return render_template('demoHome.html')
 
 @app.route('/home')
 def home():
-    if login:
+    # if login:
     #     return render_template('demoHome.html')
         return render_template('app.html')
-    else:
-        return render_template('login.html')
+    # else:
+        # return render_template('login.html')
 
 
 @app.route('/UploadFile')
@@ -256,4 +256,5 @@ def pdf_types(file_names):
 if __name__ == "__main__":
     create_upload_folder()
     # app.run(host='10.42.49.111',port=80)
-    app.run(debug=app.config['DEBUG'])
+    # app.run(host='0.0.0.0', debug=app.config['DEBUG'])
+    serve(app, host='0.0.0.0', port=5000)

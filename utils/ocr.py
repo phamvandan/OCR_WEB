@@ -59,7 +59,7 @@ class OcrFile:
 		elif self.extension.lower() in ['.jpg', '.png']:
 			self.type = 'image'
 			self.number_images = 1
-			print('File type : Image')
+			# print('File type : Image')
 		elif self.extension.lower() == '.docx':
 			self.type = 'docx'
 			print('File type : docx')
@@ -120,19 +120,19 @@ class OcrFile:
 			for para in doc.paragraphs:
 				full_text.append(para.text)
 			self.text = full_text
-		if save_image:
-			print(
-					'Convert to images take ' + '{0:.2f}'.format(
-							time.time() - t))
+		# if save_image:
+		# 	print(
+		# 			'Convert to images take ' + '{0:.2f}'.format(
+		# 					time.time() - t))
 
 	def deskew(self):
 		t = time.time()
 		if self.type == 'docx':
 			return
 		else:
-			print(self.number_images, len(self.images))
+			# print(self.number_images, len(self.images))
 			for i in range(0, self.number_images):
-				print(i)
+				# print(i)
 				image = numpy.array(self.images[i])
 				image_after_deskew, _ = Deskew(image).run()
 				self.images[i] = image_after_deskew
