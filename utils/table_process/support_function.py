@@ -1,7 +1,7 @@
 import cv2
 import imutils
 import pytesseract
-from docx.enum.table import WD_TABLE_ALIGNMENT
+
 
 def print_image(image):
     image = imutils.resize(image, width=500)

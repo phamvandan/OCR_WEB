@@ -82,7 +82,7 @@ class OcrFile:
 					path_to_txt = os.path.splitext(self.file_path)[0] + '.txt'
 					if os.path.isfile(str(path_to_txt)):
 						os.remove(path_to_txt)
-					with open(path_to_txt, 'w+') as f:
+					with open(path_to_txt, 'w+', encoding="utf-8") as f:
 						while True:
 							text1 = self.text
 							self.text = self.text.replace("\n\n", "\n")

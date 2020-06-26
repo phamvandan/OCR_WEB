@@ -1,10 +1,9 @@
-from utils.document_layout import layout_processing
 import pytesseract
-from docx import Document
 from docx.enum.table import WD_TABLE_ALIGNMENT
-import os
 
-import cv2
+from utils.document_layout import layout_processing
+
+
 def get_string_from_image(box, image, rule_base, auto_correct=True,scale=2):
     (x, y, w, h) = box
     # print(box)

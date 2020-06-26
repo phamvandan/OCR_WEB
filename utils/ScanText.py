@@ -1,13 +1,14 @@
 import os
-
-import cv2
 import re
+
 import pytesseract
 from docx import Document
-from utils.table_process.support_function import get_table_text,determine_table_position,\
-    add_table_text,create_table_docx,create_cell_info
-from utils.table_process.find_bb import IOU
+
 from utils.main import entry_dla
+from utils.table_process.find_bb import IOU
+from utils.table_process.support_function import get_table_text, \
+    determine_table_position, \
+    add_table_text, create_table_docx, create_cell_info
 
 
 def check_iou_with_above_row(cell1, cell2):

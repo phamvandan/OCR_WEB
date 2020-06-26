@@ -1,13 +1,10 @@
-import glob
-import cv2
-import  pytesseract
-from pytesseract import Output
-import imutils
-from utils.document_layout import iou,printImage,layout_processing
-from utils.to_word import to_word
-import sys
 import numpy as np
-from random import randint
+import pytesseract
+from pytesseract import Output
+
+from utils.document_layout import iou
+from utils.to_word import to_word
+
 
 def entry_dla(img,document, rule_base, auto_correct):
     d = pytesseract.image_to_data(img, output_type=Output.DICT)

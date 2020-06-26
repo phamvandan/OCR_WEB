@@ -1,14 +1,13 @@
 import os
 import re
-from waitress import serve
+
 import flask
 import requests
 from flask import flash, request, redirect, render_template, send_from_directory
+from waitress import serve
 from werkzeug.utils import secure_filename
 
 from utils.ocr import OcrFile
-from utils.support import add_tag
-import json
 
 app = flask.Flask(__name__)
 
@@ -36,21 +35,6 @@ def login():
     return render_template('login.html')
 @app.route('/signin', methods=['POST'])
 def signin():
-    # url = "http://localhost:8080/v1/login"
-    # username = request.form['username']
-    # password = request.form['password']
-    # querystring = {"username":username,"password":password}
-    #
-    # headers = {
-    #     'content-type': "application/json",
-    #     'cache-control': "no-cache",
-    #     'postman-token': "aee63246-051b-e657-4386-33dfcb3c1f98"
-    # }
-    # response = requests.request("POST", url, headers=headers, params=querystring)
-    # print(response.text)
-    # result = json.loads(response.text)
-    # if result["Displayname"]=="":
-    #     return render_template('error.html')
     login = True
     return render_template('demoHome.html')
 
